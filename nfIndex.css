@@ -37,7 +37,7 @@ div.imageAlt {float:right; width:35%; margin-left: auto;
 div.explanAlt{background-color:#B4D6B4; float:left; width:65%; padding:15px;}
 div.container {background-color:#B4D6B4; width:100%; }
 
-h1 {color:#AA0000; letter-spacing:1.1px; display:inline; font-size: 2.3em; text-align:center; padding: 10px}
+h1 {color:#AA0000; letter-spacing:1.1px; display:inline; font-size: 2.3em; line-height:1.2em; text-align:center; padding: 10px}
 h1 a{text-decoration:none;}
 h1 a:link:hover a:link:visited{text-decoration:underline;}
 h2 {color:#5F0000; font-family:arial, helvetica, sans-serif; font-size: 1.3em; text-align:left; 
@@ -73,7 +73,7 @@ hr { display: block; height: 1px;
     border: 0; border-top: 1px solid #AA0000;
     margin: 1em 0; padding: 0; }
     
-span.smaller {display:inline-block;; font-size:0.8em; line-height:1.2em; padding:2px}
+span.smaller {display:inline-block; font-size:0.8em; line-height:1.2em; padding:2px}
 
 span.red {color: #AA0000; font-weight:bold;}
 span.green {color: #004C00; font-weight:bold;}

@@ -92,14 +92,15 @@ span.indentMore {margin-left:5em;}
 
 span.indentEvMore {margin-left:7em}
 
+ul.top {list-style-type:disc; }
+ul.top li {padding:.3em;}
+ul.body {list-style-type: none; display:flex;  justify-content:space-around; align-items:flex-start; flex-direction:row; flex-wrap: wrap;}
 
-ul {list-style-type: none; display:flex;  justify-content:space-around; align-items:flex-start; flex-direction:row; flex-wrap: wrap;}
+ul.body li {padding-left: 10px; padding-right:10px; display:flex; justify-content:space-around; align-items:center; flex-direction:column; font-weight:bold;}
+ul.body li a {display:flex; justify-content:space-around; align-items:center; flex-direction:column; flex-wrap: wrap;}
 
-ul li {padding-left: 10px; padding-right:10px; display:flex; justify-content:space-around; align-items:center; flex-direction:column; font-weight:bold;}
-ul li a {display:flex; justify-content:space-around; align-items:center; flex-direction:column; flex-wrap: wrap;}
-
-ul li ul  {list-style-type:circle; display:flex; justify-content:space-between; align-items:flex-start; flex-direction:row; flex-wrap: wrap;}
-ul li ul li {font-size:smaller; padding:5px}
+ul.body li ul  {list-style-type:circle; display:flex; justify-content:space-between; align-items:flex-start; flex-direction:row; flex-wrap: wrap;}
+ul.body li ul li {font-size:smaller; padding:5px}
 ol li { padding: 3px}
 
 ol.d {list-style-type: lower-alpha; display: block; padding: 10px 10px 20px 20px}

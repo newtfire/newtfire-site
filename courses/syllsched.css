@@ -126,22 +126,31 @@ border: 1px solid #000066;
 padding: 7px;
 vertical-align:top;
 }
-
+ 
 
 th:nth-child(1), td:nth-child(1) {
 width:12%; text-align:center; 
 }
 
 th:nth-child(2), td:nth-child(2) {
-width:44%; 
+width:34%; 
 }
 
 th:nth-child(3), td:nth-child(3) {
-width:44%;  
+width:34%;  
+}
+th:nth-child(4), td:nth-child(4) {
+width:10%;  
+}
+th:nth-child(5), td:nth-child(5) {
+width:10%;  
 }
 td:nth-child(1) {background-color:#bad7e6/*#7E967E*/;}
 /*td:nth-child(2), td:nth-child(3) {background-color:#e1ebf0/\*#C5D3D3*\/;}*/
 }
+
+td.zoom {background-color:#e6df9a}
+
 @media print {
  body {color: #000;
  background: #fff; 

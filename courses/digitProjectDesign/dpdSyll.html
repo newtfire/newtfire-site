@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+   
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      
+      
+      <title>Syllabus: Digital Project Design</title>
+      
+      <meta name="Description" content="Supported by DIGIT at Penn State Erie, The Behrend College" />
+      
+      <meta name="keywords" content="Digital Humanities, Syllabus, XML, TEI, XSLT, XQuery, Schematron, Relax NG, SVG, digital scholarship, digital edition, electronic edition, electronic text, humanities computing, electronic editing, Beshero-Bondar" />
+      
+      <link rel="stylesheet" type="text/css" href="../syllsched.css" /><script type="text/javascript" src="../jumpingDateLinks.js">/**/</script></head>
+   
+   <body>
+      <!--#include virtual="../top.html" -->
+      
+      <h1><span class="banner">DIGIT 400: Digital Project Design</span></h1>
+      
+      
+      <div id="main">
+         
+         <div id="courseInfo">
+            
+            
+            <p><strong>Fall 2020</strong>
+               Classes meet M W F 10:10 - 11am in Kochel 77.
+               </p>
+            
+            
+            
+            <h2><a id="dateRef">Jump Down to the Schedule</a></h2>
+            
+            
+            <h2>All the Tools You Need As We Begin:</h2>
+            
+            
+            
+            <p>Download and install the following software on your own personal computer(s) on or
+               before the first day of class. These software tools are available in our campus computing
+               labs, too.
+               </p>
+            
+            
+            <ol>
+               <li><a href="https://www.oxygenxml.com/xml_editor.html" target="_blank">&lt;oXygen/&gt;</a>. 
+                  The DIGIT program has purchased a site license for this software, which
+                  is installed in Kochel 77 and the Lilley Library computers. The license also permits
+                  students enrolled in the
+                  course to install the software on their home computers (for course-related use
+                  only). When installing this on your own computers, <strong>you will need the
+                     license key</strong>, which we have posted on our course Announcements section of
+                  <a href="https://canvas.psu.edu" target="_blank">Canvas</a>.</li>
+               <li>All students require a good means of secure file transfer (SFTP) for homework
+                  assignments and projects (also available in the campus computer labs). There are
+                  several good options available. We recommend you download and install on your own
+                  computers one (or more) of the following, depending on your platform: (Feel free
+                  to experiment with these and others!) 
+                  
+                  <ul>
+                     <li><strong>Windows users:</strong> one of the following FTP clients—the functionality is
+                        similar: 
+                        
+                        <ul>
+                           <li><a href="https://filezilla-project.org/download.php?show_all=1" target="_blank">FileZilla</a>
+                              (This is our favorite client because it behaves the same way across platforms.)
+                              
+                              </li>
+                           <li><a href="http://winscp.net/eng/download.php" target="_blank">WinSCP</a> (This is one we used for a long time, since the 1990s, but we now use SSH and Filezilla
+                              more frequently.)
+                              </li>
+                           <li><a href="http://www.wm.edu/offices/it/services/software/licensedsoftware/webeditingsftp/sshsecureshell/index.php" target="_blank">SSH Secure Shell Client</a></li>
+                        </ul>
+                     </li>
+                     <li><strong>Mac users:</strong><ul>
+                           <li><a href="https://filezilla-project.org/download.php?show_all=1" target="_blank">FileZilla</a>
+                              (This is our favorite client because it behaves the same way across platforms.)
+                              
+                              </li>
+                           <li>or <a href="http://fetchsoftworks.com/fetch/" target="_blank">Fetch</a> (students
+                              may obtain free licenses at <a href="http://fetchsoftworks.com/fetch/free" target="_blank">http://fetchsoftworks.com/fetch/free</a>)
+                              
+                              </li>
+                        </ul>
+                     </li>
+                     <li><strong>Linux users:</strong> You probably don’t need to install anything,
+                        but look at how your system handles secure file transfer (SFTP).
+                        <span class="smaller">(FileZilla or other clients designed for Linux
+                           environments.)</span></li>
+                  </ul>
+               </li>
+               <li><strong>Read the <a href="index.html" target="_blank">Course Description</a></strong> and this Syllabus page to see how this course works on a day-to-day basis.
+                  </li>
+               <li>Rusty with coding? Don‘t remember anything from DIGIT 110? Don’t worry! Past students
+                  in this course
+                  who never saw anything like markup or XML code have designed projects (<a href="studentProjects.html" target="_blank">like these</a>) and even spoken about them at undergraduate conferences! You will learn to develop
+                  your own digital tools and how to manage digital projects as teamwork.
+                  </li>
+            </ol>
+            
+            Class Web Resources:
+            
+            
+            <ul>
+               <li><a href="https://newtfire.org" target="_blank">newwtFire:</a> Our project development site, where you will be publishing your projects. 
+                  </li>
+               <li><a href="https://github.com/newtfire/digitProjectDesign-Hub" target="_blank">digitProjectDesign-Hub:
+                     https://github.com/newtfire/digitProjectDesign-Hub</a> Class GitHub Repository and Issues Board
+                  </li>
+               <li><a href="http://canvas.psu.edu" target="_blank">Canvas:
+                     http://canvas.psu.edu</a> To submit homework assignments and exams, read private course announcements, access
+                  Zoom class meetings and video recordings. 
+                  </li>
+               <li><a href="explainFileNames.html" target="_blank">File Conventions for Canvas Homework Assignments</a></li>
+               <li><a href="https://newtfire.org/courses/tutorials/" target="_blank">Explanatory Guides and Exercises: Complete List</a></li>
+            </ul>
+            
+            </div>
+         
+         <div id="schedule">
+    <table><tr><th id="Week1">Week 1</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-08-24">
+            <td>
+                <h4>M 08-24</h4>
+            </td>
+            <td class="learning">Welcome! How we are mixing modes and working together in this course. 
+                Watch  <a href="https://www.youtube.com/watch?v=Xe1TZaElTAs">Clay Shirky on Love,
+                Internet Style</a> (on what lasts, and why
+                community matters in our digital worlds.). Crash course in XML in oXygen XML Editor.</td>
+            <td class="developing">XML Exercise 1: coding structure and data.</td>
+        </tr>
+        <tr id="d2020-08-26">
+            <td>
+                <h4>W 08-26</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-08-28">
+            <td>
+                <h4>F 08-28</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week2">Week 2</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-08-31">
+            <td>
+                <h4>M 08-31</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-09-02">
+            <td>
+                <h4>W 09-02</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-09-04">
+            <td>
+                <h4>F 09-04</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week3">Week 3</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-09-07">
+            <td>
+                <h4>M 09-07</h4>
+            </td>
+            <td class="learning">(Labor Day: Classes to be held) </td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-09-09">
+            <td>
+                <h4>W 09-09</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-09-11">
+            <td>
+                <h4>F 09-11</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week4">Week 4</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-09-14">
+            <td>
+                <h4>M 09-14</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-09-16">
+            <td>
+                <h4>W 09-16</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-09-18">
+            <td>
+                <h4>F 09-18</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week5">Week 5</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-09-21">
+            <td>
+                <h4>M 09-21</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-09-23">
+            <td>
+                <h4>W 09-23</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-09-25">
+            <td>
+                <h4>F 09-25</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week6">Week 6</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-09-28">
+            <td>
+                <h4>M 09-28</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-09-30">
+            <td>
+                <h4>W 09-30</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-10-02">
+            <td>
+                <h4>F 10-02</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week7">Week 7</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-10-05">
+            <td>
+                <h4>M 10-05</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-10-07">
+            <td>
+                <h4>W 10-07</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-10-09">
+            <td>
+                <h4>F 10-09</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week8">Week 8</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-10-12">
+            <td>
+                <h4>M 10-12</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-10-14">
+            <td>
+                <h4>W 10-14</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-10-16">
+            <td>
+                <h4>F 10-16</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week9">Week 9</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-10-19">
+            <td>
+                <h4>M 10-19</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-10-21">
+            <td>
+                <h4>W 10-21</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-10-23">
+            <td>
+                <h4>F 10-23</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week10">Week 10</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-10-26">
+            <td>
+                <h4>M 10-26</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-10-28">
+            <td>
+                <h4>W 10-28</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-10-30">
+            <td>
+                <h4>F 10-30</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week11">Week 11</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-11-02">
+            <td>
+                <h4>M 11-02</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-11-04">
+            <td>
+                <h4>W 11-04</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-11-06">
+            <td>
+                <h4>F 11-06</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week12">Week 12</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-11-09">
+            <td>
+                <h4>M 11-09</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-11-11">
+            <td>
+                <h4>W 11-11</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-11-13">
+            <td>
+                <h4>F 11-13</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week13">Week 13</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-11-16">
+            <td>
+                <h4>M 11-16</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-11-18">
+            <td>
+                <h4>W 11-18</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-11-20">
+            <td>
+                <h4>F 11-20</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week14">Week 14</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-11-23">
+            <td>
+                <h4>M 11-23 - F 11-27</h4>
+            </td>
+            <td class="learning"><strong>Thanksgiving Holiday: No Classes This Week</strong></td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week15">Week 15</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-11-30">
+            <td>
+                <h4>M 11-30</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-12-02">
+            <td>
+                <h4>W 12-02</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-12-04">
+            <td>
+                <h4>F 12-04</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week16">Week 16</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Due next time</em></span></th></tr>
+        <tr id="d2020-12-07">
+            <td>
+                <h4>M 12-07</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-12-09">
+            <td>
+                <h4>W 12-09</h4>
+            </td>
+            <td class="learning">...</td>
+            <td class="developing">...</td>
+        </tr>
+        <tr id="d2020-12-11">
+            <td>
+                <h4>F 12-11</h4>
+            </td>
+            <td class="learning">Last Day of Class</td>
+            <td class="developing">...</td>
+        </tr>
+    </table>
+             <table><tr><th id="Week17">Finals Week: M 12/14 - F 12/18</th><th><span class="h4"><em>Due</em></span></th></tr>
+                 
+                 <tr id="d2020-12-17">
+                     <td>
+                         <h4>H 12-17</h4>
+                     </td>
+                     <td class="developing"><strong>Projects due by 11:59pm</strong><p>Finish developing projects on newtfire, and send a post to me on GitHub to indicate your team is finished.</p></td>
+                 </tr>
+                 
+             </table>
+         </div>
+      </div>
+      
+      <hr />
+      </body>
+   </html>

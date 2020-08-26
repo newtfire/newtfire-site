@@ -43,36 +43,44 @@
                         <li>Thinking of elements and attributes working together (like file folders
                             with labels attached).</li>
                         <li><dfn>Nesting</dfn> elements that relate to each other.</li>
+                        <li>Thinking about the relationship between your markup and the source document.</li>
                     </ul></li>
                 <li>Using basic features of the &lt;oXygen/&gt; software environment.</li>
             </ol>
         </section>
         <section title="scenario">
             <h3>Scenario</h3>
-            <p>First, read this recipe for <a
-                href="http://cookit.e2bn.org/historycookbook/1496-shrewsberry-shrewsbury-cakes.html"
-                    >Shrewsbury cakes</a> from the <i>History Cookbook</i>, and pretend you are filing it with hundreds of other
-                recipes that you need to fit a set purpose, such as running an authentic historical tavern at a place like <a href="https://www.colonialwilliamsburg.org/">Colonial Williamsburg</a>. 
-                You will need to keep track of kinds and quantities of ingredients required. XML is
-                written to store information, and when we apply it to a situation with numbers and
-                units, like with coding recipes, the code we write can help make computerized
-                calculations, and help optimize searching across a collection for particular kinds
-                of ingredients. Your code might be designed to help categorize ingredients by what
-                part of the grocery store they can be found in. The challenge of the assignment is
-                to write code that helps categorize ingredients, mark necessary equipment, and
-                stages for processing, but the system you develop is up to you.</p>
+            <p>Imagine yourself as a curator of historical letters by a famous writer from a past century, and you are building a digital resource that makes this author's personal letters available to read and search for interesting kinds of information, and to help <q>bring the past to life</q> for your readers. 
+                The kinds of information you choose to mark up in XML are up to you, but think of the code you apply as <em>the basis for coding many more letters written by the same person</em>.</p>
         </section>
         <section title="step_by_step">
-            <h3>Coding the document in &lt;oXygen/&gt;</h3>
+            <h3>Choose a letter</h3>
+            <p>Choose the text of one letter linked on one of
+                the following websites (click through until you see a complete letter with a writer and a recipient), and
+                copy all relevant text into a new XML document in &lt;oXygen/&gt;. Then, mark it up in well-formed XML, using your own
+                system of tagging, as seems appropriate, to code the structure and the
+                content of the document. <strong>Important:</strong> Save and name your XML document according to the
+                <a href="explainFileNames.html">File Conventions</a> and be sure it as the proper <code>.xml</code> file extension before you upload to Courseweb!</p>
+            <h3>Options:</h3>
             <ul>
-                <li>First, highlight and copy the text of just the recipe (the list of ingredients
-                    and method), and ignore the rest of the page.</li>
+                <li>
+                    <a href="http://glc.yale.edu/harriet-jacobs-selected-writings-and-correspondence-documents">Harriet Jacobs (choose one of the letters: this is a selection of letters between people involved in Harriet Jacobs' flight from slavery and writing of her autobiography before the Civil War).</a>
+                </li>
+                
+                <li>
+                    <a href="http://law2.umkc.edu/faculty/projects/ftrials/wilde/lettersfromwilde.html">Oscar Wilde (choose one of the letters used as evidence in a famous English court trial of 1895).</a>
+                </li>
+            </ul>
+            
+            <h3>Coding the letter in &lt;oXygen/&gt;</h3>
+            <ul>
+                <li>First, highlight and copy the text of the document that is relevant for representing the historic letter you have selected. (Consider including information surrounding the letter, as well as the letter itself.)</li>
 
                 <li>Open a new XML document in &lt;oXygen/&gt;. Click on the icon at top left that
                     looks like a piece of paper with a folded corner (or go to File and New...),
                     type <code>XML</code> in the filter window, and click the <code>Create</code>
                     button to launch a new XML document.</li>
-                <li>Paste in the recipe, and begin marking it to apply <dfn>elements</dfn> and add
+                <li>Paste in the text you intend to mark up, and begin marking it to apply <dfn>elements</dfn> and add
                         <dfn>attributes</dfn>.</li>
                 <li>Tips: Watch the color of the square in the upper right corner: if it is green,
                     your code is well-formed, but if it turns <q>angry red</q>, you will know there
@@ -87,26 +95,27 @@
             </ul>
 
         </section>
+     
         <section title="suggestions">
             <h3>Curating the document: Suggestions for XML markup</h3>
             <p>Frequently the XML code we write is designed for <dfn>digital curation</dfn>, for
-                preserving and collecting resources. Usually we would not rewrite the <dfn>base
-                    text</dfn> of a recipe like this, but we would apply markup around passages, so
+                preserving and collecting resources. We would certainly not rewrite the<dfn>base
+                    text</dfn> of a writer's personal correspondence, but we would apply markup <em>around</em> passages, so
                 that our markup supplies some information in a more systematic way. For example,
                 spaces and formatting on the page tell our human eyes something about the document,
                 like how to distinguish each item on a list. That formatting information is
                     <strong>not preserved</strong> in XML, and so one of the first things we mark
-                are the structural <q>pieces</q>. What are the important parts of this recipe that
+                are the structural <q>pieces</q>. What are the important parts of this document that
                 you need to distinguish from other parts? Use XML markup to <q>tag</q> those. Then,
-                what is the important information that you can label with markup? Try not to write
-                markup that copies the same words and phrases in the text: think of categories and
-                standard units you can supply so that your markup <em>adds new value</em> to the
-                text.</p>
-         <!--   <p> Sidenote: If you are looking for some ideas for your code, you might take a look at
-                    <a href="http://forkthecookbook.com/">Fork the Cookbook</a>, a GitHub-based
-                recipe center that has worked out a system for contributors to store volumes and
-                measures, and tracking instructions. (We will be learning how to work with GitHub in
-                this class, too.)</p>-->
+                what is the important information that you can label with markup?</p>
+            <h4>Tips: </h4><ul><li>Try not to code
+                element and attributes that copy the same words and phrases in the text. think of categories, 
+                standard units, or simple identifiers you can supply so that your markup <em>adds new value</em> to the
+                text. </li>
+                <li>Try to use elements and attribute names that you imagine <em>repeating</em> if you were coding many letters in a project. Think about how to keep the coding manageable and not too complicated for others to continue.</li>
+                <li>Consider adding elements (perhaps a note with your own text inside) to annotate the document or represent some of the contextual information available with the text. 
+                How do you separate your voice, or others' voices from the original letter-writer's voice?</li></ul>
+   
             <p>There is no single way to do this exercise, but we want you to think about how you
                 nest levels of information (elements within elements), and the relationship between
                 elements and attributes in XML.</p>

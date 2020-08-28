@@ -60,6 +60,7 @@ cite.sub cite.sub::after {content: '’'}
 
 img
 {padding:5px;}
+img.screenCap{width:75%}
 
 p {display:block; padding:2px 2px 2px 2px; line-height:1.2em}
 

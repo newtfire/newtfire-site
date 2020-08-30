@@ -266,8 +266,9 @@
                      <h4>F 08-28</h4>
                      </td>
                   
-                  <td class="topic">Discussion of Pierazzo's examples. Discussion of homework, XML
-                     data and metadata. Document sources. Self-closing elements. @xml:id attributes and pointer attributes (#)
+                  <td class="topic">Discussion of Pierazzo introduction of XML. Discussion of homework, XML
+                     data and metadata. Document sources. Self-closing elements. Distinct identifiers: @xml:id attributes and pointer attributes (#): 
+                     Example with <a href="https://mapoflondon.uvic.ca/">Map of Early Modern London Project</a>
                      Introduce XML Exercise 2 (see Do before class for M 8/31)
                   </td>
                   
@@ -306,17 +307,16 @@
                      <h4>M 08-31</h4>
                      </td>
                   
-                  <td class="topic">Discussion of XML homework. Introduce class GitHub and set up
-                     accounts. Introduce Emily Dickinson projects.</td>
+                  <td class="topic">Discussion of XML homework. More explanation of how to work with
+                     distinct identifiers: @xml:id attributes and pointer attributes (#):
+                     Prosopography lists. Self-closing elements.</td>
                   
-                  <td class="doBeforeClass">Complete XML Exercise 2: Revise the code in your XML Exercise 1 to do the following: 
-                     <ul><li>First, revise the code in your XML Exercise 1: Try adding tags and attributes to help track more specific pieces of information than you marked at first.</li>
+                  <td class="doBeforeClass">Complete XML Exercise 2:  
+                     <ul><li>First, revise the code in your XML Exercise 1: Try adding tags and attributes to help track more specific pieces of information than you marked at first. Try marking people and places, for example.</li>
                         <li>Look for <q>pseudomarkup</q> to convert into markup</li>
-                        
-                
                         <li>Choose another letter in the collection from XML Exercise 1 and try to encode it the same way.</li>
-                        <li>Optional: Try making a personography or a placeography list (even a partial one)  of distinct people or places mentioned in the two letters. This can be a third file, or embedded as a section in each letter. Code this with @xml:id attributes. Then apply attributes in the body of the letters to point to the personography or placeography.</li>
-                        <li>Submit your revised letter XML and new letter XML on Canvas for XML Exercise 2.</li>
+                        <li><b>Optional:</b> Try making a <q>personography</q> or a <q>placeography</q> list (even a partial one)  of distinct people or places mentioned in the two letters. This can be a third file, or embedded as a section in each letter. Code the entries in this list to hold distinct names and any other information you wish, and give each entry an <code>@xml:id</code> attribute to hold a short distinct identifier you can use in your code. Then, apply pointer attributes (maybe <code>@who</code>, or <code>@where</code> or <code>@ptr</code> or  <code>@ref</code>) in the markup of people or places in the body of the letters to point to entries to the personography or placeography using hashtags so you do not duplicate the <code>xml:id</code>. Where the <code>xml:id</code> would be coded only once on a page or in a project like so: <code>identifier</code>, the values of pointers can be used as many times as you like, and are just preceded with a hashmark like this: <code>#identifier</code>. </li>
+                        <li>Submit your revised letter XML and new letter XML (and optional personography/placeography) on Canvas for XML Exercise 2.</li>
                      </ul></td>
                   
                   <td class="GroupA">Kochel 77 + Zoom (audio muted)</td>
@@ -333,10 +333,17 @@
                      <h4>W 09-02</h4>
                      </td>
                   
-                  <td class="topic">XML vs. HTML. Intro to GitHub markdown.</td>
+                  <td class="topic"> Introduce class GitHub and how we will interact with it. Begin
+                     setting up accounts. Students begin to join the class textEncoding-Hub. Intro
+                     to GitHub markdown.</td>
                   
-                  <td class="doBeforeClass">Finish setting up your GitHub account and create a
-                     personal repo.</td>
+                  <td class="doBeforeClass">XML Exercise 3 Mark up <q>The Ballad of Booker T.</q>: Phase 1:
+                     
+                  <ul>
+                     <li><a href="https://edu.lva.virginia.gov/docs/Ballad_of_Booker_trans.pdf">Source text for the poem</a> (copy and paste into an XML document). You do not need to represent the page layout of this source, but include any details you find relevant.</li>
+                     <li><a href="https://edu.lva.virginia.gov/online_classroom/shaping_the_constitution/doc/ballad#:~:text=The%20Ballad%20of%20Booker%20T.%2C%20by%20Langston%20Hughes%2C%20June,Cotton%20States%20and%20International%20Exposition.">Read and refer to this introduction</a> for details and context about the poem. Look for ways to include some of these details in your XML markup.</li>
+                     <li><a href="https://edu.lva.virginia.gov/docs/hires/Ballad_of_Booker_T.pdf">Signed final draft photofacsimile</a></li>
+                  </ul></td>
                   
                   <td class="GroupA zoom">Zoom remotely</td>
                   
@@ -352,12 +359,12 @@
                      <h4>F 09-04</h4>
                      </td>
                   
-                  <td class="topic">Explore markdown and GitHub Pages; Issue <b>Take-Home Test
-                     1</b></td>
+                  <td class="topic">Markup vs. markdown. Explore GitHub markdown for writing issues,
+                     including code-blocks. Clone the textEncoding-Hub to your local computer.</td>
                   
-                  <td class="doBeforeClass">
-                     Set up GitHub Pages on your personal repo
-                  </td>
+                  <td class="doBeforeClass">Create a GitHub account and request to join the
+                     textEncoding-Hub. <!--Finish setting up your GitHub account and create a personal
+                     repo.  Set up GitHub Pages on your personal repo--> </td>
                   
                   <td class="GroupA">Kochel 77 + Zoom (audio muted)</td>
                   
@@ -391,11 +398,10 @@
                      </td>
                   
                   <td class="topic">When XML gets in the way: Overlapping hierarchies problem:
-                     exhibited with "Ozymandias"</td>
+                     exhibited with "Ozymandias". Emily Dickinson projects and reading interfaces
+                     for encoded documents: Introduce discussion on textEncoding-Hub.</td>
                   
-                  <td class="doBeforeClass">Respond to Dickinson project analysis discussion on <a
-                        href="https://github.com/newtfire/textEncoding-Hub">textEncoding-Hub</a>.
-                     Complete <b>Take-Home Test 1</b>.</td>
+                  <td class="doBeforeClass"></td>
                   
                   <td class="GroupA zoom">Zoom remotely</td>
                   
@@ -414,8 +420,8 @@
                   <td class="topic">Discuss markup issues. Look at Shelley-Godwin Archive and
                         <i>Frankenstein</i></td>
                   
-                  <td class="doBeforeClass">XML Exercise 3: how to encode something hard to model in
-                     code</td>
+                  <td class="doBeforeClass">Respond to Dickinson project analysis discussion on <a
+                        href="https://github.com/newtfire/textEncoding-Hub">textEncoding-Hub</a>. </td>
                   
                   <td class="GroupA">Kochel 77 + Zoom (audio muted)</td>
                   
@@ -431,11 +437,12 @@
                      <h4>F 09-11</h4>
                      </td>
                   
-                  <td class="topic">Validity vs. Well-formedness. Introducing the TEI </td>
+                  <td class="topic">Validity vs. Well-formedness. Introduce the TEI community and
+                     shared schema. Designing your own schema. Issue <b>Take-Home Test 1</b>.</td>
           
                   
-                  <td class="doBeforeClass">Shelley-Godwin Archive ms markup exercise: what can you see, how does it the
-                     fit the code?</td>
+                  <td class="doBeforeClass">Shelley-Godwin Archive ms markup exercise: what can you
+                     see, how does it the fit the code? </td>
                   
                   <td class="GroupA zoom">Zoom remotely</td>
                   
@@ -470,7 +477,8 @@
                   
                   <td class="topic">Validity for a project: what is a schema? Writing a Relax NG schema</td>
                   
-                  <td class="doBeforeClass">Read <a href="../tutorials/explainRNG.html">Intro to Relax NG</a></td>
+                  <td class="doBeforeClass">Complete <b>Take-Home Test 1</b>. Read <a
+                        href="../tutorials/explainRNG.html">Intro to Relax NG</a></td>
                   
                   <td class="GroupA">Kochel 77 + Zoom (audio muted)</td>
                   

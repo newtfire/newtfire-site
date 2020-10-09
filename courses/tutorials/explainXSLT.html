@@ -241,15 +241,14 @@
          rules, to sit at different levels of our stylesheet. Here’s how we wrote it:
       </p>
       			
-      			
       <pre>
          		&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="xs math"
+    exclude-result-prefixes="xs"
     xmlns="http://www.w3.org/1999/xhtml" version="3.0"
     xpath-default-namespace="http://www.tei-c.org/ns/1.0"&gt;
-    &lt;xsl:output method="xhtml" indent="yes" doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"/&gt;
+    &lt;xsl:output method="xml" omit-xml-declaration="yes" doctype-system="about:legacy-compat"/&gt;
    <span class="code"> &lt;xsl:template match="/"&gt;</span>
         &lt;html&gt;
             &lt;head&gt;

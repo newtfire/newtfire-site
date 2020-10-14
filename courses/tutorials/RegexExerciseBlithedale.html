@@ -43,7 +43,7 @@
                 love--with--Priscilla! </q>). In Real Life we might want to mark those parts up
             eventually and reintroduce them into the XML as metadata, but for this assignment we’ll
             just delete everything that isn’t part of the text of the novel.</li>
-           <li>Prepare a Step File: open a <strong>new, separate text file</strong>, in which you will record each step you take in up-converting this document to XML. This needs to be a plain text (<code>*.txt</code>) or markdown (<code>*.md</code>) file and not something you write in a word processor (<em>not</em> a Microsoft Word document) so you do not have to struggle with autocorrections of the regex patterns you are recording. In this file you will record each step you take and paste in the patterns you apply in the Find and Replace windows in &lt;oXygen/&gt;. (Save your Step file following our standard homework filenaming conventions for homework submitted on Courseweb.)
+           <li>Prepare a Step File: open a <strong>new, separate text file</strong>, in which you will record each step you take in up-converting this document to XML. This needs to be a plain text (<code>*.txt</code>) or markdown (<code>*.md</code>) file and not something you write in a word processor (<em>not</em> a Microsoft Word document) so you do not have to struggle with autocorrections of the regex patterns you are recording. In this file you will record each step you take and paste in the patterns you apply in the Find and Replace windows in &lt;oXygen/&gt;. (Save your Step file following our standard homework filenaming conventions for homework submitted on Canvas.)
        </li>
        </ul>
        <h3>Overview of the conversion process</h3>
@@ -53,10 +53,11 @@
        <ol>
            <li>Start your record each of your steps in a markdown file, that you save as `.md`. Record your steps like this, using tic marks to wrap the regular expressions you use:
                <pre>
-                  1. First I looked for blah blah...
+                  First I looked for blah blah...
                      Find: `&amp;`
                      Replace `&amp;amp;`
-                  2. Then I tried to blah blah... 
+                     
+                  Then I tried to blah blah... 
                </pre>
            </li>
            <li><a href="#reserv">Search and replace reserved characters</a>: <code>&amp;</code>, <code>&lt;</code>, <code>&gt;</code></li>
@@ -104,7 +105,7 @@
            (Make sure you have a root element, and do anything that only needs to be marked once by you.) 
            </li>
            <li><a href="#check">Check if your work is well-formed XML</a>: Save the file as XML with a <code>.xml</code> file extension. Close it and re-open it in oXygen and make sure it is well-formed. </li>
-           <li><a href="#submit">Submit your work</a>: We need to see your Markdown file where you recorded your steps, and you may also submit the XML file you created on Courseweb. </li>
+           <li><a href="#submit">Submit your work</a>: We need to see your Markdown file where you recorded your steps, and you may also submit the XML file you created on Canvas. </li>
        </ol>
         <h3>Step by step</h3>
         <p>There’s more than one way to accomplish this task, but one way to approach the problem is

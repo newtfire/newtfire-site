@@ -279,19 +279,17 @@
             talk about situations where you <em>should</em> use
             <code>&lt;xsl:for-each&gt;</code>.</li>
          <li>You may notice that two or three of your output bulleted list items show multiple related organization names squished together. This is because our editors occasionally provided more than one name used for an organization. Our standing rule is that the most definitive <code>orgName</code> be listed <em>first</em> in the list of names, so we recommend that you tidy up your list by selecting just the very first available orgName, that is, the first element child named <code>orgName</code> of <code>org</code> elements you are processing. Alternatively, you may try applying an XPath <code>string-join()</code> function to output the entries, but you will need to use <code>xsl:value-of</code> instead of <code>xsl:apply-templates</code> because we need to use <code>xsl:value-of</code> to calculate the results of functions (which removes us from the XML tree). Either approach is fine with us, and you would use the same <code>@select</code> attribute to indicate what you would like to output.</li>
-         <li><em>Before submitting your homework, you must run the transformation at home</em> to
-            make sure the results are what you expect them to be. Remember, there’s a guide to running
-            XSLT transformations inside &lt;oXygen/&gt; in our <a href="explainXSLT.html">Intro to XSLT tutorial</a>. If you don’t get
-            the results you expect and can’t figure out what you’re doing wrong, remember that you can post a query to our <a href="https://github.com/ebeshero/DHClass-Hub/issues">DHClass-Hub Issues board</a>. You can’t just ask for the answer,
+         <li>If you don’t get
+            the results you expect and can’t figure out what you’re doing wrong, remember that you can post a query to our <a href="https://github.com/newtfire/digitProjectDesign-Hub/issues">digitProjectDesign-Hub Issues board</a>. You can’t just ask for the answer,
             though; you need to describe what you tried, what you expected, what you got, and
-            what you think the problem is. We often find, just as we’re preparing to post our
+            what you think the problem is. You may also wish to practice the We often find, just as we’re preparing to post our
             own queries to coding discussion boards, that having to write up a description
-            of the problem helps us think it through and solve it ourselves. We’re also
+            of the problem helps us think it through and solve it ourselves, and the technical term for this is <a href="https://rubberduckdebugging.com/">rubber duck debugging</a>. Beyond just being patient rubber ducks, though, we’re also
             encouraging you to discuss the homework on the discussion boards because that’s also
             helpful for the person who responds. Answering someone else’s
             inquiry and troubleshooting someone else’s problem often helps us clarify matters for
             ourselves!</li>
-         <li>When you complete this assignment, submit your XSLT file and your output HTML file to Courseweb, following our usual homework file-naming conventions.</li>
+         <li>When you complete this assignment, submit your XSLT file and your output HTML file to Canvas. You can bundle these in a zip file, following our usual homework file-naming conventions for the zip directory.</li>
       </ul>
       
      				

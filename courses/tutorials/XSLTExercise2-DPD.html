@@ -43,12 +43,6 @@
       </section>
      <section id="guidance">
         <h3>Guide to writing the XSLT</h3>
-        
-        
-     </section> 
-      
-      
-      <h3>Guide to Approaching the Problem</h3>
       <p>Our XSLT transformation has four template rules:</p>
       <ol>
          <li>We have a template rule for the <strong>document node</strong> (<code>&lt;xsl:template
@@ -62,13 +56,13 @@
          <li>We wrote a new, separate template rule that matches the <code>&lt;album&gt;</code> elements (holding the album titles), and it will be invoked as a result of the preceding <code>&lt;xsl:apply-templates&gt;</code> instruction which selects the discography portion of the document, and
             will fire once for each <code>&lt;album&gt;</code> element in the XML file. Inside that template rule we create a new list item
             (<code>&lt;li&gt;</code>) for the particular <code>&lt;album&gt;</code> being processed and use <code>&lt;xsl:apply-templates&gt; to process whatever it inside (here, just the text nodes of the <code>&lt;album&gt;</code> elements.</code></li>
-         <li>We have a separate template rule that matches the <code>&lt;member&gt;</code> elements, and this rule is designed to create a set of HTML elements every time XSLT parsing engine visits a <code>&lt;member&gt;</code> element.
+         <li>We have a separate template rule that matches the <code>&lt;member&gt;</code> elements, and this rule is designed to create a set of HTML elements every time XSLT parsing engine encounters a <code>&lt;member&gt;</code> element in the XML it is processing.
             <ol><li>Our code sets a self-closing <code>&lt;img/&gt;</code> element in place as the first element to output inside this template rule, and we used <a href="https://dh.obdurodon.org/avt.xhtml">ATVs (attribute value templates)</a> to supply a value for its all-important <code>@src</code> attribute as well as for its <code>@alt</code> attribute.</li>
                <li>We created an HTML <code>&lt;h3&gt;</code> element and an unordered list (together with list items) for the Korean name and Stage name of each member.</li>
                <li>And we created an HTML <code>&lt;h3&gt;</code> element and set up an ordered list, and selected the &lt;role&gt; element to process. We will write a new template rule to process the elements inside <code>&lt;role&gt;</code> since the number of positions each band member takes varies considerably.</li>   
          </ol>
          </li>
-         <li>Finally, our last template rule matches on <code>&lt;position&gt;</code> elements and outputs these as list items to populate the ordered list we creatd of roles for a band member.</li>
+         <li>Finally, our last template rule matches on <code>&lt;position&gt;</code> elements and outputs these as list items to populate the ordered list we created of roles for a band member.</li>
       </ol>
      
       <h3>Important</h3>

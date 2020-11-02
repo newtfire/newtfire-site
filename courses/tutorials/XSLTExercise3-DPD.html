@@ -6,7 +6,7 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
       <link rel="stylesheet" type="text/css" href="explain.css" />
-      <title>XSLT Exercise 2</title>
+      <title>XSLT Exercise 3</title>
    </head>
    
    
@@ -15,9 +15,17 @@
       <!--#include virtual="top.html" -->
       		
       			
-      <h1><span class="banner">XSLT Exercise 2</span></h1>
+      <h1><span class="banner">XSLT Exercise 3</span></h1>
     <section id="overview">  <h3>Overview of the Assignment</h3>
-      <p>The <a href="http://kpop.newtfire.org">Fall 2020 KPop project team</a> has coded Korean pop music group membership information in XML that we will be outputting in HTML using XSLT. This exercise will help orient you to the way we set up XSLT to output HTML, and to write XSLT template rules that follow the source document’s nested hierarchy. The XML file, which profiles the Korean pop group Seventeen, is available here: <a href="https://newtfire.org/courses/tutorials/Seventeen_Profile.xml">https://newtfire.org/courses/tutorials/Seventeen_Profile.xml</a>. You should right-click on this link, download the file, and open it in &lt;oXygen/&gt; (or you can pull it in locally from the digitProjectDesign-Hub where it is in Class Examples > XSLT > KPop).</p>
+       <p>The <a href="http://recipe.newtfire.org/">Fall 2020 Historic Recipes project team</a> is coding recipes to investigate spice trade ingredients, and their code gives us a good opportunity to experiment with pulling ingredient data with XSLT to output in the format of an HTML table. 
+This exercise will help orient you to the code for an HTML table to organize project data.</p>
+       <ul><li>Here is the <strong>source XML file</strong>, a recipe for Phyllo Bundles: <a href="PhylloBundles.xml">PhylloBundles.xml</a>. You should right-click on this link, download the file, and open it in &lt;oXygen/&gt;. <span class="smaller">Don’t be concerned about the red schema warning on the file: you are just missing the Relax NG schema. If you want the file with its schema, you can pull them in locally from the digitProjectDesign-Hub where it is in Class Examples > XSLT > historicRecipes.</span> </li>
+          <li>Here is a view of our unstyled target output in HTML: <a href="recipeTable.html">recipeTable.html</a>. You may wish to add some CSS styling to improve the appearance.</li> 
+       </ul>
+
+While we think most of the XPath involved will be pretty straightforward, there be at least one challenging : to try to locate with XPath the steps in the recipe that mention a given ingredient. 
+
+to write XSLT template rules that follow the source document’s nested hierarchy. The XML file, which profiles the Korean pop group Seventeen, is available here: <a href="https://newtfire.org/courses/tutorials/Seventeen_Profile.xml">https://newtfire.org/courses/tutorials/Seventeen_Profile.xml</a>. You should right-click on this link, download the file, and open it in &lt;oXygen/&gt; (or you can pull it in locally from the digitProjectDesign-Hub where it is in Class Examples > XSLT > KPop).</p>
       <p>Open the XML file in oXygen and study its structure. Our goal in this assignment is to extract information about the group and its members from XML elements into HTML in a way that shows you how XSLT template rules work over all the elements they match on the source XML tree. Here is <a href="../tutorials/Seventeen.html">a view of the HTML output</a> we want to produce with XSLT. And here is a code view <a href="https://github.com/newtfire/digitProjectDesign-Hub/blob/master/Class-Examples/XSLT/KPop/Seventeen.htm">of the page source on GitHub</a>.</p>
 
       <p>Now study our sample output HTML code. We used HTML unordered and ordered lists to output data about the group's discography and about each of the members. Each list is wrapped in either an <code>&lt;ul&gt;</code> (unordered list) or <code>&lt;ol&gt;</code> (ordered list), and the only elements permitted inside are list items or <code>&lt;li&gt;</code> elements. We also used <code>&lt;section&gt;</code> elements together wtih <code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code>, and <code>&lt;h3&gt;</code> elements for distinct levels of headings and subheadings following the structure of information: <code>&lt;h1&gt;</code> (heading 1) for the group name at the top of the page, <code>&lt;h2&gt;</code> for the sections on the page. And we used <code>&lt;img&gt;</code> elements with their required attributes to pull in image data coded in the source XML. We set a somewhat arbitrary <code>@width</code> attribute value of 200 to prevent the images from overwhelming the page.</p>

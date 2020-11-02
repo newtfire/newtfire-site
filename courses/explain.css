@@ -29,6 +29,12 @@ div.explan{background-color:#3F4F3F; float:right; width:60%; padding:15px;}
     margin-right: auto; padding:15px;}
 div.explanAlt{background-color:#B4D6B4; float:left; width:65%; padding:15px;}
 div.container {background-color:#B4D6B4; width:100%; }
+.codeContainFlex {display:flex; flex-direction: row; justify-content:space-between; min-width: 0}
+.codeContainFlex table {flex: 1;}
+/* 2020-11-01 ebb Trying to control pre within flex containers, we need to set the min-width to 0: https://stackoverflow.com/questions/32035406/how-to-limit-pre-tag-width-inside-flex-container */
+.codeContainFlex pre {flex: 1; min-width:0;}
+
+
 img#frontispiece {max-width:5000px; width:100%}
 
 h1 {color:#5F0000/*#AA0000*/; letter-spacing:1.1px; display:inline; font-size: 2.3em; text-align:center; padding: 10px; line-height:1.12}
@@ -75,8 +81,8 @@ span.purple {color:#6600FF; font-weight:bold;}
 span.code {color:#AA0000; font-weight:bold; width: 60%; margin:auto;}
 code {color:#AA0000; font-weight:bold; width: 60%; margin:auto; font-family: arial, helvetica, sans-serif; }
 
-pre {background-color: #9EA9B9; color:#000; border:1px navy dashed; padding:10px; line-height:1.5em; margin:auto; font-family: arial, helvetica, sans-serif; }
-div.code {background-color: #9EA9B9; color:#000; border:1px navy dashed; padding:10px; line-height:1.5em; width:60%; margin:auto;}
+pre {background-color: #b8ccd6 /* #9EA9B9*/; color:#000; border:1px navy dashed; padding:10px; line-height:1.5em; margin:auto; font-family: arial, helvetica, sans-serif; }
+div.code {background-color: #b8ccd6 /*#9EA9B9*/; color:#000; border:1px navy dashed; padding:10px; line-height:1.5em; width:60%; margin:auto;}
 span.badCode {color:#5F0000; background-color: #FFD6D6; width: 60%; margin:auto;  }
 
 div.badCode {background-color: #FFD6D6; border:1px red dashed; padding:10px; line-height:1.5em; width:60%; margin:auto; }
@@ -116,7 +122,7 @@ vertical-align:top;
 }
 th {border-collapse: collapse;
 border: 1px solid  #000066;
-background-color: #7E967E;
+background-color: #bad7e6; /*#7E967E;*/
 padding: 1px;
 vertical-align:middle;}
 }

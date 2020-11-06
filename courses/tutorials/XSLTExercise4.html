@@ -15,14 +15,14 @@
         <!--#include virtual="topAuthorDJB.html" -->
         <h1><span class="banner">XSLT Exercise 4: Styling Skyrim</span></h1>
        <section id="input_text"> <h3>The input text</h3>
-        <p>In this exercise, we work with an XML file originally coded by a Pitt student for a project on the Skyrim legends based on the video game. The XML code is available at <a href="skyrim.xml">http://dh.newtfire.org/skyrim.xml</a>. You should
+        <p>In this exercise, we work with an XML file originally coded by a Pitt student for a project on the Skyrim legends based on the video game. The XML code is available at <a href="skyrim.xml">http://newtfire.org/courses/tutorials/skyrim.xml</a>. You should
             right-click on this link, download the file, and open it in &lt;oXygen/&gt;.
             (You don’t need the Relax NG schema, but if you’d like to look at it and associate it with the file, it’s available at
-            <a href="skyrim.rnc">http://dh.newtfire.org/skyrim.rnc</a>).</p></section>
+            <a href="skyrim.rnc">https://newtfire.org/courses/tutorials/skyrim.rnc</a>).</p></section>
        <section id="xslt_root"> <h3>The usual housekeeping:</h3>
         <p>Because this document is not in a namespace, we do not need the
             <code>@xpath-default-namespace</code> attribute, and the only thing we need to add
-            to &lt;oXygen&gt;’s default XSLT stylesheet template. We also add our usual
+            to &lt;oXygen&gt;’s default XSLT stylesheet template is the <code>@xmlns</code> attribute pointing to the HTML namespace. We also add our usual
             <code>&lt;xsl:output&gt;</code> line that we use when producing HTML (for making
             sure we produce valid HTML 5 in XHTML format). Here’s what we need:</p>
         <pre>

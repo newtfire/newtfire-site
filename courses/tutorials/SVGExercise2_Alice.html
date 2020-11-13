@@ -63,7 +63,7 @@
         <p>Our solution uses <em>global variables</em> (variables that are defined once for the
             entire stylesheet) as well as variables that have different values for each chapter in
             the book (that is, for each dot in the graph). We worked with variables already in the XSLT Exercises
-            <a href="http://dh.newtfire.org/XSLTExercise5.html">5</a> and <a href="http://dh.newtfire.org/XSLTExercise6.html">6</a>, but for a review, see <a
+            <a href="XSLTExercise5.html">5</a> and <a href="XSLTExercise6.html">6</a>, but for a review, see <a
                 href="https://www.w3schools.com/xml/ref_xsl_el_variable.asp">https://www.w3schools.com/xml/ref_xsl_el_variable.asp</a> or look them up in the Michael Kay book. What is new here is that 
             we are going to use multiple variables, and most of these will help us to generate the number values we need to plot our SVG graph.</p>
         <p>As an example of a global variable, the amount of space between chapters on the X axis
@@ -111,7 +111,7 @@
         <h3>Writing the XSLT</h3>
         <p>Writing SVG with XSLT almost always involves using the <q>pull</q> approach, which selects for just the bits of data you need from your source XML file. It always helps to look at an example file to get started, and we have prepared one that will help show you how we plotted an X and Y axis and worked with XPath to make some estimates for how big our plot would be: See <a href="https://raw.githubusercontent.com/ebeshero/DHClass-Hub/master/Class-Examples/SVG/Undertale/Starter_waterfallSettingChoices-to-SVG.xsl">this example starter XSLT file</a> from the Fall 2019 course’s Undertale project. (It may help to open this in oXygen and read my comments, while you're preparing this assignment.)</p>  
            
-            <p>We've usually presumed for this plot that you'd want to spread the chapters of Allice along the X axis, and plot the number of times Alice speaks to up up the Y axis. But you should feel free to flip this around and plot it the way we did the Undertale graph in class. (This is up to you.)</p>
+            <p>We've usually presumed for this plot that you'd want to spread the chapters of <i>Alice</i> along the X axis, and plot the number of times Alice speaks to up up the Y axis. But you should feel free to flip this around and plot it the way we did the Undertale graph in class. (This is up to you.)</p>
         <p>After you create the SVG superstructure, plot the X and Y axes, and add some labels to the plot, you
             can draw the dots, the lines between dots, and the labels on the X (or Y) axis in one of two ways:</p>
         <ul>

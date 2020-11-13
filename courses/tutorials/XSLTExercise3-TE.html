@@ -1,0 +1,172 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" type="text/css" href="explain.css" />
+        <title>XSLT Exercise 3 (TE): A Reading View</title>
+    </head>
+
+
+
+    <body>
+        <!--#include virtual="top.html" -->        
+        <h1><span class="banner">XSLT Exercise 3: A Reading View</span></h1>
+        <section id="input_text">
+            <h3>The input text</h3>
+            <p>In this exercise, we work with an XML file in progress produced by Fall 2020 DIGIT 110 students working on a collection of poems titled <i>Montage of a Dream Deferred</i> by Langston Hughes. The XML code is available at
+                <a href="montageCode.xml">https://newtfire.org/courses/tutorials/montageCode</a>. You
+                should right-click on this link, download the file, and open it in &lt;oXygen/&gt;.
+                (You don’t need the Relax NG schema, but if you’d like to look at it and associate
+                it with the file, it’s available at <a href="MontageofADreamDeferred.rnc">https://newtfire.org/courses/tutorials/MontageofADreamDeferred.rnc</a>). 
+                Here is <a href="montageReadingView.html">a view of some sample output for this assignment</a>, though we have not captured all the formatting features marked in the source XML. We expect you can do a better job than we did!</p>
+            
+        </section>
+        <section id="xslt_root">
+            <h3>The usual housekeeping:</h3>
+            <p>Because this document is not in a namespace, we do not need the
+                    <code>@xpath-default-namespace</code> attribute, and the only thing we need to
+                add to &lt;oXygen&gt;’s default XSLT stylesheet template is the <code>@xmlns</code>
+                attribute pointing to the HTML namespace. We also add our usual
+                    <code>&lt;xsl:output&gt;</code> line that we use when producing HTML (for making
+                sure we produce valid HTML 5 in XHTML format). Here’s what we need:</p>
+            <pre>
+          &lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="xs math"
+    <span style="color:blue;">xmlns="http://www.w3.org/1999/xhtml" version="3.0"</span>&gt;
+    <span style="color:purple;">&lt;xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
+        omit-xml-declaration="yes"/&gt;</span></pre>
+        </section>
+        <section id="overview">
+            <h3>Overview of the assignment</h3>
+            <p>We will be preparing HTML reading view styled for the web, based on the original XML
+                document. We’re going to work with the <code>&lt;poem&gt;</code> elements,
+                and work out ways to transform them into block and inline HTML elements for display on the web. Elements of note for our transformation include the following:</p>
+                <ul><li>The Montage team has marked out elements to signal spacing with <code>&lt;stanza&gt;</code> holding groups of lines.</li>
+                    <li>They have numbered the lines of each poem with an <code>@n</code> attribute on <code>&lt;line&gt;</code> elements.</li> 
+                    <li>And they have indicated with <code>&lt;format&gt;</code> elements and their associated attributes some display information about italics (with <code>@wordType="italics"</code>) and indentation (with <code>@margin="ind1"</code>).</li></ul>
+                
+            <p>To render these poems in HTML, it will help to orient ourselves to HTML <dfn>block</dfn> elements, and there are several choices that may make sense for this assignment. Block elements always start on a new line, so they are appropriate for formatting stanzas as well as lines inside them. w3xchools provides <a href="https://www.w3schools.com/html/html_blocks.asp">a helpful list of block elements</a> available in HTML 5.</p>
+            
+            <p>For formatting <em>within</em> lines of poetry, we will want to work with <dfn>inline</dfn> HTML elements, which do not start on a new line but are meant to be part of a flow of text within a block. For example, we can output <dfn>inline</dfn> HTML code for emphasis (<code>em</code>) that will render in italics, or to output line numbers in a distinctive color and style. (We recommend outputting an HTML <code>span</code> element with a <code>@class</code> attribute to help make these available for CSS styling. Read more about these HTML elements and how you can use them for styling here: <a
+                href="explainHTMLSpanClass.html">Using <code>&lt;span&gt;</code> and
+                <code>@class</code> to style your HTML</a> page.)</p>
+            
+            <p>The <code>&lt;format&gt;</code> holds attributes and a range of values indicating things like italics, underlining, circling in the source document. Those <code>&lt;format&gt;</code> elements can appear in a few different places, not just inside <code>&lt;line&gt;</code> elements but also inside <code>title</code>, <code>poemTitle</code> elements and elsewhere. You may not know at the outset which ones
+                can be inside which other ones, or how many different attributes they hold, or how deeply they can nest. Happily, with XSLT, unlike with many other programming languages, you don’t need to care about those questions!</p>
+        </section>
+        <section id="processMixedContent">
+            <h3>How to process mixed content</h3>
+            <p>Though the Montage source XML is carefully structured, it nevertheless contains format code that is flexibly worked in at various levels, and it is likely as the team continues working, they will apply tagging within the lines of poetry to mark words or phrases of interest, generating mixed content. XSLT was designed to work efficiently with such flexibility and variation as tagging that appears at different levels of the same document. With a traditional procedural programming language, you’d have to write rules like <q>inside this
+                    poemTitle, if there’s a <code>&lt;format wordType="italics"&gt;</code> do X, and, oh, by the
+                way, check whether there’s a <code>&lt;format wordType="italics&gt;</code>  inside the <code>&lt;poemTitlet&gt;</code> or even nested inside another <code>&lt;format&gt;</code> element, etc.</q> That is, most programming languages have to tell you what to look for
+                at every step. The elegance of XSLT when dealing with this type of data is that all you have to say inside paragraphs and other elements is, <q>I’m not worried about what I'll find here; just process (apply templates to) all my children, whatever they might be.</q></p>
+            <p>The way to deal with mixed content in XSLT is to have a template rule for every
+                element and use it to output whatever HTML markup you want for that element and
+                then, inside that markup, to include a general
+                    <code>&lt;xsl:apply-templates/&gt;</code>, not specifying a <code>@select</code>
+                attribute. For example, if you want your <code>&lt;format wordType="italics&gt;</code> to be
+                tagged with the HTML <code>&lt;em&gt;</code> tag, which means <q>emphasis</q> and which is usually rendered in italics, you could have a template
+                rule like:</p>
+            <pre>&lt;xsl:template match="format[@wordType='italics']"&gt;
+  &lt;em&gt;
+      &lt;xsl:apply-templates/&gt;
+  &lt;/em&gt;
+&lt;/xsl:template&gt;</pre>
+            <p>You don’t know or care whether <code>&lt;format wordType="italics"&gt;</code> has any child nodes
+                or, if it does, what they are. Whatever they are, this rule tells the system to try
+                to process them, and as long as there’s a template rule for them, they’ll get taken
+                care of properly somewhere else in the stylesheet. If there are no child nodes, the
+                    <code>&lt;xsl:apply-templates/&gt;</code> will apply harmlessly (as there will
+                be nothing to process). As long as every element tells you to process its children,
+                you’ll work your way down through the hierarchy of the poems without having to
+                know which elements can contain which other elements or text nodes.</p>
+        </section>
+        <section id="select_att">
+            <h3>Taking stock: when to use <code>@select</code></h3>
+            <p>In the previous XSLT assignment, where you built HTML lists from XML code, you used <code>&lt;xsl:apply-templates select="…"/&gt;</code>, specifying
+                exactly what part of the source XML tree you wanted to process where. That makes sense when your input contains a lot more than you want to want to output and when you are processing the tree <em>selectively</em>. <em>Use
+                    the <code>@select</code> attribute when you know exactly what you’re looking for
+                    and where you want to put it.</em></p>
+            <p>In this assignment, on the other hand, you don’t know (and don’t need to know) the
+                order and nesting hierarchy of whatever mixed content you might find within a poem or its subelements. You just want to process
+                whatever comes up whenever it comes up. <code>&lt;xsl:apply-templates/&gt;</code>
+                without the <code>@select</code> attribute says <q>apply templates to whatever you
+                    find.</q>
+                <em>The upshot: Omit the <code>@select</code> attribute when you are processing lots
+                    of different mixed up alternatives and you do not need to rearrange them.</em>
+                (You can still treat them all differently because you’ll have different template
+                rules to <q>match</q> them, but when you assert that they should be processed, you
+                don’t have to know which ones they actually are.)</p>
+        </section>
+        <section id="stylingOutput">
+            <h3>Styling your output: HTML and CSS</h3>
+            <p>HTML provides a limited number of elements for styling in-line text, which you can
+                read about at <a href="http://www.w3schools.com/html/html_formatting.asp"
+                    >http://www.w3schools.com/html/html_formatting.asp</a>. You can use any of these
+                in your output, but note that presentational elements, the kind that describe how
+                text looks (e.g., <code>&lt;i&gt;</code> for <q>italic</q>), are generally regarded
+                as less useful than descriptive tags, which describe what text means (e.g.,
+                    <code>&lt;em&gt;</code> for <q>emphasis</q>). Both of the preceding are normally
+                rendered in italics in the browser, but the semantic tag is more consistent with the
+                spirit of XML than the presentational one.</p>
+            <p>The web would be a dull world if the only styling available were the handful of
+                presentational tags available in vanilla HTML. In addition to those options, there
+                are also ways to assign arbitrary style to a snippet of in-line text, changing fonts
+                or colors or other features in mid-stream. To do that:</p>
+            <ol>
+                <li>Before you read any further in this page, read our <a
+                            href="explainHTMLSpanClass.html">Using <code>&lt;span&gt;</code> and
+                                <code>@class</code> to style your HTML</a> page.</li>
+                <li>To use the strategies described at that page, create an XSLT template rule
+                        that transforms the element you want to style to an HTML
+                            <code>&lt;span&gt;</code> element with a <code>@class</code> attribute.
+                        For example, you might want to output the line numbers coded in the source document as <code>@n</code> on the element <code>line</code>. So in a template rule that matches on <code>line</code> elements, set down a <code>&lt;span class="LineNum"&gt;</code> (or something that makes sense to use to signal line numbers) in the output HTML, and inside it apply-templates to select the value of the <code>@n</code>(exactly where you want it to be). You can then specify CSS styling by reference to the
+                            <code>@class</code> attribute, as described in the page we link to above.</li>
+                    
+   <li>Setting the <code>@class</code> attributes in the output HTML makes it
+                        possible to style the various <code>&lt;span&gt;</code> elements differently
+                        according to the value of those attributes, but you need to create a CSS
+                        stylesheet to do that. Create the stylesheet (just as you‘ve created CSS in
+                        the past), and specify how you want to style your <code>&lt;span&gt;</code>
+                        elements. Link the CSS stylesheet to the HTML you are outputting by creating
+                        the appropriate <code>&lt;link&gt;</code> element in your output HTML (you
+                        can remind yourself how to do that here <a
+                            href="https://newtfire.org/courses/tutorials/explainCSS.html#link_CSS">in this section
+                            of our Intro to CSS</a>). You should set that <code>&lt;link&gt;</code>
+                        element in your XSLT so it is always output every time you update your
+                        code.</li>
+            </ol>
+
+        </section>
+        <section id="finishingUp">
+            <h3>When the smoke clears</h3>
+            <p>What you should produce, then, is:</p>
+            <ul>
+                <li>An XSLT stylesheet that transforms the <code>&lt;body&gt;</code> element and its
+                    contents into HTML.</li>
+                <li>The resulting HTML should hold a variety of block and inline elements to help format the poems for display on the page.
+                    Suggestions: <ul><li>Try the HTML <code>section</code> element with a <code>@class="poem"</code>to section off the poems, and maybe try stanza sections with <code>&lt;section class="stanza"&gt;</code>.</li>
+                        <li>For lines, you could try the block <code>div</code> element, or experiment with HTML list elements. (You can <a href="https://www.w3schools.com/howto/howto_css_list_without_bullets.asp">write CSS to suppress the bullets in an unordered list</a>, for example).</li>
+                        <li>You will want some inline elements using  <code>&lt;span&gt;</code>
+                            elements with the <code>@class</code> attribute for line numbers and other formatting.</li>
+                        <li>You need to create a CSS file, linked to your output HTML, that specifies how to
+                            style the output document. You can look up the most useful of the available CSS
+                            properties at <a href="http://www.w3schools.com/css/"
+                                >http://www.w3schools.com/css/</a>. We’d suggesting following the links on
+                            the left under <q>CSS styling</q> for styling backgrounds, text, and fonts, as
+                            well as the link for borders under <q>CSS box model</q>.</li>
+                        <li>Taking on indentation may be tricky, but you can do it with CSS styling for <code>padding-left:</code> properties. Here are <a href="https://www.w3schools.com/cssref/pr_padding-left.asp">some helpful examples</a>.</li>
+                        <li><strong>Remember! Always, always save your output as you are working and re-open it in &lt;oXygen/&gt; to be sure it is coming out well formed and valid HTML.</strong> If it is not valid HTML you will see many errors signalling a problem. For example, you cannot put HTML <code>ol</code> or <code>ul</code> or <code>div</code> elements inside a <code>p</code> element, so you will need to come up with another configuration. You may, however, nest some HTML block elements, as in putting <code>section</code> elements outside an <code>h3</code> heading element, and either <code>div</code> or <code>ul</code>. Test your combinations to make sure they are valid HTML, and test your CSS by viewing your files locally in a web browser. (Use <code>Command + O</code> on Mac or <code>Control + O</code> on Windows to open your HTML file (with its associated CSS) to preview it in a web browser to see how it looks. You can also use the Output preview in &lt;oXygen/&gt;, but that view will not show you a) whether the document is well-formed and valid, and b) will not be able to display as much styling.</li>
+                    </ul>
+                </li>
+            </ul>
+            <p>To submit the assignment, please upload your XSLT, HTML, and CSS files to Canvas. Remember to link your CSS to
+                the HTML file, and ideally, do so in your XSLT document, so it will appear in your output HTML.</p>
+          
+        </section>
+    </body>
+</html>

@@ -61,8 +61,8 @@
         <section id="processMixedContent">
             <h3>How to process mixed content</h3>
             <p>Though the Montage source XML is carefully structured, it nevertheless contains format code that is flexibly worked in at various levels, and it is likely as the team continues working, they will apply tagging within the lines of poetry to mark words or phrases of interest, generating mixed content. XSLT was designed to work efficiently with such flexibility and variation as tagging that appears at different levels of the same document. With a traditional procedural programming language, you’d have to write rules like <q>inside this
-                    poemTitle, if there’s a <code>&lt;format wordType="italics"&gt;</code> do X, and, oh, by the
-                way, check whether there’s a <code>&lt;format wordType="italics&gt;</code>  inside the <code>&lt;poemTitlet&gt;</code> or even nested inside another <code>&lt;format&gt;</code> element, etc.</q> That is, most programming languages have to tell you what to look for
+                    <code>poemTitle</code>, if there’s a <code>&lt;format wordType="italics"&gt;</code> do X, and, oh, by the
+                way, check whether there’s a <code>&lt;format wordType="italics&gt;</code>  inside the <code>&lt;poemTitle&gt;</code> or even nested inside another <code>&lt;format&gt;</code> element, etc.</q> That is, most programming languages have to tell you what to look for
                 at every step. The elegance of XSLT when dealing with this type of data is that all you have to say inside paragraphs and other elements is, <q>I’m not worried about what I'll find here; just process (apply templates to) all my children, whatever they might be.</q></p>
             <p>The way to deal with mixed content in XSLT is to have a template rule for every
                 element and use it to output whatever HTML markup you want for that element and

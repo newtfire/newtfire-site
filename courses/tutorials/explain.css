@@ -10,6 +10,9 @@ div#top {width:100%; background-color:#bad7e6/*#bdb3b3*//*#D9E9D9*/; padding:5px
 border-bottom-right-radius: 45px;}
 div#bannerImage {float:left}
 div#bannerImage img {width:150px}
+
+div#svg1 {max-width:700px;}
+div#svg1 img {width:65%; height: 65%;}
 div#title{font-size:30px; font-weight:bold; color:#FF0000;}
 div#title a { text-decoration:none;}
 div.boilerplate span {text-indent:5px;

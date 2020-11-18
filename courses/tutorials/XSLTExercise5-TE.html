@@ -1,0 +1,90 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   
+   	
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <link rel="stylesheet" type="text/css" href="explain.css" />
+      <style>img#dracula {width:12%; float:left; padding:1.75em;}</style>
+      <title>XSLT Exercise 5 (TE)</title>
+   </head>
+   
+   
+   
+   <body>
+      <!--#include virtual="top.html" -->
+      		
+      	
+      <h1><span class="banner">XSLT Exercise 5: Internal Links for Dracula</span></h1>
+      <img id="dracula" src="../tutorials/dracula.gif" alt="dracula graphic"/>	
+    <section id="overview"> 
+       
+       <h3>Overview of the Assignment</h3>
+       <p>For your last assignment you used the XSLT @mode attribute to create a table of contents for the chapters in the <i>Dracula</i> novel. Our output for that previous assignment is at <a href="../tutorials/Dracula-output/Dracula.html">https://newtfire.org/courses/tutorials/Dracula-output/Dracula.html</a></p>
+       <p>This assignment builds on the previous one, so you can take your stylesheet for that assignment and modify it for this one. In this assignment you will first (if needed) make repairs to your XSLT code so that it generates valid, well-formed HTML with a table rows (one table row for each chapter). Then you will be adding tagging that you need to make internal links from the chapter headings in the table of contents down to the chapter headings. In case you need it, here is <strong><a href="../tutorials/Dracula.xml">our source XML file for <i>Dracula</i></a></strong> (which you should right-click to download, save, and open in &lt;oXygen/&gt;.</p>
+       <p>For this assignment we’re going to enhance our output from the last assignment in the following ways:</p>
+       <ul>
+          <li>We’re going to create links between the chapter headings in the table of contents to the chapters in the reading view, so that you can click on a poem’s identifying information and be taken immediately to the
+             corresponding chapter.</li>
+          <li>We’re going to link <em>back</em> from the chapter headings in the reading view to the top of the document.</li>
+          <li>We’re going to apply a function to alphabetize our outputs of locations and tech from each chapter displayed in our table of contents.</li>
+          
+       </ul>
+       <p>Our output for this assignment, with its linked table of contents, looks <strong><a href="../tutorials/Dracula-output/Dracula-linkedTOC.html">like this</a></strong>.</p>
+       
+    </section>
+    <section id="linking">  
+       <h3>How to make internal links</h3>
+      <p>To create internal links between the chapter headings in the table of contents and the chapters in the reading view below, we’re going to use <dfn>attribute value
+            templates</dfn> (AVT). We have been working with these in earlier XSLT assignments, but you may want to review Obdurodon’s page on how they are written:
+         <a href="http://dh.obdurodon.org/avt.xhtml">http://dh.obdurodon.org/avt.xhtml</a>.</p>
+      <p>The <code>&lt;li&gt;</code> items in the table of contents should include
+         <code>&lt;a&gt;</code> (<q>anchor</q>) elements, which is how HTML identifies a
+         clickable link. An anchor that is a clickable link has an <code>@href</code> attribute,
+         which points to the target to which you want to move when you click on the link. For
+         example, the table of contents might contain the following list item for Chapter VII:</p>
+      <code>&lt;td&gt;&lt;a href="#C7"&gt;CHAPTER VII&lt;/a&gt;&lt;/td&gt;</code> 
+            
+      <p>HTML <code>&lt;a&gt;</code> elements that have <code>@href</code> attributes normally
+         appear blue and underlined in the web browser, to advertise that they are links. The
+         <dfn>target</dfn> of a link can be any element that has an <code>@id</code>
+         attribute that identifies it uniquely. (This is why you need to use a hashtag (<code>#</code>) in the <code>@href</code> on the Table of Contents that links to an <code>@id</code>, because the <code>#</code> indicates you are pointing to the unique identifier that follows.) If you click on this line in the browser, the
+         window will scroll to the element elsewhere in the document that has an <code>@id</code>
+         attribute with the value <q>#C7</q>. In our case, we’ve assigned that
+         <code>@id</code> attribute value to the <code>&lt;h2&gt;</code> for that chapter in
+         the main body:</p>
+      <pre>&lt;h2 id="C7"&gt;CHAPTER VII&lt;/h2&gt;</pre>
+      <h3>Adding links to your output</h3>
+      <p>You should first review Obdurodon’s page on <a href="http://dh.obdurodon.org/avt.xhtml">Attribute value templates
+         (AVT)</a>, which describes a strategy you can use to create a unique <code>@id</code>
+         attribute for each chapter. For this task we gave our chapters <code>@id</code> values
+         that were a concatenation of the letter <q>C</q> and their count (counting the <code>preceding-sibling::</code> chapter elements and adding 1 like we did in a previous XSLT assignment). 
+         We attached those <code>@id</code> attributes to the <code>&lt;h2&gt;</code> elements that we used as titles for each
+         chapter in our reading view, e.g., <code>&lt;h2 id="C7"&gt;CHAPTER VII&lt;/h2&gt;</code>. Meanwhile,
+         in the table of contents at the top we created <code>&lt;a&gt;</code> elements with
+         <code>@href</code> attributes that point to these <code>@id</code> values. <em>The
+            value of the <code>@href</code> attribute must begin with a leading <q>#</q>
+            character, but that <q>#</q> must not be part of the value of the <code>@id</code>
+            attribute to which it points.</em> For example,</p>
+      <pre>&lt;td&gt;&lt;a href="#C7"&gt;CHAPTER VII&lt;/a&gt;&lt;/td&gt;</pre>
+      <p>means if the user clicks on the linked content in this table cell, the browser will scroll to the line that reads
+         <code>&lt;h2 id="C7"&gt;</code> later in the document. <em>Remember:
+            the value of the <code>@href</code> attribute begins with <q>#</q>, but the value of
+            the corresponding <code>@id</code> attribute on the <code>&lt;h2&gt;</code> element
+            you want to scroll to doesn’t.</em></p>
+      <p>Armed with that information, you can take your answer to the main assignment and, using
+         AVTs, modify it to create the <code>&lt;a&gt;</code> elements with the
+         <code>@href</code> attributes and the <code>@id</code> attributes for the
+         targets.</p>
+ </section>
+  <section id="sorting">    
+     <h3>Finishing touches</h3> 
+   <p>We are not quite finished yet! When outputting a list of distinct locations and tech in the chapters, we wanted to produce a simple, human-readable list, and human eyes and brains often find searching such lists easier when they are alphabetically ordered. We will now sort those lists, using the XPath <code>sort()</code> function. Also, notice that the output may still contain some duplicates because the <code>&lt;location&gt;</code> and <code>&lt;tech&gt;</code> nodes had variable amounts of spaces in them. Revise your code so that you first use the <code>normalize-space()</code> function to remove any unnecessary spaces, then apply <code>distinct-values()</code> to remove the duplicates. Next, apply the <code>sort()</code> function, and finally <code>string-join()</code> that output.</p> 
+     <p>Oh, and did we mention CSS? Can you associate a CSS stylesheet to your output (write the CSS file link into your XSLT) to make it
+        look more interesting than what you get by default in a web browser? See if you can find an interesting way to style the <code>&lt;span&gt;</code> elements, and <a href="https://www.w3schools.com/css/css_table.asp">try to make the table look more appealing</a>.</p>
+     <p>When you complete this assignment, submit your revised XSLT file, your output HTML file, and your CSS file to Canvas.</p>
+     
+</section>
+   </body> 
+</html>

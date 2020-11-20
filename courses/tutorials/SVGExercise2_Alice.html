@@ -50,7 +50,7 @@
         
         <pre>
            &lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
+&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="3.0"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     <span style="color: purple;">xmlns="http://www.w3.org/2000/svg</span>"&gt;
@@ -95,7 +95,7 @@
             the twelve chapters, and therefore in position #1), to "200" for chapter 2, etc. (You will also calculate the Y
             position and assign that value to the variable <code>$Ypos</code>.) We
             can then plot the dot with something like:</p>
-        <pre>&lt;circle cx="{$Xpos}" cy="{$Ypos} r="5" fill="red"&gt;</pre>
+        <pre>&lt;circle cx="{$Xpos}" cy="{$Ypos}" r="5" fill="red"&gt;</pre>
         <p>Note the curly braces, which create an <strong>attribute value template (AVT)</strong> that causes the
             variable to be interpreted and its value to be output. (If you don’t use an AVT, you’ll
             set your X position to a literal value of <code>$Xpos</code>, which is invalid because the X

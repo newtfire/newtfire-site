@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(80, 500)">
+      <line x1="0" y1="0" x2="500" y2="0" stroke="indigo"/>
+      <line x1="0" y1="0" x2="0" y2="-330" stroke="indigo"/>
+      <text style="text-anchor: end" x="-20" y="-325">33</text>
+      <text style="text-anchor: middle; writing-mode: tb; glyph-orientation-vertical: 0;"
+            x="-20"
+            y="-160">Count of albums</text>
+      <text style="text-anchor: end" x="-20" y="5">0</text>
+      <text x="50" y="-350">Album Types Released by Korean Pop Bands:</text>
+      <text x="100" y="-330">Singles and Minis vs. All</text>
+      <text x="550" y="-330">Legend</text>
+      <text x="500" y="-305">Single</text>
+      <line stroke="hotpink"
+            stroke-width="15"
+            x1="575"
+            y1="-310"
+            x2="625"
+            y2="-310"/>
+      <text x="500" y="-285">Mini</text>
+      <line stroke="khaki"
+            stroke-width="15"
+            x1="575"
+            y1="-290"
+            x2="625"
+            y2="-290"/>
+      <text x="480" y="-265">All Albums</text>
+      <line stroke="lavender"
+            stroke-width="15"
+            x1="575"
+            y1="-270"
+            x2="625"
+            y2="-270"/>
+      <g id="GOT7g1">
+         <line stroke-width="30"
+               stroke="lavender"
+               x1="35"
+               y1="0"
+               x2="35"
+               y2="-330"/>
+         <text font-size="smaller" x="30" y="-330">33</text>
+         <text style="writing-mode: tb;" x="35" y="15">GOT7 (갓세븐)</text>
+         <line class="singleBar"
+               stroke-width="30"
+               stroke="hotpink"
+               x1="35"
+               y1="0"
+               x2="35"
+               y2="-110"/>
+         <text font-size="smaller" x="30" y="-55">11</text>
+         <line class="miniBar"
+               stroke-width="30"
+               stroke="khaki"
+               x1="35"
+               y1="-110"
+               x2="35"
+               y2="-250"/>
+         <text font-size="smaller" x="30" y="-180">14</text>
+      </g>
+      <g id="BTSg2">
+         <line stroke-width="30"
+               stroke="lavender"
+               x1="85"
+               y1="0"
+               x2="85"
+               y2="-310"/>
+         <text font-size="smaller" x="80" y="-310">31</text>
+         <text style="writing-mode: tb;" x="85" y="15">BTS (방탄소년단)</text>
+         <line class="singleBar"
+               stroke-width="30"
+               stroke="hotpink"
+               x1="85"
+               y1="0"
+               x2="85"
+               y2="-110"/>
+         <text font-size="smaller" x="80" y="-55">11</text>
+         <line class="miniBar"
+               stroke-width="30"
+               stroke="khaki"
+               x1="85"
+               y1="-110"
+               x2="85"
+               y2="-180"/>
+         <text font-size="smaller" x="80" y="-145">7</text>
+      </g>
+      <g id="Twiceg3">
+         <line stroke-width="30"
+               stroke="lavender"
+               x1="135"
+               y1="0"
+               x2="135"
+               y2="-300"/>
+         <text font-size="smaller" x="130" y="-300">30</text>
+         <text style="writing-mode: tb;" x="135" y="15">Twice (트와이스)</text>
+         <line class="singleBar"
+               stroke-width="30"
+               stroke="hotpink"
+               x1="135"
+               y1="0"
+               x2="135"
+               y2="-90"/>
+         <text font-size="smaller" x="130" y="-45">9</text>
+         <line class="miniBar"
+               stroke-width="30"
+               stroke="khaki"
+               x1="135"
+               y1="-90"
+               x2="135"
+               y2="-220"/>
+         <text font-size="smaller" x="130" y="-155">13</text>
+      </g>
+      <g id="MonstaXg4">
+         <line stroke-width="30"
+               stroke="lavender"
+               x1="185"
+               y1="0"
+               x2="185"
+               y2="-220"/>
+         <text font-size="smaller" x="180" y="-220">22</text>
+         <text style="writing-mode: tb;" x="185" y="15">Monsta X (몬스타엑스)</text>
+         <line class="singleBar"
+               stroke-width="30"
+               stroke="hotpink"
+               x1="185"
+               y1="0"
+               x2="185"
+               y2="-60"/>
+         <text font-size="smaller" x="180" y="-30">6</text>
+         <line class="miniBar"
+               stroke-width="30"
+               stroke="khaki"
+               x1="185"
+               y1="-60"
+               x2="185"
+               y2="-60"/>
+      </g>
+      <g id="StrayKidsg5">
+         <line stroke-width="30"
+               stroke="lavender"
+               x1="235"
+               y1="0"
+               x2="235"
+               y2="-160"/>
+         <text font-size="smaller" x="230" y="-160">16</text>
+         <text style="writing-mode: tb;" x="235" y="15">Stray Kids (스트레이 키즈)</text>
+         <line class="singleBar"
+               stroke-width="30"
+               stroke="hotpink"
+               x1="235"
+               y1="0"
+               x2="235"
+               y2="-60"/>
+         <text font-size="smaller" x="230" y="-30">6</text>
+         <line class="miniBar"
+               stroke-width="30"
+               stroke="khaki"
+               x1="235"
+               y1="-60"
+               x2="235"
+               y2="-130"/>
+         <text font-size="smaller" x="230" y="-95">7</text>
+      </g>
+      <g id="Seventeeng6">
+         <line stroke-width="30"
+               stroke="lavender"
+               x1="285"
+               y1="0"
+               x2="285"
+               y2="-160"/>
+         <text font-size="smaller" x="280" y="-160">16</text>
+         <text style="writing-mode: tb;" x="285" y="15">Seventeen (세븐틴)</text>
+         <line class="singleBar"
+               stroke-width="30"
+               stroke="hotpink"
+               x1="285"
+               y1="0"
+               x2="285"
+               y2="-30"/>
+         <text font-size="smaller" x="280" y="-15">3</text>
+         <line class="miniBar"
+               stroke-width="30"
+               stroke="khaki"
+               x1="285"
+               y1="-30"
+               x2="285"
+               y2="-120"/>
+         <text font-size="smaller" x="280" y="-75">9</text>
+      </g>
+      <g id="EXOg7">
+         <line stroke-width="30"
+               stroke="lavender"
+               x1="335"
+               y1="0"
+               x2="335"
+               y2="-150"/>
+         <text font-size="smaller" x="330" y="-150">15</text>
+         <text style="writing-mode: tb;" x="335" y="15">EXO (엑소)</text>
+         <line class="singleBar"
+               stroke-width="30"
+               stroke="hotpink"
+               x1="335"
+               y1="0"
+               x2="335"
+               y2="0"/>
+         <line class="miniBar"
+               stroke-width="30"
+               stroke="khaki"
+               x1="335"
+               y1="0"
+               x2="335"
+               y2="-60"/>
+         <text font-size="smaller" x="330" y="-30">6</text>
+      </g>
+      <g id="BLACKPINKg8">
+         <line stroke-width="30"
+               stroke="lavender"
+               x1="385"
+               y1="0"
+               x2="385"
+               y2="-110"/>
+         <text font-size="smaller" x="380" y="-110">11</text>
+         <text style="writing-mode: tb;" x="385" y="15">BLACKPINK (블랙핑크)</text>
+         <line class="singleBar"
+               stroke-width="30"
+               stroke="hotpink"
+               x1="385"
+               y1="0"
+               x2="385"
+               y2="-50"/>
+         <text font-size="smaller" x="380" y="-25">5</text>
+         <line class="miniBar"
+               stroke-width="30"
+               stroke="khaki"
+               x1="385"
+               y1="-50"
+               x2="385"
+               y2="-90"/>
+         <text font-size="smaller" x="380" y="-70">4</text>
+      </g>
+      <g id="g9">
+         <line stroke-width="30"
+               stroke="lavender"
+               x1="435"
+               y1="0"
+               x2="435"
+               y2="-100"/>
+         <text font-size="smaller" x="430" y="-100">10</text>
+         <text style="writing-mode: tb;" x="435" y="15">NCT Dream (엔씨티 Dream)</text>
+         <line class="singleBar"
+               stroke-width="30"
+               stroke="hotpink"
+               x1="435"
+               y1="0"
+               x2="435"
+               y2="-50"/>
+         <text font-size="smaller" x="430" y="-25">5</text>
+         <line class="miniBar"
+               stroke-width="30"
+               stroke="khaki"
+               x1="435"
+               y1="-50"
+               x2="435"
+               y2="-100"/>
+         <text font-size="smaller" x="430" y="-75">5</text>
+      </g>
+      <g id="g10">
+         <line stroke-width="30"
+               stroke="lavender"
+               x1="485"
+               y1="0"
+               x2="485"
+               y2="-100"/>
+         <text font-size="smaller" x="480" y="-100">10</text>
+         <text style="writing-mode: tb;" x="485" y="15">NCT 127 (엔씨티 127)</text>
+         <line class="singleBar"
+               stroke-width="30"
+               stroke="hotpink"
+               x1="485"
+               y1="0"
+               x2="485"
+               y2="-10"/>
+         <line class="miniBar"
+               stroke-width="30"
+               stroke="khaki"
+               x1="485"
+               y1="-10"
+               x2="485"
+               y2="-50"/>
+         <text font-size="smaller" x="480" y="-30">4</text>
+      </g>
+   </g>
+</svg>

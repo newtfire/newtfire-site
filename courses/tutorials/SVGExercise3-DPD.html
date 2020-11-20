@@ -1,0 +1,77 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" type="text/css" href="explain.css" />
+        <title>SVG Exercise 3 (DPD)</title>
+    </head>
+
+    <body>
+        <!--#include virtual="top.html" -->
+        <h1><span class="banner">SVG Exercise 3: KPop Discography</span></h1>
+   <section id="overview"> <h3>Overview</h3>
+<p>The KPop team has encoded a collection of group profiles for ten Korean pop bands, with discogrqphy data that categorizes albums in five different ways. This is encoded in an <code>&lt;album&gt;</code> element with an <code>@albumType</code> attribute, with six possible values, according their project Relax NG Schema:</p>
+        <pre>
+    album = element album {albumType?, xmlid?, text}
+    albumType = attribute albumType {"mini" | "full" | "live" | "repackage" | "single" | "extended"}</pre>
+<p>Albums can be of the following types: mini, full, live, repackage, single, or extended. Our goal is to plot a stacked bar graph to show how the bands compare to each other in a selection of the album types they tend to release the most.</p>        
+       </section> 
+      <section id="collectionAccess">  
+        <h3>The KPop input collection on our digitProjectDesign-Hub</h3>
+          <p>The KPop collection of group files is posted as a directory in our <strong>digitProjectDesign-Hub</strong>. Just like before when you accessed a collection of files, here is what you will need to do:</p> 
+          <ul><li>Use <code>git pull</code> to update your local clone of the <a href="https://github.com/newtfire/digitProjectDesign-Hub">digitProjectDesign-Hub</a>.</li>
+              <li>Open the digitProjectDesign-Hub locally on your computer, and find the KPop group profiles directory by looking in the filepath: <strong>Class-Examples &gt; SVG &gt; KPop &gt; kpop-groups</strong>. The <strong>kpop-groups</strong> folder contains ten XML files that we are working with as a collection in this assignment.</li> 
+              <li><strong>Copy this kpop-groups directory to some other location on your computer</strong> outside of your GitHub directories. (We do not want you to push your homework to the whole class over our digitProjectDesign-Hub, so we just need you to make your own private copy of this directory to work with in the same folder in which you do your homework.)</li>
+              <li><em>Do not rename the file folder or the files inside</em>, because we need to refer to them as a coherent collection.</li></ul> 
+          <p>Please be careful to <strong>copy</strong> rather the move the directory out of GitHub! If you move it out of the directory, the next time you sync our digitProjectDesign-Hub, GitHub will prompt you to commit the change and push it, which will effectively eliminate the Dickinson folder. I can easily put it back if that happens, but please alert me ASAP if something goes awry!</p>
+        </section>
+        <section id="XSLT-setup">
+            <h3>Housekeeping: The XSLT Stylesheet and Output Statements to Produce SVG</h3>
+            <p>Our <code>xsl:stylesheet</code> root element needs to indicate that we are outputting SVG in the SVG namespace (highlighted in <span style="color:purple;">purple</span> below. The output method is set to XML. So you should set your <code>xsl:stylesheet</code> and <code>xsl:output</code> statements thus: </p> 
+            <pre>
+       &lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="3.0"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    exclude-result-prefixes="xs"
+    <span style="color:purple;">xmlns="http://www.w3.org/2000/svg</span>"&gt;
+    &lt;xsl:output method="xml" indent="yes"/&gt;
+        </pre>
+        </section>
+        <section id="task-guidance">
+            <h3>Guidance on the task</h3>
+            <p>Open an XML file in the kpop-groups folder to work out the XPath you need to access the discography information. To plot an SVG stacked bar graph, we will be creating variables that hold information about the album types. In the graph we want to make, we want to create a set of stacked bars for each group representing its different album types. We can sort the output so that the bands are plotted from left to right ranging from the bands with the highest to lowest total count of albums. We will choose a different color for each of the album types we plot (and a color for the full count of albums). Our output should be labeled with a legend and a title, and the axes should be labeled, too.</p>
+            <p>For our sample solutions, we graphed the album releases in two ways:</p> 
+                <ul><li><a href="../tutorials/kpopStackedBar.svg">to stack all six different kinds of albums</a>, </li>
+                    <li><a href="../tutorials/kpopStackedBarSimpler.svg">to stack the singles and minis against the total albums produced by each band</a>.</li></ul>
+            <p>You may plot all or any combination of album types you wish, and your output does not need to look exactly like ours, but it does need to represent the full count of albums for each band as well as at least two different album types.</p>
+            <p> You may, of course, also decide to scale and color your graph and bars differently than we did, and you will want to decide whether you prefer to use the SVG <code>&lt;rect&gt;</code> element or the SVG <code>&lt;line&gt;</code> element (which is what we used in our solution). While we leave it up to you to decide how you want to scale and color your graph or the fonts you want to use for your text, here are some guidelines and suggestions:</p>
+            
+
+        <ul>
+            <li>Plot your graph working with global and local variables, as you did on the previous SVG assignment. In addition to variables holding counts and/or other numbers for plotting, you also need a global variable to address the KPop collection of files. Save your XSLT in a directory above the XML collection (as you did the last time you wrote XSLT over a collection), to make it easy to reach the files with the <code>collection()</code> function. Here is what we used: 
+                <pre> &lt;xsl:variable name="kpopGroupColl" select="collection('kpop-groups/?select=*.xml')"/&gt; </pre>
+            </li>
+            <li>We find it easiest to plot the entire graph inside a <code>&lt;g&gt;</code> (group) element in the upper right quadrant, to set our X axis and Y axis to meet at x=0 and y=0, and to plot all our y values to start from a zero base point at the X axis and move up the screen into negative numbers. We then use the <code>&lt;g&gt;</code> element to shift this a little to the right and down into visible and workable coordinate space on the display monitor, by simply setting the <code>@transform</code> attribute with the <code>translate()</code> function. To do this:
+               <ul> <li>Make sure all the Y values come out negative, perhaps multiplying them all by a variable set to a negative number, or simply sticking a minus sign in front of all Y values. This will cause them to be plotted above the X axis, with larger negative values above smaller ones.</li>
+                <li>Configuring the <code>&lt;g&gt;</code> start tag as <code>&lt;g transform="translate(80, 500)"&gt;</code> will shift it to the right 80 pixels and down by 500 pixels (the first number is the amount to shift on the X axis and the second is the amount on the Y axis). You can hard-code the number of pixels to shift down, but a more elegant approach is to use XPath to calculate the height of the tallest bar and employ that calculation in setting the value for the shift so your full plot will be visible in a browser window.</li></ul>
+                    Alternatively, you can plot everything directly in the lower right quadrant, but we find that harder to manage. For this assignment you cannot have your bars grow downward! That would be easier to code, but, unfortunately, it isn’t the way humans expect a chart like this to look.</li>
+            <li>When you create a stacked bar chart, each kind of response is plotted just on top of the other kinds. If you are plotting all six kinds of albums, each stack sits on top of the one before it and reaches up to the band's total count of albums. We recommend first plotting the total count of albums (and perhaps shifting that over to the right or the left a bit so you can always see it as you are plotting your other bars: for example, <a href="../tutorials/kpopStackedBar.svg">see the green line for the plot of total albums just to the right of each bar in this sample output</a>). Seeing the total count can serve as a guide for stacking your bars if you are plotting all the album types. Alternatively, you can simply plot the total count as a backdrop for comparison with just two or three album types, like we did in <a href="kpopStackedBarSimpler.svg">our alternative sample output</a>. Save your output SVG file and open it in oXygen not only to check for validity but also to <em>check your arithmetic</em>, to be sure you are outputting the right kinds of values: nothing over 100 or less than zero (that is, before you convert the percentage to a negative value in plotting along the Y-axis).</li>
+            
+         
+            <li>Knowing that you are plotting stacked bars that represent 10 different groups, plot an X and a Y axis that is appropriate to hold all your bar plots, and label your Y axis in some way that reflects numerical range of values you are plotting. (You may wish to  draw faint lines to sit in the background (like in this clickable, interactive example from an Obdurodon project: <a href="http://pavlova.obdurodon.org/character_chart.xhtml">http://pavlova.obdurodon.org/character_chart.xhtml</a>). Use global variables to help you space your bars evenly across the X axis and stretch out your Y values for visibility.</li>
+            <li>As we mentioned before, you must ultimately create a stacked bar chart. Begin this by plotting just one album type, perhaps the count of tjust the singles (<code>album albumType="single"</code>) that you want to sit at the bottom of your stack, plotting upwards from the X axis and check to see that you are getting good results in a web browser. To plot the other rectangles (or thick lines) on top of this, you will need to start drawing those from the top of a bar you have just drawn, which you do by <strong>adding</strong> the Y value for the top of the low bar to the height of the next bar that is to sit on top of it.</li>  
+            <li>Output the text of the KPop band name with its associated set of stacked bars, beneath the X axis. To plot this as we did in our sample output, it will help to study SVG <code>text</code> element formatting, and what attributes are used to control it. (There are a number that you might experiment with to rotate text and change its orientation, but we used the <code>@style="writing-mode: tb;"</code> attribute to make the text run vertically down the page.) Take a look at <a href="http://tutorials.jenkov.com/svg/text-element.html#text">Jakob Jenkov's SVG tutorial</a> for a good resource for learning about the range of attributes you can apply to SVG <code>text</code> and other SVG elements, and the various things they do. We find the <code>@text-anchor</code> attribute especially helpful to anchor the text’s X and Y coordinates either in the start, end, or exact center of the text string.</li>
+            <li>Try to label your bars with their count value when the count is above, say, 1 or 2 and you have room to set a number inside the bar.</li>
+            <li>We want you to sort your output using <code>&lt;xsl:sort&gt;</code> so that the bands are plotted in sequence based on their counts of albums. (Our sample plot goes from highest-releasing bands to lowest-releasing bands.)</li>
+            <li>You’ll have to decide how to space the bars along the X axis, and whether or how to use color or some other kind of fill to visually distinguish your stacked bars from each other. Whatever you decide, you need to plot an explanatory legend with your graph, like we did in our sample output.</li>
+            <li>As an optional challenge, try flipping the graph so that you are plotting your bars horizontally across the X-axis instead of up the Y-axis. Is this a more intuitive way to present the text of each question in relation to the stacked bar of survey results?</li>
+        </ul>
+</section>
+        
+       <section id="submission"> 
+           <h3>What to Submit</h3>
+        <p>Turn in your XSLT file as well as your output SVG file. Remember to save and open your SVG output in &lt;oXygen/&gt; and in a web browser to be sure it is valid and that it is rendering as you think it should be. </p></section>
+    </body>
+</html>

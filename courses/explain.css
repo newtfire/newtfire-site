@@ -126,6 +126,8 @@ background-color: #bad7e6; /*#7E967E;*/
 padding: 1px;
 vertical-align:middle;}
 }
+table.studentProjects {table-layout: fixed; }
+table.studentProjects tr td {width:20%;}
 @media print {
  body {color: #000;
  background: #fff; 

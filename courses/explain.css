@@ -136,7 +136,7 @@ table.studentProjects {table-layout: fixed; }
 table.studentProjects tr td {width:20%;}
 
 table.showCase {vertical-align: middle;}
-table.showCase tr:nth-child(even) {background-color:#ccccff;}
+table.showCase tr:nth-child(even) {background-color:/*#dcd0ff*/ /*#dbd7d2*/ #c3cde6;}
 @media print {
  body {color: #000;
  background: #fff; 

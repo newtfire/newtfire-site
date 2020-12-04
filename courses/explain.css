@@ -27,6 +27,12 @@ div.explan{background-color:#3F4F3F; float:right; width:60%; padding:15px;}
 
 .imageAlt {float:right; width:35%; margin-left: auto;
     margin-right: auto; padding:15px;}
+
+section.showCaseHeader {display:flex; flex-direction:row; justify-content:space-between;}
+div.showCaseHeader{flex:2}
+div.showCaseImg {flex:1;}
+
+
 div.explanAlt{background-color:#B4D6B4; float:left; width:65%; padding:15px;}
 div.container {background-color:#B4D6B4; width:100%; }
 .codeContainFlex {display:flex; flex-direction: row; justify-content:space-between; min-width: 0}
@@ -128,6 +134,9 @@ vertical-align:middle;}
 }
 table.studentProjects {table-layout: fixed; }
 table.studentProjects tr td {width:20%;}
+
+table.showCase {vertical-align: middle;}
+table.showCase tr:nth-child(even) {background-color:#ccccff;}
 @media print {
  body {color: #000;
  background: #fff; 

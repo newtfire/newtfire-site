@@ -1,0 +1,386 @@
+<div id="schedule">
+                        <table>
+                                                <tr>
+                                                  <th>Week 1</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-01-19">
+                                                  <td>
+                                                  <h4>T 1-19</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-01-21">
+                                                  <td>
+                                                  <h4>H 1-21</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 2</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-01-26">
+                                                  <td>
+                                                  <h4>T 1-26</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-01-28">
+                                                  <td>
+                                                  <h4>H 1-28</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 3</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-02-02">
+                                                  <td>
+                                                  <h4>T 2-02</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-02-04">
+                                                  <td>
+                                                  <h4>H 2-04</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 4</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-02-09">
+                                                  <td>
+                                                  <h4>T 2-09</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-02-11">
+                                                  <td>
+                                                  <h4>H 2-11</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 5</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-02-16">
+                                                  <td>
+                                                  <h4>T 2-16</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-02-18">
+                                                  <td>
+                                                  <h4>H 2-18</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 6</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-02-23">
+                                                  <td>
+                                                  <h4>T 2-23</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-02-25">
+                                                  <td>
+                                                  <h4>H 2-25</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 7</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-03-02">
+                                                  <td>
+                                                  <h4>T 3-02</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-03-04">
+                                                  <td>
+                                                  <h4>H 3-04</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 8</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-03-09">
+                                                  <td>
+                                                  <h4>T 3-09</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-03-11">
+                                                  <td>
+                                                  <h4>H 3-11</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 9</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-03-16">
+                                                  <td>
+                                                  <h4>T 3-16</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-03-18">
+                                                  <td>
+                                                  <h4>H 3-18</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 10</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-03-23">
+                                                  <td>
+                                                  <h4>T 3-23</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-03-25">
+                                                  <td>
+                                                  <h4>H 3-25</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 11</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-03-30">
+                                                  <td>
+                                                  <h4>T 3-30</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-04-01">
+                                                  <td>
+                                                  <h4>H 4-01</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 12</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-04-06">
+                                                  <td>
+                                                  <h4>T 4-06</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-04-08">
+                                                  <td>
+                                                  <h4>H 4-08</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 13</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-04-13">
+                                                  <td>
+                                                  <h4>T 4-13</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-04-15">
+                                                  <td>
+                                                  <h4>H 4-15</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 14</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-04-20">
+                                                  <td>
+                                                  <h4>T 4-20</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-04-22">
+                                                  <td>
+                                                  <h4>H 4-22</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                        </table>
+                        <table>
+                                                <tr>
+                                                  <th>Week 15</th>
+                                                  <th>
+                                                  <span class="h4">Topics</span>
+                                                  </th>
+                                                  <th>
+                                                  <span class="h4">Do before class</span>
+                                                  </th>
+                                                </tr>
+                                                <tr id="d2021-04-27">
+                                                  <td>
+                                                  <h4>T 4-27</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="d2021-04-29">
+                                                  <td>
+                                                  <h4>H 4-29</h4>
+                                                  </td>
+                                                  <td class="topic">...</td>
+                                                  <td class="doBeforeClass">...</td>
+                                                </tr>
+                                                <tr id="2021-05-04">
+                                                  <td>
+                                                  <h4>T 5-04</h4>
+                                                  </td>
+                                                  <td class="developing">
+                                                  <strong>Complete Game Analysis Review due by
+                                                  11:59pm</strong>
+                                                  </td>
+                                                </tr>
+                        </table>
+</div>

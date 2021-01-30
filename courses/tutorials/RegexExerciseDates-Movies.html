@@ -2,17 +2,17 @@
 <!DOCTYPE html
   SYSTEM "about:legacy-compat">
 <html xmlns="http://www.w3.org/1999/xhtml">
-   
-   	
-   <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-      <link rel="stylesheet" type="text/css" href="explain.css" />
-      <title>Regex Exercise: Movie Data</title>
-   </head>
-   
-   
-   
-   <body>
+
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" type="text/css" href="explain.css" />
+        <title>Regex Exercise: Movie Data</title>
+    </head>
+
+
+
+    <body>
         <!--#include virtual="top.html" -->
         <h1><span class="banner">Regex Exercise: Convert a Text File of Movie Data to
             XML</span></h1>
@@ -25,9 +25,13 @@
                     Tutorial</a>: a mine of helpful detail on regular expression matching,</li>
         </ul>
         <h3>Get the source text ready in &lt;oXygen/&gt;</h3>
-        <p>We calculated a list of the Fall 2020 semester dates in a spreadsheet program, and copied
-            the results into a plain-text file, which you can download from our site here: <a
-                href="movieData.txt">movieData.txt</a>.</p>
+        <p>We downloaded some data about movies from the 1930s to 2018 in a spreadsheet and saved it
+            as a plain-text file, which you can download from our site here: <a href="movieData.txt"
+                >movieData.txt</a>. (Spreadsheets can be saved as <q>raw</q> text in tab-separated or
+            comma-separated format. We saved ours with tabs as separators, because some of the movie
+            titles contain commas.) Working with text saved with tab-separated values can be a good way to orient yourself to regular expression patterns.
+        Our goal is to apply regular expressions to convert this text document (with thousands of lines) into an XML document without coding by hand!
+        </p>
         <ul>
             <li>To download the file, go to File and Save as in your web browser, and choose a
                 useful name and location on your computer to save the file. We typically keep the
@@ -117,10 +121,14 @@
             sure that <q>Dot matches all</q> is unchecked, though; we’ll explain why below.</p>
         <h4>How to approach the conversion process</h4>
         <p>Our data is organized in lines of text, so we recommend starting by wrapping those lines
-            in a simple <q>wrapper</q> element (<code>&lt;movie&gt;....&lt;/movie&gt;</code> to isolate each line of data about each movie. We can then proceed to fine-tune the markup and add more inside each move element working around the tab characters.</p>
-       <h4>Find and Replace: Working with Capturing Groups</h4> 
-       <p>From each text row of movie data, we ultimately want to create this pretty-printed, structured XML markup (showing a sample of the data for the movie <em>Operation Dunkirk</em>:</p>
-           <pre>
+            in a simple <q>wrapper</q> element (<code>&lt;movie&gt;....&lt;/movie&gt;</code> to
+            isolate each line of data about each movie. We can then proceed to fine-tune the markup
+            and add more inside each move element working around the tab characters.</p>
+        <h4>Find and Replace: Working with Capturing Groups</h4>
+        <p>From each text row of movie data, we ultimately want to create this pretty-printed,
+            structured XML markup (showing a sample of the data for the movie <em>Operation
+                Dunkirk</em>:</p>
+        <pre>
                &lt;movie&gt;
                &lt;title&gt;Operation Dunkirk&lt;/title&gt;
                &lt;date&gt;2017&lt;/date&gt;
@@ -128,39 +136,49 @@
                &lt;time unit="min"&gt;96&lt;/time&gt;
            &lt;/movie&gt;
            </pre>
-       <p>To get to this point, start by looking at the lines in the text file as you have it open in oXygen. You'll see that each line is numbered. 
-           We can try working on this data from the <q>outside in</q>, that is, wrap each whole line in a wrapper element so each movie’s data is contained in tags:
-         
-       </p>
-       <pre>Operation Dunkirk	2017	USA	96 min</pre>
-       <p>Use a Find and Replace operation to isolate each line with a simple regular expression. Then, in your replace, refer to the Find expressing to <dfn>capture</dfn> it, either as a whole unit, or as a capturing group.</p>
-       <pre>&lt;movie&gt;Operation Dunkirk	2017	USA	96 min&lt;/movie&gt;</pre>
-       
-       <p>The way regex really thinks of this process is, <q>match every movie line, delete it, and
-           replace it with remixed pieces of itself wrapped in <code>&lt;movie&gt;</code>
-           tags</q>. That is, regex doesn’t think about leaving the movie line in place and inserting
-           something before and after it; it thinks about matching each movie line, deleting it, and
-           then putting the whole thing back, with the tags that you desire. You need to refer to what you want to keep (in this case the whole thing), as a <dfn>capturing group</dfn>.
-       When we want to keep the whole expression that we found, the whole line of text here, we refer to capturing group 0 with <code>\0</code>.
-           
-       </p>
-       <h4>More fun with capturing groups</h4>
-       <p>Once you have isolated the movie lines and wrapped them in start and end tags, it is time to apply more detailed markup inside, to isolate each movie title, date, and location. We will do something special with the time unit, remixing that data to put the unit inside an attribute value.
-       To do this work, you will need to learn how to mark and apply <dfn>capturing groups</dfn>.
-       </p>
-       <p>To make <strong>capturing groups</strong> you set parentheses around the portions of your regular expression that you want to keep. 
-           Think of setting capturing groups as a way to isolate pieces of your <q>Find</q> so that you can point to them and position them exactly where you want in your <q>Replace></q>.
-           Take your first step by locating the <code>&lt;movie&gt;</code> start tag that you just set down followed by just the movie title (which is bordered by a tab character). 
-           Once you can find these things, wrap the element tag in its own capturing group, and then the title information in second capturing group.</p>
-       <p>In the replace, you will need to refer to the capturing groups using a special regular expression. The sequence
-           <code>\1</code> points to the first capturing group, ordered from left to right.
-           <code>\2</code> refers to the second capturing group. Remember, the expression <code>\0</code> refers to the entire match regardless of the
-           capturing groups. Try experimenting with Find and Replace using capturing groups in
-           various ways until you set down the tagging you want. (The Undo button in oXygen is
-           under the Edit menu, and we use it frequently when we are experimenting like this!)</p>
-       <p>We are not going to tell you how to create your regular expressions: part of the learning process here is <q>looking stuff up</q> in the tutorial sites we have provided, and asking for help when you get stuck on our DIGIT-Coders Slack or by opening an issue on our textAnalysis-Hub. Do your best to wrap the data you see in meaningful tags, even if what you create does not look exactly like our sample XML.</p>
-           
-         
+        <p>To get to this point, start by looking at the lines in the text file as you have it open
+            in oXygen. You'll see that each line is numbered. We can try working on this data from
+            the <q>outside in</q>, that is, wrap each whole line in a wrapper element so each
+            movie’s data is contained in tags: </p>
+        <pre>Operation Dunkirk	2017	USA	96 min</pre>
+        <p>Use a Find and Replace operation to isolate each line with a simple regular expression.
+            Then, in your replace, refer to the Find expressing to <dfn>capture</dfn> it, either as
+            a whole unit, or as a capturing group.</p>
+        <pre>&lt;movie&gt;Operation Dunkirk	2017	USA	96 min&lt;/movie&gt;</pre>
+        <p>The way regex really thinks of this process is, <q>match every movie line, delete it, and
+                replace it with remixed pieces of itself wrapped in <code>&lt;movie&gt;</code>
+                tags</q>. That is, regex doesn’t think about leaving the movie line in place and
+            inserting something before and after it; it thinks about matching each movie line,
+            deleting it, and then putting the whole thing back, with the tags that you desire. You
+            need to refer to what you want to keep (in this case the whole thing), as a
+                <dfn>capturing group</dfn>. When we want to keep the whole expression that we found,
+            the whole line of text here, we refer to capturing group 0 with <code>\0</code>. </p>
+        <h4>More fun with capturing groups</h4>
+        <p>Once you have isolated the movie lines and wrapped them in start and end tags, it is time
+            to apply more detailed markup inside, to isolate each movie title, date, and location.
+            We will do something special with the time unit, remixing that data to put the unit
+            inside an attribute value. To do this work, you will need to learn how to mark and apply
+                <dfn>capturing groups</dfn>. </p>
+        <p>To make <strong>capturing groups</strong> you set parentheses around the portions of your
+            regular expression that you want to keep. Think of setting capturing groups as a way to
+            isolate pieces of your <q>Find</q> so that you can point to them and position them
+            exactly where you want in your <q>Replace></q>. Take your first step by locating the
+                <code>&lt;movie&gt;</code> start tag that you just set down followed by just the
+            movie title (which is bordered by a tab character). Once you can find these things, wrap
+            the element tag in its own capturing group, and then the title information in second
+            capturing group.</p>
+        <p>In the replace, you will need to refer to the capturing groups using a special regular
+            expression. The sequence <code>\1</code> points to the first capturing group, ordered
+            from left to right. <code>\2</code> refers to the second capturing group. Remember, the
+            expression <code>\0</code> refers to the entire match regardless of the capturing
+            groups. Try experimenting with Find and Replace using capturing groups in various ways
+            until you set down the tagging you want. (The Undo button in oXygen is under the Edit
+            menu, and we use it frequently when we are experimenting like this!)</p>
+        <p>We are not going to tell you how to create your regular expressions: part of the learning
+            process here is <q>looking stuff up</q> in the tutorial sites we have provided, and
+            asking for help when you get stuck on our DIGIT-Coders Slack or by opening an issue on
+            our textAnalysis-Hub. Do your best to wrap the data you see in meaningful tags, even if
+            what you create does not look exactly like our sample XML.</p>
         <h4>Cleaning up and checking your results</h4>
         <p>Save your text file now as an XML file by saving as <code>.xml</code>. You will now need
             to <strong>reopen the document</strong> to see if it is well-formed so that oXygen
@@ -188,8 +206,8 @@
         <h3>What to submit</h3>
         <p>On Canvas, upload two things (or a zip directory containing the following):</p>
         <ol>
-            <li>a step file as a markdown (<code>.md</code>) or plain text (<code>.txt</code>) document (a step-by-step description of what you did),
-                and</li>
+            <li>a step file as a markdown (<code>.md</code>) or plain text (<code>.txt</code>)
+                document (a step-by-step description of what you did), and</li>
             <li>your results file (the XML document as <code>.xml</code>)</li>
         </ol>
         <p>If you don’t get all the way to a solution, just upload the description of what you did,

@@ -129,7 +129,7 @@
             structured XML markup (showing a sample of the data for the movie <em>Operation
                 Dunkirk</em>:</p>
         <pre>
-               &lt;movie&gt;
+           &lt;movie&gt;
                &lt;title&gt;Operation Dunkirk&lt;/title&gt;
                &lt;date&gt;2017&lt;/date&gt;
                &lt;location&gt;USA&lt;/location&gt;
@@ -140,11 +140,11 @@
             in oXygen. You'll see that each line is numbered. We can try working on this data from
             the <q>outside in</q>, that is, wrap each whole line in a wrapper element so each
             movie’s data is contained in tags: </p>
-        <pre>Operation Dunkirk	2017	USA	96 min</pre>
+        <pre>Operation Dunkirk	2017	USA     96 min</pre>
         <p>Use a Find and Replace operation to isolate each line with a simple regular expression.
             Then, in your replace, refer to the Find expressing to <dfn>capture</dfn> it, either as
             a whole unit, or as a capturing group.</p>
-        <pre>&lt;movie&gt;Operation Dunkirk	2017	USA	96 min&lt;/movie&gt;</pre>
+        <pre>&lt;movie&gt;Operation Dunkirk	2017	USA        96 min&lt;/movie&gt;</pre>
         <p>The way regex really thinks of this process is, <q>match every movie line, delete it, and
                 replace it with remixed pieces of itself wrapped in <code>&lt;movie&gt;</code>
                 tags</q>. That is, regex doesn’t think about leaving the movie line in place and

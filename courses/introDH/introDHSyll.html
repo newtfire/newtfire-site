@@ -211,7 +211,15 @@
                      <td>
                         <h4>T 2-02</h4>
                      </td>
-                     <td class="topic">Git vs. GitHub, and version control. Exploring markdown and
+                     <td class="topic">Git and GitHub: Hands-on work with cloning your GitHub repo and the class's GitHub repo, and pushing changes using:
+                        
+                        <ul>
+                           <li><strong>git pull</strong> (to pull in changes from the remote web repo)</li>
+                           <li><strong>git add -A</strong> (to add your local changes to your repo on your local computer for tracking)</li>
+                           <li><strong>git commit -m "your commit message"</strong> (to commit your changes in a bundle ready to be sent to the remote repo, adding a descriptive message to develop the commit history) </li>
+                           <li><strong>git push</strong> (to send your commit up to the remote repo.</li>
+                        </ul>
+                        
                         GitHub Pages. Getting started with writing markdown and HTML in oXygen.</td>
                      <td class="doBeforeClass">
                         <ul>
@@ -237,23 +245,37 @@
                      <td>
                         <h4>H 2-04</h4>
                      </td>
-                     <td class="topic">Learning git commands and working at command line (hands-on
-                        exercise). Clone the class repo to your new GitHub directory.</td>
+                     <td class="topic">Learning how to work with HTML and CSS code in oXygen. Sending changes to your GitHub Pages directory. Learn about file associations and practice with git commands.
+                        Hints for preview of local HTML files:
+                        <ul><li>You can open a local file you're working on in a web browser to see how it will look on your published site.</li>
+                           <li>Also, try previewing the page by clicking the Author tab in the bottom center of the oXygen XML Editor window.</li>
+                           <li>For reference on HTML and CSS, start with our newtfire <a href="../tutorials/explainHTML.html">HTML tutorial</a> and <a href="../tutorials/explainCSS.html">CSS tutorial</a> (which has links to resources like the <a href="https://www.w3schools.com/">w3schools</a> and more)</li></ul>
+                     </td>
                      <td class="doBeforeClass"><ul>
                         <li>(Re-)Watch <a
                            href="https://psu.mediaspace.kaltura.com/media/Introduction+to+the+Bash+Command+LineA++Always+find+your+way+%22home%22+in+the+dark/1_ke1k1pxm"
                            target="_blank">my video introducing the Bash shell and "home" on your
                            computers</a> and practice the shell commands I am introducing. Practice
                         some shell commands</li>
-                     <li><strong>GitHub Website Development</strong>: <ul>
-                        <li>For reference on HTML and CSS, start with our newtfire <a href="../tutorials/explainHTML.html">HTML tutorial</a> and <a href="../tutorials/explainCSS.html">CSS tutorial</a> (which has lots of links to resources like the <a href="https://www.w3schools.com/">w3schools</a> and more.).</li>
-                        <li>Set up your <code>docs/</code> file directory so you can work with links, images, and CSS.</li> 
-                        <li>Create an index.html page in oXygen and add one or more images to your site to display in your page. </li>
-                        <li>Experiment with creating links to other pages (inside and/or outside your site).</li>
-                        <li>Experiment with CSS styling</li>
-                        <li>Push your changes to your GitHub repo and so they are published on your GitHub Pages site.</li>
-                        <li>Find and post on the GitHub code view of your repo the link to your published GitHub Pages site.</li>
-                     </ul></li>
+                        <li>Watch <a
+                           href="https://psu.mediaspace.kaltura.com/media/Git+and+GitHubA+Basic+Steps+for+Changing+a+Repo/0_06urxysq"
+                           >my short (15 minute) video</a> showing how to <code>git
+                              pull</code> in changes, and the three-step of <code>git add</code>,
+                        <code>git commit</code>, and <code>git push</code>.</li>
+                     <li><strong>GitHub Website Development</strong>: 
+                        <ul>
+                           <li> Make sure your web GitHub repo is configured to publish GitHub pages.</li>
+                           <li>Clone your GitHub repo and our class <a href="https://github.com/newtfire/introDH-Hub">introDH-Hub</a> to a computer where you have installed GitHub (following our previous exercises).</li>
+                           <li>Make sure your GitHub repo has a <code>docs/</code> directory and a file named index.html inside as the start file for your website. (You may start by copying my <code>docs/</code> directory from your local clone of the introDH-Hub into your repo).</li>
+                           <li>Open the index.html page in the oXygen XML Editor and begin studying how HTML code works. Try modifying the index.html page, and save your changes on your local computer. 
+                           </li>
+                           <li>Use your git command line (Git Bash Shell on Windows, or Terminal on Mac), and use <strong>git add -A</strong>, <strong>git commit -m "your descriptive commit message"</strong>, and <strong>git push</strong> to push your changes to your remote GitHub repo, so they are published on your GitHub Pages site.</li>
+                           <li>Find and post on the GitHub code view of your repo the link to your published GitHub Pages site.</li>
+                           <li>Also post this link to your published GitHub Pages site in Canvas for today's assignment.</li>
+                              </ul>
+                     
+                           </li>
+       
                      </ul></td>
                   </tr>
                </table>
@@ -280,26 +302,12 @@
                      </td>
                      <td class="topic"><p>Overview and discussion of the <a
                               href="comparativeWebAssign.html">Comparative Website Development
-                              Assignment</a>.</p>
-                        <p>GitHub Pages: Updating your site from your local computer using git
-                           commands:</p><ul>
-                           <li><code>git add .</code></li>
-                           <li><code>git commit -m "your message"</code></li>
-                           <li><code>git push</code></li>
-                        </ul> with help from <code>git status</code> along the way. Adding pages and
-                        site navigation: creating <b>relative links</b> to new pages. (Learn the
-                        difference between absolute and relative links.) More challenging: <a
-                           href="https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-html-layout"
-                           >Modifying Jekyll theme layouts</a></td>
+                              Assignment</a>.HTML and CSS work.</p>
+                       </td>
                      <td class="doBeforeClass">
                         <ul>
-                           <li>Use <code>git clone</code> to clone your personal repo to your GitHub
-                              directory next to the introDH-Hub that we cloned on Friday</li>
-                           <li>Watch <a
-                                 href="https://psu.mediaspace.kaltura.com/media/Git+and+GitHubA+Basic+Steps+for+Changing+a+Repo/0_06urxysq"
-                                 >my short (15 minute) video</a> showing how to <code>git
-                                 pull</code> in changes, and the three-step of <code>git add</code>,
-                                 <code>git commit</code>, and <code>git push</code>.</li>
+                          
+                     
                            <li>Add new content to site in GitHub Pages, working on your local
                               computer and pushing files to your own repository.</li>
                         </ul>

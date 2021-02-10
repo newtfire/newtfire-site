@@ -1,0 +1,78 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <link rel="stylesheet" type="text/css" href="explain.css" />
+      <title>Regex Exercise: Convert a Play to XML</title>
+   </head>
+
+
+
+   <body>
+      <!--#include virtual="top.html" -->
+      <h1><span class="banner">Regex Exercise: Convert the text of a screenplay into XML</span></h1>
+      <ul>
+         <li><a href="explainRegex.html">Our newtFire tutorial on Autotagging with Regular
+               Expressions (Regex)</a>
+         </li>
+         <li><a href="http://www.regular-expressions.info/tutorial.html">Regular-Expressions.info
+               Tutorial</a>: a mine of helpful detail on regular expression matching,</li>
+      </ul>
+      <h2>The Text:</h2>
+      <p>For this assignment, work with the plain-text screenplay of <strong><a href="mulan1998.txt"
+            >1998 version of <i>Mulan</i></a></strong>. Download the file, open it in
+         &lt;oXygen/&gt;. For our purposes, keep everything in this document. There is some source information near that top that you should keep, and just plan to revise its tagging by hand at the end of the autotagging process.</p>
+      <h2>Your Task:</h2>
+      <p>Your goal is to use Find/Replace operations to prepare an XML-encoded digital edition of
+         the play. This time, the specific markup tags you use are up to you, but we expect to see
+         specific structural distinctions marked in your XML. These include the following: </p>
+      <ul>
+         <li>speeches</li>
+         <li>stage directions (cues for the actors and stage managers in square brackets)</li>
+         <li>speaker's names within each speech</li>
+      </ul>
+      <p>Your goal is to use Find and Replace operations using regular expression
+         patterns to create <em>descriptive</em> (rather than presentational) XML markup. 
+         Your task is to make the XML that identifies, holds, and nests the
+         structural units of the screenplay so that them markup distinguishes speaking parts, speakers, and stage directions. 
+         You should not use manual tagging except in situations that occur so rarely that there is really no point in using an
+         autotagging solution. (For example, you do not need to use an autotagging strategy to tag
+         the title of the whole screenplay or to create a root element for your XML: just do that
+         manually.) </p>
+      <p>Here is our output XML file as a suggested model for your XML output: <strong><a href="mulan1998.xml">mulan1998.xml</a></strong>
+         Your output can be different from ours, as long as you find a way to mark off stage directions, speeches, and speakers. 
+         You will find stage directions are outside of speeches, and also inside them. Just find a way to mark them consistently whether they appear inside or outside speeches.
+         Speeches themselves always contain some indication of their speakers, but these may span across lines.</p>
+         <h3>Suggestions</h3>
+         <ul>
+            <li>Start by wrapping everything separated by two newlines as a speech first with, say <code>&lt;sp&gt;....&lt;/sp&gt;</code>.</li>
+            <li>Next, look for stage directions inside literal square brackets (which you will need to escape because these are special regex characters). Escape square brackets with <code>\[</code> and <code>\]</code>.</li>
+            <li>Try searching speakers with <q>Dot matches all</q> <strong>turned off</strong> because otherwise these will match too greedily across multiple speeches. Don't worry in the end about getting all of the speakers because we will have a way of locating the missing speakers in a later unit of our course!</li>
+         </ul>
+      <p>Consult our <a href="explainRegex.html">Guide to Autotagging with Regular Expressions</a>
+         and notes from class on regular expressions as you work. The TEI provides some helpful
+         guidelines for tagging the XML structural units of plays.</p>
+      <ul>
+         <li><strong>Record each step of your process carefully</strong>, in a separate document
+            (ideally a plain text file), since this is the file we will be grading. These will
+            include global Find-and-Replace operations or Regular Expressions in oXygen (using
+            Ctrl-F on Windows or command-F on Mac). Your goal is to produce a well-formed XML
+            document, but even if you have have trouble, what's most important is that you document
+            the steps you took. </li>
+         <li><strong>Upload two files on Canvas for this exercise:</strong>
+            <ol>
+               <li>a markdown file in which you recorded your steps </li>
+               <li>your end result: the XML file you create.</li>
+            </ol>
+         </li>
+      </ul>
+   </body>
+
+
+
+
+</html>

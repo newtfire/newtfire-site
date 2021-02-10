@@ -1,0 +1,75 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <link rel="stylesheet" type="text/css" href="explain.css" />
+      <title>Regex Exercise: Convert a Radio Script to XML</title>
+   </head>
+
+
+
+   <body>
+      <!--#include virtual="top.html" -->
+      <h1><span class="banner">Regex Exercise (Test): Autotag the Radio Script of <i>The Maltese Falcon</i></span></h1>
+      <ul>
+         
+         <li><a href="explainRegex.html">Our newtFire tutorial
+            on Autotagging with Regular Expressions (Regex)</a> 
+         </li>
+         <li><a href="http://www.regular-expressions.info/tutorial.html">Regular-Expressions.info Tutorial</a>: a mine of helpful detail on regular expression matching,</li>
+      </ul>	
+     
+     <h2>The test</h2>
+     <ul><li>For this test you need to download the <a href="MalteseFalcon.txt">Maltese Falcon</a> file from this page (right-click on the file and save it to your computer).</li>
+     
+     <li>After you have the file downloaded and opened the file in oXygen, open the Find/Replace window.</li>
+     
+        <li><strong>Read this exam carefully: This is different from the homework assignments because sometimes we are giving you expressions to test and explain what they are matching.</strong></li>
+        <li>Open new markdown or text file to record your responses to each of the questions. <strong>Record a response to each of the following tasks carefully</strong>, since this is the file we will be evaluating for exam credit. 
+           These will include global Find-and-Replace operations working with oXygen’s Regular Expression search features..  
+           Your goals are to answer each question clearly and precisely, and to produce a well-formed XML document at the end of the exercise. However, even if you have have trouble generating a well-formed XML document, what's most important is that you document the steps you took for partial exam credit.</li>
+     
+     <li>We have already verified for you that there are no reserved characters.</li>
+     
+     <li>Also there are no groups of blank lines exceeding 2 (\n{2}).</li>
+        <li><strong>Before you begin</strong>, make sure you have set up your Find and Replace for searching with regular expressions, that case sensitive searching  and Wrap around are checked on, and that you are able ot see space characters in your oXygen window. You will be adjusting below whether or not to select "Dot matches all" when you use the dot <code>.</code> regex.</li>
+     </ul>
+     
+     <h3>Your Tasks:</h3>   
+     
+     <ol><li><p>We want all of you to <strong>begin by testing the following regular expression Find and Replace patterns and adjusting your settings as needed</strong>, in order to match every visible block of text separated by two newlines (hard returns) and replace it with a <code>sp></code> tags.</p>
+        <p>First, please paste in the following regex pattern in the <strong>Find</strong> window: <code>^(.+?)(\n\n)</code>, and in the <strong>Replace</strong> window, paste in this expression: <code>&lt;sp&gt;\1&lt;/sp&gt;\2</code>. Then, answer the following questions in your markdown or text file:</p>
+        <ol>
+           <li>Experiment with the <strong><q>Dot matches all</q></strong> setting: Inspect the results when Dot matches all is not checked, and then when it is checked. Then explain here, should you turn on <q>Dot matches all</q>, or not? Explain why or why not. (4 points)</li>
+           <li>Explain exactly what <code>\1</code> and <code>\2</code> are referring to in the replace window. What are these referring to in the Find expression, and why do we need to use these expressions? (4 points)</li>
+           <li>When you have decided the best course of action, complete the Find and replace to tag the text blocks with <code>&lt;sp&gt;.....&lt;/sp&gt;</code>.</li>
+           
+        </ol>
+     
+     </li>
+        <li>What Find and Replace operation can you use to tag the stage directions (or cues for the actors) in this document? Record your Find and Replace operations, and if you use the dot in your expression, indicate whether you use Dot matches all or not (or whether it makes any difference). (5 points)
+
+          </li>
+        
+        <li>What Find and Replace operation can you use to tag the speakers? Record your Find and Replace operations, and if you use the dot in your expression, indicate whether you use Dot matches all or not (or whether it makes any difference). (5 points) </li>
+        
+        <li>Add a root element to your document, save it as XML, and note anything you need to do (if anything) to make this a well-formed XML document (showing the green square). (2 points)</li>
+        <li><strong>Optional: Extra credit </strong>(2 points): Notice that there are some stage directions that are not really meant to be inside character’s speeches. Can you use regular expressions to search and replace stage directions that are marked inside <code>&lt;sp&gt;</code> elements but are not inside real speeches—just block stage directions meant to stand by themselves? Record your expressions to remove the unnecessary <code>&lt;sp&gt;</code> elements from the code as a last step.</li>
+     <li>Submit two files on Canvas to complete this test:
+             <ul>
+                <li>Your markdown or text file in which you have recorded your responses these exam questions (saved with <code>.md</code> or <code>.txt</code> file extension as in <code>stepFile.md</code>).</li>
+                <li>Your resulting file, saved with <code>.xml</code> file extension as in <code>MalteseFalcon.xml</code>.</li>
+             </ul>
+     
+     </li>
+        
+     </ol>
+      
+      
+   </body>
+
+</html>

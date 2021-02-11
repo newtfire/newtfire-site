@@ -29,24 +29,24 @@
      <li>After you have the file downloaded and opened the file in oXygen, open the Find/Replace window.</li>
      
         <li><strong>Read this exam carefully: This is different from the homework assignments because sometimes we are giving you expressions to test and explain what they are matching.</strong></li>
-        <li>Open new markdown or text file to record your responses to each of the questions. <strong>Record a response to each of the following tasks carefully</strong>, since this is the file we will be evaluating for exam credit. 
+        <li>Open a new markdown or text file to record your responses to each of the questions. <strong>Record a response to each of the following tasks carefully</strong>, since this is the file we will be evaluating for exam credit. 
            These will include global Find-and-Replace operations working with oXygen’s Regular Expression search features..  
            Your goals are to answer each question clearly and precisely, and to produce a well-formed XML document at the end of the exercise. However, even if you have have trouble generating a well-formed XML document, what's most important is that you document the steps you took for partial exam credit.</li>
      
      <li>We have already verified for you that there are no reserved characters (<code>&amp;</code>, <code>&lt;</code>, and <code>&lt;</code>).</li>
      
-        <li>Also there are no groups of blank lines exceeding 2 (<code>\n{2}</code>).</li>
+        <li>Also there are no groups of blank lines exceeding 2 (<code>\n{2,}</code>).</li>
         <li><strong>Before you begin</strong>, make sure you have set up your Find and Replace for searching with regular expressions, that case sensitive searching  and Wrap around are checked on, and that you are able ot see space characters in your oXygen window. You will be adjusting below whether or not to select "Dot matches all" when you use the dot <code>.</code> regex.</li>
      </ul>
      
      <h3>Your Tasks:</h3>   
      
-     <ol><li><p>We want all of you to <strong>begin by testing the following regular expression Find and Replace patterns and adjusting your settings as needed</strong>, in order to match every visible block of text separated by two newlines (hard returns) and replace it with a <code>sp></code> tags.</p>
+     <ol><li><p>We want all of you to <strong>begin by testing the following regular expression Find and Replace patterns and adjusting your settings as needed</strong>, in order to match every visible block of text separated by two newlines (hard returns) and replace it with a <code>&lt;sp&gt;</code> tags.</p>
         <p>First, please paste in the following regex pattern in the <strong>Find</strong> window: <code>^(.+?)(\n\n)</code>, and in the <strong>Replace</strong> window, paste in this expression: <code>&lt;sp&gt;\1&lt;/sp&gt;\2</code>. Then, answer the following questions in your markdown or text file:</p>
         <ol>
            <li>Experiment with the <strong><q>Dot matches all</q></strong> setting: Inspect the results when Dot matches all is not checked, and then when it is checked. Then explain here, should you turn on <q>Dot matches all</q>, or not? Explain why or why not. (4 points)</li>
            <li>Explain exactly what <code>\1</code> and <code>\2</code> are referring to in the replace window. What are these referring to in the Find expression, and why do we need to use these expressions? (4 points)</li>
-           <li>When you have decided the best course of action, complete the Find and replace to tag the text blocks with <code>&lt;sp&gt;.....&lt;/sp&gt;</code>.</li>
+           <li>When you have decided the best course of action, complete the Find and Replace operation to tag the text blocks with <code>&lt;sp&gt;.....&lt;/sp&gt;</code>.</li>
            
         </ol>
      

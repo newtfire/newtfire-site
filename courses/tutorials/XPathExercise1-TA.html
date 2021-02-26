@@ -1,0 +1,64 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <link rel="stylesheet" type="text/css" href="../explain.css" />
+      <title>XPath Exercise 1 (TA)</title>
+   </head>
+
+
+
+   <body>
+      <!--#include virtual="topAuthorDJB.html" -->
+      <h1><span class="banner">XPath Exercise 1: XPath on Hamlet</span></h1>
+      <h2>Getting started</h2>
+     <ul> <li>Launch &lt;oXygen/&gt; editor, hit <strong>Ctrl+u (Windows)</strong> or <strong>Cmd+u (MacOS)</strong>, copy and paste the string <code>http://newtfire.org:8338/exist/apps/shakespeare/data/ham.xml</code>, and hit OK. (Backup copy at <code>https://raw.githubusercontent.com/ebeshero/UpTransformation/master/data/ham.xml</code>.) This is a copy of Hamlet with TEI markup.</li>
+        <li>Set the dropdown in the upper left to XPath 3.1 (if it is not set like this already). (This widget is called the <dfn>XPath Toolbar</dfn>⬀.)</li>
+        <li>Go to <strong>Window → Show View → XPath/XQuery Builder</strong>. Set the dropdown in the upper left to XPath 3.1. Enter some XPath expressions (may span multiple lines; Enter for a new line). To run, hit Ctrl+Enter (Windows) or Cmd+Enter (MacOS), or click the red right-pointed triangle.</li>
+      </ul>
+      
+      <h2>The assignment</h2>
+      <p>Respond to the XPath
+         questions below in a text or markdown file, and <a href="https://canvas.psu.edu">upload to Canvas</a>
+         for this assignment when you’re finished. (Please upload a file! If you paste your
+         answers into the text box, Canvas may munch the code formatting.) I like using a separate text editor for this kind of exercise, or using the Tile Editors Vertically option in &lt;oXygen/&gt; (Window → Tile Editors Vertically). Some of these tasks are
+         thought-provoking, and even difficult. If you get stuck, do the best you can, and if you
+         can’t get a working answer, give the answers you tried and explain where they failed to get
+         the results you wanted. Sometimes doing that will help you figure out what’s wrong, and
+         even when it doesn’t, it will help us identify the difficult moments.  Consult our
+         introductory guide <cite class="sub"><a href="explainXPath.html">Follow the
+            XPath!</a></cite> for help with constructing your expressions.</p>
+      
+      <p>With the <i>Hamlet</i> play and th XPath browser window in &lt;oXygen/&gt;, construct XPath expressions that will do the following. <strong>Be sure to give the
+         XPath expression you used in your answer, and don’t just report your results.</strong>
+         This way, if the answer is incorrect, we can help explain what went wrong. </p>
+      
+     <ol>
+        <li>Hamlet, like a typical Shakespearean tragedy, contains five acts, each of which contains scenes. Both acts and scenes are encoded as division (<code>&lt;div&gt;</code>) elements.
+           <ol><li>How can XPath tell apart the acts and the scenes?</li>
+              <li>What XPath would find just the acts?</li>
+              <li>What XPath would find just the scenes?</li>
+              <li>What Xpath would find just the scenes inside Act III?</li>
+           </ol>
+           </li>
+        <li>Stage directions (<code>&lt;stage&gt;</code> occur in a variety of places in this XML file.
+            <ol>
+               <li>What XPath would find all of the stage directions that are inside a metrical line (<code>&lt;l&gt;</code>), that is, between the starting <code>&lt;l&gt;</code> and the ending <code>&lt;/&gt;></code>. How many stage directions are inside lines?</li>
+               <li>What XPath would find all of the stage directions that are directly inside a speech (<code>&lt;sp&gt;</code>), that is inside a speech but <em>not</em> inside a line within a speech?</li>
+               <li>What XPath would find all of the stage directions that are not directly inside a speech or a line? How many are there?</li>
+               <li>For the stage directions you identified in #2c, above, write an XPath expression that will return not the <code>&lt;stage&gt;</code> elements themselves, but their parent elements, whatever they might be. What are those parent elements? (You haven't yet learned the XPath to return just the names of the parent elements [rather than the elements themselves], but you can locate them, click on each one in the list &lt;oXygen/&gt; returns, and look at it directly.)</li>
+            </ol>
+        
+        </li>
+         
+        
+     </ol>
+      
+    
+   </body>
+
+</html>

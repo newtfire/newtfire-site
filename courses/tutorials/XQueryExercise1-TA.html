@@ -17,13 +17,13 @@
       	
       		
       <h1><span class="banner">XQuery Exercise 1</span></h1>
-      		    		
+   <!--2021-03-01 ebb: Modified for the Behrend Text Analysis class to follow immediately after XPath Exercise 1. -->   		    		
       			
       <p>For our first XQuery exercise we’ll be working with a special collection of Shakespeare’s plays coded in TEI that are part of <a href="http://exist.newtfire.org">our eXist XML database</a>. Because the XML elements in this collection are coded in the TEI namespace, we need to begin by declaring that TEI is our default element namespace (otherwise we will be unable to access the element nodes in the collection). Open eXide, and a new XQuery window, and paste in the following line, all the way to the semicolon, to establish that we are working in the TEI namespace:</p>
          <pre>declare default element namespace "http://www.tei-c.org/ns/1.0";</pre>
          <p>You can then access this collection:</p> <pre>collection('/db/apps/shakespeare/data/')</pre>
-    			
-      <p>As you work on this it will help you to refer to <a href="explainXQuery.html">our XQuery tutorial page</a> to look up how to access files in a collection and see examples of queries. Write XQuery expressions for each of the following tasks using the eXide window in our eXist database, and test them by hitting the <q>Eval</q> button. Then paste your XQuery expressions into a text file, adding comments as needed. You will be submitting your text file to Courseweb. 
+    	<p>If your connection to our eXist-dB doesn’t work, you can work with the same collection stored in our textAnalysis-Hub under Class-Examples > XQuery > shakespeare > data. You should copy this directory to your own space on your computer and you may either load into a local installation of eXist-dB or work on this in oXygen as a file directory. <strong>If working in oXygen,</strong> open a new XQuery document to write your expressions and save somewhere outside the data directory: you will need to determine how to address the collection as a local file path on your computer, relative to where you save your XQuery document. Work in the XQuery Debugger view: toggle the tiny XQuery button in the top right-hand corner of oXygen. Save your homework file with the <code>.xquery</code> extension.</p>		
+      <p>As you work on this it will help you to refer to <a href="explainXQuery.html">our XQuery tutorial page</a> to look up how to access files in a collection and see examples of queries. Write XQuery expressions for each of the following tasks using the eXide window in our eXist database, and test them by hitting the <q>Eval</q> button. Then paste your XQuery expressions into a markdown or text file, adding comments as needed. You will be submitting your markdown or text file to Canvas. 
       </p>
       			
       <ol>
@@ -74,10 +74,17 @@ All's Well That Ends Well
 <li>Write an XPath expression that isolates the root element <code>TEI</code> of each play. Notice how you can page through the results using the arrows on top of the return window in eXide. We want to be able to isolate specific plays with interesting features, and to do that we will write filters on the root elements of each one.</li> 
          <li>Speeches are coded in the Shakespeare plays like this:
         <pre>&lt;sp who="ID"&gt;&lt;speaker&gt;Name&lt;/speaker&gt; text of the speech&lt;/sp&gt;</pre>
-         Write an expression that locates a play holding a speaker named Ferdinand. Which play is it? Record your expression.
+         Write an expression using a predicate <code>[ ]</code> on the TEI element to help you locate four plays that hold a speaker named Falstaff. Which plays are they? Record your XPath expression. Writing the predicate requires that you specify how to look down the tree from the TEI element, and not from top of the collection. Hint: This involves using a dot <code>.</code> or using the name of the <code>descendant::</code> axis. (Notice the difference when you do not specify these things.) 
          </li>
-         <li>Modify your expression to return only the main title of that play, and record your expression.</li>
-         <li>Now, let’s see if we can find three very special plays that contains a count of more than 58 unique (distinct) speakers! First, see if you can find the play, and
+         <li>Modify your expression to return only the main titles of those four plays, and record your expression. Notice where the title ements are recorded in the document. Hint: You will need to modify our expression to return not the whole TEI elements, but to step down the tree and return the element holding the main title of the play. (Note: In an XPath expression, you can step down the tree after your predicate filter on the TEI element.)</li>
+         <li>Describe what changes in your results if you add <code>text()</code> or <code>string()</code> to your previous statement. (One of these, <code>text()</code> reaches a node in the XML tree. The other, <code>string()</code>, works as an XPath function to pull all descendant text nodes from within an element.)</li>
+        <li>Falstaff is one of the characters who turns up in multiple Shakespeare plays. So how often does Falstaff speak in this whole Shakespeare collection? Write a new XPath expression to return all of the speeches spoken by Falstaff. Then modify your expression to use the <code>count()</code> function and return only the numerical count. </li>
+         <li><strong>XQuery FLWOR Statement or XPath expression?:</strong> Did you write your XQuery for finding all of Falstaff's speeches with a long XPath expression (from left to
+            right, starting from the <code>collection()</code>)? Or did you write it up as a FLWOR statement in multiple lines, storing information in variables and referring to them? (Review <a href="explainXQuery.html">our tutorial</a> for details and examples on writing FLWOR statements using variables.) Whichever way you chose to write your XQuery in the previous steps, try the <em>other</em> way and see if you can duplicate your results. Record your XPath / XQuery expressions in your text file.  </li>
+         <li><strong>Optional challenge: </strong> Our last step, which we will explore together in class next time, is to return information about how often Falstaff speaks in each play. For this we will learn to write a FLWOR statement using a <q>For loop</q> that looks inside each play, finds Falstaff's speeches, counts them, and returns them along with the title. (Feel free to give this a try yourself ahead of time here, though it is not required for homework.)</li>
+         
+    <!--  2021-03-1 ebb: SAVE FOR NEXT TIME:
+       <li>Now, let’s see if we can find three very special plays that contains a count of more than 58 unique (distinct) speakers! First, see if you can find the play, and
             then return only its main title (recalling the code you wrote previously). You will need to use <code>count()</code> and <code>distinct-values()</code>, and you’ll need a construction involving 
             <strong>a count(of something) greater than 58</strong> . 
             				<p>Starting from the collection, drill down to the <code>&lt;TEI&gt;</code> elements in the collection (you know there are 42 TEI root elements—one for each play), then filter them based
@@ -92,14 +99,11 @@ All's Well That Ends Well
             <li>What if we wanted only to return the <strong>file name with its file extension</strong> after the last forward slash (<code>/</code>) in the preceding results of <code>base-uri()</code>? How could we remove the previous string of text in our output? We would use the <code>tokenize()</code> function (which you can look up on at the <a href="https://www.w3schools.com/xml/xsl_functions.asp">w3schools list of XPath functions</a> or in the Michael Kay book). That function breaks apart a string of text by dividing it at a particular regex pattern, and in this case the pattern is the forward slash. The <code>tokenize()</code> function returns <em>tokens</em> or broken-off pieces of a string: each chunk before and after the regex you enter. In order to isolate <em>just</em> the piece we want, we can identify the pieces by their position in the sequence of broken pieces: is it the first token, the second, the third, or the last one, whatever it is? To retrieve the first token, after you run the tokenize function, you can place a predicate holding the position value: <code>[1]</code>, <code>[2]</code>, etc. To retrieve <em>the last item</em> in a series, without knowing its numerical position, you can use the <code>last()</code> function (which you can read about in the same resources we mentioned above or in <q><a href="http://dh.obdurodon.org/functions.xhtml">The Xpath functions we use the most</a></q>). Note that nothing goes inside the parentheses in <code>last()</code>. With this information, then, how would you write your XQuery to return just the last part of the results of the <code>base-uri()</code> function, the part that appears after the last forward slash character? Record your expression. </li>
          </ul>			
          </li>
-         			  
-         <li><strong>FLWOR Statement or XPath expression?:</strong> Did you write your XQuery for the play with the count of more than 58 distinct speakers with a long XPath expression (from left to
-            right)? Or did you write it up as a FLWOR statement? (Review <a href="explainXQuery.html">our tutorial</a> for details and examples on writing FLWOR statements using variables.) Whichever way you chose to write your XQuery in the previous steps, try the <em>other</em> way and see if you can duplicate your results. Record your XQuery expressions in your text file. 
-         </li>
+         			  -->
          			
       </ol>
       		
-      	<p>When you have completed the assignment copy and paste your expressions into a text file. Upload your text file containing your XQuery expressions to Courseweb.</p>
+      	<p>When you have completed the assignment copy and paste your expressions into a text file. Upload your text file containing your XPath and XQuery expressions to Canvas.</p>
    </body>
    
    

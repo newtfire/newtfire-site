@@ -16,7 +16,7 @@
       <!--#include virtual="top.html" -->
       	
       		
-      <h1><span class="banner">XQuery Exercise 1</span></h1>
+      <h1><span class="banner">XQuery Exercise 1 (TA)</span></h1>
    <!--2021-03-01 ebb: Modified for the Behrend Text Analysis class to follow immediately after XPath Exercise 1. -->   		    		
       			
       <p>For our first XQuery exercise we’ll be working with a special collection of Shakespeare’s plays coded in TEI that are part of <a href="http://exist.newtfire.org">our eXist XML database</a>. Because the XML elements in this collection are coded in the TEI namespace, we need to begin by declaring that TEI is our default element namespace (otherwise we will be unable to access the element nodes in the collection). Open eXide, and a new XQuery window, and paste in the following line, all the way to the semicolon, to establish that we are working in the TEI namespace:</p>
@@ -76,7 +76,7 @@ All's Well That Ends Well
         <pre>&lt;sp who="ID"&gt;&lt;speaker&gt;Name&lt;/speaker&gt; text of the speech&lt;/sp&gt;</pre>
          Write an expression using a predicate <code>[ ]</code> on the TEI element to help you locate four plays that hold a speaker named Falstaff. Which plays are they? Record your XPath expression. Writing the predicate requires that you specify how to look down the tree from the TEI element, and not from top of the collection. Hint: This involves using a dot <code>.</code> or using the name of the <code>descendant::</code> axis. (Notice the difference when you do not specify these things.) 
          </li>
-         <li>Modify your expression to return only the main titles of those four plays, and record your expression. Notice where the title ements are recorded in the document. Hint: You will need to modify our expression to return not the whole TEI elements, but to step down the tree and return the element holding the main title of the play. (Note: In an XPath expression, you can step down the tree after your predicate filter on the TEI element.)</li>
+         <li>Modify your expression to return only the main titles of those four plays, and record your expression. Notice where the title elements are recorded in the document. Hint: You will need to modify our expression to return not the whole TEI elements, but to step down the tree and return the element holding the main title of the play. (Note: In an XPath expression, you can step down the tree after your predicate filter on the TEI element.)</li>
          <li>Describe what changes in your results if you add <code>text()</code> or <code>string()</code> to your previous statement. (One of these, <code>text()</code> reaches a node in the XML tree. The other, <code>string()</code>, works as an XPath function to pull all descendant text nodes from within an element.)</li>
         <li>Falstaff is one of the characters who turns up in multiple Shakespeare plays. So how often does Falstaff speak in this whole Shakespeare collection? Write a new XPath expression to return all of the speeches spoken by Falstaff. Then modify your expression to use the <code>count()</code> function and return only the numerical count. </li>
          <li><strong>XQuery FLWOR Statement or XPath expression?:</strong> Did you write your XQuery for finding all of Falstaff's speeches with a long XPath expression (from left to

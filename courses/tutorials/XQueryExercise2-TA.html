@@ -1,0 +1,71 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   
+   	
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <link rel="stylesheet" type="text/css" href="explain.css" />
+      <title>XQuery Exercise 1</title>
+   </head>
+   
+   
+   
+   <body>
+      <!--#include virtual="top.html" -->
+      	
+      		
+      <h1><span class="banner">XQuery Exercise 2 (TA)</span></h1>
+      
+      <p>We continue working with our collection of Shakespeare’s plays stored in <a href="http://exist.newtfire.org">our eXist XML database</a>. Record your responses to the following questions in a text or markdown file. In eXide or oXygen, keep your top line the same to declare that TEI is the defaulte element namespace and to access the collection of files. (Here is the code you need at the top in order for XQuery to read the collection): </p>
+      
+      <pre>declare default element namespace "http://www.tei-c.org/ns/1.0";</pre>
+
+   
+<p>In our first XQuery exercise we isolated plays with Falstaff as the speaker. We're going to go back to <strong>querying the entire collection now</strong> instead of just that subset.</p>
+     <ol>
+      <li>For this exercise, let’s see if we can find seven special plays that contain a count of more than 50 unique (distinct) speakers! 
+         <ol><li>Start a FLWOR by defining a variable that points to the whole Shakespeare collection. If you are working in eXist-dB's eXide, it looks like this: (Adapt your path in collection to your local file system as shown in class if you are running this in oXygen.) 
+            <pre>let $plays := collection('/db/apps/shakespeare/data/')//TEI</pre></li>
+         
+         <li>Now, define a variable using <code>let</code> that will find all of the speakers in the plays and return it to make sure you are seeing <code>&lt;speaker&gt;</code> elements. How many results do you see?
+         (Try sending your sequence to the <code>count()</code> function with <code>=> count()</code> and return the number.)
+         </li>
+         <li>Take a look at what the <code>distinct-values()</code> function does. Write a variable that sends the sequence of speaker elements to the <code>distinct-values()</code> function. 
+            Then <code>return</code> it and look at the results: Distinct values removes duplicates from the list: From what you can see, did this function do a perfect job? Why or why not?)
+         </li>
+         <li>Now write a variable to return a <code>count()</code> on those <code>distinct-values()</code>. How many are there?</li>
+         <li>Okay: now that you have seen how these functions work, let’s apply them to answer our main question: Remember, we want to find the plays that contain a <strong>count</strong> of <strong>more than 50</strong> distinct speakers. For this we need to 
+            <ul><li>Look inside each play one by one using a <code>for</code> loop in our FLWOR, like this:
+            <pre><code>for $p in $plays</code></pre>
+            </li>
+               <li>Now, we work with the <code>$p</code> variable: (This little variable made in the <code>for</code> statement is known as a <dfn>range variable</dfn> and it is working on <em>one play at a time</em>.) First, make a new variable that catches the main title of each <code>$p</code> (you will need this for your output!)  Use <code>return</code> to make sure your new variable is working.</li>
+               <li>Continue working with <code>$p</code>: Return each play’s distinct-values of speakers. Then return the <code>count()</code> of those distinct-values. When you return you should see 43 different results in eXide. </li>
+               <li>Use a <code>where</code> statement (the <q>W</q> in the <q>FLWOR</q>), to ask for <strong>a count greater than 50</strong>.</li>
+               <li>Experiment with returning the count, then return the title. You should now be seeing just 7 results.</li>
+            
+         </ul> 
+         </li> 
+           
+         </ol>
+      </li>
+      
+      <li><ol><li>Modify your solution to the preceding question to return <strong>just the text of the seven play titles, without the <code>&lt;title&gt;</code> tags</strong>. (You can take the same approach that you did in the previous homework exercise.)</li>
+         <li>When retrieving a single file from a collection, the <code>base-uri()</code> function can be useful. Try appending <code>base-uri()</code> to your XQuery expression and run it: What result do you see in the output window, and what is it telling you? </li>
+         <li>We can bundle (or <dfn>concatenate</dfn>) our results together using the <code>concat()</code> function, as shown in class. Write your XQuery to concatenate the count with the title and its filepath. </li>
+         <li><strong>Optional Challenge</strong>: What if we wanted only to return the <strong>file name with its file extension</strong> after the last forward slash (<code>/</code>) in the preceding results of <code>base-uri()</code>? How could we remove the previous string of text in our output? We would use the <code>tokenize()</code> function (which you can look up on at the <a href="https://www.w3schools.com/xml/xsl_functions.asp">w3schools list of XPath functions</a> or in the Michael Kay book). That function breaks apart a string of text by dividing it at a particular regex pattern, and in this case the pattern is the forward slash. The <code>tokenize()</code> function returns <em>tokens</em> or broken-off pieces of a string: each chunk before and after the regex you enter. In order to isolate <em>just</em> the piece we want, we can identify the pieces by their position in the sequence of broken pieces: is it the first token, the second, the third, or the last one, whatever it is? To retrieve the first token, after you run the tokenize function, you can place a predicate holding the position value: <code>[1]</code>, <code>[2]</code>, etc. To retrieve <em>the last item</em> in a series, without knowing its numerical position, you can use the <code>last()</code> function (which you can read about in the same resources we mentioned above or in <q><a href="http://dh.obdurodon.org/functions.xhtml">The Xpath functions we use the most</a></q>). Note that nothing goes inside the parentheses in <code>last()</code>. With this information, then, how would you write your XQuery to return just the last part of the results of the <code>base-uri()</code> function, the part that appears after the <strong>last</strong> forward slash character? (Concatenate your results as before, only this time with your trimmed reference to just the filename.)</li>
+         
+         
+      </ol>			
+      </li>
+      </ol>
+      
+      		
+      	<p>When you have completed the assignment copy and paste your expressions into a text file. Upload your text file containing your XPath and XQuery expressions to Canvas.</p>
+   </body>
+   
+   
+   
+   
+</html>

@@ -1,0 +1,102 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   
+   	
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <link rel="stylesheet" type="text/css" href="explain.css" />
+      <title>XQuery Exercise 3</title>
+   </head>
+   
+   
+   
+   <body>
+      <!--#include virtual="top.html" -->
+      	
+      		
+      <h1><span class="banner">XQuery Exercise 3 (TA)</span></h1>
+      <p>For this exercise, we will work with a student-coded collection of XML files from the Disney Songs project. Our collection represents a work in progress by the team as of 5 March 2021, and contains 17 XML files. Copy your queries into a text or markdown file in response to this exercise so you can submit them on Canvas. </p>
+      
+      <p><strong>If you need to work with this on your local computer outside of our newtfire eXist-dB</strong>, the collection is stored in our textAnalysis-Hub at Class-Examples >> XQuery >> disneySongs. Please copy the directory to your own space (such as your own GitHub repo), and write your queries over it from oXygen. You can also work with your own local installation of eXist-dB: check with Dr. B about how to set this up and upload your own file directories.</p>
+      
+      <p>You can access our newtFire eXist-dB eXide from <a href="http://exist.newtfire.org">http://exist.newtfire.org</a>. (Please alert Dr. B on Slack if you have trouble opening eXide or accessing the database.)  </p>
+      <p>On newtFire's eXist, the Disney Songs collection is stored in this filepath <code>'/db/disneySongs/'</code>, so we can access it with:</p>
+      <pre>collection('/db/disneySongs/')</pre>
+      
+     <p>The song files contain metadata about song titles and movie origins. Here is a short sample file: </p>
+      
+      <pre>
+  &lt;xml&gt;
+    &lt;metadata&gt;
+        &lt;title&gt; One Jump Ahead (Reprise 2)&lt;/title&gt;
+        &lt;origin&gt;Lyrics from &lt;movie&gt;Aladdin (Live-Action)&lt;/movie&gt;
+        &lt;/origin&gt;
+        &lt;author&gt;Music by &lt;composer ref="#Menken"&gt;Alan Menken&lt;/composer&gt; Lyrics by &lt;lyricist ref="#Pasek"&gt;Benj Pasek&lt;/lyricist&gt; and &lt;lyricist ref="#Paul"&gt;Justin Paul&lt;/lyricist&gt;
+        &lt;/author&gt;
+        &lt;perform&gt;Performed by &lt;voiceActor ref="#Massoud" role="#Aladdin"&gt;Mena Massoud&lt;/voiceActor&gt; as Aladdin&lt;/perform&gt;
+    &lt;/metadata&gt;
+
+    &lt;song&gt;
+        &lt;lg n="1"&gt;
+            &lt;ln n="1"&gt; Riffraff! Street rat! Would they think that&lt;/ln&gt;
+            &lt;ln n="2"&gt;If they look much closer&lt;/ln&gt;
+            &lt;ln n="3"&gt;Still, I can't play a prince here&lt;/ln&gt;
+            &lt;ln n="4"&gt;No, siree&lt;/ln&gt;
+        &lt;/lg&gt;
+
+        &lt;lg n="2"&gt;
+            &lt;ln n="1"&gt;Gotta tell the truth&lt;/ln&gt;
+            &lt;ln n="2"&gt;I can't pretend&lt;/ln&gt;
+            &lt;ln n="3"&gt;Even if it means this dream will end&lt;/ln&gt;
+            &lt;ln n="4"&gt;Even if she walks away from me&lt;/ln&gt;
+        &lt;/lg&gt;
+    &lt;/song&gt;
+&lt;/xml&gt;
+</pre>
+      <p>Let us begin by querying the database to return information about each individual song:</p> 
+         <pre>
+         let $disneySongs := collection('/db/disneySongs/')
+         for $d in $disneySongs
+         </pre>
+         <p>(If you were to return <code>$d</code> at this point, you would return each of the 17 XML files in this collection.)</p>
+      <p>Let's start by building up a FLWOR that looks for information about each song: </p>     
+
+      <ol><li>Working with <code>$d</code>, write and return variables to retrieve `<code>&lt;title&gt;</code> element of each song. Record your FLWOR statement in your homework file.</li> 
+   <li>Write and return a variable for the count of lines in each song. (Use the <code>count()</code> function.) </li>
+   <li>What if you wanted to measure the length of the songs a little differently, based on literally how much text they have? Let's try out the <code>string-length()</code> function. Remember how <code>string()</code> looks down the tree from any element to return all the <code>text()</code> nodes inside? <code>string-length()</code> does the same thing, but returns a numerical count of the text characters (letters and punctuation marks). Try making a variable that captures the <code>string-length()</code> of the entire <code>&lt;song&gt;</code> element.</li>
+   <li>Write an <code>order by</code> statement to organize your results in descending order, from highest to lowest string-length. </li>
+   <li>Now, build up your return to use the <code>concat()</code> function so that it bundles together each song title with its line count and its string length. Add some <code>"text"</code> strings inside to make it readable!</li>
+   <li>Okay, what if you want to return only the song information about the longest or the shortest song in the list? For this we will need to write some new variables to use the <code>max()</code> function, and the <code>min()</code> function. Write variables to store and return the <code>max()</code> and <code>min()</code> string-length values.</li>
+   <li>Try writing a where statement to return results only <strong>where the string-length of a song equals the maximum string-length</strong>. Can you limit your return to one line holding the longest song’s information? And try doing the same with the shortest song’s information.</li>
+ </ol>
+<!--       
+      
+      let $disneySongs := collection('/db/disneySongs/')
+      (:   :for $d in $disneySongs
+      let $title := $d//title
+      let $countLines := $d//ln => count()
+      where $title ! string-length() > 0 
+      order by $countLines descending
+      return concat($title[last()], ": ", $countLines) 
+      :)
+      
+      let $composers := $disneySongs//composer/@ref 
+      let $distComposers := $composers => distinct-values()
+      for $c in $distComposers
+      let $songsMatch := $disneySongs//metadata[.//composer/@ref = $c]/title => distinct-values()
+      let $stringSongs := string-join($songsMatch, ', ')
+      return concat($c, " composed ", $stringSongs)
+      
+      
+         -->
+
+      		
+      	<p>When you have completed the assignment, copy and paste your expressions into a text or markdown file. (If you have been working in oXygen, you may save your XQuery file as <code>.xquery</code> or <code>.xql</code> to submit as well.) Upload your file containing your XPath and XQuery expressions to Canvas.</p>
+   </body>
+   
+   
+   
+   
+</html>

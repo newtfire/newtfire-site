@@ -7,7 +7,7 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
       <link rel="stylesheet" type="text/css" href="explain.css" />
-      <title>XQuery Exercise 3</title>
+      <title>XQuery Exercise 4</title>
    </head>
    
    
@@ -16,16 +16,16 @@
       <!--#include virtual="top.html" -->
       	
       		
-      <h1><span class="banner">XQuery Exercise 3 (TA)</span></h1>
-      <p>For this exercise, we will work with a student-coded collection of XML files from the Disney Songs project. Our collection represents a work in progress by the team as of 5 March 2021, and contains 17 XML files. Copy your queries into a text or markdown file in response to this exercise so you can submit them on Canvas. </p>
+      <h1><span class="banner">XQuery Exercise 4 (TA)</span></h1>
+      <p>Let’s continue working with our Disney Songs project team’s collection of XML files that we used in <a href="../tutorials/XQueryExercise3-TA.html">XQuery Exercise 3</a>. Our collection represents a work in progress by the team as of 5 March 2021, and contains 17 XML files. This time, we encourage you to experiment with installing eXist-dB locally on your computer (following instructions). Copy your queries into a text or markdown file in response to this exercise so you can submit them on Canvas. </p>
       
-      <p><strong>If you need to work with this on your local computer outside of our newtfire eXist-dB</strong>, the collection is stored in our textAnalysis-Hub at Class-Examples >> XQuery >> disneySongs. Please copy the directory to your own space (such as your own GitHub repo), and write your queries over it from oXygen. You can also work with your own local installation of eXist-dB: check with Dr. B about how to set this up and upload your own file directories.</p>
+      <p>(If you need to work with this on your local computer and prefer to use oXygen, the collection is stored in our textAnalysis-Hub at Class-Examples >> XQuery >> disneySongs. Please copy the directory to your own space (such as your own GitHub repo), and write your queries over it from oXygen.) </p>
       
       <p>You can access our newtFire eXist-dB eXide from <a href="http://exist.newtfire.org">http://exist.newtfire.org</a>. (Please alert Dr. B on Slack if you have trouble opening eXide or accessing the database.)  </p>
-      <p>On newtFire's eXist, the Disney Songs collection is stored in this filepath <code>'/db/disneySongs/'</code>, so we can access it with:</p>
+      <p>On newtFire’s eXist (and probably on your local eXist, where you should upload the directory directly inside <code>/db/</code>), the Disney Songs collection is stored in this filepath <code>'/db/disneySongs/'</code>, so we can access it with:</p>
       <pre>collection('/db/disneySongs/')</pre>
       
-     <p>The song files contain metadata about song titles and movie origins. Here is a short sample file: </p>
+     <p>Just as a reminder of the XML structure for this project, here is a short sample file: </p>
       
       <pre>
   &lt;xml&gt;
@@ -55,64 +55,43 @@
     &lt;/song&gt;
 &lt;/xml&gt;
 </pre>
-      <p>Let us begin by querying the database to return information about each individual song:</p> 
-         <pre>
-         let $disneySongs := collection('/db/disneySongs/')
-         for $d in $disneySongs
-         </pre>
-         <p>(If you were to return <code>$d</code> at this point, you would return each of the 17 XML files in this collection.)</p>
-      <p>Let's start by building up a FLWOR that looks for information about each song: </p>     
+    
+<p>For this assignment, let’s generate HTML as our XQuery output, instead of just concatenated strings of text. As modeled in class, we will be writing an HTML file <em>around</em> our XQuery code and using curly braces to wrap around the parts that need to be activated as XQuery. Here is an model of how to structure this code if you wanted to create an HTML document containing a table. In the model code below, notice: </p>   
+       <ul>
+          <li>How we set the basic HTML structure and one table element to surround the XQuery FLWOR. We also put a single table row (<code>&lt;tr&gt;</code>) with special table heading elements (<code>&lt;th&gt;</code>) to sit at the top of the table,</li>
+           <li>How we positioned our FLWOR expression inside a set of curly braces, one just after the top header row of the table, and the other after the FLWOR’s return statement. </li>
+           <li>How the FLWOR is designed to return one whole <code>&lt;tr&gt;</code> element for each turn of its for loop. Inside that <code>&lt;tr&gt;</code>, we use HTML table data elements (<code>&lt;td&gt;</code>) to return the value of the XQuery variables from the for loop, a composer name and the titles associated with that composer. This code is saved in <a href="http://exist.newtfire.org">our newtfire eXist-dB</a>  and you can find and run it (using <q>Eval</q>) in <strong>db/2021-ClassExamples/</strong> or just <a href="http://exist.newtfire.org/exist/rest/db/2021-ClassExamples/Disney-composers-songs.xql">view its results as HTML code</a>.</li>
+           <li>Here is <a href="https://www.w3schools.com/html/html_tables.asp">a simple, visual w3schools tutorial on HTML tables</a> to get a sense of how these are put together.</li>
+       </ul>
+      <pre>
+xquery version "3.1";
+&lt;html&gt;
+    &lt;head&gt;&lt;title&gt;Composers and Songs&lt;/title&gt;&lt;/head&gt;
+    &lt;body&gt;
+    &lt;h1&gt;Composers and Songs in the Disney Songs Collection&lt;/h1&gt;
+    
+    &lt;table&gt;
+        &lt;tr&gt;&lt;th&gt;No.&lt;/th&gt;&lt;th&gt;Composers&lt;/th&gt;&lt;th&gt;Performers&lt;/th&gt;&lt;th&gt;List of Songs&lt;/th&gt;&lt;/tr&gt;
+    <code>{</code>
+    let $disneySongs := collection('/db/disneySongs/')
+    let $composers := $disneySongs//composer ! normalize-space() =&gt; distinct-values() =&gt; sort()
+     for $c at $pos in $composers
+       let $cTitles := $disneySongs[.//composer ! normalize-space() = $c]//title ! normalize-space() =&gt; distinct-values() =&gt; sort() =&gt; string-join(', ')
+    return 
+       &lt;tr&gt;
+          &lt;td&gt;<code>{$pos}</code>&lt;/td&gt;&lt;td&gt;<code>{$c}</code>&lt;/td&gt;&lt;td&gt;<code>{$cTitles}</code>&lt;/td&gt; 
+               
+        &lt;/tr&gt; 
+   <code>}</code>
+   &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre> 
 
-      <ol><li>Working with <code>$d</code>, write and return variables to retrieve `<code>&lt;title&gt;</code> element of each song. Record your FLWOR statement in your homework file.</li> 
-   <li>Write and return a variable for the count of lines in each song. (Use the <code>count()</code> function.) </li>
-   <li>What if you wanted to measure the length of the songs a little differently, based on literally how much text they have? Let's try out the <code>string-length()</code> function. Remember how <code>string()</code> looks down the tree from any element to return all the <code>text()</code> nodes inside? <code>string-length()</code> does the same thing, but returns a numerical count of the text characters (letters and punctuation marks). Try making a variable that captures the <code>string-length()</code> of the entire <code>&lt;song&gt;</code> element.</li>
-   <li>Write an <code>order by</code> statement to organize your results in descending order, from highest to lowest string-length. </li>
-   <li>Now, build up your return to use the <code>concat()</code> function so that it bundles together each song title with its line count and its string length. Add some <code>"text"</code> strings inside to make it readable!</li>
-   <li>Okay, what if you want to return only the song information about the longest or the shortest song in the list? For this we will need to write some new variables to use the <code>max()</code> function, and the <code>min()</code> function. Write variables to store and return the <code>max()</code> and <code>min()</code> string-length values.
-   <ul><li>This was more complicated than we realized at first! The issue is knowing when the for loop gets in the way. Our variable that returns a <code>string-length()</code> does so in context with <code>$d</code>, which is <em>just one song</em> at a time. So if we take the <code>max()</code> function inside the for loop, it will always return the current value (it is always one <code>string-length()</code> value at a time).</li>
-       <li>So, what can we do? Fortunately there is a way we can use the information we gather, file by file, in a for loop <em>outside</em> the for loop, and that involves writing a <code>let</code> statement in a new way to store the return of a for loop! Here is how to construct it: You will want need to add a variable above a for loop, whose function is to store <strong>the whole sequence</strong> that the for loop returns, like so: 
-       <pre>
-       let $songLengthsAll :=
-                 for $d in $disneySongs
-                 let $length := (: your expression that returns string-length() here:)
-                 return $length
-       let $maxSongLength := (: your expression to return the max() of the sequence of string-lengths now stored in $songLengthsAll:)
-       </pre>
-      Once you get this working, we think you will know what to do to find the minimum song length.
-       </li>
+<p>Your task with this assignment is to explore the Disney Songs collection metadata in some way different from what we did in class. You must not simply return a list of composers and their associated song titles. What other combinations can you explore? What if you looped through a distinct list of movie titles, and listed song titles, and/or the composers or voice actors associated with each? </p>
+       
+       <p>Your output could be in the form of an HTML with a set of nested lists, or a table like we set here. Use w3schools to help you with the HTML output format you need to set up. You can copy and and paste your XQuery code as usual into an text or markdown file. If you worked on this in oXygen, you can save your HTML output to an HTML file (use a <code>.html</code> extension). As we work with eXist-dB locally or with login access on my newtfire eXist-dB, you will be able to save your output, but we will go over this in class next time! In the meantime, submitting a screen capture of your output is okay, or just the XQuery of your code itself. The XQuery is the only file you need to submit for this exercise, but feel free to send output or a screen capture of it if you are able to do so! Upload your file containing your XQuery to Canvas (and sending a view of the output is optional).</p>
 
-   </ul>
-   
-   </li>
-   
-          <li>You can set up yet another <code>for</code> loop to to capture the title and other information of each play to return using <code>concat()</code>.  This time, try writing a <code>where</code> statement to return results only <strong>where the string-length of a song equals the maximum string-length</strong>. Can you limit your return to one line holding the longest song’s information? And try doing the same with the shortest song’s information.</li>
- </ol>
-<!--       
-      
-      let $disneySongs := collection('/db/disneySongs/')
-      (:   :for $d in $disneySongs
-      let $title := $d//title
-      let $countLines := $d//ln => count()
-      where $title ! string-length() > 0 
-      order by $countLines descending
-      return concat($title[last()], ": ", $countLines) 
-      :)
-      
-      let $composers := $disneySongs//composer/@ref 
-      let $distComposers := $composers => distinct-values()
-      for $c in $distComposers
-      let $songsMatch := $disneySongs//metadata[.//composer/@ref = $c]/title => distinct-values()
-      let $stringSongs := string-join($songsMatch, ', ')
-      return concat($c, " composed ", $stringSongs)
-      
-      
-         -->
-
-      		
-      	<p>When you have completed the assignment, copy and paste your expressions into a text or markdown file. (If you have been working in oXygen, you may save your XQuery file as <code>.xquery</code> or <code>.xql</code> to submit as well.) Upload your file containing your XPath and XQuery expressions to Canvas.</p>
+  
    </body>
-   
-   
-   
    
 </html>

@@ -1,0 +1,128 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   
+   	
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <link rel="stylesheet" type="text/css" href="explain.css" />
+      <title>XQuery Exercise 5</title>
+   </head>
+   
+   
+   
+   <body>
+      <!--#include virtual="top.html" -->
+      	
+      		
+      <h1><span class="banner">XQuery Exercise 5 (TA)</span></h1>
+ <p>The Blues project team has prepared a 1000+ file corpus of small XML files containing Blues lyrics for some serious large-scale text analysis! 
+ We have loaded their collection into our eXist-dB server so that it is available by defining a variable to point here. 
+ </p>  
+       <pre><code>let $blues := collection('/db/blues')</code></pre>
+       
+       
+       <p>(We have also loaded the collection on our textAnalysis-Hub at <strong>Class-Examples >> XQuery >> blues</strong> for those who want to work with it on your local computers. You may copy the collection to your local computer to work with in oXygen, or upload into your own installation of eXist-dB to query there.)</p>
+       
+       <p>For this assignment your challenge is to explore and query <strong>either</strong> the Blues collection <strong>or</strong> a collection of files you have prepared for your own team project.  and to output an HTML file containing a list or table that represents a combination of data about anything you find interesting in the collection, so long as this is not a duplicate of the example we go over together in class. When working in eXist-dB (whether on my newtfire eXist or your local computer), you will also practice saving your output by writing some new variables that permit writing output to the server that we will show you here and in class.</p>
+       
+       
+       <p>First, for your convenience, here is a view of the simple query-able XML code for one of the blues files prepared by the Blues team. (At the moment, lines and lyrics remain unmarked, but that markup will be added later using the "Find and Replace in Files" in oXygen, which permits regex replacements over a collection of files rather than one file at a time.)</p>
+       
+  <pre>
+&lt;xml&gt;
+    &lt;metadata&gt;
+        &lt;artist&gt;Muddy Waters&lt;/artist&gt;
+        &lt;title&gt; Howlin' Wolf&lt;/title&gt;
+&lt;songInfo&gt;by 
+McKinley
+Morganfield a.k.a. Muddy Waters
+
+recording of 19
+
+from probably 
+Sail
+on (Chess LPS-1539, Wolf 120893)
+,
+
+&lt;/songInfo&gt;
+    &lt;/metadata&gt;
+&lt;lyrics&gt;
+
+
+You know I'm a howlin' wolf, and I been howlin' all around your door
+
+Well you know I'm a howlin' wolf, and I been howlin' all around your door
+
+If you give me what I want little girl, and you won't hear me howl no more
+
+
+
+You know when I get-ta howlin', I dig me a hole down in the ground
+
+Well when I get-ta howlin', I dig me a hole down in the ground
+
+Some people call me a black panther, but my baby, she knows the way I sound
+
+
+
+I'll howl so long, ya know it make my time go slow
+
+I'll howl so long, if you give me what I want little girl
+
+And you won't hear me howl no more
+
+
+
+Well when I get-ta howlin', they call me "Too Bad Jim"
+
+Yeah when I get-ta howlin', ya know they call me "Too Bad Jim"
+
+You know I get so bad sometime
+
+I get real bad..., and I be jumpin' from limb to limb!
+
+
+&lt;/lyrics&gt;
+&lt;/xml&gt;</pre>
+       
+
+<p>You may work on XQuery over the Blues collection to explore something interesting in it based on its regular markup of the data you see here, so long as your code explores something different than our class example query saved in our newtfire eXist-dB. You may also simply prepare a collection and upload XML files to newtfire's eXist-dB for your team project to query. Whatever option you decide for this homework, save your query and your output to your personal folder in newtFire's eXist if you are working there. Tell me what you're doing in Canvas and copy and paste your query file there if you can. You should also be able to download the output you'll be saving to eXist-dB. (And if working in oXygen, set your output to save to a directory on your computer so you can submit it on Canvas.)</p>
+       
+<p>To save your output to the eXist-dB database, here are some new variables you need to write in eXide </p>   
+       
+<pre>
+<code>declare variable $ThisFileContent:=</code>
+    &lt;html&gt;
+        &lt;!--Your HTML file you're constructing here, complete with XQuery inside --&gt;
+        
+        {
+        
+        
+        }
+        
+    &lt;/html&gt;<code>;</code> 
+    &lt;!--YOU NEED A SEMICOLON AT THE END OF THE HTML FILE TO DECLARE THE END OF THE VARIABLE 
+    Cutomize the variables below to point to your local file directory on eXist-dB
+    --&gt;
+<code>let $filename := "bluesArtistTable.html"
+let $doc-db-uri := xmldb:store("/db/myOutput", $filename, $ThisFileContent, "html")
+return $doc-db-uri</code>  
+  (: output at :http://newtfire.org:8338/exist/rest/db/<code>myOutput</code>/bluesArtistTable.html ) :)     
+</pre>  
+<p>In the XQuery sideways-smiley-face comments on the last line, this is a special REST website address you can use to see the HTML rendered in the web browser after it is stored in the database. NOTE: You must customize the first argument of <code>xmldb:store()</code> to point to your personal file directory on the eXist-dB where you want to save your output. So for our class example, I wanted to save to <code>/db/2021-ClassExamples</code>. So I set up the statement to read this:</p>
+       <pre><code>let $doc-db-uri := xmldb:store("/db/2021-ClassExamples", $filename, $ThisFileContent, "html")</code></pre>
+       <p>Notice that I have also set this to output the "html" type. If I do not set that, I will only see code when I look at my results. And I can view my results at the special REST address: <a href="http://newtfire.org:8338/exist/rest/db/2021-ClassExamples/bluesArtistTable.html">http://newtfire.org:8338/exist/rest/db/2021-ClassExamples/bluesArtistTable.html</a>. I can also right-click on that page in my web browser, and click <strong>Save as</strong> to download the HTML file somewhere on my local computer, like my GitHub repo, or my homework files.</p>
+
+       
+ <p>Click Eval and see if this saves. You may see an error message about write access to the collection. Check the collection anyway to see if the output is there. Before running again, you'll need to delete the output file you saved. (In eXist-dB, go to Manage files, browse to the folder where you're saving output, highlight the output file, and press the trash can icon.)</p>    
+       
+      
+       
+       <p>The XQuery is the only file you need to submit for this exercise, but feel free to send output or a screen capture of it if you are able to do so! Upload your file containing your XQuery to Canvas (and sending a view of the output is optional). If you are successful in saving your HTML output, please output it as well. If you have saved your files on my eXist-dB I'll be able to access them there, too, but I'd like you to submit your work on Canvas as you've been doing just to log it there. </p>
+
+  
+   </body>
+   
+</html>

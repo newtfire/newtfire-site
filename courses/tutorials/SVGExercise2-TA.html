@@ -1,0 +1,88 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   
+   	
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <link rel="stylesheet" type="text/css" href="explain.css" />
+      <title>SVG Exercise 2 (TA)</title>
+   </head>
+   
+   
+   
+   <body>
+      <!--#include virtual="top.html" -->
+      	
+      		
+      <h1><span class="banner">SVG Exercise 2 (Text Analysis)</span></h1>
+
+<h2>XQuery to SVG: Some things to know and access as we begin</h2>
+       <p>This exercise is a tutorial in preparing SVG with XQuery, now that you understand how to plot SVG <q>by hand</q>. We will work with an Assassin's Creed project team file, the game script of <i>Assassin’s Creed Odyssey</i>, which is loaded into the newtfire eXist-dB server, and also <a href="assassinscreedodyssey.xml">available here to right-click and download</a> if needed. In <a href="http://exist.newtfire.org">the newtFire eXist-dB server</a>, you may access it by pointing a <code>doc()</code> variable to</p>
+     <pre>doc('/db/assassinsCreed/assassinscreedodyssey.xml')</pre>  
+ 
+ <p>We are starting this together in class, and this tutorial is meant to serve as a guide to the various portions of XQuery document you need to prepare. In many respects, writing XQuery to produce SVG is just like writing it to produce HTML. The crucial difference is in the way XQuery handles namespaces. XQuery understands how to work in between HTML and non-namespaced XML documents that most of you have been writing. In writing that code, you did not need to include an HTML namespace: you could simply save your file as HTML, indicate it was to be an HTML document, and the eXist-dB would handle the HTML namespace entry on your output root element for you. However, it requires some special handling to move between SVG and your XML! Without adding an SVG namespace in our XQuery code, we will not be able to view our code in a web browser. Yet as soon as we do that, we need to introduce a special prefix for the <dfn>qualified name</dfn>, or <code>Q{}</code> to permit our XPath to work and reach for data in our source XML files. We will model that here in this exercise.</p>
+   
+<h2>Our task</h2>
+<p>The Assassin’s Creed team has encoded its script to contain its series of 29 game episodes in an <code>intro</code> element followed by a series of <code>chapterNum</code> elements, each wrapping around a set of <code>action</code> and <code>sp</code> elements.</p>
+    
+<ul>  
+    <li>The <code>action</code> elements indicate some dynamic game movement or interactivity.</li>
+    
+    <li>Each <code>sp</code> element contains a <code>speaker</code> element inside holding an NPC character name, followed by the text of a speech. </li>
+</ul>
+       <p>For our exercise in plotting SVG, we will start with a pair of questions to investigate:</p>
+       <ul>
+           <li>How do the sections of the game (divided up in the <code>intro</code> and <code>chapterNum</code> elements) compare with each other in terms of relative amount of action? Let’s count up the action in each of those segments and plot it with shapes in SVG. </li>
+           <li>Then, we wonder, does the quantity of distinct speakers in each section vary with the amount of action available? Or not? Let's plot another set of shapes in SVG next to, or on top of, or together with the series we plot for the action count in each section.</li>
+       </ul>
+
+<h2>XQuery to SVG</h2>
+<p>We'll begin by making sure we can access the Assassin's Creed file with XQuery whether we're working in eXist-dB or oXygen. Write XQuery to see if you can output code that loops through the file, using a <code>for loop</code> to access the sections. (We will start this in class together.) For every one of the 29 segments, see if you can return the <code>count of actions</code> and the <code>count of distinct-values of speakers</code>, the data we are seeking. Survey the numbers to get a sense of how large / small they are in relation to each other. </p>
+       
+<p>When we are confident we are returning data from the XML file, we turn to plotting SVG. Set up your SVG document like this to balance with the XQuery using curly braces, being sure to include the SVG namespace:</p>
+       
+<pre>
+ &lt;svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000"&gt;
+      &lt;!--We will adjust our "viewport" by altering the width and height attribute values roughly to be larger 
+      than the largest X and Y on the plot--&gt;
+     &lt;g&gt;
+         &lt;!--This g can take a transform="translate(x y)" attribute to shift the whole plot over and down as needed--&gt;
+         
+        <code> {</code>
+         
+          &lt;!--XQuery goes here.--&gt;
+   
+         
+         <code>}</code>
+
+     &lt;/g&gt;
+ &lt;/svg&gt; 
+</pre>
+    
+<p>Within this new context of <dfn>SVG namespaced code</dfn>, we need to insert <code>Q{}</code> in front of <strong>every element name</strong> in the XQuery code, like this: </p>
+    
+      <pre>
+let $acGame := doc('assassinscreedodyssey.xml')
+let $intro := $acGame//<code>Q{}</code>intro
+      </pre>
+       
+<p>Otherwise, our code will no longer pull data from our source document! Make sure every variable that involves XPath into an element prefixes the <code>Q{}</code> immediately in front of the element name (no spaces).</p>
+       
+<p>Work on outputting data in SVG shapes. To do this using a <code>for loop</code>, we always add a couple of variables: the <code>$pos</code> that comes packaged with XQuery for loops and outputs a number for every turn of the <q>loop</q> as each member of a series is visited in turn. For example, in <code>for $a at $pos in $sections</code>, the <code>$pos</code> should return a number counting up for the total number of members in the sequence of <code>$sections</code> (we expect 29 when we include the intro with the chapterNums). We use the <code>$pos</code> to help us with plotting across or down (or up) the screen. We also typically set one or more spacer variables that just contain raw numbers to help us multiply by a certain value and give us space we need to plot decorously across or down or up the screen without the shapes or text we're plotting to overlap with one another.</p>
+       
+       <p>Your goal with this exercise is to use SVG shapes of your choice (lines, rectangles, and/or circles) together with the text element for labeling. Set two shapes side by side or superimpose them to show a relationship between the data of action count vs distinct-speaker count. Label your graph (more than we did in our starter): Make it easy for us to view the numbers associated with each shape, and be sure the section titles appear harmoniously in relationship with the shapes. Learn to work with the <code>$pos</code> variable moving along with either your x or your y coordinates and spacer variables that you set to make this work! </p>
+
+<p>Revisit the <code>@width</code> and <code>@height</code> attributes as you work on this assignment to make them encompass the whole of your plot so that the width is wider than your highest X value, and your height is taller than your largest y value. Consider whether you want to plot across or down or up!</p>
+       
+       <p>Here is <a href="acComplete.svg">some sample output</a> we produced for this exercise!</p>
+
+<h2>Submitting your homework</h2>      
+       
+       <p>If you have saved your files on my newtfire eXist-dB I'll be able to access them there, too, but I'd like you to submit your work on Canvas as you've been doing just to log it there. Copy and paste your XQuery into a file to save with .xql or .xquery file extension. Download and save your output SVG file and submit it if you can as well (but the XQuery by itself is sufficient.)</p>
+
+  
+   </body>
+   
+</html>

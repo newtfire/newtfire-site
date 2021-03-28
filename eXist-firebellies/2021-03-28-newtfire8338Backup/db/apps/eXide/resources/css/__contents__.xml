@@ -1,0 +1,20 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/resources/css" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="xml2html.css" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="xml2html.css" mimetype="text/css" blob-id="1672711e095ab57555bc2ac6f168930b7c2328f52c066448f6cfb546e0dba5ea">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docs.css" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="docs.css" mimetype="text/css" blob-id="868c0fb05460fc82004570869f2cda1202c445df710e37938569be09321270a6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="eXide.css" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="eXide.css" mimetype="text/css" blob-id="f21d96ed104fb405031403197dffc139ca55007c4e07b71e10ad5348205949e1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docs.less" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="docs.less" mimetype="application/less" blob-id="f27171750b6734dc4449088267cd832eadd18205b59e8a102f9c70ebdf2d0029">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="search.css" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="search.css" mimetype="text/css" blob-id="cf0a7eb221bcbd62207d07d7f05a9843c3caabaeee25f9c6f6f0db0d10118ee3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="black-tie" filename="black-tie"/>
+    <subcollection name="font-awesome" filename="font-awesome"/>
+</collection>

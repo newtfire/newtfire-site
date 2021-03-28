@@ -1,0 +1,36 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/webcomponentsjs" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="gulpfile.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="gulpfile.js" mimetype="application/javascript" blob-id="6947dd1ce314121d8688c0e83caab7fc7511183781423737d3ecd19ab878e210">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-sd.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="webcomponents-sd.js" mimetype="application/javascript" blob-id="902ad079dd688073747a6e50f00fd368b29d17e3dbee77e74850cdeb6209202a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-hi-sd-ce.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="webcomponents-hi-sd-ce.js" mimetype="application/javascript" blob-id="b2dd29b824729468719f384a6ef261bad6a4d53c2afa0d7c0cd0eb4a625a9dd7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-hi.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="webcomponents-hi.js" mimetype="application/javascript" blob-id="430387b6694381e303529e82e102a7c4c2b31f4149ae2bbea82b15924e8c04d9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-loader.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="webcomponents-loader.js" mimetype="application/javascript" blob-id="6a902fed1954f168dc24eaf2e11cc952301d06aed80db01a5fd9f60a6743ec3d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-lite.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="webcomponents-lite.js" mimetype="application/javascript" blob-id="7f60707b99ce22fbdd9c882ae32d38ec7caf6c1431fd7b4aaf1bad0e0d9f5180">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-sd-ce.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="webcomponents-sd-ce.js" mimetype="application/javascript" blob-id="363d78b411193d6f26a480d78e902dd01212338ed4a5d25033684d838716d2bd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="custom-elements-es5-adapter.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="custom-elements-es5-adapter.js" mimetype="application/javascript" blob-id="a9035bfd8a633b86625d37a536ff32a54c5e63a6ae9fe3a42f1bf0d7c388d5ba">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-ce.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="webcomponents-ce.js" mimetype="application/javascript" blob-id="2858fd633ee61d200be8043e409c653fe4e4bc7051833d692a7fab5ef4f13dba">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-hi-ce.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="webcomponents-hi-ce.js" mimetype="application/javascript" blob-id="c44b8b85d63993752f4549c43dc0cafa732cbb732048608e530caeb565003086">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-hi-sd.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="webcomponents-hi-sd.js" mimetype="application/javascript" blob-id="218376f5198558186ea048747a7f6fde16fe3260ed3ba9890d52cb3fb99a7da2">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

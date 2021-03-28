@@ -1,0 +1,12 @@
+xquery version "3.1";
+declare default element namespace "http://www.tei-c.org/ns/1.0";
+let $plays := collection('/db/apps/shakespeare/data/')//TEI
+let $speakerc := collection('/db/apps/shakespeare/data/')//speaker => count()
+let $speakerdv := collection('/db/apps/shakespeare/data/')//speaker => distinct-values()
+let $countdv := collection('/db/apps/shakespeare/data/')//speaker => distinct-values()=> count()
+for $p in $plays
+let $pTitle:=$p//title/text()
+let $pSC := $p//speaker => distinct-values()=> count()
+where $pSC gt 50
+
+return $base-uri($p)

@@ -1,0 +1,16 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/paper-styles" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:28-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="typography.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="typography.html" mimetype="text/html" blob-id="4ee197fb666aa4955c9fdd3ba60eaf2b952c77bc30789401dbd1359d27541d25">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="color.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="color.html" mimetype="text/html" blob-id="a581b436e837eeae7a8df0b4e84f8a4149c05a6b35b579406533151225a8741c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shadow.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="shadow.html" mimetype="text/html" blob-id="d780b06518ad6697f7e6f4b672a8018d5e809a7f076c42a2ac3334debe476439">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="default-theme.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="default-theme.html" mimetype="text/html" blob-id="bf0007fe12ea4298eec7bd22c3b3bfc892fb50bfc3e303047779e9325b3a459a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="element-styles" filename="element-styles"/>
+</collection>

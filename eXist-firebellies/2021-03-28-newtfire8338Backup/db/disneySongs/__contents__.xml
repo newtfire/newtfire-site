@@ -1,0 +1,80 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/disneySongs" owner="admin" group="dba" mode="775" created="2021-03-02T18:17:50-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="disneysongs" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="OneJumpAheadReprise2-live.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:03-05:00" modified="2021-03-05T04:17:03-05:00" filename="OneJumpAheadReprise2-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OneJumpAheadReprise1-live.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:03-05:00" modified="2021-03-05T04:17:03-05:00" filename="OneJumpAheadReprise1-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OneJumpAhead-live.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:03-05:00" modified="2021-03-05T04:17:03-05:00" filename="OneJumpAhead-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ForgetAboutLove.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:03-05:00" modified="2021-03-05T04:17:03-05:00" filename="ForgetAboutLove.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FatherAndSon.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:03-05:00" modified="2021-03-05T04:17:03-05:00" filename="FatherAndSon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AreYouInOrOut.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:03-05:00" modified="2021-03-05T04:17:03-05:00" filename="AreYouInOrOut.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AWholeNewWorld-live.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:03-05:00" modified="2021-03-05T04:17:03-05:00" filename="AWholeNewWorld-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AWholeNewWorld-animated.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:03-05:00" modified="2021-03-05T04:17:03-05:00" filename="AWholeNewWorld-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PrinceAli-Live.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:03-05:00" modified="2021-03-05T04:17:03-05:00" filename="PrinceAli-Live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OutofThinAir.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:03-05:00" modified="2021-03-05T04:17:03-05:00" filename="OutofThinAir.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PrinceAli-Reprise.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:17-05:00" modified="2021-03-05T04:17:17-05:00" filename="PrinceAli-Reprise.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PrinceAli-Animated.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:17-05:00" modified="2021-03-05T04:17:17-05:00" filename="PrinceAli-Animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PartyinAgrabah.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:17-05:00" modified="2021-03-05T04:17:17-05:00" filename="PartyinAgrabah.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FortyThieves.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:17-05:00" modified="2021-03-05T04:17:17-05:00" filename="FortyThieves.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ArabianNights-roj.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:17-05:00" modified="2021-03-05T04:17:17-05:00" filename="ArabianNights-roj.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ArabianNights-Live.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:17-05:00" modified="2021-03-05T04:17:17-05:00" filename="ArabianNights-Live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ArabianNights-Animated.xml" owner="admin" group="dba" mode="644" created="2021-03-05T04:17:17-05:00" modified="2021-03-05T04:17:17-05:00" filename="ArabianNights-Animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FriendLikeMe(animated).xml" owner="wdjacca" group="wdjacca" mode="644" created="2021-03-22T19:07:08-04:00" modified="2021-03-22T19:07:08-04:00" filename="FriendLikeMe(animated).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FriendLikeMe(liveaction).xml" owner="wdjacca" group="wdjacca" mode="644" created="2021-03-22T19:07:08-04:00" modified="2021-03-22T19:07:08-04:00" filename="FriendLikeMe(liveaction).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ImLookingOutForMe(1994).xml" owner="wdjacca" group="wdjacca" mode="644" created="2021-03-22T19:07:09-04:00" modified="2021-03-22T19:07:09-04:00" filename="ImLookingOutForMe(1994).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="NothingInTheWorld(QuiteLikeAFriend)(1994).xml" owner="wdjacca" group="wdjacca" mode="644" created="2021-03-22T19:07:09-04:00" modified="2021-03-22T19:07:09-04:00" filename="NothingInTheWorld(QuiteLikeAFriend)(1994).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OneJumpAhead(animated).xml" owner="wdjacca" group="wdjacca" mode="644" created="2021-03-22T19:07:09-04:00" modified="2021-03-22T19:07:09-04:00" filename="OneJumpAhead(animated).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OneJumpAheadReprise-animated.xml" owner="wdjacca" group="wdjacca" mode="644" created="2021-03-22T19:07:09-04:00" modified="2021-03-22T19:07:09-04:00" filename="OneJumpAheadReprise-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Speechless(Full)(liveaction).xml" owner="wdjacca" group="wdjacca" mode="644" created="2021-03-22T19:07:10-04:00" modified="2021-03-22T19:07:10-04:00" filename="Speechless(Full)(liveaction).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="YoureOnlySecondRate(1994).xml" owner="wdjacca" group="wdjacca" mode="644" created="2021-03-22T19:07:10-04:00" modified="2021-03-22T19:07:10-04:00" filename="YoureOnlySecondRate(1994).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

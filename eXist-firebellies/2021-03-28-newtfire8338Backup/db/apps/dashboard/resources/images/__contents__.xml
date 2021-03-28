@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/resources/images" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:30-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="existdb-web.svg" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="existdb-web.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="logout.svg" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="logout.svg" mimetype="image/svg+xml" namedoctype="svg" publicid="-//W3C//DTD SVG 1.1//EN" systemid="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="x.svg" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="x.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="launcher.svg" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="launcher.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="existdb.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="existdb.png" mimetype="image/png" blob-id="08a5c0dc821fb6fa598bb391539929fb73a75f85e50ea2e368b340d109cd3b8d">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

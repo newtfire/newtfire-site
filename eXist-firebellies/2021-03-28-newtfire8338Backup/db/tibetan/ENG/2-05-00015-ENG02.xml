@@ -1,0 +1,55 @@
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-05-00015-ENG02_Brunn.xml"/>
+		<title>Kāyatraya-stotra</title>
+		<author>Nāgārjuna</author>
+		<unifiedCatalogID>2-05-00015</unifiedCatalogID>
+		<creation date="Sun Aug  6 17:07:00 2017"/>
+		<processed date="Sun Aug  6 17:07:00 2017" ver="AbbyyFineReader v.11" auth="Hackett"/>
+		<sourceDesc>
+			<bibl>
+				<title>Straight From The Heart: Buddhist Pith Instructions</title>
+				<author>Brunnholzl, Karl</author>
+				<pubPlace>Ithaca</pubPlace>
+				<publisher>Snow Lion Publications</publisher>
+				<date>2007</date>
+				<biblScope unit="pageRange">18-19</biblScope>
+				<note type="Text Colophon">Initially translated by Karl Brunnholzl from Sanskrit; edited and reformatted by Paul Hackett.</note>
+			</bibl>
+		</sourceDesc>
+	</head>
+	<text>
+		<text_id t_id="2-05-00015-ENG02"/>
+		<sentence s_id="2-05-00015-ENG02-SID000001" type="Text Title">
+			<phrase phr_id="2-05-00015-ENG02-000001">In Praise of the Three Kāyas</phrase>
+		</sentence>
+		<volume vol_id="1"/>
+		<sentence s_id="2-05-00015-ENG02-SID000002" type="Sentence">
+			<phrase phr_id="2-05-00015-ENG02-000002"><page p_id="18"/>Homage to the Buddha!</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-ENG02-SID000003" type="Verse" s_name="1">
+			<phrase phr_id="2-05-00015-ENG02-000003">What is neither one nor many, the foundation of great and excellent benefit for oneself and others,</phrase>
+			<phrase phr_id="2-05-00015-ENG02-000004">Neither an entity nor the lack of an entity, of equal taste like space, of a nature difficult to perceive,</phrase>
+			<phrase phr_id="2-05-00015-ENG02-000005">Untainted, changeless, peaceful, unequalled, all-pervading, and free from reference points—</phrase>
+			<phrase phr_id="2-05-00015-ENG02-000006"><page p_id="19"/>To the incomparable dharmakāya of the Victors, which is to be personally experienced, I pay homage. [1]</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-ENG02-SID000004" type="Verse" s_name="2">
+			<phrase phr_id="2-05-00015-ENG02-000007">What is beyond the world, inconceivable, the very embodiment of the fruition of hundreds of excellent accomplishments, and magnificent,</phrase>
+			<phrase phr_id="2-05-00015-ENG02-000008">Displays great variety in the middle of a retinue due to being the cause for the pleasure of the wise,</phrase>
+			<phrase phr_id="2-05-00015-ENG02-000009">And is the Buddhas' unceasing, eloquent melody of the genuine dharma, resounding in all the worlds—</phrase>
+			<phrase phr_id="2-05-00015-ENG02-000010">To the sambhogakāya, residing in the kingdom of the great dharma, I pay homage. [2]</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-ENG02-SID000005" type="Verse" s_name="3">
+			<phrase phr_id="2-05-00015-ENG02-000011">As the cause for maturing sentient beings, sometimes, it shines like the blaze of a fire,</phrase>
+			<phrase phr_id="2-05-00015-ENG02-000012">At others, it appears as buddhahood, the wheel of dharma, or as gaining peace,</phrase>
+			<phrase phr_id="2-05-00015-ENG02-000013">Operating in various ways, it dispells the fear of threefold existence through all kinds of means—</phrase>
+			<phrase phr_id="2-05-00015-ENG02-000014">To the nirmānakāya of the Sages, the great welfare that pervades the ten directions, I pay homage. [3]</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-ENG02-SID000006" type="Verse" s_name="4">
+			<phrase phr_id="2-05-00015-ENG02-000015">Liberated from the conduct of the three realms, equal to the sky, the nature of all entities,</phrase>
+			<phrase phr_id="2-05-00015-ENG02-000016">Pure, peaceful, free, embodying utter serenity, to be realized by yogins,</phrase>
+			<phrase phr_id="2-05-00015-ENG02-000017">Difficult to realize, hard to examine, the benefit of oneself and others, all-encompassing, and causeless–</phrase>
+			<phrase phr_id="2-05-00015-ENG02-000018">To the kāya of the Victors in its single form, which is blissful, unequalled, and nonconceptual, I pay homage. [4]</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

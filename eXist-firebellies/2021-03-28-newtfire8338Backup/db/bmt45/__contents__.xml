@@ -1,0 +1,58 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/bmt45" owner="admin" group="dba" mode="755" created="2020-08-07T21:19:01-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="brandNewInfo.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:04-04:00" modified="2020-08-07T21:19:04-04:00" filename="brandNewInfo.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Thomas_04_05.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:05-04:00" modified="2020-08-07T21:19:05-04:00" filename="Thomas_04_05.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Thomas_04_07.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:34-04:00" modified="2020-08-07T21:19:34-04:00" filename="Thomas_04_07.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Thomas_04_13.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:41-04:00" modified="2020-08-07T21:19:41-04:00" filename="Thomas_04_13.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="RocketLaunchmk1.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:04-04:00" modified="2020-08-07T21:19:04-04:00" filename="RocketLaunchmk1.tsv" mimetype="application/xml" blob-id="e42bef49ec6ab90ce3ce5bcfd15907e17504d04f224477f026507291eae5fe06">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="7_Eccles_Street.csv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:04-04:00" modified="2020-08-07T21:19:04-04:00" filename="7_Eccles_Street.csv" mimetype="text/csv" blob-id="c22f38c07aea99a101f49c645006fb6a11f65052dfbf6d239997075412f4f8a0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Thomas_04_08" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:04-04:00" modified="2020-08-07T21:19:04-04:00" filename="Thomas_04_08" mimetype="application/xml" blob-id="0cf92c2a5abf10b49066f7c1462295743b97e59e3b4d3634b74fad5c4846d3fe">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SpecificLocation.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:04-04:00" modified="2020-08-07T21:19:04-04:00" filename="SpecificLocation.xql" mimetype="application/xquery" blob-id="203aef04508d6db1305c3c88aae91e08868186ff2dca0e8fe0c38ffc21ca0e71">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SpecificLocation" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:04-04:00" modified="2020-08-07T21:19:04-04:00" filename="SpecificLocation" mimetype="application/xml" blob-id="2671472e1584dbd5576ff680527b0b42051f63d97e6ae389b778770e18bfd90c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Example" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:04-04:00" modified="2020-08-07T21:19:04-04:00" filename="Example" mimetype="application/xml" blob-id="212a5df863d6eda6ff74eaa0eef6c25d0a5027e412465e21f1dbee74bd7de01b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Thomas_3-7.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:04-04:00" modified="2020-08-07T21:19:04-04:00" filename="Thomas_3-7.xql" mimetype="application/xquery" blob-id="1b6470bc3637cc37ed0643ddf0e0cc4c4ec49ce5b171bdc40c8247349517f296">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Thomas_04_07.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:05-04:00" modified="2020-08-07T21:19:05-04:00" filename="Thomas_04_07.xql" mimetype="application/xquery" blob-id="6e5b9b604c135b52642535e74c4e577ac41b1b996931f3028627a9f26839325f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Thomas_04_05.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:05-04:00" modified="2020-08-07T21:19:05-04:00" filename="Thomas_04_05.xql" mimetype="application/xquery" blob-id="6a1dba8ebebf237d03c3bf6a35e03e227e09b77127de4078c0d4c35ef8384ce2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Thomas_3-9.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:41-04:00" modified="2020-08-07T21:19:41-04:00" filename="Thomas_3-9.xql" mimetype="application/xquery" blob-id="ee9bf2a93a20d8fd07a25b6e191c7b612494f5e3602cc28bff4c85e204a75a8c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Thomas_3-9" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:41-04:00" modified="2020-08-07T21:19:41-04:00" filename="Thomas_3-9" mimetype="application/xml" blob-id="54769050423de25e7d8c395d667bd112bfeb33e072c51c48cdd1f064302a6f02">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="RocketLaunchmk.1.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:41-04:00" modified="2020-08-07T21:19:41-04:00" filename="RocketLaunchmk.1.tsv" mimetype="application/xml" blob-id="505f382afd45ea83c59f5e1a294f40a4dda3bbd800c2b543d8177775b9fe4446">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="UlyssesLocationtoRef.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:41-04:00" modified="2020-08-07T21:19:41-04:00" filename="UlyssesLocationtoRef.xql" mimetype="application/xquery" blob-id="02c83e61cefd3140c40f0954f709caccb8cb7de8ff97a8f140cba63ded2ada2f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_1.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:01-04:00" modified="2020-08-07T21:19:01-04:00" filename="qgis_1.tsv" mimetype="application/xml" blob-id="10c4b255fb7c7c5997d7bc272717ca46c2876cba780340c2dc3b77d655e3378f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="Ulysses" filename="Ulysses"/>
+</collection>

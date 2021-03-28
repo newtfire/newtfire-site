@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/webdav/assets" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:33-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="webdav_konqueror.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="webdav_konqueror.png" mimetype="image/png" blob-id="c01e3cd8096bf19b6efa0cad0921ae6bce73dfc38e387cee8f5fe60ff60140e3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webdav_libreoffice_settings.gif" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="webdav_libreoffice_settings.gif" mimetype="image/gif" blob-id="150f07aa18a643d22e4942cfb8d8acfeaac46aa76e4220df867374d9e6b72f3e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webdav_libreoffice_open.gif" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="webdav_libreoffice_open.gif" mimetype="image/gif" blob-id="b8cb7670b295a5a39fb280a65f1b44e44f0319564b9bfe575aa0a633282499f5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webdav_oxygen.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="webdav_oxygen.png" mimetype="image/png" blob-id="ba004d1865004af3b4ee2a43eb8c77c1a62ca08df1f2b9188996368759b16ced">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

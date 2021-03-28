@@ -1,0 +1,132 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/P1-output" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:37-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="P1_C08f.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:37-04:00" modified="2020-08-07T21:14:37-04:00" filename="P1_C08f.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C07h.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:37-04:00" modified="2020-08-07T21:14:37-04:00" filename="P1_C07h.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C08g.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:37-04:00" modified="2020-08-07T21:14:37-04:00" filename="P1_C08g.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C08e.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:37-04:00" modified="2020-08-07T21:14:37-04:00" filename="P1_C08e.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C08d.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:37-04:00" modified="2020-08-07T21:14:37-04:00" filename="P1_C08d.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C04c.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:37-04:00" modified="2020-08-07T21:14:37-04:00" filename="P1_C04c.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C04b.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:38-04:00" modified="2020-08-07T21:14:38-04:00" filename="P1_C04b.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C08a.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:38-04:00" modified="2020-08-07T21:14:38-04:00" filename="P1_C08a.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C08c.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:38-04:00" modified="2020-08-07T21:14:38-04:00" filename="P1_C08c.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C06h.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:38-04:00" modified="2020-08-07T21:14:38-04:00" filename="P1_C06h.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C04a.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:38-04:00" modified="2020-08-07T21:14:38-04:00" filename="P1_C04a.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C08b.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:38-04:00" modified="2020-08-07T21:14:38-04:00" filename="P1_C08b.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C03b.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:38-04:00" modified="2020-08-07T21:14:38-04:00" filename="P1_C03b.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C03c.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:38-04:00" modified="2020-08-07T21:14:38-04:00" filename="P1_C03c.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C03a.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:38-04:00" modified="2020-08-07T21:14:38-04:00" filename="P1_C03a.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C02d.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:38-04:00" modified="2020-08-07T21:14:38-04:00" filename="P1_C02d.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C09.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:39-04:00" modified="2020-08-07T21:14:39-04:00" filename="P1_C09.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C03d.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:39-04:00" modified="2020-08-07T21:14:39-04:00" filename="P1_C03d.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C02a.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:39-04:00" modified="2020-08-07T21:14:39-04:00" filename="P1_C02a.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C03e.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:39-04:00" modified="2020-08-07T21:14:39-04:00" filename="P1_C03e.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C02c.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:39-04:00" modified="2020-08-07T21:14:39-04:00" filename="P1_C02c.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C03f.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:39-04:00" modified="2020-08-07T21:14:39-04:00" filename="P1_C03f.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C02b.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:39-04:00" modified="2020-08-07T21:14:39-04:00" filename="P1_C02b.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C01.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:39-04:00" modified="2020-08-07T21:14:39-04:00" filename="P1_C01.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C10.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:40-04:00" modified="2020-08-07T21:14:40-04:00" filename="P1_C10.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C05.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:40-04:00" modified="2020-08-07T21:14:40-04:00" filename="P1_C05.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C06d.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:40-04:00" modified="2020-08-07T21:14:40-04:00" filename="P1_C06d.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C07a.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:40-04:00" modified="2020-08-07T21:14:40-04:00" filename="P1_C07a.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C06e.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:40-04:00" modified="2020-08-07T21:14:40-04:00" filename="P1_C06e.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C07c.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:40-04:00" modified="2020-08-07T21:14:40-04:00" filename="P1_C07c.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C06g.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:41-04:00" modified="2020-08-07T21:14:41-04:00" filename="P1_C06g.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C06f.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:41-04:00" modified="2020-08-07T21:14:41-04:00" filename="P1_C06f.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C07b.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:41-04:00" modified="2020-08-07T21:14:41-04:00" filename="P1_C07b.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C08i.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:41-04:00" modified="2020-08-07T21:14:41-04:00" filename="P1_C08i.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C07f.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:41-04:00" modified="2020-08-07T21:14:41-04:00" filename="P1_C07f.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C06b.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:41-04:00" modified="2020-08-07T21:14:41-04:00" filename="P1_C06b.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C06c.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:41-04:00" modified="2020-08-07T21:14:41-04:00" filename="P1_C06c.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C07g.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:41-04:00" modified="2020-08-07T21:14:41-04:00" filename="P1_C07g.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C08h.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:41-04:00" modified="2020-08-07T21:14:41-04:00" filename="P1_C08h.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C08j.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:41-04:00" modified="2020-08-07T21:14:41-04:00" filename="P1_C08j.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C06a.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:42-04:00" modified="2020-08-07T21:14:42-04:00" filename="P1_C06a.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C07e.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:42-04:00" modified="2020-08-07T21:14:42-04:00" filename="P1_C07e.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="P1_C07d.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:42-04:00" modified="2020-08-07T21:14:42-04:00" filename="P1_C07d.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,10 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/resources/css/black-tie" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery-ui-1.10.3.custom.css" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="jquery-ui-1.10.3.custom.css" mimetype="text/css" blob-id="f0efa2be74e49f6035329c7bdcd47d8f133d5fbd018c4ede69b26c44eeec9283">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-ui-1.10.3.custom.min.css" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="jquery-ui-1.10.3.custom.min.css" mimetype="text/css" blob-id="dcc81005619f007fe4ef079bed97ec3858c1d1b4c6c823afb0bbdf403ed212e0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="images" filename="images"/>
+</collection>

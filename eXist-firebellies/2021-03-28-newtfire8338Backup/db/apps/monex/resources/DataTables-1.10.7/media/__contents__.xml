@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/resources/DataTables-1.10.7/media" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <subcollection name="images" filename="images"/>
+    <subcollection name="css" filename="css"/>
+    <subcollection name="js" filename="js"/>
+</collection>

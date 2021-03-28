@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/hamilton" owner="admin" group="dba" mode="755" created="2020-08-07T21:16:48-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Hamilton_Timeline.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:48-04:00" modified="2020-08-07T21:16:48-04:00" filename="Hamilton_Timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Timeline_Xquery" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:48-04:00" modified="2020-08-07T21:16:48-04:00" filename="Timeline_Xquery" mimetype="application/xml" blob-id="f3eb5698572fb622602016a9628945c0d040b4947e9b67ee692b464893c431b1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="Act_One" filename="Act_One"/>
+    <subcollection name="Act_Two" filename="Act_Two"/>
+    <subcollection name="Updated_Directory" filename="Updated_Directory"/>
+</collection>

@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/polymer/lib/mixins" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="template-stamp.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="template-stamp.html" mimetype="text/html" blob-id="66297fb2e633ca89003086dff157b50be95476d8c8777527d890b2a59d44ba61">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="properties-mixin.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="properties-mixin.html" mimetype="text/html" blob-id="59991bbe1d4edb70098c1da92b2f64e0bbe7eadb411e2f6a4ddd83a2ed135c6f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dir-mixin.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="dir-mixin.html" mimetype="text/html" blob-id="2bce0f9b27aeb73945a59fa2c2e02d1203800f680cf645bc2a96154b017c9539">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="element-mixin.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="element-mixin.html" mimetype="text/html" blob-id="1216c2a2882b13ed633d3dff083fd0cb234c6a9e769a79eddf99c5c6eca6c59b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="property-effects.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="property-effects.html" mimetype="text/html" blob-id="6a3ce74f1c9d4918ca7a2eff409e3439ddba1f9fc29118cac72ea7d0c67786e8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="property-accessors.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="property-accessors.html" mimetype="text/html" blob-id="7eed171bf6e5b685475ea66c516d24e5426a9fdef090b556c31b1bc055adfb0c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mutable-data.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="mutable-data.html" mimetype="text/html" blob-id="92ded04b0cde9483cef03a684132b8c0d4456ec8dd7616584dbc3f74f4517db8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="properties-changed.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="properties-changed.html" mimetype="text/html" blob-id="e377af1c6b6910c8e8831d78939269dcd41f81b36083f4b42dcb87e5ee217c68">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="gesture-event-listeners.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="gesture-event-listeners.html" mimetype="text/html" blob-id="95973f27b5ff0f0c7ab792b603f3e575ac59f3cadc56b9c091deeb449137c154">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

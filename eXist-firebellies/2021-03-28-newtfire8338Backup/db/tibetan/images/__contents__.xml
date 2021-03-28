@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tibetan/images" owner="phackett" group="dba" mode="751" created="2020-09-10T17:39:04-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="info2.jpg" owner="phackett" group="dba" mode="640" created="2020-09-10T17:39:42-04:00" modified="2020-09-10T17:39:42-04:00" filename="info2.jpg" mimetype="image/jpeg" blob-id="9e4c55d09e23e36e9b82824f2246f3dfbf4bcfbd6c514e375184b3033f989cca">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

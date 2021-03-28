@@ -1,0 +1,54 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/npp16" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:47-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="pcsolar-AkiraPowerGraph2.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:47-04:00" modified="2020-08-07T21:14:47-04:00" filename="pcsolar-AkiraPowerGraph2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pcsolarTimeline.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:47-04:00" modified="2020-08-07T21:14:47-04:00" filename="pcsolarTimeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="psolar-AkiraBarGraph.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:47-04:00" modified="2020-08-07T21:14:47-04:00" filename="psolar-AkiraBarGraph.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PeepsinMitford.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:47-04:00" modified="2020-08-07T21:14:47-04:00" filename="PeepsinMitford.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pcsolar-AkiraPowerGraph.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:48-04:00" modified="2020-08-07T21:14:48-04:00" filename="pcsolar-AkiraPowerGraph.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pcsolar-AkiraPowerGraph-3rd.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:48-04:00" modified="2020-08-07T21:14:48-04:00" filename="pcsolar-AkiraPowerGraph-3rd.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pcsolar-AkiraBarGraph.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:48-04:00" modified="2020-08-07T21:14:48-04:00" filename="pcsolar-AkiraBarGraph.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pcsolarTimelineStarter.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:47-04:00" modified="2020-08-07T21:14:47-04:00" filename="pcsolarTimelineStarter.xql" mimetype="application/xquery" blob-id="3a9c68fd402c5785c37ca66e18086e244112cd38cadead0e657abad486d7dbd7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SlaveGirlsCytoscapeTry1.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:47-04:00" modified="2020-08-07T21:14:47-04:00" filename="SlaveGirlsCytoscapeTry1.xql" mimetype="application/xquery" blob-id="171d1e420995791b6b967d834590a5bdd90a1095497a43534880cb55a90cdf28">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SchismMapData.kml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:47-04:00" modified="2020-08-07T21:14:47-04:00" filename="SchismMapData.kml" mimetype="application/xml" blob-id="e2f6fcc590883ef25226fbbac5cc3f3199cd0f5cc245877db20fa1695f80c2b2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KMLPrepPart2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:47-04:00" modified="2020-08-07T21:14:47-04:00" filename="KMLPrepPart2.xql" mimetype="application/xquery" blob-id="6482af7faa51bc89db155edb5b052ac89b7634afc420c6ebf7a006e5bfa708c1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Mitford_TimelineSVG3.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:47-04:00" modified="2020-08-07T21:14:47-04:00" filename="Mitford_TimelineSVG3.xql" mimetype="application/xquery" blob-id="830baf4d7f661ce828f1dc01396d99dc45bbcb80c0f53f5259f2eb8578d698b2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KMLPrepPart1.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:47-04:00" modified="2020-08-07T21:14:47-04:00" filename="KMLPrepPart1.xql" mimetype="application/xquery" blob-id="3f50e4e2841c8b9d424ca99f4cffbf3012208b1f311faba501a49d9bd85de86c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SchismMapData.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:48-04:00" modified="2020-08-07T21:14:48-04:00" filename="SchismMapData.txt" mimetype="text/plain" blob-id="55fe23546f2b0a062e5fc1f2f282bf181009e80cba53736b75fa3c381cc8fda6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pcsolar-AkiraBarGraphStart.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:48-04:00" modified="2020-08-07T21:14:48-04:00" filename="pcsolar-AkiraBarGraphStart.xql" mimetype="application/xquery" blob-id="1b0e9bb28d72a482bbc8253c014dfb5b014f7260fea84ce116d0ac1ea090a22d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nppstarter.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:48-04:00" modified="2020-08-07T21:14:48-04:00" filename="nppstarter.xql" mimetype="application/xquery" blob-id="8a76c93545452368c220115b629493445ddaa616e57e183c75f0d4897d167bc8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pcsolar-AkiraPowerGraphStart.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:48-04:00" modified="2020-08-07T21:14:48-04:00" filename="pcsolar-AkiraPowerGraphStart.xql" mimetype="application/xquery" blob-id="edfed018c469081d5b5fca4a10425ab38299625ed3fd63b7147665f2a9f73423">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="expath-pkg.xml" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="expath-pkg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="build.xml" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="build.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="repo.xml" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="repo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="README.md" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="README.md" mimetype="text/markdown" blob-id="a70896af980c9c144f51a8c1ea6ff5958536cea0b25cdb06d3e560608ec96ce8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="resources" filename="resources"/>
+    <subcollection name="content" filename="content"/>
+    <subcollection name="waldenft" filename="waldenft"/>
+</collection>

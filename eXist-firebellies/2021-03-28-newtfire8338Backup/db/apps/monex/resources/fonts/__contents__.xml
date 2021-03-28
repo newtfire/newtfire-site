@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/resources/fonts" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="ionicons.svg" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="ionicons.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fontawesome-webfont.svg" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="fontawesome-webfont.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fontawesome-webfont.ttf" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="fontawesome-webfont.ttf" mimetype="application/octet-stream" blob-id="a14a9aa19bfe7050c18d2173211064fb16d8d0426bfd3723947dceece21e1fdc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FontAwesome.otf" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="FontAwesome.otf" mimetype="application/octet-stream" blob-id="b92c7728bdfd5e5513eaa91cfeaebf138e3330287971e15774e407edc58b9d7c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fontawesome-webfont.woff" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="fontawesome-webfont.woff" mimetype="application/font-woff" blob-id="d3e16cc4748aafe4d39e5cd1c5153922b9d57b9a8c266a52e75077c763a98969">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ionicons.ttf" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="ionicons.ttf" mimetype="application/octet-stream" blob-id="9ba19e8540a59c353539a6b9493f6ff9a064c30ed130d73dd71fe7c11512a334">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fontawesome-webfont.eot" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="fontawesome-webfont.eot" mimetype="application/octet-stream" blob-id="e8d9d39612db4669ecd899501cb891ed1a5543f3823db324c2478aaa42a2f9f4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ionicons.eot" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="ionicons.eot" mimetype="application/octet-stream" blob-id="6549a716b6559daaac76ba842368b287fc9c2d9370faf9d48a3faf2ec8bbc2a8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ionicons.woff" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="ionicons.woff" mimetype="application/font-woff" blob-id="5d06f6b166a70a6d170b93d563342cc435a2af2a99baad5e2343450c40b85a09">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

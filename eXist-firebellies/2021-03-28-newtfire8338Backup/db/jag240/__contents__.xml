@@ -1,0 +1,16 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/jag240" owner="admin" group="dba" mode="755" created="2020-08-07T21:16:47-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="PokemonNetwork.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:47-04:00" modified="2020-08-07T21:16:47-04:00" filename="PokemonNetwork.tsv" mimetype="application/xml" blob-id="ae85d245a3d00bfde01f59f3c4fe0b4bfae1cb37e9cf91929eadcea4985711de">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:47-04:00" modified="2020-08-07T21:16:47-04:00" filename="test" mimetype="application/xml" blob-id="a32d269707431ba59c9015c59558d1a92f1ba686fa30216015eb935a97f961ad">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PokemonNetwork-ebb.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:48-04:00" modified="2020-08-07T21:16:48-04:00" filename="PokemonNetwork-ebb.xql" mimetype="application/xquery" blob-id="642b8b360216eec6d462c7c44017e709224166ab3096bae570b7609201c47e1f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuery_3" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:48-04:00" modified="2020-08-07T21:16:48-04:00" filename="XQuery_3" mimetype="application/xml" blob-id="642573ad0f5559cafc9661df1da1987340761bd3de25cf91a1c28f12eaf0b7b7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="pokemon" filename="pokemon"/>
+</collection>

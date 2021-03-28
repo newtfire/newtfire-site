@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/iron-ajax" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="iron-request.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-request.html" mimetype="text/html" blob-id="9e26e7f1e79c380d89535c631aac51d50eb78961926fd788860d07a73a96e201">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iron-ajax.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-ajax.html" mimetype="text/html" blob-id="af2ef1996d9c2c21f30f1e011cdb2ac9a34eff78c368363ae3e1f6b3f54a95d5">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

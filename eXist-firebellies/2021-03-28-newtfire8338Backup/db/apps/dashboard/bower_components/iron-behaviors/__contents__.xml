@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/iron-behaviors" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:30-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="iron-button-state.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="iron-button-state.html" mimetype="text/html" blob-id="e92179ada14c68a9362ae411a66ceb0a3404dd6fef1820c1280acfc881f8f1cb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iron-control-state.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="iron-control-state.html" mimetype="text/html" blob-id="b6ea0a4128d297fdbb2b35c07a8befe7e71cb281adc485236dc2e1270212cd1d">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

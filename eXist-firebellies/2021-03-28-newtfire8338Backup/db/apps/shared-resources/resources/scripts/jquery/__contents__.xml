@@ -1,0 +1,36 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/resources/scripts/jquery" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery.dynatree-1.1.1.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.dynatree-1.1.1.min.js" mimetype="application/javascript" blob-id="9273fb9f244caa691b7498358cce2506c8de60477716a5ec2ba91d56edfa6e9d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-1.7.1.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery-1.7.1.min.js" mimetype="application/javascript" blob-id="ca16b506e0e10800e0b2cd9b5f727bb2d9e6b0af4ead9b82f21b26bdb9a2841c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-ui-1.8.custom.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery-ui-1.8.custom.min.js" mimetype="application/javascript" blob-id="7a73e816fb2881a3271e7fb0287241f5f0053fffc8f4357e66f5d12200697488">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-utils.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery-utils.js" mimetype="application/javascript" blob-id="c5ad6311ef0937bea6897c4971c8cfe4318205f1139c935950ac7c7d93f78765">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.cookie.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.cookie.js" mimetype="application/javascript" blob-id="fd2ecb7db8904cd2c59e1a8f1092f0fd5bf80e61cbaa639ce7871175bc39d311">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.scrollExtend.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.scrollExtend.min.js" mimetype="application/javascript" blob-id="d795be2f13efd79e41f6991656d05ceada00bc6577e289d86deec71d31da486b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-ui.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery-ui.min.js" mimetype="application/javascript" blob-id="9bfa2dc7a2f0db6c308fe2105f9f41117c691ea6df47af0945c3a3151c8cdd19">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.dynatree-1.2.5.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.dynatree-1.2.5.min.js" mimetype="application/javascript" blob-id="4bc1f42b4a422f656357f4b7583476ba6b4e3b1e339e3f95ad121f01340614c8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.pnotify.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.pnotify.min.js" mimetype="application/javascript" blob-id="afd14f3abc9bfdff6bbf5c253f7dd72634438ebc625f39bbbf8173e0eb77509c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.dataTables-1.8.1.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.dataTables-1.8.1.min.js" mimetype="application/javascript" blob-id="c05397c200e872a0c88211f6237f95458abcce173850bfe91c016fedac3e530b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="skin" filename="skin"/>
+    <subcollection name="flot" filename="flot"/>
+    <subcollection name="css" filename="css"/>
+</collection>

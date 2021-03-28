@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tibetan/PARID" owner="phackett" group="dba" mode="751" created="2020-09-10T17:19:27-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="2-03-00256-PARID.xml" owner="phackett" group="dba" mode="640" created="2020-09-10T17:28:05-04:00" modified="2020-09-10T17:28:05-04:00" filename="2-03-00256-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-03-01128-PARID.xml" owner="phackett" group="dba" mode="640" created="2020-09-10T17:28:05-04:00" modified="2020-09-10T17:28:05-04:00" filename="2-03-01128-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1-04-00032-PARID.xml" owner="phackett" group="dba" mode="640" created="2020-09-10T18:18:50-04:00" modified="2020-09-10T18:18:50-04:00" filename="1-04-00032-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00001-PARID.xml" owner="phackett" group="dba" mode="640" created="2020-09-10T18:18:50-04:00" modified="2020-09-10T18:18:50-04:00" filename="2-07-00001-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00002-PARID.xml" owner="phackett" group="dba" mode="640" created="2020-09-10T18:18:50-04:00" modified="2020-09-10T18:18:50-04:00" filename="2-07-00002-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00048-PARID.xml" owner="phackett" group="dba" mode="640" created="2020-09-10T18:18:50-04:00" modified="2020-09-10T18:18:50-04:00" filename="2-07-00048-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00125-PARID.xml" owner="phackett" group="dba" mode="640" created="2020-09-10T18:18:50-04:00" modified="2020-09-11T19:30:19-04:00" filename="2-07-00125-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00129-PARID.xml" owner="phackett" group="dba" mode="640" created="2020-09-10T18:18:50-04:00" modified="2020-09-10T18:18:50-04:00" filename="2-07-00129-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-05-00015-PARID.xml" owner="phackett" group="dba" mode="640" created="2020-09-11T13:14:52-04:00" modified="2020-09-11T13:14:52-04:00" filename="2-05-00015-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

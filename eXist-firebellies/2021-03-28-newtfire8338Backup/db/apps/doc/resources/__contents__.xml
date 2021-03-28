@@ -1,0 +1,19 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/resources" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:32-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="xhtml-lat1.ent" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="xhtml-lat1.ent" mimetype="application/xml-external-parsed-entity" blob-id="4fd6690ace021fe01c04ed6bff3fc782d06d33d56e28deef4ac1581150574b69">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xhtml1-transitional.dtd" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="xhtml1-transitional.dtd" mimetype="application/xml-dtd" blob-id="4a555f13ad80023fbb63250d1389d1c1e5dab3f1d4e87c1deb05cd4d36b24e60">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xhtml-symbol.ent" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="xhtml-symbol.ent" mimetype="application/xml-external-parsed-entity" blob-id="90600152ab64da2d3ecaea872d8d5c90d6e89b09db4d6a1ea92873aa0035494d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xhtml-special.ent" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="xhtml-special.ent" mimetype="application/xml-external-parsed-entity" blob-id="1970871e9f993aa1e530f875b3145f8ebd5a3f757367036bbd6bf56417a2bf79">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="images" filename="images"/>
+    <subcollection name="styles" filename="styles"/>
+    <subcollection name="fonts" filename="fonts"/>
+    <subcollection name="scripts" filename="scripts"/>
+</collection>

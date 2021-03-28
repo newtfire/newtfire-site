@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/basic-installation/assets" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:34-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="installer2.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="installer2.png" mimetype="image/png" blob-id="28319ef4facb45102630a58889a8e00e765d8a27cb43e9dc4eabb0e869c8e377">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="launch2.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="launch2.png" mimetype="image/png" blob-id="c5f508b9a8f5ae9b0773e91ec678c2a19f429d5f44d6acbfbbc86d21fe136c81">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="installer1.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="installer1.png" mimetype="image/png" blob-id="4a903240fc3aeb80b406a459eca04a921597571696b406402a470816691f2cb3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index1.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="index1.png" mimetype="image/png" blob-id="ff6e219fb86ffcb8984ef37654cab0575838e1609118739b2f73c60f59b8a45f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="launch1.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="launch1.png" mimetype="image/png" blob-id="3813642820beb9161a5ed937cfbec2482b12469e3c318d7c58ff475ea31926f1">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

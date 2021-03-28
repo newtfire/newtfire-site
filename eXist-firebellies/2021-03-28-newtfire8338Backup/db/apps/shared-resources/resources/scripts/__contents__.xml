@@ -1,0 +1,20 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/resources/scripts" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="emmet.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="emmet.js" mimetype="application/javascript" blob-id="bebb03eec63e9f852489359a516c0150e24346514b5379b1c632d34aa4df1e50">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap-3.0.3.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="bootstrap-3.0.3.min.js" mimetype="application/javascript" blob-id="2d41be25f3d2a495a22c1af5feb1f7f23d18099b6c8057fa53ebcfdc13166bf4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="highlight.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="highlight.js" mimetype="application/javascript" blob-id="96879a8c023ee5ea8cd94c5a01f4588f4a1547cd0d3a8f5089b68a82867e0457">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="bootstrap.min.js" mimetype="application/javascript" blob-id="463147e80ed7215adb687858e8d2bde3292452866129dbf308e39a32c69de642">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="loadsource.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="loadsource.js" mimetype="application/javascript" blob-id="5a2a42c8f64a378192b5cbb202f44f1ef7a330185ffc02f33e27d05fc26ae73f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="jquery" filename="jquery"/>
+    <subcollection name="ace" filename="ace"/>
+</collection>

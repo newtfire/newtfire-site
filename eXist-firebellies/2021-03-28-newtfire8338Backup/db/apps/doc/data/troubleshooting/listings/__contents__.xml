@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/troubleshooting/listings" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:34-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="listing-6.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="listing-6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-8.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="listing-8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-1.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="listing-1.txt" mimetype="text/plain" blob-id="d996f7953080fcbe6c538ba19ad970d703730f254ad6552f02aadbf4151ef288">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

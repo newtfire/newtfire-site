@@ -1,0 +1,207 @@
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-07-00129-ENG02.xml"/>
+		<title>Bodhisattvamaṇyāvalī</title>
+		<author>Atīśa Dīpaṃkaraśrījñāna</author>
+		<unifiedCatalogID>2-07-00129</unifiedCatalogID>
+		<sourceDesc>
+			<bibl>
+				<title>Bodhisattva's Jewel Garland</title>
+				<volumetitle>Mind training: The Great Collection</volumetitle>
+				<author>Thupten Jinpa</author>
+				<pubPlace>Boston</pubPlace>
+				<publisher>Wisdom Publications</publisher>
+				<date>2006</date>
+				<biblScope unit="pageRange">21-25</biblScope>
+			</bibl>
+		</sourceDesc>
+		<creation date="Mon May 9 14:28:25 2020"/>
+		<processed date="Mon May 9 14:28:25 2020" ver="v.1.0" auth="Hackett"/>
+		<processed date="Tue Jun  9 14:27:36 2020" ver="v.1.01" auth="XMLTagEnglish v.1.09"/>
+	</head>
+	<text>
+		<sentence s_id="2-07-00129-ENG02-SID000001" type="Text Title">
+			<phrase phr_id="2-07-00129-ENG02-000001">Bodhisattva's Jewel Garland</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000002" type="Sentence">
+			<phrase phr_id="2-07-00129-ENG02-000002">Homage to great compassion.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000003" type="Sentence">
+			<phrase phr_id="2-07-00129-ENG02-000003">Homage to the teachers.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000004" type="Sentence">
+			<phrase phr_id="2-07-00129-ENG02-000004">Homage to the faith divinities.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000005" type="Verse" s_name="1">
+			<phrase phr_id="2-07-00129-ENG02-000005">Discard all lingering doubts,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000006">And strive with dedication in your practice.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000007">Thoroughly relinquish sloth, mental dullness, and laziness,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000008">And strive always with joyful perseverance.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000006" type="Verse" s_name="2">
+			<phrase phr_id="2-07-00129-ENG02-000009">With mindfulness, vigilance, and conscientiousness,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000010">Constantly guard the gateways of your senses.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000011">Again and again, three times both day and night,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000012">Examine the flow of your thoughts.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000007" type="Verse" s_name="3">
+			<phrase phr_id="2-07-00129-ENG02-000013">Reveal your own shortcomings,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000014">But do not seek out others' errors.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000015">Conceal your own good qualities,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000016">But proclaim those of others.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000008" type="Verse" s_name="4ab">
+			<phrase phr_id="2-07-00129-ENG02-000017">Forsake wealth and ministrations;</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000018">At all times relinquish gain and fame.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000009" type="Verse" s_name="4cd">
+			<phrase phr_id="2-07-00129-ENG02-000019">Have modest desires, be easily satisfied,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000020">And reciprocate kindness.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000010" type="Verse" s_name="5">
+			<phrase phr_id="2-07-00129-ENG02-000021">Cultivate love and compassion,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000022">And stabilize your awakening mind.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000023">Relinquish the ten negative actions,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000024">And always reinforce your faith.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000011" type="Verse" s_name="6">
+			<phrase phr_id="2-07-00129-ENG02-000025">Destroy anger and conceit,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000026">And be endowed with humility.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000027">Relinquish wrong livelihood,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000028">And be sustained by ethical livelihood.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000012" type="Verse" s_name="7ab">
+			<phrase phr_id="2-07-00129-ENG02-000029">Forsake material possessions,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000030">Embellish yourself with the wealth of the noble ones.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000013" type="Verse" s_name="7cd">
+			<phrase phr_id="2-07-00129-ENG02-000031">Avoid all trifling distractions,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000032">And reside in the solitude of wilderness.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000014" type="Verse" s_name="8">
+			<phrase phr_id="2-07-00129-ENG02-000033">Abandon frivolous words;</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000034">Constantly guard your speech.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000035">When you see your teachers and preceptors,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000036">Reverently generate the wish to serve.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000015" type="Verse" s_name="9">
+			<phrase phr_id="2-07-00129-ENG02-000037">Toward wise beings with Dharma eyes</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000038">And toward beginners on the path as well,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000039">Recognize them as your spiritual teachers.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000040">[In fact] when you see any sentient being,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000041">View them as your parent, your child, or your grandchild.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000016" type="Verse" s_name="10">
+			<phrase phr_id="2-07-00129-ENG02-000042">Renounce negative friendships,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000043">And rely on a spiritual friend.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000044">Dispel hostility and unpleasantness,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000045">And venture forth to where happiness lies.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000017" type="Verse" s_name="11">
+			<phrase phr_id="2-07-00129-ENG02-000046">Abandon attachment to all things</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000047">And abide free of desire.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000048">Attachment fails to bring even the higher realms;</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000049">In fact, it kills the life of true liberation.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000018" type="Verse" s_name="12">
+			<phrase phr_id="2-07-00129-ENG02-000050">When you encounter the causes of happiness,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000051">In these always persevere.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000052">Whichever task you take up first,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000053">Address this task primarily.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000054">In this way, you ensure the success of both tasks,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000055">Where otherwise you accomplish neither.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000019" type="Verse" s_name="13">
+			<phrase phr_id="2-07-00129-ENG02-000056">Since you take no pleasure in negative deeds,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000057">When a thought of self-importance arises,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000058">At that instant deflate your pride</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000059">And recall your teacher's instructions.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000020" type="Verse" s_name="14">
+			<phrase phr_id="2-07-00129-ENG02-000060">When discouraged thoughts arise,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000061">Uplift your mind</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000062">And meditate on the emptiness of both.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000063">When objects of attraction or aversion appear,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000064">View them as you would illusions and apparitions.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000021" type="Verse" s_name="15">
+			<phrase phr_id="2-07-00129-ENG02-000065">When you hear unpleasant words,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000066">View them as [inere] echoes.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000067">When injuries afflict your body,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000068">See them as [the fruits of] past deeds.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000022" type="Verse" s_name="16">
+			<phrase phr_id="2-07-00129-ENG02-000069">Dwell utterly in solitude, beyond town limits.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000070">Like the carcass of a wild animal,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000071">Hide yourself away [in the forest]</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000072">And live free of attachment.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000023" type="Verse" s_name="17">
+			<phrase phr_id="2-07-00129-ENG02-000073">Always remain firm in your commitment.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000074">When a hint of procrastination and laziness arises,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000075">At that instant enumerate your flaws</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000076">And recall the essence of [spiritual] conduct.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000024" type="Verse" s_name="18">
+			<phrase phr_id="2-07-00129-ENG02-000077">However, if you do encounter others,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000078">Speak peacefully and truthfully.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000079">Do not grimace or frown,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000080">But always maintain a smile.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000025" type="Verse" s_name="19">
+			<phrase phr_id="2-07-00129-ENG02-000081">In general when you see others,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000082">Be free of miserliness and delight in giving;</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000083">Relinquish all thoughts of envy.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000026" type="Verse" s_name="20">
+			<phrase phr_id="2-07-00129-ENG02-000084">To help soothe others' minds,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000085">Forsake all disputation</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000086">And be endowed with forbearance.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000027" type="Verse" s_name="21">
+			<phrase phr_id="2-07-00129-ENG02-000087">Be free of flattery and fickleness in friendship,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000088">Be steadfast and reliable at all times.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000089">Do not disparage others,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000090">But always abide with respectful demeanor.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000028" type="Verse" s_name="22">
+			<phrase phr_id="2-07-00129-ENG02-000091">When giving advice,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000092">Maintain compassion and altruism.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000093">Never defame the teachings.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000094">Whatever practices you admire,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000095">With aspiration and the ten spiritual deeds,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000096">Strive diligently, dividing day and night.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000029" type="Verse" s_name="23">
+			<phrase phr_id="2-07-00129-ENG02-000097">Whatever virtues you gather though the three times,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000098">Dedicate them toward the unexcelled great awakening.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000099">Disperse your merit to all sentient beings,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000100">And utter the peerless aspiration prayers</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000101">Of the seven limbs at all times.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000030" type="Verse" s_name="24">
+			<phrase phr_id="2-07-00129-ENG02-000102">If you proceed thus, you'll swiftly perfect merit and wisdom</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000103">And eliminate the two defilements.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000104">Since your human existence will be meaningful,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000105">You'll attain the unexcelled enlightenment.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000031" type="Verse" s_name="25">
+			<phrase phr_id="2-07-00129-ENG02-000106">The wealth of faith, the wealth of morality,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000107">The wealth of giving, the wealth of learning,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000108">The wealth of conscience, the wealth of shame,</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000109">And the wealth of insight-these are the seven riches.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000032" type="Verse" s_name="26abc">
+			<phrase phr_id="2-07-00129-ENG02-000110">These precious and excellent jewels</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000111">Are the seven inexhaustible riches.</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000112">Do not speak of these to those not human.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000033" type="Verse" s_name="26de">
+			<phrase phr_id="2-07-00129-ENG02-000113">Among others guard your speech;</phrase>
+			<phrase phr_id="2-07-00129-ENG02-000114">When alone guard your mind.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00129-ENG02-SID000034" type="Text Colophon">
+			<phrase phr_id="2-07-00129-ENG02-000115">This concludes the Bodhisattva's Jewel Garland composed by the Indian abbot Dīpaṃkaraśrījñāna.</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

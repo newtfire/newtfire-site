@@ -1,0 +1,39 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/brandnew/Albums/TheDevilAndGodAreRagingInsideMe" owner="admin" group="dba" mode="755" created="2020-08-07T21:18:54-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="degausser.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54-04:00" modified="2020-08-07T21:18:54-04:00" filename="degausser.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="youWontKnow.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:55-04:00" modified="2020-08-07T21:18:55-04:00" filename="youWontKnow.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="notTheSun.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:55-04:00" modified="2020-08-07T21:18:55-04:00" filename="notTheSun.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jesusChrist.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:55-04:00" modified="2020-08-07T21:18:55-04:00" filename="jesusChrist.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sowingSeasonYeah.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:55-04:00" modified="2020-08-07T21:18:55-04:00" filename="sowingSeasonYeah.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="millstone.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:55-04:00" modified="2020-08-07T21:18:55-04:00" filename="millstone.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="limousine.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:55-04:00" modified="2020-08-07T21:18:55-04:00" filename="limousine.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="theArchersBowsHaveBroken.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:55-04:00" modified="2020-08-07T21:18:55-04:00" filename="theArchersBowsHaveBroken.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="luca.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:55-04:00" modified="2020-08-07T21:18:55-04:00" filename="luca.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="welcomeToBangkok.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:55-04:00" modified="2020-08-07T21:18:55-04:00" filename="welcomeToBangkok.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="untitled.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:55-04:00" modified="2020-08-07T21:18:55-04:00" filename="untitled.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="handcuffs.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:55-04:00" modified="2020-08-07T21:18:55-04:00" filename="handcuffs.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,129 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/old-queries" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:43-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="ElectionsQuery" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="ElectionsQuery" mimetype="application/xml" blob-id="30fedf489d76d1423fbe9535054561390955d3d0da3feee02a7ab38a4d49e181">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificPoetryCommPlacesIndexed" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="PacificPoetryCommPlacesIndexed" mimetype="application/xml" blob-id="6d419c8f1c41f3a3e6001b24986731468911909b2cb78c454fda5f9eaaae9df4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KMLGeorgForster" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="KMLGeorgForster" mimetype="application/xml" blob-id="0d229650166403667c34e94faae8dc41af3400ae5a15373fcb0b1e181a6f2afa">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Election2012SVG" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="Election2012SVG" mimetype="application/xml" blob-id="c41a50985243d82c8546ed70192270bdf352cf36c9f4f485ca07189f9dbdfbab">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ClassOct23PacificPoetryCommPlacesIndexed" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="ClassOct23PacificPoetryCommPlacesIndexed" mimetype="application/xml" blob-id="051bb44724fba1dd4ba86e156363ac41129a8a936b10638823e8fb84ad36523f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sampleQuery.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="sampleQuery.xql" mimetype="application/xquery" blob-id="0e7442cf8b25173028490ff9281b27ad71a1876f20c027dfdb6270c8ef77981a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificPoetryCastLists" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="PacificPoetryCastLists" mimetype="application/xml" blob-id="b40123a58f132c8a554bffd414baafe000acb110e7970f19907e1cf614e9514e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SchismPlace" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="SchismPlace" mimetype="application/xml" blob-id="7342258817c02930760e045333e38857fb4c9e6afab2d557ac3850db938c1270">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="beccaKML" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="beccaKML" mimetype="application/xml" blob-id="34047a4c4f27d7ec973c624e66d98f0e5ec8ddbc4c4bc9f916c0bbad627f5b2c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="NameandMatchExperiment" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="NameandMatchExperiment" mimetype="application/xml" blob-id="50602dfaaae7b925247678956fb3408f640a3a2419c0cf6259c69785037fd220">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerqueryEx4" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="testerqueryEx4" mimetype="application/xml" blob-id="f9e3b8d023819599d347733e52ce66f6fdb135c983f4246d8c3af3468639f05d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ECCOL2PROB" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43-04:00" modified="2020-08-07T21:14:43-04:00" filename="ECCOL2PROB" mimetype="application/xml" blob-id="868e31ae906314f3158b742dbdd9634a0fc2b36f4c9b216512a5528b3c86174f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KMLScript" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43-04:00" modified="2020-08-07T21:14:43-04:00" filename="KMLScript" mimetype="application/xml" blob-id="5e99a1cfd2471196b3ac555789b6421e06e5235a32799c42778c9c23c16ec029">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MitfordCompareVersions" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43-04:00" modified="2020-08-07T21:14:43-04:00" filename="MitfordCompareVersions" mimetype="application/xml" blob-id="5a874c8ffd97d5032f6d774a2f566a57d057daea307af909e239ec72aac6b8c2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ShakespeareQueryDHClass" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43-04:00" modified="2020-08-07T21:14:43-04:00" filename="ShakespeareQueryDHClass" mimetype="application/xml" blob-id="7c2d145daf1e22d1e092fb4f739b3c0c12ded210ed6e51e646a510854140a9ff">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificPersNamesRsColl" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43-04:00" modified="2020-08-07T21:14:43-04:00" filename="PacificPersNamesRsColl" mimetype="application/xml" blob-id="68c2cd7aa812eb36cd573ed26e12b22856015e05ca449b0887e488bd20b939e3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SimplicityItself" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43-04:00" modified="2020-08-07T21:14:43-04:00" filename="SimplicityItself" mimetype="application/xml" blob-id="6de8938eea9afe1cd0fff9aa1d57b2ef2d4d11074168dbdd23681ef4d9f17b9f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="alphabetizeShakesColl" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43-04:00" modified="2020-08-07T21:14:43-04:00" filename="alphabetizeShakesColl" mimetype="application/xml" blob-id="850ce62c96f5f08638a46fc5281beb1112118c8bc6bfa11ec709931820436f92">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificInCommon2" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43-04:00" modified="2020-08-07T21:14:43-04:00" filename="PacificInCommon2" mimetype="application/xml" blob-id="b45977ff18b6c82f12177b8c43016639d28bdf2252694d5b0244c593c5794899">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ClassOct30" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43-04:00" modified="2020-08-07T21:14:43-04:00" filename="ClassOct30" mimetype="application/xml" blob-id="81c8c01ccc2b659fa5c823e59769017484ff94b6bec390c7bc8e520b50d95bd7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificInCommon3" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43-04:00" modified="2020-08-07T21:14:43-04:00" filename="PacificInCommon3" mimetype="application/xml" blob-id="db1c2558f006fd683c1bf2a9007c381d3e132b5fabde7b810e0b9bfa59f24a73">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ElmsAttsTable" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43-04:00" modified="2020-08-07T21:14:43-04:00" filename="ElmsAttsTable" mimetype="application/xml" blob-id="469adc6ee340719f1542b1510a8d142565014ce898c15ad55a4ec0d48d15181b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamletstringsends-withO" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43-04:00" modified="2020-08-07T21:14:43-04:00" filename="hamletstringsends-withO" mimetype="application/xml" blob-id="169f836418c0c0a80bb902318d38283e1a41b4fd7c00a70337224c31c00bf2ea">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CookVoy2toSVGCHAPTER" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43-04:00" modified="2020-08-07T21:14:43-04:00" filename="CookVoy2toSVGCHAPTER" mimetype="application/xml" blob-id="73d8d2f1f8dbba07e3ab0a35232b985fe931f9038ee95d2c54e009866c6a9b0c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificPoetryCollIndex" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44-04:00" modified="2020-08-07T21:14:44-04:00" filename="PacificPoetryCollIndex" mimetype="application/xml" blob-id="1400ebc19dcc6f95ef498e6bf527d307f0424bcde6ecfef1abcea1f15e893a74">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="textOutput-to-db" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44-04:00" modified="2020-08-07T21:14:44-04:00" filename="textOutput-to-db" mimetype="application/xml" blob-id="906d405043566b3c68f57be224888fc6baa0ab43650ede258da9d69fa05e7041">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ECCOstringmatch" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44-04:00" modified="2020-08-07T21:14:44-04:00" filename="ECCOstringmatch" mimetype="application/xml" blob-id="2312e4fe17317211eae782b5dbea3d25e8452f34bf088ae354c9529059a8122c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="countgeoCookvoy2" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44-04:00" modified="2020-08-07T21:14:44-04:00" filename="countgeoCookvoy2" mimetype="application/xml" blob-id="fe6e3f6e735bd25dfa199a7cd92e4a42ac27829c0b695115f343083696ba04d6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificPeeps" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44-04:00" modified="2020-08-07T21:14:44-04:00" filename="PacificPeeps" mimetype="application/xml" blob-id="0636c8da273c8e5a86f2b3c3b961c854a9a1e31a250f2c257c6c7125b3d9e7f5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificInCommon" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44-04:00" modified="2020-08-07T21:14:44-04:00" filename="PacificInCommon" mimetype="application/xml" blob-id="d963887a6e08999bc7b82fea6f7b9b4f431df2200ef99744754e0622e2004b41">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="textOutput.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44-04:00" modified="2020-08-07T21:14:44-04:00" filename="textOutput.txt" mimetype="text/plain" blob-id="8534cec0b9a9c1ec5a9a6d37665e708893d206c6700b3f9429bce297105a671f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SchismPlaceXMLout" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44-04:00" modified="2020-08-07T21:14:44-04:00" filename="SchismPlaceXMLout" mimetype="application/xml" blob-id="aeda456868129be45a06c82e527a367aa198e60abb101f091590fc712c33db30">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Tables_People_Places_PacPoetry" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44-04:00" modified="2020-08-07T21:14:44-04:00" filename="Tables_People_Places_PacPoetry" mimetype="application/xml" blob-id="54dbd6ce0bd6bf6f2c577e4d66f65f12f3425786250a4f88a032e4cd584c779e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ECCOL2" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44-04:00" modified="2020-08-07T21:14:44-04:00" filename="ECCOL2" mimetype="application/xml" blob-id="475f4a0e0894d0a7b72f999e1c78c6dbd18a6d00ca46ca65203aa1f632e9b03c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ECCOL2HTML" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44-04:00" modified="2020-08-07T21:14:44-04:00" filename="ECCOL2HTML" mimetype="application/xml" blob-id="475f4a0e0894d0a7b72f999e1c78c6dbd18a6d00ca46ca65203aa1f632e9b03c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ShakespeareColl" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44-04:00" modified="2020-08-07T21:14:44-04:00" filename="ShakespeareColl" mimetype="application/xml" blob-id="89578eeccb4eb0cecbbfbe4bf08e7104e763645f9dbf3fe12d8f69f29bb84670">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbSample.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44-04:00" modified="2020-08-07T21:14:44-04:00" filename="ebbSample.xql" mimetype="application/xquery" blob-id="81724b07d169ece3ab4ebec13e0bb85e79cd79e5c432de9ae76491a25862e355">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificNamesSVG" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="PacificNamesSVG" mimetype="application/xml" blob-id="96ed0c978bde2ab6b631d6ee67f560725010153b0e782351b8b3c6d159bd5b36">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MitfordWorkQuery" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="MitfordWorkQuery" mimetype="application/xml" blob-id="90d4c3c1283839fb4fdf2f915250a9f8958bb2142c214d4397fc323ed1d8f02d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CookVoy2toSVGSORTED" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="CookVoy2toSVGSORTED" mimetype="application/xml" blob-id="01974a6f1f69e3ec1f820f5b6844e6e49adfffd5b2ab9ecb684b74cf7ed15fb9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ShksmatchTitletoSpk" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="ShksmatchTitletoSpk" mimetype="application/xml" blob-id="4a9fe783d757195e1faec2f9d4fc9d3b0aefc41dbb0a9d1caf7197833d4df0ee">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CookVoy2toSVG" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45-04:00" modified="2020-08-07T21:14:45-04:00" filename="CookVoy2toSVG" mimetype="application/xml" blob-id="263e1ca0f850999ab2321d625595f50cde4f34c24101eadf902a280c431a98cb">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

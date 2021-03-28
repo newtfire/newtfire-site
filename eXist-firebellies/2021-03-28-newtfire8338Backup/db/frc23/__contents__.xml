@@ -1,0 +1,179 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/frc23" owner="admin" group="dba" mode="755" created="2020-08-07T21:17:27-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="ulyssesPieChart.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="ulyssesPieChart.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2020_test_pokemonTypeLoc.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32-04:00" modified="2020-08-07T21:17:32-04:00" filename="2020_test_pokemonTypeLoc.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="NestorSpeakersvRef.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:27-04:00" modified="2020-08-07T21:17:27-04:00" filename="NestorSpeakersvRef.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Carter_SVG2_Output.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:27-04:00" modified="2020-08-07T21:17:27-04:00" filename="Carter_SVG2_Output.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pokemonTypeLoc_frc23_2020.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:27-04:00" modified="2020-08-07T21:17:27-04:00" filename="pokemonTypeLoc_frc23_2020.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulyssesGraph.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:27-04:00" modified="2020-08-07T21:17:27-04:00" filename="ulyssesGraph.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ebb-class_example_pokemon_routes_1.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:29-04:00" modified="2020-08-07T21:17:29-04:00" filename="ebb-class_example_pokemon_routes_1.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rocket_example_23.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:30-04:00" modified="2020-08-07T21:17:30-04:00" filename="rocket_example_23.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pokemon_example.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="pokemon_example.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="JavaScript2.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="JavaScript2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="class_example_pokemon_routes_1.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="class_example_pokemon_routes_1.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySimpleNet.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="banksySimpleNet.tsv" mimetype="application/xml" blob-id="cae9ba28da056c1f79885eae358408fac4b5d512e8ed0eaede020c0c3238a4fd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_1_test_2.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="qgis_1_test_2.tsv" mimetype="application/xml" blob-id="10c4b255fb7c7c5997d7bc272717ca46c2876cba780340c2dc3b77d655e3378f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesReferencesToLocations.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32-04:00" modified="2020-08-07T21:17:32-04:00" filename="ulyssesReferencesToLocations.tsv" mimetype="application/xml" blob-id="f2e416a36b31eede0561fbca25d525463ad04b8d834fd64794921de103a8c050">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG3.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32-04:00" modified="2020-08-07T21:17:32-04:00" filename="SVG3.xql" mimetype="application/xquery" blob-id="4c15dd2469721684c0ff1bba66c61813ccf3ea684a7d0588bbe6e0b557d7f30f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesReferenceQuerying.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32-04:00" modified="2020-08-07T21:17:32-04:00" filename="ulyssesReferenceQuerying.xql" mimetype="application/xquery" blob-id="77693a6d40a40e6925aae62eadca1692265e9673dc60ebc0f56c091cc17fa2b1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemon_bad_data.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32-04:00" modified="2020-08-07T21:17:32-04:00" filename="pokemon_bad_data.tsv" mimetype="application/xml" blob-id="578d0e6a401e31e201aba1460858c3a774bd3520b919ee908f9ba83757536ff1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Specific_Location_Querying.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32-04:00" modified="2020-08-07T21:17:32-04:00" filename="Specific_Location_Querying.xql" mimetype="application/xquery" blob-id="9a6be73568d43bc413ca1d6e90f3f0b1fab2b0ec9ce7506a7a40cea2a8c145ba">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="JS2_SVG.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32-04:00" modified="2020-08-07T21:17:32-04:00" filename="JS2_SVG.xql" mimetype="application/xquery" blob-id="4b95c27661c33f563c57fffaa1a8597896715ae08c859aa8bdaaa2d1554749dd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_1_test.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32-04:00" modified="2020-08-07T21:17:32-04:00" filename="qgis_1_test.tsv" mimetype="application/xml" blob-id="be3f6045ecc3f2eb2656883f8d937fa86297e090686b9b9eadea431876f7377e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesReferencesToLocations3-ebbTest2020.csv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:27-04:00" modified="2020-08-07T21:17:27-04:00" filename="ulyssesReferencesToLocations3-ebbTest2020.csv" mimetype="text/csv" blob-id="21a7929908b7c8568ef001e0515322c522a9d2eafcfc6870bc5600671214d766">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Carter_NetworkAnalysis1" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:27-04:00" modified="2020-08-07T21:17:27-04:00" filename="Carter_NetworkAnalysis1" mimetype="application/xml" blob-id="532f39df59836da80c4cd3819c4bbfc4e77381e55477821ea146877ecaa3486d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bryant_xq2_test.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:27-04:00" modified="2020-08-07T21:17:27-04:00" filename="bryant_xq2_test.xql" mimetype="application/xquery" blob-id="7bc279832e559775b69ab735b143682a9c9114fe26dd0ee50d4433a736768857">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesRefToLocations" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:27-04:00" modified="2020-08-07T21:17:27-04:00" filename="ulyssesRefToLocations" mimetype="application/xml" blob-id="43fd8995589eed5ed8ebf640a83ffb4142f56191a0209b8f40c57511939e2660">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesAllusionstoLocations_ebb.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:27-04:00" modified="2020-08-07T21:17:27-04:00" filename="ulyssesAllusionstoLocations_ebb.tsv" mimetype="application/xml" blob-id="f056ea24b7a8385443b995f07cd1df86e2137be26a641791e65f22f2905e0f6a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="2020_test.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:28-04:00" modified="2020-08-07T21:17:28-04:00" filename="2020_test.xql" mimetype="application/xquery" blob-id="6ac01bb6d417f36511b428a801398708a44a344baa466fe49bca0cb24fd412e0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_2__2take2.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:28-04:00" modified="2020-08-07T21:17:28-04:00" filename="qgis_2__2take2.tsv" mimetype="application/xml" blob-id="06acadb59d694e36d14cb925300374545f7c17145fd808f3029bf4b57a49882d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Homecoming_RefVLoc.csv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:28-04:00" modified="2020-08-07T21:17:28-04:00" filename="Homecoming_RefVLoc.csv" mimetype="text/csv" blob-id="6de6031fc85c97bb4d77c741f35fa44f4b1892a7c9bb9c26830a36a353f2e449">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Telemachiad_RefVLoc.csv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:28-04:00" modified="2020-08-07T21:17:28-04:00" filename="Telemachiad_RefVLoc.csv" mimetype="text/csv" blob-id="fecfc97b1f86a7e9a24dfb87b974e5d1200c2adbfdb3663b88f510c74462ae1e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Carter_NetworkAnalysis1_ebb.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:28-04:00" modified="2020-08-07T21:17:28-04:00" filename="Carter_NetworkAnalysis1_ebb.xql" mimetype="application/xquery" blob-id="605725738a889e13ce1960f30308a3071c243cf6054a6f3c0fd094e1ed134c54">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_2_test.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:28-04:00" modified="2020-08-07T21:17:28-04:00" filename="qgis_2_test.tsv" mimetype="application/xml" blob-id="efae22f3fee7f1f522ff10d6c31ef4b7cd21abbc6a0f5ddf93999851a0eb090f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesAllusionNet_2020_fixed.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:28-04:00" modified="2020-08-07T21:17:28-04:00" filename="ulyssesAllusionNet_2020_fixed.tsv" mimetype="application/xml" blob-id="db8a9b33fbb06e5fd85722507e659f968311aea7025afb0c9b58c4ccd41d16a6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_1_pokemon.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:28-04:00" modified="2020-08-07T21:17:28-04:00" filename="qgis_1_pokemon.xql" mimetype="application/xquery" blob-id="2efc8c40ec04e774d03e8257e6ae2059f51a8b778ee87a1db080bb53a3a7b56d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesReferencesToLocations2.csv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:29-04:00" modified="2020-08-07T21:17:29-04:00" filename="ulyssesReferencesToLocations2.csv" mimetype="text/csv" blob-id="fa9d847d7f37c8274817b4ecb48d9605c4837fc729d4d888903faf3260dc850d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesReferencesToLocations3.csv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:29-04:00" modified="2020-08-07T21:17:29-04:00" filename="ulyssesReferencesToLocations3.csv" mimetype="text/csv" blob-id="803fe52f6efb25d5f2a7e818eb144d808691c120d0fbbbda1f8c6671998fa602">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Eccles.csv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:29-04:00" modified="2020-08-07T21:17:29-04:00" filename="Eccles.csv" mimetype="text/csv" blob-id="37795b2f2050c8076bc75c3d158fe0bfd8f1a690640c363f23f8ad20338bd074">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:29-04:00" modified="2020-08-07T21:17:29-04:00" filename="qgis_2.xql" mimetype="application/xquery" blob-id="20e2bc06ccf869e42fde785823273470b43cf5e5e158768a76bd6028171f33d2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemon_test_2020.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:29-04:00" modified="2020-08-07T21:17:29-04:00" filename="pokemon_test_2020.xql" mimetype="application/xquery" blob-id="eae62b2d0240081d4122f3ff402aaf5f49f0034a84a9416644e24308ec6afa62">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationtoRefrevised.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:29-04:00" modified="2020-08-07T21:17:29-04:00" filename="ulyssesLocationtoRefrevised.tsv" mimetype="application/xml" blob-id="018a7148f910a85344f7d479e40bc16af92f178aa4f7ce1db138eac646b3e13c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesAllusionstoLocations.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:30-04:00" modified="2020-08-07T21:17:30-04:00" filename="ulyssesAllusionstoLocations.tsv" mimetype="application/xml" blob-id="4d031fd45ece731760c741e142dd284b1cfd0e1bd3fea77310f8ca3ed28df0ca">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_2_2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:30-04:00" modified="2020-08-07T21:17:30-04:00" filename="qgis_2_2.xql" mimetype="application/xquery" blob-id="e00cd80c15a14b73d16958a7922cb2d22903330ba7b68445992db1145b8e6143">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationQuerying" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:30-04:00" modified="2020-08-07T21:17:30-04:00" filename="ulyssesLocationQuerying" mimetype="application/xml" blob-id="38f5d0dc5ec3537d5ad50da77dd074c6939359d33d3bf23a272cbb2668a91387">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLotusEatersLoc.csv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:30-04:00" modified="2020-08-07T21:17:30-04:00" filename="ulyssesLotusEatersLoc.csv" mimetype="text/csv" blob-id="ba0f7f5bc12a4095d8c2f3e5cb90caddfd3e80dc9c2dadf6136da9e30fc4ec9a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:30-04:00" modified="2020-08-07T21:17:30-04:00" filename="xquery2.xql" mimetype="application/xquery" blob-id="3826fd4d48bb739fb163875dddacda891f794e7fce51801ab8b49da634591492">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationQuerying.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:30-04:00" modified="2020-08-07T21:17:30-04:00" filename="ulyssesLocationQuerying.xql" mimetype="application/xquery" blob-id="3f5fbce1c7ae3ff72ef8f3756d9de30f2dad2bdcdbf303733fdfe1c6b788044f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocket_example.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:30-04:00" modified="2020-08-07T21:17:30-04:00" filename="rocket_example.xql" mimetype="application/xquery" blob-id="3e686f6ba325892fd7ca89383f21f6c6e7de9a71cb2add25919c48e9d6d62889">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Carter_NetworkAnalysis2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:30-04:00" modified="2020-08-07T21:17:30-04:00" filename="Carter_NetworkAnalysis2.xql" mimetype="application/xquery" blob-id="d4d7d2f4b8fcdb7c30046da54409cd1696890255f8219f89e70f121bd313c338">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Carter_XQuery3" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:30-04:00" modified="2020-08-07T21:17:30-04:00" filename="Carter_XQuery3" mimetype="application/xml" blob-id="afb8a15407010ec5df371ada7e4cd0be81bbc2a44b76f82eb0e8c129ac15499f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Carter_NetworkAnalysis1.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:30-04:00" modified="2020-08-07T21:17:30-04:00" filename="Carter_NetworkAnalysis1.xql" mimetype="application/xquery" blob-id="1ac17d5f698447db9931a4252c4830d03ee3b7059ef0510a0298cd683d2c8deb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Homecoming_RefsVLoc" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="Homecoming_RefsVLoc" mimetype="application/xml" blob-id="1907ea2a190c94d3bd2feb3623249e52eaeda5e3f84968bc831c68579c5efbd7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemon_test.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="pokemon_test.xql" mimetype="application/xquery" blob-id="b8b821e9697f4f96452e67727e4a0981a98bd94f934c5e736d7b384211c5fc77">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="LOCATION_QUERYING.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="LOCATION_QUERYING.xql" mimetype="application/xquery" blob-id="bf999b5398c154e88dfb30f93dacdbaf804bb17bcbd57808fcdfc95318e6cbb0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Carter_ulyssesAllLocNet_frc23_2020.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="Carter_ulyssesAllLocNet_frc23_2020.tsv" mimetype="application/xml" blob-id="12df900e846b251f03a034c97974b2e10e1d2fcfbef8be929f493b68fa1eaa55">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Carter_NetworkAnalysis2.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="Carter_NetworkAnalysis2.tsv" mimetype="application/xml" blob-id="edeb05355f234cc44284f27a8beb6530b455bc7d233d0748c9f6a4ba88f76586">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_2__2test.csv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="qgis_2__2test.csv" mimetype="text/csv" blob-id="a3f88320fd469aff6efa03955f8183f8f0c24da79d94563882c39b799a893f44">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Loopline.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="Loopline.tsv" mimetype="application/xml" blob-id="307df420f04ebcc0265b17a10840521ae76045362f7ca2646531da0e3bacc6ec">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Wanderings_RefVLoc.csv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="Wanderings_RefVLoc.csv" mimetype="text/csv" blob-id="b63c7a6c1aba85343f6e1e3029ce39ba1e8c469e629d8a7aefcc95fd01a53570">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:31-04:00" modified="2020-08-07T21:17:31-04:00" filename="SVG2.xql" mimetype="application/xquery" blob-id="c760d458f23eca99dc3873c4e9d8a7546809045c1dc3cdbb53fefc3955154561">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="magellanKML" filename="magellanKML"/>
+    <subcollection name="KML" filename="KML"/>
+</collection>

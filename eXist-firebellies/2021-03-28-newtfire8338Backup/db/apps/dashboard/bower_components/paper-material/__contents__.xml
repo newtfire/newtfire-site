@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/paper-material" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="paper-material.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-material.html" mimetype="text/html" blob-id="89f7de2b6253904df89dfbfd24a0934a970b055cdfb7e5a359e6996ebb13244a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-material-shared-styles.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-material-shared-styles.html" mimetype="text/html" blob-id="b32d88cff89b55b61c8dab1ced885d8d82a34d28f24dbb90c36b2aba61034627">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

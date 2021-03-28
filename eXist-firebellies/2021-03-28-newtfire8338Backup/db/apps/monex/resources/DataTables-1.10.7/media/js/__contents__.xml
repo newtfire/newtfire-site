@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/resources/DataTables-1.10.7/media/js" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery.dataTables.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jquery.dataTables.js" mimetype="application/javascript" blob-id="70251d9367ef5a29e155313d98f777f4d5d846c4c9a2a8740b9e7100c29204dc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dataTables.bootstrap.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="dataTables.bootstrap.js" mimetype="application/javascript" blob-id="23dd7be927382c1c1ef51f91b2e41c7e2dd8e9dae32c39e402add0f82bd9513e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.dataTables.min.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jquery.dataTables.min.js" mimetype="application/javascript" blob-id="6c7efe227448b9107fe96d42a975e07def8ded097a4656f99bf5b32ad0b94349">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jquery.js" mimetype="application/javascript" blob-id="5ca57f3f020cfd497474d122df82c1763ddfb47b12ba079e6ce842c9f0669469">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dataTables.responsive.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="dataTables.responsive.js" mimetype="application/javascript" blob-id="be9b70c9b46d03e6085aa325338d97fafc43ba270249086c28d3efbae85923e3">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

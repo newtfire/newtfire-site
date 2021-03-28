@@ -1,0 +1,45 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/resources/scripts/jquery/css/smoothness/images" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="ui-icons_2e83ff_256x240.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-icons_2e83ff_256x240.png" mimetype="image/png" blob-id="841c7de6a4e33ba3b9ee299ea9de69d73241557671e57616c80615fc89fcfb68">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_glass_65_ffffff_1x400.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-bg_glass_65_ffffff_1x400.png" mimetype="image/png" blob-id="68762ecb2c9adce0ef408e725096a584463bdd2ea950a1e31154f22d05afbaea">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-anim_basic_16x16.gif" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-anim_basic_16x16.gif" mimetype="image/gif" blob-id="1006e55834b1d3334b2d528d2274015f4acdaaa6324900fb0abc3d9f51d97059">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_glass_55_fbf9ee_1x400.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-bg_glass_55_fbf9ee_1x400.png" mimetype="image/png" blob-id="0fc47264f02e0fdb3caabe640bf7262dccd82979611c15ea4f196e1b11d436d4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_glass_75_dadada_1x400.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-bg_glass_75_dadada_1x400.png" mimetype="image/png" blob-id="d176ef795e22c6ae23ff33748df03c9b34cc1bfecb7282f703a173af5ba8ba1e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_888888_256x240.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-icons_888888_256x240.png" mimetype="image/png" blob-id="0a4315275d7a43cc086a99e95f067e32346452fa36b7c92a5387e4db62294382">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_glass_95_fef1ec_1x400.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-bg_glass_95_fef1ec_1x400.png" mimetype="image/png" blob-id="a13799902ea7325bd0dd25021d37c8f9b91e5f91cb0c7efd14a05b684fec88b1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_454545_256x240.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-icons_454545_256x240.png" mimetype="image/png" blob-id="1a6e27c5ec4cc7e8ccd48a730ea7a74be69aa312bf27cafb6874bfdb1ec9a7ce">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_flat_75_ffffff_40x100.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-bg_flat_75_ffffff_40x100.png" mimetype="image/png" blob-id="d7971ecbcc8ef361b317da478dac6f9e7a3f0851ffa1357288a91933bb02562c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_cd0a0a_256x240.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-icons_cd0a0a_256x240.png" mimetype="image/png" blob-id="d6d8b1d9df3ff5fa95cea4151e806919ec446a741e2141b5068fb3aee7a07c46">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_flat_0_aaaaaa_40x100.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-bg_flat_0_aaaaaa_40x100.png" mimetype="image/png" blob-id="d67180b0938d30b0c67fd54acdc9cf3a3deb6615b9386052167ec1479d21aa6c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_glass_75_e6e6e6_1x400.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-bg_glass_75_e6e6e6_1x400.png" mimetype="image/png" blob-id="ed880df854fc785d01ca640a8b3e4778fab27a75100c6eb592e2b17bda741ec3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_222222_256x240.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-icons_222222_256x240.png" mimetype="image/png" blob-id="3abfd845851121ddc92c38463226c29f78ee31eefac6e99c13a392dd6b56c875">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_highlight-soft_75_cccccc_1x100.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui-bg_highlight-soft_75_cccccc_1x100.png" mimetype="image/png" blob-id="44c85a3c1adcc9d076436637e1966d363f50b9121011c60f7bdec477efe73310">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

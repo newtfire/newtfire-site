@@ -1,0 +1,5 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/security/exist" owner="SYSTEM" group="dba" mode="770" created="2020-08-07T01:27:59-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <subcollection name="accounts" filename="accounts"/>
+    <subcollection name="groups" filename="groups"/>
+</collection>

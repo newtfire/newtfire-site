@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/app-layout/app-drawer" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:28-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="app-drawer.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="app-drawer.html" mimetype="text/html" blob-id="6588cc07a4c8f4b2dadd77d24efb40da49153df796194aeb2d8124a2b80a50fc">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

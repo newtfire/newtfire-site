@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/blake/xql" owner="admin" group="dba" mode="755" created="2020-08-07T21:19:47-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="test.xsl" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:47-04:00" modified="2020-08-07T21:19:47-04:00" filename="test.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="search.css" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:47-04:00" modified="2020-08-07T21:19:47-04:00" filename="search.css" mimetype="text/css" blob-id="ff6bc9c41b7a347d312e089e3e74f80007adc3e1d57525c4ac92753aa831e859">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="keyword.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:47-04:00" modified="2020-08-07T21:19:47-04:00" filename="keyword.xql" mimetype="application/xquery" blob-id="221eb42070bfa2c3835847037c57b78b5c7b0fe090bcfbece00854f3063ec3e3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="keyword-djb.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:47-04:00" modified="2020-08-07T21:19:47-04:00" filename="keyword-djb.xql" mimetype="application/xquery" blob-id="23e535dbe8b1c2cfcbadb9da0dc0e3dd86560354d573b55e048ab1d8d5c9cdd2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="djb-test.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:47-04:00" modified="2020-08-07T21:19:47-04:00" filename="djb-test.xql" mimetype="application/xquery" blob-id="125b74956e2a317aeedb2c1cb1ed44244a033d31c0779856af22f30d21cc8d09">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="navigation.css" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:48-04:00" modified="2020-08-07T21:19:48-04:00" filename="navigation.css" mimetype="text/css" blob-id="8aebd070f5f165440a9c8bec15d791877431f8597df08dadbd51670e4a5d3f09">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:48-04:00" modified="2020-08-07T21:19:48-04:00" filename="test.xql" mimetype="application/xquery" blob-id="74a683be44d6f8ac78bb7e874d14cf34ff126596891b136471408c4fe9611c74">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="keywordOld.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:48-04:00" modified="2020-08-07T21:19:48-04:00" filename="keywordOld.xql" mimetype="application/xquery" blob-id="a335b4be6bf70c158a5f7d866c4089eb105e70cf22704eca789ea9e0ee4f3c57">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

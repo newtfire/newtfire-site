@@ -1,0 +1,78 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/pokemonMap/places/routes" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:14-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="14.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14-04:00" modified="2020-08-07T21:14:14-04:00" filename="14.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="15.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14-04:00" modified="2020-08-07T21:14:14-04:00" filename="15.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="01.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14-04:00" modified="2020-08-07T21:14:14-04:00" filename="01.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="17.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14-04:00" modified="2020-08-07T21:14:14-04:00" filename="17.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="03.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14-04:00" modified="2020-08-07T21:14:14-04:00" filename="03.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="02.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="02.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="16.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="16.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="12.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="12.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="06.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="06.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="07.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="07.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="13.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="13.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="05.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="05.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="11.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="11.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="10.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="10.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="04.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="04.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="09.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="09.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="21.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="21.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="20.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="20.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="08.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="08.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="22.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:15-04:00" modified="2020-08-07T21:14:15-04:00" filename="22.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="23.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16-04:00" modified="2020-08-07T21:14:16-04:00" filename="23.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="24.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16-04:00" modified="2020-08-07T21:14:16-04:00" filename="24.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="18.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16-04:00" modified="2020-08-07T21:14:16-04:00" filename="18.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="19.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16-04:00" modified="2020-08-07T21:14:16-04:00" filename="19.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="25.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16-04:00" modified="2020-08-07T21:14:16-04:00" filename="25.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

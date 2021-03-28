@@ -1,0 +1,53 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="repo.xml" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="repo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="expath-pkg.xml" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="expath-pkg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="help.html" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="help.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="build.xml" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="build.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="configuration.xml" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="configuration.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="index.html" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="index.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="collection.xconf" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="collection.xconf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="README.md" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="README.md" mimetype="text/markdown" blob-id="86a011c57fef75110750149b10c02e5e5bc3a72bca9664cd2ac3648484a200dd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="keybindings.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="keybindings.js" mimetype="application/javascript" blob-id="be5c1434625440b686a6b0d081c2142326e0c2a09f859595a39f398e59b0eb6a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="LICENSE.txt" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="LICENSE.txt" mimetype="text/plain" blob-id="08e3e93ac6a1a3f5140a7e10757bd66bbcf2bed8a7d219408d14e57c55476443">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="icon.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="icon.png" mimetype="image/png" blob-id="01cc212f27de4ee5a6328da010b3579d36f6e0a0c38ef93cbbb4df67f968d7e9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="controller.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="controller.xql" mimetype="application/xquery" blob-id="97335331480af35e6cf6e15c82987a2091e8501dedda026627c96235437c1633">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pre-install.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="pre-install.xql" mimetype="application/xquery" blob-id="607a1dc453e4ab1eb2d10cc1cb9236744218a7841ccbeb68067cdfbba83dad8f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="build.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="build.js" mimetype="application/javascript" blob-id="f3fdafd76d6c859202681c3a62075715604e372bb196399012006d7abb9d4b48">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name=".travis.yml" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename=".travis.yml" mimetype="application/octet-stream" blob-id="987d0d2c0dfe94dd6a3dc9b3330ed0060edacfd5b420000ea8d9ff6329ecd46a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="resources" filename="resources"/>
+    <subcollection name="src" filename="src"/>
+    <subcollection name="templates" filename="templates"/>
+    <subcollection name="modules" filename="modules"/>
+    <subcollection name="docs" filename="docs"/>
+</collection>

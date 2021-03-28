@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/vaadin-upload" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="vaadin-upload-icons.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="vaadin-upload-icons.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vaadin-upload-file.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="vaadin-upload-file.html" mimetype="text/html" blob-id="acc2e62457d08a3b24e303594682d4bfb6122fb9e20cede7ecc83397b78778e5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vaadin-upload.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="vaadin-upload.html" mimetype="text/html" blob-id="bfe288154246c0588d68e10c84b25cdd8ebd240d13426782f17b97b57185f56b">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

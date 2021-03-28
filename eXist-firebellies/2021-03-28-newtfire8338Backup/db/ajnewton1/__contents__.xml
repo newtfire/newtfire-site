@@ -1,0 +1,72 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ajnewton1" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:51-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="jstimeline.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="jstimeline.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Newton_XQueryEx4A.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="Newton_XQueryEx4A.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="newsAnalysis_BarGraph3.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="newsAnalysis_BarGraph3.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="newsAnalysis_BarGraph2.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="newsAnalysis_BarGraph2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Newton_XQueryEx2.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="Newton_XQueryEx2.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Newton_XQueryEx4.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="Newton_XQueryEx4.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jstimeline.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="jstimeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="newsAnalysis_BarGraph.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="newsAnalysis_BarGraph.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MyNetworkData.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="MyNetworkData.tsv" mimetype="application/xml" blob-id="e2db195c6b6b5c32533ea5d6bf0599b2cf58161e854d6930a179f3e6ac9811c3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="newsAnalysis_BarGraph" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="newsAnalysis_BarGraph" mimetype="application/xml" blob-id="e8485638a40091533437363d9673c225cf11be5b76c947bcc26d8efbb4d486af">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton-XQuery3-2" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="Newton-XQuery3-2" mimetype="application/xml" blob-id="13001e8718efbb2d8fdc804296b2ec21ed5fed0a9f83ddcdf1988e77eafbe0a6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_SVG2Ex" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="Newton_SVG2Ex" mimetype="application/xml" blob-id="159827ddd3d6ce5d40cded0907545f6bfffe0fb5c431d903e33185f8d46f6a40">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_XQueryEx1" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="Newton_XQueryEx1" mimetype="application/xml" blob-id="535d7dc43d2a9dc4c2bbcdd85865f221f398d5e7fd1234e42ce5a3375688fd22">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_XQueryEx3-2.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="Newton_XQueryEx3-2.txt" mimetype="text/plain" blob-id="8398750c350475dae9112cb46349bba5edc0ae4fd97070fc9906775ebffc432d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_SVGEx3" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="Newton_SVGEx3" mimetype="application/xml" blob-id="fc23f92508a7eb55ada40419865d2e2297920b7843905cc665be48a78a7e2b50">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_NewtworkEx1" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="Newton_NewtworkEx1" mimetype="application/xml" blob-id="75d51cebcb7e27a77521b88ea80aae3e910e39f74382685632ecc25b3c83eb63">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_XQueryEx3.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="Newton_XQueryEx3.txt" mimetype="text/plain" blob-id="abf78348a0f4bfe00a552dcdb69e089a80e90b4172b172d9cb46abab8fea4022">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="newsAnalysis_BarGraph3" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="newsAnalysis_BarGraph3" mimetype="application/xml" blob-id="3da030ffe4ecf029ed64ad7aa4bdaf0fbfbba64a0a8141b7f6c7b647b8f09744">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Placeography.kml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="Placeography.kml" mimetype="application/xml" blob-id="1c3590a8ea6e0fe11da4b87e80421d9b404452b3fa0cdcf6a99557c8ecfc786f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="JS3" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="JS3" mimetype="application/xml" blob-id="b00700f0c4233d0544acfbd67af047088e80dfb33878d739e7f528d23bcfbc6a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_XQueryEx4" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="Newton_XQueryEx4" mimetype="application/xml" blob-id="02ec08baa5e715dd7656ab2160f6533ed32c21c01e18c3522529f2808681b3b1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_XQueryEx3" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="Newton_XQueryEx3" mimetype="application/xml" blob-id="dbd79470cb0c4340dba0639a76108512ac64c4a9c9f768e3d2bf167883744c42">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

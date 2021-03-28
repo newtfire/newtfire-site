@@ -1,0 +1,31 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/lope" owner="admin" group="dba" mode="755" created="2020-08-07T21:16:33-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Lope_persons_for_tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:33-04:00" modified="2020-08-07T21:16:33-04:00" filename="Lope_persons_for_tsv" mimetype="application/xml" blob-id="1d59c491d5ba0b91e7156344cfbee1e8a89aa625d9b38eaf87672eab9d00c810">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lope_emo_network.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:33-04:00" modified="2020-08-07T21:16:33-04:00" filename="lope_emo_network.xql" mimetype="application/xquery" blob-id="c58e62acd5f26125a7554ea3475a3e77ae3e9c4f0f9540da31a939cc490106fd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lope_emo_distEmos.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:33-04:00" modified="2020-08-07T21:16:33-04:00" filename="lope_emo_distEmos.xql" mimetype="application/xquery" blob-id="d5514bd5567099e2c2e76e3425d24a1f18d32327b99d3b6c778de59d19182448">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lopePersonsOutput.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:33-04:00" modified="2020-08-07T21:16:33-04:00" filename="lopePersonsOutput.tsv" mimetype="application/xml" blob-id="0b55c2c3300e4f50833a258dab0d74d0260a3ad5594dc581a1f3c1bad8b436e6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lope_emo_cardinality_err.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:33-04:00" modified="2020-08-07T21:16:33-04:00" filename="lope_emo_cardinality_err.xql" mimetype="application/xquery" blob-id="5f931300a53afd3c2a15d2b99950813cdbca67cf284a09ade4b414d195eb23b9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Lope_persons_for_tsv.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:33-04:00" modified="2020-08-07T21:16:33-04:00" filename="Lope_persons_for_tsv.xql" mimetype="application/xquery" blob-id="457137b4acd66a5af1b093feb4ac946358023bf83494e8023e5151f60df2d3ad">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lopeEmoNetwork2.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35-04:00" modified="2020-08-07T21:16:35-04:00" filename="lopeEmoNetwork2.tsv" mimetype="application/xml" blob-id="0f311931b2e74c099b3e57f55b3d4c0cbd8db29143a4555ef997da7c95f1db93">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="violence_list.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35-04:00" modified="2020-08-07T21:16:35-04:00" filename="violence_list.xql" mimetype="application/xquery" blob-id="c2f76146d1c8b6062e3d3260137b140ecb7be783cd11afd210af9fd72cf83175">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lopeEmoNetwork.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35-04:00" modified="2020-08-07T21:16:35-04:00" filename="lopeEmoNetwork.tsv" mimetype="application/xml" blob-id="e6cd756a376916152fc1d7711a477ebb7e46e4dd7afff774e617bcefb8ab4ffa">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="plays" filename="plays"/>
+</collection>

@@ -1,0 +1,42 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/akira" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:49-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Script-XML.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:49-04:00" modified="2020-08-07T21:20:49-04:00" filename="Script-XML.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="akira-tei.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:50-04:00" modified="2020-08-07T21:20:50-04:00" filename="akira-tei.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="idListExtraction.xsl" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="idListExtraction.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="control_peep-data.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:49-04:00" modified="2020-08-07T21:20:49-04:00" filename="control_peep-data.xql" mimetype="application/xquery" blob-id="fb4ca52c437a13cc0007b2e658e31ba432253fcd9db32d46f81e153a7d93edcd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Akira-findControl.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:49-04:00" modified="2020-08-07T21:20:49-04:00" filename="Akira-findControl.xql" mimetype="application/xquery" blob-id="7c42ac877a1f514b15734603fca808dea22d81de4f494ebc3e52bc53a3239352">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AkiraNetData.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:50-04:00" modified="2020-08-07T21:20:50-04:00" filename="AkiraNetData.tsv" mimetype="application/xml" blob-id="a80bfeecdc187fe626db6c38d7e3f324c81d136e9762b62d16c72ec3eb2aebbe">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AkiraNetData2.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:50-04:00" modified="2020-08-07T21:20:50-04:00" filename="AkiraNetData2.tsv" mimetype="application/xml" blob-id="e83af7fff8343ae62ec9553f084f9a4afaf67e41c66b728cbe963e4bdcd97303">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xml_IdsList.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:50-04:00" modified="2020-08-07T21:20:50-04:00" filename="xml_IdsList.txt" mimetype="text/plain" blob-id="78b8143eceaef1b5f01d03062fcb44707afcedaf6fcaaf67429743f5334ae9a6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Control-Scene-People.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:50-04:00" modified="2020-08-07T21:20:50-04:00" filename="Control-Scene-People.xql" mimetype="application/xquery" blob-id="68cc5ebd52d707d8c3df2c8933a5be754e4bc5144f745227c8bbec0c03f1c853">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="schema.rnc" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:50-04:00" modified="2020-08-07T21:20:50-04:00" filename="schema.rnc" mimetype="application/relax-ng-compact-syntax" blob-id="79efeeaaa601e51147c313b227120a597dcf0f2a0f59b9b375c9f8f40702b92e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Power-Graph-3rd-Try.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:50-04:00" modified="2020-08-07T21:20:50-04:00" filename="Power-Graph-3rd-Try.xql" mimetype="application/xquery" blob-id="e6c28aa868fc184788ed387292f5013cc421540923ce98ff490d5abf2e862596">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Akira-Script.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:50-04:00" modified="2020-08-07T21:20:50-04:00" filename="Akira-Script.xql" mimetype="application/xquery" blob-id="6e2a02bcc78296c3ce147569b1625c98179caca8dcd60100c934ee5350e16717">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AkiraNetData-2-Nick.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51-04:00" modified="2020-08-07T21:20:51-04:00" filename="AkiraNetData-2-Nick.tsv" mimetype="application/xml" blob-id="d019ec357d8e8189603897aeaba7929b22e15d4f0063caf7217acee9f16c0e8b">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/security/exist/groups/removed" owner="SYSTEM" group="dba" mode="770" created="2020-08-07T01:27:59-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="23629e90-f2f1-4bf3-a29e-90f2f17bf35d.xml" owner="SYSTEM" group="dba" mode="770" created="2021-03-12T04:10:23-05:00" modified="2021-03-12T04:10:23-05:00" filename="23629e90-f2f1-4bf3-a29e-90f2f17bf35d.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="96331a5a-a7ac-4369-b31a-5aa7acf369dc.xml" owner="SYSTEM" group="dba" mode="770" created="2021-03-12T04:10:49-05:00" modified="2021-03-12T04:10:49-05:00" filename="96331a5a-a7ac-4369-b31a-5aa7acf369dc.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

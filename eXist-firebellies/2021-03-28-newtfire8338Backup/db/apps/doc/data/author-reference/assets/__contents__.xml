@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/author-reference/assets" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:34-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="powered-by-exist.gif" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="powered-by-exist.gif" mimetype="image/gif" blob-id="8b7273f21d0eee09cd62a56b1212012d4d5892f0afb383d5eb5cefeb039bda5a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webstart.small.jpg" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="webstart.small.jpg" mimetype="image/jpeg" blob-id="bf31a7f9baf349c634bba0b7b728e41072c9f96cce2e605b05c4fd421816b85f">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

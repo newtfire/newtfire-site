@@ -1,0 +1,102 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/src" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="snippet-helper.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="snippet-helper.js" mimetype="application/javascript" blob-id="f04178d0f0a0249797520a5f6141d9e4f2cebc818f23d8c9ff5394f330e1b638">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="splitter.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="splitter.js" mimetype="application/javascript" blob-id="164b8645c2046394d709af0a8edfb2807ab0f119b614fae414f08f4f2173c54e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="events.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="events.js" mimetype="application/javascript" blob-id="45f6437851cd5d3dea5b8f154d0b603aeccb4897f0801143ae7c8648ada5a8fd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dnd.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="dnd.js" mimetype="application/javascript" blob-id="41269f4036dcad57d706515bbc796bccbc106e0b80d169e9e60857990e6ca991">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="popup.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="popup.js" mimetype="application/javascript" blob-id="b6d19a56ec2ada56cc75764387ecc898605a74a270c4ea33cfae522f6187587a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="util.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="util.js" mimetype="application/javascript" blob-id="73e7c4d4af5aab7b59953794585ee7f5e31ca61d8173a25d0278b3e3034930a4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="javascript-helper.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="javascript-helper.js" mimetype="application/javascript" blob-id="651c5c1febfcd1f8c64059e80087758de7d225beba4376106127d203c117d413">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ace-modes.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="ace-modes.js" mimetype="application/javascript" blob-id="b936f26f3160d2c9f9cad02b1783467dc304e321d6c2c7d774ca42b7a52297c4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="less-helper.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="less-helper.js" mimetype="application/javascript" blob-id="14fb78c9bc78b07d08d8502ff94eee6e9cab8624aa4ad15c2e11b9444b8e82bc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xml-helper.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="xml-helper.js" mimetype="application/javascript" blob-id="401f889439543c1b1b6b634c9b4cade5f520b31266f9a13d22d99a3700408a6b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="resources.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="resources.js" mimetype="application/javascript" blob-id="6077331497981d00ce2f3da951fbc976ac328ee048021d06390c9f23108bc67e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery-utils.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="xquery-utils.js" mimetype="application/javascript" blob-id="872d59a9867052023c55a67f674637b6d587d3f5b92dee3d64a91820c70f0e38">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="templates.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="templates.js" mimetype="application/javascript" blob-id="5430251620d69c22ee8c833fc5f20b0da42e355ead0253576a6512e219a5a810">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="css-helper.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="css-helper.js" mimetype="application/javascript" blob-id="88b720960e194e3b40f030c9da430992b92853244da91d3e3b6a8fd7ec85a00f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="history.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="history.js" mimetype="application/javascript" blob-id="f590b603ed780faafdca0d9195890a49c495a295c38c4dfd62e92d19829935ac">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="debuger.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="debuger.js" mimetype="application/javascript" blob-id="f2fee55f02a59a1bb3247e069eac87f96a9309892cefb5501b7421a782785ef3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="help.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="help.js" mimetype="application/javascript" blob-id="7fd8a74069a0740850d75c2afd30d4abc2aedc24e5d437e63c61b36a3fb9c33f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="outline.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="outline.js" mimetype="application/javascript" blob-id="047b28a8d22b6eaf379360f5f909edb7162ecc58e83c47c5bdac2fa91282a3ba">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="menu.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="menu.js" mimetype="application/javascript" blob-id="d19587595d59f7f91e6c848e01cd208b72e73a9be0320171d28a67d8ac2ec985">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="directory.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="directory.js" mimetype="application/javascript" blob-id="000929eac53ef27973dab5c00c088eaf551ac2e9a42acb4c533a37d4e18b0bd6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="layout.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="layout.js" mimetype="application/javascript" blob-id="42fcb4f017dc905a27e15a0c6d8ae5802e2552a540196d06926294983b5c9b5d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="eXide.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="eXide.js" mimetype="application/javascript" blob-id="5b52e94d92c8e11aaefdc85d797ea72e8ccad25be0c4e0cceeb9ad5ba28e691d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="editor.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="editor.js" mimetype="application/javascript" blob-id="6421eefb5a51a2e37d1bbb61480bf0e68edbe25d4f69ca6cab5b643508609b8c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="codevalidator.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="codevalidator.js" mimetype="application/javascript" blob-id="530da2bf518d549e2f9721e9ee810d09138eba91883098b49849beeacc3c2cd8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery-helper.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="xquery-helper.js" mimetype="application/javascript" blob-id="274e17f5de26becfe7d9b7600d97d40d80d149327853ef64872a643e54d98d00">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="commands.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="commands.js" mimetype="application/javascript" blob-id="5d483f54d8bdc9ef75b2d12b0b01b6322d542dc538fa68685ad993cdacf6e889">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="preferences.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="preferences.js" mimetype="application/javascript" blob-id="6a0c9ac8a7aa733b8f8d3d9792fb367d42db1ab874ad1b35284c2778ce8a0af8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="visitor.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="visitor.js" mimetype="application/javascript" blob-id="306cdd9038e7dc8a004fc62eebbc0eb03e3d786923dc0777854e97ac01b0c72c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="snippets.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="snippets.js" mimetype="application/javascript" blob-id="543f23997e6bde5640b69078ba6dd9a41504d59b7a9a01c5c108591110deb492">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="deployment.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="deployment.js" mimetype="application/javascript" blob-id="b7c78387fd5793212976b8c36dfb7be670e66981db874b3e0dd32c2da8c4b791">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="find.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="find.js" mimetype="application/javascript" blob-id="bc76ec55a3db1a51ea9a96035491e224ddbda8d43e8eb3e8029d0e6b18ad2a12">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="quickfix.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="quickfix.js" mimetype="application/javascript" blob-id="d3e1124360734886f38f4bdb6ba3009b7a270217093ccf57a5d5db705e81c41f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mode-helper.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="mode-helper.js" mimetype="application/javascript" blob-id="ba6359b8bb0060b4621b9d80be76fda90bccc93776abc0a4a93cd1b46c64bec4">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

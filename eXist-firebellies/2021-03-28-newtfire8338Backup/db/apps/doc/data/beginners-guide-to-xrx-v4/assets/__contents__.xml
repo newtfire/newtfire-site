@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/beginners-guide-to-xrx-v4/assets" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:34-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="list-items-no-links.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="list-items-no-links.png" mimetype="image/png" blob-id="472de28e3c5f3c4836e01a6a031f79a08d59f79975f39a903ee4ae3a2e384de0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="reindex-result.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="reindex-result.png" mimetype="image/png" blob-id="97abdba9cad3e58a9c1b12b343886736bf0632cf7379f650c9255e644cbbf3fe">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="list-items-links.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="list-items-links.png" mimetype="image/png" blob-id="28fb62e7ac1085a3e3896a4ae0c70c3a4b7f7dc2f61e7d4418f8a67cf2e7af6e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="search-results.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="search-results.png" mimetype="image/png" blob-id="62a1defcd851df18a6dfc8a32e4fc609d2c021746a0fe6953b03d1a0f88fbba4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view-item.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="view-item.png" mimetype="image/png" blob-id="b8ba07beb4aea3ddecbc88396b91ff8483622279f690e0cf80899f9a1aefcb0f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="index.png" mimetype="image/png" blob-id="7e6b0b445fb6d89af051e4832853b92edf4cfbb511a620e843288255921b7f59">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="search.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="search.png" mimetype="image/png" blob-id="95b3145ed596427522d50eda124989c427c68c71729f987e98b00b36b84e4137">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="model-view-bindings.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="model-view-bindings.png" mimetype="image/png" blob-id="dfb686d00d2ab8994fba1fd7e447624c9e8f61da42a7805009f75f11d2715eec">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

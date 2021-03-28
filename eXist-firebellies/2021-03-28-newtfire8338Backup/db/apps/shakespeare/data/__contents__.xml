@@ -1,0 +1,132 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shakespeare/data" owner="admin" group="dba" mode="755" created="2021-02-26T17:38:00-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="1h4.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:36-05:00" modified="2021-02-26T17:38:36-05:00" filename="1h4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1h6.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:37-05:00" modified="2021-02-26T17:38:37-05:00" filename="1h6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2h4.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:38-05:00" modified="2021-02-26T17:38:38-05:00" filename="2h4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2h6.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:39-05:00" modified="2021-02-26T17:38:39-05:00" filename="2h6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="3h6.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:40-05:00" modified="2021-02-26T17:38:40-05:00" filename="3h6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ant.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:40-05:00" modified="2021-02-26T17:38:40-05:00" filename="ant.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aww.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:41-05:00" modified="2021-02-26T17:38:41-05:00" filename="aww.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ayl.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:42-05:00" modified="2021-02-26T17:38:42-05:00" filename="ayl.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="com.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:42-05:00" modified="2021-02-26T17:38:42-05:00" filename="com.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cor.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:43-05:00" modified="2021-02-26T17:38:43-05:00" filename="cor.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cym.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:44-05:00" modified="2021-02-26T17:38:44-05:00" filename="cym.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ham.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:45-05:00" modified="2021-02-26T17:38:45-05:00" filename="ham.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="he5.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:46-05:00" modified="2021-02-26T17:38:46-05:00" filename="he5.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="he8.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:46-05:00" modified="2021-02-26T17:38:46-05:00" filename="he8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="juc.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:47-05:00" modified="2021-02-26T17:38:47-05:00" filename="juc.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="kij.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:48-05:00" modified="2021-02-26T17:38:48-05:00" filename="kij.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="kil.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:48-05:00" modified="2021-02-26T17:38:48-05:00" filename="kil.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lll.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:49-05:00" modified="2021-02-26T17:38:49-05:00" filename="lll.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lov.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:49-05:00" modified="2021-02-26T17:38:49-05:00" filename="lov.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mac.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:50-05:00" modified="2021-02-26T17:38:50-05:00" filename="mac.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="man.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:51-05:00" modified="2021-02-26T17:38:51-05:00" filename="man.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mem.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:51-05:00" modified="2021-02-26T17:38:51-05:00" filename="mem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mev.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:52-05:00" modified="2021-02-26T17:38:52-05:00" filename="mev.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mnd.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:52-05:00" modified="2021-02-26T17:38:52-05:00" filename="mnd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mww.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:53-05:00" modified="2021-02-26T17:38:53-05:00" filename="mww.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="oth.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:54-05:00" modified="2021-02-26T17:38:54-05:00" filename="oth.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="per.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:54-05:00" modified="2021-02-26T17:38:54-05:00" filename="per.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pht.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:55-05:00" modified="2021-02-26T17:38:55-05:00" filename="pht.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rap.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:55-05:00" modified="2021-02-26T17:38:55-05:00" filename="rap.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ri2.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:55-05:00" modified="2021-02-26T17:38:55-05:00" filename="ri2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ri3.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:56-05:00" modified="2021-02-26T17:38:56-05:00" filename="ri3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="roj.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:57-05:00" modified="2021-02-26T17:38:57-05:00" filename="roj.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="son.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:57-05:00" modified="2021-02-26T17:38:57-05:00" filename="son.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tam.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:58-05:00" modified="2021-02-26T17:38:58-05:00" filename="tam.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tem.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:59-05:00" modified="2021-02-26T17:38:59-05:00" filename="tem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tgv.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:38:59-05:00" modified="2021-02-26T17:38:59-05:00" filename="tgv.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tim.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:39:00-05:00" modified="2021-02-26T17:39:00-05:00" filename="tim.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tit.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:39:01-05:00" modified="2021-02-26T17:39:01-05:00" filename="tit.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tro.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:39:01-05:00" modified="2021-02-26T17:39:01-05:00" filename="tro.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="twn.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:39:02-05:00" modified="2021-02-26T17:39:02-05:00" filename="twn.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ven.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:39:03-05:00" modified="2021-02-26T17:39:03-05:00" filename="ven.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="win.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:39:03-05:00" modified="2021-02-26T17:39:03-05:00" filename="win.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="work-types.xml" owner="admin" group="dba" mode="644" created="2021-02-26T17:39:04-05:00" modified="2021-02-26T17:39:04-05:00" filename="work-types.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

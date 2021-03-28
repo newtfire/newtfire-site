@@ -1,0 +1,336 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/resources/scripts/ace/snippets" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="lua.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="lua.js" mimetype="application/javascript" blob-id="82a4620c8e723c308349ceb119fc7f63f561450f424091589fefa42fdb0901c1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="batchfile.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="batchfile.js" mimetype="application/javascript" blob-id="14151d93a6f5fa5ac313951b541ea2cd682e75b8ffe17d47596799b19b55e2a0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="r.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="r.js" mimetype="application/javascript" blob-id="3feb99be1ee3fa048c9d39e4fe0c7c0f91115ffdc9d67e9bc99b8b90b173b912">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="css.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="css.js" mimetype="application/javascript" blob-id="a7a657a4e19c61e69cdca6be6defb8982d0f0ebfaad1cbb1425f76d091a0dc50">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="matlab.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="matlab.js" mimetype="application/javascript" blob-id="59ad45f15fb53772f72666b6307f09ba44f44ef553999cd44d446364d9770f9b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="properties.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="properties.js" mimetype="application/javascript" blob-id="fe8c2ac60490771e1573ed27a15b34f1531ad98aa9cf745a570fa949aaf074da">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="clojure.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="clojure.js" mimetype="application/javascript" blob-id="8672b81fe0dae0edc4168899f350c590c58ae6503e30b059cbe02366707f2116">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="livescript.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="livescript.js" mimetype="application/javascript" blob-id="01eed1834afed865355d9335853f6ea1aa5898296a0b87bef3008e8f3100c6ec">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="html_ruby.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="html_ruby.js" mimetype="application/javascript" blob-id="254c327e6c008cdfe9a9f24728a697031e9b0d0b5fa4e5d336845d2415c8c507">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="groovy.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="groovy.js" mimetype="application/javascript" blob-id="4e1301ec7935854b01982fa54b9e7b6b4ae933571d977ea5e323f3701e01b91c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="curly.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="curly.js" mimetype="application/javascript" blob-id="16be6399fa888082650d908640818a821bcc87f56daac4c78dfcd0d3db64ab82">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="stylus.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="stylus.js" mimetype="application/javascript" blob-id="fd9bd907553b27c615c43b03fb561808a0b693a834b2d69893e573736e8074ed">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="erlang.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="erlang.js" mimetype="application/javascript" blob-id="4530a7cf15199d9ace98e9663f01d9b1dc7d91ad8fa6d6a319275d04ab8cf2a6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nix.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="nix.js" mimetype="application/javascript" blob-id="8d5f86f9d1185c73635fa8da794609d878728e1f377dfaa4447c162e759c9d22">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="logiql.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="logiql.js" mimetype="application/javascript" blob-id="c014872276816089ef80da8278ab560054d60b0018b68dc9b2f1ffdd637ce093">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="coffee.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="coffee.js" mimetype="application/javascript" blob-id="74efbd78dd4f3bc752e00c9ef3ecc4a0e90e696ecb81057af1b6d6016e9b76eb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="objectivec.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="objectivec.js" mimetype="application/javascript" blob-id="3d418d1bd7d0fb476e53502e2c88b45c82423828c5849ec1ed7e74aecbd6e292">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="liquid.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="liquid.js" mimetype="application/javascript" blob-id="addf032e686945be15c5dbed07851623f084001dbc488bf0ebe9634a80cec7ba">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="handlebars.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="handlebars.js" mimetype="application/javascript" blob-id="6b671c75857ae45d10335a0d40d69c42d9f6c23ed486de548168a55b44d69835">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glsl.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="glsl.js" mimetype="application/javascript" blob-id="87b56d9fa4354b031c6374171ed839eb58868d52de7d68b9ad935b863f5cf44e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ruby.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ruby.js" mimetype="application/javascript" blob-id="225e81130659da871166bb899df5635bfdef278d1ce8133ce936e70878d2e678">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sh.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="sh.js" mimetype="application/javascript" blob-id="a5f6c1c43161cc94ddef02ff0af1234dfbe07645e3d190bc5603515e5a42861c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="php.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="php.js" mimetype="application/javascript" blob-id="a8d72da01338ab1c798b1c4bee82ca053efc93c38c36a717552d56f8c505137b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ocaml.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ocaml.js" mimetype="application/javascript" blob-id="90c55493efcf0cd5b94829c500fae341a3307e06f5f11b220bc5d6c148332e1d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ejs.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ejs.js" mimetype="application/javascript" blob-id="35ded73a0a71309ac730fd298cddc473dbeef807b0da0201a4ce62c308dac4f7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="textile.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="textile.js" mimetype="application/javascript" blob-id="eb7ceb0e39b30ef69992f974125a18d40bb0b1c9684420b890fcd8cd1b116d14">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="scala.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="scala.js" mimetype="application/javascript" blob-id="9a5aaa0585241a3d576bf36ebc6dcfe703c81e37fa9faacea006381742776bb4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ini.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ini.js" mimetype="application/javascript" blob-id="382b9b3b387a2430fbe5a0276e8c1cc7a0a2122cb2c8e110766c0648bb5d74f7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="actionscript.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="actionscript.js" mimetype="application/javascript" blob-id="88d183f5a8b6a61e6b47217ff62112b44f14e5a0e6877d57bebd7d47d3771455">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lisp.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="lisp.js" mimetype="application/javascript" blob-id="96d160afe297d6af37078b3702bd2fb81a3ff0750e68d3268b44c65e22114950">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dot.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="dot.js" mimetype="application/javascript" blob-id="8af234e3ffe18986c6d300ba70449f55c0fbb977797d8d49bf60dbe1c959a0d3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="less.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="less.js" mimetype="application/javascript" blob-id="5d276251aee7ca2eaa191eff7fa0ed59ccb904ecf2633e2406b2d6655226bfda">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="html_completions.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="html_completions.js" mimetype="application/javascript" blob-id="f5a842001e784788c3e879c91eb8eab9f9d694ddac60ce8ab1477ae0f61ad2e3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="asciidoc.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="asciidoc.js" mimetype="application/javascript" blob-id="c6cdda72f10617d437de8686a2ba16baca038833e78c51d71cf43633d04eaf56">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="space.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="space.js" mimetype="application/javascript" blob-id="b86233c3a3f490544ea610fb4971988844e59848ac465f161e3ebb5b5de9ef3b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="latex.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="latex.js" mimetype="application/javascript" blob-id="545cc888a99855cef731e923b10ec9d0ae69d363177311f98aebd08b93603f38">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="velocity.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="velocity.js" mimetype="application/javascript" blob-id="bdd59a978c9dcb60104b0bb018c0066ad4a349380cee29c315dcea3192433d40">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="c_cpp.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="c_cpp.js" mimetype="application/javascript" blob-id="91c461c8f21ac70b078935e4488298eb110bbaa82c82dbd88fa6c83365da0e51">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="abap.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="abap.js" mimetype="application/javascript" blob-id="ee75b14ed9267aaaae5cddb68c6ec18aafd89b6132051fd91ad75ccd40b0fc62">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="html.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="html.js" mimetype="application/javascript" blob-id="6dc811bcb7b77a808e288205084742f822e7c5c7063dcdfe53b6881c2d7aeed9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lsl.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="lsl.js" mimetype="application/javascript" blob-id="05b9256908cefc2097a5efa6ac9e005571b34a3b3eec4b5e49f797dee7f41345">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="json.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="json.js" mimetype="application/javascript" blob-id="7dddf2a0912b7c1c2c870aef3a18f82088341be7d3f262d0395f763bc88f0993">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pgsql.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="pgsql.js" mimetype="application/javascript" blob-id="d191f4b24661eb370ca52a39cc66f33f0fe20045f1dd1bf40391dcfbea110ec3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="typescript.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="typescript.js" mimetype="application/javascript" blob-id="67dfe9bcc9d1b3cf952e4250cf24f9c743a9d210cac2a9b66ba2bf9436417f58">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tcl.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="tcl.js" mimetype="application/javascript" blob-id="c191a866bf7cc06cae746b439b9ee4c817d74e3f15127396d9899a6c4a6f0a3e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="protobuf.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="protobuf.js" mimetype="application/javascript" blob-id="73a010afdb35189f6de24602103f50aab4d6a8473b490b77a9d2de59a6a98640">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="powershell.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="powershell.js" mimetype="application/javascript" blob-id="99ef16174019865f902703618a24a230edbafec87b109dfc651a073222943ce7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mushcode_high_rules.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="mushcode_high_rules.js" mimetype="application/javascript" blob-id="9c5c651aaa72a61e6fb4656f87f692047eaf34ab8b0ff97d64ca709645080a07">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vhdl.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="vhdl.js" mimetype="application/javascript" blob-id="662d99c26c03bb8597ba6ee55c53584766eae4fcd75b8f0af24a35bd5a83de45">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="forth.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="forth.js" mimetype="application/javascript" blob-id="773bab0ad7906d31edff03cbb5e6921007b4839f5577e778802950ea075303d5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="markdown.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="markdown.js" mimetype="application/javascript" blob-id="1296fb1e34cd13925491a80a2274d7af79d87504c8ef79cdc4148cd26f4897db">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="apache_conf.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="apache_conf.js" mimetype="application/javascript" blob-id="c32909d5a745eb9a2c49719cc135d1ec1a83db6f7bd4c8c288f0db1483c11b0c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="django.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="django.js" mimetype="application/javascript" blob-id="3a82d6f2a8a1149ce845ea2bfdf3c7329641d116e5af0f38fd08588deea795e0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="d.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="d.js" mimetype="application/javascript" blob-id="260dea7f1cf8e50f5e477980ffa410459ff7655e00b6e3554e7ab592fbf25429">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="java.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="java.js" mimetype="application/javascript" blob-id="b529c5e346c683d9b95c2e62bbd9bae819fa518238aa5f43e3ca215b63cd4022">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rdoc.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="rdoc.js" mimetype="application/javascript" blob-id="083529a564635d739f7f53babd0864076da5237503e6c8dc23072f3a250b6664">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="haml.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="haml.js" mimetype="application/javascript" blob-id="d9fac139dba2b9a5643a75c398f84be32a4c55bd3468e9f0f57c69c8e706a6c9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dart.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="dart.js" mimetype="application/javascript" blob-id="3364c039ba36a2e504bd34ba2d6fe0d51ea60400f3972058609764cfb94fa422">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sql.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="sql.js" mimetype="application/javascript" blob-id="f55b44a065222ae6055084e3cf390bdd924f94f4bf420bec271981e0f6c5174d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="perl.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="perl.js" mimetype="application/javascript" blob-id="2105daad04d6f10533d9758cc5d9a13c07c5bf7f375ccc6006e37ca610be09b0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jsp.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="jsp.js" mimetype="application/javascript" blob-id="00998e6d9b96a892ca3c7c26bf63ebc8055535d4b1c8a7b2b13228207c3db35a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="plain_text.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="plain_text.js" mimetype="application/javascript" blob-id="ac18cdcdf6adfed03faeb1c19e42a63fd6b56cdcf81d2deb127c12856ac872ae">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xml.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="xml.js" mimetype="application/javascript" blob-id="04c918b2f5a418b9832b29acaac83026d04e0ea63ef934a26b835da2c2423823">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="toml.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="toml.js" mimetype="application/javascript" blob-id="d6cbb9cf7ae42f0ade0ac49997e085c7ac0d88812d385f76bfc397d10b3ca0fc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ada.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ada.js" mimetype="application/javascript" blob-id="6ca4904a6f3532b0bdd17658fc55ac90d0414fbcba2e48f352ef9fea4558d168">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="python.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="python.js" mimetype="application/javascript" blob-id="5e4bc824a9b7bbe4fbce9ecc6136bdf05a0af74436ed2cd9766250fcd6f18f3c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pascal.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="pascal.js" mimetype="application/javascript" blob-id="468a0930e780c6bd79cb9d257c4541fefd5a1cf5efda8628252f90198d9ba429">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="luapage.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="luapage.js" mimetype="application/javascript" blob-id="5ac0457290925cfd9b892d3b34392f35d96e072b586e14d1671da1a38994ecd1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="scheme.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="scheme.js" mimetype="application/javascript" blob-id="e523fe0e9f9adf6b0d9c92c3f1a062ab356137502884073dbcc768ef9068c656">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rhtml.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="rhtml.js" mimetype="application/javascript" blob-id="dfa00890b4d3df009ddc2ca9f1d539e88003cd71fe204932bab176c21a85d586">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="golang.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="golang.js" mimetype="application/javascript" blob-id="0ee185987c5a2a4ead069f88d044ed49a4d09e9def369882c31fad185b884606">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rust.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="rust.js" mimetype="application/javascript" blob-id="5707e51207bb49a1ebc95430f386e6f57af5511e7b2fded49c4a330a1abc5954">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="gherkin.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="gherkin.js" mimetype="application/javascript" blob-id="1e92115b627952ac4d0c595c45f45abdf56792ac0d8a20eec9f990125cf58b42">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="text.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="text.js" mimetype="application/javascript" blob-id="4553691aae4dc5c265bdcaf95a0d3335dd469598794d5be9de28b0037542c0e9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="soy_template.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="soy_template.js" mimetype="application/javascript" blob-id="91a3419fef3c34bf5ddfc59bc5c5457715b1b248403e811940a20d4b8a43d956">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="csharp.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="csharp.js" mimetype="application/javascript" blob-id="f6989af3d294f2b48379de1dec58a56de7c19cc4df679d94809724654c280632">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="c9search.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="c9search.js" mimetype="application/javascript" blob-id="a377b8637cc850136df431d437f4c1438e75c6a78e9cd9f483212a17fa4e7118">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tex.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="tex.js" mimetype="application/javascript" blob-id="7ad83e50e22fa7f164fab9cc07745ff7130b6148e46bb03810a51412d491d986">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="diff.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="diff.js" mimetype="application/javascript" blob-id="cd1aac53e12be39c9d790ca00ad511af90a7f7b408689e4a98ceed4c028b8466">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="autohotkey.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="autohotkey.js" mimetype="application/javascript" blob-id="5163f418fd284ed1bda8ba16c8b16e129143e5de084e45e4be064417de9dd1b6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="cirru.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="cirru.js" mimetype="application/javascript" blob-id="b4f522bb930e6fdf6d8fa90680f21032735f274888e794b5a76c8c982b987cc8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="snippets.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="snippets.js" mimetype="application/javascript" blob-id="6535f9500ea6904d63efb794bc4507ba34bdeff2fbabdda72a83233ce6d14466">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jsx.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="jsx.js" mimetype="application/javascript" blob-id="fa506e1fdbbf1c8106c69a9edc1d424444c30133b441191e0f8f1f36b7d768f7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="smarty.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="smarty.js" mimetype="application/javascript" blob-id="697af0f32e4ea00414a8b9643fd9c501102b1699e463adc82c944212f8a7741b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lucene.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="lucene.js" mimetype="application/javascript" blob-id="0eae3519335b176f7494d42a91bdbc4af2a74197f71fa9da33224d33540ac67c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="verilog.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="verilog.js" mimetype="application/javascript" blob-id="8f3100ea527162f799dfd0d35164b5ce2bfd97abfa9d50a9f72712e3e195a2f1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="yaml.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="yaml.js" mimetype="application/javascript" blob-id="81776296a84ff9a325f61e837f7725ed26749109fcca7623fbe4ead1774cc0fc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ftl.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ftl.js" mimetype="application/javascript" blob-id="db53a8f6729dbcf89f2b06bf89e5e3fd9e4c55c0b4e18d54d1a650afb3865a53">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="javascript.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="javascript.js" mimetype="application/javascript" blob-id="5844e73766ad72b7a1751d11cfc978622a2b2f399d4163f716ac09582f28a3b7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="makefile.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="makefile.js" mimetype="application/javascript" blob-id="77eb19432bb0767e3deb5ab3d6381609fcaf60485a415b9354f73a5034df3a9b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sjs.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="sjs.js" mimetype="application/javascript" blob-id="bf5cf4d66d012a670ed28d0d52d3e9de563eb7b7b9cd5d8d874ef7116e01beeb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="scad.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="scad.js" mimetype="application/javascript" blob-id="8552a069ce3a7d30e314632ebe1bda278c42efca3f3aa90aca3b8593eb96a4cd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="haskell.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="haskell.js" mimetype="application/javascript" blob-id="c1f4e3457a034aa4cb29600c8a2511ba94b1c3324005385d16f1193f1ec74102">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jade.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="jade.js" mimetype="application/javascript" blob-id="344fe4183e9ad66f4f3d79ed7537afd41067f8a94d1ddea6fe5f5f961f7370df">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="svg.js" mimetype="application/javascript" blob-id="10cc0b12671eafd35b47dacbe07a7628b8c0aa490611f04faf1b337be3bd1407">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mushcode.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="mushcode.js" mimetype="application/javascript" blob-id="036292c2a4802191e832a860bdefa455ee3adcb8408d68c279fe747efabb6dac">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="haxe.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="haxe.js" mimetype="application/javascript" blob-id="5a6aaed35383b96e09716f102cb1d70ecfd1ede54bdf643318b4fd99090b6ae6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="scss.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="scss.js" mimetype="application/javascript" blob-id="43b4737e718a5bdbbbc5077b1c3c59cf0312908453ccf78f5c3bc73b727490f9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vbscript.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="vbscript.js" mimetype="application/javascript" blob-id="40a2125b48baceb7c1a6a6c192d05c682366e01ec7f2822c2901f66dda3ec42f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mysql.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="mysql.js" mimetype="application/javascript" blob-id="02ff8483266357f91972e1cfbc866f517cc8cc550823c73a4ea110b6c1eee538">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="twig.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="twig.js" mimetype="application/javascript" blob-id="90451e72d254291c3f08094e8aef5e8e143e943c94f136347b3144a589e3de64">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jsoniq.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="jsoniq.js" mimetype="application/javascript" blob-id="e0276bd20012c8b5151030eb6d0354b3feb6bb713c1972c5474a65a6955dd5a3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="xquery.js" mimetype="application/javascript" blob-id="57c0ec4ae17b2bcde9ce0bb4ab64452ca798b82ce577c821895c2d6ad7022913">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="julia.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="julia.js" mimetype="application/javascript" blob-id="73c4a60b6bd47bd00b7b8a440906bb7b398bb6f2652600404056210f36af7f81">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mel.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="mel.js" mimetype="application/javascript" blob-id="bd29b43e9d98af7eeb1d773f72a57bb34e372b55232eafc5b8aef59a1bf0a4a5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="coldfusion.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="coldfusion.js" mimetype="application/javascript" blob-id="2026896e0af1e8c0017e747a9564ba671f3e280f704249993518251ef58a7afb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="prolog.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="prolog.js" mimetype="application/javascript" blob-id="0bcbb77ef8c1c2e38c48e193ca9d53a05939cd98821fbe38fdcd7a1326fdd971">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="assembly_x86.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="assembly_x86.js" mimetype="application/javascript" blob-id="d5dc504174402cc3f94563b134070a2842137e96e59acb6a098dff34e1478edd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sass.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="sass.js" mimetype="application/javascript" blob-id="86918c31496bc30a5c1612802ebe5acdf4dae511b36ab893b9b3104db3685bcc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="cobol.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="cobol.js" mimetype="application/javascript" blob-id="5e6814b113f6b28bd2ae51b81434b787b67c72430e1ad6016f3dd8acccae284d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jack.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="jack.js" mimetype="application/javascript" blob-id="3bf4c2e944976ca284f3928bf699fc8ca7ad3acd57ad329c3426712d9f0d6c2e">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

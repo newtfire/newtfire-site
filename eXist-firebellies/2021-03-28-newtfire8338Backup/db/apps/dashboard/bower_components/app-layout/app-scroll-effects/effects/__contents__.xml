@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/app-layout/app-scroll-effects/effects" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:28-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="fade-background.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="fade-background.html" mimetype="text/html" blob-id="44b7eeb6a7a875d0a7065694e44221619509d0b3342bd054308f6f8b1dee108d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="material.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="material.html" mimetype="text/html" blob-id="2cc7a5f6f85766f994fc7fda88b416d1e5f18b104a98f36d74a924cc834921a9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="resize-title.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="resize-title.html" mimetype="text/html" blob-id="602d2de29c58b62d12bb7a37c07b3e500b832f64c3fe5447dc6a42765a0da6eb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="blend-background.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="blend-background.html" mimetype="text/html" blob-id="5ad7cb984bbddb6903de095efa05d7475d7272464edae39e74404c81f1b8b9fe">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="waterfall.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="waterfall.html" mimetype="text/html" blob-id="c836402386ba1dc1e1031f65a4e413d7e11649ffd027fe986b64957aba41026d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="parallax-background.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="parallax-background.html" mimetype="text/html" blob-id="47163d043d4ae4d2d0fdb89797fa573882547bc0f846c5cacfdcc104c3065919">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="resize-snapped-title.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="resize-snapped-title.html" mimetype="text/html" blob-id="16dfd9597c45c087fb7754554a3497ea4e904aa165e30f429ce743cce371931e">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/kwic/listings" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:34-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="listing-4.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="listing-4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-5.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="listing-5.txt" mimetype="text/plain" blob-id="f72b1ac46160a1a5a895f5ea200f3571d7cc2372447ca0ead428ffc838c84aa0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-9.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="listing-9.txt" mimetype="text/plain" blob-id="3221234b2e048fa5edb2fff0f34887828953e14974ee1a38b78ea1f83f5f20ee">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-7.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="listing-7.txt" mimetype="text/plain" blob-id="f7d833a0982a548c34000158fadb160161ad728864a66e9e91d39e2fc43e1ddf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-3.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="listing-3.txt" mimetype="text/plain" blob-id="12c6f0d776d6693ab4e9810f9426243b87c0bd035292d385a0ba948f2b97c767">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-6.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="listing-6.txt" mimetype="text/plain" blob-id="ccdb234228fbb7dcea7149e639b0d823a50a5d280830a2cd7be16c5ee5c0ac94">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/content" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="javax.websocket-api-1.1.jar" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="javax.websocket-api-1.1.jar" mimetype="application/octet-stream" blob-id="94b1f71f5eac8e7497c8942188ee1245103dcccc39f3488ded3028d5f90d6fad">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jackson-databind-2.10.2.jar" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jackson-databind-2.10.2.jar" mimetype="application/octet-stream" blob-id="dbe594c867deceb87637c4aca2008e92b6cf201dbde8ef5ac2529286da29da7c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="monex-2.1.1.jar" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="monex-2.1.1.jar" mimetype="application/octet-stream" blob-id="cbd8692166ca5dc306906d25306b3a58a301fbf6722a680399943c22c3c20206">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jackson-annotations-2.10.2.jar" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jackson-annotations-2.10.2.jar" mimetype="application/octet-stream" blob-id="1f6b663f2763bed2767f742b0ff4381ef77073bd1ede470a698076599fe8455a">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

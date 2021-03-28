@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tibetan/CHI" owner="phackett" group="dba" mode="751" created="2020-09-10T18:21:52-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="2-07-00125-CHI01.xml" owner="phackett" group="dba" mode="640" created="2020-09-10T18:22:48-04:00" modified="2020-09-10T18:22:48-04:00" filename="2-07-00125-CHI01.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shakespeare/modules" owner="admin" group="dba" mode="755" created="2021-03-01T18:07:13-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="config.xqm" owner="admin" group="dba" mode="644" created="2021-03-01T18:07:13-05:00" modified="2021-03-01T18:07:13-05:00" filename="config.xqm" mimetype="application/xquery" blob-id="74e2bd0bd1d3762f5ef3f46990bf541eec28371426af2d0546ca27680ecfc105">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="demo.xql" owner="admin" group="dba" mode="644" created="2021-03-01T18:07:13-05:00" modified="2021-03-01T18:07:13-05:00" filename="demo.xql" mimetype="application/xquery" blob-id="c488505b13de3db2efb6ba0ce150922dd555b31c29da475a6cfc903874f2ae8d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="get-epub.xql" owner="admin" group="dba" mode="644" created="2021-03-01T18:07:13-05:00" modified="2021-03-01T18:07:13-05:00" filename="get-epub.xql" mimetype="application/xquery" blob-id="a8dc8f04ab960a3bf4eddc03a5896374c5435f8f371d755a36a0edc091365bdd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="app.xql" owner="admin" group="dba" mode="644" created="2021-03-01T18:07:14-05:00" modified="2021-03-01T18:07:14-05:00" filename="app.xql" mimetype="application/xquery" blob-id="fbf6ccf26374b4b3bb658659f9e917ada51f0b167e0c771e89bd2d840ec0bb87">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tei2html.xql" owner="admin" group="dba" mode="644" created="2021-03-01T18:07:14-05:00" modified="2021-03-01T18:07:14-05:00" filename="tei2html.xql" mimetype="application/xquery" blob-id="4cc0bfbd84d62f9da098bcf80194699a2ff10287804fae2cc077b1a49dbb35de">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tei2fo.xql" owner="admin" group="dba" mode="644" created="2021-03-01T18:07:14-05:00" modified="2021-03-01T18:07:14-05:00" filename="tei2fo.xql" mimetype="application/xquery" blob-id="4b22a40b3ba3d1aba05eb7726f1e55a7500bfd635f0b3069cff7e79dde76c7f0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="epub.xql" owner="admin" group="dba" mode="644" created="2021-03-01T18:07:14-05:00" modified="2021-03-01T18:07:14-05:00" filename="epub.xql" mimetype="application/xquery" blob-id="b32b928b4c5c135d8ce81e30d6297d0a00e936cd151736f200902d3acf44a57a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test.xql" owner="admin" group="dba" mode="644" created="2021-03-01T18:07:14-05:00" modified="2021-03-01T18:07:14-05:00" filename="test.xql" mimetype="application/xquery" blob-id="a50faf406c078cb8e5547430f2c0169f0783696d521b71bad36d7683a0343c35">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.xql" owner="admin" group="dba" mode="644" created="2021-03-01T18:07:14-05:00" modified="2021-03-01T18:07:14-05:00" filename="view.xql" mimetype="application/xquery" blob-id="c1c13f640f0a7080847a5b644bb36c45b4e91486d85fca16c2fbe302260cfa80">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

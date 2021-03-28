@@ -1,0 +1,7 @@
+<settings>
+    <dashboard>
+        <hidden-items>
+            <package/>
+        </hidden-items>
+    </dashboard>
+</settings>

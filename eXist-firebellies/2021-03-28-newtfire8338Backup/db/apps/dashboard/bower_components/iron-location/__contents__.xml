@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/iron-location" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="iron-query-params.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-query-params.html" mimetype="text/html" blob-id="69c99af2c9c3cd7ac234183fbd077d12f7cab2bf1455b8fa3b3977b114aa6fa2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iron-location.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-location.html" mimetype="text/html" blob-id="dceaad0ba6b8aff2945e2c7a8fdcb1bcf49997bd6d48e8211d2e2ae953224ecf">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

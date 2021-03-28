@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/fundocs/data/docs/xproc" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:37-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="xproc.md" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:37-04:00" modified="2020-08-07T02:48:37-04:00" filename="xproc.md" mimetype="text/markdown" blob-id="a23709a54ad576fb8efa58d9fd92123de98e80183fa2f068b73658525bc7cbcc">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

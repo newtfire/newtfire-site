@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/paper-behaviors" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:28-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="paper-ripple-behavior.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="paper-ripple-behavior.html" mimetype="text/html" blob-id="08b72194592651aed9db8b6b7947c3bb0acc2e220cc4632a15386c567b7aa86c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-button-behavior.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="paper-button-behavior.html" mimetype="text/html" blob-id="a9a52068ab2950841176c6f0028784bd005a187aab4b58927295eeda308a7551">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-checked-element-behavior.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="paper-checked-element-behavior.html" mimetype="text/html" blob-id="ccc86edb566f8de992d328c3f768a66441a04c2f6b64c678715588f6c38048d9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-inky-focus-behavior.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="paper-inky-focus-behavior.html" mimetype="text/html" blob-id="252539b0a24170bddc561ad37179ac4102862f4547689add25a3070ad46b1897">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

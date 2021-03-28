@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/paper-item" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="paper-item.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-item.html" mimetype="text/html" blob-id="4375c64f8312fc546e835fdba478528c620fe7197ba2023b92edabf5ccef3d26">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-item-behavior.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-item-behavior.html" mimetype="text/html" blob-id="6178cbcb9d574bd1a120284a8732d9d83d7f6ed382a536d80a132e838e9ca5c8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-item-shared-styles.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-item-shared-styles.html" mimetype="text/html" blob-id="c8af97d5a8f14f7c1e28f086551c82273dbbe88de61ef0be7a567da2a05217c9">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

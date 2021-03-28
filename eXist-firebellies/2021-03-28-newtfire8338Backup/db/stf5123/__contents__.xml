@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/stf5123" owner="stf5123" group="dba" mode="775" created="2021-03-08T20:21:10-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="test%20shakes%20file" owner="stf5123" group="stf5123" mode="755" created="2021-03-10T18:43:39-05:00" modified="2021-03-10T18:43:39-05:00" filename="test shakes file" mimetype="application/xquery" blob-id="2abf821c5d91633970a0e6ae061faff6cbc4d9836eba1d5f2e3bd814afd20a73">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery_4.xql" owner="stf5123" group="stf5123" mode="755" created="2021-03-12T18:45:38-05:00" modified="2021-03-12T18:45:38-05:00" filename="xquery_4.xql" mimetype="application/xquery" blob-id="43a94e68b511cb57965ef4f602a26c81c790b1ea52b07e010a02c2d954146329">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery5_Fassett" owner="stf5123" group="stf5123" mode="755" created="2021-03-18T16:47:25-04:00" modified="2021-03-18T16:47:25-04:00" filename="xquery5_Fassett" mimetype="application/xquery" blob-id="fd2a2a94332a42adeff85ee8b1b291c82cf691640d2607faea6957a986346989">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG2_fassett.svg" owner="stf5123" group="stf5123" mode="755" created="2021-03-24T01:25:36-04:00" modified="2021-03-24T01:25:36-04:00" filename="SVG2_fassett.svg" mimetype="application/xquery" blob-id="beca424799b8212ede67d825af26da3d9b99f297fb4b0a6402c1df43b2a80058">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG2_fassett.xql" owner="admin" group="dba" mode="755" created="2021-03-24T14:38:28-04:00" modified="2021-03-24T14:40:06-04:00" filename="SVG2_fassett.xql" mimetype="application/xquery" blob-id="3f101fba24a9ffcfea6756af9f1351cb15c66321d99f94569f257a413c68e9e0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg3_fassett" owner="stf5123" group="stf5123" mode="755" created="2021-03-24T15:05:32-04:00" modified="2021-03-24T18:12:12-04:00" filename="svg3_fassett" mimetype="application/xml" blob-id="dbd6defeac7c1a4626ca5483d224690389da1e8dfdfe58a7c90c6044caadaf29">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg3_fassett.xql" owner="stf5123" group="stf5123" mode="755" created="2021-03-24T17:58:53-04:00" modified="2021-03-24T18:12:17-04:00" filename="svg3_fassett.xql" mimetype="application/xquery" blob-id="dbd6defeac7c1a4626ca5483d224690389da1e8dfdfe58a7c90c6044caadaf29">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

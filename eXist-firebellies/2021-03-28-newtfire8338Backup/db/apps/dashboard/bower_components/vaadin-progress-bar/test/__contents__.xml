@@ -1,0 +1,13 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/vaadin-progress-bar/test" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="test-suites.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="test-suites.js" mimetype="application/javascript" blob-id="6eb07b1bfbc694fe52b668f3b0103c3a1df0a395fc0ca8dc6da195a493a9d62a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="index.html" mimetype="text/html" blob-id="b7a62b4de4827b22c10ac0d6501bfac87d464ffaa2181a62f972262a5e93940e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vaadin-progress-bar.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="vaadin-progress-bar.html" mimetype="text/html" blob-id="39b2a78cad7f9cef8be2961b100d3fdc5a0530149920edc88a83444be85aa226">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="visual" filename="visual"/>
+</collection>

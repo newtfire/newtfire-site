@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/packageservice/resources/images/GitHub-Mark/PNG" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="GitHub-Mark-Light-64px.png" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="GitHub-Mark-Light-64px.png" mimetype="image/png" blob-id="e88e3d434bbaf7082275bc71feed3702d6a0ff73ad39206e8293f16f7c91ece1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="GitHub-Mark-Light-32px.png" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="GitHub-Mark-Light-32px.png" mimetype="image/png" blob-id="a9501cfd6998dc33cd0562a9e8eca44eaea9899ba3230e195a3c0f0d2c306411">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="GitHub-Mark-120px-plus.png" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="GitHub-Mark-120px-plus.png" mimetype="image/png" blob-id="62c05b56a28ce926b69e74d95d88b98dd66b5d46a72d358fad4951addaee2377">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="GitHub-Mark-64px.png" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="GitHub-Mark-64px.png" mimetype="image/png" blob-id="f87d6a37c5c79687b4921b496f32c32484913bfa14371698ef2d5ef00dd6fe7c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="GitHub-Mark-Light-120px-plus.png" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="GitHub-Mark-Light-120px-plus.png" mimetype="image/png" blob-id="f5fd1a4979b614c2c12a10dcd2b30c004087b759e446ae3f20b789a443bebdaa">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="GitHub-Mark-32px.png" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="GitHub-Mark-32px.png" mimetype="image/png" blob-id="ccf554cf0b8e66c57aef08ac0f774166efb9f14640200d08ffba4664d106d15a">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

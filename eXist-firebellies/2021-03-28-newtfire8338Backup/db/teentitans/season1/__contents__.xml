@@ -1,0 +1,42 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/teentitans/season1" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:10-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="s1_episode-9.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:11-04:00" modified="2020-08-07T21:12:11-04:00" filename="s1_episode-9.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-8.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:11-04:00" modified="2020-08-07T21:12:11-04:00" filename="s1_episode-8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-10.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:11-04:00" modified="2020-08-07T21:12:11-04:00" filename="s1_episode-10.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-11.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:11-04:00" modified="2020-08-07T21:12:11-04:00" filename="s1_episode-11.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-13.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:11-04:00" modified="2020-08-07T21:12:11-04:00" filename="s1_episode-13.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-12.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:10-04:00" modified="2020-08-07T21:12:10-04:00" filename="s1_episode-12.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-3.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:10-04:00" modified="2020-08-07T21:12:10-04:00" filename="s1_episode-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-2.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:10-04:00" modified="2020-08-07T21:12:10-04:00" filename="s1_episode-2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-1.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:10-04:00" modified="2020-08-07T21:12:10-04:00" filename="s1_episode-1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-5.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:10-04:00" modified="2020-08-07T21:12:10-04:00" filename="s1_episode-5.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-4.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:10-04:00" modified="2020-08-07T21:12:10-04:00" filename="s1_episode-4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-6.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:10-04:00" modified="2020-08-07T21:12:10-04:00" filename="s1_episode-6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-7.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:10-04:00" modified="2020-08-07T21:12:10-04:00" filename="s1_episode-7.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

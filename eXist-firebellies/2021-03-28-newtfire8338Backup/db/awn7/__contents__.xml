@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/awn7" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:07-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Nadeembanksy_ebbComments.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:07-04:00" modified="2020-08-07T21:20:07-04:00" filename="Nadeembanksy_ebbComments.xql" mimetype="application/xquery" blob-id="199bab48d9f23f0064a0b0fa42f8fc2aaff74ae523e6e722927837f756f4336a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Nadeembanksy" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:08-04:00" modified="2020-08-07T21:20:08-04:00" filename="Nadeembanksy" mimetype="application/xml" blob-id="d74abb91d31f830c421d23be231548ae3ffdf45be097de19f5065bb4c0d0b3b5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGHW2_ebbComments.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:08-04:00" modified="2020-08-07T21:20:08-04:00" filename="SVGHW2_ebbComments.xql" mimetype="application/xquery" blob-id="c397600f2a95d02a81a5b09d7f109069c01e4ba3c02c17aced888d3102a1c435">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svgHW3" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:08-04:00" modified="2020-08-07T21:20:08-04:00" filename="svgHW3" mimetype="application/xml" blob-id="616561a970547ac7f8899f0908465c2e25b2aee79c5a8019e485769b8f012d68">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGHW2" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:08-04:00" modified="2020-08-07T21:20:08-04:00" filename="SVGHW2" mimetype="application/xml" blob-id="f94e3832a96f78db3fba45bb8549c0af0d7e90e90483941df1c39ca7fe116b07">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

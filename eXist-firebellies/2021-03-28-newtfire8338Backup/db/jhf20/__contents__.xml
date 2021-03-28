@@ -1,0 +1,33 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/jhf20" owner="admin" group="dba" mode="755" created="2020-08-07T21:16:39-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="farley_SVG_Ex_2_04-05-19" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="farley_SVG_Ex_2_04-05-19" mimetype="application/xml" blob-id="f06f0741aacf88187dee3705908ebb3fefdd39dee00b266fe1bef309e4d297f7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="farley_XQuery_Network_03-08-19.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="farley_XQuery_Network_03-08-19.xql" mimetype="application/xquery" blob-id="fa064080fead4f4df127c4bfa47417cdea44c7452911703547ac2404e555cd2a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="farley_XQuery_retry_04.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="farley_XQuery_retry_04.tsv" mimetype="application/xml" blob-id="859b4c97e6e15718a05e324d8f9556a9410b9c8fa211ea220e3e4b3a05f70b3c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MediumsNetwork.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="MediumsNetwork.xql" mimetype="application/xquery" blob-id="ea2567a0ce6d4765e93804dec5a069eed5fd232e241a7d49391858a7ce895564">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="farley_XQuery_EX_04_03-08-19" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="farley_XQuery_EX_04_03-08-19" mimetype="application/xml" blob-id="859b4c97e6e15718a05e324d8f9556a9410b9c8fa211ea220e3e4b3a05f70b3c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="farley_SVG_Ex_3_04-08-19" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="farley_SVG_Ex_3_04-08-19" mimetype="application/xml" blob-id="76c67fc3881a8ad431e2c5bd7816026ff4d3ef26a022f67469615486961e8249">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="farley_XQuery_EX_3_03-06-19" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="farley_XQuery_EX_3_03-06-19" mimetype="application/xml" blob-id="99a712b8d2b702b6d36be3abb8bed0b0c67bb66a2cb2c327d24185ad96636934">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyMediums.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="banksyMediums.tsv" mimetype="application/xml" blob-id="b029f14405f230ee4d0f260d20ebb32fc942469940af687c4c710e4c7a676b35">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyMediumsRetry.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="banksyMediumsRetry.tsv" mimetype="application/xml" blob-id="bb442775f3a8d291eb4bb3351f0790535c6806d04770875325a559343f061c89">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MediumsNetwork.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:40-04:00" modified="2020-08-07T21:16:40-04:00" filename="MediumsNetwork.tsv" mimetype="application/xml" blob-id="ea2567a0ce6d4765e93804dec5a069eed5fd232e241a7d49391858a7ce895564">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

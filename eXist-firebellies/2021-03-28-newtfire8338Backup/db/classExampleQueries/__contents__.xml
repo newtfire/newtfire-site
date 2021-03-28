@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/classExampleQueries" owner="admin" group="dba" mode="755" created="2020-08-07T21:18:41-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="graveyardTester.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:41-04:00" modified="2020-08-07T21:18:41-04:00" filename="graveyardTester.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TimelineForJS.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:41-04:00" modified="2020-08-07T21:18:41-04:00" filename="TimelineForJS.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HaydonLetterPlots.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:41-04:00" modified="2020-08-07T21:18:41-04:00" filename="HaydonLetterPlots.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TimelineForJS.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:42-04:00" modified="2020-08-07T21:18:42-04:00" filename="TimelineForJS.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitfordColl_SVG.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:41-04:00" modified="2020-08-07T21:18:41-04:00" filename="mitfordColl_SVG.xql" mimetype="application/xquery" blob-id="49e99737f07955930ab59fdb7dc6db1fd834f7974c27ac0a0d01780f9ef9da01">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamiltonSampleQ" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:41-04:00" modified="2020-08-07T21:18:41-04:00" filename="hamiltonSampleQ" mimetype="application/xml" blob-id="43652a8171005c93bc8ef975a17f1eced7414532f5d183ed070cf5b8c8949844">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="networkOutput.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:41-04:00" modified="2020-08-07T21:18:41-04:00" filename="networkOutput.txt" mimetype="text/plain" blob-id="e1db60110c5de9ed39bd468d16fb97a76c1c577e5a554065fa45af80d105a5a5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testing_Global_Variables.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:42-04:00" modified="2020-08-07T21:18:42-04:00" filename="testing_Global_Variables.xql" mimetype="application/xquery" blob-id="3b339056c7be13af67f1c92fb48ccc114472a76bcd837fb4983ce86902832143">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

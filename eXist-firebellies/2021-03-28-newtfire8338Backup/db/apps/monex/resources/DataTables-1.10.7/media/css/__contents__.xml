@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/resources/DataTables-1.10.7/media/css" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery.dataTables_themeroller.css" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jquery.dataTables_themeroller.css" mimetype="text/css" blob-id="0624996b0d68bc4daff9b1b86a9a86de09348a6089590019cb0c193d04dbbe66">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.dataTables.min.css" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jquery.dataTables.min.css" mimetype="text/css" blob-id="f5c67f50e2f0d4469b8f466a4d25950e60ddb5a87d1ba2831baf1515246e0042">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.dataTables.css" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jquery.dataTables.css" mimetype="text/css" blob-id="cfd1f56c1d6eb79afb739124b0b1ed2ed5a787cf0b93943b5574e0c1a05354f4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dataTables.bootstrap.css" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="dataTables.bootstrap.css" mimetype="text/css" blob-id="b2339966a5767df97db1f73bbee4dfb6d94c8d3b50f3b1f7802c08e11b3de2db">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

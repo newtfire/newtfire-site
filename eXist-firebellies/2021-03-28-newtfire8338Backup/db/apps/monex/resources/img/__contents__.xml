@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/resources/img" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:37-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="powered-by-whiteglass.svg" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:37-04:00" modified="2020-08-07T02:48:37-04:00" filename="powered-by-whiteglass.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="screenshot.png" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:37-04:00" modified="2020-08-07T02:48:37-04:00" filename="screenshot.png" mimetype="image/png" blob-id="513825be090b655fc0eb768ed11af0ad626625184efe964c97aad09ed8e85c8e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sprite-skin-flat.png" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:37-04:00" modified="2020-08-07T02:48:37-04:00" filename="sprite-skin-flat.png" mimetype="image/png" blob-id="0135808290ddc72b49341cc62d866ad47b00d96d45ec828a7e27bd08f5049f8e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="avatar3.png" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:37-04:00" modified="2020-08-07T02:48:37-04:00" filename="avatar3.png" mimetype="image/png" blob-id="a6e28d5dfdde06bc9b6497bc6a093f09725aa129d323e26e42a1d2c36a2a3eb5">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

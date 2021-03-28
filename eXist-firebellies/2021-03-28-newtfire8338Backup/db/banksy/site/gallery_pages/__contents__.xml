@@ -1,0 +1,300 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/banksy/site/gallery_pages" owner="admin" group="dba" mode="755" created="2020-08-07T21:19:57-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="javelin_thrower.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="javelin_thrower.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bomb_hugger_canvas.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="bomb_hugger_canvas.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="seasons_greetings.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="seasons_greetings.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="modern_art.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="modern_art.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dumbo.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="dumbo.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="love_is_in_the_air_cccp.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="love_is_in_the_air_cccp.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="thug_bunny.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="thug_bunny.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="love_answer.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="love_answer.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ice_cream.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="ice_cream.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="watchtower_swing.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="watchtower_swing.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="child_soldier.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="child_soldier.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="worthless_rat.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="worthless_rat.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="drunk_angel.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="drunk_angel.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="no_future.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="no_future.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="applause.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="applause.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="shave_kong.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="shave_kong.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="i_want_change.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="i_want_change.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="love_rat.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="love_rat.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="seal.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="seal.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cnd_soldiers.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="cnd_soldiers.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="girl_rope.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="girl_rope.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="man_hanging_banksy.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="man_hanging_banksy.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="graffiti_is_a_crime.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="graffiti_is_a_crime.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="napalm.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:03-04:00" modified="2020-08-07T21:20:03-04:00" filename="napalm.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="gansta_rat.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:04-04:00" modified="2020-08-07T21:20:04-04:00" filename="gansta_rat.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="son_of_a_migrant_from_syria.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:04-04:00" modified="2020-08-07T21:20:04-04:00" filename="son_of_a_migrant_from_syria.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="graffiti_crime.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:04-04:00" modified="2020-08-07T21:20:04-04:00" filename="graffiti_crime.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="flags.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:04-04:00" modified="2020-08-07T21:20:04-04:00" filename="flags.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cameraman_flower.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:57-04:00" modified="2020-08-07T21:19:57-04:00" filename="cameraman_flower.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cash_machine_girl.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:57-04:00" modified="2020-08-07T21:19:57-04:00" filename="cash_machine_girl.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="swing_girl.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:57-04:00" modified="2020-08-07T21:19:57-04:00" filename="swing_girl.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="take_society.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:57-04:00" modified="2020-08-07T21:19:57-04:00" filename="take_society.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="laugh_now.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:57-04:00" modified="2020-08-07T21:19:57-04:00" filename="laugh_now.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cnd_sign.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:57-04:00" modified="2020-08-07T21:19:57-04:00" filename="cnd_sign.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tap_phoned.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="tap_phoned.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="choose_your_weapon.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="choose_your_weapon.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="hmv.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="hmv.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="no_ball_games.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="no_ball_games.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="flower_line.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="flower_line.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="twin_towers.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="twin_towers.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="toxic_rat.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="toxic_rat.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mobile_phone_lover.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="mobile_phone_lover.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bomb_middle_england.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="bomb_middle_england.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="get_out_while_you_can.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="get_out_while_you_can.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="stop_search.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="stop_search.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ghetto_for_life.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="ghetto_for_life.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="grannies.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="grannies.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="civilian_drone_strike.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="civilian_drone_strike.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="baby_carriage.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="baby_carriage.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="follow_dreams.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:58-04:00" modified="2020-08-07T21:19:58-04:00" filename="follow_dreams.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="draw_the_raised_bridge.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="draw_the_raised_bridge.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jack_and_jill.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="jack_and_jill.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="no_trespassing.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="no_trespassing.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="scarf_guy.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="scarf_guy.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="blinded_napoleon.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="blinded_napoleon.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="nola.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="nola.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="love_hurts.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="love_hurts.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mild_mild_west.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="mild_mild_west.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="i_fought_the_law.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="i_fought_the_law.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tox.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="tox.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fridge_kite.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="fridge_kite.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="turf_war.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="turf_war.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="donuts.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="donuts.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="winnie_the_pooh_bear_trap.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="winnie_the_pooh_bear_trap.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="slide_girl.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="slide_girl.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="burning_tyre.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:59-04:00" modified="2020-08-07T21:19:59-04:00" filename="burning_tyre.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="snorting_copper.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="snorting_copper.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="girl_with_balloon.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="girl_with_balloon.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="boxcutter_rat.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="boxcutter_rat.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="flying_copper.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="flying_copper.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="festival.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="festival.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="gaza_kitty.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="gaza_kitty.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="copyright.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="copyright.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="crying_woman.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="crying_woman.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="chisel_the_flag.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="chisel_the_flag.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="go_flock_yourself.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="go_flock_yourself.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="kate_moss.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="kate_moss.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bronx_zoo.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="bronx_zoo.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="slave_labour.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="slave_labour.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="injured_buddha.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:00-04:00" modified="2020-08-07T21:20:00-04:00" filename="injured_buddha.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="hammer_boy.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:01-04:00" modified="2020-08-07T21:20:01-04:00" filename="hammer_boy.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="little_helps.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:01-04:00" modified="2020-08-07T21:20:01-04:00" filename="little_helps.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="love_is_in_the_air.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:01-04:00" modified="2020-08-07T21:20:01-04:00" filename="love_is_in_the_air.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="under_cctv.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:01-04:00" modified="2020-08-07T21:20:01-04:00" filename="under_cctv.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="space_girl.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:01-04:00" modified="2020-08-07T21:20:01-04:00" filename="space_girl.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pulp_fiction.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:01-04:00" modified="2020-08-07T21:20:01-04:00" filename="pulp_fiction.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fallen_angel.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:01-04:00" modified="2020-08-07T21:20:01-04:00" filename="fallen_angel.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="old_skool.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:01-04:00" modified="2020-08-07T21:20:01-04:00" filename="old_skool.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sweep_under_rug.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:01-04:00" modified="2020-08-07T21:20:01-04:00" filename="sweep_under_rug.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="monkey_queen.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:01-04:00" modified="2020-08-07T21:20:01-04:00" filename="monkey_queen.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="queen_victoria.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:01-04:00" modified="2020-08-07T21:20:01-04:00" filename="queen_victoria.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="christ_with_shopping_bags.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:01-04:00" modified="2020-08-07T21:20:01-04:00" filename="christ_with_shopping_bags.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="interest_people.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:01-04:00" modified="2020-08-07T21:20:01-04:00" filename="interest_people.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="looting_soldier.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="looting_soldier.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rat_couple.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="rat_couple.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="gangsta_rat.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="gangsta_rat.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="haring_dog.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="haring_dog.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="love_you.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="love_you.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bomb_hugger.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:02-04:00" modified="2020-08-07T21:20:02-04:00" filename="bomb_hugger.xml" mimetype="application/xml" namedoctype="html" publicid="" systemid="about:legacy-compat">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

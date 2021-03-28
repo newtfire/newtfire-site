@@ -1,0 +1,187 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/queries" owner="admin" group="dba" mode="755" created="2020-08-07T21:13:15-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="SHAKESFLWOROutput.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="SHAKESFLWOROutput.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="MissJames_TableOutput.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="MissJames_TableOutput.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="newsAnalysisKwic.xql" owner="admin" group="dba" mode="755" created="2020-08-07T21:13:19-04:00" modified="2020-11-23T03:52:57-05:00" filename="newsAnalysisKwic.xql" mimetype="application/xquery" blob-id="6b40ffdcc6958285154e499573d6a9e1c1476213f034c40d693235d4f3b8a367">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tokenizeBaseURI" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:15-04:00" modified="2020-08-07T21:13:15-04:00" filename="tokenizeBaseURI" mimetype="application/xml" blob-id="2e497f28ec4d7f7d7d67c2d128d72fa85503e060fb9629d8db42fd5e2e377bd5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MitfordExactFuzzy.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:15-04:00" modified="2020-08-07T21:13:15-04:00" filename="MitfordExactFuzzy.xql" mimetype="application/xquery" blob-id="ea724340e8320875123fd24ed43cdee40b28aea7fb75474e38fdc501c545288f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapLocs1.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:15-04:00" modified="2020-08-07T21:13:15-04:00" filename="mapLocs1.txt" mimetype="text/plain" blob-id="abf78348a0f4bfe00a552dcdb69e089a80e90b4172b172d9cb46abab8fea4022">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerGYjonhoranic.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:15-04:00" modified="2020-08-07T21:13:15-04:00" filename="testerGYjonhoranic.xql" mimetype="application/xquery" blob-id="3fef187f9d4870107f40f8912f1cbf81f4fcfd0222a43197f9915e3f1fab533d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="backlistsProsop" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:15-04:00" modified="2020-08-07T21:13:15-04:00" filename="backlistsProsop" mimetype="application/xml" blob-id="58e23c9ceaf1bad9b8a8704d0dabe0c7e719a29773861720cf8f2083e9f11a8b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySVGTimelinePrep.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:15-04:00" modified="2020-08-07T21:13:15-04:00" filename="banksySVGTimelinePrep.xql" mimetype="application/xquery" blob-id="60f2d484a5e86e8b1ee7eee1e4035b72494ecad5d9bf37a5019df5551c4358d9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AddressesToTSV" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:15-04:00" modified="2020-08-07T21:13:15-04:00" filename="AddressesToTSV" mimetype="application/xml" blob-id="1d79db207bbddb81739e3015514b193be059f364dd2597fbbb42badf48a2d3b5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SITransHTML" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="SITransHTML" mimetype="application/xml" blob-id="9067c2f45dae77cae2d268c51e1044d02645013ada48c9b01dd69a0b430a067c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitfordCollSVG" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="mitfordCollSVG" mimetype="application/xml" blob-id="9d31eeb6e4ba76b2c75c0487b7291e014a912c456129ef882792880030a4205f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dickinsonNA.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="dickinsonNA.xql" mimetype="application/xquery" blob-id="6629a34f7403562eae4301af7743ad3ed63ffb58d0f11e87443354a3dd9bb956">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="classPrep.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="classPrep.xql" mimetype="application/xquery" blob-id="877339fd613d68644778322bc1ce34241ba774cf1425784abfd467bb0883834b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySVGXYBarPlot.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="banksySVGXYBarPlot.xql" mimetype="application/xquery" blob-id="4937d4f5dab949477d2f9d9ab2565a8b17ec739f937aa4072f4db425cb020dec">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonEx2_pt3globalVar.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="pokemonEx2_pt3globalVar.xql" mimetype="application/xquery" blob-id="222464f63e2fa3c866f34c6b10d4999b31ee007c0108e00570938d681cb62d08">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="netHtstr" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="netHtstr" mimetype="application/xml" blob-id="756d63dc508cf6662f001ee7bcf758e7d52526adc7390d2f596fa14c2fc19420">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebb_localizedTypeSwitch.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="ebb_localizedTypeSwitch.xql" mimetype="application/xquery" blob-id="8a4ca3f0cdc518dd9b279c3b4210cbfe3795569884447920ca14e286c3096134">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksy.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="banksy.xql" mimetype="application/xquery" blob-id="a3ece7475875f69798557d0db4a3fe9d5c89381c317d7af7575252d7d3794c75">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerGYAaronNewton.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="testerGYAaronNewton.xql" mimetype="application/xquery" blob-id="61310100adf180ca980997a4f9ad826ae7fe64395c77a4da6d0a557075d486ba">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mrmpeeps.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="mrmpeeps.xql" mimetype="application/xquery" blob-id="eb528bbe916cb0ceca266e8dd1335308f06872f63cb5d00a42247d4c16b2ce06">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="reindex2" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="reindex2" mimetype="application/xml" blob-id="8910f6113a92690a1b732d5c7ad239459937a75f087ed5fd9b05157f83e74720">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakeGt58_Ex1.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="shakeGt58_Ex1.xql" mimetype="application/xquery" blob-id="5910242b178f405d79224c9a17ca786562d90cf6f27d80174e89f5bdf0675f45">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerMissJames-coRef" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:16-04:00" modified="2020-08-07T21:13:16-04:00" filename="testerMissJames-coRef" mimetype="application/xml" blob-id="e55199b106182c72236733479f0cae444dd0c3f38675b3cf2d1293c75c39ba47">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakesQuerying.xql" owner="admin" group="dba" mode="755" created="2021-03-03T17:18:16-05:00" modified="2021-03-03T17:18:16-05:00" filename="shakesQuerying.xql" mimetype="application/xquery" blob-id="6bdbedf773994f6dbb22621e5acf0d43eaf60f680c822a2016b0b94704333d46">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dectoNA.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:17-04:00" modified="2020-08-07T21:13:17-04:00" filename="dectoNA.xql" mimetype="application/xquery" blob-id="e7795aa4f08d9944887dc191f770cf184f93842470832c0a669585bb4ac79990">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TLjs_ebb.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:17-04:00" modified="2020-08-07T21:13:17-04:00" filename="TLjs_ebb.xql" mimetype="application/xquery" blob-id="ab42e507e330df4c100362c75f6c4acc993be762fd6b00a5e8b098183bfc18a7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TimelinePart2_fromJMH.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:17-04:00" modified="2020-08-07T21:13:17-04:00" filename="TimelinePart2_fromJMH.xql" mimetype="application/xquery" blob-id="3a82796c062ac77a350db7e0bae072b3b87d65da0ee2e5cf91c5ce15b549db35">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testIndexingLettersHTM" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:17-04:00" modified="2020-08-07T21:13:17-04:00" filename="testIndexingLettersHTM" mimetype="application/xml" blob-id="e3fcf3d74ef0124ada1ca77f1863f88845c7885842bc05ca9b61f15ffa93cabd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonEx2_pt1stringOut.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:17-04:00" modified="2020-08-07T21:13:17-04:00" filename="pokemonEx2_pt1stringOut.xql" mimetype="application/xquery" blob-id="6f32239760c08e3dd6676bac42cf2a2936d56e50b25d255a44c3940e2ddb3b53">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="siteIndexTrans" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:17-04:00" modified="2020-08-07T21:13:17-04:00" filename="siteIndexTrans" mimetype="application/xml" blob-id="9067c2f45dae77cae2d268c51e1044d02645013ada48c9b01dd69a0b430a067c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerGY_globalVars.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="testerGY_globalVars.xql" mimetype="application/xquery" blob-id="37251fddd90c83dc160f9145f266db1907980009c1fdc48ba7d6402ab7465c82">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="HamletSpeakerSpeechCounts.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="HamletSpeakerSpeechCounts.xql" mimetype="application/xquery" blob-id="e50c95b39e0c802402266115a0c8fcabdca24fcbbb720c68c4d0138be74dee5f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="classMitfordqueryNov7" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="classMitfordqueryNov7" mimetype="application/xml" blob-id="a13aaffa6843b32d422b87435bd88a65bab079778b5d12178bddd7a103dd7744">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ShakesMaxDistSpeakers.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="ShakesMaxDistSpeakers.xql" mimetype="application/xquery" blob-id="5910242b178f405d79224c9a17ca786562d90cf6f27d80174e89f5bdf0675f45">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitfordColl_SVG_tinkering" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="mitfordColl_SVG_tinkering" mimetype="application/xml" blob-id="8c2267fc8144b6b9529764f3901cbb3b16715a15e2682f08cdbf3bfb269b1f34">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="placesList.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="placesList.txt" mimetype="text/plain" blob-id="abf78348a0f4bfe00a552dcdb69e089a80e90b4172b172d9cb46abab8fea4022">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonEx2_pt2htmlOut.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="pokemonEx2_pt2htmlOut.xql" mimetype="application/xquery" blob-id="25a847884e47b35378122dc835f996b754fd3811059d533e6dac2133f01d5ccf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonEx2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="pokemonEx2.xql" mimetype="application/xquery" blob-id="72c6c8dc094f7c41aef7825d5f7bcec9a01d1b65ffa1ead8dfe093c452518743">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="personQuery-ClassHTML" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="personQuery-ClassHTML" mimetype="application/xml" blob-id="8652d3bbe3774316fed19418de6fe25a000e74b8985924999eccb5c6843a06cb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapLocs.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="mapLocs.txt" mimetype="text/plain" blob-id="abf78348a0f4bfe00a552dcdb69e089a80e90b4172b172d9cb46abab8fea4022">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitfordCollQuery" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="mitfordCollQuery" mimetype="application/xml" blob-id="8acc44711e6d2e710e147175aae5f362bedfc39d5659037e5594473a234bd0e7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FalstaffFLWORintro.xql" owner="admin" group="dba" mode="755" created="2021-03-03T16:59:58-05:00" modified="2021-03-06T03:46:39-05:00" filename="FalstaffFLWORintro.xql" mimetype="application/xquery" blob-id="ae231cae0956213e196a516fd319083d58f51f4a64d4609ee1d6a2905baf6333">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testIndexing.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:18-04:00" modified="2020-08-07T21:13:18-04:00" filename="testIndexing.xql" mimetype="application/xquery" blob-id="2814c1ec1f92188b5b60ade2bbfbbb462b5cea248763c982d1cf22be4ad944dd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitfordtoNetAnalysis-classPart1" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:19-04:00" modified="2020-08-07T21:13:19-04:00" filename="mitfordtoNetAnalysis-classPart1" mimetype="application/xml" blob-id="f1b01a5cea9c303be94d126d1c68d53282a21babe951eb8e0906621a8ee90ed6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="returnWholeShakesPlays.xql" owner="admin" group="dba" mode="755" created="2021-03-06T03:49:38-05:00" modified="2021-03-06T03:53:46-05:00" filename="returnWholeShakesPlays.xql" mimetype="application/xquery" blob-id="beb580db072762078ad8fcd4396a3a600317a1c74656f8ce72e427eb4f7218c5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="NetHTstrGLOBALonly.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:19-04:00" modified="2020-08-07T21:13:19-04:00" filename="NetHTstrGLOBALonly.xql" mimetype="application/xquery" blob-id="20211a49ab9b77756c8f46b4194143a2f862fbb8f8ea36dbd33c66e15584081d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="findHamlet.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:19-04:00" modified="2020-08-07T21:13:19-04:00" filename="findHamlet.xql" mimetype="application/xquery" blob-id="66ddb8945ce37658329116ae17d969b7ddb9c1b99f78c56c0a8ce655d6fb6fb0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketTimeline.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:19-04:00" modified="2020-08-07T21:13:19-04:00" filename="rocketTimeline.xql" mimetype="application/xquery" blob-id="f6f946a94c71b1d3d07a2e0d0ddbc6520c4010d853dd58e92b4a3c23297f581b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="csgNAebb.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:19-04:00" modified="2020-08-07T21:13:19-04:00" filename="csgNAebb.xql" mimetype="application/xquery" blob-id="64c275feeaeabe95b2f261205d24f8f71ee51bfacf4eb27d7a29f11e339fd9f7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySVGTimelineStarter.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:19-04:00" modified="2020-08-07T21:13:19-04:00" filename="banksySVGTimelineStarter.xql" mimetype="application/xquery" blob-id="e3ef45725ab14924723aca8563477a4059b086ee26c68202e1e348da170aec7a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="frankenP1Quester.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:19-04:00" modified="2020-08-07T21:13:19-04:00" filename="frankenP1Quester.xql" mimetype="application/xquery" blob-id="7de83973b16b8de46eefdcf5b64ea0a6e4f8652d89e05b89dd6ff3088edcdc47">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakeMax.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:19-04:00" modified="2020-08-07T21:13:19-04:00" filename="shakeMax.xql" mimetype="application/xquery" blob-id="5910242b178f405d79224c9a17ca786562d90cf6f27d80174e89f5bdf0675f45">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerGY.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:19-04:00" modified="2020-08-07T21:13:19-04:00" filename="testerGY.xql" mimetype="application/xquery" blob-id="271a947bef3eb49c46e50b3f433c321d49de9440fedd7a8bfabb84478862c192">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sampleSHAKESFLWR.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:19-04:00" modified="2020-08-07T21:13:19-04:00" filename="sampleSHAKESFLWR.xql" mimetype="application/xquery" blob-id="f6501d79eb068a5c5d9ea1af14464b1158b9715af511335a51f3252b164d2728">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitfordtoNetAnalysis" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:19-04:00" modified="2020-08-07T21:13:19-04:00" filename="mitfordtoNetAnalysis" mimetype="application/xml" blob-id="6f3e404657ea314ea74759c5825724e906df7fe43938eb9f63ed7b7f636965aa">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="reindex.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:20-04:00" modified="2020-08-07T21:13:20-04:00" filename="reindex.xql" mimetype="application/xquery" blob-id="cb901e64c913efa150a755705567a93962210f6cc39560ba1deacfdac2f9868e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Placeography.kml" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:20-04:00" modified="2020-08-07T21:13:20-04:00" filename="Placeography.kml" mimetype="application/xml" blob-id="8a9a0828837455db1ed777d1086c17ad9226f5fa293b2b15e9d9f71ba7155166">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="personQuery-Class" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:20-04:00" modified="2020-08-07T21:13:20-04:00" filename="personQuery-Class" mimetype="application/xml" blob-id="82379e6343420725751c1cd599597a9e8464a670007183beddaed31d2d79c16d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyKML.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:20-04:00" modified="2020-08-07T21:13:20-04:00" filename="banksyKML.xql" mimetype="application/xquery" blob-id="51844bef278dfcc9764f9c9d48b12d3179561e157454d1b4d76f138b71de16fe">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesGraphy.xql" owner="admin" group="dba" mode="755" created="2021-03-19T05:27:34-04:00" modified="2021-03-19T05:42:55-04:00" filename="bluesGraphy.xql" mimetype="application/xquery" blob-id="0ae46b91124f9f0b5064ec226d35c2b9fa463ae3e36868ba3abd9e8e845bbb00">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="op" filename="op"/>
+</collection>

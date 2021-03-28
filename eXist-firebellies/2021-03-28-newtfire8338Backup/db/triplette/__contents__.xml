@@ -1,0 +1,60 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/triplette" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:05-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Dama_boba_tei.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:05-04:00" modified="2020-08-07T21:12:05-04:00" filename="Dama_boba_tei.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query_w_variables.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:06-04:00" modified="2020-08-07T21:12:06-04:00" filename="query_w_variables.xql" mimetype="application/xquery" blob-id="0771f2692c76cfa6c237e0c2c704431675554ca97c4d83ff6c5cacf9dd0eeb05">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dist_locs_schism.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:06-04:00" modified="2020-08-07T21:12:06-04:00" filename="dist_locs_schism.xql" mimetype="application/xquery" blob-id="16e92021eb28cef0fda834c5c55ef8e40d3574436246c1cc945abf89960fb53e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tokenize_stringfunction.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:06-04:00" modified="2020-08-07T21:12:06-04:00" filename="tokenize_stringfunction.xql" mimetype="application/xquery" blob-id="acce0b582e79c38a1c1dea9958dcfd2ebcbb05a6cd2d6a085c26f16e33efd33f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitford2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:06-04:00" modified="2020-08-07T21:12:06-04:00" filename="mitford2.xql" mimetype="application/xquery" blob-id="b43aa76d648e9f057660792d09408ab740bbc1da2d465536928af84f7035c1f1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lope_placenames.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:06-04:00" modified="2020-08-07T21:12:06-04:00" filename="lope_placenames.xql" mimetype="application/xquery" blob-id="6930f027700845284c2bcd2c09e7ae40d56dcbbf6f77cf0ad57d2f1ab5f7ca0d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitford" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:06-04:00" modified="2020-08-07T21:12:06-04:00" filename="mitford" mimetype="application/xml" blob-id="c433c54af88657f7a69aa93ec2d90ebefa76c86aea10b3fc0727c55156b4e93e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lope_person_table.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:06-04:00" modified="2020-08-07T21:12:06-04:00" filename="lope_person_table.xql" mimetype="application/xquery" blob-id="215900368cb7481c4837ed16d6f829903a47d2a9d13a4379290a13ebd97979bf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="for_practice.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:06-04:00" modified="2020-08-07T21:12:06-04:00" filename="for_practice.xql" mimetype="application/xquery" blob-id="b03739f6ee9cf635a61a711bc5a54a6a095c4958773ecf27ca7f43cbc8b06faa">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="emotion_table_lope.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:06-04:00" modified="2020-08-07T21:12:06-04:00" filename="emotion_table_lope.xql" mimetype="application/xquery" blob-id="959459cabf1db4e6ec21e05a271ebaf636effde07c12806febeb1ae21c840a77">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery%20homework%201" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:06-04:00" modified="2020-08-07T21:12:06-04:00" filename="xquery homework 1" mimetype="application/xml" blob-id="81724b07d169ece3ab4ebec13e0bb85e79cd79e5c432de9ae76491a25862e355">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sample_teinamespace.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:07-04:00" modified="2020-08-07T21:12:07-04:00" filename="sample_teinamespace.xql" mimetype="application/xquery" blob-id="b14b3e4731b9679631488f12719e5908ffc5001fe8c37e66f7b0a6853d2bc625">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="triplette_xq_hw1.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:07-04:00" modified="2020-08-07T21:12:07-04:00" filename="triplette_xq_hw1.xql" mimetype="application/xquery" blob-id="7b3b4894efd2fb14d503cb817cdd188b8868e0037327ca29f53863201a661e0f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vio_comparison.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:05-04:00" modified="2020-08-07T21:12:05-04:00" filename="vio_comparison.xql" mimetype="application/xquery" blob-id="8324e33b462fa4954597c07fcca540d976d1443246f073002c5ba974c540f117">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitford.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:05-04:00" modified="2020-08-07T21:12:05-04:00" filename="mitford.xql" mimetype="application/xquery" blob-id="5b75a142f4c24436940733eaaa1326e249a93ce63866834b12db3102064d1c3d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timeline_mit.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:05-04:00" modified="2020-08-07T21:12:05-04:00" filename="timeline_mit.xql" mimetype="application/xquery" blob-id="6b3688e878adcb0bee5815a03637aff3516e9206a418775b665c2b5af932bfbd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitford_topten.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:06-04:00" modified="2020-08-07T21:12:06-04:00" filename="mitford_topten.xql" mimetype="application/xquery" blob-id="cfa8b7c87aa4b18d38d28d287cb0cc0b7193757f4385882de3aaf5cb301022f7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="flowr_demo_neater.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:06-04:00" modified="2020-08-07T21:12:06-04:00" filename="flowr_demo_neater.xql" mimetype="application/xquery" blob-id="d42ddbfcd0ea82c2045590d2b4287b994d63bbf4296da7d24c75a56dabe34a7e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lope_person_table" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:06-04:00" modified="2020-08-07T21:12:06-04:00" filename="lope_person_table" mimetype="application/xml" blob-id="cea99683877cb7c440d91dbe2c74c9566c02b1557dbd65cad0de044d1276a599">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

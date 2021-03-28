@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/DigMitCS_Queries" owner="admin" group="dba" mode="755" created="2020-08-07T21:17:42-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="unlAustenPercentSaid.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:42-04:00" modified="2020-08-07T21:17:42-04:00" filename="unlAustenPercentSaid.xql" mimetype="application/xquery" blob-id="05a0d51948e25d47f4cbd0030fa3843fbde99231b78462bf219a10822ec3afb1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitfordSI.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:42-04:00" modified="2020-08-07T21:17:42-04:00" filename="mitfordSI.xql" mimetype="application/xquery" blob-id="a6e20a072a12803606a85a695447bdf3f8cef3b715d969365b0da7ce07cb9b13">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="unlAustenSaid.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:42-04:00" modified="2020-08-07T21:17:42-04:00" filename="unlAustenSaid.xql" mimetype="application/xquery" blob-id="83ecf56cfaba41b611e782b138b22ffe84b8f01a588ef473db6fc5b611f66470">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

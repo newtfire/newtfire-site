@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/modules" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:30-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="local-applications.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="local-applications.xql" mimetype="application/xquery" blob-id="e78d562aed242cb1b136531fa39e008c6530675d34bcba1940c1b85ce3950d3f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="getCurrentUser.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="getCurrentUser.xql" mimetype="application/xquery" blob-id="adaa0edf510dcac498231c817634a809374c726def169cf393d8b70da12dc4bc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="getVersion.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="getVersion.xql" mimetype="application/xquery" blob-id="13d36fece94964aab3d3ec7d7e1693c3e5028a43762db98c695c6b5a2a2d3c1b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dashboard.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="dashboard.xql" mimetype="application/xquery" blob-id="90d4be7fc39851580423a9dc363115e1f1513ff908f6ecd282a3a42b391ee524">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dummy.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="dummy.xql" mimetype="application/xquery" blob-id="1be1fd8ce0f3adc4e6833c0c34bd0925251d0fbc326ea8227898e4f41578c001">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dashboard.xqm" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="dashboard.xqm" mimetype="application/xquery" blob-id="ff84208721ca697421dde2195c7a95afe7018d2ad5f9532f774a32ee6ed0c671">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

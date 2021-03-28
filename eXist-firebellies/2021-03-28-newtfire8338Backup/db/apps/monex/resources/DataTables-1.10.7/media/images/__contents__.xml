@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/resources/DataTables-1.10.7/media/images" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="sort_both.png" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="sort_both.png" mimetype="image/png" blob-id="8e42e912835e419f5c8bd639f6c0dbd94400f0a10067eb02f9056d1a531c7164">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sort_desc_disabled.png" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="sort_desc_disabled.png" mimetype="image/png" blob-id="914f7795c6628b41fac12a1b7c272bebcea81a792eb4b4d479bb3962c8e92b82">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sort_asc_disabled.png" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="sort_asc_disabled.png" mimetype="image/png" blob-id="f64c2f624c9ebc9b241d1405f2fd97fad45a8d4b640ea6735480e243e536305e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="favicon.ico" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="favicon.ico" mimetype="image/vnd.microsoft.icon" blob-id="0175123a9ba0983c9e53a2d0577765b5d45fb478179f7a7b48ba8c118be2dd0a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sort_desc.png" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="sort_desc.png" mimetype="image/png" blob-id="386ab3256744a8b3bd4a6ba4ed34d923e0337b428d1ca32466004fef8683d824">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sort_asc.png" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="sort_asc.png" mimetype="image/png" blob-id="9a7447be27a06c6d897d69735a3b715ff26199c861667a81dd2f90277d09ce49">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

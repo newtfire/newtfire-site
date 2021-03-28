@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ulysses/wanderings" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:05-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Lotus_Eaters.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:05-04:00" modified="2020-08-07T21:12:05-04:00" filename="Lotus_Eaters.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Wandering_Rocks.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:05-04:00" modified="2020-08-07T21:12:05-04:00" filename="Wandering_Rocks.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Cyclops.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:05-04:00" modified="2020-08-07T21:12:05-04:00" filename="Cyclops.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Calypso.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:05-04:00" modified="2020-08-07T21:12:05-04:00" filename="Calypso.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

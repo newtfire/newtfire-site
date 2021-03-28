@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/development-starter/listings" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="listing-2.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="listing-2.txt" mimetype="text/plain" blob-id="ea91d71646ad8b47b3977997c1a967a32af339c4c76d72c5889199c752e1a665">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-3.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="listing-3.txt" mimetype="text/plain" blob-id="c1cc3bea78d51c6c8a84822596d42c37472e853bedafdac1b88d2fe504dc0ba0">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

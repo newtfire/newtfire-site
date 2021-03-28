@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ajm7408" owner="ajm7408" group="dba" mode="775" created="2021-03-08T20:26:03-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="XQuery%20Exercise%203" owner="ajm7408" group="ajm7408" mode="755" created="2021-03-12T13:46:18-05:00" modified="2021-03-12T13:46:18-05:00" filename="XQuery Exercise 3" mimetype="application/xquery" blob-id="148ed46c058b16faf85d7485192972d60eaebfd1e9b846bca52412c666e57ee0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuery%20Exercise%204" owner="ajm7408" group="ajm7408" mode="755" created="2021-03-12T14:15:51-05:00" modified="2021-03-12T14:28:47-05:00" filename="XQuery Exercise 4" mimetype="application/xml" blob-id="057e04c555f7a63493955bafc0d2acf69edee7d17ec004dd5e4592ae8b2efff2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGexercise2.svg" owner="ajm7408" group="ajm7408" mode="755" created="2021-03-24T17:58:11-04:00" modified="2021-03-24T18:17:56-04:00" filename="SVGexercise2.svg" mimetype="image/svg+xml" blob-id="036563840bb84653bedd5613d6be9f2074b63b1c63563816e42b933d7793cc59">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGexercise2.xql" owner="ajm7408" group="ajm7408" mode="755" created="2021-03-24T18:33:12-04:00" modified="2021-03-24T18:55:29-04:00" filename="SVGexercise2.xql" mimetype="application/xquery" blob-id="4332c094aaa92c593f84af92c5e180567845d20ee1bf6a49b96f4af13bbd5d94">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="acData.svg" owner="ajm7408" group="ajm7408" mode="644" created="2021-03-24T18:36:59-04:00" modified="2021-03-24T18:37:10-04:00" filename="acData.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="NetworkAnalysisEx1.xql" owner="ajm7408" group="ajm7408" mode="755" created="2021-03-26T17:03:45-04:00" modified="2021-03-26T17:09:21-04:00" filename="NetworkAnalysisEx1.xql" mimetype="application/xquery" blob-id="0ef285e5c00feda0fe12bf3dc7cf9934df72973be853b8fbf85d727f8b9cfce7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MyNetworkData.tsv" owner="ajm7408" group="ajm7408" mode="644" created="2021-03-26T17:05:49-04:00" modified="2021-03-26T17:07:58-04:00" filename="MyNetworkData.tsv" mimetype="application/xml" blob-id="86534870cc3b8760f78699db25d0b5197b9dfcf96607265deb38dc24ffc2ea9b">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

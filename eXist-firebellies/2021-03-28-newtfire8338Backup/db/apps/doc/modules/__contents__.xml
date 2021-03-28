@@ -1,0 +1,31 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/modules" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="search.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="search.xql" mimetype="application/xquery" blob-id="2e5b8ee7637026cc1e9bf28b264fdfae9b381e87516318d0e67ce9d69d2e5177">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="docbook.xql" mimetype="application/xquery" blob-id="13a5a6db00aa02b7081b757d5719ba578e3c796b9e443e34809c0042b542a51b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="diagnostics.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="diagnostics.xql" mimetype="application/xquery" blob-id="fe0fffb5bf8060ae4dbc7474e25f494ea391032df7a1c574f5156aebbd6f3782">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rvd-support.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="rvd-support.xql" mimetype="application/xquery" blob-id="3d6fafa8261b8ec66ae329370550204b31734f984eeabdff387854fb457cde34">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-suite.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="test-suite.xql" mimetype="application/xquery" blob-id="cc844a5e6fea852c140721240943a708faaf2d7f35136d695c173096340ea854">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="view.xql" mimetype="application/xquery" blob-id="32113ad2e5806b126a32f9db54efd91014e6a1da278368d867c004dc3ff7cacf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="review.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="review.xql" mimetype="application/xquery" blob-id="fa0d42c7c1f9376cadfb6df61e1a3e9e55dade72bc6e136241cd23eef7d9bfd2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="config.xqm" mimetype="application/xquery" blob-id="ad1e06c9ef904a7ae57872215578f2e817b59825663b03a94163b159ec4afed3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-runner.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:36-04:00" modified="2020-08-07T02:48:36-04:00" filename="test-runner.xql" mimetype="application/xquery" blob-id="7169f8c1fe311e391b9ba0dac285936a5f74675384fd28071ff964aeb964193a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="xsl" filename="xsl"/>
+</collection>

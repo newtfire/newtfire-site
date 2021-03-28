@@ -1,0 +1,60 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/bsf15" owner="admin" group="dba" mode="755" created="2020-08-07T21:18:42-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Java_Ex3ebb.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:42-04:00" modified="2020-08-07T21:18:42-04:00" filename="Java_Ex3ebb.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Java_Ex3.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:42-04:00" modified="2020-08-07T21:18:42-04:00" filename="Java_Ex3.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="filer_svg4.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:42-04:00" modified="2020-08-07T21:18:42-04:00" filename="filer_svg4.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:43-04:00" modified="2020-08-07T21:18:43-04:00" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="updatedtimeline.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:43-04:00" modified="2020-08-07T21:18:43-04:00" filename="updatedtimeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timelineSVG3.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:43-04:00" modified="2020-08-07T21:18:43-04:00" filename="timelineSVG3.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG4" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:42-04:00" modified="2020-08-07T21:18:42-04:00" filename="SVG4" mimetype="application/xml" blob-id="211a469e8e8334c5e34b0a3b8f2346469df7a5194039ac0a7e7eb6822f6e91ff">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamilton_actOne_ref" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:42-04:00" modified="2020-08-07T21:18:42-04:00" filename="hamilton_actOne_ref" mimetype="application/xml" blob-id="570b5b4f603d3b4fcbee3c04e9a2e95d6db1895e4492c2060f5babf97689b46d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="networkData.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:42-04:00" modified="2020-08-07T21:18:42-04:00" filename="networkData.tsv" mimetype="application/xml" blob-id="6e357704a85fc9982758f8fecc2916f6a51553076fe27ee2f3f7a791aef3952f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MyNetworkData" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:43-04:00" modified="2020-08-07T21:18:43-04:00" filename="MyNetworkData" mimetype="application/xml" blob-id="6a6da4e46325f3a980b99538a9353d209be99178d9816128e166cbb646a015b4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamilton_act_two_ref_data.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:43-04:00" modified="2020-08-07T21:18:43-04:00" filename="hamilton_act_two_ref_data.tsv" mimetype="application/xml" blob-id="6f9707fea994d9bfba94325540809ce2b5fd22f3bd34bb81ca520f3b7f3bc95e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapLocs.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:43-04:00" modified="2020-08-07T21:18:43-04:00" filename="mapLocs.txt" mimetype="text/plain" blob-id="abf78348a0f4bfe00a552dcdb69e089a80e90b4172b172d9cb46abab8fea4022">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Java_Ex_3" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:43-04:00" modified="2020-08-07T21:18:43-04:00" filename="Java_Ex_3" mimetype="application/xml" blob-id="3ff0c907b6e2eacd77ebb4244ac6932c53e8dd5a00956f23f81f929505f6a9ec">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamilton_ref" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:43-04:00" modified="2020-08-07T21:18:43-04:00" filename="hamilton_ref" mimetype="application/xml" blob-id="db12350b9170720955837313b28445234752ae1d8cd837480d319900d01256ef">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Java_Ex_3_WIP" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:43-04:00" modified="2020-08-07T21:18:43-04:00" filename="Java_Ex_3_WIP" mimetype="application/xml" blob-id="c33bf5e30c20b2a1199528c4d150d9867293bb04382c9d19fc2666cce4f608b8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamilton_act_one_ref_data.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:43-04:00" modified="2020-08-07T21:18:43-04:00" filename="hamilton_act_one_ref_data.tsv" mimetype="application/xml" blob-id="8b9a71163f65e21e9e62385c636ed7c4e03bf027c99625a66859ff4b0dc2e447">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamilton_ref_data.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:43-04:00" modified="2020-08-07T21:18:43-04:00" filename="hamilton_ref_data.tsv" mimetype="application/xml" blob-id="f9aebee07fef0ee0d95fca1739caba201f0cecc78b2f869c921f89104e6e3ad6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Placeography.kml" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:43-04:00" modified="2020-08-07T21:18:43-04:00" filename="Placeography.kml" mimetype="application/xml" blob-id="2e93fcb15d8f7de9c14f63e1915c3fde45a2de78708aade8e164e2eec5c96832">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamilton_actTwo_ref" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:43-04:00" modified="2020-08-07T21:18:43-04:00" filename="hamilton_actTwo_ref" mimetype="application/xml" blob-id="3d215b91993de4e50f19e2f6f7ee31c9e67998b7fd6de189ca2e11b0f65c7927">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

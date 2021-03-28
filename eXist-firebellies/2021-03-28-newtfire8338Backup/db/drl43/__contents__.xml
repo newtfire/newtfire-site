@@ -1,0 +1,81 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/drl43" owner="admin" group="dba" mode="755" created="2020-08-07T21:17:39-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="timelineEx3.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:40-04:00" modified="2020-08-07T21:17:40-04:00" filename="timelineEx3.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lint_rNm_networking_xml.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:40-04:00" modified="2020-08-07T21:17:40-04:00" filename="lint_rNm_networking_xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timelinehorizontal.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:41-04:00" modified="2020-08-07T21:17:41-04:00" filename="timelinehorizontal.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lint_rick_and_morty_networking_O_script_file.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:41-04:00" modified="2020-08-07T21:17:41-04:00" filename="lint_rick_and_morty_networking_O_script_file.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:41-04:00" modified="2020-08-07T21:17:41-04:00" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rNmOutput2.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:39-04:00" modified="2020-08-07T21:17:39-04:00" filename="rNmOutput2.tsv" mimetype="application/xml" blob-id="d71db00ecdcd32d1434dd340f822f6dc8f05b97a44b6927a46851408bedb8482">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rnmtestvariables.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:40-04:00" modified="2020-08-07T21:17:40-04:00" filename="rnmtestvariables.xql" mimetype="application/xquery" blob-id="d91acb9e903a3ccec28b564244652a862b17793f0d49a6f37967e4a6756d9f4a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_rNm_netNoFile.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:40-04:00" modified="2020-08-07T21:17:40-04:00" filename="lint_rNm_netNoFile.xql" mimetype="application/xquery" blob-id="a3fa570492d6127f40276755c91f283a45768b69d38959e5d563b316cffabb45">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_svg_ex2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:40-04:00" modified="2020-08-07T21:17:40-04:00" filename="lint_svg_ex2.xql" mimetype="application/xquery" blob-id="e417fc77227948e798ad719cf52d2a95ef73064e973d3a8239a0fa0b18e72377">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Decameron%20notes" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:40-04:00" modified="2020-08-07T21:17:40-04:00" filename="Decameron notes" mimetype="application/xml" blob-id="fc0710ac3150a88a474556a06cd44e323a0d064f7b5e8f198ac8da547ee10c91">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_svg_ex3.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:40-04:00" modified="2020-08-07T21:17:40-04:00" filename="lint_svg_ex3.xql" mimetype="application/xquery" blob-id="9c656fd370d3ebafa24879a3756b77bc2e93ebf35ed7a6a34eb3d225df256064">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_shakespeare_sample.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:40-04:00" modified="2020-08-07T21:17:40-04:00" filename="lint_shakespeare_sample.xql" mimetype="application/xquery" blob-id="24eacd46a6d032bdae353b86acf69b31acf34e86ac7718afa33ed2c560392c2c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="decameron_notes.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:40-04:00" modified="2020-08-07T21:17:40-04:00" filename="decameron_notes.xql" mimetype="application/xquery" blob-id="3d86f2a23471b142e2a4254e1014a372d7795ff4529dfd77df7db732d44bd4e8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_javascript_ex3.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:40-04:00" modified="2020-08-07T21:17:40-04:00" filename="lint_javascript_ex3.xql" mimetype="application/xquery" blob-id="c17dc43baa8eaecc8623f34345a3a7ee90acfa939106c9a8aaccfd4f9ab809e1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Sample_svg_ex3_start" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:40-04:00" modified="2020-08-07T21:17:40-04:00" filename="Sample_svg_ex3_start" mimetype="application/xml" blob-id="9e42a261d0721c6219870cce4365220de9aced63e7f5b9533a2e8c32f2c824df">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_svg_ex3A.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:40-04:00" modified="2020-08-07T21:17:40-04:00" filename="lint_svg_ex3A.xql" mimetype="application/xquery" blob-id="ddc8407dc90bef23a0b77a612093a8f7a66d0d23e373b28d741e1fe6609118a4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_svg_ex4.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:40-04:00" modified="2020-08-07T21:17:40-04:00" filename="lint_svg_ex4.xql" mimetype="application/xquery" blob-id="bb96d67b089eb2530a524232463097b503454c7f560c223c01141421cf950e58">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_rick_and_morty_xquery" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:41-04:00" modified="2020-08-07T21:17:41-04:00" filename="lint_rick_and_morty_xquery" mimetype="application/xml" blob-id="b2576ee3a2e80951a8ced6b0285e66eaac023cb54b4b410c409b9043b571f96a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rNmOutput.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:41-04:00" modified="2020-08-07T21:17:41-04:00" filename="rNmOutput.tsv" mimetype="application/xml" blob-id="23d548746d0d979aa179b6e2d39f8c449afe7b1b6112ae1a1346dc3257437e9c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_xqlex2_edited.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:41-04:00" modified="2020-08-07T21:17:41-04:00" filename="lint_xqlex2_edited.xql" mimetype="application/xquery" blob-id="ea0133a4297aa6e9fa7fa8918d11cbe05e208dca1a6185722f36636b1b763d93">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_xqlex2_ebb.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:41-04:00" modified="2020-08-07T21:17:41-04:00" filename="lint_xqlex2_ebb.xql" mimetype="application/xquery" blob-id="6b269db02b10cba59216f18781c88cc91653221ef1940e682b1310e04db420ea">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rNm_netFile_2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:41-04:00" modified="2020-08-07T21:17:41-04:00" filename="rNm_netFile_2.xql" mimetype="application/xquery" blob-id="fc73b95acd3c786e38f232161ba0a5e6e40b3f66b5ed26eb90b9d8b735a71112">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_xqlex2_a.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:41-04:00" modified="2020-08-07T21:17:41-04:00" filename="lint_xqlex2_a.xql" mimetype="application/xquery" blob-id="3c29143001cb7ca358036a72ed006bcd5cb87bad1b82a35b829f2baa65ea3643">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="keything2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:41-04:00" modified="2020-08-07T21:17:41-04:00" filename="keything2.xql" mimetype="application/xquery" blob-id="15eaf024013d77ec062ff20715e352dc2e01772e937fadd6c3d80195fc7ec7fe">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_shakespeare_sample2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:41-04:00" modified="2020-08-07T21:17:41-04:00" filename="lint_shakespeare_sample2.xql" mimetype="application/xquery" blob-id="5cc0a26aea34f82182f33ce4dbe78740adf9668fabcc3012527a509218719ff6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_shakespeare_sample1.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:41-04:00" modified="2020-08-07T21:17:41-04:00" filename="lint_shakespeare_sample1.xql" mimetype="application/xquery" blob-id="acce0b582e79c38a1c1dea9958dcfd2ebcbb05a6cd2d6a085c26f16e33efd33f">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

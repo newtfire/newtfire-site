@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/devguide_xmlrpc/listings" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:33-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="listing-1.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-1.txt" mimetype="text/plain" blob-id="2cae67dd706e1e2d444b902b2ecf40a2046a7bb97dd3e6cefda3e8ce705bbe52">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-2.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-2.txt" mimetype="text/plain" blob-id="f8d40ec4454f1ff3f86c0871ccb00709019070b3f00849e598a152b9e846fb5c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-3.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-3.txt" mimetype="text/plain" blob-id="df2ab5d983705d1467c4a9df92177ed15777d2ac5d66828e9ad7c66fa6b02498">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

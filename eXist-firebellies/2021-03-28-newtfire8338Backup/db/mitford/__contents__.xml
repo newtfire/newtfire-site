@@ -1,0 +1,11 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/mitford" owner="admin" group="dba" mode="755" created="2020-08-07T21:15:41-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="si.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:50-04:00" modified="2020-08-07T21:15:50-04:00" filename="si.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MitfordSI.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:41-04:00" modified="2020-08-07T21:15:41-04:00" filename="MitfordSI.tsv" mimetype="application/xml" blob-id="76a703b537d1c7beaccfd416e3c74f603f3da90f17239bd806f1a1943f46263d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="letters" filename="letters"/>
+    <subcollection name="literary" filename="literary"/>
+</collection>

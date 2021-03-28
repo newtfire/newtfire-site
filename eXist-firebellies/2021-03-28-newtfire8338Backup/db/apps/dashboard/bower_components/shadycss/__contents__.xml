@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/shadycss" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:28-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="custom-style-interface.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="custom-style-interface.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="apply-shim.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="apply-shim.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="custom-style-interface.min.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="custom-style-interface.min.js" mimetype="application/javascript" blob-id="c21a3813fda64ec76e72c5597f0b0fddc68d6e189309fa890ac4967854745862">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="apply-shim.min.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="apply-shim.min.js" mimetype="application/javascript" blob-id="16355968b5ec86fc9c60e8011bc88362beb057b1531e9367ea3d27252c822a8f">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

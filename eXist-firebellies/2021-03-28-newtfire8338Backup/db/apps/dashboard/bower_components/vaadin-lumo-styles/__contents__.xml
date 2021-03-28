@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/vaadin-lumo-styles" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="version.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="version.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="spacing.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="spacing.html" mimetype="text/html" blob-id="35e8351d2130aa1db03dc0d8bed48a8045c987fcd22bbd8c888e1cb8a1112f33">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="color.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="color.html" mimetype="text/html" blob-id="aa636d86a09577d2a4bc4e1f456b1fdc73fcfeb39f647fbc6888fdd7e1ace018">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sizing.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="sizing.html" mimetype="text/html" blob-id="616c789d29a6e7ebebe088c00654d799755f63a089cdb5fd254d7c6b836fb7d2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="style.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="style.html" mimetype="text/html" blob-id="5aefec710ddd1a4788403aa684a1ef5b91192edde6a1ea1f047521e299980a4e">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

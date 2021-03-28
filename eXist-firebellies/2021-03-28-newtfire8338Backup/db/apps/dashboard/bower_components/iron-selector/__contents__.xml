@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/iron-selector" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="iron-selectable.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-selectable.html" mimetype="text/html" blob-id="ea2417f9254c5f9f28420544281bce8ce90e7947470aa27f8af7dcb661906ae5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iron-multi-selectable.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-multi-selectable.html" mimetype="text/html" blob-id="47ee32e72a912a42354a7e0b387ef7e4edc53a9e6d4b25faaf559637c245600e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iron-selection.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-selection.html" mimetype="text/html" blob-id="854525352543b0526c8244f8273c9e08767006bf3bdd8258b3f5d3ad2ac6f214">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

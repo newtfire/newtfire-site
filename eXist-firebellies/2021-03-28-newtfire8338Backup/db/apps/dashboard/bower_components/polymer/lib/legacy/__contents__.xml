@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/polymer/lib/legacy" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="class.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="class.html" mimetype="text/html" blob-id="d47e71643a6c55bf7441b0bd936c13fc9620a938dc5a1e2f0069f853fda27ee2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="polymer-fn.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="polymer-fn.html" mimetype="text/html" blob-id="13ef7f18242b39866ba7c697e23414627b99a3f91020457c7e078ca1ff3a2488">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mutable-data-behavior.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="mutable-data-behavior.html" mimetype="text/html" blob-id="792d42990fced636b3962de2d6144d469fd9c8e6914c0414035ec40799df663a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="legacy-element-mixin.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="legacy-element-mixin.html" mimetype="text/html" blob-id="b55bb4ea49dc20d0526cec0bd6f4ddcfcd6decfe19c8d44283aa7ed8742ead64">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="templatizer-behavior.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="templatizer-behavior.html" mimetype="text/html" blob-id="7cd5e95a51e4bf5a5681650e0e8d676a1d074a97e0bb33935653743ab95ef6a6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="polymer.dom.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="polymer.dom.html" mimetype="text/html" blob-id="903bc362d6723aa601dc1e87b47982f5943f6951e8ae6762ce46bdcad95df049">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

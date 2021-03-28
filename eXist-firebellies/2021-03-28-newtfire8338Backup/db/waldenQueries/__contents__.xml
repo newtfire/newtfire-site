@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/waldenQueries" owner="admin" group="dba" mode="755" created="2020-11-23T03:38:19-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="waldenSegs.xql" owner="admin" group="dba" mode="755" created="2020-11-23T03:43:26-05:00" modified="2021-01-07T14:35:10-05:00" filename="waldenSegs.xql" mimetype="application/xquery" blob-id="8695e37a1ae3362784f7c4f6ce6d0bfee2c2a8accc5a303f6672e0392e3a1452">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

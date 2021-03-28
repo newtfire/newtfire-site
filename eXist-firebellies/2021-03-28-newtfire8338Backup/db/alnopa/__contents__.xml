@@ -1,0 +1,19 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/alnopa" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:46-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="pokemon_example.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:47-04:00" modified="2020-08-07T21:20:47-04:00" filename="pokemon_example.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PokemonNetwork.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:46-04:00" modified="2020-08-07T21:20:46-04:00" filename="PokemonNetwork.tsv" mimetype="application/xml" blob-id="8f036e857a953ce90113701aa828ee63326596e3e36f3ea7652c3c1b32f2e96a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonExample.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:47-04:00" modified="2020-08-07T21:20:47-04:00" filename="pokemonExample.xql" mimetype="application/xquery" blob-id="f54784136984aa050991009ac81ad27b8750ffc47fcd3d7b66496d8712c9baec">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="2020-pokemon-example.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:48-04:00" modified="2020-08-07T21:20:48-04:00" filename="2020-pokemon-example.xql" mimetype="application/xquery" blob-id="ca0ad75d4445d9ce00f8e245ffdb3db8277e90f25ab52dbe5afd5b74dc831f8b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="SVG" filename="SVG"/>
+    <subcollection name="Schematron" filename="Schematron"/>
+    <subcollection name="XQuery" filename="XQuery"/>
+    <subcollection name="XSLT" filename="XSLT"/>
+</collection>

@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/paper-badge" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="paper-badge.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-badge.html" mimetype="text/html" blob-id="265e2a1a95dc8eb6f10b9d67a94941c1ef30eff4fe372d6343379d76308740b1">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

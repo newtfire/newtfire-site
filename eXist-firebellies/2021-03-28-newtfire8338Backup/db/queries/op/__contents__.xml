@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/queries/op" owner="admin" group="dba" mode="755" created="2020-08-07T21:13:17-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="decOutput.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:17-04:00" modified="2020-08-07T21:13:17-04:00" filename="decOutput.tsv" mimetype="application/xml" blob-id="0e3de1052fdebf442c8152f823cd548baf5fee28cce1dc8b161bfe2ddcfd991f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myOutput.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:17-04:00" modified="2020-08-07T21:13:17-04:00" filename="myOutput.tsv" mimetype="application/xml" blob-id="aa3e808af0ffac7aa63304172e36e3305f115244dd953de9a902687d6c449758">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nellOutput.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:17-04:00" modified="2020-08-07T21:13:17-04:00" filename="nellOutput.tsv" mimetype="application/xml" blob-id="57cd57ebc2b01a77e2342830c1e063ced4a6f53f2451a15fb8d194ad9482b1b1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="decPlacesOutput.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:17-04:00" modified="2020-08-07T21:13:17-04:00" filename="decPlacesOutput.tsv" mimetype="application/xml" blob-id="37e7b402d7568034193ac8586a3d6d98849464b79c9de508bd28dbb69348d341">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

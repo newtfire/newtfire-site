@@ -1,0 +1,33 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ksd32" owner="admin" group="dba" mode="755" created="2020-08-07T21:16:36-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="DeVore_project.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36-04:00" modified="2020-08-07T21:16:36-04:00" filename="DeVore_project.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DeVoreProject.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36-04:00" modified="2020-08-07T21:16:36-04:00" filename="DeVoreProject.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DeVore_timeline.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="DeVore_timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CharterCollation.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="CharterCollation.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CharterNetwork.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36-04:00" modified="2020-08-07T21:16:36-04:00" filename="CharterNetwork.xql" mimetype="application/xquery" blob-id="d382c372414edd869862d9dc77d665fd28f364969b890cace2044c56b5a01234">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DeVoreSVG2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36-04:00" modified="2020-08-07T21:16:36-04:00" filename="DeVoreSVG2.xql" mimetype="application/xquery" blob-id="9e5c8371bb0dfa05c28db3b654bb6afec61af6b6973b0ad9dd3b88fd97b52fdc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DeVore_Net-ebb.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36-04:00" modified="2020-08-07T21:16:36-04:00" filename="DeVore_Net-ebb.xql" mimetype="application/xquery" blob-id="b1666601492f3d08f5a0c821b8db06842692b0985ebeead8891538c7a2d7a051">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DeVore_Net.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="DeVore_Net.tsv" mimetype="application/xml" blob-id="d144f8ffa02cf620f90c3dcdc086237a9428a96ef342f88fc3b422db61432d6e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DeVore_SVG3.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="DeVore_SVG3.xql" mimetype="application/xquery" blob-id="019f96519af89546caacd0f6454e407d6e776952b61bec206f4da978d7fb387a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DeVore_Net.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="DeVore_Net.xql" mimetype="application/xquery" blob-id="945d543da2177e1382950dfaf3989e705f6a7babc1bf3a51e5a591627e26f246">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

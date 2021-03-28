@@ -1,0 +1,5 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/kingdomofhearts" owner="admin" group="dba" mode="775" created="2021-03-12T04:35:48-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="kingdomhearts" access_type="ALLOWED" mode="7"/>
+    </acl>
+</collection>

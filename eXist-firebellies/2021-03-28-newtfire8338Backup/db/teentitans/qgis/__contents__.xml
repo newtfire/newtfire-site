@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/teentitans/qgis" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:09-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="teentitans.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09-04:00" modified="2020-08-07T21:12:09-04:00" filename="teentitans.xql" mimetype="application/xquery" blob-id="2c8778d669236274b497536f82721e04893c1add7f3ffa582d0ef81d3ba20d76">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teentitans.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09-04:00" modified="2020-08-07T21:12:09-04:00" filename="teentitans.tsv" mimetype="application/xml" blob-id="da89de3a98ce1e025b58f8eb5770913dad6d688450278302589b9ee5f4e824cf">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

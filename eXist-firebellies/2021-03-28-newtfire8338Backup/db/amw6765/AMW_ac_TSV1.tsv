@@ -1,0 +1,20 @@
+xquery version "3.1";
+declare variable $ThisFileContent :=
+string-join(
+let $ac := doc('/db/assassinsCreed/assassinscreedodyssey.xml')
+
+let $chapter := $ac//chapter ! normalize-space() => distinct-values()
+for $c in $chapter
+    let $chapTitles := $ac//chapter[normalize-space(.) =$c]/following-sibling::chapTitles ! normalize-space() => distinct-values()
+    for $t in $chapTitles
+        let $brief := $ac[.//chapTitles ! normalize-space() = $t]//brief
+        for $b in $brief
+return
+    concat($c, "&#x9;", $t, "&#x9;", $b ), "&#10;") ;
+    $ThisFileContent
+    
+    
+(:  :let $filename := "AMW_ac_TSV1.tsv"
+let $doc-db-uri := xmldb:store("/db/amw6765/", $filename, $ThisFileContent)
+return $doc-db-uri:)
+(: View this SVG at http://newtfire.org:8338/exist/rest/db/amw6765/AMW_ac_TSV1.tsv  :)

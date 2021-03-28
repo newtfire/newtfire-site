@@ -1,0 +1,1813 @@
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-07-00001-SKT01.xml"/>
+		<title>Mūlamadhyamakakārikāḥ</title>
+		<author>Nāgārjuna</author>
+		<unifiedCatalogID>2-07-00001</unifiedCatalogID>
+		<sourceDesc>
+			<bibl>
+				<title>Madhyamakaśāstra of Nāgārjuna</title>
+				<author>Vaidya, P. L.</author>
+				<pubPlace>Darbhanga</pubPlace>
+				<publisher>Mithila Institute</publisher>
+				<date>1960</date>
+			</bibl>
+		</sourceDesc>
+		<creation date="Wed Jun 20 20:40:29 118"/>
+		<processed date="Wed Jun 20 20:40:29 118" ver="v.1.0" auth="Hackett"/>
+	</head>
+	<text>
+		<text_id t_id="2-07-00001-SKT01"/>
+		<sentence s_id="2-07-00001-SKT01-SID000001" type="Text Title" s_name="">
+			<phrase phr_id="2-07-00001-SKT01-000001">mūlamadhyamakakārikāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000002" type="Verse" s_name="1.01">
+			<phrase phr_id="2-07-00001-SKT01-000002">na svato nāpi parato na dvābhyāṃ nāpy ahetutaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000003">utpannā jātu vidyante bhāvāḥ kva cana ke cana</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000003" type="Verse" s_name="1.02">
+			<phrase phr_id="2-07-00001-SKT01-000004">catvāraḥ pratyayā hetur ārambaṇam anantaram</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000005">tathaivādhipateyaṃ ca pratyayo nāsti pañcamaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000004" type="Verse" s_name="1.03">
+			<phrase phr_id="2-07-00001-SKT01-000006">na hi svabhāvo bhāvānāṃ pratyayādiṣu vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000007">avidyamāne svabhāve parabhāvo na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000005" type="Verse" s_name="1.04">
+			<phrase phr_id="2-07-00001-SKT01-000008">kriyā na pratyayavatī nāpratyayavatī kriyā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000009">pratyayā nākriyāvantaḥ kriyāvantaś ca santy uta</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000006" type="Verse" s_name="1.05">
+			<phrase phr_id="2-07-00001-SKT01-000010">utpadyate pratītyemān itīme pratyayāḥ kila</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000011">yāvan notpadyata ime tāvan nāpratyayāḥ katham</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000007" type="Verse" s_name="1.06">
+			<phrase phr_id="2-07-00001-SKT01-000012">naivāsato naiva sataḥ pratyayo 'rthasya yujyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000013">asataḥ pratyayaḥ kasya sataś ca pratyayena kim</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000008" type="Verse" s_name="1.07">
+			<phrase phr_id="2-07-00001-SKT01-000014">na san nāsan na sad asan dharmo nirvartate yadā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000015">kathaṃ nirvartako hetur evaṃ sati hi yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000009" type="Verse" s_name="1.08">
+			<phrase phr_id="2-07-00001-SKT01-000016">anārambaṇa evāyaṃ san dharma upadiśyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000017">athānārambaṇe dharme kuta ārambaṇaṃ punaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000010" type="Verse" s_name="1.09">
+			<phrase phr_id="2-07-00001-SKT01-000018">anutpanneṣu dharmeṣu nirodho nopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000019">nānantaram ato yuktaṃ niruddhe pratyayaś ca kaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000011" type="Verse" s_name="1.10">
+			<phrase phr_id="2-07-00001-SKT01-000020">bhāvānāṃ niḥsvabhāvānāṃ na sattā vidyate yataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000021">satīdam asmin bhavatīty etan naivopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000012" type="Verse" s_name="1.11">
+			<phrase phr_id="2-07-00001-SKT01-000022">na ca vyastasamasteṣu pratyayeṣvasti tat phalam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000023">pratyayebhyaḥ kathaṃ tac ca bhaven na pratyayeṣu yat</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000013" type="Verse" s_name="1.12">
+			<phrase phr_id="2-07-00001-SKT01-000024">athāsad api tat tebhyaḥ pratyayebhyaḥ pravartate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000025">apratyayebhyo 'pi kasmān nābhipravartate phalam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000014" type="Verse" s_name="1.13">
+			<phrase phr_id="2-07-00001-SKT01-000026">phalaṃ ca pratyayamayaṃ pratyayāścāsvayaṃmayāḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000027">phalamasvamayebhyo yattatpratyayamayaṃ katham</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000015" type="Verse" s_name="1.14">
+			<phrase phr_id="2-07-00001-SKT01-000028">tasmān na pratyayamayaṃ nāpratyayamayaṃ phalam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000029">saṃvidyate phalābhāvāt pratyayāpratyayāḥ kutaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000016" type="Verse" s_name="2.01">
+			<phrase phr_id="2-07-00001-SKT01-000030">gataṃ na gamyate tāvad agataṃ naiva gamyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000031">gatāgatavinirmuktaṃ gamyamānaṃ na gamyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000017" type="Verse" s_name="2.02">
+			<phrase phr_id="2-07-00001-SKT01-000032">ceṣṭā yatra gatis tatra gamyamāne ca sā yataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000033">na gate nāgate ceṣṭā gamyamāne gatis tataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000018" type="Verse" s_name="2.03">
+			<phrase phr_id="2-07-00001-SKT01-000034">gamyamānasya gamanaṃ kathaṃ nāmopapatsyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000035">gamyamānaṃ vigamanaṃ yadā naivopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000019" type="Verse" s_name="2.04">
+			<phrase phr_id="2-07-00001-SKT01-000036">gamyamānasya gamanaṃ yasya tasya prasajyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000037">ṛte gater gamyamānaṃ gamyamānaṃ hi gamyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000020" type="Verse" s_name="2.05">
+			<phrase phr_id="2-07-00001-SKT01-000038">gamyamānasya gamane prasaktaṃ gamanadvayam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000039">yena tad gamyamānaṃ ca yac cātra gamanaṃ punaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000021" type="Verse" s_name="2.06">
+			<phrase phr_id="2-07-00001-SKT01-000040">dvau gantārau prasajyete prasakte gamanadvaye</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000041">gantāraṃ hi tiraskṛtya gamanaṃ nopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000022" type="Verse" s_name="2.07">
+			<phrase phr_id="2-07-00001-SKT01-000042">gantāraṃ cet tiraskṛtya gamanaṃ nopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000043">gamane 'sati gantātha kuta eva bhaviṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000023" type="Verse" s_name="2.08">
+			<phrase phr_id="2-07-00001-SKT01-000044">gantā na gacchati tāvad agantā naiva gacchati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000045">anyo gantur agantuś ca kas tṛtīyo 'tha gacchati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000024" type="Verse" s_name="2.09">
+			<phrase phr_id="2-07-00001-SKT01-000046">gantā tāvad gacchatīti katham evopapatsyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000047">gamanena vinā gantā yadā naivopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000025" type="Verse" s_name="2.10">
+			<phrase phr_id="2-07-00001-SKT01-000048">pakṣo gantā gacchatīti yasya tasya prasajyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000049">gamanena vinā gantā gantur gamanam icchataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000026" type="Verse" s_name="2.11">
+			<phrase phr_id="2-07-00001-SKT01-000050">gamane dve prasajyete gantā yadyuta gacchati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000051">ganteti cājyate yena gantā san yac ca gacchati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000027" type="Verse" s_name="2.12">
+			<phrase phr_id="2-07-00001-SKT01-000052">gate nārabhyate gantuṃ gantuṃ nārabhyate 'gate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000053">nārabhyate gamyamāne gantum ārabhyate kuha</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000028" type="Verse" s_name="2.13">
+			<phrase phr_id="2-07-00001-SKT01-000054">na pūrvaṃ gamanārambhād gamyamānaṃ na vā gatam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000055">yatrārabhyeta gamanam agate gamanaṃ kutaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000029" type="Verse" s_name="2.14">
+			<phrase phr_id="2-07-00001-SKT01-000056">gataṃ kiṃ gamyamānaṃ kim agataṃ kiṃ vikalpyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000057">adṛśyamāna ārambhe gamanasyaiva sarvathā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000030" type="Verse" s_name="2.15">
+			<phrase phr_id="2-07-00001-SKT01-000058">gantā na tiṣṭhati tāvad agantā naiva tiṣṭhati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000059">anyo gantur agantuś ca kas tṛtīyo 'tha tiṣṭhati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000031" type="Verse" s_name="2.16">
+			<phrase phr_id="2-07-00001-SKT01-000060">gantā tāvat tiṣṭhatīti katham evopapatsyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000061">gamanena vinā gantā yadā naivopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000032" type="Verse" s_name="2.17">
+			<phrase phr_id="2-07-00001-SKT01-000062">na tiṣṭhati gamyamānān na gatān nāgatād api</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000063">gamanaṃ saṃpravṛttiś ca nivṛttiś ca gateḥ samā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000033" type="Verse" s_name="2.18">
+			<phrase phr_id="2-07-00001-SKT01-000064">yad eva gamanaṃ gantā sa eveti na yujyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000065">anya eva punar gantā gater iti na yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000034" type="Verse" s_name="2.19">
+			<phrase phr_id="2-07-00001-SKT01-000066">yad eva gamanaṃ gantā sa eva hi bhaved yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000067">ekībhāvaḥ prasajyeta kartuḥ karmaṇa eva ca</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000035" type="Verse" s_name="2.20">
+			<phrase phr_id="2-07-00001-SKT01-000068">anya eva punar gantā gater yadi vikalpyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000069">gamanaṃ syād ṛte gantur gantā syād gamanād ṛte</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000036" type="Verse" s_name="2.21">
+			<phrase phr_id="2-07-00001-SKT01-000070">ekībhāvena vā siddhir nānābhāvena vā yayoḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000071">na vidyate tayoḥ siddhiḥ kathaṃ nu khalu vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000037" type="Verse" s_name="2.22">
+			<phrase phr_id="2-07-00001-SKT01-000072">gatyā yayājyate gantā gatiṃ tāṃ sa na gacchati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000073">yasmān na gatipūrvo 'sti kaścid kiṃcid dhi gacchati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000038" type="Verse" s_name="2.23">
+			<phrase phr_id="2-07-00001-SKT01-000074">gatyā yayājyate gantā tato 'nyāṃ sa na gacchati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000075">gatī dve nopapadyete yasmād eke tu gantari</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000039" type="Verse" s_name="2.24">
+			<phrase phr_id="2-07-00001-SKT01-000076">sadbhūto gamanaṃ gantā triprakāraṃ na gacchati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000077">nāsadbhūto 'pi gamanaṃ triprakāraṃ sa gacchati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000040" type="Verse" s_name="2.25">
+			<phrase phr_id="2-07-00001-SKT01-000078">gamanaṃ sadasadbhūtaḥ triprakāraṃ na gacchati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000079">tasmād gatiś ca gantā ca gantavyaṃ ca na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000041" type="Verse" s_name="3.01">
+			<phrase phr_id="2-07-00001-SKT01-000080">darśanaṃ śravaṇaṃ ghrāṇaṃ rasanaṃ sparśanaṃ manaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000081">indriyāṇi ṣaḍ eteṣāṃ draṣṭavyādīni gocaraḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000042" type="Verse" s_name="3.02">
+			<phrase phr_id="2-07-00001-SKT01-000082">svam ātmānaṃ darśanaṃ hi tat tam eva na paśyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000083">na paśyati yad ātmānaṃ kathaṃ drakṣyati tat parān</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000043" type="Verse" s_name="3.03">
+			<phrase phr_id="2-07-00001-SKT01-000084">na paryāpto 'gnidṛṣṭānto darśanasya prasiddhaye</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000085">sadarśanaḥ sa pratyukto gamyamānagatāgataiḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000044" type="Verse" s_name="3.04">
+			<phrase phr_id="2-07-00001-SKT01-000086">nāpaśyamānaṃ bhavati yadā kiṃ cana darśanam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000087">darśanaṃ paśyatīty evaṃ katham etat tu yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000045" type="Verse" s_name="3.05">
+			<phrase phr_id="2-07-00001-SKT01-000088">paśyati darśanaṃ naiva naiva paśyaty adarśanam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000089">vyākhyāto darśanenaiva draṣṭā cāpy avagamyatām</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000046" type="Verse" s_name="3.06">
+			<phrase phr_id="2-07-00001-SKT01-000090">draṣṭā nāsty atiraskṛtya tiraskṛtya ca darśanam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000091">draṣṭavyaṃ darśanaṃ caiva draṣṭary asati te kutaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000047" type="Verse" s_name="3.07">
+			<phrase phr_id="2-07-00001-SKT01-000092">draṣṭavyadarśanābhāvād vijñānādicatuṣṭayam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000093">nāstīty upādānādīni bhaviṣyanti punaḥ katham</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000048" type="Verse" s_name="3.08">
+			<phrase phr_id="2-07-00001-SKT01-000094">vyākhyātaṃ śravaṇaṃ ghrāṇaṃ rasanaṃ sparśanaṃ manaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000095">darśanenaiva jānīyāc chrotṛśrotavyakādi ca</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000049" type="Verse" s_name="4.01">
+			<phrase phr_id="2-07-00001-SKT01-000096">rūpakāraṇanirmuktaṃ na rūpam upalabhyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000097">rūpeṇāpi na nirmuktaṃ dṛśyate rūpakāraṇam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000050" type="Verse" s_name="4.02">
+			<phrase phr_id="2-07-00001-SKT01-000098">rūpakāraṇanirmukte rūpe rūpaṃ prasajyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000099">āhetukaṃ na cāsty arthaḥ kaścid āhetukaḥ kva cit</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000051" type="Verse" s_name="4.03">
+			<phrase phr_id="2-07-00001-SKT01-000100">rūpeṇa tu vinirmuktaṃ yadi syād rūpakāraṇam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000101">akāryakaṃ kāraṇaṃ syād nāsty akāryaṃ ca kāraṇam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000052" type="Verse" s_name="4.04">
+			<phrase phr_id="2-07-00001-SKT01-000102">rūpe saty eva rūpasya kāraṇaṃ nopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000103">rūpe 'saty eva rūpasya kāraṇaṃ nopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000053" type="Verse" s_name="4.05">
+			<phrase phr_id="2-07-00001-SKT01-000104">niṣkāraṇaṃ punā rūpaṃ naiva naivopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000105">tasmād rūpagatān kāṃścin na vikalpān vikalpayet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000054" type="Verse" s_name="4.06">
+			<phrase phr_id="2-07-00001-SKT01-000106">na kāraṇasya sadṛśaṃ kāryam ity upapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000107">na kāraṇasyāsadṛśaṃ kāryam ity upapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000055" type="Verse" s_name="4.07">
+			<phrase phr_id="2-07-00001-SKT01-000108">vedanācittasaṃjñānāṃ saṃskārāṇāṃ ca sarvaśaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000109">sarveṣām eva bhāvānāṃ rūpeṇaiva samaḥ kramaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000056" type="Verse" s_name="4.08">
+			<phrase phr_id="2-07-00001-SKT01-000110">vigrahe yaḥ parīhāraṃ kṛte śūnyatayā vadet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000111">sarvaṃ tasyāparihṛtaṃ samaṃ sādhyena jāyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000057" type="Verse" s_name="4.09">
+			<phrase phr_id="2-07-00001-SKT01-000112">vyākhyāne ya upālambhaṃ kṛte śūnyatayā vadet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000113">sarvaṃ tasyānupālabdhaṃ samaṃ sādhyena jāyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000058" type="Verse" s_name="5.01">
+			<phrase phr_id="2-07-00001-SKT01-000114">nākāśaṃ vidyate kiṃcit pūrvam ākāśalakṣaṇāt</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000115">alakṣaṇaṃ prasajyeta syāt pūrvaṃ yadi lakṣaṇāt</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000059" type="Verse" s_name="5.02">
+			<phrase phr_id="2-07-00001-SKT01-000116">alakṣaṇo na kaścic ca bhāvaḥ saṃvidyate kva cit</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000117">asaty alakṣaṇe bhāve kramatāṃ kuha lakṣaṇam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000060" type="Verse" s_name="5.03">
+			<phrase phr_id="2-07-00001-SKT01-000118">nālakṣaṇe lakṣaṇasya pravṛttir na salakṣaṇe</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000119">salakṣaṇālakṣaṇābhyāṃ nāpy anyatra pravartate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000061" type="Verse" s_name="5.04">
+			<phrase phr_id="2-07-00001-SKT01-000120">lakṣaṇāsaṃpravṛttau ca na lakṣyam upapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000121">lakṣyasyānupapattau ca lakṣaṇasyāpy asaṃbhavaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000062" type="Verse" s_name="5.05">
+			<phrase phr_id="2-07-00001-SKT01-000122">tasmān na vidyate lakṣyaṃ lakṣaṇaṃ naiva vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000123">lakṣyalakṣaṇanirmukto naiva bhāvo 'pi vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000063" type="Verse" s_name="5.06">
+			<phrase phr_id="2-07-00001-SKT01-000124">avidyamāne bhāve ca kasyābhāvo bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000125">bhāvābhāvavidharmā ca bhāvābhāvāv avaiti kaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000064" type="Verse" s_name="5.07">
+			<phrase phr_id="2-07-00001-SKT01-000126">tasmānna bhāvo nābhāvo na lakṣyaṃ nāpi lakṣaṇam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000127">ākāśam ākāśasamā dhātavaḥ pañca ye 'pare</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000065" type="Verse" s_name="5.08">
+			<phrase phr_id="2-07-00001-SKT01-000128">astitvaṃ ye tu paśyanti nāstitvaṃ cālpabuddhayaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000129">bhāvānāṃ te na paśyanti draṣṭavyopaśamaṃ śivam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000066" type="Verse" s_name="6.01">
+			<phrase phr_id="2-07-00001-SKT01-000130">rāgād yadi bhavet pūrvaṃ rakto rāgatiraskṛtaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000131">taṃ pratītya bhaved rāgo rakte rāgo bhavet sati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000067" type="Verse" s_name="6.02">
+			<phrase phr_id="2-07-00001-SKT01-000132">rakte 'sati punā rāgaḥ kuta eva bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000133">sati vāsati vā rāge rakte 'py eṣa samaḥ kramaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000068" type="Verse" s_name="6.03">
+			<phrase phr_id="2-07-00001-SKT01-000134">sahaiva punar udbhūtir na yuktā rāgaraktayoḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000135">bhavetāṃ rāgaraktau hi nirapekṣau parasparam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000069" type="Verse" s_name="6.04">
+			<phrase phr_id="2-07-00001-SKT01-000136">naikatve sahabhāvo 'sti na tenaiva hi tat saha</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000137">pṛthaktve sahabhāvo 'tha kuta eva bhaviṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000070" type="Verse" s_name="6.05">
+			<phrase phr_id="2-07-00001-SKT01-000138">ekatve sahabhāvaś cet syāt sahāyaṃ vināpi saḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000139">pṛthaktve sahabhāvaś cet syāt sahāyaṃ vināpi saḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000071" type="Verse" s_name="6.06">
+			<phrase phr_id="2-07-00001-SKT01-000140">pṛthaktve sahabhāvaś ca yadi kiṃ rāgaraktayoḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000141">siddhaḥ pṛthakpṛthagbhāvaḥ sahabhāvo yatas tayoḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000072" type="Verse" s_name="6.07">
+			<phrase phr_id="2-07-00001-SKT01-000142">siddhaḥ pṛthakpṛthagbhāvo yadi vā rāgaraktayoḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000143">sahabhāvaṃ kimartham tu parikalpayase tayoḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000073" type="Verse" s_name="6.08">
+			<phrase phr_id="2-07-00001-SKT01-000144">pṛthag na sidhyatīty evaṃ sahabhāvaṃ vikāṅkṣasi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000145">sahabhāvaprasiddhyarthaṃ pṛthaktvaṃ bhūya icchasi</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000074" type="Verse" s_name="6.09">
+			<phrase phr_id="2-07-00001-SKT01-000146">pṛthagbhāvāprasiddheś ca sahabhāvo na sidhyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000147">katamasmin pṛthagbhāve sahabhāvaṃ satīcchasi</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000075" type="Verse" s_name="6.10">
+			<phrase phr_id="2-07-00001-SKT01-000148">evaṃ raktena rāgasya siddhir na saha nāsaha</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000149">rāgavat sarvadharmāṇāṃ siddhir na saha nāsaha</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000076" type="Verse" s_name="7.01">
+			<phrase phr_id="2-07-00001-SKT01-000150">yadi saṃskṛta utpādas tatra yuktā trilakṣaṇī</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000151">athāsaṃskṛta utpādaḥ kathaṃ saṃskṛtalakṣaṇam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000077" type="Verse" s_name="7.02">
+			<phrase phr_id="2-07-00001-SKT01-000152">utpādādyās trayo vyastā nālaṃ lakṣaṇakarmaṇi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000153">saṃskṛtasya samastāḥ syur ekatra katham ekadā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000078" type="Verse" s_name="7.03">
+			<phrase phr_id="2-07-00001-SKT01-000154">utpādasthitibhaṅgānām anyat saṃskṛtalakṣaṇam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000155">asti ced anavasthaivaṃ nāsti cet te na saṃskṛtāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000079" type="Verse" s_name="7.04">
+			<phrase phr_id="2-07-00001-SKT01-000156">utpādotpāda utpādo mūlotpādasya kevalam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000157">utpādotpādam utpādo maulo janayate punaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000080" type="Verse" s_name="7.05">
+			<phrase phr_id="2-07-00001-SKT01-000158">utpādotpāda utpādo mūlotpādasya te yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000159">maulenājanitas taṃ te sa kathaṃ janayiṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000081" type="Verse" s_name="7.06">
+			<phrase phr_id="2-07-00001-SKT01-000160">sa te maulena janito maulaṃ janayate yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000161">maulaḥ sa tenājanitas tam utpādayate katham</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000082" type="Verse" s_name="7.07">
+			<phrase phr_id="2-07-00001-SKT01-000162">ayam utpādyamānas te kāmam utpādayed imam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000163">yadīmam utpādayitum ajātaḥ śaknuyād ayam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000083" type="Verse" s_name="7.08">
+			<phrase phr_id="2-07-00001-SKT01-000164">pradīpaḥ svaparātmānau saṃprakāśayate yathā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000165">utpādaḥ svaparātmānāv ubhāv utpādayet tathā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000084" type="Verse" s_name="7.09">
+			<phrase phr_id="2-07-00001-SKT01-000166">pradīpe nāndhakāro 'sti yatra cāsau pratiṣṭhitaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000167">kiṃ prakāśayate dīpaḥ prakāśo hi tamovadhaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000085" type="Verse" s_name="7.10">
+			<phrase phr_id="2-07-00001-SKT01-000168">katham utpadyamānena pradīpena tamo hatam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000169">notpadyamāno hi tamaḥ pradīpaḥ prāpnute yadā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000086" type="Verse" s_name="7.11">
+			<phrase phr_id="2-07-00001-SKT01-000170">aprāpyaiva pradīpena yadi vā nihataṃ tamaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000171">ihasthaḥ sarvalokasthaṃ sa tamo nihaniṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000087" type="Verse" s_name="7.12">
+			<phrase phr_id="2-07-00001-SKT01-000172">pradīpaḥ svaparātmānau saṃprakāśayate yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000173">tamo 'pi svaparātmānau chādayiṣyaty asaṃśayam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000088" type="Verse" s_name="7.13">
+			<phrase phr_id="2-07-00001-SKT01-000174">anutpanno 'yam utpādaḥ svātmānaṃ janayet katham</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000175">athotpanno janayate jāte kiṃ janyate punaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000089" type="Verse" s_name="7.14">
+			<phrase phr_id="2-07-00001-SKT01-000176">notpadyamānaṃ notpannaṃ nānutpannaṃ kathaṃ cana</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000177">utpadyate tad ākhyātaṃ gamyamānagatāgataiḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000090" type="Verse" s_name="7.15">
+			<phrase phr_id="2-07-00001-SKT01-000178">utpadyamānam utpattāv idaṃ na kramate yadā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000179">katham utpadyamānaṃ tu pratītyotpattim ucyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000091" type="Verse" s_name="7.16">
+			<phrase phr_id="2-07-00001-SKT01-000180">pratītya yad yad bhavati tat tac chāntaṃ svabhāvataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000181">tasmād utpadyamānaṃ ca śāntam utpattir eva ca</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000092" type="Verse" s_name="7.17">
+			<phrase phr_id="2-07-00001-SKT01-000182">yadi kaścid anutpanno bhāvaḥ saṃvidyate kva cit</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000183">utpadyeta sa kiṃ tasmin bhāva utpadyate 'sati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000093" type="Verse" s_name="7.18">
+			<phrase phr_id="2-07-00001-SKT01-000184">utpadyamānam utpādo yadi cotpādayaty ayam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000185">utpādayet tam utpādam utpādaḥ katamaḥ punaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000094" type="Verse" s_name="7.19">
+			<phrase phr_id="2-07-00001-SKT01-000186">anya utpādayaty enaṃ yady utpādo 'navasthitiḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000187">athānutpāda utpannaḥ sarvam utpadyatāṃ tathā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000095" type="Verse" s_name="7.20">
+			<phrase phr_id="2-07-00001-SKT01-000188">sataś ca tāvad utpattir asataś ca na yujyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000189">na sataś cāsataś ceti pūrvam evopapāditam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000096" type="Verse" s_name="7.21">
+			<phrase phr_id="2-07-00001-SKT01-000190">nirudhyamānasyotpattir na bhāvasyopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000191">yaś cānirudhyamānas tu sa bhāvo nopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000097" type="Verse" s_name="7.22">
+			<phrase phr_id="2-07-00001-SKT01-000192">nāsthitas tiṣṭhate bhāvaḥ sthito bhāvo na tiṣṭhati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000193">na tiṣṭhate tiṣṭhamānaḥ ko 'nutpannaś ca tiṣṭhati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000098" type="Verse" s_name="7.23">
+			<phrase phr_id="2-07-00001-SKT01-000194">sthitir nirudhyamānasya na bhāvasyopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000195">yaś cānirudhyamānas tu sa bhāvo nopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000099" type="Verse" s_name="7.24">
+			<phrase phr_id="2-07-00001-SKT01-000196">jarāmaraṇadharmeṣu sarvabhāveṣu sarvadā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000197">tiṣṭhanti katame bhāvā ye jarāmaraṇaṃ vinā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000100" type="Verse" s_name="7.25">
+			<phrase phr_id="2-07-00001-SKT01-000198">sthityānyayā sthiteḥ sthānaṃ tayaiva ca na yujyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000199">utpādasya yathotpādo nātmanā na parātmanā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000101" type="Verse" s_name="7.26">
+			<phrase phr_id="2-07-00001-SKT01-000200">nirudhyate nāniruddhaṃ na niruddhaṃ nirudhyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000201">tathā nirudhyamānaṃ ca kim ajātaṃ nirudhyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000102" type="Verse" s_name="7.27">
+			<phrase phr_id="2-07-00001-SKT01-000202">sthitasya tāvad bhāvasya nirodho nopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000203">nāsthitasyāpi bhāvasya nirodha upapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000103" type="Verse" s_name="7.28">
+			<phrase phr_id="2-07-00001-SKT01-000204">tayaivāvasthayāvasthā na hi saiva nirudhyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000205">anyayāvasthayāvasthā na cānyaiva nirudhyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000104" type="Verse" s_name="7.29">
+			<phrase phr_id="2-07-00001-SKT01-000206">yadaiva sarvadharmāṇām utpādo nopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000207">tadaivaṃ sarvadharmāṇāṃ nirodho nopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000105" type="Verse" s_name="7.30">
+			<phrase phr_id="2-07-00001-SKT01-000208">sataś ca tāvad bhāvasya nirodho nopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000209">ekatve na hi bhāvaś ca nābhāvaś copapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000106" type="Verse" s_name="7.31">
+			<phrase phr_id="2-07-00001-SKT01-000210">asato 'pi na bhāvasya nirodha upapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000211">na dvitīyasya śirasaś chedanaṃ vidyate yathā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000107" type="Verse" s_name="7.32">
+			<phrase phr_id="2-07-00001-SKT01-000212">na svātmanā nirodho 'sti nirodho na parātmanā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000213">utpādasya yathotpādo nātmanā na parātmanā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000108" type="Verse" s_name="7.33">
+			<phrase phr_id="2-07-00001-SKT01-000214">utpādasthitibhaṅgānām asiddher nāsti saṃskṛtam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000215">saṃskṛtasyāprasiddhau ca kathaṃ setsyaty asaṃskṛtam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000109" type="Verse" s_name="7.34">
+			<phrase phr_id="2-07-00001-SKT01-000216">yathā māyā yathā svapno gandharvanagaraṃ yathā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000217">tathotpādas tathā sthānaṃ tathā bhaṅga udāhṛtam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000110" type="Verse" s_name="8.01">
+			<phrase phr_id="2-07-00001-SKT01-000218">sadbhūtaḥ kārakaḥ karma sadbhūtaṃ na karotyayam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000219">kārako nāpy asadbhūtaḥ karmāsadbhūtam īhate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000111" type="Verse" s_name="8.02">
+			<phrase phr_id="2-07-00001-SKT01-000220">sadbhūtasya kriyā nāsti karma ca syād akartṛkam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000221">sadbhūtasya kriyā nāsti kartā ca syād akarmakaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000112" type="Verse" s_name="8.03">
+			<phrase phr_id="2-07-00001-SKT01-000222">karoti yady asadbhūto 'sadbhūtaṃ karma kārakaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000223">ahetukaṃ bhavet karma kartā cāhetuko bhavet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000113" type="Verse" s_name="8.04">
+			<phrase phr_id="2-07-00001-SKT01-000224">hetāv asati kāryaṃ ca kāraṇaṃ ca na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000225">tadabhāve kriyā kartā kāraṇaṃ ca na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000114" type="Verse" s_name="8.05">
+			<phrase phr_id="2-07-00001-SKT01-000226">dharmādharmau na vidyete kriyādīnām asaṃbhave</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000227">dharme cāsaty adharme ca phalaṃ tajjaṃ na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000115" type="Verse" s_name="8.06">
+			<phrase phr_id="2-07-00001-SKT01-000228">phale 'sati na mokṣāya na svargāyopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000229">mārgaḥ sarvakriyāṇāṃ ca nairarthakyaṃ prasajyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000116" type="Verse" s_name="8.07">
+			<phrase phr_id="2-07-00001-SKT01-000230">kārakaḥ sadasadbhūtaḥ sadasat kurute na tat</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000231">parasparaviruddhaṃ hi sac cāsac caikataḥ kutaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000117" type="Verse" s_name="8.08">
+			<phrase phr_id="2-07-00001-SKT01-000232">satā ca kriyate nāsan nāsatā kriyate ca sat</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000233">kartrā sarve prasajyante doṣās tatra ta eva hi</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000118" type="Verse" s_name="8.09">
+			<phrase phr_id="2-07-00001-SKT01-000234">nāsadbhūtaṃ na sadbhūtaḥ sadasadbhūtam eva vā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000235">karoti kārakaḥ karma pūrvoktair eva hetubhiḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000119" type="Verse" s_name="8.10">
+			<phrase phr_id="2-07-00001-SKT01-000236">nāsadbhūto 'pi sadbhūtaṃ sadasadbhūtam eva vā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000237">karoti kārakaḥ karma pūrvoktair eva hetubhiḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000120" type="Verse" s_name="8.11">
+			<phrase phr_id="2-07-00001-SKT01-000238">karoti sadasadbhūto na san nāsac ca kārakaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000239">karma tat tu vijānīyāt pūrvoktair eva hetubhiḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000121" type="Verse" s_name="8.12">
+			<phrase phr_id="2-07-00001-SKT01-000240">pratītya kārakaḥ karma taṃ pratītya ca kārakam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000241">karma pravartate nānyat paśyāmaḥ siddhikāraṇam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000122" type="Verse" s_name="8.13">
+			<phrase phr_id="2-07-00001-SKT01-000242">evaṃ vidyād upādānaṃ vyutsargād iti karmaṇaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000243">kartuś ca karmakartṛbhyāṃ śeṣān bhāvān vibhāvayet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000123" type="Verse" s_name="9.01">
+			<phrase phr_id="2-07-00001-SKT01-000244">darśanaśravaṇādīni vedanādīni cāpy atha</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000245">bhavanti yasya prāg ebhyaḥ so 'stīty eke vadantyuta</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000124" type="Verse" s_name="9.02">
+			<phrase phr_id="2-07-00001-SKT01-000246">kathaṃ hy avidyamānasya darśanādi bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000247">bhāvasya tasmāt prāg ebhyaḥ so 'sti bhāvo vyavasthitaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000125" type="Verse" s_name="9.03">
+			<phrase phr_id="2-07-00001-SKT01-000248">darśanaśravaṇādibhyo vedanādibhya eva ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000249">yaḥ prāg vyavasthito bhāvaḥ kena prajñapyate 'tha saḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000126" type="Verse" s_name="9.04">
+			<phrase phr_id="2-07-00001-SKT01-000250">vināpi darśanādīni yadi cāsau vyavasthitaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000251">amūny api bhaviṣyanti vinā tena na saṃśayaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000127" type="Verse" s_name="9.05">
+			<phrase phr_id="2-07-00001-SKT01-000252">ajyate kenacit kaścit kiṃcit kena cid ajyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000253">kutaḥ kiṃcid vinā kaścit kiṃcit kiṃcid vinā kutaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000128" type="Verse" s_name="9.06">
+			<phrase phr_id="2-07-00001-SKT01-000254">sarvebhyo darśanādibhyaḥ kaścit pūrvo na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000255">ajyate darśanādinām anyena punar anyadā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000129" type="Verse" s_name="9.07">
+			<phrase phr_id="2-07-00001-SKT01-000256">sarvebhyo darśanādibhyo yadi pūrvo na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000257">ekaikasmāt kathaṃ pūrvo darśanādeḥ sa vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000130" type="Verse" s_name="9.08">
+			<phrase phr_id="2-07-00001-SKT01-000258">draṣṭā sa eva sa śrotā sa eva yadi vedakaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000259">ekaikasmād bhavet pūrvam evaṃ caitan na yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000131" type="Verse" s_name="9.09">
+			<phrase phr_id="2-07-00001-SKT01-000260">draṣṭānya eva śrotānyo vedako 'nyaḥ punar yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000261">sati syād draṣṭari śrotā bahutvaṃ cātmanāṃ bhavet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000132" type="Verse" s_name="9.10">
+			<phrase phr_id="2-07-00001-SKT01-000262">darśanaśravaṇādīni vedanādīni cāpy atha</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000263">bhavanti yebhyas teṣv eṣa bhūteṣv api na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000133" type="Verse" s_name="9.11">
+			<phrase phr_id="2-07-00001-SKT01-000264">darśanaśravaṇādīni vedanādīni cāpy atha</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000265">na vidyate ced yasya sa na vidyanta imāny api</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000134" type="Verse" s_name="9.12">
+			<phrase phr_id="2-07-00001-SKT01-000266">prāk ca yo darśanādibhyaḥ sāṃprataṃ cordhvam eva ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000267">na vidyate 'sti nāstīti nivṛttās tatra kalpanāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000135" type="Verse" s_name="10.01">
+			<phrase phr_id="2-07-00001-SKT01-000268">yad indhanaṃ sa ced agnir ekatvaṃ kartṛkarmaṇoḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000269">anyaś ced indhanād agnir indhanād apy ṛte bhavet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000136" type="Verse" s_name="10.02">
+			<phrase phr_id="2-07-00001-SKT01-000270">nityapradīpta eva syād apradīpanahetukaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000271">punarārambhavaiyarthyam evaṃ cākarmakaḥ sati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000137" type="Verse" s_name="10.03">
+			<phrase phr_id="2-07-00001-SKT01-000272">paratra nirapekṣatvād apradīpanahetukaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000273">punarārambhavaiyarthyaṃ nityadīptaḥ prasajyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000138" type="Verse" s_name="10.04">
+			<phrase phr_id="2-07-00001-SKT01-000274">tatraitat syād idhyamānam indhanaṃ bhavatīti cet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000275">kenedhyatām indhanaṃ tat tāvanmātram idaṃ yadā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000139" type="Verse" s_name="10.05">
+			<phrase phr_id="2-07-00001-SKT01-000276">anyo na prāpsyate 'prapto na dhakṣyaty adahan punaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000277">na nirvāsyaty anirvāṇaḥ sthāsyate vā svaliṅgavān</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000140" type="Verse" s_name="10.06">
+			<phrase phr_id="2-07-00001-SKT01-000278">anya evandhanād agnir indhanaṃ prāpnuyād yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000279">strī saṃprāpnoti puruṣaṃ puruṣaś ca striyaṃ yathā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000141" type="Verse" s_name="10.07">
+			<phrase phr_id="2-07-00001-SKT01-000280">anya evendhanād agnir indhanaṃ kāmam āpnuyāt</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000281">agnīndhane yadi syātām anyonyena tiraskṛte</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000142" type="Verse" s_name="10.08">
+			<phrase phr_id="2-07-00001-SKT01-000282">yadīndhanam apekṣyāgnir apekṣyāgniṃ yadīndhanam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000283">katarat pūrvaniṣpannaṃ yad apekṣyāgnir indhanam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000143" type="Verse" s_name="10.09">
+			<phrase phr_id="2-07-00001-SKT01-000284">yadīndhanam apekṣyāgnir agneḥ siddhasya sādhanam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000285">evaṃ satīndhanaṃ cāpi bhaviṣyati niragnikam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000144" type="Verse" s_name="10.10">
+			<phrase phr_id="2-07-00001-SKT01-000286">yo 'pekṣya sidhyate bhāvas tam evāpekṣya sidhyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000287">yadi yo 'pekṣitavyaḥ sa sidhyatāṃ kam apekṣya kaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000145" type="Verse" s_name="10.11">
+			<phrase phr_id="2-07-00001-SKT01-000288">yo 'pekṣya sidhyate bhāvaḥ so 'siddho 'pekṣate katham</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000289">athāpy apekṣate siddhas tv apekṣāsya na yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000146" type="Verse" s_name="10.12">
+			<phrase phr_id="2-07-00001-SKT01-000290">apekṣyendhanam agnir na nānapekṣyāgnir indhanam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000291">apekṣyendhanam agniṃ na nānapekṣyāgnim indhanam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000147" type="Verse" s_name="10.13">
+			<phrase phr_id="2-07-00001-SKT01-000292">āgacchaty anyato nāgnir indhane 'gnir na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000293">atrendhane śeṣam uktaṃ gamyamānagatāgataiḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000148" type="Verse" s_name="10.14">
+			<phrase phr_id="2-07-00001-SKT01-000294">indhanaṃ punar agnir na nāgnir anyatra cendhanāt</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000295">nāgnir indhanavān nāgnāv indhanāni na teṣu saḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000149" type="Verse" s_name="10.15">
+			<phrase phr_id="2-07-00001-SKT01-000296">agnīndhanābhyāṃ vyākhyāta ātmopādānayoḥ kramaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000297">sarvo niravaśeṣeṇa sārdhaṃ ghaṭapaṭādibhiḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000150" type="Verse" s_name="10.16">
+			<phrase phr_id="2-07-00001-SKT01-000298">ātmanaś ca satattvaṃ ye bhāvānāṃ ca pṛthak pṛthak</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000299">nirdiśanti na tān manye śāsanasyārthakovidān</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000151" type="Verse" s_name="11.01">
+			<phrase phr_id="2-07-00001-SKT01-000300">pūrvā prajñāyate koṭir nety uvāca mahāmuniḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000301">saṃsāro 'navarāgro hi nāsyādir nāpi paścimam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000152" type="Verse" s_name="11.02">
+			<phrase phr_id="2-07-00001-SKT01-000302">naivāgraṃ nāvaraṃ yasya tasya madhyaṃ kuto bhavet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000303">tasmān nātropapadyante pūrvāparasahakramāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000153" type="Verse" s_name="11.03">
+			<phrase phr_id="2-07-00001-SKT01-000304">pūrvaṃ jātir yadi bhavej jarāmaraṇam uttaram</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000305">nirjarā maraṇā jātir bhavej jāyeta cāmṛtaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000154" type="Verse" s_name="11.04">
+			<phrase phr_id="2-07-00001-SKT01-000306">paścāj jātir yadi bhavej jarāmaraṇam āditaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000307">ahetukam ajātasya syāj jarāmaraṇaṃ katham</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000155" type="Verse" s_name="11.05">
+			<phrase phr_id="2-07-00001-SKT01-000308">na jarāmaraṇaṃ caiva jātiś ca saha yujyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000309">mriyeta jāyamānaś ca syāc cāhetukatobhayoḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000156" type="Verse" s_name="11.06">
+			<phrase phr_id="2-07-00001-SKT01-000310">yatra na prabhavanty ete pūrvāparasahakramāḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000311">prapañcayanti tāṃ jātiṃ taj jarāmaraṇaṃ ca kim</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000157" type="Verse" s_name="11.07">
+			<phrase phr_id="2-07-00001-SKT01-000312">kāryaṃ ca kāraṇaṃ caiva lakṣyaṃ lakṣaṇam eva ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000313">vedanā vedakaś caiva santy arthā ye ca ke cana</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000158" type="Verse" s_name="11.08">
+			<phrase phr_id="2-07-00001-SKT01-000314">pūrvā na vidyate koṭiḥ saṃsārasya na kevalam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000315">sarveṣām api bhāvānāṃ pūrvā koṭī na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000159" type="Verse" s_name="12.01">
+			<phrase phr_id="2-07-00001-SKT01-000316">svayaṃ kṛtaṃ parakṛtaṃ dvābhyāṃ kṛtam ahetukam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000317">duḥkham ity eka icchanti tac ca kāryaṃ na yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000160" type="Verse" s_name="12.02">
+			<phrase phr_id="2-07-00001-SKT01-000318">svayaṃ kṛtaṃ yadi bhavet pratītya na tato bhavet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000319">skandhān imān amī skandhāḥ saṃbhavanti pratītya hi</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000161" type="Verse" s_name="12.03">
+			<phrase phr_id="2-07-00001-SKT01-000320">yady amībhya ime 'nye syur ebhyo vāmī pare yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000321">bhavet parakṛtaṃ duḥkhaṃ parair ebhir amī kṛtāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000162" type="Verse" s_name="12.04">
+			<phrase phr_id="2-07-00001-SKT01-000322">svapudgalakṛtaṃ duḥkhaṃ yadi duḥkhaṃ punar vinā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000323">svapudgalaḥ sa katamo yena duḥkhaṃ svayaṃ kṛtam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000163" type="Verse" s_name="12.05">
+			<phrase phr_id="2-07-00001-SKT01-000324">parapudgalajaṃ duḥkhaṃ yadi yasmai pradīyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000325">pareṇa kṛtvā tad duḥkhaṃ sa duḥkhena vinā kutaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000164" type="Verse" s_name="12.06">
+			<phrase phr_id="2-07-00001-SKT01-000326">parapudgalajaṃ duḥkhaṃ yadi kaḥ parapudgalaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000327">vinā duḥkhena yaḥ kṛtvā parasmai prahiṇoti tat</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000165" type="Verse" s_name="12.07">
+			<phrase phr_id="2-07-00001-SKT01-000328">svayaṃ kṛtasyāprasiddher duḥkhaṃ parakṛtaṃ kutaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000329">paro hi duḥkhaṃ yat kuryāt tat tasya syāt svayaṃ kṛtam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000166" type="Verse" s_name="12.08">
+			<phrase phr_id="2-07-00001-SKT01-000330">na tāvat svakṛtaṃ duḥkhaṃ na hi tenaiva tat kṛtam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000331">paro nātmakṛtaś cet syād duḥkhaṃ parakṛtaṃ katham</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000167" type="Verse" s_name="12.09">
+			<phrase phr_id="2-07-00001-SKT01-000332">syād ubhābhyāṃ kṛtaṃ duḥkhaṃ syād ekaikakṛtaṃ yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000333">parākārāsvayaṃkāraṃ duḥkham ahetukaṃ kutaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000168" type="Verse" s_name="12.10">
+			<phrase phr_id="2-07-00001-SKT01-000334">na kevalaṃ hi duḥkhasya cāturvidhyaṃ na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000335">bāhyānām api bhāvānāṃ cāturvidhyaṃ na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000169" type="Verse" s_name="13.01">
+			<phrase phr_id="2-07-00001-SKT01-000336">tan mṛṣā moṣadharma yad bhagavān ity abhāṣata</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000337">sarve ca moṣadharmāṇaḥ saṃskārās tena te mṛṣā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000170" type="Verse" s_name="13.02">
+			<phrase phr_id="2-07-00001-SKT01-000338">tan mṛṣā moṣadharma yad yadi kiṃ tatra muṣyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000339">etat tūktaṃ bhagavatā śūnyatāparidīpakam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000171" type="Verse" s_name="13.03">
+			<phrase phr_id="2-07-00001-SKT01-000340">bhāvānāṃ niḥsvabhāvatvam anyathābhāvadarśanāt</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000341">nāsvabhāvaś ca bhāvo 'sti bhāvānāṃ śūnyatā yataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000172" type="Verse" s_name="13.04">
+			<phrase phr_id="2-07-00001-SKT01-000342">kasya syād anyathābhāvaḥ svabhāvaś cen na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000343">kasya syād anyathābhāvaḥ svabhāvo yadi vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000173" type="Verse" s_name="13.05">
+			<phrase phr_id="2-07-00001-SKT01-000344">tasyaiva nānyathābhāvo nāpy anyasyaiva yujyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000345">yuvā na jīryate yasmād yasmāj jīrṇo na jīryate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000174" type="Verse" s_name="13.06">
+			<phrase phr_id="2-07-00001-SKT01-000346">tasya ced anyathābhāvaḥ kṣīram eva bhaved dadhi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000347">kṣīrād anyasya kasyacid dadhibhāvo bhaviṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000175" type="Verse" s_name="13.07">
+			<phrase phr_id="2-07-00001-SKT01-000348">yady aśūnyaṃ bhavet kiṃcit syāc chūnyam iti kiṃ cana</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000349">na kiṃcid asty aśūnyaṃ ca kutaḥ śūnyaṃ bhaviṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000176" type="Verse" s_name="13.08">
+			<phrase phr_id="2-07-00001-SKT01-000350">śūnyatā sarvadṛṣṭīnāṃ proktā niḥsaraṇaṃ jinaiḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000351">yeṣāṃ tu śūnyatādṛṣṭis tān asādhyān babhāṣire</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000177" type="Verse" s_name="14.01">
+			<phrase phr_id="2-07-00001-SKT01-000352">draṣṭavyaṃ darśanaṃ draṣṭā trīṇy etāni dviśo dviśaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000353">sarvaśaś ca na saṃsargam anyonyena vrajanty uta</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000178" type="Verse" s_name="14.02">
+			<phrase phr_id="2-07-00001-SKT01-000354">evaṃ rāgaś ca raktaś ca rañjanīyaṃ ca dṛśyatām</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000355">traidhena śeṣāḥ kleśāś ca śeṣāṇy āyatanāni ca</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000179" type="Verse" s_name="14.03">
+			<phrase phr_id="2-07-00001-SKT01-000356">anyenānyasya saṃsargas tac cānyatvaṃ na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000357">draṣṭavyaprabhṛtīnāṃ yan na saṃsargaṃ vrajanty ataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000180" type="Verse" s_name="14.04">
+			<phrase phr_id="2-07-00001-SKT01-000358">na ca kevalam anyatvaṃ draṣṭavyāder na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000359">kasyacit kenacit sārdhaṃ nānyatvam upapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000181" type="Verse" s_name="14.05">
+			<phrase phr_id="2-07-00001-SKT01-000360">anyad anyat pratītyānyan nānyad anyad ṛte 'nyataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000361">yat pratītya ca yat tasmāt tad anyan nopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000182" type="Verse" s_name="14.06">
+			<phrase phr_id="2-07-00001-SKT01-000362">yady anyad anyad anyasmād anyasmād apy ṛte bhavet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000363">tad anyad anyad anyasmād ṛte nāsti ca nāsty ataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000183" type="Verse" s_name="14.07">
+			<phrase phr_id="2-07-00001-SKT01-000364">nānyasmin vidyate 'nyatvam ananyasmin na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000365">avidyamāne cānyatve nāsty anyad vā tad eva vā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000184" type="Verse" s_name="14.08">
+			<phrase phr_id="2-07-00001-SKT01-000366">na tena tasya saṃsargo nānyenānyasya yujyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000367">saṃsṛjyamānaṃ saṃsṛṣṭaṃ saṃsraṣṭā ca na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000185" type="Verse" s_name="15.01">
+			<phrase phr_id="2-07-00001-SKT01-000368">na saṃbhavaḥ svabhāvasya yuktaḥ pratyayahetubhiḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000369">hetupratyayasaṃbhūtaḥ svabhāvaḥ kṛtako bhavet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000186" type="Verse" s_name="15.02">
+			<phrase phr_id="2-07-00001-SKT01-000370">svabhāvaḥ kṛtako nāma bhaviṣyati punaḥ katham</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000371">akṛtrimaḥ svabhāvo hi nirapekṣaḥ paratra ca</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000187" type="Verse" s_name="15.03">
+			<phrase phr_id="2-07-00001-SKT01-000372">kutaḥ svabhāvasyābhāve parabhāvo bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000373">svabhāvaḥ parabhāvasya parabhāvo hi kathyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000188" type="Verse" s_name="15.04">
+			<phrase phr_id="2-07-00001-SKT01-000374">svabhāvaparabhāvābhyām ṛte bhāvaḥ kutaḥ punaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000375">svabhāve parabhāve ca sati bhāvo hi sidhyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000189" type="Verse" s_name="15.05">
+			<phrase phr_id="2-07-00001-SKT01-000376">bhāvasya ced aprasiddhir abhāvo naiva sidhyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000377">bhāvasya hy anyathābhāvam abhāvaṃ bruvate janāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000190" type="Verse" s_name="15.06">
+			<phrase phr_id="2-07-00001-SKT01-000378">svabhāvaṃ parabhāvaṃ ca bhāvaṃ cābhāvam eva ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000379">ye paśyanti na paśyanti te tattvaṃ buddhaśāsane</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000191" type="Verse" s_name="15.07">
+			<phrase phr_id="2-07-00001-SKT01-000380">kātyāyanāvavāde cāstīti nāstīti cobhayam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000381">pratiṣiddhaṃ bhagavatā bhāvābhāvavibhāvinā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000192" type="Verse" s_name="15.08">
+			<phrase phr_id="2-07-00001-SKT01-000382">yady astitvaṃ prakṛtyā syān na bhaved asya nāstitā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000383">prakṛter anyathābhāvo na hi jātūpapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000193" type="Verse" s_name="15.09">
+			<phrase phr_id="2-07-00001-SKT01-000384">prakṛtau kasya vāsatyām anyathātvaṃ bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000385">prakṛtau kasya vā satyām anyathātvaṃ bhaviṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000194" type="Verse" s_name="15.10">
+			<phrase phr_id="2-07-00001-SKT01-000386">astīti śāśvatagrāho nāstīty ucchedadarśanam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000387">tasmād astitvanāstitve nāśrīyeta vicakṣaṇaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000195" type="Verse" s_name="15.11">
+			<phrase phr_id="2-07-00001-SKT01-000388">asti yad dhi svabhāvena na tan nāstīti śāśvatam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000389">nāstīdānīm abhūt pūrvam ity ucchedaḥ prasajyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000196" type="Verse" s_name="16.01">
+			<phrase phr_id="2-07-00001-SKT01-000390">saṃskārāḥ saṃsaranti cen na nityāḥ saṃsaranti te</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000391">saṃsaranti ca nānityāḥ sattve 'py eṣa samaḥ kramaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000197" type="Verse" s_name="16.02">
+			<phrase phr_id="2-07-00001-SKT01-000392">pudgalaḥ saṃsarati cet skandhāyatanadhātuṣu</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000393">pañcadhā mṛgyamāṇo 'sau nāsti kaḥ saṃsariṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000198" type="Verse" s_name="16.03">
+			<phrase phr_id="2-07-00001-SKT01-000394">upādānād upādānaṃ saṃsaran vibhavo bhavet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000395">vibhavaś cānupādānaḥ kaḥ sa kiṃ saṃsariṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000199" type="Verse" s_name="16.04">
+			<phrase phr_id="2-07-00001-SKT01-000396">saṃskārāṇāṃ na nirvāṇaṃ kathaṃ cid upapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000397">sattvasyāpi na nirvāṇaṃ kathaṃ cid upapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000200" type="Verse" s_name="16.05">
+			<phrase phr_id="2-07-00001-SKT01-000398">na badhyante na mucyanta udayavyayadharmiṇaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000399">saṃskārāḥ pūrvavat sattvo badhyate na na mucyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000201" type="Verse" s_name="16.06">
+			<phrase phr_id="2-07-00001-SKT01-000400">bandhanaṃ ced upādānaṃ sopādāno na badhyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000401">badhyate nānupādānaḥ kimavastho 'tha badhyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000202" type="Verse" s_name="16.07">
+			<phrase phr_id="2-07-00001-SKT01-000402">badhnīyād bandhanaṃ kāmaṃ bandhyāt pūrvaṃ bhaved yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000403">na cāsti tac cheṣam uktaṃ gamyamānagatāgataiḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000203" type="Verse" s_name="16.08">
+			<phrase phr_id="2-07-00001-SKT01-000404">baddho na mucyate tāvad abaddho naiva mucyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000405">syātāṃ baddhe mucyamāne yugapad bandhamokṣaṇe</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000204" type="Verse" s_name="16.09">
+			<phrase phr_id="2-07-00001-SKT01-000406">nirvāsyāmy anupādāno nirvāṇaṃ me bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000407">iti yeṣāṃ grahas teṣām upādānamahāgrahaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000205" type="Verse" s_name="16.10">
+			<phrase phr_id="2-07-00001-SKT01-000408">na nirvāṇasamāropo na saṃsārāpakarṣaṇam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000409">yatra kas tatra saṃsāro nirvāṇaṃ kiṃ vikalpyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000206" type="Verse" s_name="17.01">
+			<phrase phr_id="2-07-00001-SKT01-000410">ātmasaṃyamakaṃ cetaḥ parānugrāhakaṃ ca yat</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000411">maitraṃ sa dharamas tad bījaṃ phalasya pretya ceha ca</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000207" type="Verse" s_name="17.02">
+			<phrase phr_id="2-07-00001-SKT01-000412">cetanā cetayitvā ca karmoktaṃ paramarṣiṇā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000413">tasyānekavidho bhedaḥ karmaṇaḥ parikīrtitaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000208" type="Verse" s_name="17.03">
+			<phrase phr_id="2-07-00001-SKT01-000414">tatra yac cetanety uktaṃ karma tan mānasaṃ smṛtam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000415">cetayitvā ca yat tūktaṃ tat tu kāyikavācikam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000209" type="Verse" s_name="17.04">
+			<phrase phr_id="2-07-00001-SKT01-000416">vāgviṣpando 'viratayo yāś cāvijñaptisaṃjñitāḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000417">avijñaptaya evānyāḥ smṛtā viratayas tathā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000210" type="Verse" s_name="17.05">
+			<phrase phr_id="2-07-00001-SKT01-000418">paribhogānvayaṃ puṇyam apuṇyaṃ ca tathāvidham</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000419">cetanā ceti saptaite dharmāḥ karmāñjanāḥ smṛtāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000211" type="Verse" s_name="17.06">
+			<phrase phr_id="2-07-00001-SKT01-000420">tiṣṭhaty ā pākakālāc cet karma tan nityatām iyāt</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000421">niruddhaṃ cen niruddhaṃ sat kiṃ phalaṃ janayiṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000212" type="Verse" s_name="17.07">
+			<phrase phr_id="2-07-00001-SKT01-000422">yo 'ṅkuraprabhṛtir bījāt saṃtāno 'bhipravartate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000423">tataḥ phalam ṛte bījāt sa ca nābhipravartate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000213" type="Verse" s_name="17.08">
+			<phrase phr_id="2-07-00001-SKT01-000424">bījāc ca yasmāt saṃtānaḥ saṃtānāc ca phalodbhavaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000425">bījapūrvaṃ phalaṃ tasmān nocchinnaṃ nāpi śāśvatam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000214" type="Verse" s_name="17.09">
+			<phrase phr_id="2-07-00001-SKT01-000426">yas tasmāc cittasaṃtānaś cetaso 'bhipravartate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000427">tataḥ phalam ṛte cittāt sa ca nābhipravartate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000215" type="Verse" s_name="17.10">
+			<phrase phr_id="2-07-00001-SKT01-000428">cittāc ca yasmāt saṃtānaḥ saṃtānāc ca phalodbhavaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000429">karmapūrvaṃ phalaṃ tasmān nocchinnaṃ nāpi śāśvatam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000216" type="Verse" s_name="17.11">
+			<phrase phr_id="2-07-00001-SKT01-000430">dharmasya sādhanopāyāḥ śuklāḥ karmapathā daśa</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000431">phalaṃ kāmaguṇāḥ pañca dharmasya pretya ceha ca</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000217" type="Verse" s_name="17.12">
+			<phrase phr_id="2-07-00001-SKT01-000432">bahavaś ca mahāntaś ca doṣāḥ syur yadi kalpanā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000433">syād eṣā tena naivaiṣā kalpanātropapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000218" type="Verse" s_name="17.13">
+			<phrase phr_id="2-07-00001-SKT01-000434">imāṃ punaḥ pravakṣyāmi kalpanāṃ yātra yojyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000435">buddhaiḥ pratyekabuddhaiś ca śrāvakaiś cānuvarṇitām</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000219" type="Verse" s_name="17.14">
+			<phrase phr_id="2-07-00001-SKT01-000436">pattraṃ yathā 'vipraṇāśastatharṇam iva karma ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000437">caturvidho dhātutaḥ sa prakṛtyāvyākṛtaś ca saḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000220" type="Verse" s_name="17.15">
+			<phrase phr_id="2-07-00001-SKT01-000438">prahāṇato na praheyo bhāvanāheya eva vā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000439">tasmād avipraṇāśena jāyate karmaṇāṃ phalam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000221" type="Verse" s_name="17.16">
+			<phrase phr_id="2-07-00001-SKT01-000440">prahāṇataḥ praheyaḥ syāt karmaṇaḥ saṃkrameṇa vā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000441">yadi doṣāḥ prasajyeraṃs tatra karmavadhādayaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000222" type="Verse" s_name="17.17">
+			<phrase phr_id="2-07-00001-SKT01-000442">sarveṣāṃ visabhāgānāṃ sabhāgānāṃ ca karmaṇām</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000443">pratisaṃdhau sadhātūnām eka utpadyate tu saḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000223" type="Verse" s_name="17.18">
+			<phrase phr_id="2-07-00001-SKT01-000444">karmaṇaḥ karmaṇo dṛṣṭe dharma utpadyate tu saḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000445">dviprakārasya sarvasya vipakve 'pi ca tiṣṭhati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000224" type="Verse" s_name="17.19">
+			<phrase phr_id="2-07-00001-SKT01-000446">phalavyatikramād vā sa maraṇād vā nirudhyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000447">anāsravaṃ sāsravaṃ ca vibhāgaṃ tatra lakṣayet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000225" type="Verse" s_name="17.20">
+			<phrase phr_id="2-07-00001-SKT01-000448">śūnyatā ca na cocchedaḥ saṃsāraś ca na śāśvatam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000449">karmaṇo 'vipraṇāśaś ca dharmo buddhena deśitaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000226" type="Verse" s_name="17.21">
+			<phrase phr_id="2-07-00001-SKT01-000450">karma notpadyate kasmān niḥsvabhāvaṃ yatas tataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000451">yasmāc ca tad anutpannaṃ na tasmād vipraṇaśyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000227" type="Verse" s_name="17.22">
+			<phrase phr_id="2-07-00001-SKT01-000452">karma svabhāvataś cet syāc chāśvataṃ syād asaṃśayam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000453">akṛtaṃ ca bhavet karma kriyate na hi śāśvatam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000228" type="Verse" s_name="17.23">
+			<phrase phr_id="2-07-00001-SKT01-000454">akṛtābhyāgamabhayaṃ syāt karmākṛtakaṃ yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000455">abrahmacaryavāsaś ca doṣastatra prasajyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000229" type="Verse" s_name="17.24">
+			<phrase phr_id="2-07-00001-SKT01-000456">vyavahārā virudhyante sarva eva na saṃśayaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000457">puṇyapāpakṛtor naiva pravibhāgaś ca yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000230" type="Verse" s_name="17.25">
+			<phrase phr_id="2-07-00001-SKT01-000458">tad vipakvavipākaṃ ca punar eva vipakṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000459">karma vyavasthitaṃ yasmāt tasmāt svābhāvikaṃ yadi</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000231" type="Verse" s_name="17.26">
+			<phrase phr_id="2-07-00001-SKT01-000460">karma kleśātmakaṃ cedaṃ te ca kleśā na tattvataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000461">na cet te tattvataḥ kleśāḥ karma syāt tattvataḥ katham</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000232" type="Verse" s_name="17.27">
+			<phrase phr_id="2-07-00001-SKT01-000462">karma kleśāś ca dehānāṃ pratyayāḥ samudāhṛtāḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000463">karma kleśāś ca te śūnyā yadi deheṣu kā kathā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000233" type="Verse" s_name="17.28">
+			<phrase phr_id="2-07-00001-SKT01-000464">avidyānivṛto jantus tṛṣṇāsaṃyojanaś ca saḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000465">sa bhoktā sa ca na kartur anyo na ca sa eva saḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000234" type="Verse" s_name="17.29">
+			<phrase phr_id="2-07-00001-SKT01-000466">na pratyayasamutpannaṃ nāpratyayasamutthitam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000467">asti yasmād idaṃ karma tasmāt kartāpi nāsty ataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000235" type="Verse" s_name="17.30">
+			<phrase phr_id="2-07-00001-SKT01-000468">karma cen nāsti kartā ca kutaḥ syāt karmajaṃ phalam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000469">asaty atha phale bhoktā kuta eva bhaviṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000236" type="Verse" s_name="17.31">
+			<phrase phr_id="2-07-00001-SKT01-000470">yathā nirmitakaṃ śāstā nirmimīta rddhisaṃpadā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000471">nirmito nirmimītānyaṃ sa ca nirmitakaḥ punaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000237" type="Verse" s_name="17.32">
+			<phrase phr_id="2-07-00001-SKT01-000472">tathā nirmitakākāraḥ kartā yat karma tat kṛtam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000473">tadyathā nirmitenānyo nirmito nirmitas tathā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000238" type="Verse" s_name="17.33">
+			<phrase phr_id="2-07-00001-SKT01-000474">kleśāḥ karmāṇi dehāś ca kartāraś ca phalāni ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000475">gandharvanagarākārā marīcisvapnasaṃnibhāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000239" type="Verse" s_name="18.01">
+			<phrase phr_id="2-07-00001-SKT01-000476">ātmā skandhā yadi bhaved udayavyayabhāg bhavet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000477">skandhebhyo 'nyo yadi bhaved bhaved askandhalakṣaṇaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000240" type="Verse" s_name="18.02">
+			<phrase phr_id="2-07-00001-SKT01-000478">ātmany asati cātmīyaṃ kuta eva bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000479">nirmamo nirahaṃkāraḥ śamād ātmātmanīnayoḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000241" type="Verse" s_name="18.03">
+			<phrase phr_id="2-07-00001-SKT01-000480">nirmamo nirahaṃkāro yaś ca so 'pi na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000481">nirmamaṃ nirahaṃkāraṃ yaḥ paśyati na paśyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000242" type="Verse" s_name="18.04">
+			<phrase phr_id="2-07-00001-SKT01-000482">mamety aham iti kṣīṇe bahirdhādhyātmam eva ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000483">nirudhyata upādānaṃ tatkṣayāj janmanaḥ kṣayaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000243" type="Verse" s_name="18.05">
+			<phrase phr_id="2-07-00001-SKT01-000484">karmakleśakṣayān mokṣaḥ karmakleśā vikalpataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000485">te prapañcāt prapañcas tu śūnyatāyāṃ nirudhyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000244" type="Verse" s_name="18.06">
+			<phrase phr_id="2-07-00001-SKT01-000486">ātmety api prajñapitam anātmety api deśitam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000487">buddhair nātmā na cānātmā kaścid ity api deśitam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000245" type="Verse" s_name="18.07">
+			<phrase phr_id="2-07-00001-SKT01-000488">nivṛttam abhidhātavyaṃ nivṛttaś cittagocaraḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000489">anutpannāniruddhā hi nirvāṇam iva dharmatā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000246" type="Verse" s_name="18.08">
+			<phrase phr_id="2-07-00001-SKT01-000490">sarvaṃ tathyaṃ na vā tathyaṃ tathyaṃ cātathyam eva ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000491">naivātathyaṃ naiva tathyam etad buddhānuśāsanam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000247" type="Verse" s_name="18.09">
+			<phrase phr_id="2-07-00001-SKT01-000492">aparapratyayaṃ śāntaṃ prapañcair aprapañcitam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000493">nirvikalpam anānārtham etat tattvasya lakṣaṇam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000248" type="Verse" s_name="18.10">
+			<phrase phr_id="2-07-00001-SKT01-000494">pratītya yad yad bhavati na hi tāvat tad eva tat</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000495">na cānyadapi tattasmānnocchinnaṃ nāpi śāśvatam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000249" type="Verse" s_name="18.11">
+			<phrase phr_id="2-07-00001-SKT01-000496">anekārtham anānārtham anucchedam aśāśvatam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000497">etat tal lokanāthānāṃ buddhānāṃ śāsanāmṛtam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000250" type="Verse" s_name="18.12">
+			<phrase phr_id="2-07-00001-SKT01-000498">saṃbuddhānām anutpāde śrāvakāṇāṃ punaḥ kṣaye</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000499">jñānaṃ pratyekabuddhānām asaṃsargāt pravartate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000251" type="Verse" s_name="19.01">
+			<phrase phr_id="2-07-00001-SKT01-000500">pratyutpanno 'nāgataś ca yady atītam apekṣya hi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000501">pratyutpanno 'nāgataś ca kāle 'tīte bhaviṣyataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000252" type="Verse" s_name="19.02">
+			<phrase phr_id="2-07-00001-SKT01-000502">pratyutpanno 'nāgataś ca na stas tatra punar yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000503">pratyutpanno 'nāgataś ca syātāṃ katham apekṣya tam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000253" type="Verse" s_name="19.03">
+			<phrase phr_id="2-07-00001-SKT01-000504">anapekṣya punaḥ siddhir nātītaṃ vidyate tayoḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000505">pratyutpanno 'nāgataś ca tasmāt kālo na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000254" type="Verse" s_name="19.04">
+			<phrase phr_id="2-07-00001-SKT01-000506">etenaivāvaśiṣṭau dvau krameṇa parivartakau</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000507">uttamādhamamadhyādīn ekatvādīṃś ca lakṣayet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000255" type="Verse" s_name="19.05">
+			<phrase phr_id="2-07-00001-SKT01-000508">nāsthito gṛhyate kālaḥ sthitaḥ kālo na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000509">yo gṛhyetāgṛhītaś ca kālaḥ prajñapyate katham</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000256" type="Verse" s_name="19.06">
+			<phrase phr_id="2-07-00001-SKT01-000510">bhāvaṃ pratītya kālaś cet kālo bhāvād ṛte kutaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000511">na ca kaś cana bhāvo 'sti kutaḥ kālo bhaviṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000257" type="Verse" s_name="20.01">
+			<phrase phr_id="2-07-00001-SKT01-000512">hetoś ca pratyayānāṃ ca sāmagryā jāyate yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000513">phalamasti ca sāmagryāṃ sāmagryā jāyate katham</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000258" type="Verse" s_name="20.02">
+			<phrase phr_id="2-07-00001-SKT01-000514">hetoś ca pratyayānāṃ ca sāmagryā jāyate yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000515">phalaṃ nāsti ca sāmagryāṃ sāmagryā jāyate katham</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000259" type="Verse" s_name="20.03">
+			<phrase phr_id="2-07-00001-SKT01-000516">hetoś ca pratyayānāṃ ca sāmagryām asti cet phalam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000517">gṛhyeta nanu sāmagryāṃ sāmagryāṃ ca na gṛhyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000260" type="Verse" s_name="20.04">
+			<phrase phr_id="2-07-00001-SKT01-000518">hetoś ca pratyayānāṃ ca sāmagryāṃ nāsti cet phalam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000519">hetavaḥ pratyayāś ca syur ahetupratyayaiḥ samāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000261" type="Verse" s_name="20.05">
+			<phrase phr_id="2-07-00001-SKT01-000520">hetuṃ phalasya dattvā ca yadi hetur nirudhyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000521">yad dattaṃ yan nirudhaṃ ca hetor ātmadvayaṃ bhavet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000262" type="Verse" s_name="20.06">
+			<phrase phr_id="2-07-00001-SKT01-000522">hetuṃ phalasyādattvā ca yadi hetur nirudhyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000523">hetau niruddhe jātaṃ tat phalam āhetukaṃ bhavet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000263" type="Verse" s_name="20.07">
+			<phrase phr_id="2-07-00001-SKT01-000524">phalaṃ sahaiva sāmagryā yadi prādurbhavet punaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000525">ekakālau prasajyete janako yaś ca janyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000264" type="Verse" s_name="20.08">
+			<phrase phr_id="2-07-00001-SKT01-000526">pūrvam eva ca sāmagryāḥ phalaṃ prādurbhaved yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000527">hetupratyayanirmuktaṃ phalam āhetukaṃ bhavet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000265" type="Verse" s_name="20.09">
+			<phrase phr_id="2-07-00001-SKT01-000528">niruddhe cet phalaṃ hetau hetoḥ saṃkramaṇaṃ bhavet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000529">pūrvajātasya hetoś ca punarjanma prasajyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000266" type="Verse" s_name="20.10">
+			<phrase phr_id="2-07-00001-SKT01-000530">janayet phalam utpannaṃ niruddho 'staṃgataḥ katham</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000531">hetus tiṣṭhann api kathaṃ phalena janayed vṛtaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000267" type="Verse" s_name="20.11">
+			<phrase phr_id="2-07-00001-SKT01-000532">athāvṛtaḥ phalenāsau katamaj janayet phalam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000533">na hy adṛṣṭvā na dṛṣṭvāpi hetur janayate phalam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000268" type="Verse" s_name="20.12">
+			<phrase phr_id="2-07-00001-SKT01-000534">nātītasya hy atītena phalasya saha hetunā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000535">nājātena na jātena saṃgatir jātu vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000269" type="Verse" s_name="20.13">
+			<phrase phr_id="2-07-00001-SKT01-000536">na jātasya hy ajātena phalasya saha hetunā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000537">nātītena na jātena saṃgatir jātu vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000270" type="Verse" s_name="20.14">
+			<phrase phr_id="2-07-00001-SKT01-000538">nājātasya hi jātena phalasya saha hetunā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000539">nājātena na naṣṭena saṃgatir jātu vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000271" type="Verse" s_name="20.15">
+			<phrase phr_id="2-07-00001-SKT01-000540">asatyāṃ saṃgatau hetuḥ kathaṃ janayate phalam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000541">satyāṃ vā saṃgatau hetuḥ kathaṃ janayate phalam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000272" type="Verse" s_name="20.16">
+			<phrase phr_id="2-07-00001-SKT01-000542">hetuḥ phalena śūnyaś cet kathaṃ janayate phalam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000543">hetuḥ phalenāśūnyaś cet kathaṃ janayate phalam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000273" type="Verse" s_name="20.17">
+			<phrase phr_id="2-07-00001-SKT01-000544">phalaṃ notpatsyate 'śūnyam aśūnyaṃ na nirotsyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000545">aniruddham anutpannam aśūnyaṃ tad bhaviṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000274" type="Verse" s_name="20.18">
+			<phrase phr_id="2-07-00001-SKT01-000546">katham utpatsyate śūnyaṃ kathaṃ śūnyaṃ nirotsyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000547">śūnyam apy aniruddhaṃ tad anutpannaṃ prasajyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000275" type="Verse" s_name="20.19">
+			<phrase phr_id="2-07-00001-SKT01-000548">hetoḥ phalasya caikatvaṃ na hi jātūpapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000549">hetoḥ phalasya cānyatvaṃ na hi jātūpapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000276" type="Verse" s_name="20.20">
+			<phrase phr_id="2-07-00001-SKT01-000550">ekatve phalahetvoḥ syād aikyaṃ janakajanyayoḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000551">pṛthaktve phalahetvoḥ syāt tulyo hetur ahetunā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000277" type="Verse" s_name="20.21">
+			<phrase phr_id="2-07-00001-SKT01-000552">phalaṃ svabhāvasadbhūtaṃ kiṃ hetur janayiṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000553">phalaṃ svabhāvāsadbhūtaṃ kiṃ hetur janayiṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000278" type="Verse" s_name="20.22">
+			<phrase phr_id="2-07-00001-SKT01-000554">na cājanayamānasya hetutvam upapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000555">hetutvānupapattau ca phalaṃ kasya bhaviṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000279" type="Verse" s_name="20.23">
+			<phrase phr_id="2-07-00001-SKT01-000556">na ca pratyayahetūnām iyam ātmānam ātmanā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000557">yā sāmagrī janayate sā kathaṃ janayet phalam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000280" type="Verse" s_name="20.24">
+			<phrase phr_id="2-07-00001-SKT01-000558">na sāmagrīkṛtaṃ phalaṃ nāsāmagrīkṛtaṃ phalam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000559">asti pratyayasāmagrī kuta eva phalaṃ vinā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000281" type="Verse" s_name="21.01">
+			<phrase phr_id="2-07-00001-SKT01-000560">vinā vā saha vā nāsti vibhavaḥ saṃbhavena vai</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000561">vinā vā saha vā nāsti saṃbhavo vibhavena vai</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000282" type="Verse" s_name="21.02">
+			<phrase phr_id="2-07-00001-SKT01-000562">bhaviṣyati kathaṃ nāma vibhavaḥ saṃbhavaṃ vinā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000563">vinaiva janma maraṇaṃ vibhavo nodbhavaṃ vinā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000283" type="Verse" s_name="21.03">
+			<phrase phr_id="2-07-00001-SKT01-000564">saṃbhavenaiva vibhavaḥ kathaṃ saha bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000565">na janma maraṇaṃ caivaṃ tulyakālaṃ hi vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000284" type="Verse" s_name="21.04">
+			<phrase phr_id="2-07-00001-SKT01-000566">bhaviṣyati kathaṃ nāma saṃbhavo vibhavaṃ vinā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000567">anityatā hi bhāveṣu na kadācin na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000285" type="Verse" s_name="21.05">
+			<phrase phr_id="2-07-00001-SKT01-000568">saṃbhavo vibhavenaiva kathaṃ saha bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000569">na janma maraṇaṃ caiva tulyakālaṃ hi vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000286" type="Verse" s_name="21.06">
+			<phrase phr_id="2-07-00001-SKT01-000570">sahānyonyena vā siddhir vinānyonyena vā yayoḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000571">na vidyate tayoḥ siddhiḥ kathaṃ nu khalu vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000287" type="Verse" s_name="21.07">
+			<phrase phr_id="2-07-00001-SKT01-000572">kṣayasya saṃbhavo nāsti nākṣayasyāsti saṃbhavaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000573">kṣayasya vibhavo nāsti vibhavo nākṣayasya ca</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000288" type="Verse" s_name="21.08">
+			<phrase phr_id="2-07-00001-SKT01-000574">saṃbhavo vibhavaś caiva vinā bhāvaṃ na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000575">saṃbhavaṃ vibhavaṃ caiva vinā bhāvo na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000289" type="Verse" s_name="21.09">
+			<phrase phr_id="2-07-00001-SKT01-000576">saṃbhavo vibhavaś caiva na śūnyasyopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000577">saṃbhavo vibhavaś caiva nāśūnyasyopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000290" type="Verse" s_name="21.10">
+			<phrase phr_id="2-07-00001-SKT01-000578">saṃbhavo vibhavaś caiva naika ity upapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000579">saṃbhavo vibhavaś caiva na nānety upapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000291" type="Verse" s_name="21.11">
+			<phrase phr_id="2-07-00001-SKT01-000580">dṛśyate saṃbhavaścaiva vibhavaś caiva te bhavet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000581">dṛśyate saṃbhavaścaiva mohād vibhava eva ca</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000292" type="Verse" s_name="21.12">
+			<phrase phr_id="2-07-00001-SKT01-000582">na bhāvāj jāyate bhāvo bhāvo 'bhāvān na jāyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000583">nābhāvāj jāyate 'bhāvo 'bhāvo bhāvān na jāyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000293" type="Verse" s_name="21.13">
+			<phrase phr_id="2-07-00001-SKT01-000584">na svato jāyate bhāvaḥ parato naiva jāyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000585">na svataḥ parataś caiva jāyate jāyate kutaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000294" type="Verse" s_name="21.14">
+			<phrase phr_id="2-07-00001-SKT01-000586">bhāvam abhyupapannasya śāśvatocchedadarśanam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000587">prasajyate sa bhāvo hi nityo 'nityo 'tha vā bhavet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000295" type="Verse" s_name="21.15">
+			<phrase phr_id="2-07-00001-SKT01-000588">bhāvam abhyupapannasya naivocchedo na śāśvatam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000589">udayavyayasaṃtānaḥ phalahetvor bhavaḥ sa hi</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000296" type="Verse" s_name="21.16">
+			<phrase phr_id="2-07-00001-SKT01-000590">udayavyayasaṃtānaḥ phalahetvor bhavaḥ sa cet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000591">vyayasyāpunarutpatter hetūcchedaḥ prasajyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000297" type="Verse" s_name="21.17">
+			<phrase phr_id="2-07-00001-SKT01-000592">sadbhāvasya svabhāvena nāsadbhāvaś ca yujyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000593">nirvāṇakāle cocchedaḥ praśamād bhavasaṃtateḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000298" type="Verse" s_name="21.18">
+			<phrase phr_id="2-07-00001-SKT01-000594">carame na niruddhe ca prathamo yujyate bhavaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000595">carame nāniruddhe ca prathamo yujyate bhavaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000299" type="Verse" s_name="21.19">
+			<phrase phr_id="2-07-00001-SKT01-000596">nirudhyamāne carame prathamo yadi jāyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000597">nirudhyamāna ekaḥ syāj jāyamāno 'paro bhavet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000300" type="Verse" s_name="21.20">
+			<phrase phr_id="2-07-00001-SKT01-000598">na cen nirudhyamānaś ca jāyamānaś ca yujyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000599">sārdhaṃ ca mriyate yeṣu teṣu skandheṣu jāyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000301" type="Verse" s_name="21.21">
+			<phrase phr_id="2-07-00001-SKT01-000600">evaṃ triṣv api kāleṣu na yuktā bhavasaṃtatiḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000601">triṣu kāleṣu yā nāsti sā kathaṃ bhavasaṃtatiḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000302" type="Verse" s_name="22.01">
+			<phrase phr_id="2-07-00001-SKT01-000602">skandhā na nānyaḥ skandhebhyo nāsmin skandhā na teṣu saḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000603">tathāgataḥ skandhavān na katamo 'tra tathāgataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000303" type="Verse" s_name="22.02">
+			<phrase phr_id="2-07-00001-SKT01-000604">buddhaḥ skandhān upādāya yadi nāsti svabhāvataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000605">svabhāvataś ca yo nāsti kutaḥ sa parabhāvataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000304" type="Verse" s_name="22.03">
+			<phrase phr_id="2-07-00001-SKT01-000606">pratītya parabhāvaṃ yaḥ so 'nātmety upapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000607">yaś cānātmā sa ca kathaṃ bhaviṣyati tathāgataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000305" type="Verse" s_name="22.04">
+			<phrase phr_id="2-07-00001-SKT01-000608">yadi nāsti svabhāvaś ca parabhāvaḥ kathaṃ bhavet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000609">svabhāvaparabhāvābhyām ṛte kaḥ sa tathāgataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000306" type="Verse" s_name="22.05">
+			<phrase phr_id="2-07-00001-SKT01-000610">skandhān yady anupādāya bhavet kaścit tathāgataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000611">sa idānīm upādadyād upādāya tato bhavet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000307" type="Verse" s_name="22.06">
+			<phrase phr_id="2-07-00001-SKT01-000612">skandhāṃś cāpy anupādāya nāsti kaścit tathāgataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000613">yaś ca nāsty anupādāya sa upādāsyate katham</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000308" type="Verse" s_name="22.07">
+			<phrase phr_id="2-07-00001-SKT01-000614">na bhavaty anupādattam upādānaṃ ca kiṃ cana</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000615">na cāsti nirupādānaḥ kathaṃ cana tathāgataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000309" type="Verse" s_name="22.08">
+			<phrase phr_id="2-07-00001-SKT01-000616">tattvānyatvena yo nāsti mṛgyamāṇaś ca pañcadhā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000617">upādānena sa kathaṃ prajñapyate tathāgataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000310" type="Verse" s_name="22.09">
+			<phrase phr_id="2-07-00001-SKT01-000618">yad apīdam upādānaṃ tat svabhāvān na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000619">svabhāvataś ca yan nāsti kutas tat parabhāvataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000311" type="Verse" s_name="22.10">
+			<phrase phr_id="2-07-00001-SKT01-000620">evaṃ śūnyam upādānam upādātā ca sarvaśaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000621">prajñapyate ca śūnyena kathaṃ śūnyas tathāgataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000312" type="Verse" s_name="22.11">
+			<phrase phr_id="2-07-00001-SKT01-000622">śūnyam iti na vaktavyam aśūnyam iti vā bhavet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000623">ubhayaṃ nobhayaṃ ceti prajñaptyarthaṃ tu kathyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000313" type="Verse" s_name="22.12">
+			<phrase phr_id="2-07-00001-SKT01-000624">śāśvatāśāśvatādy atra kutaḥ śānte catuṣṭayam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000625">antānantādi cāpy atra kutaḥ śānte catuṣṭayam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000314" type="Verse" s_name="22.13">
+			<phrase phr_id="2-07-00001-SKT01-000626">ghanagrāho gṛhītas tu yenāstīti tathāgataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000627">nāstīti sa vikalpayan nirvṛtasyāpi kalpayet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000315" type="Verse" s_name="22.14">
+			<phrase phr_id="2-07-00001-SKT01-000628">svabhāvataś ca śūnye 'smiṃś cintā naivopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000629">paraṃ nirodhād bhavati buddho na bhavatīti vā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000316" type="Verse" s_name="22.15">
+			<phrase phr_id="2-07-00001-SKT01-000630">prapañcayanti ye buddhaṃ prapañcātītam avyayam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000631">te prapañcahatāḥ sarve na paśyanti tathāgatam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000317" type="Verse" s_name="22.16">
+			<phrase phr_id="2-07-00001-SKT01-000632">tathāgato yatsvabhāvas tatsvabhāvam idaṃ jagat</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000633">tathāgato niḥsvabhāvo niḥsvabhāvam idaṃ jagat</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000318" type="Verse" s_name="23.01">
+			<phrase phr_id="2-07-00001-SKT01-000634">saṃkalpaprabhavo rāgo dveṣo mohaś ca kathyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000635">śubhāśubhaviparyāsān saṃbhavanti pratītya hi</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000319" type="Verse" s_name="23.02">
+			<phrase phr_id="2-07-00001-SKT01-000636">śubhāśubhaviparyāsān saṃbhavanti pratītya ye</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000637">te svabhāvān na vidyante tasmāt kleśā na tattvataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000320" type="Verse" s_name="23.03">
+			<phrase phr_id="2-07-00001-SKT01-000638">ātmano 'stitvanāstitve na kathaṃ cic ca sidhyataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000639">taṃ vināstitvanāstitve kleśānāṃ sidhyataḥ katham</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000321" type="Verse" s_name="23.04">
+			<phrase phr_id="2-07-00001-SKT01-000640">kasya cid dhi bhavantīme kleśāḥ sa ca na sidhyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000641">kaścid āho vinā kaṃcit santi kleśā na kasyacit</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000322" type="Verse" s_name="23.05">
+			<phrase phr_id="2-07-00001-SKT01-000642">svakāyadṛṣṭivat kleśāḥ kliṣṭe santi na pañcadhā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000643">svakāyadṛṣṭivat kliṣṭaṃ kleśeṣv api na pañcadhā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000323" type="Verse" s_name="23.06">
+			<phrase phr_id="2-07-00001-SKT01-000644">svabhāvato na vidyante śubhāśubhaviparyayāḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000645">pratītya katamān kleśāḥ śubhāśubhaviparyayān</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000324" type="Verse" s_name="23.07">
+			<phrase phr_id="2-07-00001-SKT01-000646">rūpaśabdarasasparśā gandhā dharmāś ca ṣaḍvidham</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000647">vastu rāgasya doṣasya mohasya ca vikalpyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000325" type="Verse" s_name="23.08">
+			<phrase phr_id="2-07-00001-SKT01-000648">rūpaśabdarasasparśā gandhā dharmāś ca kevalāḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000649">gandharvanagarākārā marīcisvapnasaṃnibhāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000326" type="Verse" s_name="23.09">
+			<phrase phr_id="2-07-00001-SKT01-000650">aśubhaṃ vā śubhaṃ vāpi kutas teṣu bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000651">māyāpuruṣakalpeṣu pratibimbasameṣu ca</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000327" type="Verse" s_name="23.10">
+			<phrase phr_id="2-07-00001-SKT01-000652">anapekṣya śubhaṃ nāsty aśubhaṃ prajñapayemahi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000653">yat pratītya śubhaṃ tasmāc chubhaṃ naivopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000328" type="Verse" s_name="23.11">
+			<phrase phr_id="2-07-00001-SKT01-000654">anapekṣyāśubhaṃ nāsti śubhaṃ prajñapayemahi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000655">yat pratītyāśubhaṃ tasmād aśubhaṃ naiva vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000329" type="Verse" s_name="23.12">
+			<phrase phr_id="2-07-00001-SKT01-000656">avidyamāne ca śubhe kuto rāgo bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000657">aśubhe 'vidyamāne ca kuto dveṣo bhaviṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000330" type="Verse" s_name="23.13">
+			<phrase phr_id="2-07-00001-SKT01-000658">anitye nityam ity evaṃ yadi grāho viparyayaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000659">nānityaṃ vidyate śūnye kuto grāho viparyayaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000331" type="Verse" s_name="23.14">
+			<phrase phr_id="2-07-00001-SKT01-000660">anitye nityam ity evaṃ yadi grāho viparyayaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000661">anityam ity api grāhaḥ śūnye kiṃ na viparyayaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000332" type="Verse" s_name="23.15">
+			<phrase phr_id="2-07-00001-SKT01-000662">yena gṛhṇāti yo grāho grahītā yac ca gṛhyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000663">upaśāntāni sarvāṇi tasmād grāho na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000333" type="Verse" s_name="23.16">
+			<phrase phr_id="2-07-00001-SKT01-000664">avidyamāne grāhe ca mithyā vā samyag eva vā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000665">bhaved viparyayaḥ kasya bhavet kasyāviparyayaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000334" type="Verse" s_name="23.17">
+			<phrase phr_id="2-07-00001-SKT01-000666">na cāpi viparītasya saṃbhavanti viparyayāḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000667">na cāpy aviparītasya saṃbhavanti viparyayāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000335" type="Verse" s_name="23.18">
+			<phrase phr_id="2-07-00001-SKT01-000668">na viparyasyamānasya saṃbhavanti viparyayāḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000669">vimṛśasva svayaṃ kasya saṃbhavanti viparyayāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000336" type="Verse" s_name="23.19">
+			<phrase phr_id="2-07-00001-SKT01-000670">anutpannāḥ kathaṃ nāma bhaviṣyanti viparyayāḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000671">viparyayeṣv ajāteṣu viparyayagataḥ kutaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000337" type="Verse" s_name="23.20">
+			<phrase phr_id="2-07-00001-SKT01-000672">na svato jāyate bhāvaḥ parato naiva jāyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000673">na svataḥ parataś ceti viparyayagataḥ kutaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000338" type="Verse" s_name="23.21">
+			<phrase phr_id="2-07-00001-SKT01-000674">ātmā ca śuci nityaṃ ca sukhaṃ ca yadi vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000675">ātmā ca śuci nityaṃ ca sukhaṃ ca na viparyayaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000339" type="Verse" s_name="23.22">
+			<phrase phr_id="2-07-00001-SKT01-000676">nātmā ca śuci nityaṃ ca sukhaṃ ca yadi vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000677">anātmā 'śucy anityaṃ ca naiva duḥkhaṃ ca vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000340" type="Verse" s_name="23.23">
+			<phrase phr_id="2-07-00001-SKT01-000678">evaṃ nirudhyate 'vidyā viparyayanirodhanāt</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000679">avidyāyāṃ niruddhāyāṃ saṃskārādyaṃ nirudhyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000341" type="Verse" s_name="23.24">
+			<phrase phr_id="2-07-00001-SKT01-000680">yadi bhūtāḥ svabhāvena kleśāḥ kecid dhi kasyacit</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000681">kathaṃ nāma prahīyeran kaḥ svabhāvaṃ prahāsyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000342" type="Verse" s_name="23.25">
+			<phrase phr_id="2-07-00001-SKT01-000682">yady abhūtāḥ svabhāvena kleśāḥ kecid dhi kasyacit</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000683">kathaṃ nāma prahīyeran ko 'sadbhāvaṃ prahāsyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000343" type="Verse" s_name="24.01">
+			<phrase phr_id="2-07-00001-SKT01-000684">yadi śūnyam idaṃ sarvam udayo nāsti na vyayaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000685">caturṇām āryasatyānām abhāvas te prasajyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000344" type="Verse" s_name="24.02">
+			<phrase phr_id="2-07-00001-SKT01-000686">parijñā ca prahāṇaṃ ca bhāvanā sākṣikarma ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000687">caturṇām āryasatyānām abhāvān nopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000345" type="Verse" s_name="24.03">
+			<phrase phr_id="2-07-00001-SKT01-000688">tadabhāvān na vidyante catvāry āryaphalāni ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000689">phalābhāve phalasthā no na santi pratipannakāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000346" type="Verse" s_name="24.04">
+			<phrase phr_id="2-07-00001-SKT01-000690">saṃgho nāsti na cet santi te 'ṣṭau puruṣapudgalāḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000691">abhāvāc cāryasatyānāṃ saddharmo 'pi na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000347" type="Verse" s_name="24.05">
+			<phrase phr_id="2-07-00001-SKT01-000692">dharme cāsati saṃghe ca kathaṃ buddho bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000693">evaṃ trīṇy api ratnāni bruvāṇaḥ pratibādhase</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000348" type="Verse" s_name="24.06">
+			<phrase phr_id="2-07-00001-SKT01-000694">śūnyatāṃ phalasadbhāvam adharmaṃ dharmam eva ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000695">sarvasaṃvyavahārāṃś ca laukikān pratibādhase</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000349" type="Verse" s_name="24.07">
+			<phrase phr_id="2-07-00001-SKT01-000696">atra brūmaḥ śūnyatāyāṃ na tvaṃ vetsi prayojanam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000697">śūnyatāṃ śūnyatārthaṃ ca tata evaṃ vihanyase</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000350" type="Verse" s_name="24.08">
+			<phrase phr_id="2-07-00001-SKT01-000698">dve satye samupāśritya buddhānāṃ dharmadeśanā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000699">lokasaṃvṛtisatyaṃ ca satyaṃ ca paramārthataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000351" type="Verse" s_name="24.09">
+			<phrase phr_id="2-07-00001-SKT01-000700">ye 'nayor na vijānanti vibhāgaṃ satyayor dvayoḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000701">te tattvaṃ na vijānanti gambhīraṃ buddhaśāsane</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000352" type="Verse" s_name="24.10">
+			<phrase phr_id="2-07-00001-SKT01-000702">vyavahāram anāśritya paramārtho na deśyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000703">paramārtham anāgamya nirvāṇaṃ nādhigamyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000353" type="Verse" s_name="24.11">
+			<phrase phr_id="2-07-00001-SKT01-000704">vināśayati durdṛṣtā śūnyatā mandamedhasam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000705">sarpo yathā durgṛhīto vidyā vā duṣprasādhitā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000354" type="Verse" s_name="24.12">
+			<phrase phr_id="2-07-00001-SKT01-000706">ataś ca pratyudāvṛttaṃ cittaṃ deśayituṃ muneḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000707">dharmaṃ matvāsya dharmasya mandair duravagāhatām</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000355" type="Verse" s_name="24.13">
+			<phrase phr_id="2-07-00001-SKT01-000708">śūnyatāyām adhilayaṃ yaṃ punaḥ kurute bhavān</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000709">doṣaprasaṅgo nāsmākaṃ sa śūnye nopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000356" type="Verse" s_name="24.14">
+			<phrase phr_id="2-07-00001-SKT01-000710">sarvaṃ ca yujyate tasya śūnyatā yasya yujyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000711">sarvaṃ na yujyate tasya śūnyaṃ yasya na yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000357" type="Verse" s_name="24.15">
+			<phrase phr_id="2-07-00001-SKT01-000712">sa tvaṃ doṣān ātmanīyān asmāsu paripātayan</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000713">aśvam evābhirūḍhaḥ sann aśvam evāsi vismṛtaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000358" type="Verse" s_name="24.16">
+			<phrase phr_id="2-07-00001-SKT01-000714">svabhāvād yadi bhāvānāṃ sadbhāvam anupaśyasi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000715">ahetupratyayān bhāvāṃs tvam evaṃ sati paśyasi</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000359" type="Verse" s_name="24.17">
+			<phrase phr_id="2-07-00001-SKT01-000716">kāryaṃ ca kāraṇaṃ caiva kartāraṃ karaṇaṃ kriyām</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000717">utpādaṃ ca nirodhaṃ ca phalaṃ ca pratibādhase</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000360" type="Verse" s_name="24.18">
+			<phrase phr_id="2-07-00001-SKT01-000718">yaḥ pratītyasamutpādaḥ śūnyatāṃ tāṃ pracakṣmahe</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000719">sā prajñaptir upādāya pratipat saiva madhyamā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000361" type="Verse" s_name="24.19">
+			<phrase phr_id="2-07-00001-SKT01-000720">apratītya samutpanno dharmaḥ kaścin na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000721">yasmāt tasmād aśūnyo hi dharmaḥ kaścin na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000362" type="Verse" s_name="24.20">
+			<phrase phr_id="2-07-00001-SKT01-000722">yady aśūnyam idaṃ sarvam udayo nāsti na vyayaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000723">caturṇām āryasatyānām abhāvas te prasajyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000363" type="Verse" s_name="24.21">
+			<phrase phr_id="2-07-00001-SKT01-000724">apratītya samutpannaṃ kuto duḥkhaṃ bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000725">anityam uktaṃ duḥkhaṃ hi tat svābhāvye na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000364" type="Verse" s_name="24.22">
+			<phrase phr_id="2-07-00001-SKT01-000726">svabhāvato vidyamānaṃ kiṃ punaḥ samudeṣyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000727">tasmāt samudayo nāsti śūnyatāṃ pratibādhataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000365" type="Verse" s_name="24.23">
+			<phrase phr_id="2-07-00001-SKT01-000728">na nirodhaḥ svabhāvena sato duḥkhasya vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000729">svabhāvaparyavasthānān nirodhaṃ pratibādhase</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000366" type="Verse" s_name="24.24">
+			<phrase phr_id="2-07-00001-SKT01-000730">svābhāvye sati mārgasya bhāvanā nopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000731">athāsau bhāvyate mārgaḥ svābhāvyaṃ te na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000367" type="Verse" s_name="24.25">
+			<phrase phr_id="2-07-00001-SKT01-000732">yadā duḥkhaṃ samudayo nirodhaś ca na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000733">mārgo duḥkhanirodhatvāt katamaḥ prāpayiṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000368" type="Verse" s_name="24.26">
+			<phrase phr_id="2-07-00001-SKT01-000734">svabhāvenāparijñānaṃ yadi tasya punaḥ katham</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000735">parijñānaṃ nanu kila svabhāvaḥ samavasthitaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000369" type="Verse" s_name="24.27">
+			<phrase phr_id="2-07-00001-SKT01-000736">prahāṇasākṣātkaraṇe bhāvanā caivam eva te</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000737">parijñāvan na yujyante catvāry api phalāni ca</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000370" type="Verse" s_name="24.28">
+			<phrase phr_id="2-07-00001-SKT01-000738">svabhāvenānadhigataṃ yat phalaṃ tat punaḥ katham</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000739">śakyaṃ samadhigantuṃ syāt svabhāvaṃ parigṛhṇataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000371" type="Verse" s_name="24.29">
+			<phrase phr_id="2-07-00001-SKT01-000740">phalābhāve phalasthā no na santi pratipannakāḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000741">saṃgho nāsti na cet santi te 'ṣṭau puruṣapudgalāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000372" type="Verse" s_name="24.30">
+			<phrase phr_id="2-07-00001-SKT01-000742">abhāvāc cāryasatyānāṃ saddharmo 'pi na vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000743">dharme cāsati saṃghe ca kathaṃ buddho bhaviṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000373" type="Verse" s_name="24.31">
+			<phrase phr_id="2-07-00001-SKT01-000744">apratītyāpi bodhiṃ ca tava buddhaḥ prasajyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000745">apratītyāpi buddhaṃ ca tava bodhiḥ prasajyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000374" type="Verse" s_name="24.32">
+			<phrase phr_id="2-07-00001-SKT01-000746">yaś cābuddhaḥ svabhāvena sa bodhāya ghaṭann api</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000747">na bodhisattvacaryāyāṃ bodhiṃ te 'dhigamiṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000375" type="Verse" s_name="24.33">
+			<phrase phr_id="2-07-00001-SKT01-000748">na ca dharmam adharmaṃ vā kaścij jātu kariṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000749">kim aṣūnyasya kartavyaṃ svabhāvaḥ kriyate na hi</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000376" type="Verse" s_name="24.34">
+			<phrase phr_id="2-07-00001-SKT01-000750">vinā dharmam adharmaṃ ca phalaṃ hi tava vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000751">dharmādharmanimittaṃ ca phalaṃ tava na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000377" type="Verse" s_name="24.35">
+			<phrase phr_id="2-07-00001-SKT01-000752">dharmādharmanimittaṃ vā yadi te vidyate phalam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000753">dharmādharmasamutpannam aśūnyaṃ te kathaṃ phalam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000378" type="Verse" s_name="24.36">
+			<phrase phr_id="2-07-00001-SKT01-000754">sarvasaṃvyvahārāṃś ca laukikān pratibādhase</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000755">yat pratītyasamutpādaśūnyatāṃ pratibādhase</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000379" type="Verse" s_name="24.37">
+			<phrase phr_id="2-07-00001-SKT01-000756">na kartavyaṃ bhavet kiṃcid anārabdhā bhavet kriyā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000757">kārakaḥ syād akurvāṇaḥ śūnyatāṃ pratibādhataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000380" type="Verse" s_name="24.38">
+			<phrase phr_id="2-07-00001-SKT01-000758">ajātam aniruddhaṃ ca kūṭaśthaṃ ca bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000759">vicitrābhir avasthābhiḥ svabhāve rahitaṃ jagat</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000381" type="Verse" s_name="24.39">
+			<phrase phr_id="2-07-00001-SKT01-000760">asaṃprāptasya ca prāptir duḥkhaparyantakarma ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000761">sarvakleśaprahāṇaṃ ca yady aśūnyaṃ na vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000382" type="Verse" s_name="24.40">
+			<phrase phr_id="2-07-00001-SKT01-000762">yaḥ pratītyasamutpādaṃ paśyatīdaṃ sa paśyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000763">duḥkhaṃ samudayaṃ caiva nirodhaṃ mārgam eva ca</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000383" type="Verse" s_name="25.01">
+			<phrase phr_id="2-07-00001-SKT01-000764">yadi śūnyam idaṃ sarvam udayo nāsti na vyayaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000765">prahāṇād vā nirodhād vā kasya nirvāṇam iṣyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000384" type="Verse" s_name="25.02">
+			<phrase phr_id="2-07-00001-SKT01-000766">yady aśūnyam idaṃ sarvam udayo nāsti na vyayaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000767">prahāṇād vā nirodhād vā kasya nirvāṇam iṣyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000385" type="Verse" s_name="25.03">
+			<phrase phr_id="2-07-00001-SKT01-000768">aprahīṇam asaṃprāptam anucchinnam aśāśvatam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000769">aniruddham anutpannam etan nirvāṇam ucyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000386" type="Verse" s_name="25.04">
+			<phrase phr_id="2-07-00001-SKT01-000770">bhāvas tāvan na nirvāṇaṃ jarāmaraṇalakṣaṇam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000771">prasajyetāsti bhāvo hi na jarāmaraṇaṃ vinā</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000387" type="Verse" s_name="25.05">
+			<phrase phr_id="2-07-00001-SKT01-000772">bhāvaś ca yadi nirvāṇaṃ nirvāṇaṃ saṃskṛtaṃ bhavet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000773">nāsaṃskṛto hi vidyate bhāvaḥ kva cana kaś cana</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000388" type="Verse" s_name="25.06">
+			<phrase phr_id="2-07-00001-SKT01-000774">bhāvaś ca yadi nirvāṇam anupādāya tat katham</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000775">nirvāṇaṃ nānupādāya kaścid bhāvo hi vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000389" type="Verse" s_name="25.07">
+			<phrase phr_id="2-07-00001-SKT01-000776">bhāvo yadi na nirvāṇam abhāvaḥ kiṃ bhaviṣyati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000777">nirvāṇaṃ yatra bhāvo na nābhāvas tatra vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000390" type="Verse" s_name="25.08">
+			<phrase phr_id="2-07-00001-SKT01-000778">yady abhāvaś ca nirvāṇam anupādāya tat katham</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000779">nirvāṇaṃ na hy abhāvo 'sti yo 'nupādāya vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000391" type="Verse" s_name="25.09">
+			<phrase phr_id="2-07-00001-SKT01-000780">ya ājavaṃjavībhāva upādāya pratītya vā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000781">so 'pratītyānupādāya nirvāṇam upadiśyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000392" type="Verse" s_name="25.10">
+			<phrase phr_id="2-07-00001-SKT01-000782">prahāṇaṃ cābravīc chāstā bhavasya vibhavasya ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000783">tasmān na bhāvo nābhāvo nirvāṇam iti yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000393" type="Verse" s_name="25.11">
+			<phrase phr_id="2-07-00001-SKT01-000784">bhaved abhāvo bhāvaś ca nirvāṇam ubhayaṃ yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000785">bhaved abhāvo bhāvaś ca mokṣas tac ca na yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000394" type="Verse" s_name="25.12">
+			<phrase phr_id="2-07-00001-SKT01-000786">bhaved abhāvo bhāvaś ca nirvāṇam ubhayaṃ yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000787">nānupādāya nirvāṇam upādāyobhayaṃ hi tat</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000395" type="Verse" s_name="25.13">
+			<phrase phr_id="2-07-00001-SKT01-000788">bhaved abhāvo bhāvaś ca nirvāṇam ubhayaṃ katham</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000789">asaṃskṛtaṃ hi nirvāṇaṃ bhāvābhāvau ca saṃskṛtau</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000396" type="Verse" s_name="25.14">
+			<phrase phr_id="2-07-00001-SKT01-000790">bhaved abhāvo bhāvaś ca nirvāṇa ubhayaṃ katham</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000791">tayor abhāvo hy ekatra prakāśatamasor iva</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000397" type="Verse" s_name="25.15">
+			<phrase phr_id="2-07-00001-SKT01-000792">naivābhāvo naiva bhāvo nirvāṇam iti yā 'ñjanā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000793">abhāve caiva bhāve ca sā siddhe sati sidhyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000398" type="Verse" s_name="25.16">
+			<phrase phr_id="2-07-00001-SKT01-000794">naivābhāvo naiva bhāvo nirvāṇaṃ yadi vidyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000795">naivābhāvo naiva bhāva iti kena tad ajyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000399" type="Verse" s_name="25.17">
+			<phrase phr_id="2-07-00001-SKT01-000796">paraṃ nirodhād bhagavān bhavatīty eva nājyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000797">na bhavaty ubhayaṃ ceti nobhayaṃ ceti nājyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000400" type="Verse" s_name="25.18">
+			<phrase phr_id="2-07-00001-SKT01-000798">tiṣṭhamāno 'pi bhagavān bhavatīty eva nājyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000799">na bhavaty ubhayaṃ ceti nobhayaṃ ceti nājyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000401" type="Verse" s_name="25.19">
+			<phrase phr_id="2-07-00001-SKT01-000800">na saṃsārasya nirvāṇāt kiṃcid asti viśeṣaṇam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000801">na nirvāṇasya saṃsārāt kiṃcid asti viśeṣaṇam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000402" type="Verse" s_name="25.20">
+			<phrase phr_id="2-07-00001-SKT01-000802">nirvāṇasya ca yā koṭiḥ koṭiḥ saṃsaraṇasya ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000803">na tayor antaraṃ kiṃcit susūkṣmam api vidyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000403" type="Verse" s_name="25.21">
+			<phrase phr_id="2-07-00001-SKT01-000804">paraṃ nirodhād antādyāḥ śāśvatādyāś ca dṛṣṭayaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000805">nirvāṇam aparāntaṃ ca pūrvāntaṃ ca samāśritāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000404" type="Verse" s_name="25.22">
+			<phrase phr_id="2-07-00001-SKT01-000806">śūnyeṣu sarvadharmeṣu kim anantaṃ kim antavat</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000807">kim anantam antavac ca nānantaṃ nāntavac ca kim</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000405" type="Verse" s_name="25.23">
+			<phrase phr_id="2-07-00001-SKT01-000808">kiṃ tad eva kim anyat kiṃ śāśvataṃ kim aśāśvatam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000809">aśāśvataṃ śāśvataṃ ca kiṃ vā nobhayam apy atha</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000406" type="Verse" s_name="25.24">
+			<phrase phr_id="2-07-00001-SKT01-000810">sarvopalambhopaśamaḥ prapañcopaśamaḥ śivaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000811">na kva cit kasyacit kaścid dharmo buddhena deśitaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000407" type="Verse" s_name="26.01">
+			<phrase phr_id="2-07-00001-SKT01-000812">punarbhavāya saṃskārān avidyānivṛtas tridhā</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000813">abhisaṃskurute yāṃs tair gatiṃ gacchati karmabhiḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000408" type="Verse" s_name="26.02">
+			<phrase phr_id="2-07-00001-SKT01-000814">vijñānaṃ saṃniviśate saṃskārapratyayaṃ gatau</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000815">saṃniviṣṭe 'tha vijñāne nāmarūpaṃ niṣicyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000409" type="Verse" s_name="26.03">
+			<phrase phr_id="2-07-00001-SKT01-000816">niṣikte nāmarūpe tu ṣaḍāyatanasaṃbhavaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000817">ṣaḍāyatanam āgamya saṃsparśaḥ saṃpravartate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000410" type="Verse" s_name="26.04">
+			<phrase phr_id="2-07-00001-SKT01-000818">cakṣuḥ pratītya rūpaṃ ca samanvāhāram eva ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000819">nāmarūpaṃ pratītyaivaṃ vijñānaṃ saṃpravartate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000411" type="Verse" s_name="26.05">
+			<phrase phr_id="2-07-00001-SKT01-000820">saṃnipātas trayāṇāṃ yo rūpavijñānacakṣuṣām</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000821">sparśaḥ sa tasmāt sparśāc ca vedanā saṃpravartate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000412" type="Verse" s_name="26.06">
+			<phrase phr_id="2-07-00001-SKT01-000822">vedanāpratyayā tṛṣṇā vedanārthaṃ hi tṛṣyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000823">tṛṣyamāṇa upādānam upādatte caturvidham</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000413" type="Verse" s_name="26.07">
+			<phrase phr_id="2-07-00001-SKT01-000824">upādāne sati bhava upādātuḥ pravartate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000825">syād dhi yady anupādāno mucyeta na bhaved bhavaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000414" type="Verse" s_name="26.08">
+			<phrase phr_id="2-07-00001-SKT01-000826">pañca skandhāḥ sa ca bhavo bhavāj jātiḥ pravartate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000827">jarāmaraṇaduḥkhādi śokāḥ saparidevanāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000415" type="Verse" s_name="26.09">
+			<phrase phr_id="2-07-00001-SKT01-000828">daurmanasyam upāyāsā jāter etat pravartate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000829">kevalasyaivam etasya duḥkhaskandhasya saṃbhavaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000416" type="Verse" s_name="26.10">
+			<phrase phr_id="2-07-00001-SKT01-000830">saṃsāramūlaṃ saṃskārān avidvān saṃskaroty ataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000831">avidvān kārakas tasmān na vidvāṃs tattvadarśanāt</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000417" type="Verse" s_name="26.11">
+			<phrase phr_id="2-07-00001-SKT01-000832">avidyāyāṃ niruddhāyāṃ saṃskārāṇām asaṃbhavaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000833">avidyāyā nirodhas tu jñānasyāsyaiva bhāvanāt</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000418" type="Verse" s_name="26.12">
+			<phrase phr_id="2-07-00001-SKT01-000834">tasya tasya nirodhena tat tan nābhipravartate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000835">duḥkhaskandhaḥ kevalo 'yam evaṃ samyag nirudhyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000419" type="Verse" s_name="27.01">
+			<phrase phr_id="2-07-00001-SKT01-000836">abhūm atītam adhvānaṃ nābhūvam iti dṛṣṭayaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000837">yās tāḥ śāśvatalokādyāḥ pūrvāntaṃ samupāśritāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000420" type="Verse" s_name="27.02">
+			<phrase phr_id="2-07-00001-SKT01-000838">dṛṣṭayo na bhaviṣyāmi kim anyo 'nāgate 'dhvani</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000839">bhaviṣyāmīti cāntādyā aparāntaṃ samāśritāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000421" type="Verse" s_name="27.03">
+			<phrase phr_id="2-07-00001-SKT01-000840">abhūm atītam adhvānam ity etan nopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000841">yo hi janmasu pūrveṣu sa eva na bhavaty ayam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000422" type="Verse" s_name="27.04">
+			<phrase phr_id="2-07-00001-SKT01-000842">sa evātmeti tu bhaved upādānaṃ viśiṣyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000843">upādānavinirmukta ātmā te katamaḥ punaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000423" type="Verse" s_name="27.05">
+			<phrase phr_id="2-07-00001-SKT01-000844">upādānavinirmukto nāsty ātmeti kṛte sati</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000845">syād upādānam evātmā nāsti cātmeti vaḥ punaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000424" type="Verse" s_name="27.06">
+			<phrase phr_id="2-07-00001-SKT01-000846">na copādānam evātmā vyeti tat samudeti ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000847">kathaṃ hi nāmopādānam upādātā bhaviṣyati</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000425" type="Verse" s_name="27.07">
+			<phrase phr_id="2-07-00001-SKT01-000848">anyaḥ punar upādānād ātmā naivopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000849">gṛhyeta hy anupādāno yady anyo na ca gṛhyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000426" type="Verse" s_name="27.08">
+			<phrase phr_id="2-07-00001-SKT01-000850">evaṃ nānya upādānān na copādānam eva saḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000851">ātmā nāsty anupādāno nāpi nāsty eṣa niścayaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000427" type="Verse" s_name="27.09">
+			<phrase phr_id="2-07-00001-SKT01-000852">nābhūm atītam adhvānam ity etan nopapadyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000853">yo hi janmasu pūrveṣu tato 'nyo na bhavaty ayam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000428" type="Verse" s_name="27.10">
+			<phrase phr_id="2-07-00001-SKT01-000854">yadi hy ayaṃ bhaved anyaḥ pratyākhyāyāpi taṃ bhavet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000855">tathaiva ca sa saṃtiṣṭhet tatra jāyeta cāmṛtaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000429" type="Verse" s_name="27.11">
+			<phrase phr_id="2-07-00001-SKT01-000856">ucchedaḥ karmaṇāṃ nāśaḥ kṛtam anyena karma ca</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000857">pratisaṃvedayed anya evam ādi prasajyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000430" type="Verse" s_name="27.12">
+			<phrase phr_id="2-07-00001-SKT01-000858">nāpy abhūtvā samudbhūto doṣo hy atra prasajyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000859">kṛtako vā bhaved ātmā saṃbhūto vāpy ahetukaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000431" type="Verse" s_name="27.13">
+			<phrase phr_id="2-07-00001-SKT01-000860">evaṃ dṛṣtir atīte yā nābhūm aham abhūm aham</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000861">ubhayaṃ nobhayaṃ ceti naiṣā samupapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000432" type="Verse" s_name="27.14">
+			<phrase phr_id="2-07-00001-SKT01-000862">adhvany anāgate kiṃ nu bhaviṣyāmīti darśanam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000863">na bhaviṣyāmi cety etad atītenādhvanā samam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000433" type="Verse" s_name="27.15">
+			<phrase phr_id="2-07-00001-SKT01-000864">sa devaḥ sa manuṣyaś ced evaṃ bhavati śāśvatam</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000865">anutpannaś ca devaḥ syāj jāyate na hi śāśvatam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000434" type="Verse" s_name="27.16">
+			<phrase phr_id="2-07-00001-SKT01-000866">devād anyo manuṣyaś ced aśāśvatam ato bhavet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000867">devād anyo manuṣyaś cet saṃtatir nopapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000435" type="Verse" s_name="27.17">
+			<phrase phr_id="2-07-00001-SKT01-000868">divyo yady ekadeśaḥ syād ekdeśaś ca mānuṣaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000869">aśāśvataṃ śāśvataṃ ca bhavet tac ca na yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000436" type="Verse" s_name="27.18">
+			<phrase phr_id="2-07-00001-SKT01-000870">aśāśvataṃ śāśvataṃ ca prasiddham ubhayaṃ yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000871">siddhe na śāśvataṃ kāmaṃ naivāśāśvatam ity api</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000437" type="Verse" s_name="27.19">
+			<phrase phr_id="2-07-00001-SKT01-000872">kutaścid āgataḥ kaścit kiṃcid gacchet punaḥ kva cit</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000873">yadi tasmād anādis tu saṃsāraḥ syān na cāsti saḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000438" type="Verse" s_name="27.20">
+			<phrase phr_id="2-07-00001-SKT01-000874">nāsti cec chāśvataḥ kaścit ko bhaviṣyaty aśāśvataḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000875">śāśvato 'śāśvataś cāpi dvābhyām ābhyāṃ tiraskṛtaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000439" type="Verse" s_name="27.21">
+			<phrase phr_id="2-07-00001-SKT01-000876">antavān yadi lokaḥ syāt paralokaḥ kathaṃ bhavet</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000877">athāpy anantavāl lokaḥ paralokaḥ kathaṃ bhavet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000440" type="Verse" s_name="27.22">
+			<phrase phr_id="2-07-00001-SKT01-000878">skandhānām eṣa saṃtāno yasmād dīpārciṣām iva</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000879">tasmān nānantavattvaṃ ca nāntavattvaṃ ca yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000441" type="Verse" s_name="27.23">
+			<phrase phr_id="2-07-00001-SKT01-000880">pūrve yadi ca bhajyerann utpadyeran na cāpy amī</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000881">skandhāḥ skandhān pratītyemān atha loko 'ntavān bhavet</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000442" type="Verse" s_name="27.24">
+			<phrase phr_id="2-07-00001-SKT01-000882">pūrve yadi na bhajyerann utpadyeran na cāpyamī</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000883">skandhāḥ skandhān pratītyemāl loko 'nanto bhaved atha</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000443" type="Verse" s_name="27.25">
+			<phrase phr_id="2-07-00001-SKT01-000884">antavān ekadeśaś ced ekadeśas tv anantavān</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000885">syād antavān anantaś ca lokas tac ca na yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000444" type="Verse" s_name="27.26">
+			<phrase phr_id="2-07-00001-SKT01-000886">kathaṃ tāvad upādātur ekadeśo vinaṅkṣyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000887">na naṅkṣyate caikadeśa evaṃ caitan na yujyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000445" type="Verse" s_name="27.27">
+			<phrase phr_id="2-07-00001-SKT01-000888">upādānaikadeśaś ca kathaṃ nāma vinaṅkṣyate</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000889">na naṅkṣyate caikadeśo naitad apy upapadyate</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000446" type="Verse" s_name="27.28">
+			<phrase phr_id="2-07-00001-SKT01-000890">antavac cāpy anantaṃ ca prasiddham ubhayaṃ yadi</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000891">siddhe naivāntavat kāmaṃ naivānantavad ity api</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000447" type="Verse" s_name="27.29">
+			<phrase phr_id="2-07-00001-SKT01-000892">atha vā sarvabhāvānāṃ śūnyatvāc chāśvatādayaḥ</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000893">kva kasya katamāḥ kasmāt saṃbhaviṣyanti dṛṣṭayaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-07-00001-SKT01-SID000448" type="Verse" s_name="27.30">
+			<phrase phr_id="2-07-00001-SKT01-000894">sarvadṛṣṭiprahāṇāya yaḥ saddharmam adeśayat</phrase>
+			<phrase phr_id="2-07-00001-SKT01-000895">anukampām upādāya taṃ namasyāmi gautamam</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

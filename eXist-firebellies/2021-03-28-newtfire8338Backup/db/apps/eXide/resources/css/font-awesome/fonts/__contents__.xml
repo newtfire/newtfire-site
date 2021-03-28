@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/resources/css/font-awesome/fonts" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="fontawesome-webfont.svg" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="fontawesome-webfont.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fontawesome-webfont.ttf" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="fontawesome-webfont.ttf" mimetype="application/octet-stream" blob-id="e43eb148ca4b3414a4bcd910cf557b75b275231510b46e1fc31427209cdbfeba">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FontAwesome.otf" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="FontAwesome.otf" mimetype="application/octet-stream" blob-id="11f67c87accf779a76e76d68986c9ba73afeb167af8779de79d74f72eb0aeb22">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fontawesome-webfont.woff" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="fontawesome-webfont.woff" mimetype="application/font-woff" blob-id="43cb66279d0932148b9b6b1d66d76eb24b05eb5b52cc94d039cebcb2939f0e41">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fontawesome-webfont.eot" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="fontawesome-webfont.eot" mimetype="application/octet-stream" blob-id="c0ef9526979cf21019d8e9241e7fa28ca12fd803e90a98207fca6f73042625b8">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

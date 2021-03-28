@@ -1,0 +1,54 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/2018_classExQueries" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:57-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="PeepsinMitford.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58-04:00" modified="2020-08-07T21:20:58-04:00" filename="PeepsinMitford.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQueryEx2ClassEx.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57-04:00" modified="2020-08-07T21:20:57-04:00" filename="XQueryEx2ClassEx.xql" mimetype="application/xquery" blob-id="39fede48c4922bcb3c5a3c0448bb5f38c5d0cbeec8e0ec778b5ca9bb7ad377b9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelinePart2PreSVG.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57-04:00" modified="2020-08-07T21:20:57-04:00" filename="timelinePart2PreSVG.xql" mimetype="application/xquery" blob-id="3a82796c062ac77a350db7e0bae072b3b87d65da0ee2e5cf91c5ce15b549db35">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MitfordSI.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57-04:00" modified="2020-08-07T21:20:57-04:00" filename="MitfordSI.tsv" mimetype="application/xml" blob-id="5288686411e79ee29a7be8b2335dec5e5d4f779442631e2ed58156af7d159af9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SchismMapData.kml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58-04:00" modified="2020-08-07T21:20:58-04:00" filename="SchismMapData.kml" mimetype="application/xml" blob-id="7edb0924fa81ac5f4b67df3ade95e793e2a0a1896eeff42257282e244be431d4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DecameronNetworkData.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58-04:00" modified="2020-08-07T21:20:58-04:00" filename="DecameronNetworkData.tsv" mimetype="application/xml" blob-id="5288686411e79ee29a7be8b2335dec5e5d4f779442631e2ed58156af7d159af9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AkiraNetData.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58-04:00" modified="2020-08-07T21:20:58-04:00" filename="AkiraNetData.tsv" mimetype="application/xml" blob-id="a80bfeecdc187fe626db6c38d7e3f324c81d136e9762b62d16c72ec3eb2aebbe">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AkiraPowerBar_HSLColors.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58-04:00" modified="2020-08-07T21:20:58-04:00" filename="AkiraPowerBar_HSLColors.xql" mimetype="application/xquery" blob-id="da7ad0e3b52c69c0686bbc38f77fb1876767681f07715bb7e012c7c8cb58974d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelinePart2Starter.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58-04:00" modified="2020-08-07T21:20:58-04:00" filename="timelinePart2Starter.xql" mimetype="application/xquery" blob-id="95ba1648acc0c0a93670de4839480883f9d7cb93a39192652b6ec7a68c44a9ab">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SchismMapData.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58-04:00" modified="2020-08-07T21:20:58-04:00" filename="SchismMapData.txt" mimetype="text/plain" blob-id="55fe23546f2b0a062e5fc1f2f282bf181009e80cba53736b75fa3c381cc8fda6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuery_to_KML_2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58-04:00" modified="2020-08-07T21:20:58-04:00" filename="XQuery_to_KML_2.xql" mimetype="application/xquery" blob-id="15eaf024013d77ec062ff20715e352dc2e01772e937fadd6c3d80195fc7ec7fe">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuery_to_KML_1.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58-04:00" modified="2020-08-07T21:20:58-04:00" filename="XQuery_to_KML_1.xql" mimetype="application/xquery" blob-id="3f50e4e2841c8b9d424ca99f4cffbf3012208b1f311faba501a49d9bd85de86c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelineStarter_ebb.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58-04:00" modified="2020-08-07T21:20:58-04:00" filename="timelineStarter_ebb.xql" mimetype="application/xquery" blob-id="b8e6735e8de3b14d8b6b778c97acefe6bd57014f43cc070c3e3f1ebe8964e5ba">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelineMidway_ebb.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58-04:00" modified="2020-08-07T21:20:58-04:00" filename="timelineMidway_ebb.xql" mimetype="application/xquery" blob-id="8af438e5c79b8d1523914747305d8e49dad0cc8117af6c9c287526a602502229">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelinePREStarter_ebb.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58-04:00" modified="2020-08-07T21:20:58-04:00" filename="timelinePREStarter_ebb.xql" mimetype="application/xquery" blob-id="4b4076ff06e4bdafc27e62b3e24c5b84c189966cbf618a29c25cef4514fd2e80">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="decameronTesting.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:59-04:00" modified="2020-08-07T21:20:59-04:00" filename="decameronTesting.xql" mimetype="application/xquery" blob-id="acf69b5dd309ef8bd6fe7ffa7e2595c402e2a5ea9f07127f40f38f0511aa713b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dcNetFinished.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:59-04:00" modified="2020-08-07T21:20:59-04:00" filename="dcNetFinished.xql" mimetype="application/xquery" blob-id="3e08f57c4e4f50ab8d86412d9dc3050c5be6bb42bba2980b342e76e3f5214750">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

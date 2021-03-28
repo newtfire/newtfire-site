@@ -1,0 +1,31 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/existdb-packagemanager" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="icon.svg" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="icon.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="existdb-packages.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="existdb-packages.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="configuration.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="configuration.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="existdb-packagemanager.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="existdb-packagemanager.html" mimetype="text/html" blob-id="ddb155621970d66fdd0183f713975eababb98398164296e61d31cbfdc40501c4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="existdb-package-remove-action.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="existdb-package-remove-action.html" mimetype="text/html" blob-id="4cfbdb9438307745a4768b21f8271374078f4e4cda8e8630e8ed541cbc0b2bcf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="controller.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="controller.xql" mimetype="application/xquery" blob-id="8d88bf483697fc7be421096a38627f1e32708a62d65bcc0e82ec9ba99b8c460e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="packagemanager-app.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="packagemanager-app.html" mimetype="text/html" blob-id="3d9075254bd39f229cdf156d4d4f622185f06c1fac6b6b00299749347251bb17">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="existdb-package-install-action.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="existdb-package-install-action.html" mimetype="text/html" blob-id="dfdf9146939e77f7246e5c55b7d599f6d453abb901a8d3a77514e5dcb457536b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dependencies.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="dependencies.html" mimetype="text/html" blob-id="f5b58fa5f404afe7143197199d840f9607ffd010f083c834630fc825c4af15eb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="modules" filename="modules"/>
+</collection>

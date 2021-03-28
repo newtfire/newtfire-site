@@ -1,0 +1,25 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/repo/semver-xq-2.2.1" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:23-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="expath-pkg.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="expath-pkg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="exist.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="exist.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cxan.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="cxan.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="repo.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="repo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="README.md" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="README.md" mimetype="text/markdown" blob-id="7a01e2cbb527d7e09dc577973038770f961cb5b56acc85606344143f13518461">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="LICENSE" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="LICENSE" mimetype="application/octet-stream" blob-id="56a7032e00d5037ef6cc1b4cbf900339dec604e9ef06a4c02fa34d7c690a5c4e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="icon.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="icon.png" mimetype="image/png" blob-id="6b7bb7f21a9ca7fceb32cd4df63ca567a5fc0575c3de53434bca23a533715747">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="content" filename="content"/>
+</collection>

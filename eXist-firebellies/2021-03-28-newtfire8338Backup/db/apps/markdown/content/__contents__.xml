@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/markdown/content" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:36-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="markdown.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:37-04:00" modified="2020-08-07T02:48:37-04:00" filename="markdown.xql" mimetype="application/xquery" blob-id="ac9e7736223d80ad09adcfe9b444a74e3900961bce398ad0a313ef3f3c665b5b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tei-config.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:37-04:00" modified="2020-08-07T02:48:37-04:00" filename="tei-config.xql" mimetype="application/xquery" blob-id="fee13d673485ebc92e7da6f7435eeb2d7ee9e89fcd7c2fbd788fa32101ec434a">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

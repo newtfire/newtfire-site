@@ -1,0 +1,453 @@
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-07-00125-SPA01.xml"/>
+		<title>Bodhipathapradīpa</title>
+		<author>Atīśa Dīpaṃkaraśrījñāna</author>
+		<unifiedCatalogID>2-07-00125</unifiedCatalogID>
+		<sourceDesc>
+			<bibl>
+				<title>Lámpara para el camino a la iluminación</title>
+				<author>Marta Saro</author>
+				<pubInfo>Dharamsala</pubInfo>
+				<date>2012</date>
+			</bibl>
+		</sourceDesc>
+		<creation date="Mon Feb 31 4:20:37 2020"/>
+		<processed date="Mon Feb 31 4:20:37 2020" ver="v.1.0" auth="Hackett"/>
+		<processed date="Tue Mar 31 04:19:18 2020" ver="v.1.01" auth="XMLTagEnglish v.1.08"/>
+	</head>
+	<text>
+		<sentence s_id="2-07-00125-SPA01-SID000001" type="Text Title">
+			<phrase phr_id="2-07-00125-SPA01-000001">Lámpara para el camino a la iluminación</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000002" type="Sentence">
+			<phrase phr_id="2-07-00125-SPA01-000002">¡Homenaje al joven bodisatva Manyushri!</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000003" type="Verse" s_name="1">
+			<phrase phr_id="2-07-00125-SPA01-000003">A los budas de los tres tiempos, a su dharma</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000004">y a la shanga me postro con gran devoción.</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000005">Por encargo del amable discípulo Yangchub Woe,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000006">debo alumbrar la lámpara para el camino a la iluminación.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000004" type="Verse" s_name="2">
+			<phrase phr_id="2-07-00125-SPA01-000007">Que hay pequeños, medianos y mejores:</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000008">tres tipos de seres, debemos conocer.</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000009">Hay que aclarar cuales son sus definiciones</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000010">y escribir las divisiones de cada cual.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000005" type="Verse" s_name="3">
+			<phrase phr_id="2-07-00125-SPA01-000011">Aquellos que, por cualquier medio,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000012">persiguen su propio interés</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000013">meramente para su felicidad en esta vida</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000014">Sabe que son los seres de capacidad inferior.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000006" type="Verse" s_name="4">
+			<phrase phr_id="2-07-00125-SPA01-000015">Vuelven la espalda a los placeres del Samsara,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000016">se apartan de las acciones negativas</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000017">y persiguen únicamente su propia paz.</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000018">Estos se conocen como seres de capacidad media.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000007" type="Verse" s_name="5">
+			<phrase phr_id="2-07-00125-SPA01-000019">Aquellos que, al ver su propio sufrimiento,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000020">desean, de corazón, eliminar por completo</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000021">todo sufrimiento ajeno</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000022">son los seres de capacidad superior.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000008" type="Verse" s_name="6">
+			<phrase phr_id="2-07-00125-SPA01-000023">Para los seres excelentes</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000024">que desean la iluminación suprema,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000025">he de explicar los métodos perfectos</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000026">mostrados los maestros:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000009" type="Verse" s_name="7">
+			<phrase phr_id="2-07-00125-SPA01-000027">Frente a estatuas, retratos, etc. de los perfectos budas</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000028">y frente a estupas y textos sagrados,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000029">debes ofrecer flores, incienso</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000030">y cuantos objetos materiales poseas.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000010" type="Verse" s_name="8">
+			<phrase phr_id="2-07-00125-SPA01-000031">También las ofrendas de las siete ramas</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000032">mencionadas en la oración de la «Conducta Excelsa»,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000033">con la intención de no cejar</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000034">hasta consumar la esencia de la iluminación.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000011" type="Verse" s_name="9">
+			<phrase phr_id="2-07-00125-SPA01-000035">Y con gran fe en las tres joyas,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000036">tocando el suelo con las rodillas</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000037">y con las palmas de las manos juntas,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000038">lo primero toma refugio tres veces.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000012" type="Verse" s_name="10">
+			<phrase phr_id="2-07-00125-SPA01-000039">Después, empezando con un sentimiento de amor</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000040">hacia todos los seres sintientes,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000041">mirando a todos los seres que padecen</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000042">los renacimientos en los tres reinos inferiores,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000043">la vejez y la muerte y otros sufrimientos,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000013" type="Verse" s_name="11">
+			<phrase phr_id="2-07-00125-SPA01-000044">Quienes desean la liberación</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000045">del sufrimiento y de las causas del sufrimiento,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000046">deben generar la bodichita de aspiración</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000047">que no se vuelve para atrás.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000014" type="Verse" s_name="12">
+			<phrase phr_id="2-07-00125-SPA01-000048">Los beneficios de generar</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000049">una mente de aspiración así</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000050">los explica muy bien Maitreya</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000051">en el «Sutra que se Extiende cual Tronco».</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000015" type="Verse" s_name="13">
+			<phrase phr_id="2-07-00125-SPA01-000052">Habiendo leído o escuchado de un lama este sutra,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000053">conocerás los infinitos beneficios de la bodichita completa</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000054">y para que esta se vuelva estable</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000055">debes generarla una y otra vez.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000016" type="Verse" s_name="14">
+			<phrase phr_id="2-07-00125-SPA01-000056">Lo que esto tiene de meritorio</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000057">viene muy bien explicado</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000058">en los «Sutras solicitados por Viradata».</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000059">Por estar resumido en tan solo tres estrofas, voy a citarlas aquí:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000017" type="Verse" s_name="15">
+			<phrase phr_id="2-07-00125-SPA01-000060">«Si el mérito de la bodichita</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000061">poseyera forma física</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000062">colmaría todo el espacio</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000063">y aún sobraría más.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000018" type="Verse" s_name="16">
+			<phrase phr_id="2-07-00125-SPA01-000064">«Si alguien llenara de joyas</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000065">tantos campos búdicos</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000066">como granos de arena tiene el Ganges</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000067">y los ofreciera a los protectores del mundo,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000019" type="Verse" s_name="17">
+			<phrase phr_id="2-07-00125-SPA01-000068">«Quien se incline ante la iluminación</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000069">juntando las palmas de sus manos,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000070">su ofrenda será especialmente superior</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000071">por que no tiene límites.»</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000020" type="Verse" s_name="18">
+			<phrase phr_id="2-07-00125-SPA01-000072">Tras generar la bodichita de aspiración,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000073">con gran esfuerzo debes incrementarla siempre</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000074">Y, para poder recordarla en esta y otras vidas,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000075">Observa las prácticas tal como se han explicado.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000021" type="Verse" s_name="19">
+			<phrase phr_id="2-07-00125-SPA01-000076">Sin el voto que es la esencia de la bodichita de compromiso,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000077">la aspiración correcta no se podrá incrementar.</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000078">Como deseas incrementar la aspiración a la iluminación completa,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000079">por esto, esforzadamente, tómalo con seguridad.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000022" type="Verse" s_name="20">
+			<phrase phr_id="2-07-00125-SPA01-000080">Quienes tienen votos duraderos</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000081">de alguno de los siete tipos de pratimoska [votos de liberación individual]</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000082">son apropiados para tomar el voto de vodisatva,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000083">los demás no lo son.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000023" type="Verse" s_name="21">
+			<phrase phr_id="2-07-00125-SPA01-000084">Sobre siete tipos de Pratimoska</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000085">El Tatágata nos explicó</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000086">que el mejor es el de glorioso celibato</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000087">y se refería a los votos ordenación completa.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000024" type="Verse" s_name="22">
+			<phrase phr_id="2-07-00125-SPA01-000088">Según el ritual bien expresado en el capítulo sobre disciplina ética</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000089">de «Las Tierras de los Bodisatvas»,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000090">toma el voto de un maestro amable</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000091">y perfectamente cualificado.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000025" type="Verse" s_name="23">
+			<phrase phr_id="2-07-00125-SPA01-000092">Experto en la ceremonia del voto,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000093">él mismo observa el voto</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000094">y tiene la paciencia y la compasión para otorgarlo.</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000095">Sabe que éste es un maestro amable.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000026" type="Verse" s_name="24">
+			<phrase phr_id="2-07-00125-SPA01-000096">Por si, aun habiéndote esforzado,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000097">no encontrases un maestro semejante,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000098">debo explicar correctamente</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000099">otro ritual para recibir el voto.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000027" type="Verse" s_name="25">
+			<phrase phr_id="2-07-00125-SPA01-000100">Escribiré aquí claramente</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000101">el modo en que Manyusri, mucho tiempo atrás,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000102">cuando era el rey Ambaraya, generó bodichita,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000103">tal como se describe en</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000104">el «Sutra del Ornamento de las tierras búdicas»:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000028" type="Verse" s_name="26">
+			<phrase phr_id="2-07-00125-SPA01-000105">«En presencia de los protectores</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000106">genero una completa bodichita</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000107">y, enviando invitación a todos los seres,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000108">me comprometo a liberarlos del Samsara.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000029" type="Verse" s_name="27">
+			<phrase phr_id="2-07-00125-SPA01-000109">«A partir de este momento</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000110">y hasta alcanzar la suprema iluminación,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000111">no albergaré malicia ni ira</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000112">ni avaricia ni envidia.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000030" type="Verse" s_name="28">
+			<phrase phr_id="2-07-00125-SPA01-000113">«Llevaré una conducta casta,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000114">abandonaré las acciones negativas y el deseo</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000115">y voy a imitar a Buda</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000116">en su gusto por el voto de disciplina ética.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000031" type="Verse" s_name="29">
+			<phrase phr_id="2-07-00125-SPA01-000117">«No me contentaré con formas rápidas</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000118">de conseguir la iluminación propia,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000119">me quedaré hasta el fin de los tiempos</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000120">en aras de un sólo ser.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000032" type="Verse" s_name="30">
+			<phrase phr_id="2-07-00125-SPA01-000121">«Refinaré con cuidado tierras puras,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000122">ilimitadas e inconcebibles</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000123">y permaneceré en las diez direcciones</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000124">para aquellos que pronuncien mi nombre.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000033" type="Verse" s_name="31">
+			<phrase phr_id="2-07-00125-SPA01-000125">«He de purificar todas las acciones</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000126">de mi cuerpo y de mi palabra,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000127">también he de purificar las de mi mente</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000128">y no he de cometer acciones negativas.»</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000034" type="Verse" s_name="32">
+			<phrase phr_id="2-07-00125-SPA01-000129">Si mantienes el voto que es la esencia de la bodichita de compromiso</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000130">y que causa la purificación de cuerpo, palabra y mente,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000131">y practicas bien los tres entrenamientos en ética,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000132">tu respeto por los tres entrenamientos en disciplina ética aumentará.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000035" type="Verse" s_name="33">
+			<phrase phr_id="2-07-00125-SPA01-000133">Así, por habernos esforzado en los votos que componen</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000134">el voto del perfecto y completo bodisatva,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000135">completamos las acumulaciones</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000136">para la perfecta iluminación.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000036" type="Verse" s_name="34">
+			<phrase phr_id="2-07-00125-SPA01-000137">Todos los budas dicen</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000138">que la causa para completar las acumulaciones</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000139">cuya naturaleza son los méritos y la sabiduría primordial</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000140">es desarrollar clarividencia.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000037" type="Verse" s_name="35">
+			<phrase phr_id="2-07-00125-SPA01-000141">Del mismo modo que no puede volar por el cielo</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000142">un pájaro al que no le han crecido alas,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000143">así, careciendo del poder de la clarividencia</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000144">no se puede ayudar a los seres.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000038" type="Verse" s_name="36">
+			<phrase phr_id="2-07-00125-SPA01-000145">Los méritos que alguien con clarividencia</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000146">produce en un día y una noche,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000147">los que no tienen clarividencia</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000148">no los producen ni en cien vidas.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000039" type="Verse" s_name="37">
+			<phrase phr_id="2-07-00125-SPA01-000149">Quienes quieren completar rápido</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000150">las acumulaciones para la iluminación perfecta</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000151">estos, a través de su esfuerzo, logran la clarividencia,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000152">no a través de la pereza.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000040" type="Verse" s_name="38">
+			<phrase phr_id="2-07-00125-SPA01-000153">Si no logramos la calma mental</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000154">no obtendremos clarividencia.</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000155">Por lo tanto, debemos esforzarnos una y otra vez</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000156">para conseguir la calma mental.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000041" type="Verse" s_name="39">
+			<phrase phr_id="2-07-00125-SPA01-000157">Si las condiciones para la calma mental</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000158">son incompletas, aunque nos esforcemos mucho</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000159">en meditar, aun por miles de años,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000160">no lograremos la estabilización meditativa.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000042" type="Verse" s_name="40">
+			<phrase phr_id="2-07-00125-SPA01-000161">Por ello, mantén bien las condiciones mencionadas</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000162">en el capítulo del «Acopio para la Estabilización Meditativa»</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000163">Y emplaza tu mente con virtud</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000164">en un objeto de concentración apropiado.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000043" type="Verse" s_name="41">
+			<phrase phr_id="2-07-00125-SPA01-000165">Si el yogui alcanza la calma mental</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000166">también conseguirá la clarividencia,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000167">pero, al no haberse aplicado a la perfección de la sabiduría,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000168">no pondrá fin a las obstrucciones.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000044" type="Verse" s_name="42">
+			<phrase phr_id="2-07-00125-SPA01-000169">Por eso, para abandonar las innumerables</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000170">obstrucciones aflictivas y las cognitivas,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000171">debes meditar siempre en el yoga</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000172">de la perfección de la sabiduría y en los medios hábiles.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000045" type="Verse" s_name="43">
+			<phrase phr_id="2-07-00125-SPA01-000173">La sabiduría sin los medios hábiles</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000174">y también los medios hábiles sin la sabiduría</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000175">se describen como una atadura</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000176">por ello, no dejes de lado ninguno de los dos.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000046" type="Verse" s_name="44">
+			<phrase phr_id="2-07-00125-SPA01-000177">Para suprimir cualquier duda</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000178">sobre qué es la sabiduría o qué los medios hábiles,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000179">hay que aclarar aquí las diferencias</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000180">entre los medios hábiles y la sabiduría.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000047" type="Verse" s_name="45">
+			<phrase phr_id="2-07-00125-SPA01-000181">Quitando la perfección de la sabiduría,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000182">todas las que pertenecen al lado virtuoso</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000183">tales como la perfección de la generosidad,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000184">dicen los victoriosos que son los medios hábiles.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000048" type="Verse" s_name="46">
+			<phrase phr_id="2-07-00125-SPA01-000185">Es gracias a cultivar los medios hábiles que</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000186">si meditas en el aspecto de la sabiduría</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000187">alcanzarás pronto la iluminación</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000188">y no por meditar únicamente en la ausencia de yo.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000049" type="Verse" s_name="47">
+			<phrase phr_id="2-07-00125-SPA01-000189">Al comprender que los agregados, las esferas</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000190">y las fuentes de los sentidos no son [inherentemente] producidos,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000191">el conocimiento de que carecen de naturaleza propia</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000192">se ha descrito fielmente como sabiduría.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000050" type="Verse" s_name="48">
+			<phrase phr_id="2-07-00125-SPA01-000193">Lo existente no puede ser producido,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000194">tampoco lo no existente —como la flor del cielo—,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000195">ambas proposiciones llevan al absurdo</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000196">por lo que no surgen juntos tampoco los dos.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000051" type="Verse" s_name="49">
+			<phrase phr_id="2-07-00125-SPA01-000197">Los objetos funcionales no surgen de sí mismos</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000198">ni de otro, ni en combinación de ambos,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000199">tampoco surgen sin causa y, por ello,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000200">carecen de naturaleza intrínseca.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000052" type="Verse" s_name="50">
+			<phrase phr_id="2-07-00125-SPA01-000201">O, si analizamos cada uno de los fenómenos</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000202">para ver si es uno o múltiple,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000203">su esencia desaparece y por lo tanto</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000204">queda demostrada su ausencia de naturaleza.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000053" type="Verse" s_name="51">
+			<phrase phr_id="2-07-00125-SPA01-000205">Las «Setenta estrofas sobre vacuidad»,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000206">las «Fuentes del Camino Medio» y otros textos,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000207">explican cómo la naturaleza de los objetos funcionales</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000208">se establece como vacuidad.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000054" type="Verse" s_name="52">
+			<phrase phr_id="2-07-00125-SPA01-000209">Son muchos los textos importantes,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000210">por eso no los he citado aquí.</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000211">He explicado tan sólo sus conclusiones</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000212">para el propósito de la meditación.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000055" type="Verse" s_name="53">
+			<phrase phr_id="2-07-00125-SPA01-000213">Así, al no podernos enfocar en la naturaleza</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000214">de ninguno de los infinitos fenómenos,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000215">cualquier ausencia de yo en la que meditemos</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000216">será una meditación en la sabiduría.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000056" type="Verse" s_name="54">
+			<phrase phr_id="2-07-00125-SPA01-000217">Con la sabiduría, nunca vemos la naturaleza en sí</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000218">de ninguno de los fenómenos</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000219">y esto se aplica a la sabiduría misma.</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000220">Medita en ello de un modo no conceptual.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000057" type="Verse" s_name="55">
+			<phrase phr_id="2-07-00125-SPA01-000221">Este Samsara que surge de los conceptos</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000222">es, en esencia, conceptualización,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000223">por consiguiente, el abandono de todo concepto</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000224">es el estado superior del Nirvana.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000058" type="Sentence">
+			<phrase phr_id="2-07-00125-SPA01-000225">Aun así, Buda dijo:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000059" type="Verse" s_name="56">
+			<phrase phr_id="2-07-00125-SPA01-000226">«la conceptualización es una gran ignorancia</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000227">causa de la caída al océano del Samsara</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000228">si permanecemos en concentración no conceptual</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000229">se manifiesta con claridad [la mente]</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000230">ausente de conceptos igual que el espacio.»</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000060" type="Sentence">
+			<phrase phr_id="2-07-00125-SPA01-000231">También, en la «Fórmula para Entrar en la Ausencia de Conceptos»:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000061" type="Verse" s_name="57">
+			<phrase phr_id="2-07-00125-SPA01-000232">«Si los hijos e hijas de los victoriosos que practican</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000233">el sagrado dharma reflexionan en la ausencia de conceptos,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000234">trascenderán esos conceptos tan difíciles de dejar atrás</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000235">e irán adquiriendo gradualmente la ausencia de conceptos»</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000062" type="Verse" s_name="58">
+			<phrase phr_id="2-07-00125-SPA01-000236">Tras constatar a través de escrituras y razonamiento,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000237">que ninguno de los fenómenos</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000238">es producido ni tiene naturaleza propia</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000239">medita en ausencia de conceptos.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000063" type="Verse" s_name="59">
+			<phrase phr_id="2-07-00125-SPA01-000240">Habiendo meditado así en la esencia [de los fenómenos]</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000241">progresivamente alcanzarás «calor» y los otros estados</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000242">y luego obtendrás «gran gozo» y las otras tierras de bodisatvas</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000243">tras lo que la iluminación no estará lejos.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000064" type="Verse" s_name="60">
+			<phrase phr_id="2-07-00125-SPA01-000244">Si, a través de las actividades de pacificación, estímulo, etc.</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000245">adquiridas por el poder de los mantras,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000246">y por el poder de los ocho grandes logros</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000247">como, por ejemplo, el establecimiento de buenos jarrones</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000065" type="Verse" s_name="61">
+			<phrase phr_id="2-07-00125-SPA01-000248">y, a través del gozo atento, deseas completar</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000249">las acumulaciones para la iluminación perfecta.</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000250">Si quieres practicar el mantra secreto</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000251">expuesto en los tantras de la acción, la ejecución, etc.,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000066" type="Verse" s_name="62">
+			<phrase phr_id="2-07-00125-SPA01-000252">Entonces, para recibir la iniciación del maestro [vajra],</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000253">debes deleitar a un maestro excelente</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000254">reverenciándolo, ofreciéndole joyas y otras cosas,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000255">así como mediante la obediencia.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000067" type="Verse" s_name="63">
+			<phrase phr_id="2-07-00125-SPA01-000256">Al recibir la completa iniciación del maestro [vajra]</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000257">por haber complacido al maestro,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000258">te purificas totalmente de toda negatividad</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000259">y te conviertes, en esencia, en receptáculo apropiado para los siddhis.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000068" type="Verse" s_name="64">
+			<phrase phr_id="2-07-00125-SPA01-000260">Puesto que «El Gran Tantra del Buda Primordial»</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000261">lo prohibe terminantemente,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000262">los que observan celibato no deben tomar</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000263">la iniciación secreta ni la de la sabiduría primordial.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000069" type="Verse" s_name="65">
+			<phrase phr_id="2-07-00125-SPA01-000264">Si tomaras estas iniciaciones</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000265">mientras practicas el ascetismo de la castidad</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000266">incurrirías en acciones prohibidas</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000267">y, por ello, tus votos ascéticos degenerarían.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000070" type="Verse" s_name="66">
+			<phrase phr_id="2-07-00125-SPA01-000268">Como practicante de la disciplina yóguica</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000269">cometerías transgresiones mayores</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000270">y, como, de seguro, caerías en los infiernos,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000271">nunca alcanzarías realizaciones.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000071" type="Verse" s_name="67">
+			<phrase phr_id="2-07-00125-SPA01-000272">Pero en escuchar todos los tantras y explicarlos,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000273">hacer ceremonias de fuego y de ofrecimientos no hay ninguna falta</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000274">si has recibido la iniciación de maestro [vajra]</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000275">y conoces el ser en sí de los fenómenos.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000072" type="Verse" s_name="68">
+			<phrase phr_id="2-07-00125-SPA01-000276">Yo, el anciano Sri Dipankara, habiéndo visto estas explicaciones</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000277">en los sutras y otras enseñanzas,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000278">y por encargo de Yangchub Woe,</phrase>
+			<phrase phr_id="2-07-00125-SPA01-000279">he compuesto esta exposición abreviada del camino a la iluminación.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000073" type="Text Colophon">
+			<phrase phr_id="2-07-00125-SPA01-000280">Esto concluye la Lámpara para el Camino a la Iluminación compuesta por el gran maestro Dipankara Shrijñana.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000074" type="Sentence">
+			<phrase phr_id="2-07-00125-SPA01-000281">Fue traducida, editada y finalizada por el gran abad mismo (Dipankara Shrijñana) y el monje traductor al tibetano Geway-lodro.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-SPA01-SID000075" type="Sentence">
+			<phrase phr_id="2-07-00125-SPA01-000282">Este texto de dharma fue compuesto en el santuario de Toling en Zhang-zhun.</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

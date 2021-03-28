@@ -1,0 +1,55 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/resources/scripts/jquery" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="slick.formatters.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="slick.formatters.js" mimetype="application/javascript" blob-id="79628d4777877671b82f8b4fc2608643c73ebe573dd9713201d557b3a186bb29">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="slick.grid.css" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="slick.grid.css" mimetype="text/css" blob-id="a446db258d708bf71c7abf8206984263d2e0a1a97ef33f9331c5acac1c8700ea">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="slick.cellrangeselector.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="slick.cellrangeselector.js" mimetype="application/javascript" blob-id="baa6578bdfb327fa5d7ff61ef44e55b3365ea9bb872f198cbece7b3b7b8c360e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.fileupload-process.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="jquery.fileupload-process.js" mimetype="application/javascript" blob-id="c591ee0eca27541705bb8c2b03bcd03c0d4e2aba02b72ef3d17894bfa1fccc40">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.layout-latest.css" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="jquery.layout-latest.css" mimetype="text/css" blob-id="c595e8f3901c77cc2690dfbd94a8cef503bb33535cd5d80f7567840a627f1d53">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.plugins.min.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="jquery.plugins.min.js" mimetype="application/javascript" blob-id="2b685d5341dbcd1e8cebec8e162dd34f19152eeec790db91fee92030f5b48398">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="slick.rowselectionmodel.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="slick.rowselectionmodel.js" mimetype="application/javascript" blob-id="9eb9d4ad4a37bb60e21143edee39bad5b2d334e37a12039ef285851eadab2ff6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="slick.editors.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="slick.editors.js" mimetype="application/javascript" blob-id="bfb53a1a4fadf86c36217cb2c2fd6499120814d9a7a575b52342b6c6d25db9c5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-ui-1.10.3.custom.min.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="jquery-ui-1.10.3.custom.min.js" mimetype="application/javascript" blob-id="729916573b39792d83185ab1440c961458743e414ae151781fc056927c47f1af">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-1.9.1.min.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="jquery-1.9.1.min.js" mimetype="application/javascript" blob-id="f7da4095a004a690af3dd27ebdd744c181acc6ca9522b9b77776095bf78bf7c0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="slick.core.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="slick.core.js" mimetype="application/javascript" blob-id="5d5b1be5a1c4602ef1cbe47beda07813f0845ac9302b09ef9e0eceb4fb12a8e0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.fileupload-ui.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="jquery.fileupload-ui.js" mimetype="application/javascript" blob-id="b4ed7437885599dde860072b45a7320bdd8b9cd2539ffffb54fc1a7020298ec7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.layout-1.3.0.rc30.79.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="jquery.layout-1.3.0.rc30.79.js" mimetype="application/javascript" blob-id="9022e82040d63f0f86fb5aa1dd8b5fd72d74a48bf50939e250134c0916680155">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.fileupload.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="jquery.fileupload.js" mimetype="application/javascript" blob-id="b863181d69d3160beba46082d326c1ed102af107486cec7e707c36c10627f85e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="slick.grid.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="slick.grid.js" mimetype="application/javascript" blob-id="16a1f3e80a2d255f6c591f8d4bf973720540549067cc140ec09b7273dc182580">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="slick.cellselectionmodel.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="slick.cellselectionmodel.js" mimetype="application/javascript" blob-id="44b9c586502103e0d397d9bb6f84fcd44fa5558d576570088f5dbf167b43f24e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.event.drag-2.2.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="jquery.event.drag-2.2.js" mimetype="application/javascript" blob-id="89e48bb8e05d5d3a0340efe532e99cf1098ec57d122f026cba54defa83c415da">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="images" filename="images"/>
+</collection>

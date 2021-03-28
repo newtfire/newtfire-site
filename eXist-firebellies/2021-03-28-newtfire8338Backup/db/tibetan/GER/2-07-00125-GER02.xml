@@ -1,0 +1,453 @@
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-07-00125-GER02.xml"/>
+		<title>Bodhipathapradīpa</title>
+		<author>Atīśa Dīpaṃkaraśrījñāna</author>
+		<unifiedCatalogID>2-07-00125</unifiedCatalogID>
+		<sourceDesc>
+			<bibl>
+				<title>Die Lampe auf dem Weg : Stufen buddhistischer Meditation : Grundtext und Kommentar</title>
+				<author>bsTan-'dzin-rgya-mtsho, Dalai Lama XIV; Atiśa</author>
+				<pubInfo>München: Diamant-Verlag</pubInfo>
+				<date>2006</date>
+			</bibl>
+		</sourceDesc>
+		<creation date="Mon Feb 31 4:20:37 2020"/>
+		<processed date="Mon Feb 31 4:20:37 2020" ver="v.1.0" auth="Hackett"/>
+		<processed date="Tue Mar 31 04:19:18 2020" ver="v.1.01" auth="XMLTagEnglish v.1.08"/>
+	</head>
+	<text>
+		<sentence s_id="2-07-00125-GER02-SID000001" type="Text Title">
+			<phrase phr_id="2-07-00125-GER02-000001">Die Lampe auf dem Weg zur Erleuchtung</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000002" type="Sentence">
+			<phrase phr_id="2-07-00125-GER02-000002">Ehre dem Bodhisattva, dem jugendlichen Manjushri.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000003" type="Verse" s_name="1">
+			<phrase phr_id="2-07-00125-GER02-000003">Mit großem Respekt verneige ich mich</phrase>
+			<phrase phr_id="2-07-00125-GER02-000004">vor den Siegreichen Buddhas aller drei Zeiten,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000005">ihrer Lehre und ihrer Gemeinschaft [- denen, die nach Heilsamem streben].</phrase>
+			<phrase phr_id="2-07-00125-GER02-000006">Weil der gute Schüler Dschangtschub Ö dazu drängte,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000007">werde ich die Lampe auf dem Weg zur Erleuchtung erhellen.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000004" type="Verse" s_name="2">
+			<phrase phr_id="2-07-00125-GER02-000008">Es gibt Fähigkeiten geringer, mittlerer, höchster Art,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000009">man sollte wissen, dass es demgemäß dreierlei Wesen gibt.</phrase>
+			<phrase phr_id="2-07-00125-GER02-000010">Ihre jeweiligen Merkmale sollen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000011">klar und einzeln beschrieben werden.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000005" type="Verse" s_name="3">
+			<phrase phr_id="2-07-00125-GER02-000012">Wer mit welchen Methoden auch immer</phrase>
+			<phrase phr_id="2-07-00125-GER02-000013">im eigenenInteresse lediglich nach dem Glück</phrase>
+			<phrase phr_id="2-07-00125-GER02-000014">des Daseinskreislaufes strebt, ist als Wesen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000015">mit einem Mindestmaß von Fähigkeiten erkennbar.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000006" type="Verse" s_name="4">
+			<phrase phr_id="2-07-00125-GER02-000016">Jemand, der dem Glück des weltlichen Daseins</phrase>
+			<phrase phr_id="2-07-00125-GER02-000017">den Rücken kehrt, sich von schädlichem Handeln abwendet</phrase>
+			<phrase phr_id="2-07-00125-GER02-000018">und nur nach dem eigenen Frieden strebt,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000019">wird Wesen mit mittleren Fähigkeiten genannt.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000007" type="Verse" s_name="5">
+			<phrase phr_id="2-07-00125-GER02-000020">Wer aufgrund des Leidens der eigenen Existenz</phrase>
+			<phrase phr_id="2-07-00125-GER02-000021">den Wunsch hat, alles Leiden der anderen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000022">in jeder Hinsicht ganz zu beenden,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000023">ist ein Wesen mit höchsten Fähigkeiten.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000008" type="Verse" s_name="6">
+			<phrase phr_id="2-07-00125-GER02-000024">Für diejenigen vortrefflichen Wesen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000025">mit dem Wunsch nach höchster Erleuchtung</phrase>
+			<phrase phr_id="2-07-00125-GER02-000026">werde ich die authentischen Mittel erklären,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000027">die die spirituellen Meister aufzeigten.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000009" type="Verse" s_name="7">
+			<phrase phr_id="2-07-00125-GER02-000028">Vor einem Bild und Schriften des vollkommenen Buddha oder dergleichen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000029">sowie einem trefflichen Stupa [Symbol seines Geistes],</phrase>
+			<phrase phr_id="2-07-00125-GER02-000030">bringe Dinge wie Blumen und Räucherwerk</phrase>
+			<phrase phr_id="2-07-00125-GER02-000031">und Gaben dar, so viele du hast.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000010" type="Verse" s_name="8">
+			<phrase phr_id="2-07-00125-GER02-000032">Mit der siebenfachen Darbringung, die</phrase>
+			<phrase phr_id="2-07-00125-GER02-000033">im Gebet des guten Verhaltens gelehrt worden ist,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000034">und in der reinen Absicht, nicht umzukehren,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000035">bis das Innerste der Erleuchtung erreicht ist,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000011" type="Verse" s_name="9">
+			<phrase phr_id="2-07-00125-GER02-000036">knie voller Vertrauen zu den Drei Juwelen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000037">mit einem Knie auf der Erde nieder,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000038">lege die Handflächen aneinander</phrase>
+			<phrase phr_id="2-07-00125-GER02-000039">und nimm zunächst drei Mal Zuflucht zu ihnen.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000012" type="Verse" s_name="10">
+			<phrase phr_id="2-07-00125-GER02-000040">Ausgehend von der Liebe zu allen Wesen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000041">betrachte dann, wie sie ausnahmslos leiden</phrase>
+			<phrase phr_id="2-07-00125-GER02-000042">durch die Geburt in den elenden drei Bereichen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000043">an Tod und Übergang und dergleichen;</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000013" type="Verse" s_name="11">
+			<phrase phr_id="2-07-00125-GER02-000044">und weil du die Wesen, die vom Leiden geplagt sind,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000045">von ihrem Leid und den Leidensursachen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000046">befreien möchtest, erzeuge unwiderruflich</phrase>
+			<phrase phr_id="2-07-00125-GER02-000047">den Erleuchtungsgeist als ein festes Versprechen.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000014" type="Verse" s_name="12">
+			<phrase phr_id="2-07-00125-GER02-000048">Welche Vorzüge es hat, solch einen reinen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000049">Geisteszustand des Wünschens hervorzubringen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000050">das hat Maitreya im Sutra von der</phrase>
+			<phrase phr_id="2-07-00125-GER02-000051">Anordnung der Reishalme bestens erklärt.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000015" type="Verse" s_name="13">
+			<phrase phr_id="2-07-00125-GER02-000052">Indem du davon im Sutra liest oder vom spirituellen Meister hörst,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000053">mache dir die unendlichen Qualitäten bewusst,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000054">die der vollkommene Erleuchtungsgeist mit sich bringt,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000055">und aus diesen Gründen bringe ihn dann wieder und wieder hervor.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000016" type="Verse" s_name="14">
+			<phrase phr_id="2-07-00125-GER02-000056">Im Sutra, das von Viradatta erbeten wurde</phrase>
+			<phrase phr_id="2-07-00125-GER02-000057">wird dessen positives Potenzial vollständig gelehrt.</phrase>
+			<phrase phr_id="2-07-00125-GER02-000058">Daraus möchte ich nur drei Verse</phrase>
+			<phrase phr_id="2-07-00125-GER02-000059">kurz zusammengefasst hier zitieren:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000017" type="Verse" s_name="15">
+			<phrase phr_id="2-07-00125-GER02-000060">Wenn das positive Potenzial des Erleuchtungsgeistes</phrase>
+			<phrase phr_id="2-07-00125-GER02-000061">Gestalt annähme und der gesamte Himmelsraum</phrase>
+			<phrase phr_id="2-07-00125-GER02-000062">vollständig davon ausgefüllt wäre,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000063">ginge es immer noch weit darüber hinaus.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000018" type="Verse" s_name="16">
+			<phrase phr_id="2-07-00125-GER02-000064">Und selbst wenn jemand Buddha-Bereiche,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000065">so zahlreich wie die Sandkörner im Ganges,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000066">ganz mit Edelsteinen anfüllen würde</phrase>
+			<phrase phr_id="2-07-00125-GER02-000067">und diese dem Beschützer der Welt darbrächte,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000019" type="Verse" s_name="17">
+			<phrase phr_id="2-07-00125-GER02-000068">so wird auch dieses noch übertroffen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000069">wenn jemand die Handflächen aneinanderlegt</phrase>
+			<phrase phr_id="2-07-00125-GER02-000070">und seinen Geist der Erleuchtung zuneigt</phrase>
+			<phrase phr_id="2-07-00125-GER02-000071">— solch eine Gabe ist ohne Ende.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000020" type="Verse" s_name="18">
+			<phrase phr_id="2-07-00125-GER02-000072">Nachdem du den reinen Geisteszustand des Wunsches</phrase>
+			<phrase phr_id="2-07-00125-GER02-000073">nach Erleuchtung erzeugt hast, verstärke ihn durch vielerlei Anstrengungen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000074">und damit du dich auch in anderen Existenzen daran erinnerst,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000075">beachte seine Aufrechterhaltung so, wie es erklärt ist.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000021" type="Verse" s_name="19">
+			<phrase phr_id="2-07-00125-GER02-000076">Nur in der Natur der Gelübde des Eintritts ins Bodhisattva-Verhalten</phrase>
+			<phrase phr_id="2-07-00125-GER02-000077">wird sich dieser Wunsch vollständig entfalten.</phrase>
+			<phrase phr_id="2-07-00125-GER02-000078">Deshalb strenge dich an, diese bestimmt abzulegen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000079">weil du möchtest, dass sich der Wunsch nach voller Erleuchtung entfaltet.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000022" type="Verse" s_name="20">
+			<phrase phr_id="2-07-00125-GER02-000080">Sobald man mit anderen dauerhaften Gelübden versehen ist</phrase>
+			<phrase phr_id="2-07-00125-GER02-000081">— einer der sieben Arten der Gelübde zur eigenen Befreiung —,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000082">ist man in der glücklichen Lage, die Bodhisattva-Gelübde</phrase>
+			<phrase phr_id="2-07-00125-GER02-000083">ablegen zu können, andernfalls nicht.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000023" type="Verse" s_name="21">
+			<phrase phr_id="2-07-00125-GER02-000084">Sieben Arten Gelübde zur eigenen Befreiung</phrase>
+			<phrase phr_id="2-07-00125-GER02-000085">erklärte der Tathagata —</phrase>
+			<phrase phr_id="2-07-00125-GER02-000086">wobei die beste der reine entsagte Lebenswandel ist,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000087">dargelegt in den reinen Gelübden der vollen Ordination als Mönch [oder Nonne].</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000024" type="Verse" s_name="22">
+			<phrase phr_id="2-07-00125-GER02-000088">Nimm mit der Zeremonie, die im Kapitel ethischer Disziplin</phrase>
+			<phrase phr_id="2-07-00125-GER02-000089">in den Bodhsattva-Ebenen gut beschrieben ist, die Gelübde</phrase>
+			<phrase phr_id="2-07-00125-GER02-000090">von einem guten spirituellen Meister,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000091">der wirklich qualifiziert dafür ist.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000025" type="Verse" s_name="23">
+			<phrase phr_id="2-07-00125-GER02-000092">Unter einem guten spirituellen Meister</phrase>
+			<phrase phr_id="2-07-00125-GER02-000093">ist jemand zu verstehen, der sich auskennt mit der Gelübde-Zeremonie,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000094">selber nach den Gelübden lebt, Gelübde erteilt</phrase>
+			<phrase phr_id="2-07-00125-GER02-000095">sowie Geduld und Mitgefühl hat.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000026" type="Verse" s_name="24">
+			<phrase phr_id="2-07-00125-GER02-000096">Für den Fall, dass man trotz Bemühung</phrase>
+			<phrase phr_id="2-07-00125-GER02-000097">einen solchen spirituellen Meister nicht findet,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000098">wird noch eine andere korrekte Vorgehensweise</phrase>
+			<phrase phr_id="2-07-00125-GER02-000099">zum Erhalt der Gelübde erklärt.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000027" type="Verse" s_name="25">
+			<phrase phr_id="2-07-00125-GER02-000100">Dazu wird in dem Sutra Schmuck des Buddha-Landes von Manjushri</phrase>
+			<phrase phr_id="2-07-00125-GER02-000101">erklärt, wie Manjushri, der damals als Amba Raja lebte,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000102">den Erleuchtungsgeist hervorgebracht hat;</phrase>
+			<phrase phr_id="2-07-00125-GER02-000103">und genauso will ich es hier beschreiben:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000028" type="Verse" s_name="26">
+			<phrase phr_id="2-07-00125-GER02-000104">In Gegenwart der Beschützer [der Buddhas] werde ich</phrase>
+			<phrase phr_id="2-07-00125-GER02-000105">die Absicht erzeugen, volle Erleuchtung zu erlangen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000106">und sämtliche Wesen als Gäste einladen:</phrase>
+			<phrase phr_id="2-07-00125-GER02-000107">Ich werde sie aus dem Daseinskreislauf befreien.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000029" type="Verse" s_name="27">
+			<phrase phr_id="2-07-00125-GER02-000108">Von heute an bis ich höchste Erleuchtung</phrase>
+			<phrase phr_id="2-07-00125-GER02-000109">erlange, werde ich weder</phrase>
+			<phrase phr_id="2-07-00125-GER02-000110">schädliche Absichten oder Ärger</phrase>
+			<phrase phr_id="2-07-00125-GER02-000111">noch Geiz oder Missgunst in meinem Geist hegen.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000030" type="Verse" s_name="28">
+			<phrase phr_id="2-07-00125-GER02-000112">Reinen Lebenswandel werde ich führen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000113">werde Schädliches und Gier aufgeben</phrase>
+			<phrase phr_id="2-07-00125-GER02-000114">und mit Freude am Gelübde ethischer Disziplin</phrase>
+			<phrase phr_id="2-07-00125-GER02-000115">mich darin üben, dem Beispiel des Buddha zu folgen.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000031" type="Verse" s_name="29">
+			<phrase phr_id="2-07-00125-GER02-000116">Ich selbst bin nicht davon entzückt,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000117">auf die Schnelle erleuchtet zu werden;</phrase>
+			<phrase phr_id="2-07-00125-GER02-000118">und um eines einzigen Wesens willen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000119">werde ich bis zu allerletzt bleiben.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000032" type="Verse" s_name="30">
+			<phrase phr_id="2-07-00125-GER02-000120">Unermessliche Bereiche werde ich läutern,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000121">alle Vorstellungen übersteigend,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000122">und überall in den zehn Richtungen sein,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000123">sobald man meinen Namen nennt.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000033" type="Verse" s_name="31">
+			<phrase phr_id="2-07-00125-GER02-000124">Alle Aktivitäten meines Körpers</phrase>
+			<phrase phr_id="2-07-00125-GER02-000125">und meiner Sprache werde ich läutern,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000126">auch die Aktivitäten des Geistes werde ich läutern</phrase>
+			<phrase phr_id="2-07-00125-GER02-000127">und keine unheilsame Handlung begehen.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000034" type="Verse" s_name="32">
+			<phrase phr_id="2-07-00125-GER02-000128">Diejenigen, die das Gelübde in der Art des aktiven Eintritts [ins Bodhisattva-Verhalten] befolgen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000129">werden durch gute Schulung der drei Arten von Regeln ethischer Disziplin</phrase>
+			<phrase phr_id="2-07-00125-GER02-000130">die drei Schulungen der Disziplin immer mehr achten —</phrase>
+			<phrase phr_id="2-07-00125-GER02-000131">die Ursache für die Reinheit von Körper, Sprache und Geist.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000035" type="Verse" s_name="33">
+			<phrase phr_id="2-07-00125-GER02-000132">So werden die Gelübde der Bodhisattvas zur vollen Erleuchtung</phrase>
+			<phrase phr_id="2-07-00125-GER02-000133">dadurch, dass sie Anstrengungen unternehmen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000134">bewirken, dass die Ansammlungen für volle Erleuchtung</phrase>
+			<phrase phr_id="2-07-00125-GER02-000135">in jeder Hinsicht vervollständigt werden.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000036" type="Verse" s_name="34">
+			<phrase phr_id="2-07-00125-GER02-000136">Alle Buddhas haben erklärt,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000137">dass die Ursache für die Vollendung</phrase>
+			<phrase phr_id="2-07-00125-GER02-000138">der Ansammlung von positivem Potenzial und von Weisheit</phrase>
+			<phrase phr_id="2-07-00125-GER02-000139">die Entwicklung Höherer Wahrnehmung ist.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000037" type="Verse" s_name="35">
+			<phrase phr_id="2-07-00125-GER02-000140">Wie ein Vogel ohne entfaltete Flügel</phrase>
+			<phrase phr_id="2-07-00125-GER02-000141">nicht im Himmel fliegen kann,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000142">so kann man ohne Höhere Wahrnehmung nicht</phrase>
+			<phrase phr_id="2-07-00125-GER02-000143">das Wohl der Lebewesen bewirken.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000038" type="Verse" s_name="36">
+			<phrase phr_id="2-07-00125-GER02-000144">Das positive Potenzial, das an einem Tag</phrase>
+			<phrase phr_id="2-07-00125-GER02-000145">von jemandem, der Höhere Wahrnehmung hat,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000146">geschaffen wird, wird von jemandem ohne diese</phrase>
+			<phrase phr_id="2-07-00125-GER02-000147">nicht einmal in hundert Leben erreicht.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000039" type="Verse" s_name="37">
+			<phrase phr_id="2-07-00125-GER02-000148">Wer den Wunsch hat, die Ansammlungen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000149">für die volle Erleuchtung rasch zu vollenden,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000150">wird sich anstrengen und Höhere Wahrnehmung entwickeln —</phrase>
+			<phrase phr_id="2-07-00125-GER02-000151">mit Faulheit hingegen wird nichts daraus.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000040" type="Verse" s_name="38">
+			<phrase phr_id="2-07-00125-GER02-000152">Bei jemandem, der die Verwirklichung Stillen Verweilens nicht hat,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000153">wird die Höhere Wahrnehmung nicht auftreten;</phrase>
+			<phrase phr_id="2-07-00125-GER02-000154">aus diesem Grund bemühe dich immer wieder</phrase>
+			<phrase phr_id="2-07-00125-GER02-000155">um die Verwirklichung Stillen Verweilens.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000041" type="Verse" s_name="39">
+			<phrase phr_id="2-07-00125-GER02-000156">Wenn die Bestandteile Stillen Verweilens beeinträchtigt sind,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000157">wird, auch wenn man Jahrtausende lang</phrase>
+			<phrase phr_id="2-07-00125-GER02-000158">angestrengt meditiert, dadurch doch</phrase>
+			<phrase phr_id="2-07-00125-GER02-000159">Konzentration nicht verwirklicht werden.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000042" type="Verse" s_name="40">
+			<phrase phr_id="2-07-00125-GER02-000160">Verweile deshalb gut bei diesen Bestandteilen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000161">die im Kapitel zur Sammlung von Konzentration gelehrt worden sind.</phrase>
+			<phrase phr_id="2-07-00125-GER02-000162">Lasse den Geist in Bezug auf irgend ein</phrase>
+			<phrase phr_id="2-07-00125-GER02-000163">Meditationsobjekt im Heilsamen ruhen</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000043" type="Verse" s_name="41">
+			<phrase phr_id="2-07-00125-GER02-000164">Hat ein Yogi Stilles Verweilen verwirklicht,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000165">wird er auch Höhere Wahrnehmung erlangen.</phrase>
+			<phrase phr_id="2-07-00125-GER02-000166">Durch Weisheit, die getrennt ist vom Ausüben der Vollkommenheiten,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000167">werden die Verdunklungen nicht beseitigt.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000044" type="Verse" s_name="42">
+			<phrase phr_id="2-07-00125-GER02-000168">Um die Verdunklungen durch die Geistesplagen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000169">und in Bezug auf die Wissensobjekte ganz aufzugeben</phrase>
+			<phrase phr_id="2-07-00125-GER02-000170">ist daher der Yoga der Vollkommenheit der Weisheit</phrase>
+			<phrase phr_id="2-07-00125-GER02-000171">stets zusammen mit der Methode zu kultivieren.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000045" type="Verse" s_name="43">
+			<phrase phr_id="2-07-00125-GER02-000172">Von den Methoden getrennte Weisheit</phrase>
+			<phrase phr_id="2-07-00125-GER02-000173">und von Weisheit getrennte Methoden</phrase>
+			<phrase phr_id="2-07-00125-GER02-000174">werden deswegen Fesseln genannt —</phrase>
+			<phrase phr_id="2-07-00125-GER02-000175">keines von beiden ist also aufzugeben.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000046" type="Verse" s_name="44">
+			<phrase phr_id="2-07-00125-GER02-000176">Um Zweifel darüber zu beseitigen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000177">was Weisheit und was Methode genannt wird,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000178">will ich die richtige Unterscheidung</phrase>
+			<phrase phr_id="2-07-00125-GER02-000179">von Weisheit und Methoden klären:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000047" type="Verse" s_name="45">
+			<phrase phr_id="2-07-00125-GER02-000180">Freigebigkeit und andere Vollkommenheiten —</phrase>
+			<phrase phr_id="2-07-00125-GER02-000181">alle Ansammlung von Heilsamem</phrase>
+			<phrase phr_id="2-07-00125-GER02-000182">außer der Vollkommenheit der Weisheit</phrase>
+			<phrase phr_id="2-07-00125-GER02-000183">wurde von den Siegreichen Buddhas als Methode erklärt.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000048" type="Verse" s_name="46">
+			<phrase phr_id="2-07-00125-GER02-000184">Jemand, der mit der Kraft der Gewöhnung an die Methoden</phrase>
+			<phrase phr_id="2-07-00125-GER02-000185">über den Weisheits-Aspekt meditiert,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000186">der erreicht die Erleuchtung schnell —</phrase>
+			<phrase phr_id="2-07-00125-GER02-000187">nicht, indem er nur über Selbstlosigkeit meditiert.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000049" type="Verse" s_name="47">
+			<phrase phr_id="2-07-00125-GER02-000188">Gewahrsein der Leerheit von Eigennatur,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000189">das erkennt, dass die Skandhas, Bereiche und Sinnesquellen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000190">nicht entstanden sind - das wurde</phrase>
+			<phrase phr_id="2-07-00125-GER02-000191">unter der Bezeichnung „Weisheit" ausführlich gelehrt.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000050" type="Verse" s_name="48">
+			<phrase phr_id="2-07-00125-GER02-000192">Anzunehmen, dass etwas entsteht, was bereits existiert, ist unlogisch,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000193">ebenso Entstehung von etwas, das nicht existiert, wie eine Blume im Himmel.</phrase>
+			<phrase phr_id="2-07-00125-GER02-000194">Also tritt bei beiden Entstehen nicht auf;</phrase>
+			<phrase phr_id="2-07-00125-GER02-000195">aus beiden [Annahmen] ergeben sich Fehler.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000051" type="Verse" s_name="49">
+			<phrase phr_id="2-07-00125-GER02-000196">Die Dinge entstehen weder aus sich selbst,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000197">noch aus etwas anderem, noch aus beidem,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000198">noch ohne Ursache — deswegen gibt es</phrase>
+			<phrase phr_id="2-07-00125-GER02-000199">keine Natur aufgrund ihres eigenen Wesens.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000052" type="Verse" s_name="50">
+			<phrase phr_id="2-07-00125-GER02-000200">Auch wenn man sämtliche Phänomene</phrase>
+			<phrase phr_id="2-07-00125-GER02-000201">daraufhin untersucht, ob sie eins oder viele sind,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000202">ist ihre Wesenheit nicht zu finden —</phrase>
+			<phrase phr_id="2-07-00125-GER02-000203">so erlangt man Gewissheit der Abwesenheit von Eigennatur.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000053" type="Verse" s_name="51">
+			<phrase phr_id="2-07-00125-GER02-000204">Auch in der Beweisführung der Siebzig Verse</phrase>
+			<phrase phr_id="2-07-00125-GER02-000205">über die Leerheit sowie im Wurzeltext</phrase>
+			<phrase phr_id="2-07-00125-GER02-000206">über den Mittleren Weg und anderen Schriften</phrase>
+			<phrase phr_id="2-07-00125-GER02-000207">ist die Leerheit, die die Natur der Dinge ist, dargelegt.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000054" type="Verse" s_name="52">
+			<phrase phr_id="2-07-00125-GER02-000208">Ich führe das deshalb hier nicht weiter aus,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000209">weil der Text sehr lang werden würde.</phrase>
+			<phrase phr_id="2-07-00125-GER02-000210">Nur die festgestellten Schlussfolgerungen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000211">Will ich erklären, damit man darüber meditiert.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000055" type="Verse" s_name="53">
+			<phrase phr_id="2-07-00125-GER02-000212">Jede Meditation darüber, dass es ein Selbst nicht gibt,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000213">da bei sämtlichen Phänomenen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000214">keine Eigennatur zu beobachten ist,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000215">ist also ein Entwickeln von Weisheit.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000056" type="Verse" s_name="54">
+			<phrase phr_id="2-07-00125-GER02-000216">So, wie man mit Weisheit sämtliche Phänomene</phrase>
+			<phrase phr_id="2-07-00125-GER02-000217">untersucht und deren Eigennatur nicht findet,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000218">so untersuche mit Logik auch diese Weisheit selbst</phrase>
+			<phrase phr_id="2-07-00125-GER02-000219">und meditiere dann darüber ohne begriffliche Vorstellungen.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000057" type="Verse" s_name="55">
+			<phrase phr_id="2-07-00125-GER02-000220">Diese Welt entspringt begrifflichen Vorstellungen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000221">ihre Natur ist die der Begrifflichkeit.</phrase>
+			<phrase phr_id="2-07-00125-GER02-000222">Höchstes Nirvana bedeutet daher,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000223">jede begriffliche Vorstellung aufgegeben zu haben.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000058" type="Sentence">
+			<phrase phr_id="2-07-00125-GER02-000224">So sagte auch der Erhabene Buddha:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000059" type="Verse" s_name="56">
+			<phrase phr_id="2-07-00125-GER02-000225">„Die große Unwissenheit begrifflicher Vorstellungen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000226">bewirkt, dass man ins Meer des Daseinskreislaufes fällt.</phrase>
+			<phrase phr_id="2-07-00125-GER02-000227">Beim Verweilen in nicht-begrifflicher Konzentration</phrase>
+			<phrase phr_id="2-07-00125-GER02-000228">wird Abwesenheit begrifflicher Vorstellung offenbar wie der Himmel.‟</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000060" type="Sentence">
+			<phrase phr_id="2-07-00125-GER02-000229">Und im Dharani des Eintritts ins Nicht-Begriffliche sprach er:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000061" type="Verse" s_name="57">
+			<phrase phr_id="2-07-00125-GER02-000230">„Wenn die Nachkommen der Siegreichen Buddhas</phrase>
+			<phrase phr_id="2-07-00125-GER02-000231">diese vortreffliche Lehre ohne begriffliche Vorstellung kontemplieren,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000232">werden sie die schwer zu überschreitenden</phrase>
+			<phrase phr_id="2-07-00125-GER02-000233">begrifflichen Vorstellungen hinter sich lassen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000234">und schrittweise den nicht-begrifflichen Zustand erlangen.‟</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000062" type="Verse" s_name="58">
+			<phrase phr_id="2-07-00125-GER02-000235">Hast du mittels der Schriften und logischer Gründe</phrase>
+			<phrase phr_id="2-07-00125-GER02-000236">Gewissheit gewonnen, dass sämtliche Phänomene</phrase>
+			<phrase phr_id="2-07-00125-GER02-000237">ohne Eigennatur sind, frei von Entstehen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000238">meditiere anschließend ohne Begrifflichkeit.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000063" type="Verse" s_name="59">
+			<phrase phr_id="2-07-00125-GER02-000239">Hast du auf diese Weise darüber meditiert,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000240">und schrittweise das Stadium „Wärme‟ und dergleichen erlangt,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000241">wirst du die „Freudvolle‟ und andere Ebenen erreichen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000242">und der erleuchtete Zustand des Buddha ist nicht mehr fern.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000064" type="Verse" s_name="60">
+			<phrase phr_id="2-07-00125-GER02-000243">Wünschst du auch mittels der friedvollen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000244">ausdehnenden und anderen Aktivitäten,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000245">die durch die Kraft des Mantra verwirklicht werden,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000246">mit der Stärke der acht großen Siddhis,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000247">wie zum Beispiel dem des guten Gefäßes,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000065" type="Verse" s_name="61">
+			<phrase phr_id="2-07-00125-GER02-000248">die Ansammlungen für die Erleuchtung</phrase>
+			<phrase phr_id="2-07-00125-GER02-000249">auf vorteilhafte Art zu vollenden</phrase>
+			<phrase phr_id="2-07-00125-GER02-000250">und möchtest das Geheime Mantra ausüben,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000251">das in Kriya-, Charya- und anderen Tantras gelehrt wird,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000066" type="Verse" s_name="62">
+			<phrase phr_id="2-07-00125-GER02-000252">dann solltest du, damit die Meister-Einweihung erteilt wird,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000253">einen vortrefflichen spirituellen Lehrer mit allem erfreuen:</phrase>
+			<phrase phr_id="2-07-00125-GER02-000254">mit respektvollen Diensten, Darbringung von Kostbarkeiten,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000255">durch Umsetzen seiner Worte und anderes mehr.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000067" type="Verse" s_name="63">
+			<phrase phr_id="2-07-00125-GER02-000256">Aufgrund der vollständigen Meister-Einweihung,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000257">die der erfreute spirituelle Lehrer erteilen wird,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000258">wirst du, von allem Schädlichen ganz gereinigt,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000259">selbst in der glücklichen Lage sein, hohe Verwirklichung zu vollenden.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000068" type="Verse" s_name="64">
+			<phrase phr_id="2-07-00125-GER02-000260">Ordinierte im reinen Lebenswandel sollten</phrase>
+			<phrase phr_id="2-07-00125-GER02-000261">nicht die Geheime Weisheits-Einweihung nehmen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000262">denn dies wird im Großen Tantra des Adibuddha</phrase>
+			<phrase phr_id="2-07-00125-GER02-000263">mit großem Nachdruck untersagt.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000069" type="Verse" s_name="65">
+			<phrase phr_id="2-07-00125-GER02-000264">Falls sie diese Einweihung annehmen würden,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000265">würde es die Gelübde der Askese verletzen,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000266">weil es zu Verhaltensweisen führen würde,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000267">die abgelehnt würden, wenn jemand im reinen Lebenswandel verbleibt.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000070" type="Verse" s_name="66">
+			<phrase phr_id="2-07-00125-GER02-000268">Es würde ein Bruch der Verhaltensvorschriften</phrase>
+			<phrase phr_id="2-07-00125-GER02-000269">auftreten, mit denen sie ausgestattet sind,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000270">und weil dann der Fall in elende Bereiche gewiss ist,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000271">würden sie auch keine Verwirklichungen erlangen.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000071" type="Verse" s_name="67">
+			<phrase phr_id="2-07-00125-GER02-000272">Alle Tantras zu hören und zu erklären,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000273">Feuer-Rituale und Gaben-Darbringung durchzuführen</phrase>
+			<phrase phr_id="2-07-00125-GER02-000274">und dergleichen ist kein Fehler für jemanden, der</phrase>
+			<phrase phr_id="2-07-00125-GER02-000275">die Meister-Einweihung erhält und die Soheit erkennt.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000072" type="Verse" s_name="68">
+			<phrase phr_id="2-07-00125-GER02-000276">Vom Ordensälteren Dipamkarashri</phrase>
+			<phrase phr_id="2-07-00125-GER02-000277">wurde auf Bitten von Dschangtschub Ö</phrase>
+			<phrase phr_id="2-07-00125-GER02-000278">die Erklärung des Pfads zur Erleuchtung zusammengefasst,</phrase>
+			<phrase phr_id="2-07-00125-GER02-000279">die er in den Sutra- und anderen Lehren erläutert sah.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000073" type="Text Colophon">
+			<phrase phr_id="2-07-00125-GER02-000280">Damit ist die Lampe auf dem Weg, verfasst von dem großen Meister Dipairikara-shrijnana, abgeschlossen.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000074" type="Sentence">
+			<phrase phr_id="2-07-00125-GER02-000281">Der Text wurde von dem bedeutenden indischen Abt selbst und vom Lektor und Übersetzer Gewä Lodrö übersetzt, geprüft und bestätigt.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-GER02-SID000075" type="Sentence">
+			<phrase phr_id="2-07-00125-GER02-000282">Die Unterweisung wurde im Haupttempel Tholing von Schang Schung verfasst.</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

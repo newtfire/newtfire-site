@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/fundocs/data/docs/fn" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:37-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="format-date.md" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:37-04:00" modified="2020-08-07T02:48:37-04:00" filename="format-date.md" mimetype="text/markdown" blob-id="3707574eaba75388aef71a89f7cd754da89e5f08cb0a7451c0d74add4b7a7918">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

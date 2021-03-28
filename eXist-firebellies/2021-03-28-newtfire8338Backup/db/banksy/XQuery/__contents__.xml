@@ -1,0 +1,48 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/banksy/XQuery" owner="admin" group="dba" mode="755" created="2020-08-07T21:19:49-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="timeline.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50-04:00" modified="2020-08-07T21:19:50-04:00" filename="timeline.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="imageVerification.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:49-04:00" modified="2020-08-07T21:19:49-04:00" filename="imageVerification.xql" mimetype="application/xquery" blob-id="df1b6443a5620790df1fd752103ca7d09c6e8c2a62c18de69c9ebd8ef2f77c02">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyYearMediumNetwork.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:49-04:00" modified="2020-08-07T21:19:49-04:00" filename="banksyYearMediumNetwork.tsv" mimetype="application/xml" blob-id="33157b675131701bf7b6ffc1d446cc31af47ca91abfee018d06e3695cd277740">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyNetwork.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:49-04:00" modified="2020-08-07T21:19:49-04:00" filename="banksyNetwork.tsv" mimetype="application/xml" blob-id="dbe52cea921333de913f54165169c8d7281316f9bebab60a84ffde371d6be1b2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyNetwork.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50-04:00" modified="2020-08-07T21:19:50-04:00" filename="banksyNetwork.xql" mimetype="application/xquery" blob-id="d70ec7e2e1ab0aac4326e219fa03494315679bf902b5f1d11f304f3c8f2afa89">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyYearMediumNetwork.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50-04:00" modified="2020-08-07T21:19:50-04:00" filename="banksyYearMediumNetwork.xql" mimetype="application/xquery" blob-id="44b555704d84fe85a571de4cef8092494677322530307de013c2ddd375d532c2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyErrors.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50-04:00" modified="2020-08-07T21:19:50-04:00" filename="banksyErrors.xql" mimetype="application/xquery" blob-id="5f1acfac7c5dc48ee0524a822052b4599f84a0a2742cdde978096fe98568f85c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyCountriesNetwork.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50-04:00" modified="2020-08-07T21:19:50-04:00" filename="banksyCountriesNetwork.tsv" mimetype="application/xml" blob-id="087f5a8ae6f3257ad1ba2038d4ed9bade62f1365bb9b170c0354bceb4f37bde6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timeline_eaches.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50-04:00" modified="2020-08-07T21:19:50-04:00" filename="timeline_eaches.xql" mimetype="application/xquery" blob-id="690fd3af34b0db99f663ab2de6c4d1617a11366a1b8e93941e11840e8f27f2b1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyNameMediumNetwork.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50-04:00" modified="2020-08-07T21:19:50-04:00" filename="banksyNameMediumNetwork.tsv" mimetype="application/xml" blob-id="51ca8b198347d26f33697654f698daea9f6a546e5ed1126b97d3d42e69c36cfe">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyTimeline.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50-04:00" modified="2020-08-07T21:19:50-04:00" filename="banksyTimeline.tsv" mimetype="application/xml" blob-id="5f7b3b725e982180f3ca213ee21c1aa864b2c0746eddcf57ae04ea67a6645235">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyNameMediumNetwork.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50-04:00" modified="2020-08-07T21:19:50-04:00" filename="banksyNameMediumNetwork.xql" mimetype="application/xquery" blob-id="dd29ad1669bcf9e6bce58d96aafd33f73ca10c941f31069fe499b896418d9c21">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyCountriesNetwork.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50-04:00" modified="2020-08-07T21:19:50-04:00" filename="banksyCountriesNetwork.xql" mimetype="application/xquery" blob-id="844a20667f34cfbdeeb0c365fc595fdfd7990285919e0b975d8a2d98b83f5c00">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyNamesByYear.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50-04:00" modified="2020-08-07T21:19:50-04:00" filename="banksyNamesByYear.xql" mimetype="application/xquery" blob-id="a4aa5079b3a5dac43967432bb2298aa5ecae382b32eda83dcb5ff1e56ace8cca">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyKML.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50-04:00" modified="2020-08-07T21:19:50-04:00" filename="banksyKML.xql" mimetype="application/xquery" blob-id="05dd367f9ff0f96a831ed13037e4eaa55ce4bb00faa65d28f5424dd7c6efd558">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

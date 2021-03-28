@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/AnnotationToolQs" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:44-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="si.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:45-04:00" modified="2020-08-07T21:20:45-04:00" filename="si.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerMissJames-coRef" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:44-04:00" modified="2020-08-07T21:20:44-04:00" filename="testerMissJames-coRef" mimetype="application/xml" blob-id="54a66922f3813b138ca6818d89f7af37df6132002a7fd5506da1c5f403ec5a08">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tester_for_ADE" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:45-04:00" modified="2020-08-07T21:20:45-04:00" filename="tester_for_ADE" mimetype="application/xml" blob-id="e18a9c1892f423ee1a3bb3bc86db3c2e4fcf8ba0375cabd0d6a55079f87e0891">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AnnotationTool.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:45-04:00" modified="2020-08-07T21:20:45-04:00" filename="AnnotationTool.xql" mimetype="application/xquery" blob-id="e18a9c1892f423ee1a3bb3bc86db3c2e4fcf8ba0375cabd0d6a55079f87e0891">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

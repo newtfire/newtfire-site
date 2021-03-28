@@ -1,0 +1,236 @@
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-07-00125-FRE03.xml"/>
+		<title>Bodhipathapradīpa</title>
+		<author>Atīśa Dīpaṃkaraśrījñāna</author>
+		<unifiedCatalogID>2-07-00125</unifiedCatalogID>
+		<sourceDesc>
+			<bibl>
+				<title>″La lumière de la voie″</title>
+				<author>Boussemart, Marie-Stella</author>
+				<pubInfo>in _Dromteunpa, l'humble yogi, ou, Le renouveau du bouddhisme au Tibet du XIème siècle_ (Marie-Stella Boussemart, ed.) Marzens: Ed. Vajra Yogini, pp.222-231</pubInfo>
+				<date>1999</date>
+			</bibl>
+		</sourceDesc>
+		<creation date="Mon Feb 31 4:20:37 2020"/>
+		<processed date="Mon Feb 31 4:20:37 2020" ver="v.1.0" auth="Hackett"/>
+		<processed date="Tue Mar 31 04:20:20 2020" ver="v.1.01" auth="XMLTagEnglish v.1.08"/>
+	</head>
+	<text>
+		<sentence s_id="2-07-00125-FRE03-SID000001" type="Text Title">
+			<phrase phr_id="2-07-00125-FRE03-000001">La Lumière de la voie</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000002" type="Sentence">
+			<phrase phr_id="2-07-00125-FRE03-000002">Au Bodhisattava Manjoushri, le Jeune, je rends hommage.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000003" type="Verse" s_name="1">
+			<phrase phr_id="2-07-00125-FRE03-000003">A tous les Victorieux des trois temps, à leur Enseignement, et aux Sanghas, avec grand respect, je rends hommage.</phrase>
+			<phrase phr_id="2-07-00125-FRE03-000004">Y ayant été exhorté par mon excellent disciple Tchang-tchoup Eu, je vais ici faire toute la lumière sur la voie qui mène à l'Eveil.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000004" type="Verse" s_name="2">
+			<phrase phr_id="2-07-00125-FRE03-000005">Les inférieurs, les moyens et les supérieurs, reconnaissez les trois classes d'êtres. Je vais définir chaque catégorie en éclairant ses particularités.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000005" type="Verse" s_name="3">
+			<phrase phr_id="2-07-00125-FRE03-000006">Celui qui, quels que soient les moyens employés, ne recherche que son seul bonheur mondain [du samsara], celui-là est un être inférieur [par sa motivation], sachez-le.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000006" type="Verse" s_name="4">
+			<phrase phr_id="2-07-00125-FRE03-000007">Celui qui, se détournant des plaisirs du samsara et se gardant des karmas mauvais, recherche uniquement sa libération personnelle, cet être est qualifié de « moyen ».</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000007" type="Verse" s_name="5">
+			<phrase phr_id="2-07-00125-FRE03-000008">Celui qui, partant de ses propres souffrances, désire à tout prix éliminer totalement toutes les souffrances des autres, cet être-là est supérieur.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000008" type="Verse" s_name="6">
+			<phrase phr_id="2-07-00125-FRE03-000009">A l'intention des êtres excellents qui aspirent à l'Eveil suprême, je vais exposer la parfaite méthode indiquée par les Maîtres.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000009" type="Verse" s_name="7">
+			<phrase phr_id="2-07-00125-FRE03-000010">Tournez-vous vers une représentation du Bouddha, un stoupa et le parfait Dharma, et offrez fleurs, encens et tout autre objet en votre possession.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000010" type="Verse" s_name="8">
+			<phrase phr_id="2-07-00125-FRE03-000011">Procédez également aux sept offrandes indiquées dans la prière de Samantabhadra. Avec en vous les esprits d'Eveil [aspiration et engagement] irréversibles jusqu'à ce que vous paracheviez l'essence de l'Eveil, ...</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000011" type="Verse" s_name="9">
+			<phrase phr_id="2-07-00125-FRE03-000012">mû par un total respect envers les trois Joyaux, mettez-vous à genoux, joignez les mains et commencez par prendre refuge, par trois fois.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000012" type="Verse" s_name="10">
+			<phrase phr_id="2-07-00125-FRE03-000013">Ensuite, après avoir d'abord développé l'amour envers tous les êtres, observez-les tous, accablés de souffrances, celles des trois états infortunés, de la naissance, de la mort, et tant d'autres.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000013" type="Verse" s_name="11">
+			<phrase phr_id="2-07-00125-FRE03-000014">Alors, poussé par le désir de libérer les êtres des souffrances manifestes, des souffrances déguisées et des souffrances virtuelles, produisez l'esprit d'Eveil en vous engageant de manière irrévocable.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000014" type="Verse" s_name="12">
+			<phrase phr_id="2-07-00125-FRE03-000015">Toutes les qualités engendrées par ces aspirations [à l'Eveil], Maitréya les a excellemment exposées dans le Gandavyouha soutra.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000015" type="Verse" s_name="13">
+			<phrase phr_id="2-07-00125-FRE03-000016">Que ce soit en lisant les soutras ou en écoutant les Maîtres, faites en sorte de comprendre les infinies qualités de l'esprit d'Eveil complet, et afin qu'il demeure en vous, encore et encore, produisez de cette même manière l'esprit d'Eveil.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000016" type="Verse" s_name="14">
+			<phrase phr_id="2-07-00125-FRE03-000017">Ces qualités qui ont été excellemment décrites dans les soutras demandés par Viradatta, je vais ici les condenser en trois strophes environ.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000017" type="Verse" s_name="15">
+			<phrase phr_id="2-07-00125-FRE03-000018">Supposons que les mérites de l'esprit d'Eveil aient une forme, ils rempliraient l'espace entier et même en déborderaient!</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000018" type="Verse" s_name="16">
+			<phrase phr_id="2-07-00125-FRE03-000019">Entre celui qui remplirait de pierres précieuses autant de Terres de bouddhas qu'il y a de grains de sable dans le Gange, et offrirait le tout au Protecteur du Monde [Ava-lokiteshvara], ...</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000019" type="Verse" s_name="17">
+			<phrase phr_id="2-07-00125-FRE03-000020">et celui qui, joignant les mains, rend mentalement hommage à l'Eveil, l'offrande de ce dernier est infiniment supérieure; elle n'a pas de limite.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000020" type="Verse" s_name="18">
+			<phrase phr_id="2-07-00125-FRE03-000021">Une fois que vous avez produit en vous l'aspiration [l'engagement] à l'Eveil, de toutes vos forces faites en sorte de l'épanouir sans relâche; et afin de vous souvenir [de ce but] même dans vos vies ultérieures, observez pleinement les entraînements prescrits.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000021" type="Verse" s_name="19">
+			<phrase phr_id="2-07-00125-FRE03-000022">Faute des engagements qui sont la nature même de l'esprit d'Eveil engagement, l'aspiration excellente n'augmente pas. Si vous désirez épanouir vos vœux de bodhisattva, à cette fin il vous faut faire preuve d'ardeur et il faut nécessairement que vous preniez ces vœux.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000022" type="Verse" s_name="20">
+			<phrase phr_id="2-07-00125-FRE03-000023">Celui qui maintient continuellement en lui les autres vœux, [de l'une ou de l'autre] des sept classes de prati-moksha, a toute qualité pour prendre les vœux de bodhi-sattva, ce qui sinon n'est pas le cas.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000023" type="Verse" s_name="21">
+			<phrase phr_id="2-07-00125-FRE03-000024">Parmi les sept classes de pratimoksha, ainsi que l'a dit le Tathagata, suprême est la splendeur de l'abstinent; aussi prenez les vœux de bikshou.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000024" type="Verse" s_name="22">
+			<phrase phr_id="2-07-00125-FRE03-000025">Grâce au rituel décrit dans le chapitre sur l'éthique dans Les Terres des bodhisattvas [par Asanga], prenez les vœux auprès d'un bon Maître, doté des caractéristiques excellentes.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000025" type="Verse" s_name="23">
+			<phrase phr_id="2-07-00125-FRE03-000026">Celui qui a une profonde connaissance des rituels d'ordination, qui possède lui-même les vœux et qui a la patience et la compassion de les conférer, sachez qu'il est un bon Maître.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000026" type="Verse" s_name="24">
+			<phrase phr_id="2-07-00125-FRE03-000027">Donnez-vous du mal pour vous enquérir d'un tel Maître; mais pour le cas où vous n'en auriez pas trouvé, je vais expliquer un autre excellent rituel pour prendre les vœux [par vous-même].</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000027" type="Verse" s_name="25">
+			<phrase phr_id="2-07-00125-FRE03-000028">Ainsi, autrefois, alors que Manjoushri était roi d'Amba, il produisit l'esprit d'Eveil. La manière dont il procéda est expliquée dans le Manjoushri-bouddhakshetralamkara soutra, dont je vais ici restituer la teneur.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000028" type="Verse" s_name="26">
+			<phrase phr_id="2-07-00125-FRE03-000029">« Devant tous les protecteurs, je produis l'aspiration à l'Eveil parfait. Je m'engage au service de tous les êtres. Tous, je les libérerai du samsara.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000029" type="Verse" s_name="27">
+			<phrase phr_id="2-07-00125-FRE03-000030">La malveillance et la colère, l'avarice et la jalousie, à partir de cet instant et jusqu'à ce que j'obtienne l'Eveil, je m'en abstiendrai.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000030" type="Verse" s_name="28">
+			<phrase phr_id="2-07-00125-FRE03-000031">J'observerai la chasteté et je rejetterai fautes et désirs. Aimant à respecter l'éthique, je m'exercerai à la suite du Bouddha.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000031" type="Verse" s_name="29">
+			<phrase phr_id="2-07-00125-FRE03-000032">Sans rechercher au plus vite mon seul éveil [libération], fût-ce pour un seul être je resterai jusqu 'à la fin du samsara.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000032" type="Verse" s_name="30">
+			<phrase phr_id="2-07-00125-FRE03-000033">Je purifierai totalement les mondes infinis et inconcevables. J'agirai aussi rien que par mon nom et je demeurerai dans les dix directions.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000033" type="Verse" s_name="31">
+			<phrase phr_id="2-07-00125-FRE03-000034">Mes karmas physiques et oraux, par tous moyens, je les rendrai purs.</phrase>
+			<phrase phr_id="2-07-00125-FRE03-000035">De même rendrai-je pur également mes karmas mentaux, et je ne commettrai plus de karmas non-vertueux.»</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000034" type="Verse" s_name="32">
+			<phrase phr_id="2-07-00125-FRE03-000036">Si, tout en maintenant en soi l'esprit d'Eveil engagement, qui est la cause de la pureté du corps, de la parole et de l'esprit, on s'applique convenablement aux trois instructions de l'éthique, le respect envers lesdites instructions ira en croissant.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000035" type="Verse" s_name="33">
+			<phrase phr_id="2-07-00125-FRE03-000037">Ainsi, grâce à l'observance assidue des vœux pris par les bodhisattvas qui aspirent au pur Eveil parfait, les accumulations qui entraînent l'Eveil parfait finissent par être totalement parachevées.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000036" type="Verse" s_name="34">
+			<phrase phr_id="2-07-00125-FRE03-000038">Ces accumulations sont de la nature des mérites et de la sagesse supérieure. Quant à la cause qui permet leur parachèvement, il s'agit, tous les bouddhas l'ont dit, d'obtenir les facultés supranormales.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000037" type="Verse" s_name="35">
+			<phrase phr_id="2-07-00125-FRE03-000039">De même que, sans déployer ses ailes, un oiseau ne peut voler dans le ciel, de même, sans la force des facultés supranormales, on ne peut accomplir le bien des êtres.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000038" type="Verse" s_name="36">
+			<phrase phr_id="2-07-00125-FRE03-000040">Les mérites acquis en vingt-quatre heures quand on possède les facultés supranormales, sans ces dernières, on ne pourra en obtenir l'équivalent même en cent vies.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000039" type="Verse" s_name="37">
+			<phrase phr_id="2-07-00125-FRE03-000041">Celui qui désormais désire parachever au plus vite les accumulations suscitant l'Eveil parfait, réalisera les facultés supranormales s'il fait preuve d'énergie, mais n'y arrivera jamais s'il s'abandonne à la paresse.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000040" type="Verse" s_name="38">
+			<phrase phr_id="2-07-00125-FRE03-000042">Or, si on n'a pas réalisé le calme mental, les facultés supranormales ne peuvent se développer; aussi, afin de réaliser le calme mental, déployez votre énergie, encore et encore.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000041" type="Verse" s_name="39">
+			<phrase phr_id="2-07-00125-FRE03-000043">Si les conditions du calme mental se dégradent, même si on médite de toutes ses forces, et ce même des milliers d'année durant, on ne pourra réaliser le samadhi.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000042" type="Verse" s_name="40">
+			<phrase phr_id="2-07-00125-FRE03-000044">Par conséquent, demeurez dans les conditions exposées dans le chapitre concernant les accumulations nécessaires au samadhi. En utilisant un objet de votre choix, instaurez en vous un état d'esprit vertueux.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000043" type="Verse" s_name="41">
+			<phrase phr_id="2-07-00125-FRE03-000045">Que le yoga du calme mental soit réalisé, et il devient possible d'obtenir les facultés supranormales. Mais sans l'entraînement à la sagesse parfaite, les voiles ne peuvent être dissipés.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000044" type="Verse" s_name="42">
+			<phrase phr_id="2-07-00125-FRE03-000046">De ce fait, afin de rejeter tous les voiles, celui des facteurs perturbateurs et le voile à la connaissance, méditez constamment le yoga de la sagesse parfaite, en lui alliant la méthode.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000045" type="Verse" s_name="43">
+			<phrase phr_id="2-07-00125-FRE03-000047">La sagesse sans la méthode comme la méthode sans la sagesse, quelles qu'elles soient, ne sont encore que des liens, ont dit les bouddhas; aussi, ne vous détournez pas des deux [unies].</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000046" type="Verse" s_name="44">
+			<phrase phr_id="2-07-00125-FRE03-000048">Afin d'éliminer tout doute à propos de ce que sont la sagesse et la méthode, il convient d'établir clairement la distinction entre les deux.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000047" type="Verse" s_name="45">
+			<phrase phr_id="2-07-00125-FRE03-000049">En dehors de la perfection de la sagesse, tout ce qui est vertueux, comme la perfection de la générosité, etc., constitue, ont expliqué les bouddhas, la méthode.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000048" type="Verse" s_name="46">
+			<phrase phr_id="2-07-00125-FRE03-000050">Celui qui médite la sagesse avec la puissance octroyée par la méditation de la méthode, celui-là obtient rapidement l'Eveil, ce qui est impossible en méditant seulement le non-soi.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000049" type="Verse" s_name="47">
+			<phrase phr_id="2-07-00125-FRE03-000051">Voir que les agrégats, les éléments et les sphères ne naissent pas, comprendre ainsi leur nature -la vacuité- voilà en quoi consiste la sagesse, ont montré les bouddhas.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000050" type="Verse" s_name="48">
+			<phrase phr_id="2-07-00125-FRE03-000052">Les existants ne peuvent avoir de naissance. Les inexistants, ce sont par exemple les fleurs de l'espace. Comme dans les deux cas, on aboutit à une absurdité, ni les uns ni les autres ne peuvent se produire.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000051" type="Verse" s_name="49">
+			<phrase phr_id="2-07-00125-FRE03-000053">Un phénomène ne naît pas de lui-même. Il n'apparaît pas non plus d'autrui, ni des deux, et pas davantage sans cause. De ce fait, il n'a pas de nature produite d'une essence intrinsèque.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000052" type="Verse" s_name="50">
+			<phrase phr_id="2-07-00125-FRE03-000054">Ou encore, si on analyse tous les existants en termes « d'unité » et de « pluralité », étant donné qu'on ne leur discerne pas une essence intrinsèque, cela démontre qu'ils n'ont pas de nature.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000053" type="Verse" s_name="51">
+			<phrase phr_id="2-07-00125-FRE03-000055">Que ce soit dans le Traité en soixante-dix strophes sur la vacuité [de Nagarjuna], ou dans le Prajnamoula, il est dit que la nature des phénomènes n'est autre que la vacuité.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000054" type="Verse" s_name="52">
+			<phrase phr_id="2-07-00125-FRE03-000056">Comme les ouvrages sur le sujet sont très nombreux, je ne les citerai pas ici, et je vais expliquer les idées essentielles de l'école [prasanguika] pour en rendre la méditation possible.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000055" type="Verse" s_name="53">
+			<phrase phr_id="2-07-00125-FRE03-000057">Ainsi, étant donné que, quel que soit l'existant pris en compte, il est impossible de lui découvrir une nature [propre], méditer le non-soi, c'est méditer la sagesse.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000056" type="Verse" s_name="54">
+			<phrase phr_id="2-07-00125-FRE03-000058">Comme la sagesse ne perçoit de nature pour aucun existant, analysez cette sagesse elle-même. Méditez-la sans la saisie d'absolu.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000057" type="Verse" s_name="55">
+			<phrase phr_id="2-07-00125-FRE03-000059">Le samsara, issu de la saisie d'absolu, est de la nature de la saisie d'absolu. Par conséquent, en éliminant celle-ci sous toutes ses formes, on obtient l'excellent nirvana.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000058" type="Sentence">
+			<phrase phr_id="2-07-00125-FRE03-000060">A ce propos encore, le Bouddha a dit:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000059" type="Verse" s_name="56">
+			<phrase phr_id="2-07-00125-FRE03-000061">«La saisie d'absolu est une grave ignorance; elle fait tomber dans l'océan du samsara. Restez dans le samadhi sans saisie d'absolu. De même que l'espace, l'esprit sans saisie d'absolu est limpide.»</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000060" type="Sentence">
+			<phrase phr_id="2-07-00125-FRE03-000062">Quand grâce aux méditations qui permettent de ne plus saisir d'absolu,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000061" type="Verse" s_name="57">
+			<phrase phr_id="2-07-00125-FRE03-000063">«Les bodhisattvas parviennent à considérer sans saisie d'absolu le parfait Dharma, ils dépassent la saisie d'absolu dont il est si difficile de se débarrasser, et graduellement obtiennent un mode de pensée sans saisie d'absolu.»</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000062" type="Verse" s_name="58">
+			<phrase phr_id="2-07-00125-FRE03-000064">Après avoir acquis, grâce aux textes et aux raisonnements, la compréhension inébranlable que tous les existants sont dépourvus de naissance et de nature [propre], méditez ceci sans saisie d'absolu.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000063" type="Verse" s_name="59">
+			<phrase phr_id="2-07-00125-FRE03-000065">Si on médite ainsi la vacuité, on atteint graduellement le stade « chaleur » [du chemin de la préparation], etc., puis on réalise [la première terre] « Joie Totale », et ainsi de suite, et l'Eveil d'un bouddha n'est plus guère éloigné.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000064" type="Verse" s_name="60">
+			<phrase phr_id="2-07-00125-FRE03-000066">Avec les activités paisibles, étendues, etc., réalisées grâce au pouvoir des tantras, avec la force des huit grandes réalisations, comme celle de l'excellent vase, avec la félicité, ...</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000065" type="Verse" s_name="61">
+			<phrase phr_id="2-07-00125-FRE03-000067">si on désire parachever complètement les accumulations menant à l'Eveil, si on désire pratiquer les tantras tels qu'ils sont exposés dans les tantras de l'action, de la conduite, etc.,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000066" type="Verse" s_name="62">
+			<phrase phr_id="2-07-00125-FRE03-000068">alors pour que l'acarya excellent confère l'initiation, en lui témoignant de la vénération, en lui offrant des pierres précieuses, etc., en appliquant ses injonctions, par tous moyens, il faut satisfaire le parfait Maître.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000067" type="Verse" s_name="63">
+			<phrase phr_id="2-07-00125-FRE03-000069">Si le Maître est satisfait, l'acarya excellent confère l'initiation, et alors soi-même, purifié de toutes ses fautes, on devient un être fortuné susceptible d'obtenir les réalisations.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000068" type="Verse" s_name="64">
+			<phrase phr_id="2-07-00125-FRE03-000070">Etant donné que c'est formellement interdit dans les grands tantras du bouddha primordial, les religieux ne doivent pas recevoir [concrètement] les initiations secrète et de la sagesse.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000069" type="Verse" s_name="65">
+			<phrase phr_id="2-07-00125-FRE03-000071">A supposer qu'ils aient reçu ces initiations, étant donné qu'ils doivent pratiquer l'ascèse de l'abstinence, si jamais ils adoptent les conduites interdites, leur vœu de continence se dégrade.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000070" type="Verse" s_name="66">
+			<phrase phr_id="2-07-00125-FRE03-000072">Les pratiquants dévoyés commettent ainsi les chutes les plus graves et retombent à coup sûr dans les états infortunés; bien sûr, ils n'obtiennent pas la moindre réalisation.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-FRE03-SID000071" type="Verse" s_name="67">
+			<phrase phr_id="2-07-00125-FRE03-000073">[En revanche, les religieux] peuvent étudier et exposer tous les tantras, célébrer l'offrande du feu [homa] et le yajna, trouver un acarya qui leur confère des initiations. Et s'ils ont compris la vacuité, il n'y a plus faute.</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

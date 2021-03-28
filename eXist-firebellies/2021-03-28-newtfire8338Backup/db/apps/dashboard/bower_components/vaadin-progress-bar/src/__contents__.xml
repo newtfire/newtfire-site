@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/vaadin-progress-bar/src" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="vaadin-progress-mixin.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="vaadin-progress-mixin.html" mimetype="text/html" blob-id="13f411feb94bd5314be2ff1f917b2ee8ee94796f2a612736bf6171b75ba8a379">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vaadin-progress-bar.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="vaadin-progress-bar.html" mimetype="text/html" blob-id="223cd9ed70ab8f46c58e0f0226cb7fcf69c244c119e8a9932bf7a469cd7f32ff">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

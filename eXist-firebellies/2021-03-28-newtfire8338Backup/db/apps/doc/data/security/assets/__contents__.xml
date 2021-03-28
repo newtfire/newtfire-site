@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/security/assets" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:34-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="owner-group-world.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="owner-group-world.png" mimetype="image/png" blob-id="6d5304c11fb246f25913aec7b0d9c8deea57b20682adf4e3c461bc9bff9f9d5d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="usermanager.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="usermanager.png" mimetype="image/png" blob-id="03619dbcefc863b668c2a2ff95491fefb8586e095983e4eb0e62d0c3cc2f0e2d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="usermanager2.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="usermanager2.png" mimetype="image/png" blob-id="2adf70040005bf564c2cde7afc2f1563e691958199eaf8e23199a8d607ef3208">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="client-7.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="client-7.png" mimetype="image/png" blob-id="6cdc6bf4d5494615624438ff7c5bb68f194dcc716e0fa463477f705c5d5c9997">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="client-5.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="client-5.png" mimetype="image/png" blob-id="caca2911df73ad2905c2df12f7c0dbca6160fdd80057e0b516a9bd1b0b59cf6d">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

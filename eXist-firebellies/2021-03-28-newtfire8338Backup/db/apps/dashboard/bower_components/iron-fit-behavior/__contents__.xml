@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/iron-fit-behavior" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:27-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="iron-fit-behavior.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:27-04:00" modified="2020-08-07T02:48:27-04:00" filename="iron-fit-behavior.html" mimetype="text/html" blob-id="d8a06123481d14686ffcb3737563662e1c734bbd17d3ea6710ee740ba268dea9">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

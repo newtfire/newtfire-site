@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/paper-input" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="paper-input-char-counter.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-input-char-counter.html" mimetype="text/html" blob-id="59c7201cb9b49b592fc3e6b5a8c31908177705e80baf653d82fef1bbff2b3085">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-input.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-input.html" mimetype="text/html" blob-id="8eca83016b71d025698325f59769098da6ad1d7033db98fb8e47843d826a82e8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-input-behavior.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-input-behavior.html" mimetype="text/html" blob-id="8a1980e9495547edf42585566b50a5a46eb12ce88e403fba254bc3238490b470">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-input-container.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-input-container.html" mimetype="text/html" blob-id="a58627319108483457cb6693f4c96c083a3e7593967c34d33a48883342ad7a7d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-input-addon-behavior.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-input-addon-behavior.html" mimetype="text/html" blob-id="974c6d8879f85d1cadad5a6e226ebd5b031c138a7f8d125f135c3552ffaf12cd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-input-error.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-input-error.html" mimetype="text/html" blob-id="be83edc9dddafadc5444bd20d90616f0a1f1d13b0d3aeaf49b49d2ceacde4844">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

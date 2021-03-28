@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/devguide_rest/listings" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="listing-7.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="listing-7.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-3.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="listing-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-9.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="listing-9.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-10.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="listing-10.txt" mimetype="text/plain" blob-id="a54b313a497bd73656abc27e52d5ab8bc0d7d7ccc67eeefe60cefd52908686f7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-8.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="listing-8.txt" mimetype="text/plain" blob-id="a572b6742c657927fd26af3c5969ec5537352a472adfdebdda75c3c0d85baafa">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-6.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="listing-6.txt" mimetype="text/plain" blob-id="5f7eccc535c4d7993e7f791e546847e05fef8b2ed4b9db3236832940e817d1d8">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

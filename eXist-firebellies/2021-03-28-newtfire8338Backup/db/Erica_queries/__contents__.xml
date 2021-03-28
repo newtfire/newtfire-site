@@ -1,0 +1,100 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/Erica_queries" owner="admin" group="dba" mode="755" created="2020-08-07T21:17:32-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="elisa-frequency-XMLout" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32-04:00" modified="2020-08-07T21:17:32-04:00" filename="elisa-frequency-XMLout" mimetype="application/xml" blob-id="6d92d989187f5e320d905ec3cef76b00abe203e9bd753b6cc82667c38eaba159">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_retrieve_1_doc" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32-04:00" modified="2020-08-07T21:17:32-04:00" filename="draft_mez_retrieve_1_doc" mimetype="application/xml" blob-id="2996b1c0abaf1d19c23ea7415c9346939e4b2103a261a89e9def5c1d1e2737f2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp15" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32-04:00" modified="2020-08-07T21:17:32-04:00" filename="myapp15" mimetype="application/xml" blob-id="0b60f9927b3927765ae131a6c284f196f00583e23c1e96397cd84104344d2db0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tester-elisa" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32-04:00" modified="2020-08-07T21:17:32-04:00" filename="tester-elisa" mimetype="application/xml" blob-id="63cc9b9d1f1d288db9de4872246b67c4d0e07c0f65c991e92cd7dd163cce8ca5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_hello_world" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32-04:00" modified="2020-08-07T21:17:32-04:00" filename="draft_mez_hello_world" mimetype="application/xml" blob-id="f6396f628688ef9598ea9db176dc6992a17fb2a5fbcfd7a8c76c6088fd348e0e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp13" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="myapp13" mimetype="application/xml" blob-id="777e41498981ffc2826953dcb69812ddcb9a1039cb96266605873cc5c044d417">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_count_number_paras" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="draft_mez_count_number_paras" mimetype="application/xml" blob-id="532d25905fde252cafafb1bce17d69b9f2624c2262eea961e4621087601bb81e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp12-partial" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="myapp12-partial" mimetype="application/xml" blob-id="08c28527182370e398cf54852b4a6bfe48053ac1a923b403be8aa1272c7f0a22">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp4-text" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="myapp4-text" mimetype="application/xml" blob-id="5463384085e3fd673f52754db3e3fabcd38506be711e177f0552a0803aab281a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="elisa-mod-MissJames" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="elisa-mod-MissJames" mimetype="application/xml" blob-id="0ea06a791f479c56f40ae5ca84b7948bb63885bfaf27cb8a7da8941f1960f3c5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_coll_titleStmt_title_2" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="draft_mez_coll_titleStmt_title_2" mimetype="application/xml" blob-id="f1346a7bb69afdeb6962741e5f9940d2c250070de1901cd489f9b4afda92e389">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp14-json" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="myapp14-json" mimetype="application/xml" blob-id="6f2871c21682332a11e479c7899049de5e4cde7e1dea1477226d687344299681">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp8" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="myapp8" mimetype="application/xml" blob-id="136b994cf687904b6df4d32faa5a9545e1402d5aa62b45ff9f6b6a6a85ca6e3a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp6" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="myapp6" mimetype="application/xml" blob-id="c7bf4e6100308c6511dd516b4134dfc06a3ca997839ac65cc0be988c15f90f02">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mysecondapp" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="mysecondapp" mimetype="application/xml" blob-id="f5b1d5745f03ce2ed6ad87731bf37cd3ba2e65a00bf033b7b1aef86b0ef5ca87">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_count_letters_query" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="draft_mez_count_letters_query" mimetype="application/xml" blob-id="248dd037bfea8f92a315d47d063aad01f3897aa7579cbdc9e4959f19757ed48c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp7" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="myapp7" mimetype="application/xml" blob-id="80a1c1739092bf36cf15b012ef3b86a1f10c0939b667f8c906cbacaa61805540">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp9" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="myapp9" mimetype="application/xml" blob-id="02121d3dc97df32aff075abe288be396c7136291dd5bddc87c8cb0e92d5a1c0a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_list_distinct_persNames_12-9-15" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33-04:00" modified="2020-08-07T21:17:33-04:00" filename="draft_mez_list_distinct_persNames_12-9-15" mimetype="application/xml" blob-id="8fa88b0d29a8e11321a88040ce252aa6371e5ef124196592f727e97cc52993c0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Mitford_passages_only" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34-04:00" modified="2020-08-07T21:17:34-04:00" filename="Mitford_passages_only" mimetype="application/xml" blob-id="3866b6c9206d424d353823ea5ebd81ce0afd938aac7c18b249888b0ca0e0d1d3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_count_Miss_James_instances" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34-04:00" modified="2020-08-07T21:17:34-04:00" filename="draft_mez_count_Miss_James_instances" mimetype="application/xml" blob-id="223f6225cab54043bed2ded814bcc38e724478c37f30596a79b74bc76d3d1bea">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="my-first-app" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34-04:00" modified="2020-08-07T21:17:34-04:00" filename="my-first-app" mimetype="application/xml" blob-id="321b1d814597840af107cfd94a5c78f7edffebbb153890ee3dea23b04c771b5f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp11" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34-04:00" modified="2020-08-07T21:17:34-04:00" filename="myapp11" mimetype="application/xml" blob-id="c68b1e38147ba016cb285b84c08ad736a8fcdf152291a72316ea868add6b9fd7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp10" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34-04:00" modified="2020-08-07T21:17:34-04:00" filename="myapp10" mimetype="application/xml" blob-id="02121d3dc97df32aff075abe288be396c7136291dd5bddc87c8cb0e92d5a1c0a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Mitford-CoCit-Tables" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34-04:00" modified="2020-08-07T21:17:34-04:00" filename="Mitford-CoCit-Tables" mimetype="application/xml" blob-id="63cc9b9d1f1d288db9de4872246b67c4d0e07c0f65c991e92cd7dd163cce8ca5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_count_number_persName" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34-04:00" modified="2020-08-07T21:17:34-04:00" filename="draft_mez_count_number_persName" mimetype="application/xml" blob-id="1da3d099cd2a3a2fdb6ad65d3ec1b570c6c8975cc127d19c6087aa7f5a82d52b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_count_persNames_opening_and_body" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34-04:00" modified="2020-08-07T21:17:34-04:00" filename="draft_mez_count_persNames_opening_and_body" mimetype="application/xml" blob-id="d297794d76200410fa0ff44e161fa11d1da1a59980aa4d6d843b36ce8b71aa2f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="erica_modifying_counts_of_xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34-04:00" modified="2020-08-07T21:17:34-04:00" filename="erica_modifying_counts_of_xml" mimetype="application/xml" blob-id="130e725649d8cde7b303f6910a9954d34e0c51ba5b8ed186724e5f23cf5fe045">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_count_distinct_vals_all_persName" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34-04:00" modified="2020-08-07T21:17:34-04:00" filename="draft_mez_count_distinct_vals_all_persName" mimetype="application/xml" blob-id="578d40dd29c2a3c5376ef4821accbfaebe09583796b0e7cae4a861a5b8e8cad3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_return_all_persNames" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34-04:00" modified="2020-08-07T21:17:34-04:00" filename="draft_mez_return_all_persNames" mimetype="application/xml" blob-id="5424ccc8da762fce975b77bd498f8dd25bd8c7c1a0c89ec708ad9ce1b82fde30">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="elisa-pipeUnifierSample" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34-04:00" modified="2020-08-07T21:17:34-04:00" filename="elisa-pipeUnifierSample" mimetype="application/xml" blob-id="9fdf9049cbc904e79fa930c2926d3a434b2a7c786dbb010476f0000f592bd223">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp5" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34-04:00" modified="2020-08-07T21:17:34-04:00" filename="myapp5" mimetype="application/xml" blob-id="fb0128e6d7887d885e676bebb455bf4f28c10fb4ce606ebbe34b3406aa30a8e1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="queries1" filename="queries1"/>
+</collection>

@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ulysses/Homecoming" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:04-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Eaumus(Finished).xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:04-04:00" modified="2020-08-07T21:12:04-04:00" filename="Eaumus(Finished).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="penelope.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:04-04:00" modified="2020-08-07T21:12:04-04:00" filename="penelope.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Ithaca.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:04-04:00" modified="2020-08-07T21:12:04-04:00" filename="Ithaca.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

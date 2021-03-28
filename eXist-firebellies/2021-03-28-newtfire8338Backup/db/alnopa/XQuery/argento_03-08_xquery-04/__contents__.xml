@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/alnopa/XQuery/argento_03-08_xquery-04" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:46-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="banksyErrors.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:46-04:00" modified="2020-08-07T21:20:46-04:00" filename="banksyErrors.xql" mimetype="application/xquery" blob-id="98ebc5d28d3a850fe94e200d40852c7e94c230417b09accbc92f344ca7d65781">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

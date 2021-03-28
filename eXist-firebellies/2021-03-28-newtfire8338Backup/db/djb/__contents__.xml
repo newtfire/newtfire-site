@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/djb" owner="admin" group="dba" mode="755" created="2020-08-07T21:17:42-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="monotremata.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:42-04:00" modified="2020-08-07T21:17:42-04:00" filename="monotremata.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="marsupials.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:42-04:00" modified="2020-08-07T21:17:42-04:00" filename="marsupials.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="greeting.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:42-04:00" modified="2020-08-07T21:17:42-04:00" filename="greeting.xql" mimetype="application/xquery" blob-id="9243441d7cc1603a4b021c1abc05f2ffc6853cd46e68690b0e697bb70067f0fd">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

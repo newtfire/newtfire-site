@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/versioning/listings" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:33-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="listing-6.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-2.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-1.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-5.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-5.txt" mimetype="text/plain" blob-id="83fa7890377a001bd9c7b805b6ce8f3652c3092381e8ad71c6738cfa9bbe0b60">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-4.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-4.txt" mimetype="text/plain" blob-id="73a6c3c6b97542c3df7d7294b8ce7d2f4f784929cc7ae668d8f86dcc90adcd1e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-7.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-7.txt" mimetype="text/plain" blob-id="5b04c103f27ad289f163447ac23060a91c57ba70d0bf32ab1c5bdadd2c34e5e0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-3.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-3.txt" mimetype="text/plain" blob-id="f1cef3b5b05088d924431b0e5992f9c928d339931af88609f598e8890087e8db">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/paper-password-input" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="match-passwords-validator.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="match-passwords-validator.html" mimetype="text/html" blob-id="49636c93a3b69835250cd566a4187cb0d94c73a2d6b5e570cf4bef937ecdfaae">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-password-input.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-password-input.html" mimetype="text/html" blob-id="bdde1d988c6b0a859d62fcfb4f2511c50331a717e66508da13447ec2a9c4868a">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

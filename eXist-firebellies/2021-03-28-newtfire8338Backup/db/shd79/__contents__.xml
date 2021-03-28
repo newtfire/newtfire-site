@@ -1,0 +1,45 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/shd79" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:44-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="dunn_bbTransforms.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45-04:00" modified="2020-08-07T21:12:45-04:00" filename="dunn_bbTransforms.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dunn_xquery-02.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45-04:00" modified="2020-08-07T21:12:45-04:00" filename="dunn_xquery-02.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pokemon_example.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45-04:00" modified="2020-08-07T21:12:45-04:00" filename="pokemon_example.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dunn_rocketExample.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45-04:00" modified="2020-08-07T21:12:45-04:00" filename="dunn_rocketExample.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dunn_rocketExample.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45-04:00" modified="2020-08-07T21:12:45-04:00" filename="dunn_rocketExample.xql" mimetype="application/xquery" blob-id="fda996775c75c1dcfbed69e9d3b14052fc185f4a778539258138d3eaf7f96828">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="titans_speeches.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45-04:00" modified="2020-08-07T21:12:45-04:00" filename="titans_speeches.tsv" mimetype="application/xml" blob-id="5be16a2738ececbcebb85fa5f18ab2c083b71966655e743a17efdeca7f033684">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dunn_3-02_xquery-02.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45-04:00" modified="2020-08-07T21:12:45-04:00" filename="dunn_3-02_xquery-02.xql" mimetype="application/xquery" blob-id="8ded081e0e4b67fa86873b48d7dbef24fe89b8a5b8e5e4413482b444e607ee3d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="speechCounts.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45-04:00" modified="2020-08-07T21:12:45-04:00" filename="speechCounts.xql" mimetype="application/xquery" blob-id="b767b4ead74efe5e17d639576aa7eba82c5cf3b4067cbd5189bf9186147cf1dc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dunn_qgis-01.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45-04:00" modified="2020-08-07T21:12:45-04:00" filename="dunn_qgis-01.tsv" mimetype="application/xml" blob-id="f9c2cb9350fa340ba88eff1a771e67f01027b0e880d350da3aad52f3d02bbe7f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dunn_bbTransforms.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45-04:00" modified="2020-08-07T21:12:45-04:00" filename="dunn_bbTransforms.xql" mimetype="application/xquery" blob-id="35cfb94643a198de531b967b0088e13816f51a02d79990acded887dd3f9de902">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="titan_speeches2.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45-04:00" modified="2020-08-07T21:12:45-04:00" filename="titan_speeches2.tsv" mimetype="application/xml" blob-id="c93de83fd6c3a9266abaeb43b4230c14f1947435941cdd8fdbce014d22c104bc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery-networkAnalysis-01" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45-04:00" modified="2020-08-07T21:12:45-04:00" filename="xquery-networkAnalysis-01" mimetype="application/xml" blob-id="d202039b06c0524fd8abcd5533e50a0f3d468e7ea900589c2d3fbbe1935003e2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="speechCounts2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:44-04:00" modified="2020-08-07T21:12:44-04:00" filename="speechCounts2.xql" mimetype="application/xquery" blob-id="0942e5b2d0af51ad7caaaea47a7bef3606bdbf4727c1335cbc607bf0851a398f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dunn_qgis-01.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:44-04:00" modified="2020-08-07T21:12:44-04:00" filename="dunn_qgis-01.xql" mimetype="application/xquery" blob-id="30c2f63b5b0fcf0dd5069baf31bd5d07bbe6faa4617fc0052af86995d1f8f423">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/resources/styles" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:32-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="bootstrap.min.css.map" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="bootstrap.min.css.map" mimetype="application/octet-stream" blob-id="71402f00407b022d58cd4f2b0e2dba47916ba2fca6c604112a75879244ad7d66">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="style.min.css" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="style.min.css" mimetype="text/css" blob-id="ab2c2b31720c02e4aaa1153cecf68b402701e884f0b1bd8c3fca07a6d0a10ba8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exist-2.2.min.css.map" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="exist-2.2.min.css.map" mimetype="application/octet-stream" blob-id="92858fd11127f81f6fb53d8604118c508c17f172f355adc161cce28e7012ad8b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="atom-one-dark.css" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="atom-one-dark.css" mimetype="text/css" blob-id="e359cbb5585244f0480a90f3842253b54a2e38436b64c8d8e5dce1bfce151f3e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="style.min.css.map" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="style.min.css.map" mimetype="application/octet-stream" blob-id="8c629ec49e48b5e05a6a4dec50e9c1efca058d6901819fd632744a3f03707729">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap.min.css" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="bootstrap.min.css" mimetype="text/css" blob-id="328050a3d026001f9e57736f1830290ee5d526fa47bf78887d929d7bcfd7ea04">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="doc.min.css" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="doc.min.css" mimetype="text/css" blob-id="7669569dfcde79c4d8f456d270de3d09dbb53b1223aa1c124068aaded6e06856">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="doc.min.css.map" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="doc.min.css.map" mimetype="application/octet-stream" blob-id="a9be9c33d58ce8f936079f95bf434efd9ee497814e954eb1cb198edf209e8a5b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exist-2.2.min.css" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="exist-2.2.min.css" mimetype="text/css" blob-id="1ff59987b8689792c464fbeb116c7db25a368b21f1b94bc900d3ae61460eb3da">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

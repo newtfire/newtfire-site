@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/paper-dialog-scrollable" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:28-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="paper-dialog-scrollable.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="paper-dialog-scrollable.html" mimetype="text/html" blob-id="bf7ef5e0cc2f2f5c1d6fd99b713fb300a9c8b136a8e75320952797347e6548d2">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

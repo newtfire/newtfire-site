@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/testing" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:07-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="1820-09-09-Elford.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:07-04:00" modified="2020-08-07T21:12:07-04:00" filename="1820-09-09-Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-04-18-BRHaydon.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08-04:00" modified="2020-08-07T21:12:08-04:00" filename="1821-04-18-BRHaydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1825-08-12Talfourd.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08-04:00" modified="2020-08-07T21:12:08-04:00" filename="1825-08-12Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1820-03-20-WElford.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:07-04:00" modified="2020-08-07T21:12:07-04:00" filename="1820-03-20-WElford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1825-06-29-Talfourd.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:07-04:00" modified="2020-08-07T21:12:07-04:00" filename="1825-06-29-Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-03-22-Elford.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:07-04:00" modified="2020-08-07T21:12:07-04:00" filename="1821-03-22-Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-10-31-BRHaydon.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:07-04:00" modified="2020-08-07T21:12:07-04:00" filename="1821-10-31-BRHaydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ozymandias.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:07-04:00" modified="2020-08-07T21:12:07-04:00" filename="ozymandias.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ozymandias-lb.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:07-04:00" modified="2020-08-07T21:12:07-04:00" filename="ozymandias-lb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

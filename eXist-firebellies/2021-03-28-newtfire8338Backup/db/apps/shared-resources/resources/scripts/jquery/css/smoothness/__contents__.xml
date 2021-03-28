@@ -1,0 +1,43 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/resources/scripts/jquery/css/smoothness" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery.ui.dialog.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.ui.dialog.css" mimetype="text/css" blob-id="8ee66c2a35c700a5ed0169d41c2541685d84fce4bd45569f91c566e6516f5b9d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.ui.all.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.ui.all.css" mimetype="text/css" blob-id="d440060f7524c129b855142a45c3b50c6ad55526f3319a5f35dae40a67d2113f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.ui.resizable.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.ui.resizable.css" mimetype="text/css" blob-id="518d67b3d7c47e179260bd9f10a51e3ce765fdeb48a62cf993ff7f1eb6f836e3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.ui.base.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.ui.base.css" mimetype="text/css" blob-id="35172ec6a835a62e53e5bd2bfa12ed1fac6b9f1ce4dd312f79ba39d64ea5d1d7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.ui.button.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.ui.button.css" mimetype="text/css" blob-id="712db205d6993b84c5d4b307fef5b331e5526e31ed1b398e62676897e6ab81ac">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.ui.core.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.ui.core.css" mimetype="text/css" blob-id="ca7f915b733748fc9732cea1b64dcee98f52d3f84a0506dbad481174a85d218e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.ui.slider.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.ui.slider.css" mimetype="text/css" blob-id="838b04ede717861c8d8bc09a28529f4f9e3b4da15eb6c77fa077480a88b7fea2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.ui.datepicker.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.ui.datepicker.css" mimetype="text/css" blob-id="2fe342b1b1df19a1845444eca2027747d15ee110af233c9f04b2cfc7f8abdc5b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.ui.accordion.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.ui.accordion.css" mimetype="text/css" blob-id="c8bdc88470fb35562ab2bd8a699d36b8746b63c60b553d249d2e373669c70bcc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.ui.theme.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.ui.theme.css" mimetype="text/css" blob-id="c0d674d5f543d7346ba72644cb265a501758654c65f59f44975a05c00b3e685e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.ui.tabs.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.ui.tabs.css" mimetype="text/css" blob-id="161182d891c3350927a6ef251d373a9fbbeb1660d599684a5d5ee9e9fc8a8568">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.ui.autocomplete.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.ui.autocomplete.css" mimetype="text/css" blob-id="749376a6d46270fdeba5ca563ab1ed4665954bcfbac935e278fc9be17f23d61c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.ui.progressbar.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.ui.progressbar.css" mimetype="text/css" blob-id="4898454287e1352d15c4b65e30d85c6510c55462d3152bad4056342451e50e7d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="images" filename="images"/>
+</collection>

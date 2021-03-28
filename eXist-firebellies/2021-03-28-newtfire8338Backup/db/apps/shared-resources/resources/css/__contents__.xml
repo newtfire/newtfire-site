@@ -1,0 +1,45 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/resources/css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Quicksand_Book-webfont.svg" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="Quicksand_Book-webfont.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exist-2.2.less" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="exist-2.2.less" mimetype="application/less" blob-id="b1c84dbae3c7284c7c6da389e6f78b117c961ef996de8df20275a5ce4afb3c8b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exist.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="exist.css" mimetype="text/css" blob-id="560ed9fe5932ad31a380424adbc9f0c9b59331ec0cebfbe0caace4c085b95015">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fonts.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="fonts.css" mimetype="text/css" blob-id="70762f9fd16d931f3afd8e29faa9ef6c42f7002722298073954e13e322385f3c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Quicksand_Book-webfont.eot" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="Quicksand_Book-webfont.eot" mimetype="application/octet-stream" blob-id="48d8f0bfaf48d4f710dc50e9d2f60ca0a3553b859301f92d6f745955d5c31515">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exist.less" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="exist.less" mimetype="application/less" blob-id="7ac275d54c18b5e02877d03731e378c05a3c968dab435660e8967156c725c533">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="content.less" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="content.less" mimetype="application/less" blob-id="f87c31a1038489108f59056fce2f85755b523976ca7e6a9205d7b52de6b97fd9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exist-2.2.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="exist-2.2.css" mimetype="text/css" blob-id="6f93502b691dab9890a11f0271d22d4b241f83bc85dd4f54cccc354d6c25a4fb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap-responsive.min.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="bootstrap-responsive.min.css" mimetype="text/css" blob-id="9efa539647442ce1b9c1d301570bf89e910deb7c6beb8629c0018cb1710b97f6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap-3.0.3.min.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="bootstrap-3.0.3.min.css" mimetype="text/css" blob-id="95c83ea6a7b9851c7bf441e001af0c8da800dd5552a714c84590bc2c03119392">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Quicksand_Book-webfont.ttf" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="Quicksand_Book-webfont.ttf" mimetype="application/octet-stream" blob-id="e74cb536649771075423d04718c8336dc3c3e62d0de726e8747cafa090a65bd0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap.min.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="bootstrap.min.css" mimetype="text/css" blob-id="e871aafc957e8a8d99eae821f2ae4323e96c89d0fa57f194bad9c5ace37203e3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="settings.less" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="settings.less" mimetype="application/less" blob-id="8557e02a140f5d69caf5230c9042e2e7f2b04fb4ca95981a58f4050f851bd8b0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Quicksand_Book-webfont.woff" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="Quicksand_Book-webfont.woff" mimetype="application/font-woff" blob-id="e9cf3ee6072c14cf7c3f4c6447b54f89cd25c2268596cf2f2ff4da3f7386d34b">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

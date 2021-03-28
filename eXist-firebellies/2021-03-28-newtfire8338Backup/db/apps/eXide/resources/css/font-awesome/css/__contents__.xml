@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/resources/css/font-awesome/css" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="font-awesome.min.css" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="font-awesome.min.css" mimetype="text/css" blob-id="67f43faa9fa923d90583adf881fd0b3337712b54cbb92d7dc05ce5ed581bccee">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

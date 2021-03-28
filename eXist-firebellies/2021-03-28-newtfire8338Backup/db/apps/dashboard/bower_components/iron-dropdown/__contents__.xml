@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/iron-dropdown" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="iron-dropdown.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-dropdown.html" mimetype="text/html" blob-id="38a162ff1da0ddf4a451bef452f4cf299900875ce024ea647f0b211b6bbbd3d1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iron-dropdown-scroll-manager.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-dropdown-scroll-manager.html" mimetype="text/html" blob-id="07fe44edcbd04f70494a624a1bd7a9784426448b4c0713cf947400ebb9986bbf">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,300 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rocket" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:52-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="sts093.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts093.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts058.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts058.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts078.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts078.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts064.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts064.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts044.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts044.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts066.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts066.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts050.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts050.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts072.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts072.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts099.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts099.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts112.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts112.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts106.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:58-04:00" modified="2020-08-07T21:12:58-04:00" filename="sts106.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts107.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:58-04:00" modified="2020-08-07T21:12:58-04:00" filename="sts107.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts113.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:58-04:00" modified="2020-08-07T21:12:58-04:00" filename="sts113.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts51A.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:58-04:00" modified="2020-08-07T21:12:58-04:00" filename="sts51A.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts098.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:58-04:00" modified="2020-08-07T21:12:58-04:00" filename="sts098.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts073.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:58-04:00" modified="2020-08-07T21:12:58-04:00" filename="sts073.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts043.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts043.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts057.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts057.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts080.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts080.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts094.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts094.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts123.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts123.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts122.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts122.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts51L.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts51L.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts069.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts069.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts055.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts055.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts041.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts041.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts096.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts096.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts082.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts082.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts109.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts109.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts121.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts121.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts135.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:54-04:00" modified="2020-08-07T21:12:54-04:00" filename="sts135.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts134.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts134.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts120.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts120.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts108.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts108.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts083.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts083.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts097.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts097.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts054.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts054.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts068.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts068.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts033.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts033.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts026.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts026.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts032.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts032.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts030.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts030.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts031.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts031.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts009.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts009.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts035.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts035.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts034.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts034.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts095.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts095.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts036.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:55-04:00" modified="2020-08-07T21:12:55-04:00" filename="sts036.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts081.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts081.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts037.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts037.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts056.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts056.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts006.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts006.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts042.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts042.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts046.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts046.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts61B.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts61B.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts052.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts052.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts61C.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts61C.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts085.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts085.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts007.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts007.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts132.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts132.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts005.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts005.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts126.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts126.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts039.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts039.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts127.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts127.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts41C.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts41C.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts133.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts133.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts61A.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts61A.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts51I.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts51I.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts41B.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts41B.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts090.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts090.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts004.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts004.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts084.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts084.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts028.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts028.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts051.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts051.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts001.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts001.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts045.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:53-04:00" modified="2020-08-07T21:12:53-04:00" filename="sts045.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts029.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts029.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts079.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts079.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts003.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:56-04:00" modified="2020-08-07T21:12:56-04:00" filename="sts003.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts092.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts092.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts41D.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts41D.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts086.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts086.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts002.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts002.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts125.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts125.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts071.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts071.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts131.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts131.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts065.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts065.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts119.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts119.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts059.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts059.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts118.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts118.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts51C.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts51C.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts130.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts130.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts105.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts105.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts124.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts124.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts111.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts111.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts51J.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts51J.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts110.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts110.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts087.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="sts087.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts104.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:57-04:00" modified="2020-08-07T21:12:57-04:00" filename="sts104.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

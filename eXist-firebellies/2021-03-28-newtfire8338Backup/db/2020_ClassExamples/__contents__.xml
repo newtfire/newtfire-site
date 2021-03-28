@@ -1,0 +1,47 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/2020_ClassExamples" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:54-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="rocketTimeline-sample.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:54-04:00" modified="2020-08-07T21:20:54-04:00" filename="rocketTimeline-sample.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="introSVG.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:56-04:00" modified="2020-08-07T21:20:56-04:00" filename="introSVG.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="brandNewNetwork.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:54-04:00" modified="2020-08-07T21:20:54-04:00" filename="brandNewNetwork.tsv" mimetype="application/xml" blob-id="78282bceac3b170b1769d87e141e8e44ec84cf0c698e67a70dca0a858a9d4633">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketDateDurationSurvey.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:54-04:00" modified="2020-08-07T21:20:54-04:00" filename="rocketDateDurationSurvey.xql" mimetype="application/xquery" blob-id="4c692742f901bd9038ea4b25027fd91a7b6871f810732d4d154c0f4b02ca9c96">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testQuery.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:55-04:00" modified="2020-08-07T21:20:55-04:00" filename="testQuery.xql" mimetype="application/xquery" blob-id="eba7d6045d31935c9aa0bad1788ca53e805ff3a436bc349869263eea1b0b9b6a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocket-data-to-tsv.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:55-04:00" modified="2020-08-07T21:20:55-04:00" filename="rocket-data-to-tsv.xql" mimetype="application/xquery" blob-id="8392ffcafea2029d19c9d3d350df19e21b36c931789991b44a57f1abee2327cd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketTimelineStarter.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:55-04:00" modified="2020-08-07T21:20:55-04:00" filename="rocketTimelineStarter.xql" mimetype="application/xquery" blob-id="0309df472cd6d9ac76ebaa67a958fac0935e1ca30c9838a600e7f7729b5b6a33">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemon_routes_v_types.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:55-04:00" modified="2020-08-07T21:20:55-04:00" filename="pokemon_routes_v_types.xql" mimetype="application/xquery" blob-id="eae62b2d0240081d4122f3ff402aaf5f49f0034a84a9416644e24308ec6afa62">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketLandingNetwork.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:55-04:00" modified="2020-08-07T21:20:55-04:00" filename="rocketLandingNetwork.tsv" mimetype="application/xml" blob-id="70b79f517a44c0048a638447a187cec02864eeab10376f7813e25a5d43490ac7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketDateDurationSurvey2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:56-04:00" modified="2020-08-07T21:20:56-04:00" filename="rocketDateDurationSurvey2.xql" mimetype="application/xquery" blob-id="937fee55d24769b3d7a5d23679716d627d20c1a5f14fa69678cd1bd96a709a14">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketLaunchData.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:56-04:00" modified="2020-08-07T21:20:56-04:00" filename="rocketLaunchData.xql" mimetype="application/xquery" blob-id="aa26a4a9ffc5fb7c56d4401056d3f5fb1d410fc5f64abd540c9b4e79e6e173f4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySimpleNet.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:56-04:00" modified="2020-08-07T21:20:56-04:00" filename="banksySimpleNet.tsv" mimetype="application/xml" blob-id="cae9ba28da056c1f79885eae358408fac4b5d512e8ed0eaede020c0c3238a4fd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketSimpleDateArithmetic.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:56-04:00" modified="2020-08-07T21:20:56-04:00" filename="rocketSimpleDateArithmetic.xql" mimetype="application/xquery" blob-id="f24c9c864cdb6134e212ef982cc87f6afeebd66da394bc30ba779e8f516a7893">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="brandNew-If-Then-to-tsv.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:56-04:00" modified="2020-08-07T21:20:56-04:00" filename="brandNew-If-Then-to-tsv.xql" mimetype="application/xquery" blob-id="a5bc4cfb4fc29133f2d7117dbbc5651237926fee12c63cc5bc111384f3fd3fb2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="testQuery" filename="testQuery"/>
+    <subcollection name="pokemonQGIS" filename="pokemonQGIS"/>
+</collection>

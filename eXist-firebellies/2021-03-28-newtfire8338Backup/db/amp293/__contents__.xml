@@ -1,0 +1,33 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/amp293" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:45-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="peddicord_xquery3.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:45-04:00" modified="2020-08-07T21:20:45-04:00" filename="peddicord_xquery3.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pokemon_example.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:46-04:00" modified="2020-08-07T21:20:46-04:00" filename="pokemon_example.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="speakerNetwork_new.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:45-04:00" modified="2020-08-07T21:20:45-04:00" filename="speakerNetwork_new.xql" mimetype="application/xquery" blob-id="e733c593eef171d9f8f1b4de2129d864ce7b7a00b036d61101b1dee8fcc31ca9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="peddicord_qgis1.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:45-04:00" modified="2020-08-07T21:20:45-04:00" filename="peddicord_qgis1.xql" mimetype="application/xquery" blob-id="774c55ae3e4277e764bc0ac3ff5f0551cc316bb93b420a2476a1ffd64470ebd3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="peddicord_qgis1.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:45-04:00" modified="2020-08-07T21:20:45-04:00" filename="peddicord_qgis1.tsv" mimetype="application/xml" blob-id="f9c2cb9350fa340ba88eff1a771e67f01027b0e880d350da3aad52f3d02bbe7f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="peddicord_xquery3.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:45-04:00" modified="2020-08-07T21:20:45-04:00" filename="peddicord_xquery3.xql" mimetype="application/xquery" blob-id="f46c42a39a98d621238a77c29da7778e6bedd730ffec0548c29ef113842c6673">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="speakerNetwork.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:45-04:00" modified="2020-08-07T21:20:45-04:00" filename="speakerNetwork.xql" mimetype="application/xquery" blob-id="8ffef6500e480b8bba1fb3aa3c4c075b276dcaa4a81b84c7bf4644df8f55e5d4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemon_example.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:45-04:00" modified="2020-08-07T21:20:45-04:00" filename="pokemon_example.xql" mimetype="application/xquery" blob-id="f95d8574bf15c6df700278a406fcd4ca679920933813cddbad9aae48555cc01e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketLaunch-classExample.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:46-04:00" modified="2020-08-07T21:20:46-04:00" filename="rocketLaunch-classExample.xql" mimetype="application/xquery" blob-id="da5184af880e71d284f2febbc60a3415303bb51981eb8275dcaf111a796326cc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="titans_speakerNetwork.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:46-04:00" modified="2020-08-07T21:20:46-04:00" filename="titans_speakerNetwork.tsv" mimetype="application/xml" blob-id="691cc56f0765eb3c7e7d20ce678525e638b95013e34aba9d459caf29b2493719">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

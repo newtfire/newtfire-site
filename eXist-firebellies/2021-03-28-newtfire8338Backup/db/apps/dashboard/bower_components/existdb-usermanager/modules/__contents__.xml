@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/existdb-usermanager/modules" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:28-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="userManager.xqm" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="userManager.xqm" mimetype="application/xquery" blob-id="0b41f11bbaf8ee1a858c6392037993fd30dca92fa7b6b948f6eee8e09fc33bec">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mytest.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="mytest.xql" mimetype="application/xquery" blob-id="e01ee011620d4396ec0252b8a55eaa52f7a3768d48fc3dc1ce5a8244a66d9a2c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jsjson.xqm" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="jsjson.xqm" mimetype="application/xquery" blob-id="39b2711ae7fbb5a29eba0c724adc4e7352160834a1ef6610054ba84dce39b8a5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="suite.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="suite.xql" mimetype="application/xquery" blob-id="f90746c6801fc8c964c09c0320b55efb7a11b2c409d4437d089723f5510b9408">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="login-helper.xql" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="login-helper.xql" mimetype="application/xquery" blob-id="c314f928d1a15bd58ce78f2dcfdb56fbf9a52dbb29f47ba0c832fb37b66c26c6">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

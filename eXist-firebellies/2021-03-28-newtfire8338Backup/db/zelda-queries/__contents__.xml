@@ -1,0 +1,5 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/zelda-queries" owner="admin" group="dba" mode="775" created="2021-03-28T21:58:55-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="loz" access_type="ALLOWED" mode="7"/>
+    </acl>
+</collection>

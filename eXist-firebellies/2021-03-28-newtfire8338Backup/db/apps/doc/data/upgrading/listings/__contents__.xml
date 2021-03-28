@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/upgrading/listings" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:33-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="source.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="source.txt" mimetype="text/plain" blob-id="a9b9be4e234a7f4cd1866c773d2dd15c11732814daea7f5eaeeece2a5f8f7ab6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-3.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-3.txt" mimetype="text/plain" blob-id="9ca5b29ae68fcf5be5f8969c94c0f188e362aaf089e3f5d4b36261c27d6d8ee2">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

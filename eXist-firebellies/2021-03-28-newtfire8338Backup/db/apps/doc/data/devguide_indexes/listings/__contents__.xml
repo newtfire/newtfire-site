@@ -1,0 +1,189 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/devguide_indexes/listings" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:33-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="listing-1.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-126.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-126.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-3.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-134.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-134.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-124.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-124.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-82.xml" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-82.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-115.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-115.txt" mimetype="text/plain" blob-id="d05a1d44a6171fdf2048880590f91e91c1e7919166ac2507434abe146cfe4b59">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-95.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-95.txt" mimetype="text/plain" blob-id="d37e5bea63ea27767f76701aaf40cee3c81eaac5247afdf3c52d9e3c5b6c5ba0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-117.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-117.txt" mimetype="text/plain" blob-id="2d0ac81544333a952c9e746d9e3dfa7a3ae889d4fc45dd98dcbf52b4cbc0a839">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-99.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-99.txt" mimetype="text/plain" blob-id="842bc64ecd646031940288f089b0f74de9ee8b045c4e8e1b1330140e897b280d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-89.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-89.txt" mimetype="text/plain" blob-id="ad0e11309fef02b6723a206767ec80f92e33591bbaa26b917a5f292881aceed5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-78.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-78.txt" mimetype="text/plain" blob-id="5ac19184c96104915c031cc7f0ce99d8b5cdc9f73386750047bf22c3ea7bbc08">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-88.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-88.txt" mimetype="text/plain" blob-id="52c9795a05e44eaedd21aca68689c2951990c0b2df2d0d58c6246228439b4795">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-93.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-93.txt" mimetype="text/plain" blob-id="9cc6f2152959822e8ef235836b4a8c645f9d7d5ffe57a96f56f458d9f5151345">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-101.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-101.txt" mimetype="text/plain" blob-id="ff2dc1f9e435b64180f2afa2fc85193f2f84d7b3562f1d3e1f4cdb3d2df013d3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-128.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-128.txt" mimetype="text/plain" blob-id="ababebd5d35aeaa6b587bdac38f61ecf9195cf50b6259e36bc0ae406aac36200">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-118.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-118.txt" mimetype="text/plain" blob-id="664840a22ea2b16267e3bf86d1c5ad4eccab8d5630838f93b343ba73bb2094a4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-84.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-84.txt" mimetype="text/plain" blob-id="2dd9cb323b9b1c340bce0ed16e3168e05caad7455f6281e26f649ba9691bb133">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-72.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-72.txt" mimetype="text/plain" blob-id="d1559b2a3eab538a873e37eff87d0bf49e57d6ab60842986e67825ced2c9337e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-127.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-127.txt" mimetype="text/plain" blob-id="aacaa54a2c19739325798d9727e1b84dc07fb981786e5b263dd106609a5aaee0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-107.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-107.txt" mimetype="text/plain" blob-id="ee27ccd858c46f05e747214dbebf9fecc545b428ccb125f46c258a91218dd1d8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-75.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-75.txt" mimetype="text/plain" blob-id="cb3950afb541c2534ee36b25c0e2dc1436e3791def63b487dd24ce3e8ac1bdea">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-104.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-104.txt" mimetype="text/plain" blob-id="c8e62ff1ad4a64f5dd196f4ef46801d49f80a39a6ffd584b5b0a552898b22154">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-81.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-81.txt" mimetype="text/plain" blob-id="a5105545c4cd3dd7c086e3ab4b980d69b89a3209aa2588774c9aac319385d2de">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-106.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-106.txt" mimetype="text/plain" blob-id="9dc9c089ac5d51175b2e01b667e245253b58a47a1b00d49c11c963c7b0e0ed37">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-102.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-102.txt" mimetype="text/plain" blob-id="8d4f53caaf060612d1dd940351c301cccae3d9b2df78caf550034ba10b837bcc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-80.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-80.txt" mimetype="text/plain" blob-id="12ba6a6e8b5061c5742b16f25c6dc47e768d9d415e9ca090c8fe5946d6053603">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-74.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-74.txt" mimetype="text/plain" blob-id="18f0efb5e814b3f12fbc126b0b4326263a3a7e1124886307f1a44be683c461fa">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-98.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-98.txt" mimetype="text/plain" blob-id="98fa540cb64b059f7a3acca020c261cbf0df212f01d6fa483878b1336ede987c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-116.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-116.txt" mimetype="text/plain" blob-id="413fc257986a890bc38e69168905b5dc698dec6d70bc0fc25e699be5590abc3b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-79.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-79.txt" mimetype="text/plain" blob-id="3a9a780076505c61589e07d10735b4f2c2720a530fc0a5daee31f8080c4b7084">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-132.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-132.txt" mimetype="text/plain" blob-id="183047923dfe95506da246a5c822fa696627984f3eeedbbbc84a8db61d0df651">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-100.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-100.txt" mimetype="text/plain" blob-id="397a1a8cf4ac4dd7fb2cb113d5046e4d85d5715ce3f9445885f2913810454a86">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-91.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-91.txt" mimetype="text/plain" blob-id="2c901031579bdc069aa2e3335414588d4a8abde6ad0ecb985d19b948e26d2fd3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-114.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-114.txt" mimetype="text/plain" blob-id="a1fbace5da45a66d16eba4448a13906163f0454d9aa4a153b154005f76e6d294">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-133.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-133.txt" mimetype="text/plain" blob-id="bec7544cf6f2aa479a8c11ec00ccf98522111004d1add2ffc90b69b0a83d500a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-87.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-87.txt" mimetype="text/plain" blob-id="952b09114c6ff2b829cb66336e195bac6456b20926885bb7b3898ac4eb52e63c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-73.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-73.txt" mimetype="text/plain" blob-id="2168ec77e7887c4db94c0aa9c2319fd73e1120c79867c9adcc96b2287d43657b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-97.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-97.txt" mimetype="text/plain" blob-id="73cc42c6b1391a3c66ca479e4d00830bca5fdccef10a2ef92dc7699bfaf03c3a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-110.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-110.txt" mimetype="text/plain" blob-id="0ca0b144a02a5cab9e00871d1bd1a4f3a78de15953df327875c656d88ac70c30">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-92.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-92.txt" mimetype="text/plain" blob-id="09e4e7e2f7c6459af1e319242a8f8fe3f7db276adc087b95a16e9cb3675861ba">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-112.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-112.txt" mimetype="text/plain" blob-id="3a73df7f6e56500e64122c28efeccdd769345322e11f55bf7225eb707e465f3a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-111.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-111.txt" mimetype="text/plain" blob-id="a128d7bf33b5f726f2c817fc8edb84d3f9f9c0b26552535304a6873fecc1e18e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-130.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-130.txt" mimetype="text/plain" blob-id="8ca0464345f468eddf195f8aa096311db7677a478e95d52a6a070ca0cfb57859">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-77.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-77.txt" mimetype="text/plain" blob-id="d5c15c32ef557124b24405c18b486a98e05297a24bdfe86e8fb3e4bc3c00ffcc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-105.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-105.txt" mimetype="text/plain" blob-id="751bdc1781f07ea943f5ae31f9aee256831c034be2978425fcbb3648a522b3c3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-129.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-129.txt" mimetype="text/plain" blob-id="01352173d0cd85576700ca5684cd5d8adad5d68cf72f9c881edefdabadff9cb5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-119.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-119.txt" mimetype="text/plain" blob-id="6c63305740e30c039670de919369fec2a43cebbb599556e1b12d3eef735877e0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-109.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-109.txt" mimetype="text/plain" blob-id="c10063d7e804e55bf243321f1ecb2fb31a22343f47911a2bea691e42401c08a7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-131.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-131.txt" mimetype="text/plain" blob-id="688df8b76986c7a9f12f590a221b05b176b4d41b258303d8f243277902ae6f06">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-90.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-90.txt" mimetype="text/plain" blob-id="3b8ce32ca52e738766fb67e8f4c45c8924cd4394f5d894ce50c466474c8babae">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-96.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-96.txt" mimetype="text/plain" blob-id="4ba1fb4c21218319224d44753fcaef5b4780ddfce811a88bfc46fa5e707a63d8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-71.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-71.txt" mimetype="text/plain" blob-id="f1390ab7e1798f643184e54046fa004b0e1816ce4ac0a566b45a8592065e14cb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-86.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-86.txt" mimetype="text/plain" blob-id="86ed2b23d6c868b8959c30088585810e34f64e7bfe9e6f8c2d02109a0cc4efe4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-76.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-76.txt" mimetype="text/plain" blob-id="0ab8afaf1c4ec9de1efa6eeaf15830d4bc19975651ae435a1ecb32ecf411703b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-83.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-83.txt" mimetype="text/plain" blob-id="10ac04d906cbc6aa73f05489499723414202cea8371930910c995ba69b0d84dd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-113.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-113.txt" mimetype="text/plain" blob-id="226bf9e757195b888a8e33c4099dfaff1d185780ee29e5898150aef874b680f1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-108.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-108.txt" mimetype="text/plain" blob-id="4f1e93ece25143c4bea4f7932b68bce89f4613e64f9bf206653037350410681c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-85.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-85.txt" mimetype="text/plain" blob-id="c1eb6cd425a81bda3a9ede63844e7738ff3e9e05bae151cda07e1ae9deecec02">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-94.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-94.txt" mimetype="text/plain" blob-id="00af40cc84302e7248ff7bd9a6501cca76211cc11c771f74d7c9ed9877cfb868">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-103.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-103.txt" mimetype="text/plain" blob-id="ef23c484cc72ca9950b527f88d6b0e91b06e7f5563b105956981978c29a6a1c2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-125.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:33-04:00" modified="2020-08-07T02:48:33-04:00" filename="listing-125.txt" mimetype="text/plain" blob-id="b2ff3dec402526e32d22229f0155fe47e44c71906e25414c4bb3a0573a20b680">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

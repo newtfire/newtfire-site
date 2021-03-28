@@ -1,0 +1,45 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/teentitans/season2" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:08-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="s2_episode-9.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09-04:00" modified="2020-08-07T21:12:09-04:00" filename="s2_episode-9.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-8.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09-04:00" modified="2020-08-07T21:12:09-04:00" filename="s2_episode-8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-6.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09-04:00" modified="2020-08-07T21:12:09-04:00" filename="s2_episode-6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-7.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09-04:00" modified="2020-08-07T21:12:09-04:00" filename="s2_episode-7.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-5.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09-04:00" modified="2020-08-07T21:12:09-04:00" filename="s2_episode-5.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-4.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09-04:00" modified="2020-08-07T21:12:09-04:00" filename="s2_episode-4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-13.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08-04:00" modified="2020-08-07T21:12:08-04:00" filename="s2_episode-13.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-2.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08-04:00" modified="2020-08-07T21:12:08-04:00" filename="s2_episode-2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-3.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08-04:00" modified="2020-08-07T21:12:08-04:00" filename="s2_episode-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-12.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08-04:00" modified="2020-08-07T21:12:08-04:00" filename="s2_episode-12.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-10.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08-04:00" modified="2020-08-07T21:12:08-04:00" filename="s2_episode-10.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-1.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08-04:00" modified="2020-08-07T21:12:08-04:00" filename="s2_episode-1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-11.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09-04:00" modified="2020-08-07T21:12:09-04:00" filename="s2_episode-11.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="image.png" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09-04:00" modified="2020-08-07T21:12:09-04:00" filename="image.png" mimetype="image/png" blob-id="b96837682431a5a710c2a719fd6f9f50636eb5358a71ca86de2a3c2692e4fcde">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

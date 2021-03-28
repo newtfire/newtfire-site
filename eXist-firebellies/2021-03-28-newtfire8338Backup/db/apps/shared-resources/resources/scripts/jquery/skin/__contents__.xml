@@ -1,0 +1,42 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/resources/scripts/jquery/skin" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="ltFld.link.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ltFld.link.png" mimetype="image/png" blob-id="2c2efd491771d6b4d9fcb78a138fbf0192c759d2c03c1d41dac4c2f5875d8659">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="loading.gif" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="loading.gif" mimetype="image/gif" blob-id="d8fbfa8074c2517590fdd6a4a081a0d9647d2388959bc00badb826609e7fce72">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ltFld.locked.link.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ltFld.locked.link.png" mimetype="image/png" blob-id="0feb4ba04f4fafcd5164f3a9f697c57ec85b476f2f5cb4a9ff1a3eec26753199">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui.dynatree.css" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ui.dynatree.css" mimetype="text/css" blob-id="e6fb9998ccf61047b755eddf7fd5d3a43726e4fb0c5e3057874989a6742ba08a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ltFld.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ltFld.png" mimetype="image/png" blob-id="d2be1d0563a474ca92738bc4ca53fc36c9a6a9215f48dfd338d87d60f90aef11">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ltFld.page.link.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ltFld.page.link.png" mimetype="image/png" blob-id="7d02e20bbf3b7cea74608d7827c38e25dd3458782048171050af22bfd3aef664">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ltFld.groups.gif" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ltFld.groups.gif" mimetype="image/gif" blob-id="68073b7ee08c249213d8a3a1e1864a1c2c4087dbb9c5010ea334a3cd76774439">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vline.gif" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="vline.gif" mimetype="image/gif" blob-id="3bf1ff23cebf7d85b08c2a088d5f4f36fa3fba08c2b98924b90c208f126fdcaa">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ltFld.key.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ltFld.key.png" mimetype="image/png" blob-id="5875208032994284e37488d9d0c4acef23a4d7a54a13242727ac70852e4520dc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ltFld.page.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ltFld.page.png" mimetype="image/png" blob-id="9d976f5e944364dc5333d589efc9694b843af333456ae3e7f967cb4af1ab169f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ltFld.locked.png" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ltFld.locked.png" mimetype="image/png" blob-id="be7fc5e93e7bf469dfe6d301b8375383727a34d88180df25de438fbbd5b913c7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="icons.gif" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="icons.gif" mimetype="image/gif" blob-id="486d7f032952d40b2a10282a876c5830611a4c77c1f757f98de3e17e5938dcb0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ltFld.user.gif" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="ltFld.user.gif" mimetype="image/gif" blob-id="4db354bb65a645bb302ae1fd11c0cbba01cb3e6434cbbdc6ba618590d2e63518">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,51 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rickandmorty/shortsFiles" owner="admin" group="dba" mode="755" created="2020-08-07T21:13:03-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Short4" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:03-04:00" modified="2020-08-07T21:13:03-04:00" filename="Short4" mimetype="application/xml" blob-id="51e4c669b16827b5b41e0570beb9e4af7d8147c4e8b4afd51b40344ccfe9ccb3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short3" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:03-04:00" modified="2020-08-07T21:13:03-04:00" filename="Short3" mimetype="application/xml" blob-id="bf7b96623e11eef1fd971ff38eb6221edfd4abf7e1bedb32fb2c3676ecfe5d8d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short2" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:03-04:00" modified="2020-08-07T21:13:03-04:00" filename="Short2" mimetype="application/xml" blob-id="a09f35a92be8b1a15320fbdd61a38f8a700726a7452e8a8c61051adf59e3cc52">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short5" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:03-04:00" modified="2020-08-07T21:13:03-04:00" filename="Short5" mimetype="application/xml" blob-id="2bd5272a9ef535e14217b17607865b07ff902d10e1e1dd765bd06077a7f346e4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short10" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04-04:00" modified="2020-08-07T21:13:04-04:00" filename="Short10" mimetype="application/xml" blob-id="a5909ad0dbc983df59ff334f479dc05523ad6b22a7d6f888e622098a02f7dabf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short16" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04-04:00" modified="2020-08-07T21:13:04-04:00" filename="Short16" mimetype="application/xml" blob-id="c652ab136f580a7906d81aad2933205d259c7b3e7a9b34d631e61f177a34956d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short11" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04-04:00" modified="2020-08-07T21:13:04-04:00" filename="Short11" mimetype="application/xml" blob-id="28b18ef1da9b4388bb495f4da2f069b8bb05bca2a1e159169b71b28b7cea9c63">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short9" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04-04:00" modified="2020-08-07T21:13:04-04:00" filename="Short9" mimetype="application/xml" blob-id="5be8159c1263ee9901f415c8b8124349181f9a1cc38b8acd66ffc9f49a91a929">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short7" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04-04:00" modified="2020-08-07T21:13:04-04:00" filename="Short7" mimetype="application/xml" blob-id="1549eefa741301f7d73eae8894699ea5e8cf523afb67451b9467490a2cf039b4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short6" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04-04:00" modified="2020-08-07T21:13:04-04:00" filename="Short6" mimetype="application/xml" blob-id="b9c5c3bba4857734b04ad38c93d503463bc1e1cf865490e5301bd46d297ce647">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short1" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04-04:00" modified="2020-08-07T21:13:04-04:00" filename="Short1" mimetype="application/xml" blob-id="50d58b83c24593c2554467dcb8614bd2c5d75c5f7344a8fbaa05a92a155311a1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short8" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04-04:00" modified="2020-08-07T21:13:04-04:00" filename="Short8" mimetype="application/xml" blob-id="da03855e9ba4d5b780d543a0eb81497f37fc7617ded15c867a1d2536abc09639">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short14" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04-04:00" modified="2020-08-07T21:13:04-04:00" filename="Short14" mimetype="application/xml" blob-id="2cb886c924f608e708ac6bd6e52a676d1c9d74225cf2de8e37c6c497ccbcbb85">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short13" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04-04:00" modified="2020-08-07T21:13:04-04:00" filename="Short13" mimetype="application/xml" blob-id="ae5235ff0d5f5a22b903aa11b556aed6455cbef2feb65198dd1c8cd256eb4313">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short12" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04-04:00" modified="2020-08-07T21:13:04-04:00" filename="Short12" mimetype="application/xml" blob-id="b18a8c70f64cfbc442df85c8463855232711f5408aebd852f090e3ddab4fedf0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short15" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04-04:00" modified="2020-08-07T21:13:04-04:00" filename="Short15" mimetype="application/xml" blob-id="b3684f39cc933f160c3d3fc41b3cfb232c6400838a9c358154080e3df461d867">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

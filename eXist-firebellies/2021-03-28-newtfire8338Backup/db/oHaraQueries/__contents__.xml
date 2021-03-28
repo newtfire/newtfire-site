@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/oHaraQueries" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:46-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="indivReferenceQuery" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:46-04:00" modified="2020-08-07T21:14:46-04:00" filename="indivReferenceQuery" mimetype="application/xml" blob-id="c2f5b9ef16a7bf27eb06b060fb024a133465888545ba5af9a599357120682c05">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="referenceQuery" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:46-04:00" modified="2020-08-07T21:14:46-04:00" filename="referenceQuery" mimetype="application/xml" blob-id="91f0c828b1b210183adfdb977a00a28690c43443d1cc341284aceaf9f0acb564">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lineCountQuery" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:46-04:00" modified="2020-08-07T21:14:46-04:00" filename="lineCountQuery" mimetype="application/xml" blob-id="c3098a12d46b1e055cf0212e7a6c1d1731e0e1d4243fb49c2a376679b72c95ee">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="refCountQuery" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:46-04:00" modified="2020-08-07T21:14:46-04:00" filename="refCountQuery" mimetype="application/xml" blob-id="0ca37378f71a7f85f1d6a926dabfe7a222a6288f2a7243fcde0410b944bb1f86">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="foreignLanguageQuery" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:46-04:00" modified="2020-08-07T21:14:46-04:00" filename="foreignLanguageQuery" mimetype="application/xml" blob-id="707968f35cdc119b8ab7fec55ecb1e21a43e74f8b83624b169b1a6acc388f24d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="peopleCountQuery" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:46-04:00" modified="2020-08-07T21:14:46-04:00" filename="peopleCountQuery" mimetype="application/xml" blob-id="2b57354042c9fa966c0605fa4c06a270e78d1c99fb8e6675f11bfe3e093272b0">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/templates/bootstrap/modules" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="app.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="app.xql" mimetype="application/xquery" blob-id="ec45186b557f9b017d31be032c3d6f5b3fbfeade2da103ab7b7f934e88ab09a5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="view.xql" mimetype="application/xquery" blob-id="c92d6c5c4881941fa337a91de6ef171cdc7d7ebeac2a0ce837b02e0f37ee531d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="config.xqm" mimetype="application/xquery" blob-id="f7dd93fe0c3c31a4dbc35ff0a24ecd009c21e3da96210bdbe72a5eb2c31a86bc">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

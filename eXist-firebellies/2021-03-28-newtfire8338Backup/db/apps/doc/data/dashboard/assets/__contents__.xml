@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/dashboard/assets" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:34-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="dashboardInstallApp.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="dashboardInstallApp.png" mimetype="image/png" blob-id="9006c5e2dd10e5f46e44d27a5ee7a1fe056d196ba4888d440de2661cbd66716c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dashboardUp2dateInfo.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="dashboardUp2dateInfo.png" mimetype="image/png" blob-id="0546722905a41c1f8acfa864dd9d39ff3b4a7331a8d6ec0ffe7832756734c32f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dashboardSelectVersion.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="dashboardSelectVersion.png" mimetype="image/png" blob-id="4155c5b9b3b61924f93165208d5613427bc1139794d66441e13dced857998799">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dashboardPMIcon.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="dashboardPMIcon.png" mimetype="image/png" blob-id="64ab6792bf089e0b9fcdb3a0be4c6a1a1d61394ebb2eab2f3d33dc5edd574f4c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dashboardUp2dateApps.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="dashboardUp2dateApps.png" mimetype="image/png" blob-id="203007ae019a0e1e940d500e13831e3dca739ee6e75eec4d115c6ed5f66f71cd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dashboardLoadOwnApps.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="dashboardLoadOwnApps.png" mimetype="image/png" blob-id="8aa25d41a6cfba645b7c1b18c1234e9e6c7780de353b989410ff0ff576cee539">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dashboardLogin.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="dashboardLogin.png" mimetype="image/png" blob-id="25ba73668c54d6df788ffa5fee2e1b6a745d9d826345a6560c7de02cb0656878">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

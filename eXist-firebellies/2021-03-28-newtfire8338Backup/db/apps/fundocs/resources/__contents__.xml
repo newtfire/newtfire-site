@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/fundocs/resources" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:37-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <subcollection name="images" filename="images"/>
+    <subcollection name="css" filename="css"/>
+    <subcollection name="scripts" filename="scripts"/>
+</collection>

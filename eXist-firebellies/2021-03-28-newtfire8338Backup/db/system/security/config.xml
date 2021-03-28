@@ -1,0 +1,2 @@
+<security-manager xmlns="http://exist-db.org/Configuration" version="2.1"><authentication-entry-point>/authentication/login</authentication-entry-point>
+<!--<events></events>--></security-manager>

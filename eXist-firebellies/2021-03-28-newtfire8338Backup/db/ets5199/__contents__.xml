@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ets5199" owner="ets5199" group="dba" mode="775" created="2021-03-08T20:28:08-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="ets-SVG2.xql" owner="admin" group="dba" mode="755" created="2021-03-24T15:21:28-04:00" modified="2021-03-24T15:42:58-04:00" filename="ets-SVG2.xql" mimetype="application/xquery" blob-id="fac747f42ed49d3fde7c94915c98fdc12ab45e99808299cec2892c1a2791ea65">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ets-SVG2%20edited.xql" owner="ets5199" group="ets5199" mode="755" created="2021-03-25T21:52:35-04:00" modified="2021-03-25T22:05:05-04:00" filename="ets-SVG2 edited.xql" mimetype="application/xquery" blob-id="c8b209159aa2192d66a1e3d90358d4705f30bf9d52faa633523998b513c2e78e">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/vaadin-progress-bar/test/visual/screens/vaadin-progress-bar/default-tests/vaadin-progress-bar" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="chrome.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="chrome.png" mimetype="image/png" blob-id="773410f3a7caf82879da97a369e120d51ebca1f9a205cd7ddc3bfac9aefb2042">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="edge.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="edge.png" mimetype="image/png" blob-id="961470b7adf62c9a83e8e76ed481096cd7792a0071a8dfe319c92a408335113d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ie.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="ie.png" mimetype="image/png" blob-id="961470b7adf62c9a83e8e76ed481096cd7792a0071a8dfe319c92a408335113d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="firefox.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="firefox.png" mimetype="image/png" blob-id="961470b7adf62c9a83e8e76ed481096cd7792a0071a8dfe319c92a408335113d">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,48 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/2019_ClassExamples" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:56-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="timeline.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57-04:00" modified="2020-08-07T21:20:57-04:00" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="banksyTimeline.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57-04:00" modified="2020-08-07T21:20:57-04:00" filename="banksyTimeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesAllusionNet.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:56-04:00" modified="2020-08-07T21:20:56-04:00" filename="ulyssesAllusionNet.tsv" mimetype="application/xml" blob-id="127478841667b886d0a536a5c0ded8fb8f5622865f4c44a9f7ee96a9b3cb3f34">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamletForSpeakerOs.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:56-04:00" modified="2020-08-07T21:20:56-04:00" filename="hamletForSpeakerOs.xql" mimetype="application/xquery" blob-id="a90e0acc881d1d3a5569599e8f306ebb59517d8400c8608bfa8db68e73ee4496">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bloodborneMotifNet.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:56-04:00" modified="2020-08-07T21:20:56-04:00" filename="bloodborneMotifNet.xql" mimetype="application/xquery" blob-id="a4da381e446738179670065f2b9e586ccc76c8abf3cb87533737a05586cafafe">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyDateTitles.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:56-04:00" modified="2020-08-07T21:20:56-04:00" filename="banksyDateTitles.xql" mimetype="application/xquery" blob-id="cdb31fefc3e868626bebeea3e84fb9d654eb995304db73649ca26035a87c7aa0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Carter_ulyssesAllLocNet.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:56-04:00" modified="2020-08-07T21:20:56-04:00" filename="Carter_ulyssesAllLocNet.tsv" mimetype="application/xml" blob-id="12df900e846b251f03a034c97974b2e10e1d2fcfbef8be929f493b68fa1eaa55">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySVGXYBarPlot.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:56-04:00" modified="2020-08-07T21:20:56-04:00" filename="banksySVGXYBarPlot.xql" mimetype="application/xquery" blob-id="4937d4f5dab949477d2f9d9ab2565a8b17ec739f937aa4072f4db425cb020dec">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Carter_ulyssesAllLocNet-testing2020.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:56-04:00" modified="2020-08-07T21:20:56-04:00" filename="Carter_ulyssesAllLocNet-testing2020.tsv" mimetype="application/xml" blob-id="12df900e846b251f03a034c97974b2e10e1d2fcfbef8be929f493b68fa1eaa55">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesAllusionNet.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57-04:00" modified="2020-08-07T21:20:57-04:00" filename="ulyssesAllusionNet.xql" mimetype="application/xquery" blob-id="353acdb057ae5ae286ba3537b1b651f0bdf610ce63e32ad59dda28f9725c768f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Carter_ulyssesAllLocNet.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57-04:00" modified="2020-08-07T21:20:57-04:00" filename="Carter_ulyssesAllLocNet.xql" mimetype="application/xquery" blob-id="24ddb86fc5d45cde305ace68c7c4636fb0f12acc082a50c7c4be148bffc9dceb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySimpleNet.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57-04:00" modified="2020-08-07T21:20:57-04:00" filename="banksySimpleNet.xql" mimetype="application/xquery" blob-id="1b8db5c4df8479598fdf51e6ea3ab1762cdb3820519d3dbeedf838c196f4b90e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySimpleNet.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57-04:00" modified="2020-08-07T21:20:57-04:00" filename="banksySimpleNet.tsv" mimetype="application/xml" blob-id="43eb13f721d0637d83e9a591c5ed8320b20fb80e4b56ddc8c784ed36a62e2d80">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyTimelineStarter.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57-04:00" modified="2020-08-07T21:20:57-04:00" filename="banksyTimelineStarter.xql" mimetype="application/xquery" blob-id="d8a467976ae8c0de55ca3bc865af1b6e3dd51796b4fdf5bc9e5164078016ad50">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pacificGeoPairs.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57-04:00" modified="2020-08-07T21:20:57-04:00" filename="pacificGeoPairs.xql" mimetype="application/xquery" blob-id="7657c558a896237448744fc7bfb5c70f2d41ba88f80fb16226c12f0be00032cc">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

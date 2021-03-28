@@ -1,0 +1,51 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/resources/css/black-tie/images" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="ui-icons_222222_256x240.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-icons_222222_256x240.png" mimetype="image/png" blob-id="825466d71c09050951e598b7c7d8591b7de908a7232b4af778468be8e3ab5bd2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_ffcf29_256x240.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-icons_ffcf29_256x240.png" mimetype="image/png" blob-id="627b8006669701ceadb4641c302484102ca84d2936f05f5074882f3078c647a6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_bbbbbb_256x240.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-icons_bbbbbb_256x240.png" mimetype="image/png" blob-id="7f38101c34fbc66c95daf3d6ee046a3581dd74352ca71db04770af7beb580aa4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="animated-overlay.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="animated-overlay.gif" mimetype="image/gif" blob-id="d4c5afb81932c2ce6385b1039cc1bd53a8d194c8e0e9544b5274e09795cb8e54">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_glass_55_1c1c1c_1x400.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-bg_glass_55_1c1c1c_1x400.png" mimetype="image/png" blob-id="12df6edd73656b9c26ef934704320424ddbed9b2d386449df120a9c82ed06792">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_ffffff_256x240.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-icons_ffffff_256x240.png" mimetype="image/png" blob-id="3ace6888cbdfbae8b5a53996f0cb625e84bba954aec39f94129c18007937866b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_highlight-hard_100_f9f9f9_1x100.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-bg_highlight-hard_100_f9f9f9_1x100.png" mimetype="image/png" blob-id="a1557bc506af3a7c16d69ec38530d187e7382d258133c50cf4ab8b00eba80320">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_highlight-hard_40_aaaaaa_1x100.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-bg_highlight-hard_40_aaaaaa_1x100.png" mimetype="image/png" blob-id="f89075a1e2ba83d017dee2a999f35c5d0e57afc0c4558840d33792da1df8f3d7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_diagonals-thick_8_333333_40x40.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-bg_diagonals-thick_8_333333_40x40.png" mimetype="image/png" blob-id="67ce1bfe75f46c16354b203915620278dbf60489692d122bec1f3293dead659a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_ededed_256x240.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-icons_ededed_256x240.png" mimetype="image/png" blob-id="d5e49f45edf6cb919089c5657ce52f98450f7ab9b72143e53b1e29143ac7e2df">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_highlight-soft_50_aaaaaa_1x100.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-bg_highlight-soft_50_aaaaaa_1x100.png" mimetype="image/png" blob-id="b311e71eb4ad182bc1f8053c7799a884026ea9691161ab6e85c7b013ab81c54f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_glass_40_111111_1x400.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-bg_glass_40_111111_1x400.png" mimetype="image/png" blob-id="02332cdbbebd76f4145a618dccf1217d9bd3f0d5a9736f0c9237f3a524414b71">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_inset-hard_45_cd0a0a_1x100.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-bg_inset-hard_45_cd0a0a_1x100.png" mimetype="image/png" blob-id="e963e72cd14fcac8e26f377130b27ce679e5875de1eff87475ac9820695b19df">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_flat_65_ffffff_40x100.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-bg_flat_65_ffffff_40x100.png" mimetype="image/png" blob-id="60bee62d79e8bc519a003b0f0c555b081c97663bffd376b79a9b1d8d697a64a9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_inset-hard_55_ffeb80_1x100.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-bg_inset-hard_55_ffeb80_1x100.png" mimetype="image/png" blob-id="a976a178d7298730892c0590e4b1996d5a4214a6283f4879806313c3374ce6c6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_4ca300_256x240.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="ui-icons_4ca300_256x240.png" mimetype="image/png" blob-id="c5951e8bdeeaf7e664f90e228eaf7622d432ad7c483f54538808c1ca414fe5db">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

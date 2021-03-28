@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/quantumSatire" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:12-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="ClassExTimeLineP1.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:12-04:00" modified="2020-08-07T21:14:12-04:00" filename="ClassExTimeLineP1.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="hallSVGEx5.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:12-04:00" modified="2020-08-07T21:14:12-04:00" filename="hallSVGEx5.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery1" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:12-04:00" modified="2020-08-07T21:14:12-04:00" filename="xquery1" mimetype="application/xml" blob-id="e43a20ed21e35de8d629574259ec7cfbb1ef469d755330aa22af3597a51fd2a1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelineStarter.xquery" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:12-04:00" modified="2020-08-07T21:14:12-04:00" filename="timelineStarter.xquery" mimetype="application/xquery" blob-id="c4cc9dbe280c739909e55d245700499d146c71a64c65e304341d1e91712b8fbd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svgEx3.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:12-04:00" modified="2020-08-07T21:14:12-04:00" filename="svgEx3.xql" mimetype="application/xquery" blob-id="aa6cb92be56ce3ac053149035873f8b530a461467f89cbedcd7d104984442c5f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery_to_svg.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:12-04:00" modified="2020-08-07T21:14:12-04:00" filename="xquery_to_svg.xql" mimetype="application/xquery" blob-id="55e3cb67f918f6d1b1a463d13c6a9ea4e301adee971a8b78f7a0e45761efc3ab">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hallSVGEx5.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13-04:00" modified="2020-08-07T21:14:13-04:00" filename="hallSVGEx5.xql" mimetype="application/xquery" blob-id="561ab537ce177417c1fdaa04870c54fedd576180f25c5e2645986b280a2aba67">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

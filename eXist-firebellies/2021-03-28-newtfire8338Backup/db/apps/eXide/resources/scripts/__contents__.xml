@@ -1,0 +1,22 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/resources/scripts" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="d3.v3.min.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="d3.v3.min.js" mimetype="application/javascript" blob-id="881e14746e98dae5170eb2b94672f206f2cead7cd6753a440ef75a5e1095c01d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xqlint.min.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="xqlint.min.js" mimetype="application/javascript" blob-id="39b72ec23e682377f4b27a4883e93915dcc0b81a3fd64d7e6c1fa179ada19cb6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="require.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="require.js" mimetype="application/javascript" blob-id="14ad39eb0c68961d9ba0987721a16ae86c68d49a711a9e14ebc1c2a29e0f1c3d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="modernizr.custom.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="modernizr.custom.js" mimetype="application/javascript" blob-id="a88124a730b29cc0fdbd47205673c8a7a2c9ab864bea9afb649c83fc49fa34d8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="eXide.min.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="eXide.min.js" mimetype="application/javascript" blob-id="0c3e52e6160fed309e719a3a9a56416de31f2ba917d7e7e29c0d5b0f1f986f71">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="less.min.js" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="less.min.js" mimetype="application/javascript" blob-id="6ba86a5b202087f6fdf75cdd57a131be8a10e2988761147b118345228a1ad280">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="jquery" filename="jquery"/>
+</collection>

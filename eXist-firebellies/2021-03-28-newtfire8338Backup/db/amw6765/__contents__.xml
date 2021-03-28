@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/amw6765" owner="amw6765" group="dba" mode="775" created="2021-03-12T04:04:15-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Exercise%204" owner="amw6765" group="amw6765" mode="755" created="2021-03-12T18:41:58-05:00" modified="2021-03-12T18:41:58-05:00" filename="Exercise 4" mimetype="application/xquery" blob-id="3f77975896c971be237a4bd4aac978207f4eb622f0f0a96f110321fa3f332cb1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG%20Assignment%20Example" owner="amw6765" group="amw6765" mode="755" created="2021-03-22T17:45:42-04:00" modified="2021-03-22T17:45:42-04:00" filename="SVG Assignment Example" mimetype="application/xquery" blob-id="742e0d5b22d30a1e2f3fb5c4b948fb5f29a7001423a8183fda2b1fa51fdc8bbf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_2_Ready.xql" owner="amw6765" group="amw6765" mode="755" created="2021-03-23T19:40:17-04:00" modified="2021-03-23T19:40:17-04:00" filename="SVG_2_Ready.xql" mimetype="application/xquery" blob-id="72add3edaf964a138bc04bbcf1977fefc1eb2383246a9db726a5f854317e545b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ac_SVG2.svg" owner="amw6765" group="amw6765" mode="644" created="2021-03-23T19:42:15-04:00" modified="2021-03-23T19:47:08-04:00" filename="ac_SVG2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_3.xql" owner="amw6765" group="amw6765" mode="755" created="2021-03-23T19:47:42-04:00" modified="2021-03-24T17:31:15-04:00" filename="SVG_3.xql" mimetype="application/xquery" blob-id="7106eff95afbea7fe50cf6cfde91290169ecc119172d263b1576668cf70c1100">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ac_SVG3.svg" owner="amw6765" group="amw6765" mode="644" created="2021-03-23T20:44:54-04:00" modified="2021-03-24T17:31:02-04:00" filename="ac_SVG3.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_ac_TSV1.tsv" owner="amw6765" group="amw6765" mode="755" created="2021-03-26T16:49:51-04:00" modified="2021-03-26T18:39:57-04:00" filename="AMW_ac_TSV1.tsv" mimetype="application/xml" blob-id="09f153409c09e8ae67595099dc73eb240f5031057251cebbc593f0e46e271bb9">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,38 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/packageservice" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="expath-pkg.xml" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="expath-pkg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="no-service.html" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="no-service.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="defaults.xml" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="defaults.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="configuration.xml" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="configuration.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="repo.xml" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:27-04:00" modified="2020-08-07T02:48:27-04:00" filename="repo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="todo.md" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="todo.md" mimetype="text/markdown" blob-id="1ab278c6f4613346a3457206a0f409eac1605734289a26dd78d70b7306ccf832">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="README.md" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="README.md" mimetype="text/markdown" blob-id="a050c9f2acd36164f44d07291e6b03f700c9173d7d7861e48bc4297431a35347">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="LICENSE" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="LICENSE" mimetype="application/octet-stream" blob-id="00ece1a0d221631521bf86a17ca546b5ec86791806d59a3cce3ed61fdaaddc39">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="icon.png" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="icon.png" mimetype="image/png" blob-id="8c1a4b2ade0cfe5a30397040a2dc8d72f97e66468b45fc295f744f4ad6c91064">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="existdb-packageservice.iml" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="existdb-packageservice.iml" mimetype="application/octet-stream" blob-id="8bf2e6fd5a57286f2e316c02eddf5e2108817546d26810e71b817e15539638a6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="controller.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="controller.xql" mimetype="application/xquery" blob-id="c521614c1d2edbc23a1890af267be73efea68f5a4127a23a15fe317fb09feb1d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="resources" filename="resources"/>
+    <subcollection name="modules" filename="modules"/>
+</collection>

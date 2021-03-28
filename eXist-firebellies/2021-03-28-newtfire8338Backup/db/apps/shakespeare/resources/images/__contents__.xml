@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shakespeare/resources/images" owner="admin" group="dba" mode="755" created="2021-03-01T18:07:15-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="ajax-loader.gif" owner="admin" group="dba" mode="644" created="2021-03-01T18:07:15-05:00" modified="2021-03-01T18:07:15-05:00" filename="ajax-loader.gif" mimetype="image/gif" blob-id="15dd708e870a2c826b84312fd964c4304538c664ba7c91dedb0a62c597d624f2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nu-logo.gif" owner="admin" group="dba" mode="644" created="2021-03-01T18:07:15-05:00" modified="2021-03-01T18:07:15-05:00" filename="nu-logo.gif" mimetype="image/gif" blob-id="8551407b575c678aa89cad57addbc0458c54c7989fbe9509f65273f7dcde8e0c">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

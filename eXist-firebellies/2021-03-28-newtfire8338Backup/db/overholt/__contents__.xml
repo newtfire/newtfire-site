@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/overholt" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:42-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="overholtSVG.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:42-04:00" modified="2020-08-07T21:14:42-04:00" filename="overholtSVG.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ClassExTimeLineP1.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:42-04:00" modified="2020-08-07T21:14:42-04:00" filename="ClassExTimeLineP1.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Overholt_TEI.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:42-04:00" modified="2020-08-07T21:14:42-04:00" filename="Overholt_TEI.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Overholt_SVG" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:42-04:00" modified="2020-08-07T21:14:42-04:00" filename="Overholt_SVG" mimetype="application/xml" blob-id="9de4514d413e9aedd36ef25a53352a98982c0a8c3ba05455f29a46ef8806b7b6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Overholt_SVG.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:42-04:00" modified="2020-08-07T21:14:42-04:00" filename="Overholt_SVG.xql" mimetype="application/xquery" blob-id="c65f77e63cda326e3fde89de664553cee841c057e47cea50d0d76a2a5a266e1f">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

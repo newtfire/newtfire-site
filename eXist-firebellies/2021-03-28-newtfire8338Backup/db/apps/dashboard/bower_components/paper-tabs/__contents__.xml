@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/paper-tabs" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:28-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="paper-tab.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="paper-tab.html" mimetype="text/html" blob-id="a669044b37595c0955eb6ef620ab2ebed8d7097bce28e1aba23af08c7c0e73e1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-tabs.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="paper-tabs.html" mimetype="text/html" blob-id="6492ec0112f200e81298d2facb091196bb194640a80eaa30cabaf8dcd6980e96">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-tabs-icons.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:28-04:00" modified="2020-08-07T02:48:28-04:00" filename="paper-tabs-icons.html" mimetype="text/html" blob-id="26dfcc5b65b4e1b878721ff1144bdeb8913c8cf7cbabe8e8c44fa514363e0bf2">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

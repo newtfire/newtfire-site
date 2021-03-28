@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/templates/bootstrap/resources/css" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="style.css" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="style.css" mimetype="text/css" blob-id="bf260f4095a993d67dcb04ebf0172c106bbf19e4ceb28cab35b200645836b665">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

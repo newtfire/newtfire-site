@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ph2046_queries" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:22-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="test_query1.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:22-04:00" modified="2020-08-07T21:14:22-04:00" filename="test_query1.xql" mimetype="application/xquery" blob-id="44391964227c8992d324da9f97197e9446c1ddd0b7d5d9762b853cef2184652f">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

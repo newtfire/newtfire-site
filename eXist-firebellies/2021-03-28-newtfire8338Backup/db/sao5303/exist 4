@@ -1,0 +1,27 @@
+xquery version "3.1";
+  <html>
+  <head>
+      <title>Composers and titles</title>
+  </head>
+  <body>
+      <h1>Composers and Song Titles in the Disney Song Collection</h1>
+  <p>This is a table of composers in alphabetical order, listed with their song titles</p>
+  <table>
+      
+  {  let $disneySongs := collection('/db/disneySongs/')
+  let $disneyMovie :=collection('/db/disneySongs/')//origin/movie 
+    let $composers := $disneySongs//composer ! normalize-space() => distinct-values() => sort()
+     for $c at $pos in $composers
+       let $cTitles := $disneySongs[.//composer ! normalize-space() = $c]//title ! normalize-space() => distinct-values() => sort() => string-join(', ')
+(:      return concat($pos, ": ", $c, ": ", $cTitles):)
+  return
+ 
+  <tr>
+  <td>{$pos}</td>
+  <td>{$c}</td>
+  <td>{$cTitles}</td>
+ </tr> 
+}
+</table>
+</body>
+</html>

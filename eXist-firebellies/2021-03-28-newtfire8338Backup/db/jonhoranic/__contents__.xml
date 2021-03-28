@@ -1,0 +1,87 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/jonhoranic" owner="admin" group="dba" mode="755" created="2020-08-07T21:16:37-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="test2.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="test2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TopTenMitfordPeeps.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="TopTenMitfordPeeps.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ClassExTimeLineP2.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="ClassExTimeLineP2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ClassExTimeLineP1.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="ClassExTimeLineP1.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TimelineForJS.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="TimelineForJS.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="WillShakesManOutput.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="WillShakesManOutput.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TimelinePart2.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="TimelinePart2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TimelineForJS.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="TimelineForJS.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Timeline.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="Timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Timeline_VEIWPORT-EDIT.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="Timeline_VEIWPORT-EDIT.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="test.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="test.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-15_XQuery_3" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="horanic_03-15_XQuery_3" mimetype="application/xml" blob-id="097ba076a43cf8f85d24f4b16e6b9c76bf4ddcc4e57bf1d451368ba74007adff">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ClassExampleTimelinePart2.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="ClassExampleTimelinePart2.xql" mimetype="application/xquery" blob-id="08cb72d676da386b2cedbf7ccf23b5e435b63d06316e889cd0b3cca6a4fa765a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ClassExampleTimelinePart1.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="ClassExampleTimelinePart1.xql" mimetype="application/xquery" blob-id="f7ec7f3c4f8f5478b2c4efcfc1b297b5ad289c559f3f08ea153bf1d58dc37c19">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-03_XQuery_2_fix" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="horanic_03-03_XQuery_2_fix" mimetype="application/xml" blob-id="c76f872e6788f699a07035fab779715bb35c71616f1c519d004cc1973281d657">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="f6_network.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="f6_network.tsv" mimetype="application/xml" blob-id="667c984b44af9d273895d5772c747a324be426a8986c2f0f560fa045887b736f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_script_TEST" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="horanic_script_TEST" mimetype="application/xml" blob-id="f70bf80f0b83c86caf4fc829cc8a137eae2eaab67341b0dc4e1aa47f080aacdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-03_XQuery_2" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="horanic_03-03_XQuery_2" mimetype="application/xml" blob-id="06bc90c45378baa49f8bcca72e467293799b97946c34678dcea69daf706414b0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ClassExampleTimelinePart2" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37-04:00" modified="2020-08-07T21:16:37-04:00" filename="ClassExampleTimelinePart2" mimetype="application/xml" blob-id="08cb72d676da386b2cedbf7ccf23b5e435b63d06316e889cd0b3cca6a4fa765a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-17_SVG_2" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="horanic_03-17_SVG_2" mimetype="application/xml" blob-id="bb32a246639c3cbd324fd372e4eacdc2d6429500553424c456e95c90a7f08878">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-22_Network_1" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="horanic_03-22_Network_1" mimetype="application/xml" blob-id="cc34797ef61b1e86795bc5e2c0d22274e8a4826200fd157e4a70f8c53bcc8c85">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-22_SVG_4" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="horanic_03-22_SVG_4" mimetype="application/xml" blob-id="30c3eb57ad57c5267cf7b858ce8f68be887fb0c1346d360be7c7c3d53719bc9b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-21_SVG_3" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="horanic_03-21_SVG_3" mimetype="application/xml" blob-id="ba145d351f56ce52f8512d63b07779409c88d8f8eabf093a7504ff1f2ff1a331">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ClassExampleTimelinePart1" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="ClassExampleTimelinePart1" mimetype="application/xml" blob-id="188746156b8d6dbb6034a631c22c3294f306f3ccad11586396a0bdb787d635d7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapTest.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38-04:00" modified="2020-08-07T21:16:38-04:00" filename="mapTest.txt" mimetype="text/plain" blob-id="abf78348a0f4bfe00a552dcdb69e089a80e90b4172b172d9cb46abab8fea4022">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_mapScript_TEST" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="horanic_mapScript_TEST" mimetype="application/xml" blob-id="42f208526f7c291bd9cee8743169f18cae9b704a2084f959aa504cfe28d1d2ae">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Placeography.kml" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="Placeography.kml" mimetype="application/xml" blob-id="6b3522aced1eed1146dabac596cda0c2ed1b69bb13d557504cea60a1cb1342b7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelineForJS.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39-04:00" modified="2020-08-07T21:16:39-04:00" filename="timelineForJS.xql" mimetype="application/xquery" blob-id="d18a564ebdbcaef1f1595e807e6b1dab19179b80e226c7faef83946787495adc">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

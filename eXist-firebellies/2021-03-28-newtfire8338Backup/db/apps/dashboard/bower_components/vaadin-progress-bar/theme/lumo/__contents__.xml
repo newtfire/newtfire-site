@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/vaadin-progress-bar/theme/lumo" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="vaadin-progress-bar.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="vaadin-progress-bar.html" mimetype="text/html" blob-id="1ec5d1a0e1a5ee2e4b7cee120b15c0a329be02f30f89ffe27c708307454c6aa0">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

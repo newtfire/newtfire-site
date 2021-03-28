@@ -1,0 +1,78 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/modules" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="search.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="search.xql" mimetype="application/xquery" blob-id="ae8a7ea70fa7a766abc9831188ef3f15cb66961f4695506c4b98c0f0917617c8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="run-test.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="run-test.xql" mimetype="application/xquery" blob-id="a98c1837a321211ed5f5589671a97cc2ff845804433b0ab62398d5931a492b7c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="error-handler.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="error-handler.xql" mimetype="application/xquery" blob-id="ab77199f628105d3ea4a5888739e0b5b1ff9f17dfe821c5b5aa398b9a807c1cf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="upload.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="upload.xql" mimetype="application/xquery" blob-id="87b7c9df87e4f2915ef43e51bc12a79fcbf4e98e1a329ae04e50ebdc21864c84">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="git.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="git.xql" mimetype="application/xquery" blob-id="2b9eb9a174e1e6a3f2d101ed9776b83b1418a09eadea6e030764ac74bd9f6dc3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dates.xqm" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="dates.xqm" mimetype="application/xquery" blob-id="f8bb0d0ef60bb5087b03857d4e9ae72e65ae7032fb89a4a4cb5303c36fd007fe">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="store.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="store.xql" mimetype="application/xquery" blob-id="4bcb921ecbe25a9af237be0e99ee83358b2e8edf7475e30ac7d03fe762966be8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="session.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="session.xql" mimetype="application/xquery" blob-id="70f5117e213653a10744b07caf61d1eed2cb469cbdfab6201cd14304632028ae">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="util.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="util.xql" mimetype="application/xquery" blob-id="03d86c4be082a5f3c0f8fbabcd3ae45b34f451c4d9f8057651aad69bd7cb292f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="validate-xml.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="validate-xml.xql" mimetype="application/xquery" blob-id="384ad42ba2df6b1a4fd87ba19c95bce47a6942e155a4242a7abafcb9dc3191ea">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="deployment.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="deployment.xql" mimetype="application/xquery" blob-id="9a6365c9e6b8cc0920a072e1a3e9499dcfdca7472fbf68c38d9ee60deeb18a20">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="view.xql" mimetype="application/xquery" blob-id="35263be400dbf3566ca1b4414cb974596ffcd555e5f4a959c1f3c746b63c6661">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="debuger.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="debuger.xql" mimetype="application/xquery" blob-id="d72c81cc0b1737999724878be5107ddcb6bc047edeb430b567c19159fc36486d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="compile.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="compile.xql" mimetype="application/xquery" blob-id="68eee8934f97edd9cb35390f1c1c6041385b1db2960e2001b44d4233248fa647">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="get-template.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="get-template.xql" mimetype="application/xquery" blob-id="ef4329573ff812addd13ecea88dee82e5668546120d9e9e6dd2c53a7ed651bcf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="collections.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="collections.xql" mimetype="application/xquery" blob-id="7c98107aae8918ba2a47a295739f8b3b4393e17c720245dcb8889779306cce96">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="load.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="load.xql" mimetype="application/xquery" blob-id="0a44f5f45deeb7c2b17f882370f16bdce2833e2c4ef211ce4aeead36dde99378">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="synchronize.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="synchronize.xql" mimetype="application/xquery" blob-id="5a90c640fbd14cf3a7db57381dd01db7d3a88b1a979e94d3638c9662159a5339">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="outline.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="outline.xql" mimetype="application/xquery" blob-id="3ed1208c8a5d25b6d2fa26eaf4134c868c98289c01f4f7716da682b4218ee267">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tmpl.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="tmpl.xql" mimetype="application/xquery" blob-id="c3bb15958533a2acbaca893e556b7fe6ec308960d08a28c5608e553b52ead779">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="documentation.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="documentation.xql" mimetype="application/xquery" blob-id="043bb732362ba06ce8dc450c587288b2dd7c1e82a4c3e5fbcba432aedbfdf3de">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="config.xqm" mimetype="application/xquery" blob-id="d97ba27728c0dea6d422f7be92e2485fe5b8a7ab9c25dcb4eb6760ec3ca84517">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="find.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="find.xql" mimetype="application/xquery" blob-id="9daedf72fcf0a2e558098dbbb1dc864320d49cfebb94d6ffc608c3631959ff43">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="apply-config.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="apply-config.xql" mimetype="application/xquery" blob-id="2f423fbbdbabb1520c109dfe4ad13a6aab1026f08630609f64c6d031a2951113">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docs.xql" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="docs.xql" mimetype="application/xquery" blob-id="1351ba4f15da000931d479d9054066c6a217be455138fa1b3ead38cb2704a559">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

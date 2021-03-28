@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/auw600" owner="auw600" group="dba" mode="775" created="2021-03-12T04:01:52-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="xquery5" owner="auw600" group="auw600" mode="755" created="2021-03-15T00:04:35-04:00" modified="2021-03-15T17:13:12-04:00" filename="xquery5" mimetype="application/xml" blob-id="291f2e912531514bc739671b0008563281be7b8099767099f5ca3df96c7f5243">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery3_disney" owner="auw600" group="auw600" mode="755" created="2021-03-15T00:06:41-04:00" modified="2021-03-15T00:06:41-04:00" filename="xquery3_disney" mimetype="application/xquery" blob-id="720ca1cca75ec8099e04670d48d35292760c16b9a6f402924d62eac3eda8b662">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery_shake" owner="auw600" group="auw600" mode="755" created="2021-03-15T00:07:01-04:00" modified="2021-03-15T00:07:01-04:00" filename="xquery_shake" mimetype="application/xquery" blob-id="6ac0bf3efcd7f3f8c3d5f47ebee6d637d2bacc12ac9cc8981e1832d9f24f1b47">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="blues%20xquery" owner="auw600" group="auw600" mode="755" created="2021-03-15T00:27:28-04:00" modified="2021-03-15T00:27:28-04:00" filename="blues xquery" mimetype="application/xquery" blob-id="dca7b6cba76de03ac0e31e526d7dd069c3a71ae7de0fd0dadf02f6ba648c886f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bluesArtistTable.html" owner="auw600" group="auw600" mode="644" created="2021-03-15T00:34:41-04:00" modified="2021-03-22T14:37:00-04:00" filename="bluesArtistTable.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery5.xql" owner="admin" group="dba" mode="755" created="2021-03-15T17:07:53-04:00" modified="2021-03-15T17:07:53-04:00" filename="xquery5.xql" mimetype="application/xquery" blob-id="43c0e0600c168010cbab07782eb171410e412c7bae5fed704d9edf34eefafc6f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg2.xql" owner="auw600" group="auw600" mode="755" created="2021-03-22T14:19:40-04:00" modified="2021-03-22T17:38:24-04:00" filename="svg2.xql" mimetype="application/xquery" blob-id="c7facd4302c410883cf7b75e7d7448940056061ea4fc5f4b3e582ab5cf5062cc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery4" owner="auw600" group="auw600" mode="755" created="2021-03-22T14:37:23-04:00" modified="2021-03-22T14:37:23-04:00" filename="xquery4" mimetype="application/xquery" blob-id="65883826f64aaecad6e2d42bb85a52a6dafc6d310de9f705cf3729774e166680">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery4.xql" owner="auw600" group="auw600" mode="755" created="2021-03-22T14:38:07-04:00" modified="2021-03-22T14:38:07-04:00" filename="xquery4.xql" mimetype="application/xquery" blob-id="65883826f64aaecad6e2d42bb85a52a6dafc6d310de9f705cf3729774e166680">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

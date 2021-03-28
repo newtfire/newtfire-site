@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/iron-menu-behavior" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:27-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="iron-menu-behavior.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:27-04:00" modified="2020-08-07T02:48:27-04:00" filename="iron-menu-behavior.html" mimetype="text/html" blob-id="ec534b2d291f5cbd50abc568f2a467a35b9a971b39b7b6608fac5de777b8b76d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iron-menubar-behavior.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:27-04:00" modified="2020-08-07T02:48:27-04:00" filename="iron-menubar-behavior.html" mimetype="text/html" blob-id="c7814d0a91dba9ee5ab9cab6ce501329ef94d9965c49fdabb681cc1a73a67d89">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

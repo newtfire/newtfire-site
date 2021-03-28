@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/integration-testing/listings" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="travis-1.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="travis-1.txt" mimetype="text/plain" blob-id="e1e3f57cd8424bdea40bd69e07d6f04c49eb110985886f280448d7e7acf30dbc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="cypress.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="cypress.txt" mimetype="text/plain" blob-id="adc692dd4222aa53445579aab7d7f9529f24ae19233e2fc5ea334e07e5db44cd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="travis-4.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="travis-4.txt" mimetype="text/plain" blob-id="16ea16ed56a886cab82f2e582c4a5a8e2dc3af02f917372f83924bf82884fafb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="travis-3.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="travis-3.txt" mimetype="text/plain" blob-id="face0daebe367ed778664d552df57d02e9c3b3274a8480d93f020616757eddc8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="travis-2.txt" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:35-04:00" modified="2020-08-07T02:48:35-04:00" filename="travis-2.txt" mimetype="text/plain" blob-id="c36368d0a3bf4cb65dbcafb51aaf25d924575945918dbe78a9e98f444251badc">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

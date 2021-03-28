@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/paper-ripple" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="paper-ripple.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="paper-ripple.html" mimetype="text/html" blob-id="7c94215f0d1bbeff8e75165cfe33fe34508430fe8a056ae386648af5e8fd759a">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

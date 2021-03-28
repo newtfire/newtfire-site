@@ -1,0 +1,317 @@
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="./sentences/1-04-00032-ENG01.xml"/>
+        <title>ārya-kṣitigarbha-aṣṭottaraśataka-nāma-dhāraṇī-mantra-sahita</title>
+		<unifiedCatalogID>1-04-00032</unifiedCatalogID>
+		<sourceDesc>
+			<bibl>
+				<title>The One Hundred and Eight Names of Arya Kshitigarbha and the Dharani Mantra</title>
+				<author>Carlier, Steve</author>
+				<pubInfo>Portland, OR: FPMT</pubInfo>
+				<date>2018</date>
+			</bibl>
+		</sourceDesc>
+		<creation date="Sun Feb 23 16:36:25 2020"/>
+		<processed date="Sun Feb 23 16:36:25 2020" ver="v.1.0" auth="Hackett"/>
+		<processed date="Mon Mar 23 16:35:08 2020" ver="v.1.01" auth="XMLTagEnglish v.1.07"/>
+	</head>
+	<text>
+		<sentence s_id="1-04-00032-ENG01-SID000001" type="Text Title">
+			<phrase phr_id="1-04-00032-ENG01-000001">The One Hundred and Eight Names of Ārya Kṣhitigarbha and the Dhāraṇī Mantra</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000002" type="Homage">
+			<phrase phr_id="1-04-00032-ENG01-000002">Homage to the Great King of Mandalas, Bodhisattva Mahasattva Kṣhitigarbha.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000003" type="Mantra" s_name="">
+			<phrase phr_id="1-04-00032-ENG01-000003">Oṃ Sumbha Nisumbha</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000004">Hara Chara</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000005">Mahā Pāśa Marutā</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000006">Amogha Vajra Satva Svāhā</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000004" type="Verse" s_name="1">
+			<phrase phr_id="1-04-00032-ENG01-000007">Then, as soon as this dhāraṇī that bestows good qualities</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000008">Had been spoken,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000009">Even the holy vajra maṇḍala</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000010">Along with the snows of Kailash shook.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000005" type="Verse" s_name="2">
+			<phrase phr_id="1-04-00032-ENG01-000011">The Bhagavan Possessing a Vajra</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000012">Spoke to the powerful assembly of Kṣhitigarbha:</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000013">“Great Fortunate One! Excellent! Excellent!</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000014">On the earth, you act extensively.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000006" type="Verse" s_name="3">
+			<phrase phr_id="1-04-00032-ENG01-000015">“Your dhāraṇī is highly renowned</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000016">And produces a collection of unfathomable good qualities.</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000017">It stops the suffering</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000018">And faults of all sentient beings.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000007" type="Verse" s_name="4">
+			<phrase phr_id="1-04-00032-ENG01-000019">“Hearing it, when wandering in samsara</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000020">One is unsullied by any fault,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000021">Just like lotuses in a quagmire</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000022">Are unsullied by the faults of the quagmire.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000008" type="Verse" s_name="5">
+			<phrase phr_id="1-04-00032-ENG01-000023">“For any suitable embodied being</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000024">Who holds your secret mantra,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000025">Their works, even the tiniest ones,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000026">Will not be diverted from enlightenment.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000009" type="Verse" s_name="6">
+			<phrase phr_id="1-04-00032-ENG01-000027">“Any wise person who hears this supreme dhāraṇī mantra</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000028">And has faith in it</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000029">Will also definitely attain all good qualities.</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000030">Of this, there is no doubt.”</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000010" type="Verse" s_name="7">
+			<phrase phr_id="1-04-00032-ENG01-000031">Then the entourage of The One Endowed with All</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000032">Stood up and spoke the one hundred and eight names to</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000033">Powerful Lord of the Earth,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000034">Kṣhitigarbha ("Essence of Earth"), Supreme Earth:</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000011" type="Verse" s_name="8">
+			<phrase phr_id="1-04-00032-ENG01-000035">“Kṣhitigarbha, Great Principal,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000036">Eyes like Lightning,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000037">Having a Crown, Resting on the Earth,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000038">Endowed with Excellence, Supreme Wealth,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000012" type="Verse" s_name="9">
+			<phrase phr_id="1-04-00032-ENG01-000039">“Endowed with Knowledge, Maker of Knowledge, Object of Worship,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000040">Principal One, Virtuous Practitioner, Teacher,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000041">Endowed Mode of Wind Along with the Foundation,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000042">Endowed with the Mind of SVĀHĀ, Best of Compassion,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000013" type="Verse" s_name="10">
+			<phrase phr_id="1-04-00032-ENG01-000043">“Supreme of the Suns of the Omniscient One,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000044">Essence, Renowned as Knower of the Essence,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000045">Sports with Secret Mantra and Sports Extensively,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000046">Powerful Lord of the Earth, With Method of Dance,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000014" type="Verse" s_name="11">
+			<phrase phr_id="1-04-00032-ENG01-000047">“Graceful, Kind Face, Endowed with the Dancer,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000048">Teacher of the Manifest Result,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000049">Great Wealth, Wise One, Knower of the Essence,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000050">Finder of the Essence, Fearless.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000015" type="Verse" s_name="12">
+			<phrase phr_id="1-04-00032-ENG01-000051">“Savior, Possessor of a Buddha Form,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000052">Seer of Everything with Wisdom,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000053">Eliminator of All Faults Such as Attachment,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000054">Teacher of the Great Method of Dance,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000016" type="Verse" s_name="13">
+			<phrase phr_id="1-04-00032-ENG01-000055">“Teacher like a Wish-Granting Tree,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000056">Powerful Lord of the Sky, Sweet Sounding Voice,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000057">The Great Sun Himself—</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000058">Great Powerful Lord Encircled by Radiance.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000017" type="Verse" s_name="14">
+			<phrase phr_id="1-04-00032-ENG01-000059">“Enjoyer of Limitless Good Qualities,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000060">Powerful Lord of the Earth Possessing the Objects of Enjoyment,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000061">Enjoyer of Dharma, Great Enjoyer of Enjoyments,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000062">Infinite Ocean of an Ocean of Good Qualities,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000018" type="Verse" s_name="15">
+			<phrase phr_id="1-04-00032-ENG01-000063">“Enjoyer of a Variety of Good Qualities,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000064">Supreme One of the Tathagata Race,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000065">Skilled in the Profound Modes of Method,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000066">Great Vehicle without Fear.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000019" type="Verse" s_name="16">
+			<phrase phr_id="1-04-00032-ENG01-000067">“Great Worshiper, Great Sound,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000068">Possessor of a Mandala Famed like the Moon,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000069">Mahavajradhara of a Hundred Names,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000070">Vajra Mandala, Crown of Flowers,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000020" type="Verse" s_name="17">
+			<phrase phr_id="1-04-00032-ENG01-000071">“Great Wisdom, Long-Armed,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000072">Great Lotus, Great Force,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000073">Great Secret Mantra, Great Assembly,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000074">Great Earth Foundation, Honored Sumeru,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000021" type="Verse" s_name="18">
+			<phrase phr_id="1-04-00032-ENG01-000075">“Vajrapani Definite in Good Qualities,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000076">Adorned with a Crown of Jewel Flowers,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000077">Enjoyer of Equal Love,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000078">Owner of an Ocean of Vast Fields,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000022" type="Verse" s_name="19">
+			<phrase phr_id="1-04-00032-ENG01-000079">“Possessor of Vajra Light, Endowed with a Vajra.</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000080">Owner of the Earth, Like Sumeru,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000081">Enjoyer of the Earth, Good Enjoyment,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000082">Excellent One Brandishing a Weapon,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000023" type="Verse" s_name="20">
+			<phrase phr_id="1-04-00032-ENG01-000083">“Extremely Renowned Myriad Vessels,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000084">Skillful Speaker, Utterly Destroying Vajra,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000085">Eye Capillaries Slightly Red,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000086">Bound by a Crown of Blue Flowers.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000024" type="Verse" s_name="21">
+			<phrase phr_id="1-04-00032-ENG01-000087">“Great Zeal, Long-Armed,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000088">Steadfast, Giver of Happiness to the Steadfast,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000089">Helmsman, Great Glory and Goodness,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000090">Honored One like Snowy Sumeru,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000025" type="Verse" s_name="22">
+			<phrase phr_id="1-04-00032-ENG01-000091">“Indra, Great King of Yama,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000092">And Mighty Vishnu, Powerful Ishvara,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000093">Supreme Race in the World, Buddha, Brahma,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000094">One Object of Enjoyment Is the Mode of Thusness.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000026" type="Verse" s_name="23">
+			<phrase phr_id="1-04-00032-ENG01-000095">“Precious Top Ornament, Laughing Greatly,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000096">Joyful, Attired in Variegated Clothes,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000097">Far-Sighted, Expansive-Eyes,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000098">Without Obstruction like Sky,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000027" type="Verse" s_name="24">
+			<phrase phr_id="1-04-00032-ENG01-000099">“Obstructing Unfathomed Precious Ushnisha,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000100">Cause of No Desire for the Three Worlds,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000101">Disciplined, Eliminator of the Stains of the Delusions,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000102">Pure, Clean, With Restoration and Purification,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000028" type="Verse" s_name="25">
+			<phrase phr_id="1-04-00032-ENG01-000103">“Gone beyond the Battle against Oppression,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000104">Green-Colored, Granter of Refuge, Great Compassion,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000105">Widely Renowned by Strength;</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000106">When Thinking, Possessing Mind as Object of Enjoyment.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000029" type="Verse" s_name="26">
+			<phrase phr_id="1-04-00032-ENG01-000107">“Hero Who Frightens Lions,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000108">Vanquisher of the Hearts of the Hateful,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000109">Lord of Power, Renowned One Endowed with the Object,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000110">Extremely Joyful, Thoroughly Emerged,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000030" type="Verse" s_name="27">
+			<phrase phr_id="1-04-00032-ENG01-000111">“Knower of the Race, Knower of the Essence of the Race,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000112">Honored One Worshipping All Races,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000113">King, Basis Giving Birth to the Supreme Race,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000114">Adorned with the Vajra Mandala,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000031" type="Verse" s_name="28">
+			<phrase phr_id="1-04-00032-ENG01-000115">“Vajra Highly Renowned below the Earth,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000116">Holder of Knowledge Mantras, Great in Strength,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000117">Manifestly Superior, Supreme Pervader,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000118">Honored Good Voice Free of Illness,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000032" type="Verse" s_name="29">
+			<phrase phr_id="1-04-00032-ENG01-000119">“Protector, Pure Teacher,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000120">Thoroughly Teaching the Path to Buddhahood,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000121">Liberator, Ripener, Worthy of Homage,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000122">Adorned with All Mandalas,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000033" type="Verse" s_name="30">
+			<phrase phr_id="1-04-00032-ENG01-000123">“Thoroughly Entering, Wise in Mandalas,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000124">Vajra Preceptor, Support of Good Qualities,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000125">Supremely Pure Bestower of Attainments,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000126">Realizer of Modes and Non-Modes,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000034" type="Verse" s_name="31">
+			<phrase phr_id="1-04-00032-ENG01-000127">“Dominion over the Golden Root Mandala,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000128">Endowed with the Light of Green Light Rays,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000129">Golden, Dressed in Yellow Garments,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000130">Adorned with All Mandalas,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000035" type="Verse" s_name="32">
+			<phrase phr_id="1-04-00032-ENG01-000131">“Eye Capillaries Red, Glory of the Moon,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000132">Arisen from the Light of a Variety of Jewels,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000133">Scattering by the Force of a Hundred Vajras,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000134">Balanced Equality, Stainless,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000036" type="Verse" s_name="33">
+			<phrase phr_id="1-04-00032-ENG01-000135">“Perfect Body and Pure Garments,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000136">Knower of Purity and Endowed with Purity,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000137">Dominion over Pure Dharmas, Illuminator,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000138">Born, Dispeller of Craving,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000037" type="Verse" s_name="34">
+			<phrase phr_id="1-04-00032-ENG01-000139">“Extinguisher of Samsara, Wise One,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000140">Knower of Modes, One Whose Objects of Enjoyment Are Modes,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000141">Honored Essence of the Vajra Ocean,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000142">Vajrasattva, Great Virtue,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000038" type="Verse" s_name="35">
+			<phrase phr_id="1-04-00032-ENG01-000143">“Arisen with Myriad Wisdoms,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000144">Excellent Light Renowned without Exception,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000145">Kṣhitigarbha, Great Essence,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000146">Essence of Vajra, Complete Leader,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000039" type="Verse" s_name="36">
+			<phrase phr_id="1-04-00032-ENG01-000147">“Unfathomable, Completion of the Unfathomable,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000148">Dwelling on the Especially Exalted Object,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000149">Principal One of the Profound and Clear,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000150">Moon Mandala, Cooling Light Rays.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000040" type="Verse" s_name="37">
+			<phrase phr_id="1-04-00032-ENG01-000151">“Producer of Joy, Faith, and Purity,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000152">One whose Object of Enjoyment is Extensive Transcendental Wisdom,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000153">Fierce like the Ferocity of the Wind,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000154">Honored Ferocious One, Dispeller of Ferocity, Pure,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000041" type="Verse" s_name="38">
+			<phrase phr_id="1-04-00032-ENG01-000155">“Making Victorious and Peaceful Victorious One,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000156">Creator of the Victorious Ones’ Glory, Creator of Joy,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000157">One of Mount Kailash and Malaya</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000158">Pressing Down the Profound Object of Enjoyment,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000042" type="Verse" s_name="39">
+			<phrase phr_id="1-04-00032-ENG01-000159">“Precious Vajra, Great Essence,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000160">Honored One with Dominion over the Earth Foundation as Object of Enjoyment,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000161">Light Arising from a Precious Rock,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000162">Adorned with Vajra Mandalas,</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000043" type="Verse" s_name="40">
+			<phrase phr_id="1-04-00032-ENG01-000163">“Intently Enjoying Having Gone to Thusness,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000164">Honored Foundation of Intense Glory, Thorough Clarifier,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000165">Bringer of Glory, Pure, Powerful Lord of the Ten Directions,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000166">Great Powerful Lord.”</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000044" type="Verse" s_name="41">
+			<phrase phr_id="1-04-00032-ENG01-000167">Having thus praised Mahavajradhara</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000168">With the one hundred and eight supreme names,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000169">Vajrasattva spoke</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000170">The supreme vajra empowerment of three levels.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000045" type="Verse" s_name="42">
+			<phrase phr_id="1-04-00032-ENG01-000171">“Those who know the essence of good qualities</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000172">Express the one hundred and eight supreme names</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000173">And put a stop to faults.</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000174">On the earth I have never seen anything such as this.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000046" type="Verse" s_name="43">
+			<phrase phr_id="1-04-00032-ENG01-000175">“These hundred and eight holy names</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000176">Are what accomplish everything and are beloved.</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000177">They eliminate all sins,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000178">Are free of all stains and have definite good qualities.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000047" type="Verse" s_name="44">
+			<phrase phr_id="1-04-00032-ENG01-000179">“Therefore, with all diligence,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000180">People who want excellence</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000181">Should also always express</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000182">These hundred and eight virtuous names.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000048" type="Verse" s_name="45">
+			<phrase phr_id="1-04-00032-ENG01-000183">“These hundred and eight holy names</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000184">Are the supreme peerless repository</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000185">Of all thoughts and actions.</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000186">They confer extensive glorious qualities.</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000049" type="Verse" s_name="46">
+			<phrase phr_id="1-04-00032-ENG01-000187">“Anyone who, with a very pure mind,</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000188">Expresses the clear names of Kṣhitigarbha—</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000189">The supreme good quality</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000190">Thoroughly accomplishing all that is desired—</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000050" type="Verse" s_name="47">
+			<phrase phr_id="1-04-00032-ENG01-000191">“And anyone who expresses</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000192">These one hundred and eight holy names—</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000193">Which hold extensive glorious qualities—</phrase>
+			<phrase phr_id="1-04-00032-ENG01-000194">Will quickly be liberated from all suffering.”</phrase>
+		</sentence>
+		<sentence s_id="1-04-00032-ENG01-SID000051" type="Text Colophon">
+			<phrase phr_id="1-04-00032-ENG01-000195">The One Hundred and Eight Names of Ārya Kṣhitigarbha and the Dhāraṇī Mantra is complete.</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

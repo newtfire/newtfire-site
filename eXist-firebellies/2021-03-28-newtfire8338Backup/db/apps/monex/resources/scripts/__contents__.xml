@@ -1,0 +1,63 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/resources/scripts" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery.flot.time.min.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jquery.flot.time.min.js" mimetype="application/javascript" blob-id="529a8a492e35209d09c957924523d10a72c876c1fd123ca7f70a25adb2d67ce9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="util.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="util.js" mimetype="application/javascript" blob-id="b25450275cb45ef6ce21aa7906597c02dcd9884f0af9b803c1de14aa26c92f1f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.navigate.min.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jquery.flot.navigate.min.js" mimetype="application/javascript" blob-id="d552a9070f3dc4bcbbd83199be819ff83dec0f184de4e6dd75dcad47c94ebabc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exadmin.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="exadmin.js" mimetype="application/javascript" blob-id="d270624604b9fd9ee82a2ede2b7e6d41c56ad7992a3038a37cbf84abdd18d737">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="app.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="app.js" mimetype="application/javascript" blob-id="e30db3b12896e8b48f06682d566d66c9e9ca95e49b94f0bcf5bb22989ac4ffc9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="knockout.mapping-2.4.1.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="knockout.mapping-2.4.1.js" mimetype="application/javascript" blob-id="2aaecffc881d5b48aea0146fca249d74c19fab14c9637acc1f81454aedd1500c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="knockout-3.1.0.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="knockout-3.1.0.js" mimetype="application/javascript" blob-id="97f4066e68fe7bd27ad31016263fed67df674bd7d1be8e7ef915edb6a1c3d442">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.min.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jquery.flot.min.js" mimetype="application/javascript" blob-id="27ff9969fb1fedaffe455279ec6abe2eb2451cd2dc05009a48b11198176e5267">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="d3.v3.min.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="d3.v3.min.js" mimetype="application/javascript" blob-id="881e14746e98dae5170eb2b94672f206f2cead7cd6753a440ef75a5e1095c01d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-1.9.1.min.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jquery-1.9.1.min.js" mimetype="application/javascript" blob-id="f7da4095a004a690af3dd27ebdd744c181acc6ca9522b9b77776095bf78bf7c0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ion.rangeSlider.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="ion.rangeSlider.js" mimetype="application/javascript" blob-id="245696013ab7dd1528e87bad8f39b15d850ee6e2b1190ab52ac486e4c46a11ec">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timerange.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="timerange.js" mimetype="application/javascript" blob-id="b77731b040075749eb402a2221dcc4066d51f294e6451d1489fc804c4d1a1f7e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.tooltip.min.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jquery.flot.tooltip.min.js" mimetype="application/javascript" blob-id="bbb99d01821fda5b396ba23a0b3f5ebe9ce4be5856c0ecae79becbd74d964489">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="modernizr.custom.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="modernizr.custom.js" mimetype="application/javascript" blob-id="66f50cff6dc23de71db04dec72b41245c27ddf3b4c5f23ba5dd430c2bcf716b1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="console.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="console.js" mimetype="application/javascript" blob-id="ace2cf147f3d68da98694ffbcd15d99940d887e0461db9e10f5f0fcad60b2a0e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="highlight.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="highlight.js" mimetype="application/javascript" blob-id="7508b3fb085419ef410ac32889ff9e9312edf031c517194bc3a83f403ece5b28">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="details.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="details.js" mimetype="application/javascript" blob-id="7d422e904604d03943fb804df1ed3db18953019cdd5a5535ae009251f876b7d6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fastclick.min.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="fastclick.min.js" mimetype="application/javascript" blob-id="433de9ddd73655aa9fd233404c42fd18dd99b330c02e017650fc3f5f7c0b7a24">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.selection.min.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="jquery.flot.selection.min.js" mimetype="application/javascript" blob-id="94eeb091ec6272187507ec6b2d968f5cfd58ba7980c584024a15231274c8a1b3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timeline.js" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="timeline.js" mimetype="application/javascript" blob-id="2cdc0e8a81c4b21387a956195a6bb33093ca05c8ebac8aadcdcb92d6b4e028b5">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

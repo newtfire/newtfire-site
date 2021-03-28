@@ -1,0 +1,23 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/alnopa/XQuery" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:46-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="banksyDateTitles.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:46-04:00" modified="2020-08-07T21:20:46-04:00" filename="banksyDateTitles.xql" mimetype="application/xquery" blob-id="2b76c7f3674260ea4f9a6ddaf036134239fbc22b2e2ab10123542040884c5bd0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyConcatYearTitles-ebb.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:46-04:00" modified="2020-08-07T21:20:46-04:00" filename="banksyConcatYearTitles-ebb.xql" mimetype="application/xquery" blob-id="4811ff61b840fb6757673af1bb31f4bb4359740d8850eec4823eedd2390a96d0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyFLWORCOncatYearTitle" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:47-04:00" modified="2020-08-07T21:20:47-04:00" filename="banksyFLWORCOncatYearTitle" mimetype="application/xml" blob-id="0d8dd73e0b3c428fcfe6968fbfae2c38d17d0448a948b1ef330c30ae1be68c91">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyConcatYearTitles.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:47-04:00" modified="2020-08-07T21:20:47-04:00" filename="banksyConcatYearTitles.xql" mimetype="application/xquery" blob-id="4811ff61b840fb6757673af1bb31f4bb4359740d8850eec4823eedd2390a96d0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="argento_03-04_xquery-02.md" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:47-04:00" modified="2020-08-07T21:20:47-04:00" filename="argento_03-04_xquery-02.md" mimetype="text/markdown" blob-id="5432744fbbb165cf2acd973fd01dba2d680499e1e8d685e38a2dc176d1d7ca7c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="argento_03-01_xquery-01.md" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:47-04:00" modified="2020-08-07T21:20:47-04:00" filename="argento_03-01_xquery-01.md" mimetype="text/markdown" blob-id="df9c88314ba5f2292eed0e81632d75f859c1b978e00148a82813a265da6c2e7b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="argento_03-08_xquery-04" filename="argento_03-08_xquery-04"/>
+    <subcollection name="argento_03-06_xquery-03" filename="argento_03-06_xquery-03"/>
+</collection>

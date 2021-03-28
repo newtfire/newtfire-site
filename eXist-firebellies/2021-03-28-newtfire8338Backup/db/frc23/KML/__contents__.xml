@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/frc23/KML" owner="admin" group="dba" mode="755" created="2020-08-07T21:17:30-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="MagellanKML_Finished_Final.KML" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:30-04:00" modified="2020-08-07T21:17:30-04:00" filename="MagellanKML_Finished_Final.KML" mimetype="application/xml" blob-id="113cdd4c8ebca8164c9fbe559700522f6a33c433b13fc06032fd7a3634501b3f">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

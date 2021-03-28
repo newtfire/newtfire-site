@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tjs6551" owner="tjs6551" group="dba" mode="775" created="2021-03-08T20:28:44-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Xquery_Exercise2.xql" owner="tjs6551" group="tjs6551" mode="755" created="2021-03-23T23:17:58-04:00" modified="2021-03-26T01:16:43-04:00" filename="Xquery_Exercise2.xql" mimetype="application/xquery" blob-id="ae73d72dd9dfed33cbbab6455a5a7821dcf50de1d1ae2910198df167fed2dd23">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xquery_Excercise3.xql" owner="tjs6551" group="tjs6551" mode="755" created="2021-03-26T01:31:34-04:00" modified="2021-03-26T01:31:36-04:00" filename="Xquery_Excercise3.xql" mimetype="application/xquery" blob-id="da21606cd3f9dc6e993b64389154b34f185c24c1eb0a0b6596774e5da421cef8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xquery_Exercise4.xql" owner="tjs6551" group="tjs6551" mode="755" created="2021-03-26T02:11:05-04:00" modified="2021-03-26T21:32:18-04:00" filename="Xquery_Exercise4.xql" mimetype="application/xquery" blob-id="10c0b3529c77e9c68f5010e07ce0d63294b838424f0a6d39b90d6615967c7a19">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

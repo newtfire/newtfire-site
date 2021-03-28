@@ -1,0 +1,1439 @@
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-03-00256-PARID.xml"/>
+		<unifiedCatalogID>2-03-00256</unifiedCatalogID>
+		<creation date="Wed Jun 20 9:38:8 118"/>
+		<processed date="Wed Jun 20 9:38:8 118" ver="v.1.0" auth="Hackett"/>
+		<processed date="Wed Mar  4 15:23:21 2020" ver="v.1.01" auth="Add_witness_nums_PARID v.0.1"/>
+		<processed date="Sun May 31 08:51:28 2020" ver="v.2.00" auth="Hackett"/>
+        <processed date="Wed Jun 03 09:33:08 2020" ver="v.2.01" auth="Hackett"/>
+	</head>
+	<text>
+		<body>
+			<div type="Inventory" id="">
+				<list alignment="Witness">
+					<witness type="Text" col="1" lang="SKT" id="2-03-00256-SKT01"/>
+					<witness type="Text" col="2" lang="BOD" id="2-03-00256-D1445"/>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000001">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000001">
+						<sentence type="Text Title" id="2-03-00256-SKT01-SID000001"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000001">
+						<sentence type="Text Title" id="2-03-00256-D1445-SID000001"/>
+						<sentence type="Text Title" id="2-03-00256-D1445-SID000002"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000002">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000002">
+						<sentence type="Homage" id="2-03-00256-SKT01-SID000002"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000002">
+						<sentence type="Homage" id="2-03-00256-D1445-SID000003"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000003">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000003">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000003"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000003">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000004"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000004">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000004">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000004"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000004">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000005"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000005">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000005">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000005"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000005">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000006"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000006">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000006">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000006"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000006">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000007"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000007">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000007">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000007"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000007">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000008"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000008">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000008">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000008"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000008">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000009"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000009">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000009">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000009"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000009">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000010"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000010">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000010">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000010"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000010">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000011"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000011">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000011">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000011"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000011">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000012"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000012">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000012">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000012"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000012">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000013"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000013">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000013">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000013"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000013">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000014"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000014">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000014">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000014"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000014">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000015"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000015">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000015">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000015"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000015">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000016"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000016">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000016">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000016"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000016">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000017"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000017">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000017">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000017"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000017">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000018"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000018">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000018">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000018"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000018">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000019"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000019">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000019">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000019"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000019">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000020"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000020">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000020">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000020"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000020">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000021"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000021">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000021">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000021"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000021">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000022"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000022">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000022">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000022"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000022">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000023"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000023">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000023">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000023"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000023">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000024"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000024">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000024">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000024"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000024">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000025"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000025">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000025">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000025"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000025">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000026"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000026">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000026">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000026"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000026">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000027"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000027">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000027">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000027"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000027">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000028"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000028">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000028">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000028"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000028">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000029"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000029">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000029">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000029"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000029">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000030"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000030">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000030">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000030"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000030">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000031"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000031">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000031">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000031"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000031">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000032"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000032">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000032">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000032"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000032">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000033"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000033">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000033">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000033"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000033">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000034"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000034">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000034">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000034"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000034">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000035"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000035">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000035">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000035"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000035">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000036"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000036">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000036">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000036"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000036">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000037"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000037">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000037">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000037"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000037">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000038"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000038">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000038">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000038"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000038">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000039"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000039">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000039">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000039"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000039">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000040"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000040">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000040">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000040"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000040">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000041"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000041">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000041">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000041"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000041">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000042"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000042">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000042">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000042"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000042">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000043"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000043">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000043">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000043"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000043">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000044"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000044">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000044">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000044"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000044">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000045"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000045">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000045">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000045"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000045">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000046"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000046">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000046">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000046"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000046">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000047"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000047">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000047">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000047"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000047">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000048"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000048">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000048">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000048"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000048">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000049"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000049">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000049">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000049"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000049">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000050"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000050">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000050">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000050"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000050">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000051"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000051">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000051">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000051"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000051">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000052"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000052">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000052">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000052"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000052">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000053"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000053">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000053">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000053"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000053">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000054"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000054">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000054">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000054"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000054">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000055"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000055">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000055">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000055"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000055">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000056"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000056">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000056">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000056"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000056">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000057"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000057">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000057">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000057"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000057">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000058"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000058">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000058">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000058"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000058">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000059"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000059">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000059">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000059"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000059">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000060"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000060">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000060">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000060"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000060">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000061"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000061">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000061">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000061"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000061">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000062"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000062">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000062">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000062"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000062">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000063"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000063">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000063">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000063"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000063">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000064"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000064">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000064">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000064"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000064">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000065"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000065">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000065">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000065"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000065">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000066"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000066">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000066">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000066"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000066">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000067"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000067">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000067">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000067"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000067">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000068"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000068">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000068">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000068"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000068">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000069"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000069">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000069">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000069"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000069">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000070"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000070">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000070">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000070"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000070">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000071"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000071">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000071">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000071"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000071">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000072"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000072">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000072">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000072"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000072">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000073"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000073">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000073">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000073"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000073">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000074"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000074">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000074">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000074"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000074">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000075"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000075">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000075">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000075"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000075">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000076"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000076">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000076">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000076"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000076">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000077"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000077">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000077">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000077"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000077">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000078"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000078">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000078">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000078"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000078">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000079"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000079">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000079">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000079"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000079">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000080"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000080">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000080">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000080"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000080">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000081"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000081">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000081">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000081"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000081">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000082"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000082">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000082">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000082"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000082">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000083"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000083">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000083">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000083"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000083">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000084"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000084">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000084">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000084"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000084">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000085"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000085">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000085">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000085"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000085">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000086"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000086">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000086">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000086"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000086">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000087"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000087">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000087">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000087"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000087">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000088"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000088">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000088">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000088"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000088">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000089"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000089">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000089">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000089"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000089">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000090"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000090">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000090">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000090"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000090">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000091"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000091">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000091">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000091"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000091">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000092"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000092">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000092">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000092"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000092">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000093"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000093">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000093">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000093"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000093">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000094"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000094">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000094">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000094"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000094">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000095"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000095">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000095">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000095"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000095">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000096"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000096">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000096">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000096"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000096">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000097"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000097">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000097">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000097"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000097">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000098"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000098">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000098">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000098"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000098">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000099"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000099">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000099">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000099"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000099">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000100"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000100">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000100">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000100"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000100">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000101"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000101">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000101">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000101"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000101">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000102"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000102">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000102">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000102"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000102">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000103"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000103">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000103">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000103"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000103">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000104"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000104">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000104">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000104"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000104">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000105"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000105">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000105">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000105"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000105">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000106"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000106">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000106">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000106"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000106">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000107"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000107">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000107">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000107"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000107">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000108"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000108">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000108">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000108"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000108">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000109"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000109">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000109">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000109"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000109">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000110"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000110">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000110">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000110"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000110">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000111"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000111">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000111">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000111"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000111">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000112"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000112">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000112">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000112"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000112">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000113"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000113">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000113">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000113"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000113">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000114"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000114">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000114">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000114"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000114">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000115"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000115">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000115">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000115"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000115">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000116"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000116">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000116">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000116"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000116">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000117"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000117">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000117">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000117"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000117">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000118"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000118">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000118">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000118"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000118">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000119"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000119">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000119">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000119"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000119">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000120"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000120">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000120">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000120"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000120">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000121"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000121">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000121">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000121"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000121">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000122"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000122">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000122">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000122"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000122">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000123"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000123">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000123">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000123"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000123">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000124"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000124">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000124">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000124"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000124">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000125"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000125">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000125">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000125"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000125">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000126"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000126">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000126">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000126"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000126">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000127"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000127">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000127">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000127"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000127">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000128"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000128">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000128">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000128"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000128">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000129"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000129">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000129">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000129"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000129">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000130"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000130">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000130">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000130"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000130">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000131"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000131">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000131">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000131"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000131">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000132"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000132">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000132">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000132"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000132">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000133"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000133">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000133">
+						<sentence type="Verse" id="2-03-00256-SKT01-SID000133"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000133">
+						<sentence type="Verse" id="2-03-00256-D1445-SID000134"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000134">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="SKT" id="2-03-00256-SKT01-DIV000134">
+						<sentence type="Sentence" id="2-03-00256-SKT01-SID000134"/>
+					</div>
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000134">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000135"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000135">
+				<list alignment="Sentence">
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000135">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000136"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000136">
+				<list alignment="Sentence">
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000136">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000137"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000137">
+				<list alignment="Sentence">
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000137">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000138"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000138">
+				<list alignment="Sentence">
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000138">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000139"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000139">
+				<list alignment="Sentence">
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000139">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000140"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000140">
+				<list alignment="Sentence">
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000140">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000141"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000141">
+				<list alignment="Sentence">
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000141">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000142"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000142">
+				<list alignment="Sentence">
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000142">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000143"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000143">
+				<list alignment="Sentence">
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000143">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000144"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000144">
+				<list alignment="Sentence">
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000144">
+						<sentence type="Sentence" id="2-03-00256-D1445-SID000145"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-00256-CLU000145">
+				<list alignment="Sentence">
+					<div type="Group" col="2" lang="BOD" id="2-03-00256-D1445-DIV000145">
+						<sentence type="Text Colophon" id="2-03-00256-D1445-SID000146"/>
+					</div>
+				</list>
+			</div>
+		</body>
+	</text>
+</bcrdCorpus>

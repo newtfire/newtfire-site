@@ -1,0 +1,60 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/templates/existdb/resources/images" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="body-base.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="body-base.gif" mimetype="image/gif" blob-id="b98cb87277eb12807a68537844f12994f7af5f42efd77a8de929059e859f7b30">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="page-edit-icon.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="page-edit-icon.png" mimetype="image/png" blob-id="3d0d282f8ef2018f23d4ce58889e49d96420d7680019ab3d87f83e03c46b003e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="delete-icon.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="delete-icon.png" mimetype="image/png" blob-id="08a4df5b52c41726e12e20d8eb4a3671d7479f502e9d7084741d596812920769">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="header.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="header.gif" mimetype="image/gif" blob-id="0338f7f68ac4c3cd3546ffe3b73fa94270350c06d8d7e54189bb075d5e925794">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nav-dropdown.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="nav-dropdown.png" mimetype="image/png" blob-id="f7ee923707e2114d0f98dd3486eb3c6d7cfdf04c7221b20c600fe09db48126f6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="code.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="code.gif" mimetype="image/gif" blob-id="a6a73dae607e19035b3f29d35d2866b03f5bb01a35de9c4dd75390c3f66d1237">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grey-box-bot.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="grey-box-bot.gif" mimetype="image/gif" blob-id="443f5b586e86c0cd123625b14dd4d494c61164659ab2f6586c2f9f8aa1aa707a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bgmenuhi.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="bgmenuhi.gif" mimetype="image/gif" blob-id="df8d93bd25ae6182d5caf208efdf54d933bc3f805653adc604a5f3d6cdc84969">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nav.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="nav.gif" mimetype="image/gif" blob-id="9dd2e57ec2cf30599cb815b001fd9b3a2235b7aad9683402222e3648aeb9ef2a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grey-box-rpt.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="grey-box-rpt.gif" mimetype="image/gif" blob-id="0b65dddda75a4e3e24835f9953c4992a81ed0a9e30ef4ff0cdf3ea720a918c29">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nav-dropdown.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="nav-dropdown.gif" mimetype="image/gif" blob-id="a35adf78f4ea0d2ce696a7ccddcbff14b7aec03e7250e07ab634fbaad0396e7b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="body.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="body.gif" mimetype="image/gif" blob-id="4e42129e6203f2bed94f8cc8ab02f17300bc0446a68cea80a24ba42b6a8d51b3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grey-box-top.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="grey-box-top.gif" mimetype="image/gif" blob-id="a969279df83d26901c39bea06d88a508bb4169e850a28f4245bb64fe5346297a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horizontal.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="horizontal.gif" mimetype="image/gif" blob-id="08cbb267349b1fefb5972b5ba37ecf8b86fc8b4c9e8ab4a4485216177de8dace">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bgmenu.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="bgmenu.gif" mimetype="image/gif" blob-id="62a31042b4a6dcd0979b2a5fa182147f3a619916a4906510d4e0a43611619adf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="existdb.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="existdb.png" mimetype="image/png" blob-id="a86d1c0ba489e2189b15e5d813203b9b9d6e117e9d4d7619b18324b935ea828a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="italic.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="italic.gif" mimetype="image/gif" blob-id="a1a80075069cfa257b24f0e2e187ec1eb0c49f918fa23883a313fe11e32340a3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bold.gif" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="bold.gif" mimetype="image/gif" blob-id="d4c67d5a7a2e832138d66ad89ab17f87dd843b27b7c51494cb703e793ec101cf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glyphicons-halflings.png" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="glyphicons-halflings.png" mimetype="image/png" blob-id="2eee80efe6e75f3a789ad7aadcb2d140e0b6d0a40724b275138c72ba98167001">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

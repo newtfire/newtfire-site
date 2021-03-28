@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tibetan/tib-queries" owner="phackett" group="dba" mode="751" created="2020-09-10T17:19:19-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="tabulate_parallel_text2.xql" owner="phackett" group="dba" mode="751" created="2020-09-10T17:35:59-04:00" modified="2020-11-06T23:21:20-05:00" filename="tabulate_parallel_text2.xql" mimetype="application/xquery" blob-id="3ea5f8a248087f33f95c059ef232a1fcd1ce3bd93c5f2fea9a36f498f1395c96">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-apply-xslt.xql" owner="phackett" group="dba" mode="751" created="2020-09-10T17:46:52-04:00" modified="2020-11-06T23:24:29-05:00" filename="test-apply-xslt.xql" mimetype="application/xquery" blob-id="4b08aff04abe65f923ab5decc7f59696d291aed5fee2bd93b204f2e8b99f7de2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="search-SKT_new.xql" owner="phackett" group="dba" mode="751" created="2020-09-10T18:02:08-04:00" modified="2020-11-10T00:59:11-05:00" filename="search-SKT_new.xql" mimetype="application/xquery" blob-id="cc95b897d0ff88bc2f93d9e5241af934e228e00a98aa649b751751b0f772d8ee">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="search-TIB_new.xql" owner="phackett" group="dba" mode="751" created="2020-09-10T17:43:36-04:00" modified="2020-09-10T17:43:36-04:00" filename="search-TIB_new.xql" mimetype="application/xquery" blob-id="c08222587fe4bd99b0aef21fce37c99415575a736301317421f9f4f478574d52">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tib-texts-home_v2.xql" owner="phackett" group="dba" mode="751" created="2020-09-10T17:35:59-04:00" modified="2020-09-10T17:54:26-04:00" filename="tib-texts-home_v2.xql" mimetype="application/xquery" blob-id="c66d26f85819c6e8db7598c56ae17e5a3880f909821ce36d7f23c7519315901e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-apply-xslt-skt.xql" owner="phackett" group="dba" mode="640" created="2020-09-10T18:04:56-04:00" modified="2020-09-10T18:05:32-04:00" filename="test-apply-xslt-skt.xql" mimetype="application/xquery" blob-id="8a6a81fc5d8225674e8c614ed5b2c7c58b8293cab31eba9043514f37ecdbf055">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-apply-xslt-tibsyll.xql" owner="phackett" group="dba" mode="751" created="2020-09-10T17:46:52-04:00" modified="2020-09-10T18:06:07-04:00" filename="test-apply-xslt-tibsyll.xql" mimetype="application/xquery" blob-id="3c9d8e983ed3b04039f25ce5a867a2ca83da37aaf970ff944bceef28004edee6">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

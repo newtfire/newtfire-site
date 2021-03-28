@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/resources/fonts" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:32-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="glyphicons-halflings-regular.svg" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="glyphicons-halflings-regular.svg" mimetype="image/svg+xml" namedoctype="svg" publicid="-//W3C//DTD SVG 1.1//EN" systemid="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Quicksand_Book-webfont.svg" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="Quicksand_Book-webfont.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Quicksand_Book-webfont.eot" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="Quicksand_Book-webfont.eot" mimetype="application/octet-stream" blob-id="48d8f0bfaf48d4f710dc50e9d2f60ca0a3553b859301f92d6f745955d5c31515">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glyphicons-halflings-regular.woff2" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="glyphicons-halflings-regular.woff2" mimetype="application/octet-stream" blob-id="14aa898334d4082f3d7bd8e33babe2c118e713d1241ca1ec06b257b0c86d9384">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glyphicons-halflings-regular.woff" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="glyphicons-halflings-regular.woff" mimetype="application/font-woff" blob-id="ceec6d740502e537e4cff0079726cef167f8184cc0c57566502644cf6ced179c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glyphicons-halflings-regular.eot" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="glyphicons-halflings-regular.eot" mimetype="application/octet-stream" blob-id="98111a5dfaf2235522eb63ac3427b64bb5c38a0e4bccd4e94fd466c3cb9bad14">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Quicksand_Book-webfont.ttf" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="Quicksand_Book-webfont.ttf" mimetype="application/octet-stream" blob-id="e74cb536649771075423d04718c8336dc3c3e62d0de726e8747cafa090a65bd0">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Quicksand_Book-webfont.woff" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="Quicksand_Book-webfont.woff" mimetype="application/font-woff" blob-id="e9cf3ee6072c14cf7c3f4c6447b54f89cd25c2268596cf2f2ff4da3f7386d34b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glyphicons-halflings-regular.ttf" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="glyphicons-halflings-regular.ttf" mimetype="application/octet-stream" blob-id="29298ba65763743ae6411d44e69bb476a6b351916074c282bc350d47c3871fbf">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

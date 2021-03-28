@@ -1,0 +1,37 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rParker" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:49-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="SVG_4_testOutput.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51-04:00" modified="2020-08-07T21:12:51-04:00" filename="SVG_4_testOutput.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tiersLivreExternalLinks_clean.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51-04:00" modified="2020-08-07T21:12:51-04:00" filename="tiersLivreExternalLinks_clean.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nelsonPlacesAndCompanies" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52-04:00" modified="2020-08-07T21:12:52-04:00" filename="nelsonPlacesAndCompanies" mimetype="application/xml" blob-id="f152538ad466f433c2592aca2c9f436e8fa4c0626ed0e8661d1604ee0eb209ee">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_4_query" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51-04:00" modified="2020-08-07T21:12:51-04:00" filename="SVG_4_query" mimetype="application/xml" blob-id="7660500d3d7107943c91c1ba67c185b931f37d18fdf098dca127ce5b00dea27a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SchismLocations.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51-04:00" modified="2020-08-07T21:12:51-04:00" filename="SchismLocations.txt" mimetype="text/plain" blob-id="9ca8c4f75562a4dc9ff5a6a3dd756be4ebec9827dc908a8531e5f80d4e985a7d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nelsonGrammar" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51-04:00" modified="2020-08-07T21:12:51-04:00" filename="nelsonGrammar" mimetype="application/xml" blob-id="451bab2a65886850aabfa026502372faca696bd5c571a65dd71ca7f55d30397b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nelsonLocRefs" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51-04:00" modified="2020-08-07T21:12:51-04:00" filename="nelsonLocRefs" mimetype="application/xml" blob-id="e6d4834761370c0bdc97ce52e97aef659bf8ea6af2a1d41d24813a0523bca9bc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nelsonGrammarNounsFirst" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51-04:00" modified="2020-08-07T21:12:51-04:00" filename="nelsonGrammarNounsFirst" mimetype="application/xml" blob-id="3b0d1ad3faaaee445e46e88650b5400ac1754729e372b17e1c070d6dad9f32bc">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nelsonOrgsArticles" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51-04:00" modified="2020-08-07T21:12:51-04:00" filename="nelsonOrgsArticles" mimetype="application/xml" blob-id="acfb83144b3d35cab86fa27cfe968ba9aac72325f460426daa8e871a87ed20bd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tiersLivreExternalLinks_query" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51-04:00" modified="2020-08-07T21:12:51-04:00" filename="tiersLivreExternalLinks_query" mimetype="application/xml" blob-id="dd757fbf09c66cd1fe5e5b6118b138dd950c863f7a70cf846844894c431aa274">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="2017-03-17-classExample-MITFORD.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:49-04:00" modified="2020-08-07T21:12:49-04:00" filename="2017-03-17-classExample-MITFORD.xql" mimetype="application/xquery" blob-id="aeffb5cd62684dd394a4976edff24c83f5b0333ac01f2c209cf37f7cc92077e9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="BlackRockHistSociety" filename="BlackRockHistSociety"/>
+</collection>

@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/DHSI-Queries" owner="admin" group="dba" mode="755" created="2020-08-07T21:17:45-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Chas-PersNameGraph-SVG.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:45-04:00" modified="2020-08-07T21:17:45-04:00" filename="Chas-PersNameGraph-SVG.xql" mimetype="application/xquery" blob-id="1664817166c9f1fd5b1ff086d456c97c9e0804ac7df2751f710f8ca82b56a9c9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Chas-PlaceGraph-SVG.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:45-04:00" modified="2020-08-07T21:17:45-04:00" filename="Chas-PlaceGraph-SVG.xql" mimetype="application/xquery" blob-id="7cba2aab5dfc686fbf29328b718a5a232cb92a7f8846c07786291eb4ee6569ef">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Chas-SI-HTMLTable.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:45-04:00" modified="2020-08-07T21:17:45-04:00" filename="Chas-SI-HTMLTable.xql" mimetype="application/xquery" blob-id="b2e1fb005c3fd9c5f8ae5fbb7509d0afcda4e4d5685156add7834e46feb1d01d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Chas-SI-concatString.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:45-04:00" modified="2020-08-07T21:17:45-04:00" filename="Chas-SI-concatString.xql" mimetype="application/xquery" blob-id="c814e0a930cc78cd9ead501d5fbb40cd7cb645eda55f0dcf3f6e4a56d0fcbfb3">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

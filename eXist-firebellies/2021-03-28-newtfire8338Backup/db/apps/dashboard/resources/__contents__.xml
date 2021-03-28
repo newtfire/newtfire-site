@@ -1,0 +1,13 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/resources" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:30-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="app.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="app.js" mimetype="application/javascript" blob-id="599f49fababc93caafbe4a19a93b70ab60be2a0dea6e4557eeadf5462cde9e0b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="styles.css" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="styles.css" mimetype="text/css" blob-id="1692581f20cd0959bd85fbd1cc12a918dedd276fcf19c5c8a56b8c81efc8524a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="readme.md" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="readme.md" mimetype="text/markdown" blob-id="1d69399c92c2062e6817915f536a1b1028fe3d485613fe2be71f64117ef79fef">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="images" filename="images"/>
+</collection>

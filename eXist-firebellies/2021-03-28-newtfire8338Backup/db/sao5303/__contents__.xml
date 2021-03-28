@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/sao5303" owner="sao5303" group="dba" mode="775" created="2021-03-08T20:27:27-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="exist%204" owner="sao5303" group="sao5303" mode="755" created="2021-03-14T20:12:00-04:00" modified="2021-03-14T20:12:14-04:00" filename="exist 4" mimetype="application/xml" blob-id="157518220bd4ab94f24b28b843bef52ff0c29cd386f86908b57bac14d54bbb5a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exist%205" owner="sao5303" group="sao5303" mode="644" created="2021-03-15T12:54:03-04:00" modified="2021-03-15T13:01:47-04:00" filename="exist 5" mimetype="application/xml" blob-id="8d114f9916e6490b0e0f280f8722e0f52555048420a332be1db4d3452e9f350c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="acData.svg" owner="sao5303" group="sao5303" mode="644" created="2021-03-22T06:02:12-04:00" modified="2021-03-22T06:02:12-04:00" filename="acData.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SVGex2attempt.svg" owner="sao5303" group="sao5303" mode="644" created="2021-03-22T17:23:48-04:00" modified="2021-03-22T17:23:48-04:00" filename="SVGex2attempt.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svgEX2work" owner="sao5303" group="sao5303" mode="755" created="2021-03-22T17:25:26-04:00" modified="2021-03-22T17:56:39-04:00" filename="svgEX2work" mimetype="application/xml" blob-id="628f1d3af881edbb91e349de2ab7ffd03f8740cbc43657fa15ec5277657f048c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SvGex2FIX.xql" owner="sao5303" group="sao5303" mode="644" created="2021-03-23T20:05:50-04:00" modified="2021-03-23T20:05:50-04:00" filename="SvGex2FIX.xql" mimetype="text/text" blob-id="e2fcc21f177c2fca1e88bbc30ce7e284da04496a894bdbc6bca128dc2076cfd4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SvG3%20work.xql" owner="sao5303" group="sao5303" mode="755" created="2021-03-25T00:29:39-04:00" modified="2021-03-26T14:54:40-04:00" filename="SvG3 work.xql" mimetype="application/xquery" blob-id="f09eb7fc8fc462e5b5fc81c31be82388540e9c3677a01de09e7513cacb8084b7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SVG3attempt.svg" owner="sao5303" group="sao5303" mode="644" created="2021-03-26T14:54:35-04:00" modified="2021-03-26T14:54:35-04:00" filename="SVG3attempt.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="NetAnEx1.tsv" owner="sao5303" group="sao5303" mode="755" created="2021-03-26T16:28:34-04:00" modified="2021-03-26T16:28:34-04:00" filename="NetAnEx1.tsv" mimetype="application/xquery" blob-id="9a2deb5649b552ceea6201e3133f9b2089d0b49d2744baffb90a4e3ef25356fe">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

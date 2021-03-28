@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/lam289" owner="admin" group="dba" mode="755" created="2020-08-07T21:16:35-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="pokemon_mcneillxquery2.html" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35-04:00" modified="2020-08-07T21:16:35-04:00" filename="pokemon_mcneillxquery2.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mcneill_xquery2-03-01.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36-04:00" modified="2020-08-07T21:16:36-04:00" filename="mcneill_xquery2-03-01.xql" mimetype="application/xquery" blob-id="b469886394810c1b2c268a272146fb1eb30ee3ce0e10e879c86611edb30a29f2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network1.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36-04:00" modified="2020-08-07T21:16:36-04:00" filename="network1.xql" mimetype="application/xquery" blob-id="a5e6f49b01a232be604bef7fda5f16d3eead552e5779b648248212291453aabb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_1.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35-04:00" modified="2020-08-07T21:16:35-04:00" filename="qgis_1.tsv" mimetype="application/xml" blob-id="4c38cea9099058d3aed0875a54d341fafd563e3439fe0e0fdced1dd87a24bada">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocket-example.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35-04:00" modified="2020-08-07T21:16:35-04:00" filename="rocket-example.xql" mimetype="application/xquery" blob-id="af19ff8c4514e7bc3d89dbbe1d175845502d316de62d4d9482e17a566d602e43">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teentitan.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35-04:00" modified="2020-08-07T21:16:35-04:00" filename="teentitan.xql" mimetype="application/xquery" blob-id="3b7180fde1f3f9cfe60c17b81df192d23cd40db134eca47a677e93b926204d84">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_1.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35-04:00" modified="2020-08-07T21:16:35-04:00" filename="qgis_1.xql" mimetype="application/xquery" blob-id="20b3d6740d98f3eab2cedbfe2eb832bd733114cfe457cd8e580d0ae1c9a1c0ff">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemon_example.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35-04:00" modified="2020-08-07T21:16:35-04:00" filename="pokemon_example.xql" mimetype="application/xquery" blob-id="dc4aeacc3d6c959c7498c04d256cf780a8e67f64d489deb60e739681c9610eaa">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

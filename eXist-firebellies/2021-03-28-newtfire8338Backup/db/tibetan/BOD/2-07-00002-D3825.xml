@@ -1,0 +1,411 @@
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="ACIP_2-07-00002-D3825.xml"/>
+		<title>Yuktiṣaṣṭikākārikā-nāma</title>
+		<author>Nāgārjuna</author>
+		<unifiedCatalogID>2-07-00002</unifiedCatalogID>
+		<creation date="Mon Jun 11 22:44:35 2018"/>
+		<processed date="Wed Jun  5 12:24:34 2019" ver="SentenceVerseBoundaryDetection v.0.73"/>
+		<sourceDesc>
+			<bibl>
+				<title>rigs pa drug cu pa'i tshig le'ur byas pa zhes bya ba</title>
+				<author>Nāgārjuna</author>
+				<pubPlace>Derge</pubPlace>
+				<publisher>Derge parkhang</publisher>
+				<date>1734-1744</date>
+				<biblScope unit="catNo">D 3825</biblScope>
+				<biblScope unit="volume">96</biblScope>
+				<biblScope unit="catInfo">dbu ma, tsa 20b1-22b6</biblScope>
+			</bibl>
+		</sourceDesc>
+	</head>
+	<text>
+		<volume vol_id="96" vol_cnt="0"/>
+		<sentence s_id="2-07-00002-D3825-SID000001" type="Text Title">
+			<phrase phr_id="2-07-00002-D3825-000001"><page p_id="20b.1"/>rgya gar skad du</phrase>
+			<phrase phr_id="2-07-00002-D3825-000002">yugti ṣaṣṭha kā kā ri kā nā ma</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000002" type="Text Title">
+			<phrase phr_id="2-07-00002-D3825-000003">bod skad du</phrase>
+			<phrase phr_id="2-07-00002-D3825-000004">rigs pa drug cu pa'i tshig le ūr byas pa zhes bya ba</phrase>
+		</sentence>
+		<chapter ch_id="1"/>
+		<sentence s_id="2-07-00002-D3825-SID000003" type="Sentence">
+			<phrase phr_id="2-07-00002-D3825-000005">'jam dpal gzhon nur gyur pa la phyag 'tshal lo</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000004" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000006">gang gi skye dang 'jig pa dag</phrase>
+			<phrase phr_id="2-07-00002-D3825-000007">tshul 'di yis ni spangs gyur pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000008">rten cing 'byung ba <page p_id="20b.2"/>gsungs pa yi</phrase>
+			<phrase phr_id="2-07-00002-D3825-000009">thub dbang de la phyag 'tshal lo</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000005" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000010">gang gis blo gros yod med las</phrase>
+			<phrase phr_id="2-07-00002-D3825-000011">rnam par 'das shing mi gnas pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000012">de dag gis ni rkyen gyi don</phrase>
+			<phrase phr_id="2-07-00002-D3825-000013">zab mo dmigs med rnam par rtogs</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000006" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000014">re zhig nyes kun 'byung ba'i gnas</phrase>
+			<phrase phr_id="2-07-00002-D3825-000015">med nyid rnam par bzlog zin gyis</phrase>
+			<phrase phr_id="2-07-00002-D3825-000016">rigs <page p_id="20b.3"/>pa'i gang gis yod nyid dang</phrase>
+			<phrase phr_id="2-07-00002-D3825-000017">bzlog par 'gyur ba mnyan par gyis</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000007" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000018">ji ltar byis pas rnam brtags bzhin</phrase>
+			<phrase phr_id="2-07-00002-D3825-000019">dngos po gal te bden 'gyur na</phrase>
+			<phrase phr_id="2-07-00002-D3825-000020">de dngos med pas rnam thar du</phrase>
+			<phrase phr_id="2-07-00002-D3825-000021">gang gis mi 'dod rgyu ci zhig</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000008" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000022">yod pas rnam par mi grol te</phrase>
+			<phrase phr_id="2-07-00002-D3825-000023">med pas srid pa 'di las min</phrase>
+			<phrase phr_id="2-07-00002-D3825-000024"><page p_id="20b.4"/>dngos dang dngos med yongs shes pas</phrase>
+			<phrase phr_id="2-07-00002-D3825-000025">bdag nyid chen po rnam par grol</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000009" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000026">de nyid ma mthong 'jig rten dang</phrase>
+			<phrase phr_id="2-07-00002-D3825-000027">mya ngan 'das par rlom sems te</phrase>
+			<phrase phr_id="2-07-00002-D3825-000028">de nyid gzigs rnams 'jig rten dang</phrase>
+			<phrase phr_id="2-07-00002-D3825-000029">mya ngan 'das par rlom sems med</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000010" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000030">srid pa dang ni mya ngan 'das</phrase>
+			<phrase phr_id="2-07-00002-D3825-000031">gnyis po 'di ni yod ma <page p_id="20b.5"/>yin</phrase>
+			<phrase phr_id="2-07-00002-D3825-000032">srid pa yongs su shes pa nyid</phrase>
+			<phrase phr_id="2-07-00002-D3825-000033">mya ngan 'das shes bya bar brjod</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000011" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000034">dngos po byung ba zhig pa la</phrase>
+			<phrase phr_id="2-07-00002-D3825-000035">ji ltar 'gog par brtags pa bzhin</phrase>
+			<phrase phr_id="2-07-00002-D3825-000036">de bzhin dam pa rnams kyis kyang</phrase>
+			<phrase phr_id="2-07-00002-D3825-000037">sgyu ma byas lta'i 'gog pa bzhed</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000012" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000038">rnam par 'jig pas 'gog 'gyur gyi</phrase>
+			<phrase phr_id="2-07-00002-D3825-000039">'dus byas yongs <page p_id="20b.6"/>su shes pas min</phrase>
+			<phrase phr_id="2-07-00002-D3825-000040">de ni su la mngon sum 'gyur</phrase>
+			<phrase phr_id="2-07-00002-D3825-000041">zhig shes pa der ji ltar 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000013" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000042">gal te phung po ma 'gags na</phrase>
+			<phrase phr_id="2-07-00002-D3825-000043">nyon mongs zad kyang 'das mi 'gyur</phrase>
+			<phrase phr_id="2-07-00002-D3825-000044">gang tshe 'dir ni 'gags gyur pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000045">de yi tshe na grol bar 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000014" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000046">ma rig rkyen gyis byung ba la</phrase>
+			<phrase phr_id="2-07-00002-D3825-000047">yang dag ye shes <page p_id="20b.7"/>kyis gzigs nas</phrase>
+			<phrase phr_id="2-07-00002-D3825-000048">skye ba dang ni 'gags pa'ang rung</phrase>
+			<phrase phr_id="2-07-00002-D3825-000049">'ga' yang dmigs par mi 'gyur ro</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000015" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000050">de nyid mthong chos mya ngan 'das</phrase>
+			<phrase phr_id="2-07-00002-D3825-000051">'das shing bya ba byas pa'ang yin</phrase>
+			<phrase phr_id="2-07-00002-D3825-000052">gal te chos shes mjug thogs su</phrase>
+			<phrase phr_id="2-07-00002-D3825-000053">'di la bye brag yod na ni</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000016" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000054">dngos po shin tu phra ba la'ang</phrase>
+			<phrase phr_id="2-07-00002-D3825-000055">gang <page p_id="21a.1"/>gis skye bar rnam brtags pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000056">rnam par mi mkhas de yi ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000057">rkyen las byung ba'i don ma mthong</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000017" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000058">nyon mongs zad pa'i dge slong gi</phrase>
+			<phrase phr_id="2-07-00002-D3825-000059">gal te 'khor ba rnam ldog na</phrase>
+			<phrase phr_id="2-07-00002-D3825-000060">ci phyir rdzogs sangs rgyas rnams kyis</phrase>
+			<phrase phr_id="2-07-00002-D3825-000061">de yi rtsom pa rnam mi bshad</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000018" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000062">rtsom pa yod <page p_id="21a.2"/>na nges par yang</phrase>
+			<phrase phr_id="2-07-00002-D3825-000063">lta bar 'gyur ba yongs su 'dzin</phrase>
+			<phrase phr_id="2-07-00002-D3825-000064">rten cing 'brel bar 'byung ba gang</phrase>
+			<phrase phr_id="2-07-00002-D3825-000065">de la sngon dang tha ma ci</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000019" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000066">sngon skye ba ni ji ltar na</phrase>
+			<phrase phr_id="2-07-00002-D3825-000067">phyi nas slar yang bzlog par 'gyur</phrase>
+			<phrase phr_id="2-07-00002-D3825-000068">sngon dang phyi ma'i mtha' bral ba</phrase>
+			<phrase phr_id="2-07-00002-D3825-000069">'gro ba sgyu ma bzhin du snang</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000020" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000070">gang tshe sgyu ma 'byung zhe'am</phrase>
+			<phrase phr_id="2-07-00002-D3825-000071"><page p_id="21a.3"/>gang tshe 'jig par 'gyur snyam du</phrase>
+			<phrase phr_id="2-07-00002-D3825-000072">sgyu ma shes pa der mi rmongs</phrase>
+			<phrase phr_id="2-07-00002-D3825-000073">sgyu ma mi shes yongs su sred</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000021" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000074">srid pa smig rgyu sgyu 'dra bar</phrase>
+			<phrase phr_id="2-07-00002-D3825-000075">blo yis mthong bar gyur ba ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000076">sngon gyi mtha' 'am phyi ma'i mtha'</phrase>
+			<phrase phr_id="2-07-00002-D3825-000077">lta bas yongs su slad mi 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000022" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000078">gang dag gis ni 'dus byas la</phrase>
+			<phrase phr_id="2-07-00002-D3825-000079">skye <page p_id="21a.4"/>dang 'jig pa rnam brtags pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000080">de dag rten 'byung 'khor lo yis</phrase>
+			<phrase phr_id="2-07-00002-D3825-000081">'khor lo'i 'gro ba rnam mi rtog</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000023" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000082">de dang de brten gang 'byung de</phrase>
+			<phrase phr_id="2-07-00002-D3825-000083">rang gi dngos por skyes ma yin</phrase>
+			<phrase phr_id="2-07-00002-D3825-000084">rang gi dngos po gang ma skyes</phrase>
+			<phrase phr_id="2-07-00002-D3825-000085">de ni skye zhes ji ltar bya</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000024" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000086">rgyu zad nyid las zhi ba ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000087">zad ces bya bar rtog pa ste</phrase>
+			<phrase phr_id="2-07-00002-D3825-000088"><page p_id="21a.5"/>rang bzhin gyis ni gang ma zad</phrase>
+			<phrase phr_id="2-07-00002-D3825-000089">de yi zad ces ji ltar brjod</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000025" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000090">de ltar ci yang skye ba med</phrase>
+			<phrase phr_id="2-07-00002-D3825-000091">ci yang 'gag par mi 'gyur ro</phrase>
+			<phrase phr_id="2-07-00002-D3825-000092">skye ba dang ni 'jig pa'i las</phrase>
+			<phrase phr_id="2-07-00002-D3825-000093">dgos pa'i don du bstan pa'o</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000026" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000094">skye ba shes pas 'jig pa shes</phrase>
+			<phrase phr_id="2-07-00002-D3825-000095">'jig pa shes pas mi rtag shes</phrase>
+			<phrase phr_id="2-07-00002-D3825-000096">mi rtag nyid la 'jug shes <page p_id="21a.6"/>pas</phrase>
+			<phrase phr_id="2-07-00002-D3825-000097">dam pa'i chos kyang rtog par gyur</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000027" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000098">gang dag rten cing 'brel 'byung ba</phrase>
+			<phrase phr_id="2-07-00002-D3825-000099">skye dang 'jig pa rnam spangs par</phrase>
+			<phrase phr_id="2-07-00002-D3825-000100">shes par gyur pa de dag ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000101">ltar gyur srid pa'i rgya mtsho brgal</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000028" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000102">so so'i skye bo dngos bdag can</phrase>
+			<phrase phr_id="2-07-00002-D3825-000103">yod dang med par phyin ci log</phrase>
+			<phrase phr_id="2-07-00002-D3825-000104">nyes pas nyon mongs dbang gyur rnams</phrase>
+			<phrase phr_id="2-07-00002-D3825-000105"><page p_id="21a.7"/>rang gi sems kyis bslus par 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000029" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000106">dngos la mkhas pa rnams kyis ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000107">dngos po mi rtag bslu ba'i chos</phrase>
+			<phrase phr_id="2-07-00002-D3825-000108">gsog dang stong pa bdag med pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000109">rnam par dben zhes bya bar mthong</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000030" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000110">gnas med dmigs pa yod ma yin</phrase>
+			<phrase phr_id="2-07-00002-D3825-000111">rtsa ba med cing gnas pa med</phrase>
+			<phrase phr_id="2-07-00002-D3825-000112">ma rig rgyu las shin du byung</phrase>
+			<phrase phr_id="2-07-00002-D3825-000113"><page p_id="21b.1"/>thog ma dbus mtha' rnam par spangs</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000031" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000114">chu shing bzhin du snying po med</phrase>
+			<phrase phr_id="2-07-00002-D3825-000115">dri za'i grong khyer 'dra ba ste</phrase>
+			<phrase phr_id="2-07-00002-D3825-000116">rmongs pa'i grong khyer mi bzad pa'i</phrase>
+			<phrase phr_id="2-07-00002-D3825-000117">'gro ba sgyu ma bzhin du snang</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000032" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000118">tshangs sogs 'jig rten 'di la ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000119">bden par rab tu gang snang ba</phrase>
+			<phrase phr_id="2-07-00002-D3825-000120">de ni 'phags la brdzun zhes gsungs</phrase>
+			<phrase phr_id="2-07-00002-D3825-000121"><page p_id="21b.2"/>'di las gzhan lta ci zhig lus</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000033" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000122">'jig rten ma rig ldongs gyur pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000123">sred pa rgyun gyis rjes 'brang dang</phrase>
+			<phrase phr_id="2-07-00002-D3825-000124">mkhas pa sred pa dang bral ba</phrase>
+			<phrase phr_id="2-07-00002-D3825-000125">dge ba rnams lta ga la mnyam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000034" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000126">de nyid tshol la thog mar ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000127">thams cad yod ces brjod par bya</phrase>
+			<phrase phr_id="2-07-00002-D3825-000128">don rnams rtogs shing chags med <page p_id="21b.3"/>la</phrase>
+			<phrase phr_id="2-07-00002-D3825-000129">phyis ni rnam par dben pa'o</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000035" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000130">rnam par dben don mi shes la</phrase>
+			<phrase phr_id="2-07-00002-D3825-000131">thos pa tsam la 'jug byed cing</phrase>
+			<phrase phr_id="2-07-00002-D3825-000132">gang dag bsod nams mi byed pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000133">skyes bu tha shal de dag brlag</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000036" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000134">las rnams 'bras bu bcas nyid dang</phrase>
+			<phrase phr_id="2-07-00002-D3825-000135">'gro ba dag kyang yang dag bshad</phrase>
+			<phrase phr_id="2-07-00002-D3825-000136">de yi rang bzhin yongs <page p_id="21b.4"/>shes dang</phrase>
+			<phrase phr_id="2-07-00002-D3825-000137">skye ba med pa dag kyang bstan</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000037" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000138">dgos pa'i dbang gis rgyal ba rnams</phrase>
+			<phrase phr_id="2-07-00002-D3825-000139">nga dang nga yi zhes gsungs ltar</phrase>
+			<phrase phr_id="2-07-00002-D3825-000140">phung po khams dang skye mched rnams</phrase>
+			<phrase phr_id="2-07-00002-D3825-000141">de bzhin dgos pa'i dbang gis gsungs</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000038" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000142">'byung ba che la sogs bshad pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000143">rnam par shes su yang dag 'du</phrase>
+			<phrase phr_id="2-07-00002-D3825-000144"><page p_id="21b.5"/>de shes pas ni 'bral 'gyur na</phrase>
+			<phrase phr_id="2-07-00002-D3825-000145">log par rnam brtags ma yin nam</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000039" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000146">mya ngan 'das pa bden gcig pur</phrase>
+			<phrase phr_id="2-07-00002-D3825-000147">rgyal ba rnams kyis gang gsungs pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000148">de tshe lhag ma log min zhes</phrase>
+			<phrase phr_id="2-07-00002-D3825-000149">mkhas pa su zhig rtog par byed</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000040" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000150">ji srid yid kyi rnam g.yo ba</phrase>
+			<phrase phr_id="2-07-00002-D3825-000151">de srid bdud <page p_id="21b.6"/>kyi spyod yul de</phrase>
+			<phrase phr_id="2-07-00002-D3825-000152">de lta yin na 'di la ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000153">nyes pa med par cis mi 'thad</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000041" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000154">'jig rten ma rig rkyen can du</phrase>
+			<phrase phr_id="2-07-00002-D3825-000155">gang phyir sangs rgyas rnams gsungs pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000156">'di yi phyir na 'jig rten 'di</phrase>
+			<phrase phr_id="2-07-00002-D3825-000157">rnam rtog yin zhes cis mi 'thad</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000042" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000158">ma rig 'gags par gyur pa na</phrase>
+			<phrase phr_id="2-07-00002-D3825-000159">gang zhig <page p_id="21b.7"/>'gag par 'gyur ba de</phrase>
+			<phrase phr_id="2-07-00002-D3825-000160">mi shes pa las kun brtags par</phrase>
+			<phrase phr_id="2-07-00002-D3825-000161">ji lta bur na gsal mi 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000043" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000162">gang zhig rgyu dang bcas 'byung zhing</phrase>
+			<phrase phr_id="2-07-00002-D3825-000163">rkyen med par ni gnas pa med</phrase>
+			<phrase phr_id="2-07-00002-D3825-000164">rkyen med phyir yang 'jig 'gyur ba</phrase>
+			<phrase phr_id="2-07-00002-D3825-000165">de ni yod ces ji ltar rtogs</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000044" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000166">gal te yod par smra ba rnams</phrase>
+			<phrase phr_id="2-07-00002-D3825-000167"><page p_id="22a.1"/>dngos mchog zhen nas gnas pa ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000168">lam de nyid la gnas pa ste</phrase>
+			<phrase phr_id="2-07-00002-D3825-000169">de la ngo mtshar cung zad med</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000045" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000170">sangs rgyas lam la brten nas ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000171">kun la mi rtag smra ba rnams</phrase>
+			<phrase phr_id="2-07-00002-D3825-000172">rtsod pas dngos rnams mchog bzung bas</phrase>
+			<phrase phr_id="2-07-00002-D3825-000173">gnas pa gang yin de smad do</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000046" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000174">'di <page p_id="22a.2"/>'am de'o zhes gang du</phrase>
+			<phrase phr_id="2-07-00002-D3825-000175">rnam par dpyad nas mi dmigs na</phrase>
+			<phrase phr_id="2-07-00002-D3825-000176">rtsod pa 'di 'am de bden zhes</phrase>
+			<phrase phr_id="2-07-00002-D3825-000177">mkhas pa su zhig smra bar 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000047" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000178">de dag gis ni ma brten par</phrase>
+			<phrase phr_id="2-07-00002-D3825-000179">bdag gam 'jig rten mngon zhen pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000180">de dag kye ma rtag mi rtag</phrase>
+			<phrase phr_id="2-07-00002-D3825-000181">la sogs lta bas 'phrogs pa yin</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000048" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000182">gang dag <page p_id="22a.3"/>brten nas dngos po rnams</phrase>
+			<phrase phr_id="2-07-00002-D3825-000183">de nyid du ni grub 'dod pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000184">de dag la yang rtags lcogs skyon</phrase>
+			<phrase phr_id="2-07-00002-D3825-000185">de dag ji ltar 'byung mi 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000049" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000186">gang dag brten nas dngos po rnams</phrase>
+			<phrase phr_id="2-07-00002-D3825-000187">chu yi zla ba lta bur ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000188">yang dag ma yin log min par</phrase>
+			<phrase phr_id="2-07-00002-D3825-000189">'dod pa de dag ltas mi 'phrogs</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000050" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000190">dngos por khas <page p_id="22a.4"/>len yod na ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000191">'dod chags zhe sdang 'byung ba yi</phrase>
+			<phrase phr_id="2-07-00002-D3825-000192">lta ba mi bzad ma rungs 'byung</phrase>
+			<phrase phr_id="2-07-00002-D3825-000193">de las byung ba'i spyod par 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000051" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000194">de ni lta ba kun gyi rgyu</phrase>
+			<phrase phr_id="2-07-00002-D3825-000195">de med nyon mongs mi skye ste</phrase>
+			<phrase phr_id="2-07-00002-D3825-000196">de phyir de ni yongs shes na</phrase>
+			<phrase phr_id="2-07-00002-D3825-000197">lta dang nyon mongs yongs su 'byang</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000052" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000198">dngos por khas len yod na <page p_id="22a.5"/>ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000199">gang gis de shes 'gyur snyam na</phrase>
+			<phrase phr_id="2-07-00002-D3825-000200">brten nas 'byung ba mthong ba de</phrase>
+			<phrase phr_id="2-07-00002-D3825-000201">brten nas skye ba ma skyes pas</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000053" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000202">de nyid mkhyen pa mchog gis gsungs</phrase>
+			<phrase phr_id="2-07-00002-D3825-000203">log pa'i shes pa zil gnon pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000204">bden pa min la bden rdzun pa'i</phrase>
+			<phrase phr_id="2-07-00002-D3825-000205">yongs su 'dzin dang rtsod stsogs kyi</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000054" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000206">rim pa <page p_id="22a.6"/>chags las 'byung bar 'gyur</phrase>
+			<phrase phr_id="2-07-00002-D3825-000207">che ba'i bdag nyid can de dag</phrase>
+			<phrase phr_id="2-07-00002-D3825-000208">rnams la phyogs med rtsod pa med</phrase>
+			<phrase phr_id="2-07-00002-D3825-000209">gang rnams la ni phyogs med pa</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000055" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000210">de la gzhan phyogs ga la yod</phrase>
+			<phrase phr_id="2-07-00002-D3825-000211">gang yang rung ba'i gnas rnyed nas</phrase>
+			<phrase phr_id="2-07-00002-D3825-000212">nyon mongs sbrul gdug g.yo can gyis</phrase>
+			<phrase phr_id="2-07-00002-D3825-000213">zin par 'gyur te gang gi <page p_id="22a.7"/>sems</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000056" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000214">gnas med de dag zin mi 'gyur</phrase>
+			<phrase phr_id="2-07-00002-D3825-000215">gnas bcas sems dang ldan rnams la</phrase>
+			<phrase phr_id="2-07-00002-D3825-000216">nyon mongs dug chen cis mi 'gyur</phrase>
+			<phrase phr_id="2-07-00002-D3825-000217">nyon mongs sprul gyis zin par 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000057" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000218">byis pa bden par 'du shes pas</phrase>
+			<phrase phr_id="2-07-00002-D3825-000219">gzugs brnyan la ni chags pa bzhin</phrase>
+			<phrase phr_id="2-07-00002-D3825-000220">de ltar 'jig rten rmongs <page p_id="22b.1"/>pa'i phyir</phrase>
+			<phrase phr_id="2-07-00002-D3825-000221">yul gyi gzeb la thogs par 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000058" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000222">bdag nyid che rnams dngos po dag</phrase>
+			<phrase phr_id="2-07-00002-D3825-000223">gzugs brnyan lta bur ye shes kyi</phrase>
+			<phrase phr_id="2-07-00002-D3825-000224">mig gis mthong nas yul zhes ni</phrase>
+			<phrase phr_id="2-07-00002-D3825-000225">bya ba'i 'dam la mi thogs so</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000059" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000226">byis pa rnams ni gzugs la chags</phrase>
+			<phrase phr_id="2-07-00002-D3825-000227">bar ma dag ni chags <page p_id="22b.2"/>bral 'gyur</phrase>
+			<phrase phr_id="2-07-00002-D3825-000228">gzugs kyi rang bzhin shes pa yi</phrase>
+			<phrase phr_id="2-07-00002-D3825-000229">blo mchog ldan pa rnam par grol</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000060" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000230">sdug snyam pa las chags par 'gyur</phrase>
+			<phrase phr_id="2-07-00002-D3825-000231">de las bzlog pas 'dod chags bral</phrase>
+			<phrase phr_id="2-07-00002-D3825-000232">sgyu ma'i skyes bu ltar dben par</phrase>
+			<phrase phr_id="2-07-00002-D3825-000233">mthong nas mya ngan 'da' bar 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000061" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000234">log pa'i shes pas <page p_id="22b.3"/>mngon gdung ba'i</phrase>
+			<phrase phr_id="2-07-00002-D3825-000235">nyon mongs skyon rnams gang yin de</phrase>
+			<phrase phr_id="2-07-00002-D3825-000236">dngos dang dngos med rnam rtog pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000237">don shes 'gyur la mi 'byung ngo</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000062" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000238">gnas yod na ni 'dod chags dang</phrase>
+			<phrase phr_id="2-07-00002-D3825-000239">'dod chags bral bar 'gyur zhig na</phrase>
+			<phrase phr_id="2-07-00002-D3825-000240">gnas med bdag nyid chen po rnams</phrase>
+			<phrase phr_id="2-07-00002-D3825-000241">chags pa med <page p_id="22b.4"/>cing chags bral min</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000063" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000242">gang dag rnam par dben snyam du</phrase>
+			<phrase phr_id="2-07-00002-D3825-000243">g.yo ba'i yid kyang mi g.yo ba</phrase>
+			<phrase phr_id="2-07-00002-D3825-000244">nyon mongs sprul gyis dkrugs gyur pa</phrase>
+			<phrase phr_id="2-07-00002-D3825-000245">mi zad srid pa'i rgya mtsho brgal</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000064" type="Verse">
+			<phrase phr_id="2-07-00002-D3825-000246">dge ba 'di yis skye bo kun</phrase>
+			<phrase phr_id="2-07-00002-D3825-000247">bsod nams ye shes tshogs bsags te</phrase>
+			<phrase phr_id="2-07-00002-D3825-000248">bsod nams ye shes las <page p_id="22b.5"/>byung ba'i</phrase>
+			<phrase phr_id="2-07-00002-D3825-000249">dam pa gnyis ni thob par shog</phrase>
+		</sentence>
+		<chapter ch_id="9999"/>
+		<sentence s_id="2-07-00002-D3825-SID000065" type="Text Colophon">
+			<phrase phr_id="2-07-00002-D3825-000250">rigs pa drug cu pa'i tshig le'ur byas pa zhes bya ba slob dpon 'phags pa klu sgrub kyi zhal snga nas mdzad pa rdzogs so</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-D3825-SID000066" type="Sentence">
+			<phrase phr_id="2-07-00002-D3825-000251">rgya gar gyi mkhan po mu ti ta shrī'i zhal snga nas dang</phrase>
+			<phrase phr_id="2-07-00002-D3825-000252">bod kyi lo tstsha ba pa tshab nyi ma grags kyis bcos te <page p_id="22b.6"/>gtan la phab pa'o</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

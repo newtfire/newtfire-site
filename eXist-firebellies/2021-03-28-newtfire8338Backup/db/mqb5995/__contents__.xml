@@ -1,0 +1,57 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/mqb5995" owner="mqb5995" group="dba" mode="775" created="2021-03-08T20:19:02-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="xquery_ex4.xql" owner="mqb5995" group="mqb5995" mode="755" created="2021-03-11T15:56:31-05:00" modified="2021-03-12T18:46:41-05:00" filename="xquery_ex4.xql" mimetype="application/xml" blob-id="c374c529a0c6a9ef9699fa9bb5be7eddf04e6c35ea029624063c085be73c6c34">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="blues_xquery_5.xql" owner="mqb5995" group="mqb5995" mode="755" created="2021-03-12T21:24:30-05:00" modified="2021-03-19T17:39:07-04:00" filename="blues_xquery_5.xql" mimetype="application/xquery" blob-id="fcbdef5ce754c6cceb92cc76898386c779b9407489eabcb43c3c5ebaea25c46a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="new_blues_xquery_5.xql" owner="mqb5995" group="mqb5995" mode="755" created="2021-03-15T15:38:53-04:00" modified="2021-03-15T16:00:32-04:00" filename="new_blues_xquery_5.xql" mimetype="application/xquery" blob-id="d68891fcbeccd9f2fd3160893e091b86bfc354fef1e403de2f1a580856bcd7af">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bluesArtists.html" owner="admin" group="dba" mode="644" created="2021-03-15T15:48:58-04:00" modified="2021-03-15T15:48:58-04:00" filename="bluesArtists.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bluesSongInfo.html" owner="mqb5995" group="mqb5995" mode="644" created="2021-03-15T16:00:45-04:00" modified="2021-03-15T16:00:45-04:00" filename="bluesSongInfo.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="assassinscreedSVG.xql" owner="mqb5995" group="mqb5995" mode="755" created="2021-03-19T18:13:25-04:00" modified="2021-03-22T17:52:20-04:00" filename="assassinscreedSVG.xql" mimetype="application/xquery" blob-id="993fc476b408575ca2d9d8fa5e334755688742c272b44c8639316c94affe037d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="assassinsSVG.html" owner="mqb5995" group="mqb5995" mode="644" created="2021-03-22T14:57:55-04:00" modified="2021-03-22T14:57:55-04:00" filename="assassinsSVG.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="assassinsSVG.svg" owner="mqb5995" group="mqb5995" mode="644" created="2021-03-22T15:02:30-04:00" modified="2021-03-22T15:10:29-04:00" filename="assassinsSVG.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="assassinsBar.xql" owner="mqb5995" group="mqb5995" mode="755" created="2021-03-22T17:46:39-04:00" modified="2021-03-22T19:31:00-04:00" filename="assassinsBar.xql" mimetype="application/xquery" blob-id="642170c29de56ffc942b7aab4ace81654c6c3970d5e2a6c05b129fcc2532e4c6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="drBsArtistGraph.svg" owner="mqb5995" group="mqb5995" mode="644" created="2021-03-22T17:49:58-04:00" modified="2021-03-22T17:49:58-04:00" filename="drBsArtistGraph.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="assassinsBarGraph.svg" owner="mqb5995" group="mqb5995" mode="644" created="2021-03-22T18:29:32-04:00" modified="2021-03-24T17:54:14-04:00" filename="assassinsBarGraph.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebb-correctedXQuery3-disneyMaxSongLength.xql" owner="admin" group="dba" mode="755" created="2021-03-23T18:02:47-04:00" modified="2021-03-23T18:02:47-04:00" filename="ebb-correctedXQuery3-disneyMaxSongLength.xql" mimetype="application/xquery" blob-id="51d232bf58d980a5e12742f383d62ee011c4ad4d3447d1b2cbedb6300baa9df8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneyNetworking.xql" owner="mqb5995" group="mqb5995" mode="755" created="2021-03-24T22:49:41-04:00" modified="2021-03-25T14:03:45-04:00" filename="disneyNetworking.xql" mimetype="application/xquery" blob-id="bfbf3f1602956eda76e0e3174b3bcb1b9bbba4e8cf7cce82482be458f64d1675">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DisneyNetwork.tsv" owner="mqb5995" group="mqb5995" mode="644" created="2021-03-25T14:02:30-04:00" modified="2021-03-25T14:02:30-04:00" filename="DisneyNetwork.tsv" mimetype="text/plain" blob-id="86534870cc3b8760f78699db25d0b5197b9dfcf96607265deb38dc24ffc2ea9b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesNetworking.xql" owner="mqb5995" group="mqb5995" mode="755" created="2021-03-25T14:28:15-04:00" modified="2021-03-25T14:30:13-04:00" filename="bluesNetworking.xql" mimetype="application/xquery" blob-id="279cc564d2806828f986f89a7f670ad0840e256cd652692f35a536749a876373">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="BluesNetwork.tsv" owner="mqb5995" group="mqb5995" mode="644" created="2021-03-25T14:29:40-04:00" modified="2021-03-25T14:29:40-04:00" filename="BluesNetwork.tsv" mimetype="text/plain" blob-id="7f934942edd29233a1457b29758f9db9831fb4feaba7d28b91db9dfdaf777b7e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebb-bluesNetwork.xql" owner="admin" group="dba" mode="755" created="2021-03-26T16:57:56-04:00" modified="2021-03-26T17:20:54-04:00" filename="ebb-bluesNetwork.xql" mimetype="application/xquery" blob-id="937b9153bcee5149d7289e4d520be025c65f3127ab22d4cb232479862502aa6b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="BluesNetwork-ebb.tsv" owner="admin" group="dba" mode="644" created="2021-03-26T17:09:07-04:00" modified="2021-03-26T17:16:20-04:00" filename="BluesNetwork-ebb.tsv" mimetype="text/plain" blob-id="2dd7f424cdcb161d480728e3c5bc83935e93de0715229a89cafed9e50f0fc463">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

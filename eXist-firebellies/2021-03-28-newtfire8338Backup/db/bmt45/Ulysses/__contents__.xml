@@ -1,0 +1,63 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/bmt45/Ulysses" owner="admin" group="dba" mode="755" created="2020-08-07T21:19:01-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="lotus-eaters.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:04-04:00" modified="2020-08-07T21:19:04-04:00" filename="lotus-eaters.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="UlyssesLocationtoRef.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:04-04:00" modified="2020-08-07T21:19:04-04:00" filename="UlyssesLocationtoRef.xql" mimetype="application/xquery" blob-id="68c494c17d569c928ccc1249552e7ce89cc36d706030e0c91f476326dad28f2a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationChartDraftLoc.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:04-04:00" modified="2020-08-07T21:19:04-04:00" filename="ulyssesLocationChartDraftLoc.tsv" mimetype="application/xml" blob-id="673ce8594dc13c9cb1d1d7ba9720b41d936dcf00089c986eef0e218074b054b5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Ulysses.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:01-04:00" modified="2020-08-07T21:19:01-04:00" filename="Ulysses.xql" mimetype="application/xquery" blob-id="a8792dba1426588b4c1358e4f149d7f3804ac10c3e20af6b43fb8de4b217198d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="UlyssesLocationtoRefFinal" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:01-04:00" modified="2020-08-07T21:19:01-04:00" filename="UlyssesLocationtoRefFinal" mimetype="application/xml" blob-id="68c494c17d569c928ccc1249552e7ce89cc36d706030e0c91f476326dad28f2a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationChartDraft.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:01-04:00" modified="2020-08-07T21:19:01-04:00" filename="ulyssesLocationChartDraft.tsv" mimetype="application/xml" blob-id="673ce8594dc13c9cb1d1d7ba9720b41d936dcf00089c986eef0e218074b054b5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationChart.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:02-04:00" modified="2020-08-07T21:19:02-04:00" filename="ulyssesLocationChart.tsv" mimetype="application/xml" blob-id="b9e2d76cde5092e7645a896bc79e295eb90667042d6757d65a46b02515c728d4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssessLocationtoRefRevised" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:02-04:00" modified="2020-08-07T21:19:02-04:00" filename="ulyssessLocationtoRefRevised" mimetype="application/xml" blob-id="a8792dba1426588b4c1358e4f149d7f3804ac10c3e20af6b43fb8de4b217198d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationTSVfile.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:02-04:00" modified="2020-08-07T21:19:02-04:00" filename="ulyssesLocationTSVfile.tsv" mimetype="application/xml" blob-id="673ce8594dc13c9cb1d1d7ba9720b41d936dcf00089c986eef0e218074b054b5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="7EcclesStreetDraft.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:02-04:00" modified="2020-08-07T21:19:02-04:00" filename="7EcclesStreetDraft.tsv" mimetype="application/xml" blob-id="9ef18e2c926b4d5782edc29e888d1610ed0274a920682e1a23e577e78789aa9d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="7EcclesStreet.csv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:02-04:00" modified="2020-08-07T21:19:02-04:00" filename="7EcclesStreet.csv" mimetype="text/csv" blob-id="e7870867b4d5b13a2717ac932b52d787137a6727cf8b77db19476091dda525ea">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="OrmondQuayLowerTSV.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:02-04:00" modified="2020-08-07T21:19:02-04:00" filename="OrmondQuayLowerTSV.tsv" mimetype="application/xml" blob-id="35be958e50e249beded00d88fc21456793ddac8c85b391609dad5540c7416cf2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationtoRefrevised.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:03-04:00" modified="2020-08-07T21:19:03-04:00" filename="ulyssesLocationtoRefrevised.tsv" mimetype="application/xml" blob-id="c5ff1d07b1bc42ae613a8f7a76db93e6301155aa783c303266d4c91e399fbfa9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CollegeGreenTSV.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:03-04:00" modified="2020-08-07T21:19:03-04:00" filename="CollegeGreenTSV.tsv" mimetype="application/xml" blob-id="d7d6e340adee0c5bcd9d554b08c9bb449e544cbab266b996337d6d3dabf2db03">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationtoRef.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:03-04:00" modified="2020-08-07T21:19:03-04:00" filename="ulyssesLocationtoRef.tsv" mimetype="application/xml" blob-id="973a6c4ec4eee7fefab5463c94b9da1122f5fd541828d8536561c6b8640b4de2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="7EcclesStreetDraft.csv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:03-04:00" modified="2020-08-07T21:19:03-04:00" filename="7EcclesStreetDraft.csv" mimetype="text/csv" blob-id="9ef18e2c926b4d5782edc29e888d1610ed0274a920682e1a23e577e78789aa9d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="7EcclesStreetFinal.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:03-04:00" modified="2020-08-07T21:19:03-04:00" filename="7EcclesStreetFinal.tsv" mimetype="application/xml" blob-id="86015c8c1926fffb8a1640a16667c15950f83c4472a77007fda61a870775de61">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="8OrmondQuayUpperTSV.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:03-04:00" modified="2020-08-07T21:19:03-04:00" filename="8OrmondQuayUpperTSV.tsv" mimetype="application/xml" blob-id="92e711554af3b66bb898d2bc4623c6bbed113342a649167abc2b60a1f163ac49">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationChartThing.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:03-04:00" modified="2020-08-07T21:19:03-04:00" filename="ulyssesLocationChartThing.tsv" mimetype="application/xml" blob-id="8fea4f26a1bbe9efc7a0463fd0cda0126ece45d9f2bef8b92b1a0ab847c45f74">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationtoRefChanged.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:04-04:00" modified="2020-08-07T21:19:04-04:00" filename="ulyssesLocationtoRefChanged.tsv" mimetype="application/xml" blob-id="973a6c4ec4eee7fefab5463c94b9da1122f5fd541828d8536561c6b8640b4de2">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

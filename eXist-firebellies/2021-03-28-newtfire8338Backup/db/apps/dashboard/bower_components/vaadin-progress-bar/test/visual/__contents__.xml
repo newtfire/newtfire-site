@@ -1,0 +1,10 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/vaadin-progress-bar/test/visual" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="test.js" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="test.js" mimetype="application/javascript" blob-id="2e47721768e0d0c21a05904fdb0d7bd0de5bb6767e29c82183001b6d335fbc6a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="default.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="default.html" mimetype="text/html" blob-id="290dbbd58ddf808eaa8b5e9763b643efa6ca16ea27c696b7ab383df7eaef6031">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="screens" filename="screens"/>
+</collection>

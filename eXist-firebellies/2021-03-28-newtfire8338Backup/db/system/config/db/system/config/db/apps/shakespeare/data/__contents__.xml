@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/config/db/system/config/db/apps/shakespeare/data" owner="admin" group="dba" mode="755" created="2021-03-03T01:31:27-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="collection.xconf" owner="admin" group="dba" mode="644" created="2021-03-03T01:31:27-05:00" modified="2021-03-03T01:34:32-05:00" filename="collection.xconf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

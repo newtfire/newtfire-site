@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/iron-overlay-behavior" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="iron-overlay-manager.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-overlay-manager.html" mimetype="text/html" blob-id="d5c96ea413598a816068076a88167a003dd772911bfcde2311daf2a77f25bad6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iron-overlay-behavior.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-overlay-behavior.html" mimetype="text/html" blob-id="6ee0694317e616b700ea117eb51e7e075985fe5a0b4fcc29190e0b76e429b65c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iron-focusables-helper.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-focusables-helper.html" mimetype="text/html" blob-id="0f4bc92f624f0600f64ee375395b5cff8b51a73fa55d580fd73fd19ef351db07">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iron-overlay-backdrop.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-overlay-backdrop.html" mimetype="text/html" blob-id="56caa31be4f7b59f366e6511d87863902549bff4bd354b51b9099377000ce5b7">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iron-scroll-manager.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="iron-scroll-manager.html" mimetype="text/html" blob-id="8636b2875b55fb19c2ba9568a66b8c7fa8afe1a8eceaf8a15aa2e21d4af4ed2a">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

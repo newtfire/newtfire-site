@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tibetan/xslt" owner="phackett" group="dba" mode="751" created="2020-09-10T17:18:20-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="xslt_parid_table_v15.xsl" owner="phackett" group="dba" mode="640" created="2020-09-10T17:36:28-04:00" modified="2020-09-11T23:03:29-04:00" filename="xslt_parid_table_v15.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="date.xsl" owner="phackett" group="dba" mode="640" created="2020-09-10T17:39:15-04:00" modified="2020-09-10T17:39:15-04:00" filename="date.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="xsltStarter1_bcrd_template2.xsl" owner="phackett" group="dba" mode="640" created="2020-09-10T18:03:35-04:00" modified="2020-09-10T18:03:35-04:00" filename="xsltStarter1_bcrd_template2.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="xslt_parid_table_v16.xsl" owner="phackett" group="dba" mode="640" created="2020-09-12T18:33:39-04:00" modified="2020-09-12T18:38:11-04:00" filename="xslt_parid_table_v16.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="xslt_parid_table_v16b.xsl" owner="phackett" group="dba" mode="640" created="2020-09-22T13:49:44-04:00" modified="2020-09-22T13:49:44-04:00" filename="xslt_parid_table_v16b.xsl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

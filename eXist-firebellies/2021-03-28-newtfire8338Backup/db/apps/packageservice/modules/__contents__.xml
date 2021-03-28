@@ -1,0 +1,51 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/packageservice/modules" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="test.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="test.xql" mimetype="application/xquery" blob-id="2612c9479ff5fad86566a676ee075785f1902b6b7ea31a867b40b7e5a984ab45">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="packages.xqm" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="packages.xqm" mimetype="application/xquery" blob-id="ccafa38f5f8a005e987ee275523caabe298b15218cf6ff408611944c5a9244f6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="get-public-url.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="get-public-url.xql" mimetype="application/xquery" blob-id="37ef4faa827d076a4762dd0f68b7531dea1952d9e4a0fe7adc03f233fff1da35">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="local-apps-json.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="local-apps-json.xql" mimetype="application/xquery" blob-id="a52076f927a6bca06f5be11de55ebbeea53a7b1148e9b659e7799ec44ed83740">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="custom-element.xqm" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="custom-element.xqm" mimetype="application/xquery" blob-id="473b4345dc59f80707b5c2899ace0d20076c43757c74e77df097631070e9bd6d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="remote-packages.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="remote-packages.xql" mimetype="application/xquery" blob-id="33a6300981260751b30a068482f6bce44b1945aa4fc403f328c05a11d1414e0f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rename.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="rename.xql" mimetype="application/xquery" blob-id="a5ecb08e554712c8e8de86583418703197f19fb9de335bb88079afbc40570d45">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="login-helper.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:23-04:00" modified="2020-08-07T02:48:23-04:00" filename="login-helper.xql" mimetype="application/xquery" blob-id="bfb8d419fd7d766e96ea9a0601248b8b80ca2a1669e8bf98f0186ace5ca03eca">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="install.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:24-04:00" modified="2020-08-07T02:48:24-04:00" filename="install.xql" mimetype="application/xquery" blob-id="8c3421f998374687fa8e55cf17c73370258960224e85f9151f60480235e7d363">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="local-apps.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:24-04:00" modified="2020-08-07T02:48:24-04:00" filename="local-apps.xql" mimetype="application/xquery" blob-id="3760da369565492f6a7a5df3c17dbcec07108f7eae7f3b6e4250732fd989ed58">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="remote-packages-json.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:24-04:00" modified="2020-08-07T02:48:24-04:00" filename="remote-packages-json.xql" mimetype="application/xquery" blob-id="7d34d8cd8a1ee4b3e848fe1a47380f6f2ef6fe35499ed39edb8cb857cc4f3439">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="local-packages-json.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:24-04:00" modified="2020-08-07T02:48:24-04:00" filename="local-packages-json.xql" mimetype="application/xquery" blob-id="fecefe20f45e9bac174feb5d446edba277d91224dcb9d31e53606f83aba3acec">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:24-04:00" modified="2020-08-07T02:48:24-04:00" filename="config.xqm" mimetype="application/xquery" blob-id="1757aea608fa01f19039ebaa730743211d49ec125013b3bfe69314f2da408b30">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="get-icon.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:27-04:00" modified="2020-08-07T02:48:27-04:00" filename="get-icon.xql" mimetype="application/xquery" blob-id="98373d9ff493bb901d5ba3989a032ffc0ab48e26300fd002223efcc7a46ed7a4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="local-packages.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:27-04:00" modified="2020-08-07T02:48:27-04:00" filename="local-packages.xql" mimetype="application/xquery" blob-id="b8e4237c0e5258ad61f38b54d3e29a68c3edcd402d0ebff9c8a5be412290049a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="apputil.xql" owner="packageservice" group="eXide" mode="775" created="2020-08-07T02:48:27-04:00" modified="2020-08-07T02:48:27-04:00" filename="apputil.xql" mimetype="application/xquery" blob-id="9fb3486cf363d521314aab1ba9623790a5a77ef323582ed52526795767de3a1c">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

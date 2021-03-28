@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/Schism" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:45-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="judgeDispute.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45-04:00" modified="2020-08-07T21:12:45-04:00" filename="judgeDispute.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="WomanEpiscLeader.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:46-04:00" modified="2020-08-07T21:12:46-04:00" filename="WomanEpiscLeader.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="secessionVote.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:46-04:00" modified="2020-08-07T21:12:46-04:00" filename="secessionVote.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ConservativeSplit.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:46-04:00" modified="2020-08-07T21:12:46-04:00" filename="ConservativeSplit.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="churchHeal.xml" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:46-04:00" modified="2020-08-07T21:12:46-04:00" filename="churchHeal.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

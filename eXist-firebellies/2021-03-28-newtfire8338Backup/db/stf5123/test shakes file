@@ -1,0 +1,13 @@
+xquery version "3.1";
+declare default element namespace "http://www.tei-c.org/ns/1.0";
+let $shakes := collection('/db/apps/shakespeare/data/')
+let $shakesPlays := $shakes/TEI
+let $speakerPlays := $shakesPlays//speaker => distinct-values()
+for $play in $shakesPlays
+let $playTitle := $play//titleStmt/title
+
+
+return $playTitle => count()
+
+
+(:  :collection('/db/apps/shakespeare/data/')/TEI[descendant::speaker = "Falstaff"] :)

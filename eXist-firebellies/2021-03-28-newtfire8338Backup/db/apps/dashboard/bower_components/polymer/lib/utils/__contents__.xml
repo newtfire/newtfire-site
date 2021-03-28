@@ -1,0 +1,57 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/polymer/lib/utils" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="boot.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="boot.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="unresolved.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="unresolved.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="settings.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="settings.html" mimetype="text/html" blob-id="03331bf75379318141b36ed2e1d4622f27165c36b6f0a27e975cb60140c54812">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mixin.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="mixin.html" mimetype="text/html" blob-id="23aae23ca6308461ce8dddad9a1b02af994f01009f22ce01aa693e8944dcc16d">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="html-tag.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="html-tag.html" mimetype="text/html" blob-id="a54b66cc032e071591ee7f88adf320471e4c44330676576867229c8e6c059dc3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="style-gather.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="style-gather.html" mimetype="text/html" blob-id="79db404a0c027c08ba1e4603c52c08e4b2a43b2d11916304767b227fec5ca9c5">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="flattened-nodes-observer.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="flattened-nodes-observer.html" mimetype="text/html" blob-id="03771d6c55f28c993fab196dfc4cafef10f59a669aa663b30313e09311cdf09e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="render-status.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="render-status.html" mimetype="text/html" blob-id="df847350629633c8f4e02be9263e26bcc86a9f618595482343a1adfd191175a8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="case-map.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="case-map.html" mimetype="text/html" blob-id="1bfabb1e2cbb8bf139e31dae46b1bf840a336683981549c18d46325a3f9bdf9b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="path.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="path.html" mimetype="text/html" blob-id="35ca84f317c22da419f321480066adf41618ac7fb317c3d4393a6d8c82ece8d4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="import-href.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="import-href.html" mimetype="text/html" blob-id="3c76f3265e8bc738167463f13bb4067b731fea704fe36ccd2c1b240cd80d3168">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="debounce.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="debounce.html" mimetype="text/html" blob-id="4eab579be2ba6d4589e7258172ef5237372315c0e12534c1ffe209b85f840dc8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="templatize.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="templatize.html" mimetype="text/html" blob-id="c230aea34742d196dd3392ad1fcf879e51cc1aa913453debd595ec460a62d69a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="resolve-url.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="resolve-url.html" mimetype="text/html" blob-id="21739be4ecb4c52fdc237a67abbca6c02915f55cd9b245da92c7a820298c034e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="flush.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="flush.html" mimetype="text/html" blob-id="0f5c6d47cdb692a64f15a83111583af7c7519615fc77370b4e27ac3702ba6325">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="array-splice.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="array-splice.html" mimetype="text/html" blob-id="67c39c32bae364dcd674a09c1bd36729cf70f318432c21d9e895e6bbf1b08ac3">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="async.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="async.html" mimetype="text/html" blob-id="2167e1d29cf2521aea9af4fe3cb00e3777ef985a8c1c24cab03fafd47eb3d592">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="gestures.html" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29-04:00" modified="2020-08-07T02:48:29-04:00" filename="gestures.html" mimetype="text/html" blob-id="2ecc3de9b630708a7ce615a9fcb46172fe25ff02bbf76516738dfa92835ba0d0">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

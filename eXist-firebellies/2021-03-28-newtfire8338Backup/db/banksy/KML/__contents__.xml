@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/banksy/KML" owner="admin" group="dba" mode="755" created="2020-08-07T21:19:57-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="kml.xslt" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:57-04:00" modified="2020-08-07T21:19:57-04:00" filename="kml.xslt" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="united_kingdom.kml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:57-04:00" modified="2020-08-07T21:19:57-04:00" filename="united_kingdom.kml" mimetype="application/xml" blob-id="ffac1084f730d90543ca87c10d970e41938fe096a9cd3c98d57f4cbb904f38c2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="map.kml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:57-04:00" modified="2020-08-07T21:19:57-04:00" filename="map.kml" mimetype="application/xml" blob-id="1678a7b6942ceb1e2fc53977cb27455f245800a7a2cd93316dfd4b8a68a551ab">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="new_york.kml" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:57-04:00" modified="2020-08-07T21:19:57-04:00" filename="new_york.kml" mimetype="application/xml" blob-id="cf36006a498c79addd76bd6a7db11212a854c318c2ed58a0f8878e0e9f1302b3">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/content" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="dbutils.xql" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="dbutils.xql" mimetype="application/xquery" blob-id="5c5a1fa852d85168c88a6550cf7b493838d9325257dacdd8a305839ad1a9c3fb">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="apputil.xql" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="apputil.xql" mimetype="application/xquery" blob-id="7be325660506a00402a60ccd44ade7532e2db128d140f3170d2c01acd2cd83c1">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="siteutils.xql" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="siteutils.xql" mimetype="application/xquery" blob-id="0dd94ca43ff762fc64d085fe41ceb97e1545b4250445f64e005443ced9ad3c27">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="templates.xql" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:31-04:00" modified="2020-08-07T02:48:31-04:00" filename="templates.xql" mimetype="application/xquery" blob-id="7087dc84a1a010d5630047d858be1a443706fadd5a2ea9a84f257500bbee65bf">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

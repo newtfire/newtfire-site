@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/alc256" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:48-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="pokenet.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:49-04:00" modified="2020-08-07T21:20:49-04:00" filename="pokenet.tsv" mimetype="application/xml" blob-id="0d66c3db156dd8905badcbc246425e3194bc7757746573c06b28cee142549902">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonnet.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:49-04:00" modified="2020-08-07T21:20:49-04:00" filename="pokemonnet.xql" mimetype="application/xquery" blob-id="e93f9bc2b5331a2952621b39fe5f0c01cb19c8f713457d08fbdb0e3372248078">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="locationnet.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:49-04:00" modified="2020-08-07T21:20:49-04:00" filename="locationnet.xql" mimetype="application/xquery" blob-id="46c64e6643ee3628efc9d0e290f8a593fdcbb0bd411348b197252655ee09f325">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="locationnet.tsv" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:49-04:00" modified="2020-08-07T21:20:49-04:00" filename="locationnet.tsv" mimetype="application/xml" blob-id="e4bff47ec45954f65a0215a280aa15b0b3b92759ad0a1e4176231e3467587b9b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemondistypes.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:49-04:00" modified="2020-08-07T21:20:49-04:00" filename="pokemondistypes.xql" mimetype="application/xquery" blob-id="9d3c983c230ba139cc2a24bed6aa4e067fc56f2bd1b53f73d4f53a15a0884e76">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

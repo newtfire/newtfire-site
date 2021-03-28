@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/wdjacca" owner="wdjacca" group="dba" mode="775" created="2021-03-02T18:09:05-05:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="tollBell.xql" owner="wdjacca" group="wdjacca" mode="755" created="2021-03-02T18:36:19-05:00" modified="2021-03-02T18:48:44-05:00" filename="tollBell.xql" mimetype="application/xquery" blob-id="314ed1b1e9a79430f8d03fbf8ea6ab4ab25757362f64092c1d616f75d894bc3e">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery4.xql" owner="wdjacca" group="wdjacca" mode="755" created="2021-03-18T18:27:47-04:00" modified="2021-03-22T19:15:55-04:00" filename="xquery4.xql" mimetype="application/xquery" blob-id="7efff3f1b08fda0a7e5f028833dcc1cc89554b7247b31710942ad77c72eb568a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ListofComposers.xql" owner="wdjacca" group="wdjacca" mode="755" created="2021-03-22T19:04:37-04:00" modified="2021-03-24T03:47:31-04:00" filename="ListofComposers.xql" mimetype="application/xquery" blob-id="fa87ec0bd9bf0ec5b3c351493653b166ffd69a126b904eb969c5bda248736fc4">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MasterList.xql" owner="wdjacca" group="wdjacca" mode="755" created="2021-03-22T19:21:32-04:00" modified="2021-03-22T19:49:10-04:00" filename="MasterList.xql" mimetype="application/xquery" blob-id="09b65305a1fb3898ba29b5e21251e61571990f0e707787e8622dd1652ad15f6f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="masterList.xml" owner="wdjacca" group="wdjacca" mode="644" created="2021-03-22T19:49:06-04:00" modified="2021-03-22T19:49:06-04:00" filename="masterList.xml" mimetype="xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery5.xql" owner="wdjacca" group="wdjacca" mode="755" created="2021-03-24T04:04:44-04:00" modified="2021-03-24T04:04:44-04:00" filename="xquery5.xql" mimetype="application/xquery" blob-id="18670a0af2eb41bec227e65e627ddb815922b8d56816a90f787315819641c2a2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="masterSongList.xml" owner="wdjacca" group="wdjacca" mode="644" created="2021-03-25T01:40:46-04:00" modified="2021-03-25T01:40:46-04:00" filename="masterSongList.xml" mimetype="xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="masterSongList.xql" owner="wdjacca" group="wdjacca" mode="755" created="2021-03-25T01:41:00-04:00" modified="2021-03-25T01:41:00-04:00" filename="masterSongList.xql" mimetype="application/xquery" blob-id="9043401e46338cf75509944e96b808941bc770ad22ffada9cce0630e103ebcfd">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

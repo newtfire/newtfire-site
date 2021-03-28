@@ -1,0 +1,42 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ahunker" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:52-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Hunker_March_24_SVG_04.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="Hunker_March_24_SVG_04.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53-04:00" modified="2020-08-07T21:20:53-04:00" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Hamilton_Timeline" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="Hamilton_Timeline" mimetype="application/xml" blob-id="01e97764a8953a610173271878359de5544a8943a7aaf7d1f05903217d0a2b4f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="JS03" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52-04:00" modified="2020-08-07T21:20:52-04:00" filename="JS03" mimetype="application/xml" blob-id="16811ceca11733d0154214ced3e8642fe82ab8230b1682094bf1535fe326d913">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG02" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53-04:00" modified="2020-08-07T21:20:53-04:00" filename="SVG02" mimetype="application/xml" blob-id="d3e5b1f20a207fd2f079a7d0816861e152289676fcb1e759426260f9065393da">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xquery03" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53-04:00" modified="2020-08-07T21:20:53-04:00" filename="Xquery03" mimetype="application/xml" blob-id="574c81b5644d9f84cbc0b2069595fa7dee2e7831200c6656f7a299a2a165060a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG04" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53-04:00" modified="2020-08-07T21:20:53-04:00" filename="SVG04" mimetype="application/xml" blob-id="8c4f7114e439901fc3d18a23ad47805de7aedc901ec9df366e7fb244abf2821c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG03" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53-04:00" modified="2020-08-07T21:20:53-04:00" filename="SVG03" mimetype="application/xml" blob-id="4169aa288799d20836bbdededab9b3e5a647d1303ba3c36fccd99c46ea60e8be">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapLocs.txt" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53-04:00" modified="2020-08-07T21:20:53-04:00" filename="mapLocs.txt" mimetype="text/plain" blob-id="abf78348a0f4bfe00a552dcdb69e089a80e90b4172b172d9cb46abab8fea4022">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Hamilton_Placeography" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53-04:00" modified="2020-08-07T21:20:53-04:00" filename="Hamilton_Placeography" mimetype="application/xml" blob-id="695784524f1a7648a602189e3ed1b30f7e6a3340571682e62fcc12b612878a78">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Hamilton_Placeography.kml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53-04:00" modified="2020-08-07T21:20:53-04:00" filename="Hamilton_Placeography.kml" mimetype="application/xml" blob-id="f1bbb31881a995647c653699e1b1c6a6fe81926bbbe30a17ebcb5420ab17e878">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG02_In_Class" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53-04:00" modified="2020-08-07T21:20:53-04:00" filename="SVG02_In_Class" mimetype="application/xml" blob-id="ae4cd0549155a3dbbcb919e209ce3098241fbac472cd1b8e740d2d20add7765a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Placeography.kml" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53-04:00" modified="2020-08-07T21:20:53-04:00" filename="Placeography.kml" mimetype="application/xml" blob-id="48c5fe8d273cc181ad935a62866ff218b1daffb9ac097cfaf39791ea4345ad40">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

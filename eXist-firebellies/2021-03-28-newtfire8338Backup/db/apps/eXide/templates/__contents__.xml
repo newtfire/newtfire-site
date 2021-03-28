@@ -1,0 +1,29 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/templates" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="documents.xml" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="documents.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="snippets.xml" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="snippets.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xml.snippets" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="xml.snippets" mimetype="application/octet-stream" blob-id="e2718fdaa8875e3c4f805caa0be866a18e743f9c0442edca723c84d00d29b5de">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="namespaces.json" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="namespaces.json" mimetype="application/json" blob-id="92d41fbf388c1707fb2be2970989ac4b1ba0d224ab237c5b8f09536fe40fa2fd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="css.snippets" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="css.snippets" mimetype="application/octet-stream" blob-id="298a6334b477502285acdeae39fe23e9d406d26b1aecc6a40622707cab8dcde9">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="html.snippets" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="html.snippets" mimetype="application/octet-stream" blob-id="1abaff83a59ddc05cadf3d346cff4ff77e222a0e87f35be6bdce40d15fa4f3ba">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="javascript.snippets" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="javascript.snippets" mimetype="application/octet-stream" blob-id="8fc96e0df9b8f47cd5e63c98acabef9cab3618cbb28fb041a9edd8aa6fb5af5c">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery.snippets" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32-04:00" modified="2020-08-07T02:48:32-04:00" filename="xquery.snippets" mimetype="application/octet-stream" blob-id="d9ab18612a440eda4430b206d73f6cee855a343d06f7f575f1411600d591f211">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="existdb" filename="existdb"/>
+    <subcollection name="bootstrap" filename="bootstrap"/>
+</collection>

@@ -1,0 +1,13 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/resources/DataTables-1.10.7" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="license.txt" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="license.txt" mimetype="text/plain" blob-id="95f0b97b1d1a2dd1c1c1221fcc630fee34a11a231ece382c2638ce3b251bd9e6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Contributing.md" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="Contributing.md" mimetype="text/markdown" blob-id="7d868b1088196a51c497a8b1f73f9f74e263e7388ee605180ede93dc4ca23603">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Readme.md" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38-04:00" modified="2020-08-07T02:48:38-04:00" filename="Readme.md" mimetype="text/markdown" blob-id="47c6d73b31fc94f89390e0b1984e23553cf325484196ad86fae6a45094cd4639">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="media" filename="media"/>
+</collection>

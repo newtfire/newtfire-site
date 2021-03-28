@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/oxygen/assets" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:34-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="oxygen_v20_conn-wiz.png" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34-04:00" modified="2020-08-07T02:48:34-04:00" filename="oxygen_v20_conn-wiz.png" mimetype="image/png" blob-id="6bcbc51644193e38f5d3921d21442f36012de06f13982d1ffa462d822fb4678c">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/frk11" owner="admin" group="dba" mode="755" created="2020-08-07T21:17:26-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="koshinskie_SVG2_04_05_19.svg" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:26-04:00" modified="2020-08-07T21:17:26-04:00" filename="koshinskie_SVG2_04_05_19.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg3" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:26-04:00" modified="2020-08-07T21:17:26-04:00" filename="svg3" mimetype="application/xml" blob-id="01773e4815aa8e6264fec640d1955bc538c4416da6f5f034e618caf0e67f2fc6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="koshinskie_SVG2_04_05_19.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:26-04:00" modified="2020-08-07T21:17:26-04:00" filename="koshinskie_SVG2_04_05_19.xql" mimetype="application/xquery" blob-id="99ee73c3dc46fe5086d8848a41027c7c247a6cb9752d1f3988e7fc347eef707a">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mainXQuery.xql" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:27-04:00" modified="2020-08-07T21:17:27-04:00" filename="mainXQuery.xql" mimetype="application/xquery" blob-id="a4da381e446738179670065f2b9e586ccc76c8abf3cb87533737a05586cafafe">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

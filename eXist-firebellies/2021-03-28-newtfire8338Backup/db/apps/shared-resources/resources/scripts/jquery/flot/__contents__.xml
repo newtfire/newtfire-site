@@ -1,0 +1,51 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/resources/scripts/jquery/flot" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery.flot.stack.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.stack.js" mimetype="application/javascript" blob-id="3d2c11b926884b8bb84394cc2c88b37768c1b3e45e280e622bcff752de0e1007">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.navigate.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.navigate.min.js" mimetype="application/javascript" blob-id="384a508c52a3dc5b7fe24b5ef675291b1863c565a44b9d17149b6a28ae7de6a8">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="excanvas.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="excanvas.js" mimetype="application/javascript" blob-id="f5f53ce3d34f51e51c7cc95bf1d2b779148e794366278c7096f735c3072814ac">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.navigate.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.navigate.js" mimetype="application/javascript" blob-id="9b99255926885cb685253aaf3b9c3b1d68e0bc7742215640231d5c3f1ea9cc4f">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.crosshair.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.crosshair.min.js" mimetype="application/javascript" blob-id="d28371af98467a686b7f2f3b3049828d9cef47978f85e0b5ee326e9652623068">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.min.js" mimetype="application/javascript" blob-id="3eb833e15b1ad95079aaf4a3c6f78450f97509596778a5ba69ad8bf41d98f8da">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="excanvas.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="excanvas.min.js" mimetype="application/javascript" blob-id="3cc2f7d811d9e3c1558f810e66550e8ba7f243a023c890ff3def676361536e01">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.selection.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.selection.js" mimetype="application/javascript" blob-id="a7111133a45a434dac903d3e5f718924865eb2a8ad379ff17bd29c7628fb84f6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.threshold.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.threshold.min.js" mimetype="application/javascript" blob-id="aed67446ed84b34b69aa59bbe63bd64c6015fa06c4166be716dc10484f71786b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.stack.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.stack.min.js" mimetype="application/javascript" blob-id="27350e0d8e06a9145b1be775bd5183384f3024b951e9d01d98049d848d545908">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.threshold.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.threshold.js" mimetype="application/javascript" blob-id="b986db7d032b0412f3a459660154ab687b891b51fd4d02c64d2657ea711db5a6">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.js" mimetype="application/javascript" blob-id="4e15de66bcbb23af665ba0231353f12880c0c7bdbb1f2184e2daf50d0c153ee2">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.image.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.image.min.js" mimetype="application/javascript" blob-id="8aacdde3753f705771a1c1eaf3d2c97a54c6819d91086bac17bab253cd345d3b">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.image.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.image.js" mimetype="application/javascript" blob-id="abfbb0fadd62c925b92b31517e2c01ba33a77d7799df307467415efdc7ab3311">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.crosshair.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.crosshair.js" mimetype="application/javascript" blob-id="e26e64e8ad87ce9228f9d4c2e40475b2a6680020f9535617a5ce9d4ac0bde305">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.selection.min.js" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30-04:00" modified="2020-08-07T02:48:30-04:00" filename="jquery.flot.selection.min.js" mimetype="application/javascript" blob-id="3c2fe87cd4154b5160f36afe167ad337ea87e72a8b4d1147e38ff0c99f51a4bf">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

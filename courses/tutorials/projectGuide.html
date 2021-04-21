@@ -147,19 +147,28 @@
                <li>Each HTML page needs a doctype declaration and a namespace declaration. To add these
                   where you need them, create a new HTML (XHTML 5) document in &lt;oXygen/&gt; and copy and paste the declarations
                   in your HTML. (We do not recommend keeping the xml line at the very top, but just the DOCTYPE and the root html element pointing to the xhtml namespace.
-                  Or use our preferred code here: 
+                  We also add two <code>meta</code> elements, the first mainly to establish the character set is UTF-8, and the second to encourage responsiveness of the page to mobile viewers.
+                  Our house style and <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript">the practice preferred by the Worldwide Web Consortium</a> is to attach a separately linked CSS stylesheet and minimize inline CSS to separate styling from semantic content.
+                  A model of our preferred code is here:
                   <pre>
 &lt;!DOCTYPE html&gt;
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-                      ...
+&lt;html xmlns="http://www.w3.org/1999/xhtml" lang="en"&gt;
+        &lt;head&gt;
+            &lt;title&gt;Page Title&lt;/title&gt;
+            &lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8" /&gt;
+            &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;
+            &lt;link rel="stylesheet" type="text/css" href="yourCSS.css" /&gt;
+      &lt;/head&gt;
+    &lt;body&gt;
+       ...
+    &lt;/body&gt;
 &lt;/html&gt;</pre>
                   
                   
                   Where you are writing XSLT to produce HTML, include the appropriate
                   HTML namespace. For XHTML in the form of HTML 5, here are the codes to use to control the namespace and DOCTYPE definitions: (<span class="code">http://www.w3.org/1999/xhtml</span>) in the <span class="code">&lt;xsl:stylesheet&gt;</span> root element at the top, as well as in the xsl:output line:
-                  <pre>&lt;xsl:output method="xhtml" doctype-system="about:legacy-compat" 
-                     omit-xml-declaration="yes"/&gt; 					
-                  </pre>
+                  <pre> &lt;xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes"/&gt;</pre>
+        
                   					
                   					
                </li>

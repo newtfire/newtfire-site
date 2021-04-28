@@ -1,0 +1,101 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   
+   	
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <link rel="stylesheet" type="text/css" href="explain.css" />
+      <title>Network Analysis Exercise, Part 3 (Interactive Network for Web)</title>
+   </head>
+   
+   
+   
+   <body>
+      <!--#include virtual="top.html" -->
+    	
+      <h1><span class="banner">Network Analysis Exercise, Part 3 (Interactive Network for Web)</span></h1>
+      <p>In this tutorial, we guide you through a process of exporting a Cytoscape network for interactive display on a website, like these from our Spring 2021 Large-Scale Text Analysis class:</p>
+      <ul>
+         <li><a href="https://am0eba-byte.github.io/blues/">Blues Analysis Project</a></li>
+         <li><a href="https://amayadwillis.github.io/DisneySongs/collectionAnalysis.html">Disney Songs Project</a></li>
+      </ul>
+      <p>This tutorial works with example cytoscape files and network visualization exports from each of these projects, and this version of the tutorial is working with screen captures from Cytoscape 3.8.2 on Mac OS Big Sur. We begin with a view of a network ready for export from the Blues project, and we will continue with files exported for the Disney Songs project, with thanks to our student developers Mia Borgia and Jacqueline Chan for investigating the several export options.</p>
+      <figure>
+         <img src="bluesNetCytoscape.png" alt="Cytsocape workspace view"/>
+         <figcaption>Cytsocape workspace view of blues artists networked by decade</figcaption>
+      </figure>
+<p>In the figure above, note that the lavender-colored box on the bottom-right of the workspace is showing the viewable area for purposes of export. 
+   To export this graph, go to the File menu at the top of the screen and choose Export, noting the available options: </p> 
+      <figure>
+         <img src="bluesNetCytoExport.png" alt="view of export options in Cytoscape" />
+         <figcaption>Export options in Cytoscape: Network to File..., Network to Image..., Network
+            to Web Page</figcaption>
+      </figure>
+<p>On this menu, you are already familiar with the Network to Image option (as discussed in <a href="NetworkExercise2.html">Network Analysis Exercise 2</a>). This time, we will select <strong>Export to Web Page</strong>. When we do, we see a screen set by default to <q>Export as: Full Web application</q>. We recommend choosing an alternative to this, by selecting the arrow toggle to its right and selecting <q>Simple viewer for current network only</q> </p>
+      <figure>
+         <img src="CytoWebExportOptions.png" alt="three options for Cytoscape web export" />
+         <figcaption>Cytsocape Export Network to Web Page Options: Full web application (default),
+            Simple viewer for current network only (our preferred choice), and Networks and Style
+            JSN files only (No HTML)</figcaption>
+      </figure>
+<p>Of these, we will select the Simple viewer (not the default) because the Simple Viewer is the simplest to integrate into a web project in a way that preserves the styling prepared for our network in Cytsocape. </p>
+      <figure>
+         <img src="CytoWebExportZip.png" alt="exporting zipped directory" />
+         <figcaption>Cytoscape will be exporting a zipped directory</figcaption>
+         </figure>
+      <p>Note that exporting this will prepare a zipped directory for download in the folder you designate: edit this with care. We recommend saving to a filepath location associated with your website development (such as the docs directory that publishes a GitHub Pages website from your GitHub repo). </p>
+      
+      <figure>
+         <img src="CytoWebExportFilePath.png" alt="browsing for filepath to a web directory" />
+         <figcaption>Choose a filepath carefully to save the exported zipped directory to your project webspace.</figcaption>
+      </figure>
+<p>We now exit Cytoscape (saving our session) and go to work on the website. Unzip the zipped directory and find a directory named <q>web_session</q> available in your website file directory. For convenience to distinguish this as related to our Cytoscape network, we renamed this as <q>cyto_web_session</q>. Inside it looks like this: </p>
+      <figure>
+         <img src="CytoSimpleWebDirectory.png" alt="inside the unzipped Cytoscape Simple Viewer Export" />
+         <figcaption>Files inside the unzipped directory for the Cytoscape Simple Viewer.</figcaption>
+      </figure>
+   <p>The directory for Cytoscape's Simple Viewer contains (among other things) a networks.js file and an index.html. If you open the networks.js file in &lt;oXygen/&gt; or a code editor, you will see a view of your network data (you will recognize your node and edge data) in <dfn>Javascript Object Notation</dfn> (JSON) format. If you open the index.html locally in a web browser (open a web browser, and use CTRL + o (Windows) or Command + o (Mac), you can preview an interactive view of your network. You could always link to the index.html as a separate page from your site, but we recommend embedding the network directly on a page To embed this on a website, we recommend pointing to the JavaScript files in your web page. This is what we will demonstrate next.</p>
+ 
+      <h4>Modifications to the project HTML and CSS files</h4>
+ <p>To embed the interactive network on your website, you need to work with the JavaScript files, and point to them from your website. Here is an example of how to do this based on a website file directory structure in which an interactiveNetwork.html project webpage is sitting <q>above</q> a cyto_web_session directory containing the Simple Viewer files exported from Cytoscape. The interactiveNetwork.html page will need to accommodate <code>&lt;script&gt;</code> elements to point to the JavaScript in both the <code>&lt;head&gt;</code> and <code>&lt;body&gt;</code>. We should set a container element like a <code>&lt;div&gt;</code> or <code>&lt;section&gt;</code> element around the area in which we want the interactive graph to appear and give that container element a special <code>@id</code> attribute for referencing with CSS. Finally, we need to add some CSS to style the viewing area (adding this to the project CSS file, or linking a special CSS to this page as needed). </p>
+      <p>The following code block indicates basically needed in the HTML file, and which JavaScript files need to be referenced to embed the Simple Viewer on the page: </p>
+     <pre>
+        &lt;!DOCTYPE html&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+    &lt;head&gt;
+        &lt;title&gt;Interactive Network Graphs&lt;/title&gt;
+        &lt;link rel="stylesheet" href="networkInteract.css"/&gt;
+        &lt;script src="cyto_web_session/networks.js"&gt;&lt;/script&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+       &lt;div id="cy"&gt;
+                
+                &lt;script src="cyto_web_session/networks.js"&gt; &lt;/script&gt;
+                &lt;script src="cyto_web_session/styles.js"&gt; &lt;/script&gt;
+                
+                
+                &lt;script src="cyto_web_session/scripts/vendor.js"&gt;&lt;/script&gt;
+                &lt;script src="cyto_web_session/scripts/main.js"&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        
+    &lt;/body&gt;
+&lt;/html&gt;</pre>
+
+<p>Note that we created a container element, <code>&lt;div id="cy"&gt;</code> to hold the interactive graph. All file associations are relative and that the last two JavaScript script associations point into scripts subdirectory. These modifications will not be enough to view the embedded network, though. We also now need to add a block of code our CSS stylesheet to render it visible> We added the following to our CSS file: </p>
+      <pre>
+#cy {
+     width: 65vw;
+     height:100vh;
+     position:absolute;
+     display:flex;
+     margin:auto;
+     border-style:double;
+     
+ }</pre>
+     <p>Upon making these modifications, provided there are not problems with competing CSS styling on your page, we expect you will be able to view and interact with your network on your project website. Preview it locally in your web browsers to be sure it works, and then publish your code. Congratulations on providing your site visitors with an interactive experience of your network data!</p>
+      
+     </body>
+
+</html>

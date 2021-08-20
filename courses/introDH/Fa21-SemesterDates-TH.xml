@@ -1,0 +1,267 @@
+<div id="schedule">
+    <table>
+        <tr id="d2021-08-24">
+            <td>
+                <h4>T 08-24</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-08-26">
+            <td>
+                <h4>H 08-26</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-08-31">
+            <td>
+                <h4>T 08-31</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-09-02">
+            <td>
+                <h4>H 09-02</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-09-07">
+            <td>
+                <h4>T 09-07</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-09-09">
+            <td>
+                <h4>H 09-09</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-09-14">
+            <td>
+                <h4>T 09-14</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-09-16">
+            <td>
+                <h4>H 09-16</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-09-21">
+            <td>
+                <h4>T 09-21</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-09-23">
+            <td>
+                <h4>H 09-23</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-09-28">
+            <td>
+                <h4>T 09-28</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-09-30">
+            <td>
+                <h4>H 09-30</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-10-05">
+            <td>
+                <h4>T 10-05</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-10-07">
+            <td>
+                <h4>H 10-07</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-10-12">
+            <td>
+                <h4>T 10-12</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-10-14">
+            <td>
+                <h4>H 10-14</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-10-19">
+            <td>
+                <h4>T 10-19</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-10-21">
+            <td>
+                <h4>H 10-21</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-10-26">
+            <td>
+                <h4>T 10-26</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-10-28">
+            <td>
+                <h4>H 10-28</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-11-02">
+            <td>
+                <h4>T 11-02</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-11-04">
+            <td>
+                <h4>H 11-04</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-11-09">
+            <td>
+                <h4>T 11-09</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-11-11">
+            <td>
+                <h4>H 11-11</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-11-16">
+            <td>
+                <h4>T 11-16</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-11-18">
+            <td>
+                <h4>H 11-18</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-11-23">
+            <td>
+                <h4>T 11-23</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-11-25">
+            <td>
+                <h4>H 11-25</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-11-30">
+            <td>
+                <h4>T 11-30</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-12-02">
+            <td>
+                <h4>H 12-02</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-12-07">
+            <td>
+                <h4>T 12-07</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-12-09">
+            <td>
+                <h4>H 12-09</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+    <table>
+        <tr id="d2021-12-14">
+            <td>
+                <h4>Finals 12-14</h4>
+            </td>
+            <td class="topic">...</td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+    </table>
+</div>

@@ -14,7 +14,7 @@ version="3.0">
                 <th id="Week{count(preceding::table) + 1}">Week <xsl:sequence select="count(preceding::table) + 1"/></th>
                 <th><span class="h4"><em>Class topics</em></span></th>
                 
-                <th><span class="h4"><em>Due next time</em></span></th>
+                <th><span class="h4"><em>Do before class</em></span></th>
             
             </tr>
             <xsl:apply-templates/>

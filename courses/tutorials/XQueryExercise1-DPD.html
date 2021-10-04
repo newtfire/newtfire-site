@@ -1,0 +1,54 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   
+   	
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <link rel="stylesheet" type="text/css" href="explain.css" />
+      <title>XQuery Exercise 1</title>
+   </head>
+   
+   
+   
+   <body>
+      <!--#include virtual="top.html" -->
+      	
+      		
+      <h1><span class="banner">XPath/XQuery Exercise 1 (DPD)</span></h1>
+   <!--2021-10-04 ebb: Written on student project code and as refresher/crash orientation to XPath-->   		    		
+      			
+      <p>A number of student project files have been uploaded as collections to <a href="http://exist.newtfire.org">our eXist-dB XML database on newtfire</a>. We will be working with some of these collections in this series of exercises.Go to the newtfire eXist in a web browser, and click on the eXide button to bring up a window to open files and write XQuery. This is also a review or orientation to XPath, so you should read and study the <a href="https://newtfire.org/courses/tutorials/explainXPath.html">XPath Tutorial</a> as you proceed.</p>  
+      <ol>
+         <li>In an XML database, we need to identify the collections or files we are working with first. On the File menu at the top left of eXide, go to File and Open and scroll around to find the project directories for our class:
+            <ul>
+               <li>mayan</li>
+               <li>btrees</li>
+               <li>auto</li>
+               <li>kingdomofhearts</li>
+               <li>letsrock</li>
+               <li>smashtiers</li>
+            </ul>
+         </li>
+         <li>Let’s start in the smashtiers collection. Open up the one file in the collection and inspect the XML to get a sense of how its data is organized using elements and attributes. Also, notice how the eXide window displays the filepath address in the database: <code>/db/smashtiers/supersmashtierlist.xml</code>.</li>
+   <li>We will start with a query in XPath on the smashtiers XML document. Go to File >> New XQuery to start an XQuery. Paste in this document function to access the Smashtiers document and press the Eval button to see a view of it in the return window:
+      <pre>doc('/db/smashtiers/supersmashtierlist.xml')//*</pre>
+   </li>
+         <li><ul><li>Much of XPath involves <q>stepping down</q> the XML document hierarchy from the root to the descendant branches. Notice that the expression you just pasted in returns the entire document. That is because we are using the <dfn>descendant axis</dfn> to access the wildcard indicator: <code>*</code>, which includes any and all elements on the tree. Change that wildcard to select a specific element to look at all of the <code>&lt;char&gt;</code> elements in the tree. Press Eval to see the results, and notice that the total number of results flashes briefly in the bottom right. You can page through the results using the arrow keys in the results window.</li>
+            <li>Open a separate plain text file (in oXygen or notepad): Record the expression you entered and record the number of results when you press Eval.</li></ul></li>
+         <li>We only want to see the char elements if they are associated with game 3. For this we will need to write an <dfn>XPath predicate</dfn> to filter for only the results we want. Read/review <a href="https://newtfire.org/courses/tutorials/explainXPath.html#predicates">XPath predicates on our Follow the XPath tutorial</a> where we show you some examples. The predicate inside the square brackets sets a condition that needs to be true in order for the node before the square brackets to be returned. The predicate expression is defined <dfn>in relation to</dfn> the node it is filtering. Work out a predicate expression to filter the <code>char</code> elements only if are in game number 3. That is, the <code>char</code> element must contain a child <code>game</code> element with an <code>@n</code> value of <code>"3"</code>. In your text file, record your predicate expression, or record what you tried and note how many results you retrieve.</li>
+         <li>When you have filtered the <code>char</code> elements to return a shorter list of results (those in game 2), you can also step down from those results to return other kinds of information, like the value of the attribute <code>@id</code> on <code>char</code>. To return attribute values in XQuery is a little tricky, however. You will see a number of results returned, but no actual values if you just step down to the attribute node. Follow this with <code>! string()</code> or <code>! data()</code> to view the attribute values. Record your expression and the number of results. 
+            
+         </li>
+      </ol>
+      
+      
+      		
+      	<p>When you have completed the assignment copy and paste your expressions into a text file. Upload your text file containing your XPath and XQuery expressions to Canvas.</p>
+   </body>
+   
+   
+   
+   
+</html>

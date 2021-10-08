@@ -21,17 +21,32 @@
       			
       <h1>Corpus Analysis Assignment</h1>
      <h2>Overview</h2>
-     <p>This is a comparative analysis assignment, which means you will be comparing two things. For this assignment, you will be exploring how two related texts (or sets of texts) of your choice compare with one another based on their patterns of frequent word use and clusters of words. Explore this using <a href="https://voyant-tools.org/">Voyant Tools</a> and <a href="https://www.laurenceanthony.net/software/antconc/?fbclid=IwAR3Q7HoowqkuQeKnbFAZvkKaUW_pxTl3Yocz0vD5luKF98SgxZ3_mzSQT1Q">AntConc</a>. </p>
-     <p>You will have a choice of what texts you wish to may wish to try several different combinations, and observe what you can of their word distributions using the corpus analysis tools we have been practicing with. When you feel as if you have found some meaningful and interesting patterns that seem worth comparing between the texts, write a reflection post on one of the websites you have created for this class. (You may work with either site that you wish for this assignment.) Write up a page that presents your comparison and provides images (screen captures) and links to share the source texts you used and the data you could gather. Work with the images to illustrate your essay, in which you point out interesting patterns to compare or contrast these documents in your <q>distant reading</q> of them through the corpus analysis tools. 
+     <p>For this assignment, you will be analyzing texts based on their patterns of frequently used words and word clusters (how words cluster together). You will gain experience with two powerful text analysis software tools popularly used in digital humanities text analyses:</p>
+     <ul>
+       <li>Voyant Tools: available online at:
+         <ul><li><a href="https://voyant-tools.org/">main site</a></li>
+           <li><a href="https://service.sadilar.org/voyant/">mirror site</a></li>
+           <li><a href="https://beta.voyant-tools.org/docs/#!/guide/server">also for local download and installation</a></li>
+       </ul>
+         
+       </li>
+       <li><a href="https://www.laurenceanthony.net/software/antconc/">Antconc</a></li>
+     </ul>
+       
+       
+      
+     <p>You will have a choice of what texts you wish to may wish to try several different combinations, and observe what you can of their word distributions using the corpus analysis tools we have been practicing with. During this unit, I will guide your selection of texts to help make a meaningful hypothesis about how, for example, one text compares with a larger group of related texts, or one group of texts compares with another.</p>
+       
+       <p>When you have found some meaningful and interesting patterns that seem worth comparing between the texts, you will write about your findings in a post on one of the websites you have created for this class. (You may work with either site that you wish for this assignment: either GitHub Pages or Wordpress) Write up a page that presents your comparison and provides images (screen captures) and links to share the source texts you used and the data you could gather. Work with the images to illustrate your essay, in which you point out interesting patterns to compare or contrast these documents in your <q>distant reading</q> of them through the corpus analysis tools. 
      
      </p>
   
 <h2>Choose your texts to compare</h2>
-     <p>For this assignment, you have many options of texts you could choose. If you have an idea about a pair of texts to try comparing that is not on my suggestions list, ask me (Dr. B) about it. As long as you can save the documents as an electronic file in plain text, and cut out any unnecessary materials (like footnotes, headings, styling, etc) you can work with them using our corpus analysis tools. You may need to <strong>clean</strong> texts that you pull from internet sources to remove their headers, long sections of footnotes, anything that is not part of the main text of what you want to be analyzing.</p>
-     <h3>Text clusters to try comparing</h3>
+     <p>For this assignment, you have many options of texts you could choose. I am making texts available on <a href="https://github.com/newtfire/introDH-Hub">our class’s shared GitHub repository, the introDH-Hub</a>. Be sure you have cloned the repo and use <code>git pull</code> to pull in files and file collections as I update them for this assignment. If you have an idea about a selection of texts to try comparing that is not in the collections of texts in our introDH-Hub, ask me (Dr. B) about whether you can use them for this assignment. You may need to <strong>clean</strong> some of the texts that you pull from internet sources to remove their headers, long sections of footnotes, anything that is not part of the main text of what you want to be analyzing. As long as you can save the documents as an electronic file in plain text, and cut out any unnecessary materials (like footnotes, headings, styling, etc) you can work with them using our corpus analysis tools.</p>
+    <!-- <h3>Text clusters to try comparing</h3>
      <h4>First, a small-sized comparison set: </h4>
      <ul>
-       <!--<li>Your Hypothes.is Annotations vs. the Whole Class's Annotations over our first two weeks of readings</li>-->
+       <!-\-<li>Your Hypothes.is Annotations vs. the Whole Class's Annotations over our first two weeks of readings</li>-\->
        <li>A pair of articles or readily available web texts of similar length and/or topic</li>
      </ul>
      <p>These are a small sample size. Notice the number of words and ngram tokens created when you use the corpus tools. </p>
@@ -59,13 +74,13 @@
      <h5>A whole collection of US Radio Play scripts from the 1930s - 50s in our <a href="https://github.com/newtfire/introDH-Hub/tree/master/textFiles/radioPlays">IntroDH-Hub</a></h5>
     <ul><li>Open your Git Bash, navigate to the introDH-Hub, and use <code>git pull</code> to update your repo and pull in the radio script files.</li>
         <li>Find the files in your local introDH-Hub directory in textFiles >> radioPlays.</li>
-    </ul>
+    </ul>-->
    
      
   
   <h2>Apply the corpus analysis tools</h2>
      
-    <ol> <li>First, prepare each of your texts for analysis, and be sure the file is saved with the extension <code>.txt</code> at the end so that AntConc can read the file.  <ul><li>Save your files in a text editing program like Notepad / Notepad++ on Windows, or TextEdit on Mac. (You could also use a code editor like oXygen or VS Code).</li>
+    <ol> <li>First, prepare your texts for analysis, and be sure the file is saved with the extension <code>.txt</code> at the end so that AntConc can read the file.  <ul><li>Save your files in a text editing program like oXygen (open and save as text), or Notepad / Notepad++ on Windows, or TextEdit on Mac. (You could also use a code editor like oXygen or VS Code).</li>
       <li>If your file wants to save as <q>Rich Text Format</q> (<code>.rtf</code>), look for an option to convert it to <q>plain text</q> so you can save it with a <code>.txt</code> file extension.</li></ul></li>
       <li>Copy and paste your text into Voyant tools and get a sense of the predominant words used. Look at the word cloud and the data on the most the most frequently used words, and try to look at the Voyant view of each text side by side. How do your two texts compare with each other for most frequent word use? Do you see words in common, or are they totally different? Take screen captures of the word clouds and other data from Voyant tools that you find relevant for comparison.</li>
      <li>Next, explore your texts using AntConc. .</li>

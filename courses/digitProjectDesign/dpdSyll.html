@@ -432,11 +432,21 @@
                 <h4>F 10-08</h4>
             </td>
             <td class="topic">XQuery FLWOR statements and XPath functions. Understanding <dfn>cardinality</dfn> of XPath functions, 
-                and how to use the simple map (<code>!</code>) vs. the arrow operator (<code>=></code>).
+                and how to use the simple map (<code>!</code>) vs. the arrow operator (<code>=></code>). Applying XQuery for-loops: Working <q>off the tree</q> with a sequence of distinct values,
+                finding out where each one is coded in a collection using a predicate expression: 
+                <pre>
+                    for $i in $distinct-sequence
+                    let $collectionFilter := $coll//item[child::something = $i]
+                    (: or :)
+                    let $collectionFilter := $coll//item[@something = $i]
+                    (: or :)
+                    let $collectionFilter := $coll//item[descendant::something = $i]
+                </pre>
                 <ul>
-                    <li><dfn>cardinality = 1</dfn>: XPath functions that work on one node at a time only.</li>
+                    <li><dfn>cardinality = 0 or 1</dfn>: XPath functions that work on one node at a time only.</li>
                     <li><dfn>cardinality = more than 1</dfn>: XPath functions that work over sequences: <code>distinct-values()</code>, <code>count()</code>, and more.</li>
                 </ul>
+                
                
                </td>
             <td class="doBeforeClass"><strong>XPath/XQuery Exercise 2</strong>

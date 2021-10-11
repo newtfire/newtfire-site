@@ -1,0 +1,87 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" type="text/css" href="../explain.css" />
+        <title>TEI ODD Exercise: Behrend 1909</title>
+    </head>
+    <body>
+        <!--#include virtual="top.html" -->
+        <h1><span class="banner">TEI ODD Exercise: Customizing and Documenting the TEI</span></h1>
+        <section title="objectives">
+            <h3>Introducing TEI ODD with the Mary Behrend 1909 Calendar</h3>
+            <p>Up to this point, we have been applying code based on researching the Guidelines of the Text Encoding Initiative (TEI) and seeing what is available to us in the oXygen XML Editor on a TEI-All document. TEI projects often begin this way, exploring what is possible in the hundreds of elements and attribute options available. However, sooner or later as a project continues, it is best to <dfn>customize</dfn> the TEI by streamlining the options we want to be available within a project. What are we actually using and and how much of the TEI do we really need?</p>
+            <p>Customizing the TEI involves generating a new Relax NG schema that includes usually a much smaller subset of the TEI. We could also introduce some of our own custom elements from outside the TEI (as in make up some elements that are not otherwise represented in the TEI Guidelines), but that is a little more advanced and usually unecessary for most TEI projects. Because the TEI represents such a large schema, we typically do not edit its Relax NG directly. (TEI Relax NG is typically expressed in the verbose XML syntax because it requires some functionality from XML processing code that is not available in the Relax NG Compact Syntax you have learned to write.) Instead, to customize the TEI, we work with a TEI language called <dfn>ODD</dfn> for <q>One Document Does it all</q>. ODD syntax concisely expresses which <dfn>modules</dfn> of the TEI we are working with (clusters of TEI elements grouped based on their functionality and purpose; currently there are 20 modules as of this writing in 2021). Within those large modules, ODD specifies which elements from the full TEI to <dfn>include</dfn> (throwing out all the others), or it can indicate which ones we want to exclude (keeping the rest). TEI ODD XML can also express specific customizations, to lay out which attribute values you want to use in your project customization for, say, the attribute <code>xml:id</code> on the <code>hand</code> element. <a href="https://github.com/newtfire/textEncoding-Hub/blob/master/Class-Examples/TEI-ODD-Examples/Hamilton_ODD/hamiltonODD.odd">Here is an example of an ODD customization</a> made by students working on <a href="https://hamilton.newtfire.org">a project to encode Hamilton the Musical</a>, with lots of customized attribute values mostly for providing distinct identifiers for characters in the musical. Since we are working with manuscript materials, our ODD customization will look different from this: we will need to work with different modules, but we will still want to customize them like this, to determine which elements we ware going to use and to indicate what values we want to work with on some of the attributes.</p>
+            <p>To explore ODD, we will continue to work with Mary Behrend’s calendar sheets from the year 1909. I am adding a couple of more images from that set for this assignment to give us a little more to work with (specifically, examples of when Mary Behrend quotes some poetry that we might want to reference as a cited quote using TEI). The goal, as before, is not to encode the entire set in these homework assignments, but at least to encode a new page that you had not included before, to study the pages thinking about their structure and content, do some research in <a href="https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html">the TEI Guidelines</a> about how to encode with TEI. Only this time, our goal is also to produce a customization of the TEI that will streamline our work for coding this set of documents.</p>
+         
+         <figure>        
+            <img src="TEI-images/mary-behrend-calendar-1909/IMG_2077.jpg" alt="Mary Behrend calendar 6 May 1909"/>
+            </figure>
+            <figure>        
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2101.jpg" alt="Mary Behrend calendar 14 August 1909"/>
+            </figure>
+         <figure>        
+             <img src="TEI-images/mary-behrend-calendar-1909/IMG_2041.jpg" alt="Mary Behrend calendar 30 January 1909"/>
+         </figure>
+            <figure>        
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2042.jpg" alt="Mary Behrend calendar 16 February 1909"/>
+            </figure>
+            <figure>        
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2046.jpg" alt="Mary Behrend calendar 17 February 1909"/>
+            </figure>
+            <figure>        
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2048.jpg" alt="Mary Behrend calendar 8 March 1909"/>
+            </figure>
+            <figure>        
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2049.jpg" alt="Mary Behrend calendar 11 March 1909"/>
+            </figure>
+            <figure>        
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2050.jpg" alt="Mary Behrend calendar 12 March 1909"/>
+            </figure>
+            <figure>        
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2052.jpg" alt="Mary Behrend calendar 17 March 1909"/>
+            </figure>
+        </section>
+        <section title="ODD-customization">
+            <p>A good place to begin work on an ODD customizations is a tool designed for TEI called Roma Beta, available at <a href="https://romabeta.tei-c.org/">https://romabeta.tei-c.org/</a>. 
+                This is where we created our starter ODD for class, which I downloaded and <a href="https://github.com/newtfire/textEncoding-Hub/tree/master/Class-Examples/TEI-ODD-Examples/Mary-Behrend-Calendar-Starter-ODD">pushed to our textEncoding-Hub repo, and stored in Class Examples >> TEI-ODD-Examples</a>. For this exercise, you may begin with this ODD file and continue to customize it, or you may start from scratch exploring how to include and exclude elements in Roma Beta. My assignment for you is simply to refine what we started, to try the following:</p>
+            <ul>
+                <li>Upload our customized ODD from class to the Roma Beta tool (or if you wish to experiment more, try starting from scratch working with TEI All or one of the other customizations available).</li>
+                <li>Try viewing the elements by module in TEI Roma so they are grouped together helpfully (rather than viewing them all in alphabetical order).</li>
+                <li>Try adding or removing one or more elements from the customization (so long as this makes sense based on your coding of the calendar sheets). </li>
+                <li>Work on modifying an element to customize its attribute values, or even remove some attributes you probably will not use. Click through the menus to see how to edit attributes and values on an element. <em>Suggestion:</em> work on the <code>handNote</code> element to customize the attributes on it, and give them specific values.
+                
+                </li>
+                <li>Continue <q>looking stuff up</q> in the TEI Guidelines, that is Googling for <q>TEI P5 whateverYouLookFor</q> to see Element Spec pages and examples of how these are used in TEI projects.</li>
+                <li>Now, download your ODD and save it with your homework files. In Roma Beta, use the <strong>first</strong> download option: <code>Customization as ODD</code>. </li>
+                <li>Open your ODD in the oXygen XML Editor (it should be clear and legible to read as an XML file). Make edits to the top of it to change its name and the descriptive contents as you wish.</li>
+                <li>Apply the wrench tool to set up an ODD transformation: select the following settings (as shown in the screen capture): 
+                <ol>
+                    <li>TEI ODD XHTML</li>
+                    <li>TEI ODD to RELAX NG XML</li>
+                </ol>
+                    <img src="../tutorials/TEI-images/ODD-customize-settings.png" width="600"/>
+                </li>
+                <li>View the HTML documentation in a web browser and see the list of elements you have customized for the project</li>
+                <li>The Relax NG you can associate with your XML file is saved in a directory named <code>out/</code> just below the ODD and the ODD XHTML file. 
+                Your next task is to associate that schema with your XML file for the calendar and see if your code is valid to the schema. If it is not, try to amend your coding to work with the ODD schema, or update the ODD (using Roma or the ODD file in oXygen) to generate an improved schema. 
+                </li>
+                <li><strong>What to submit on Canvas:</strong>
+                <ol>
+                    <li>Your ODD file saved with <code>.odd</code> extension</li>
+                    <li>The ODD HTML documentation file (as output with a <code>.html</code> extension). </li>
+                    <li>Your TEI file for the calendar pages saved with the schema associated (with <code>.xml</code> extension). Add XML comments to this if you are having trouble getting the ODD schema to validate your XML.</li>
+          
+                </ol>
+                </li>
+            </ul>
+            
+         
+            
+        </section>
+                
+               
+               
+    </body>
+</html>

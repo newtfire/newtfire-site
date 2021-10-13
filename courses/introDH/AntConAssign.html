@@ -35,14 +35,37 @@
        
        
       
-     <p>You will have a choice of what texts you wish to may wish to try several different combinations, and observe what you can of their word distributions using the corpus analysis tools we have been practicing with. During this unit, I will guide your selection of texts to help make a meaningful hypothesis about how, for example, one text compares with a larger group of related texts, or one group of texts compares with another.</p>
+     <p>You have a choice of what texts you wish to may wish to try several different combinations, and observe what you can of their word distributions using the corpus analysis tools we have been practicing with. During this unit, I will guide your selection of texts to help make a meaningful hypothesis about how, for example, one text compares with a larger group of related texts, or one group of texts compares with another.</p>
        
        <p>When you have found some meaningful and interesting patterns that seem worth comparing between the texts, you will write about your findings in a post on one of the websites you have created for this class. (You may work with either site that you wish for this assignment: either GitHub Pages or Wordpress) Write up a page that presents your comparison and provides images (screen captures) and links to share the source texts you used and the data you could gather. Work with the images to illustrate your essay, in which you point out interesting patterns to compare or contrast these documents in your <q>distant reading</q> of them through the corpus analysis tools. 
      
      </p>
   
 <h2>Choose your texts to compare</h2>
-     <p>For this assignment, you have many options of texts you could choose. I am making texts available on <a href="https://github.com/newtfire/introDH-Hub">our class’s shared GitHub repository, the introDH-Hub</a>. Be sure you have cloned the repo and use <code>git pull</code> to pull in files and file collections as I update them for this assignment. If you have an idea about a selection of texts to try comparing that is not in the collections of texts in our introDH-Hub, ask me (Dr. B) about whether you can use them for this assignment. You may need to <strong>clean</strong> some of the texts that you pull from internet sources to remove their headers, long sections of footnotes, anything that is not part of the main text of what you want to be analyzing. As long as you can save the documents as an electronic file in plain text, and cut out any unnecessary materials (like footnotes, headings, styling, etc) you can work with them using our corpus analysis tools.</p>
+     <p>For this assignment, you will create a <dfn>comparison set</dfn> of texts to analyze for their words and ngram patterns. You have many options!
+       My recommendation is to attempt a comparison of one long text or a group of related texts with a larger comparison set. You may also compare texts by particular writers against each other.</p>
+      
+       <p>I am making texts available on <a href="https://github.com/newtfire/introDH-Hub">our class’s shared GitHub repository, the introDH-Hub</a>. Be sure you have cloned the repo and use <code>git pull</code> to pull in files and file collections as I update them for this assignment. Text collections I have prepared are in the <code>textFiles/</code> folder.</p>
+     <h3>Suggested comparison sets</h3>
+     <p>Working with the texts and collections in our introDH-Hub, here are some ideas for comparison sets to explore:</p>
+     <ul>
+       <li>Any of the individual works of fiction against the COHA-historic-to-pres collection.</li>
+      
+       <li>Try a specific subset of the COHA-historic to pres collection against the whole collection</li>
+       <li>A cluster of related radio plays that seem to be on the same topic or genre with the whole radioplays collection</li>
+       <li>Inside the 19c-fiction collection, pull out the collected works of Edgar Allan Poe or the collected works of Jane Austen to compare against the 19th-century texts in the COHA-historic-to-pres collection</li>
+       <li>Try comparing some of the texts in the 19c-fiction collection against each other: Try je.txt and wc.txt (by the Bronte sisters) against the collected works of Jane Austen. (Charlotte Bronte famously promoted her writings as very different from Jane Austen’s. Can you see some ways they differ in their words and phrases?) </li>
+       <li>Try comparing some Gothic horror fiction against the collected works of Edgar Allan Poe.</li>
+       <li>Even more options are available for text corpora from <a href="https://www.corpusdata.org/formats.asp">the Full-Text Corpus Data site</a>. 
+         <ul>
+           <li>Text corpora (from news sites, wikipedia, international blogs, etc) in the collection are identified and described on <a href="https://www.corpusdata.org/corpora.asp">the main page</a></li>
+           <li><a href="https://www.corpusdata.org/formats.asp">Download free sample sets</a> from these large collections after finding out what's available from the main page.</li>
+         </ul>
+         </li>
+     </ul>
+     
+      
+        <p> If you have an idea about a selection of texts to try comparing that is not in the collections of texts in our introDH-Hub, ask me (Dr. B) about whether you can use them for this assignment. You may need to <strong>clean</strong> some of the texts that you pull from internet sources to remove their headers, long sections of footnotes, anything that is not part of the main text of what you want to be analyzing. As long as you can save the documents as an electronic file in plain text, and cut out any unnecessary materials (like footnotes, headings, styling, etc) you can work with them using our corpus analysis tools.</p>
     <!-- <h3>Text clusters to try comparing</h3>
      <h4>First, a small-sized comparison set: </h4>
      <ul>
@@ -80,22 +103,28 @@
   
   <h2>Apply the corpus analysis tools</h2>
      
-    <ol> <li>First, prepare your texts for analysis, and be sure the file is saved with the extension <code>.txt</code> at the end so that AntConc can read the file.  <ul><li>Save your files in a text editing program like oXygen (open and save as text), or Notepad / Notepad++ on Windows, or TextEdit on Mac. (You could also use a code editor like oXygen or VS Code).</li>
+    <ol> <li>First, if necessary, prepare your texts for analysis, and be sure the file is saved with the extension <code>.txt</code> at the end so that AntConc can read the file.  <ul><li>Save your files in a text editing program like oXygen (open and save as text), or Notepad / Notepad++ on Windows, or TextEdit on Mac. (You could also use a code editor like oXygen or VS Code).</li>
       <li>If your file wants to save as <q>Rich Text Format</q> (<code>.rtf</code>), look for an option to convert it to <q>plain text</q> so you can save it with a <code>.txt</code> file extension.</li></ul></li>
-      <li>Copy and paste your text into Voyant tools and get a sense of the predominant words used. Look at the word cloud and the data on the most the most frequently used words, and try to look at the Voyant view of each text side by side. How do your two texts compare with each other for most frequent word use? Do you see words in common, or are they totally different? Take screen captures of the word clouds and other data from Voyant tools that you find relevant for comparison.</li>
-     <li>Next, explore your texts using AntConc. .</li>
-      <li>Experiment with the size of your ngram clusters: Try setting a minimum of 2 and a maximum of 4 to start, and then move on to different sizes, say minimum of 3 and a maximum of 6. If the most frequently used 2-grams are not interesting, try moving up to 3. Too large an N-gram (say of 10 words) will probably not be frequently used enough for an interesting pattern. </li>
+      <li>Upload your text file or files into Voyant tools and get a sense of the predominant words used. Look at the word cloud and the data on the most the most frequently used words, and try to look at the Voyant view of each text side by side. How do your two sets of texts compare with each other for most frequent word use? Are there particular words of interest that stand out in one set vs. the other? Take screen captures of the word clouds and other data from Voyant tools that you find relevant for comparison.</li>
+     <li>Next, explore <dfn>Keywords in Context (KWIC)</dfn> information: Choose some interesting word or phrase to survey how it is used, scoping 5 to 10 words to the left and right of the word or phrase. You can view this in Voyant or Antconc.</li>
+      <li>Can you see something of the <dfn>distribution</dfn> of an interesting word particle or phrase in Voyant or the Concordance view in Antconc? Does this provide something interesting to compare in your comparison set of texts?</li>
+      <li>Try scoping your text(s) for ngram clusters using Antconc. (Antconc may run very slowly or stall on a large collection, so here are some ways to improve its performance: <ul>
+        <li>In the Clusters/N-Gram window, try reducing the number of results to display by increasing the Min. Freq. to 10 (so you don't show all the results that appear fewer than 10 times).</li>
+        <li>You could work with a subset of the original files in a collection</li>
+      </ul>
+        Experiment with the size of your ngram clusters: Try setting a minimum of 2 and a maximum of 4 to start, and then move on to different sizes, say minimum of 3 and a maximum of 6. If the most frequently used 2-grams are not interesting, try moving up to 3. Too large an N-gram (say of 10 words) will probably not be frequently used enough for an interesting pattern. </li>
       <li>Look at some of the most frequently used ngrams, and click on them to open the Concordance view, which shows highlighted Keywords in Context (KWIC). You can then click on the highlighted KWIC passages to view exactly where they appear in the actual text. Get a sense of what kinds of passages and sentences these phrases are part of. Take some notes on this for each of the documents you are comparing. </li>
       <li>Take screen captures as you begin to see interesting patterns so you can document them in your esssay. Hint: You can copy and the paste the AntConc program so you can open two or three copies of it at a time to view your text data from different files side by side</li>
      </ol>
      
-     <p>If you are not sure you are seeing anything worth comparing in the documents you selected, try changing it up: Change the ngram minimum and maximum value. The minimum value of two may not show the most interesting patterns, so try starting it at 3. You can always choose a different document from the collection, and continue experimenting. </p>
+     <p>If you are not sure you are seeing anything worth comparing in the documents you selected, try changing it up: Change the ngram minimum and maximum value. The minimum value of two may not show the most interesting patterns, so try starting it at 3. You can always choose a different set of documents from the collection and continue experimenting. </p>
      
  <h2>Take notes, reflect, and write a post to present your comparison analysis</h2>
       <p>As you work on the the corpus analysis, take notes on things that surprise or interest you. Can you see a strong pattern that makes one writer obviously different from another? Is it a pattern you would have guessed when you started, or something surprising?</p>
-     <p>Spend some time reviewing your data, and write up a reflection post including images and screen captures from your analysis. Your post should present one pair of texts, or one trio of texts that you studied with this assignment. Present your findings: how do these texts compare and/or contrast with each other in what you could see of the distinct words and phrases they most frequently use? </p>
-     <p>Prepare your post as a webpage to present on one of the websites you developed in the previous assignment (your choice: either GitHub Pages or your Wordpress or personal PSU site). Include your screenshot images on the page.</p>
-     <p>When this portion of this assignment is complete, post links to it on Canvas at the appropriate assignment link.</p>
+     <p>Spend some time curating, reviewing, and thinking about your data. Curating your data involves taking screencaptures and saving the image files with clear filenames so you know what you are looking at. (Remember, no spaces in filenames!) You will need to include some of you image files to help show your findngs in the the web post you are writing for this assignment.</p>
+       <p>Write up a reflection post including images and screen captures from your analysis. Your post should present one pair of texts, or one trio of texts that you studied with this assignment. Present your findings: how do these texts compare and/or contrast with each other in what you could see of the distinct words and phrases they most frequently use? </p>
+     <p>Prepare your post as a webpage to present on one of the websites you developed in the previous assignment (your choice: either GitHub Pages or your Wordpress or personal PSU site). As you write, work with your screenshot images to help show your findings. Each image you include needs to be followed by some explanatory text describing what is significant in the image. For GitHub Pages, I recommend using the <code>figure</code> element as a container around the <code>image</code> and <code>figcaption</code> elements to help label your images.</p>
+     <p>To complete the assignment, post a link to the page on your website hosting your Text Corpus Analysis on Canvas at the appropriate assignment link.</p>
      
    </body>
 

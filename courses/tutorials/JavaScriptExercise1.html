@@ -26,7 +26,7 @@
          be an HTML file you have generated for your project, or just a random page you write
          on the fly for the purposes of this assignment, but should not simply be a repetition
          of the model on the Obdurodon intro page. (Adapt what you’ve learned there to experiment
-         a little on your own.) For more examples to tinker with, have a look at <a href="http://www.w3schools.com/js/default.asp">the JavaScript tutorial pages at w3schools</a>. Don’t worry too much about making this complicated: just aim to write some JavaScript code that works to make changes when you interact with an HTML page.
+         a little on your own.) For more examples to tinker with, have a look at <a href="http://www.w3schools.com/js/default.asp">the JavaScript tutorial pages at w3schools</a>. <strong>Seriously try to keep this simple</strong>: just aim to write some JavaScript code that works to make changes when you interact with an HTML page.
       </p>
       			
       <h3>Write some serious JavaScript for your website</h3>				
@@ -46,7 +46,7 @@ function init() {
 }
 
       </pre>
-      <p>Now, test your HTML file and see if you get an alert event (a pop-up window telling you <q>The page loaded!</q>. (We like using alert() events to test when functions are actually being fired, and you can remove this one when you know things are working.) We usually set more <code>event listeners</code> inside <code>function init()</code>, this time selecting not the whole window but a specific set of elements.So, if you want to trigger an event by having people click on <a href="https://www.w3schools.com/tags/tag_button.asp">an HTML button element</a> on your webpage, first make sure you have a button element present in your HTML page. Then, you can create a <em>local variable</em> inside your function init() that defines the button element so you can easily refer to it.</p> 
+      <p>Now, test your HTML file and see if you get an alert event (a pop-up window telling you <q>The page loaded!</q>. (We like using alert() events to test when functions are actually being fired, and you can remove this one when you know things are working.) We usually set more <code>event listeners</code> inside <code>function init()</code>, this time selecting not the whole window but a specific set of elements. For example, if you want to trigger an event by having people click on <a href="https://www.w3schools.com/tags/tag_button.asp">an HTML button element</a> on your webpage, first make sure you have a button element present in your HTML page. Then, you can create a <em>local variable</em> inside your function init() that defines the button element so you can easily refer to it.</p> 
       <pre>var buttons = document.getElementsByTagName("button")</pre>
          
       <p>And next, you can write an event listener in your JavaScript function init() to listen for users to click that button. Note that this variable can return a sequence (or array) of multiple buttons if you have more than one, and JavaScript will <em>require</em> that you be specific about identifying just <em>one of these at at time</em> for setting your event listeners. Look at <a href="https://github.com/ebeshero/DHClass-Hub/blob/master/Class-Examples/JavaScript/Intro/intro.js">our intro example on DHClass-Hub</a> to see how we isolate the very first button on the page, and remember that JavaScript, unlike XPath, understands position (or <q>index</q>) as beginning with 0, not 1. Write your event listener to trigger a new function! </p>         

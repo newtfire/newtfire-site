@@ -24,7 +24,7 @@
       <h3>Imaging archival documents</h3>
       <p>We take photos using a phone or a hand-held camera. Why not a flatbed scanner? Because in the archives a phone (or a hand-held camera) is less invasive or potentially damaging to the archival material. In the archives we need to minimize the amount of physical manipulation of documents in order to protect them.</p>
          
-         <p>These notes are based on recent experience (2018 and later) with photographing hundreds of handwritten nineteenth-century documents in various library archives. In our experience, a smart phone camera set to focus on the text written on a manuscript had the effect of enhancing the clarity and sharpness of the text by effectively <q>flattening</q> the surface. When we worked with a hand-held camera, the precision of the imaging would sometimes result in blurred areas from shadows on the surface that we did not see when photographing with a smart phone. We are now, as a result, relying on smart phones in the library archives. 
+         <p>These notes are based on recent experience (2018 and later) with photographing hundreds of handwritten nineteenth-century documents in various library archives. In our experience, a smart phone camera set to focus on the text written on a manuscript had the effect of enhancing the clarity and sharpness of the text by effectively <q>flattening</q> the surface. When we worked with a hand-held camera, the precision of the camera imaging would sometimes result in blurred areas from shadows on the surface that we did not see when photographing with a smart phone. We are now, as a result, relying on a smart phone in the library archives. However, depending on your available equipment, available lighting, and the even height of the photographer (as in how far away you are from the document: too close may be a problem), your experience may vary, and you should experiment for yourself.
       </p>		
    <div class="flexContain"> <figure>  <img src="imaging-tutorial/MRMraces1-panazs100.jpg" alt="manuscript by Mary Russell Mitford imaged with a hand-held Panasonic ZS100 camera"/>
        <figcaption>manuscript by Mary Russell Mitford imaged with a hand-held Panasonic ZS100 camera</figcaption>
@@ -46,10 +46,26 @@
          <li>.gif</li>
       </ul>
       
-      <p>When taking pictures with your camera, you will need to upload them to a computer and organize them according to a good system for your project. You will not need for your images to be so large when distributing over the web, because web browsers tend to magnify the images, and because large file sizes will slow people’s interaction with the website you are building. **GitHub has a strict limit preventing commits and pushes of files at or above 100MB.** Most individual photos taken with a   
-         
-      </p>
+      <p>When taking pictures with your camera, you will need to upload them to a computer and organize them according to a good system for your project. You will not need for your images to be so large when distributing over the web, because web browsers tend to magnify the images, and because large file sizes will slow people’s interaction with the website you are building. <strong>GitHub has a strict limit preventing commits and pushes of files at or above 100MB.</strong> The images we posted here on this page are between 400 and 500 KB in size, and we used CSS to constrain the proportion of their display on the page. When you import image files on your computer, take careful note of the file sizes you are working with.</p>
+      <h4>HEIC images</h4>
+      <p>By default, iOS phones in our time save images in the .HEIC format by default. These are a series of multiple images making a very short animated sequence. If you can do so, before taking photos in the archives, go to the Settings >> Camera in your phone and shut off the HDR setting. Select <q>Keep Normal Photo</q> or most compatible image format. When you send images from your phone to your computer, if they still come in as .HEIC, we can convert them with a batch converter: <a href="https://imazing.com/heic">we recommend working with iMazing</a>.</p>
       
+      <h3>Naming conventions for your image files: Make a plan</h3>
+      <p>Your phone or your camera will not save files with names that easily remind you of the content of the images. The best you can do with the default filenames is tell the order in which you took the pictures on a given day. When building a website, we strongly recommend renaming your image files to help tell briefly at a glance their content. Remember that <strong>filenames should never contain spaces or special characters</strong>, and <strong>ideally, only use a period before the file extension</strong>, as in: <code>mbcalend-1909-01-14.jpg</code> for a page from the Mary Behrend 1909 calendar dated January 14, 1909. Saving your files in this way, in a designated <code>images/</code> folder in your website directory (within <code>docs/</code> on GitHub Pages), makes it easy to sort the files and retrieve the images you need quickly while coding your website.</p>
+         
+         <p>We cannot emphasize enough that you need to <strong>avoid using spaces and punctuation in naming file folders and files</strong>! Work with your project team to decide on a good, clear plan for naming your image files in the project, and create a clear file directory structure for these in your shared GitHub repository.</p>
+      
+      <h3>Batch image processing: to reduce filesizes</h3>
+      <p>If you wish to reduce the filesizes of your images to make these easier and faster to load on a page, we recommend first of all that you keep a copy of your original images somewhere on your computer. You will want to experiment with resolution and compression a little, and you should always start each experiment from the original version of the files. <strong>Only process the original images and save outputs in their own new directories.</strong>. (Be careful not to save over your original files!)</p>
+      
+    <h4>Resources for batch image processing</h4>
+      <p>We are developing this section, working with the following resources: </p>
+      <ul>
+         <li><a href="http://www.ampsoft.net/webdesign-l/jpeg-compression.html">Optimization of JPEG (.JPG) images: good quality and small size</a></li>
+         <li><a href="https://imagemagick.org/index.php">Image Magick</a> (free, cross-platform compatible batch image processing at command line, based on parameters you input)</li>
+         <li>Adobe Photoshop (not free, but has convenient batch image processing utilities)</li>
+      </ul>
+      <p>We will be adding more about how to work with Image Magick and Adobe Photoshop as we continue to develop this tutorial.</p>
    </body>
    
    

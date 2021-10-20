@@ -10,9 +10,6 @@ div#top {width:100%; background-color:#bad7e6/*#bdb3b3*//*#D9E9D9*/; padding:5px
 border-bottom-right-radius: 45px;}
 div#bannerImage {float:left}
 div#bannerImage img {width:150px}
-
-div#svg1 {max-width:700px;}
-div#svg1 img {width:65%; height: 65%;}
 div#title{font-size:30px; font-weight:bold; color:#FF0000;}
 div#title a { text-decoration:none;}
 div.boilerplate span {text-indent:5px;
@@ -30,6 +27,12 @@ div.explan{background-color:#3F4F3F; float:right; width:60%; padding:15px;}
 
 .imageAlt {float:right; width:35%; margin-left: auto;
     margin-right: auto; padding:15px;}
+
+section.showCaseHeader {display:flex; flex-direction:row; justify-content:space-between;}
+div.showCaseHeader{flex:2}
+div.showCaseImg {flex:1;}
+
+
 div.explanAlt{background-color:#B4D6B4; float:left; width:65%; padding:15px;}
 div.container {background-color:#B4D6B4; width:100%; }
 .codeContainFlex {display:flex; flex-direction: row; justify-content:space-between; min-width: 0}
@@ -52,7 +55,11 @@ h4{color:#005BEB; font-family:arial, helvetica, sans-serif;  font-size: 1em; tex
 
 q {quotes:'“' '”' '‘' '’'; 
 }
+div.flexContain{display:flex; flex-direction:row;}
+figure {width: 40%;}
+figure img {max-width:1000px; width:100%}
 figcaption {font-style:italic; font-size:.8em;}
+
 cite.sub {font-style:normal;}
 cite.sub::before {content:'“'; 
 }
@@ -129,6 +136,11 @@ background-color: #bad7e6; /*#7E967E;*/
 padding: 1px;
 vertical-align:middle;}
 }
+table.studentProjects {table-layout: fixed; }
+table.studentProjects tr td {width:20%;}
+
+table.showCase {vertical-align: middle;}
+table.showCase tr:nth-child(even) {background-color:/*#dcd0ff*/ /*#dbd7d2*/ #c3cde6;}
 @media print {
  body {color: #000;
  background: #fff; 

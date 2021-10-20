@@ -46,17 +46,41 @@ function init() {
 }
 
       </pre>
-      <p>Now, test your HTML file and see if you get an alert event (a pop-up window telling you <q>The page loaded!</q>. (We like using alert() events to test when functions are actually being fired, and you can remove this one when you know things are working.) We usually set more <code>event listeners</code> inside <code>function init()</code>, this time selecting not the whole window but a specific set of elements. For example, if you want to trigger an event by having people click on <a href="https://www.w3schools.com/tags/tag_button.asp">an HTML button element</a> on your webpage, first make sure you have a button element present in your HTML page. Then, you can create a <em>local variable</em> inside your function init() that defines the button element so you can easily refer to it.</p> 
+      <p>Now, test your HTML file and see if you get an alert event (a pop-up window telling you <q>The page loaded!</q>. (We like using alert() events to test when functions are actually being fired, and you can remove this one when you know things are working.) We usually set more <code>event listeners</code> inside <code>function init()</code>, this time selecting not the whole window but a specific set of elements. For example, if you want to trigger an event by having people click on <a href="https://www.w3schools.com/tags/tag_button.asp">an HTML button element</a> on your webpage, first make sure you have a button element present in your HTML page. Then, you can create a <em>local variable</em> inside your <code>function init()</code> that defines the button element so you can easily refer to it.</p> 
       <pre>var buttons = document.getElementsByTagName("button")</pre>
          
-      <p>And next, you can write an event listener in your JavaScript function init() to listen for users to click that button. Note that this variable can return a sequence (or array) of multiple buttons if you have more than one, and JavaScript will <em>require</em> that you be specific about identifying just <em>one of these at at time</em> for setting your event listeners. Look at <a href="https://github.com/ebeshero/DHClass-Hub/blob/master/Class-Examples/JavaScript/Intro/intro.js">our intro example on DHClass-Hub</a> to see how we isolate the very first button on the page, and remember that JavaScript, unlike XPath, understands position (or <q>index</q>) as beginning with 0, not 1. Write your event listener to trigger a new function! </p>         
-      <p>Finally, script out the new function to make the change. You will likely (easily) have typo issues wtih JavaScript syntax, so be careful about its quirky punctuation conventions. Also, if you are copying and adapting JavaScript code from our examples to your own page, remember to change your variables and event listeners and actions to address the specific code on your site. </p>
+      <p>And next, you can write an <dfn>event listener</dfn> in your JavaScript function init() to listen for users to click that button. Note that this variable can return a sequence (or array) of multiple buttons if you have more than one, and JavaScript will <em>require</em> that you be specific about identifying just <em>one of these at at time</em> for setting your event listeners. Here is an example of some code we wrote to plant an event listener two different buttons. Each one is intended to trigger a new function to fire that we would write later in the JS. </p>
+      
+     <pre>
+        window.addEventListener('DOMContentLoaded',init,false);
+
+function init() {
+    alert ('Hi there! Looks like the page loaded! Yay!');
+    var buttons = document.getElementsByTagName("button")
+buttons[0].addEventListener('click', changeColor,false)
+buttons[1].addEventListener('click', newFunction, false)
+}
+
+function changeColor() {
+var colorMe1 = document.getElementById("colorToggle") 
+{colorMe1.style.backgroundColor = "skyblue";
+}
+/* here, style is a *property*: the CSS styling of an element: you can add a CSS property after invoking style. */
+
+function newFunction() { 
+/* We haven't written what is supposed to happen here yet. But this is an example of a JavaScript comment. */
+}
+     </pre>
+         
+      <p>Study our intro example <a href="https://github.com/newtfire/digitProjectDesign-Hub/tree/master/Class-Examples/JavaScript/Intro">HTML code and its linked JavaScript file on the digitProjectDesign-Hub</a> to see how we isolate the very first button on the page. Remember that JavaScript, unlike XPath, understands position (or <q>index</q>) as beginning with 0, not 1.</p>
+      <p>See if you can write an event listener to trigger a new function on your own HTML file, working with your own HTML elements. Then script out the new function to make the change. You will likely (easily) have typo issues wtih JavaScript syntax, so be careful about its quirky punctuation conventions. Also, if you are copying and adapting JavaScript code from our examples to your own page, remember to change your variables and event listeners and actions to address the specific code on your site. </p>
          <p>The goal here is to write a separate JavaScript file that you associate with your HTML (instead of applying JavaScript inline). If you have experimented with inline JavaScript as you were learning, see if you can express that JavaScript in functions in the separate file you are writing for this assignment. You should adapt this assignment as you wish to write some JavaScript for one of your project pages that makes something dynamic happen. (Note: we don’t permit the use of JavaScript libraries—just using
          someone else’s JavaScript and force-fitting it to your HTML—because we want you to write your own code independently
          and know what each line of it means. It is okay, though, to learn from JavaScript others have written and apply what you are learning to your project needs; in which case we want you to credit your source in comments in your JavaScript file (marked by <code>//</code> or within <code>/* comment */</code> and be able to explain how you are applying it to your project.)   
       </p>
       <p>For JavaScript reading and experimentation, see:</p>
       <ul>
+         <li>Giant resource of <a href="https://developer.mozilla.org/en-US/docs/Web/Events">JavaScript Events and Event Listeners with examples</a></li>
          <li><a href="http://dh.obdurodon.org/javascript/multi_select/">JavaScript that activates on selecting values from dropdown lists</a></li>
          <li><a href="http://dh.obdurodon.org/javascript/classListToggle.xhtml">JavaScript toggling with classList and switch</a>: integrates JavaScript with CSS with values set on the HTML @class attribute</li>
          <li><a href="http://dh.obdurodon.org/election.xhtml">JavaScript that helps integrate SVG and HTML, and illustrates JavaScript show/hide and innerHTML</a></li>

@@ -55,9 +55,11 @@ h4{color:#005BEB; font-family:arial, helvetica, sans-serif;  font-size: 1em; tex
 
 q {quotes:'“' '”' '‘' '’'; 
 }
+div.flexContain{display:flex; flex-direction:row;}
 figure {width: 40%;}
 figure img {max-width:1000px; width:100%}
 figcaption {font-style:italic; font-size:.8em;}
+
 cite.sub {font-style:normal;}
 cite.sub::before {content:'“'; 
 }

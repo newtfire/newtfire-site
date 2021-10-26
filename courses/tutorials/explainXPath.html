@@ -55,7 +55,7 @@
                   .&lt;/element&gt; .</code></li>
 
             <li>the <dfn>attribute node</dfn>: <code>attribute()</code>. This contains an attribute
-               name and its value, as in <span class="code">item="beads"</span> in the element <span
+               name and its value, as in <code>item="beads"</code> in the element <span
                   class="code">&lt;trade item="beads"&gt;</span>. <br /> (Note, we’ll use the <span
                   class="code">@</span> symbol to indicate an attribute value from now on.) </li>
 
@@ -74,7 +74,7 @@
          </ol>
 
          <p>This link provides a handy picture of how element nodes and text nodes fit together in a
-            "tree:" <a href="https://dh.obdurodon.org/introduction-xpath.xhtml#node">David Birnbaum’s
+            "tree:" <a href="http://dh.obdurodon.org/introduction-xpath.xhtml#node">David Birnbaum’s
                XPath intro page on nodes</a>. </p>
 
          <p>We’ve shown you the Outline View in &lt;oXygen/&gt;, and it may be helpful to look at an
@@ -92,24 +92,24 @@
             <p>In the Outline view of this HTML file which we took from &lt;oXygen/&gt;, we’ve
                marked multiple levels of a family relationship: The yellow squared root node <span
                   class="code">&lt;html&gt;</span> is the original ancestor of all the descendents
-               inside. The red squared nodes (the <span class="code">&lt;head&gt;</span> and <span
+               inside. The red squared nodes (the <code>&lt;head&gt;</code> and <span
                   class="code">&lt;body&gt;</span> elements) are the immediate <b>children</b> of
-               the <span class="code">&lt;html&gt;</span> root node. They are also <b>siblings</b>
+               the <code>&lt;html&gt;</code> root node. They are also <b>siblings</b>
                to each other. </p>
 
-            <p>What’s the relationship of the <span class="code">&lt;b&gt;</span> node (squared off
-               in pink) to the <span class="code">&lt;body&gt;</span> node? It’s a grandchild, or a
-               descendant. And it’s the child of the <span class="code">&lt;p&gt;</span> element.
+            <p>What’s the relationship of the <code>&lt;b&gt;</code> node (squared off
+               in pink) to the <code>&lt;body&gt;</code> node? It’s a grandchild, or a
+               descendant. And it’s the child of the <code>&lt;p&gt;</code> element.
                See how that works? </p>
 
             <p>The elements I’ve squared off in blue may help us to visualize siblings, all the
-               children of <span class="code">&lt;body&gt;</span>. In XPath, we can distinguish
+               children of <code>&lt;body&gt;</code>. In XPath, we can distinguish
                these siblings in relation to each other. The second element squared in blue, the
-                  <span class="code">&lt;p&gt;</span> element with the text “XPath”, is the
-                  <b>"following-sibling"</b> to the <span class="code">&lt;p&gt;</span> element
+                  <code>&lt;p&gt;</code> element with the text “XPath”, is the
+                  <b>"following-sibling"</b> to the <code>&lt;p&gt;</code> element
                holding the text "Remember how we've described XML..." And we can say that the
-                  <b>preceding-sibling</b> to the <span class="code">&lt;ol&gt;</span> element is
-               the <span class="code">&lt;p&gt;</span> element, which holds the text, “Think of our
+                  <b>preceding-sibling</b> to the <code>&lt;ol&gt;</code> element is
+               the <code>&lt;p&gt;</code> element, which holds the text, “Think of our
                nested boxes in XML...” <br />
                <br /><br />
             </p>
@@ -130,7 +130,7 @@
 
             <tr>
 
-               <td><span class="code">ancestor::</span></td>
+               <td><code>ancestor::</code></td>
 
                <td>The ancestor axis sends you to parents and above, all the way up to the root
                   node. </td>
@@ -139,7 +139,7 @@
 
             <tr>
 
-               <td><span class="code">parent::</span> or <span class="code">. .</span></td>
+               <td><code>parent::</code> or <code>. .</code></td>
 
                <td>The parent axis sends you up a short distance, to the immediate parent of the
                   context node. </td>
@@ -148,7 +148,7 @@
 
             <tr>
 
-               <td><span class="code">child::</span> or <span class="code">/</span></td>
+               <td><code>child::</code> or <code>/</code></td>
 
                <td>The child axis <strong>(which is the default)</strong> sends you down to the
                   immediate child of the context node. </td>
@@ -157,7 +157,7 @@
 
             <tr>
 
-               <td><span class="code">descendant::</span> or <span class="code">//</span></td>
+               <td><code>descendant::</code> or <code>//</code></td>
 
                <td>The descendant axis sends you down to the children and their children, and their
                   children’s children, etc. </td>
@@ -166,7 +166,7 @@
 
             <tr>
 
-               <td><span class="code">preceding-sibling::</span></td>
+               <td><code>preceding-sibling::</code></td>
 
                <td>The preceding-sibling axis sends you to the <q>left</q> to the sequence of
                   siblings that come before the context node (the big brothers and sisters, or
@@ -176,7 +176,7 @@
 
             <tr>
 
-               <td><span class="code">following-sibling::</span></td>
+               <td><code>following-sibling::</code></td>
 
                <td>The following-sibling axis sends you to the <q>right</q> to the sequence of
                   siblings that come after the context node (the little brothers and sisters, or
@@ -184,7 +184,7 @@
 
             </tr>
             <tr>
-               <td><span class="code">preceding::</span></td>
+               <td><code>preceding::</code></td>
                <td>The <code>preceding::</code> axis sends you on a longer path than the
                      <code>preceding::sibling</code> axis, as it looks for <em>any</em> nodes that
                   precede the current context node in the document order, which includes the
@@ -201,7 +201,7 @@
                   currently containing it.</td>
             </tr>
             <tr>
-               <td><span class="code">following::</span></td>
+               <td><code>following::</code></td>
                <td>The <code>following::</code> axis is the mirror-image of the
                      <code>preceding::</code> axis, so the <code>following::</code> axis sends you
                   to all the nodes that follow the current context in the document order, which
@@ -211,7 +211,7 @@
 
             <tr>
 
-               <td><span class="code">self::</span> or <span class="code">.</span></td>
+               <td><code>self::</code> or <code>.</code></td>
 
                <td>There’s a <q>self</q> axis designating the current context node, which is useful
                   sometimes when need to indicate the current location in a path.</td>
@@ -220,9 +220,9 @@
 
             <tr>
 
-               <td><span class="code">attribute::</span> or <span class="code">@</span></td>
+               <td><code>attribute::</code> or <code>@</code></td>
 
-               <td>One last axis that’s sort of in its own parallel universe: the attribute (@)
+               <td>One last axis that’s sort of in its own parallel universe: the attribute (<code>@</code>)
                   axis! You can follow one of the paths up or down or left or right among elements,
                   and if you want to locate attributes in particular, or want to locate only the
                   elements with a particular attribute or attribute value, you move to the @ axis. </td>
@@ -237,6 +237,7 @@
             sometimes that longhand comes up in the XPath window in &lt;oXygen/&gt;, so it can be
             handy to know what these are and what they mean. Use whatever form of these makes the
             most sense to you as you’re writing your XPath expressions. </p>
+         <p>Here is <a href="http://dh.obdurodon.org/introduction-xpath.xhtml#xpath_axes">a wonderful diagram to help illustrate all of the various <q>family</q> relationships for a given XML node</a> using all of the axes</p>
       </section>
       <section>
          <h3 id="write">How to write an XPath expression</h3>
@@ -248,12 +249,12 @@
 
          <p>When we start writing XPath expressions, we usually begin from the <dfn>document
                node</dfn> at the top of the tree. (The root element is actually the child in XPath terms of that document node.) Many of our path expressions will begin with a
-            double slash: <span class="code">//</span>, and at the start of an XPath expression that always means, 
+            double slash: <code>//</code>, and at the start of an XPath expression that always means, 
             start at the document node and search through all XML nodes that descend from here (on the <code>descendant::</code> axis all the way through the XML tree hierarchy.
             If we <em>start</em> our XPath expression with the double slash, we indicate we are
             beginning at the top-level document node and working our way down one or more levels to whatever node we indicate next: </p>
 
-         <p><span class="code">//body/div/p</span></p>
+         <p><code>//body/div/p</code></p>
 
          <p>This expression means, <b>start at the beginning node of the document</b> and <b>look
                for the body element anywhere below</b>. Next, switch to the <code>child::</code> axis, and <b>take
@@ -265,16 +266,16 @@
             return a sequence of zero results.</p>
 
          <p>What if we want to return all the elements at a particular level, regardless of what
-            they are? Here’s where we use the asterisk: <span class="code">*</span>. Examples: </p>
+            they are? Here’s where we use the asterisk: <code>*</code>. Examples: </p>
 
          <p>
-            <span class="code">//body/div/*</span>
+            <code>//body/div/*</code>
             <br />
-            <span class="code">//body/div//*</span>
+            <code>//body/div//*</code>
             <br /><br />
-            <span class="code">parent::*</span>
+            <code>parent::*</code>
             <br />
-            <span class="code">self::*</span>
+            <code>self::*</code>
          </p>
 
          <p>Notice how these work: We say, in the first one, start from the document (root) node,
@@ -284,35 +285,35 @@
             take a longer step down with that <b>double slash</b>: This says, with all those div
             elements that are children of body, please look down the descendent axis and return all
             the elements that are either the children or the descendents of div. <br /><br /> With
-            the last two, notice we designate the axis first. The <span class="code">parent::*
-            </span> will return the name of the parent element for the current context node,
+            the last two, notice we designate the axis first. The <code>parent::*
+            </code> will return the name of the parent element for the current context node,
             whatever it is. (“Who’s my mommy?“) The last one I wrote for the sake of writing it:
             What if we were somehow lost in an XML file and just wanted to return the name and
             location of the current context node: (“Where am I??” or “Who am I?”). We do not often have to reference the self::* axis, 
             but I just invoked it while typing inside the <code>p</code> element forming this paragraph, and returned the entire element node in which I am currently typing this.</p>
 
-         <p>Now, a single slash, <span class="code">/</span>, typically indicates taking a step in a
+         <p>Now, a single slash, <code>/</code>, typically indicates taking a step in a
             path expression, that is, “take one step down and find
             the immediate children of the context node.” When we’re writing XQuery and XSLT we’ll
             find ourselves writing XPath expressions from specific points inside a document (not
             necessarily from the root or document node up at the top), so in those cases we might
             actually begin an expression like this: </p>
 
-         <p><span class="code">p/span</span></p>
+         <p><code>p/span</code></p>
 
          <p>This means, starting from the current context node, look for the immediate children
-            named <span class="code">p</span>, and then go down and find all the immediate children
-            of <span class="code">p</span> named <span class="code">span</span>. </p>
+            named <code>p</code>, and then go down and find all the immediate children
+            of <code>p</code> named <code>span</code>. </p>
 
-         <p>So how do we work with attributes? They have their own <span class="code">@</span> axis.
+         <p>So how do we work with attributes? They have their own <code>@</code> axis.
             Here are some examples of how you can access the attribute axis and what you might find: </p>
 
-         <p><span class="code">//@id <br /><br /> //div/@id </span>
+         <p><code>//@id <br /><br /> //div/@id </code>
          </p>
 
          <p>The parents are attributes are technically elements, so very frequently we climb down
             (or up) an axis to locate a parent element, and then shift over to the attribute axis
-            with the <span class="code">/@</span>, as we did in the second example here. Notice with
+            with the <code>/@</code>, as we did in the second example here. Notice with
             the first example, though, that this actually starts from the document (root) node, and
             hunts through the whole document looking for all instances of the <span class="code"
                >@id</span> inside elements wherever it may turn up. If you download this html file
@@ -320,27 +321,27 @@
             in the bottom view window, and they’ll highlight just the attribute portions of their
             elements. </p>
       </section><section>
-         <h3 id="predicates">Predicates, the filters of XPath: <span class="code">[ ]</span></h3>
+         <h3 id="predicates">Predicates, the filters of XPath: <code>[ ]</code></h3>
 
          <p><b>Predicates</b> in XPath are filtering tools. When we write these, we want to keep in
             mind the structure of the document, and the direction that the computer processor
             “looks” as it’s following your XPath expression. <a
-               href="https://dh.obdurodon.org/introduction-xpath.xhtml#predicates">David Birnbaum
+               href="http://dh.obdurodon.org/introduction-xpath.xhtml#predicates">David Birnbaum
                gives a good flowchart explanation of how this works on the “Predicates” section of
                his XPath site</a>. When you write a predicate, you indicate how to select a specific
             thing out of a lineup, a particular paragraph based on its position, for example. You
             write a predicate using square brackets: </p>
 
          <p>
-            <span class="code">//div/p[1]</span>
+            <code>//div/p[1]</code>
             <br /><br />
-            <span class="code">//div[@id="space"]/p[1]</span>
+            <code>//div[@id="space"]/p[1]</code>
          </p>
 
-         <p>So, say we have multiple <span class="code">div</span> elements, each of which has
-            multiple <span class="code">p</span> children. The first expression returns, for each
+         <p>So, say we have multiple <code>div</code> elements, each of which has
+            multiple <code>p</code> children. The first expression returns, for each
             div in turn, its <b>first</b>
-            <span class="code">p</span> child. In my document, I have two divs with p children, so
+            <code>p</code> child. In my document, I have two divs with p children, so
             this XPath returns 2 results, the first paragraph only in each of these
             divs.<br /><br /> The second is a little more complex: Can you work it out? Here we use
             predicates in two steps of our XPath expression, to streamline results at each level:
@@ -351,65 +352,65 @@
 
          <p>Now, you can actually set multiple predicates <code>[][]</code> right next to each other in an XPath
             expression. Here’s an example of when you might need to do this: Say you have a file
-            divided up into multiple sections using <span class="code">div</span> elements. Let’s
-            say that several of these <span class="code">div</span> elements are designated with
-               <span class="code">@type</span>, as in <span class="code">&lt;div
-               type="poem"&gt;</span> to indicate a particular kind of content inside. You may have
-            other <span class="code">div</span> elements designated as <span class="code"
-               >@type="preface"</span> and <span class="code">@type="acknowledgments"</span>. So
+            divided up into multiple sections using <code>div</code> elements. Let’s
+            say that several of these <code>div</code> elements are designated with
+               <code>@type</code>, as in <code>&lt;div
+               type="poem"&gt;</code> to indicate a particular kind of content inside. You may have
+            other <code>div</code> elements designated as <span class="code"
+               >@type="preface"</span> and <code>@type="acknowledgments"</code>. So
             this file is basically a “book” of poems with some accompanying material, and the <span
                class="code">div</span> elements separate each poem from the others. Now, let’s say
             you want to find your way with XPath to the <b>fifth</b> poem in the file. Here’s how
             you’d do that by making two predicates side by side: </p>
 
-         <p><span class="code">//div[@type="poem"][5]</span></p>
+         <p><code>//div[@type="poem"][5]</code></p>
 
-         <p>See how this works? First you say, find me the <span class="code">div</span> elements
-            filtered by <span class="code">@type="poem"</span>, and then filter those results to
+         <p>See how this works? First you say, find me the <code>div</code> elements
+            filtered by <code>@type="poem"</code>, and then filter those results to
             give me just the <b>fifth</b> one in the sequence. </p>
       </section><section>
-         <h3 id="functions">Functions: How to calculate and process information with XPath</h3>
+         <h4 id="functions">Functions: How to calculate and process information with XPath</h4>
 
          <p>Functions let us do some processing of the things we locate with XPath expressions. What
-            if you don’t want to return all the <span class="code">p</span> elements inside a div,
+            if you don’t want to return all the <code>p</code> elements inside a div,
             and you just want to <b>count</b> them all? That’s when we use a function called <span
                class="code">count()</span>. You put in parentheses the nodes you want to count, and
             this can work in lots of ways: </p>
 
-         <p>
-            <span class="code">count(//@id)</span>
-            <br /><br />
-            <span class="code">//div/count(p)</span>
-            <br /><br />
-            <span class="code">count(//div/p)</span>
-            <br /><br />
-            <span class="code">//div[@id="space"]/count(p)</span>
-         </p>
+         <ol>
+           <li><code>count(//@id)</code> or (same thing using the arrow operator): <code>//@id => count()</code></li>
+          
+            <li><code>//div/count(p)</code></li>
+     
+            <li><code>count(//div/p)</code> or (same thing using the arrow operator): <code>//div/p => count()</code></li>
+         
+           <li><code>//div[@id="space"]/count(p)</code></li>
+         </ol>
 
          <p> In the first of these, I’ve written an expression that says, "Count the number of times
-            the <span class="code">@id attribute</span> is used in this file, starting from the root
+            the <code>@id attribute</code> is used in this file, starting from the root
             (document) node. (When I run it here in &lt;oXygen/&gt; as I’m writing this document,
             the answer is 3 (as I see in the bottom window). <br /><br /> The second expression,
-               <span class="code">//div/count(p)</span>, says, start from the root node, go down to
+               <code>//div/count(p)</code>, says, start from the root node, go down to
             ALL the div elements in the file, and then count the p elements in EACH div, one by one.
             My bottom view screen in &lt;oXygen/&gt; gives me a set of three results, with a count
             for each div in turn. That can be handy! <br /><br /> But what if we want to find out
             how many p elements there are total under ALL the divs? That’s what the third
-            expression, <span class="code">count(//div/p)</span> does: It gives just ONE result, and
+            expression, <code>count(//div/p)</code> does: It gives just ONE result, and
             it’s a count of ALL the p elements in ALL the divs, without differentiating them div by
             div by div. Let’s think about why this gives a different result from the previous
             example: This has everything to do with where you place the count function! When you
             place the count at the end, and don’t include the div element in the parentheses, you
             effectively step down the tree to each div, and THEN do a count of the p elements inside
-            each. By contrast, when you say <span class="code">count(//div/p)</span>, the computer
-            postpones the counting until it’s found all the p’s everywhere that are children of
-            divs. The count function says, “Hey! round up ALL the p’s that are children of divs, and
+            each. By contrast, when you say <code>count(//div/p)</code> or <code>//div/p => count()</code>, the computer
+            postpones the counting until it’s found all the <code>p</code> elements everywhere that are children of
+            <code>div</code> elements. The count function says, “Hey! round up ALL the p’s that are children of divs, and
             count those.” <br /><br />Can you figure out what the last expression is counting? <span
                class="code">//div[@id="space"]/count(p)</span>
             <br /><br /> This combines a predicate with a function! So you indicate that you want to
-            start with only one <span class="code">div</span>, the one with the <span class="code"
-               >@id="space"</span> . Then you count the number of <span class="code">p</span>
-            elements in that <span class="code">div</span>. </p>
+            start with only one <code>div</code>, the one with the <span class="code"
+               >@id="space"</span> . Then you count the number of <code>p</code>
+            elements in that <code>div</code>. </p>
          <p>Following the introduction of XPath 3.0 (and currently in XPath 3.1), we have an alternative syntax for applying functions using <strong>simple map</strong> and <strong>the arrow operator</strong>. 
             We find these new notations a little easier to read and write, so we have prepared <a href="https://github.com/ebeshero/DHClass-Hub/wiki/XPath-Simple-Map-and-Arrow-Operator">a short tutorial on how to use them on our DHClass-Hub</a> and now use these notations in class.</p>
 
@@ -417,16 +418,16 @@
 
          <p>You can actually put functions inside predicates in XPath as a way to filter your
             results! Here’s an example: Say we want to find any and all <span class="code"
-               >div</span> elements that have <b>just one <span class="code">p</span> child</b>?
+               >div</span> elements that have <b>just one <code>p</code> child</b>?
             We’d write that expression this way: </p>
 
-         <p><span class="code">//div[count(p) = 1]</span></p>
+         <p><code>//div[count(p) = 1]</code></p>
 
          <p>Here’s another example. What if want to return an div element that doesn’t have ANY p
             elements? Here we’d use a predicate again, and this time use a function called <span
                class="code">not()</span></p>
 
-         <p><span class="code">//div[not(p)]</span></p>
+         <p><code>//div[not(p)]</code></p>
 
          <p>About these examples: Notice that when you put a function in an XPath predicate, you
             don’t have to indicate that you’re stepping down a tree to get the child element. The
@@ -437,30 +438,30 @@
             We’ve given you examples of predicates that return a specific numerical position, as in
             the first or fifth paragraph or div element, using [1] or [5]. But what if you don’t
             have an exact position, but know you want to return, say, the first 10 of a particular
-            element? Here’s where we can use the <span class="code">position()</span> function. <br /><br />
-            <span class="code">//div[@type="poem"][position() &lt; 10]</span>
-            <br /><br /> This retrieves the first 10 <span class="code">&lt;div
-               type="poem"&gt;</span> elements in an XML collection of poems chunked in divs. The
+            element? Here’s where we can use the <code>position()</code> function. <br /><br />
+            <code>//div[@type="poem"][position() &lt; 10]</code>
+            <br /><br /> This retrieves the first 10 <code>&lt;div
+               type="poem"&gt;</code> elements in an XML collection of poems chunked in divs. The
             predicate expressions work to filter by grabbing all the appropriate “poem” divs whose
             position is 10 or under. <b>Note that nothing goes inside the parentheses for <span
                   class="poem">position()</span>.</b> Context functions like this keep the
-            parentheses open. (Basically, <span class="code">position()</span> and <span
+            parentheses open. (Basically, <code>position()</code> and <span
                class="code">last()</span> are written differently from the mathematical functions
             like count(), where we indicate a particular thing to be counted inside the
             parentheses.) </p>
 
-         <p> Here’s another useful positional function: <span class="code">last()</span><br /><br />
-            As you might expect, <span class="code">last()</span> returns the last of a thing you’ve
+         <p> Here’s another useful positional function: <code>last()</code><br /><br />
+            As you might expect, <code>last()</code> returns the last of a thing you’ve
             designated. This is another positional function frequently used in predicates. So, where
-               <span class="code">//p[1]</span> returns the first &lt;p&gt; element in the document,
-               <span class="code">//p[last()]</span> returns the last, wherever it is, and it’s
+               <code>//p[1]</code> returns the first &lt;p&gt; element in the document,
+               <code>//p[last()]</code> returns the last, wherever it is, and it’s
             handy because we usually don’t know how many p elements (or paragraphs) there are in a
             big file! <b>Again, note that nothing goes inside the parentheses for this positional
                function.</b></p>
 
          <p>XPath has a little over 100 different functions to choose from, but in most project
             scenarios, you really only need to work with a handful, which you’ll get to know pretty
-            well. (One of our favorites is <span class="code">distinct-values()</span>, which we’ll
+            well. (One of our favorites is <code>distinct-values()</code>, which we’ll
             show you. We use distinct-values to eliminate repetition in a list of results, so we get
             only the distinctly <b>different</b> things, like the names of elements we’ve used, for
             example. Don’t try to memorize these, but you’ll need to look them up periodically and
@@ -472,7 +473,7 @@
             <li><a href="https://developer.mozilla.org/en-US/docs/XPath/Functions">Mozilla Developer
                   Network’s clickable list of XPath functions</a></li>
 
-            <li>Birnbaum’s <a href="https://dh.obdurodon.org/functions.xhtml">"The XPath Functions We
+            <li>Birnbaum’s <a href="http://dh.obdurodon.org/functions.xhtml">"The XPath Functions We
                   Use Most"</a></li>
 
             <li><a href="http://www.w3schools.com/xsl/xsl_functions.asp">w3schools: list of XPath
@@ -481,7 +482,7 @@
 
          </ul>
 
-         <p>Here is a <a href="https://dh.obdurodon.org/introduction-xpath.xhtml#terms">handy quick
+         <p>Here is a <a href="http://dh.obdurodon.org/introduction-xpath.xhtml#terms">handy quick
                review of terms and symbols</a>. Check out the combination of predicates and
             functions on that page in the expression with <code>string-length()</code> just above the review: See if you
             can understand it. </p>
@@ -497,7 +498,7 @@
                <dfn>value comparison</dfn> and <dfn>general comparison</dfn>. We reproduce here
             Obdurodon’s explanation of value comparison and general comparison with examples of
             each. The next sections on value comparison and general comparison are quoted from the
-            indispensable resource, <a href="https://dh.obdurodon.org/functions.xhtml">The Xpath
+            indispensable resource, <a href="http://dh.obdurodon.org/functions.xhtml">The Xpath
                functions we use the most</a>.</p>
          <h4>Value comparison</h4>
          <p>The value comparison operators are:</p>
@@ -614,7 +615,7 @@
             <li>Michael Kay’s book, <i>XSLT 2.0 and XPath 2.0</i>, 4th edition. (Wrox, 2008).
                Michael Kay helped write the specs for XPath, which means he helped define how this
                coding syntax works!</li>
-            <li>David Birnbaum’s <a href="https://dh.obdurodon.org/functions.xhtml"><q>The XPath
+            <li>David Birnbaum’s <a href="http://dh.obdurodon.org/functions.xhtml"><q>The XPath
                      Functions we use most</q></a>: We find ourselves consulting this site nearly
                every day for a handy listing and explanation of functions and comparison operators. </li>
             <li><a href="https://github.com/ebeshero/DHClass-Hub/wiki/XPath:-An-Intro-to-Functions"

@@ -1,0 +1,161 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+      <link rel="stylesheet" type="text/css" href="explain.css" />
+
+      <title>PHP with eXist-dB</title>
+
+   </head>
+
+
+
+   <body>
+      <!--#include virtual="top.html" -->
+      <h1><span class="banner">Introducing PHP with eXist-dB</span></h1>
+      <section>
+         <h3 id="intro">PHP, eXist, and your Website</h3>
+         <p>PHP can help mediate between a database and your website, to allow for <dfn>dynamic querying</dfn> from a form on your website to trigger a script that returns data from your database. This means that your site can update its contents as you update the data in your database, so you do not have to post the results of a query by hand every time there is a change to the data. In the context of XML databases and eXist-dB, this means you and your team and be updating the XML <q>under the hood</q> of the database without needing to regenerate the HTML to deliver to your website.</p>
+         <p>Our tutorial introduces how to work with PHP in the context of eXist-dB and an Apache HTTP web server. The PHP is written to call out to the eXist-dB to run XQuery scripts and deliver content to a designated portion of an HTML page.</p>
+<p>This Newtfire tutorial is based on <a href="http://dh.obdurodon.org/php-xquery.xhtml">one developed by David Birnbaum for Obdurodon</a> while I was implementing PHP for the <a href="http://digitalmitford.org">Digital Mitford project</a>.
+It is designed for a simpler context of supporting student projects that are written in <q>home-cooked</q> XML not in a namespace. If your XML was developed in TEI, the Obdurodon tutorial linked here is better for you to follow.</p>
+<p></p>
+      </section>
+      <section>
+         <h3 id="overview">Overview</h3>
+         <p>Our example is developed for the <a href="https://btrees.newtfire.org">the Behrend Trees project</a>, and the example is <a href="https://btrees.newtfire.org/treesScrollTable.php">this PHP page containing a dynamically generated set of search options over a series of HTML tables</a>.</p>
+         <p>The dynamic activities on this page are scripted out like this: </p>
+         <ol>
+            <li>On load of the page, PHP sends a request to the eXist-dB to populate the search menu options and the table contents.</li>
+            <li>JavaScript then handles the interaction on the page based on the loaded data.</li>
+         </ol>
+      </section>
+      <section id="PHP-talk"><h3>How PHP talks to eXist</h3>
+         <p>PHP communicates with eXist using <a href="http://exist-db.org/exist/apps/doc/devguide_rest.xml">REST calls</a> (short for Representational State Transfer designed to help mediate data exchange over the web. To make this work, we first need to install PHP on the Newtfire server (which we did on building the server), and then we need to add <strong>a configuration file</strong> in the btrees project web space to communicate with eXist-dB at its RESTful address. For security reasons, we will not post the actual configuration file here, but it would look something like this, and it would be saved as <code>config.php</code> together with your project web files on the newtfire.org server.</p>
+         <pre>
+            &lt;?php
+    define("REST_PATH", "http://fakeServerAddress.fake.org:8080/exist/rest");
+?&gt;</pre>
+    
+    <p>In the configuration file, we have defined a PHP variable to store our REST path to the eXist-dB. (If we ever need to move servers or change the database, we only have to update the config.php file to point to the new address, and the rest of the PHP, wherever we write it, will work.)</p>
+         <p>We will then call on this variable as <code>REST_PATH</code> in the PHP code we set up in the <a href="https://btrees.newtfire.org/treesScrollTable.php">treesScrollToTable PHP page</a>. The PHP file is basically written just like HTML, but contains an inset PHP script at the point in the page that you wish to populate with data from the database: </p>
+         
+         <pre>
+                  &lt;?php
+    require_once("config.php");
+    $contents = REST_PATH . "/db/btrees-queries/btreesPHP-scrollJS.xql";
+    $result = file_get_contents($contents);
+    echo $result;
+?&gt;</pre>
+         <p>This code then pulls on an script stored in the <code>/db/btrees-queries/</code> directory in our eXist-dB, and it populates the menu selection options available as well as the tables of data. Unlike other XQuery scripts that output an entire HTML file, this one is set <strong>only</strong> to output the two portions of the document we are trying to populate. We wrapped the entire output in a single <code>div</code> element as a container for the XQuery to populate. Our XQuery code looks like this: </p>
+         
+         <pre>
+            xquery version "3.1";
+declare variable $btrees := collection('/db/btrees/')/*;
+declare variable $entries := $btrees//Q{}entry;
+&lt;div&gt;
+&lt;section id="selection"&gt;
+     &lt;label for="commonChoice"&gt;Choose the common name of a tree: &lt;/label&gt;
+        &lt;input id="commonChoice" list="common-names" /&gt;
+        
+        &lt;datalist id="common-names"&gt;
+        
+        { 
+            for $e in $entries
+            let $cname := $e/Q{}cname ! data()
+            return 
+        
+            &lt;option id="c_{$e/@xml:id}" value="{$cname}"/&gt;
+        }
+        &lt;/datalist&gt;
+  &lt;label for="scientChoice"&gt;Choose the scientific name of a tree: &lt;/label&gt;
+        &lt;input id="scientChoice" list="scientific-names" /&gt;
+        
+        &lt;datalist id="scientific-names"&gt;
+        
+        { 
+            for $e in $entries
+            let $sname := $e/Q{}sname ! data()
+            return 
+        
+            &lt;option id="s_{$e/@xml:id}" value="{$sname}"/&gt;
+        }
+        &lt;/datalist&gt;
+        &lt;/section&gt;
+{
+for $e in $entries
+let $cname := $e/Q{}cname ! data() 
+let $sname := $e/Q{}sname ! normalize-space()
+let $desc := $e/Q{}desc ! normalize-space()
+let $type := $e/Q{}treeType ! normalize-space()
+let $status := $e/Q{}status ! normalize-space()
+let $origin := $e/Q{}origin ! normalize-space()
+let $height := $e/Q{}height ! normalize-space()
+let $seed := $e/Q{}seed ! normalize-space()
+let $leaf := $e/Q{}leaf ! normalize-space()
+return 
+&lt;table id="{$e/@xml:id}"&gt;
+    &lt;tr&gt;
+       &lt;th&gt;Common Name&lt;/th&gt;
+       &lt;td&gt;{$cname}&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Scientific Name&lt;/th&gt;
+        &lt;td&gt;{$sname}&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Tree Type&lt;/th&gt;
+        &lt;td&gt;{$type}&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Conservation Status&lt;/th&gt;
+        &lt;td&gt;{$status}&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Origin Location&lt;/th&gt;
+        &lt;td&gt;{$origin}&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Height&lt;/th&gt;
+        &lt;td&gt;{$height}&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Seed Type&lt;/th&gt;
+        &lt;td&gt;{$seed}&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Leaf Description&lt;/th&gt;
+        &lt;td&gt;{$leaf}&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Description&lt;/th&gt;
+        &lt;td&gt;{$desc}&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class="deco"&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;img src="leaf_breaker.png" alt="decorative leaf"/&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+}
+
+&lt;/div&gt;
+         </pre>
+         
+         <p>In the XQuery code we plant the HTML attributes (the crucial <code>@id</code> on each table for each tree entry) for the JavaScript to function as we wish. Of course, to <strong>test</strong> the JavaScript as we are working on it, we will need to experiment on a full HTML file output that we save locally. (Otherwise, we could only see the JavaScript interaction on the published newtfire.org server.) Once we have the JavaScript and CSS working, we implement the PHP as shown here.</p>
+</section>
+      <section id="variable-input">
+         <h3>PHP that takes a variable as input and sends it to eXist-dB</h3>
+         <p>In this section <strong>(under development)</strong>, we will demonstrate how to take a variable input to a form, send it to eXist-dB to run an XQuery lookup on that input. To do this safely we will need to <dfn>sanitize</dfn> the input using a special function to alter inputs that could be damaging.  </p>
+      </section>
+         
+   </body>
+
+
+
+
+</html>

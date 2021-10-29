@@ -1,6 +1,5 @@
 
-<!DOCTYPE html
-  SYSTEM "about:legacy-compat">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 
@@ -24,7 +23,7 @@
          <p>Our tutorial introduces how to work with PHP in the context of eXist-dB and an Apache HTTP web server. The PHP is written to call out to the eXist-dB to run XQuery scripts and deliver content to a designated portion of an HTML page.</p>
 <p>This Newtfire tutorial is based on <a href="http://dh.obdurodon.org/php-xquery.xhtml">one developed by David Birnbaum for Obdurodon</a> while I was implementing PHP for the <a href="http://digitalmitford.org">Digital Mitford project</a>.
 It is designed for a simpler context of supporting student projects that are written in <q>home-cooked</q> XML not in a namespace. If your XML was developed in TEI, the Obdurodon tutorial linked here is better for you to follow.</p>
-<p></p>
+          <p>PHP and XQuery code for both examples below are posted <a href="https://github.com/newtfire/digitProjectDesign-Hub">on GitHub in our digitProjectDesign-Hub</a>, filed under Class Examples >> PHP-XQuery.</p>
       </section>
       <section>
          <h3 id="overview">Overview</h3>
@@ -36,7 +35,7 @@ It is designed for a simpler context of supporting student projects that are wri
          </ol>
       </section>
       <section id="PHP-talk"><h3>How PHP talks to eXist</h3>
-         <p>PHP communicates with eXist using <a href="http://exist-db.org/exist/apps/doc/devguide_rest.xml">REST calls</a> (short for Representational State Transfer designed to help mediate data exchange over the web. To make this work, we first need to install PHP on the Newtfire server (which we did on building the server), and then we need to add <strong>a configuration file</strong> in the btrees project web space to communicate with eXist-dB at its RESTful address. For security reasons, we will not post the actual configuration file here, but it would look something like this, and it would be saved as <code>config.php</code> together with your project web files on the newtfire.org server.</p>
+         <p>PHP communicates with eXist using <a href="http://exist-db.org/exist/apps/doc/devguide_rest.xml">REST calls</a> (short for Representational State Transfer) designed to help mediate data exchange over the web. To make this work, we first need to install PHP on the Newtfire server (which we did on building the server), and then we need to add <strong>a configuration file</strong> in the btrees project web space to communicate with eXist-dB at its RESTful address. For security reasons, we will not post the actual configuration file here, but it would look something like this, and it would be saved as <code>config.php</code> together with your project web files on the newtfire.org server.</p>
          <pre>
             &lt;?php
     define("REST_PATH", "http://fakeServerAddress.fake.org:8080/exist/rest");
@@ -150,7 +149,110 @@ return
 </section>
       <section id="variable-input">
          <h3>PHP that takes a variable as input and sends it to eXist-dB</h3>
-         <p>In this section <strong>(under development)</strong>, we will demonstrate how to take a variable input to a form, send it to eXist-dB to run an XQuery lookup on that input. To do this safely we will need to <dfn>sanitize</dfn> the input using a special function to alter inputs that could be damaging.  </p>
+          <h4>Page 1: Preparing the clickable options to be displayed</h4>
+         <p>In this section we will demonstrate how to take a variable input to a form, send it to eXist-dB to run an XQuery lookup on that input. To do this safely we will need to <dfn>sanitize</dfn> the input using a special function to alter inputs that could be damaging. For this section we turn to a student project investigating the history of manufacturing Nissan cars. We set in motion a chain of events using PHP beginning with <a href="php-examples/">a launch page</a>. That page is populated with data using a PHP include method. The PHP of our launch page, <code>index.php</code>, looks like this: </p>
+         <pre>
+&lt;!DOCTYPE html&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+    &lt;head&gt;
+        &lt;title&gt;Find Cars by Year&lt;/title&gt;
+        &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;
+        &lt;link rel="stylesheet" type="text/css" href="webstyle.css"/&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;h1&gt;Choose a year below, to find out the cars manufactured in that year.&lt;/h1&gt;
+        &lt;p&gt;The list reflects what years we have currently have available in our records.&lt;/p&gt;
+        &lt;hr/&gt;
+        &lt;!--ebb: START the process by including the autoYears.php with its call to eXist-dB to output a list of years. 
+            We're saving this file as index.php so it's the root of our directory for our php-example, understood as a starting point. 
+        On newtfire, find this file published at https://newtfire.org/courses/tutorials/php-examples/
+        --&gt;
+    
+        &lt;?php include("autoGetYears.php")?&gt;
+
+    &lt;/body&gt;
+&lt;/html&gt;</pre> 
+          <p>Here we have opted to call on a new PHP <dfn>include file</dfn> called <code>autoGetYears.php</code> that contains <em>only</em> the list structure and its call to the eXist-dB to populate the list within the framework of our <code>index.php</code> file. Our <code>autoGetYears.php</code> file very simply initiates the conversation with the eXist-dB to execute the XQuery script indicated.</p>
+          
+          <pre>
+              
+&lt;ul&gt;
+&lt;?php
+    require_once("config.php");
+    $year = htmlspecialchars($_GET["year"]);
+    $contents = REST_PATH . "/db/2021-Dig400-Examples/autoPHPGetYears.xql";
+    $result = file_get_contents($contents);
+    echo $result;
+?&gt;
+&lt;/ul&gt;</pre>
+          <h4>Preparing Page 2: Delivering an input parameter with XQuery</h4>
+          <p>Now, in the eXist-dB, the <code>autoPHPGetYears.xql</code> file  outputs the distinct-values of the years in our collection and sorts them. And we structure the output to contain links that involve selecting the year and passing it to a new PHP file, <code>autoGetCars.php</code>. When the visitor clicks to select a year, that year is delivered by the hyperlink to the next PHP file as an <dfn>input parameter</dfn>. Here is the XQuery script: </p>
+    
+    <pre>
+        xquery version "3.1";
+let $autocoll := collection('/db/auto/')/*
+let $built := $autocoll//built
+let $years := $built/@when ! string() =>  distinct-values() => sort()
+for $y in $years
+return 
+&lt;li&gt;
+    &lt;a href="autoGetCars.php?year={$y}"&gt;{$y}&lt;/a&gt;
+&lt;!--ebb: Nothing else goes in the body content EXCEPT our PHP call to the XQuery that populates our list of cars. --&gt;
+&lt;/li&gt;</pre>
+
+          <p>Notice how we create an <dfn>input parameter</dfn> for the PHP with this code: <code>&lt;a href="autoGetCars.php?year={$y}"&gt;{$y}&lt;/a&gt;</code>. The PHP parameter is named <code>?year</code> and set to pick up the same year value that is the content of the link. That year value will be delivered to the next PHP file, <code>autoGetCars.php</code>, which will hand it over to the last XQuery script in our sequence, the one that looks up the cars manufactured in a given year. Here is our code for <code>autoGetCars.php</code>, which is now picking up the <dfn>input parameter</dfn> in a special way to <q>sanitize</q> its contents: </p>
+    
+    <pre>
+        &lt;!DOCTYPE html&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+    &lt;title&gt;Find Cars by Year&lt;/title&gt;
+     &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;
+    &lt;link rel="stylesheet" type="text/css" href="webstyle.css"/&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h1&gt;Your search returned these cars&lt;/h1&gt;
+&lt;hr/&gt;
+&lt;ul&gt;
+
+&lt;!--ebb: Here we will simply pull in the year parameter from our PHP conversation --&gt;
+&lt;h1&gt;Made in &lt;?php require_once("config.php"); echo htmlspecialchars($_GET["year"])?&gt;&lt;/h2&gt;
+
+&lt;!--ebb: Now, we make a PHP call to the XQuery that populates our list of cars.  --&gt;
+&lt;?php
+    require_once("config.php");
+    $year = htmlspecialchars($_GET["year"]);
+    $contents = REST_PATH . "/db/2021-Dig400-Examples/autoPHPGetCars.xql?year=$year";
+    $result = file_get_contents($contents);
+    echo $result;
+?&gt;
+&lt;/ul&gt;
+&lt;!--ebb: Here we'll let visitors choose a new year if they wish. --&gt;
+ &lt;h1&gt;Choose a year below, to find out the cars manufactured in that year.&lt;/h1&gt;
+        &lt;p&gt;The list reflects what years we have currently have available in our records.&lt;/p&gt;
+&lt;!--ebb: Now we just set a PHP include to pull in the original autoGetYears.php inside this file. --&gt;
+&lt;?php include("autoGetYears.php");?&gt; 
+
+&lt;/body&gt;
+&lt;/html&gt; 
+    </pre>
+
+          <p>Notice this code: <code>$year = htmlspecialchars($_GET["year"]);</code>. With the <a href="https://www.php.net/manual/en/function.htmlspecialchars.php">PHP htmlspecialchars() function</a> we <q>sanitize</q> the input parameter, <code>$year</code>, removing from it any special characters, angle brackets that are incompatible with our documents and replacing them with their corresponding escape characters. In a higher-security screening process, we would set a more agressive filter on the user input tto trap any problematic entries. These filters can be set on the client-side with JavaScript and HTML form validation, or the server-side: <a href="https://www.packetlabs.net/input-validation/">read more about them</a>.</p>
+          <p>In the PHP file above, we have set the stage for the output of the list of cars manufactured in a given year. We also used <code>&lt;?php include();?&gt;</code> on the same output page to output all the years again, making it possible vor the visitor to choose a new year to continue the lookup and return of data from our eXist-dB. In eXist-dB the XQuery script that looks up the car information has to be coded to accept our <dfn>input parameter</dfn> and use it to filter the results it provides. The XQuery code that accepts the <dfn>input parameter</dfn> looks like this:</p>
+          <pre>
+xquery version "3.1";
+declare variable $year := request:get-parameter('year', '1968');
+let $autocoll := collection('/db/auto/')/*
+let $built := $autocoll//built
+let $names:= $autocoll[.//built/@when ! string() = $year]//name
+for $n in $names 
+      return
+        &lt;li&gt;{$n}&lt;/li&gt;</pre>
+          
+  <p>In our XQuery we defined a <dfn>global variable</dfn>, <code>$year</code> to be the input <q>year</q> parameter delivered by the PHP. We also set a dummy default value from our data, and that default value is what will be tested and returned when we eval or run our XQuery in eXide.</p>  
+          <h4>Conclusion</h4>
+       <p>For the conversation to between our web server and eXist-dB to work, we require a proper config.php file  and any file with PHP script in it must be named with a <code>.php</code> file extension and saved in the web server. In eXist-dB, we need to make sure that the code we are generating fits into the structure of the PHP file so that the HTML portion of it will be well-formed. We can style a PHP file with CSS and apply JavaScript to it just as we do an HTML file. Working PHP can simplify the XQuery scripts we need to write, since XQuery will not need to output an entire HTML document, but can rather be designed to fill out the inner contents of a site.</p>   
+          
       </section>
          
    </body>

@@ -34,10 +34,14 @@
             <ol>
                <li>Let’s start by exploring the <code>sd</code> elements. These contain the stage directions.
                   <ol>
-                     <li>What XPath expression returns all the stage directions that contain the word "Russian"? How many are there?</li>
-                     <li>Some of the stage directions contain words emphasized in block caps. Write an XPath expression using the <code>matches()</code> function to locate the stage directions that hold a regular expression pattern of <em>three or more</em> capital letters in a row.</li>
-                     <li>There is usually a pretty important stage direction after a scene change. Every scene change comes with a <code>Heading</code> element. How can you reliably find the first stage direction immediately following that Heading element? (Hint: our solution uses the <code>following-sibling::</code> axis and a position predicate to indicate the first in a sequence.) </li>
-                     <li>Of these these stage directions that come immediately following <code>Heading</code> elements, how can you find out which ones contain reference to the character "Q"? (Hint: add a predicate).</li>
+                     <li>Write an XPath to return a count of all the <code>sd</code> elements in the document.</li>
+                     <li>What XPath expression returns all the stage directions that contain the word (or partial word) "Russian"? How many are there?</li>
+                     
+                     <li>There is usually a pretty important stage direction after a scene change. Each scene is contained in a <code>Scene</code> element, and in each Scene the first element child is a <code>Heading</code> element. How can you reliably find <em>the first stage direction immediately following that Heading element</em>? (Hints: Take this in stages: First look for all of the <code>Heading</code> elements. Notice how the first <code>sd</code> element is positioned in relation to a <code>Heading</code> element: they are children of the same parent. Our solution uses the <code>following-sibling::</code> axis and a numerical position predicate to indicate <dfn>the first in a sequence</dfn>.) </li>
+                     <li>Of these these stage directions that come immediately following <code>Heading</code> elements, we are interested in the ones that feature computers in the scene. How can you find out which ones contain the string "computer"? (Hint: add a predicate).</li>
+                     <li>Some unusual scenes in the <i>Goldeneye</i> script contain no stage directions at all. Write an XPath expression to isolate any <code>Scene</code> elements without <code>sd</code> elements inside. How many of these scenes are there? (Hint: use a predicate with the <code>not()</code> function.)</li>
+                     
+                    <!-- <li>REGEX: Some of the stage directions contain words emphasized in block caps. Write an XPath expression using the <code>matches()</code> function to locate the stage directions that hold a regular expression pattern of <em>three or more</em> capital letters in a row.</li>-->
     
                   </ol>
                
@@ -45,22 +49,25 @@
                
                
                
-               <li>This set of questions explores what you can find out with the XPath <code>string-length()</code> function, which indicates the number of characters in the XML node that you visit.
+               <li>This set of questions explores what you can find out with the XPath <code>string()</code> function, which pulls text strings out of XML nodes, and the <code>string-length()</code> function, which measures the number of text characters in the XML node that you visit.
            <ol>
-              <li>Write an XPath expression that returns the <code>string-length()</code> of all the stage directions coded in <code>sd</code> elements.</li>
-              <li>Now, send those results to the <code>max()</code> function to find out the longest length of a stage direction in the <i>Goldeneye</i> script.</li>  
-              <li>The <code>string-length()</code> and <code>max()</code> functions took us off the XML tree to yield calculated results. How can we write XPath to return the XML element <code>sd</code> that has the maximum <code>string-length()</code>? Hint: Try searching for <code>sp</code> elements with a predicate that checks to see if the <code>string-length()</code> <em>is equal to</em> the maximum string-length you found in the previous step.</li>
-              <li>Carefully rewrite your previous expressions to return speech elements this time. What XPath expression returns the <em>shortest speech</em> in the screenplay, and what is said in that speech?</li>     
+              <li>This time, let’s work with the speeches in the screenplay, coded in <code>sp</code> elements. Write an XPath to locate all of the speeches (and notice how they are coded with a <code>spk</code> element inside). Now, use the simple map <code>!</code> operator to apply the <code>string()</code> function to each <code>sp</code> element one by one. How is this return with <code>string()</code> different from just returning the <code>sp</code> elements? (Respond with your XPath expression, and a brief explanation of what you are seeing in the return window: How did the <code>string()</code> function change your results?)</li>
+        
+        <li>Change the previous XPath expression to remove the <code>string()</code> function, and instead, step to the <code>text()</code> node child of <code>sp</code>. How does this change the results in the return window? (Note: <code>text()</code> is a node in the XML tree, so this is not a function, but a path step from parent to child. Tecnically, <code>text()</code> is a child of the parent element.) </li>
+        <li>Now that we have isolated the speeches in the screenplay, write an XPath expression that returns their <code>string-length()</code>. What does this return?</li>
+              <li>Send those results to the <code>max()</code> function to find out the longest length of a stage direction in the <i>Goldeneye</i> script.</li>  
+              <li>The <code>string-length()</code> and <code>max()</code> functions took us off the XML tree to yield calculated results. How can we write XPath to return the XML element <code>sp</code> that has the maximum <code>string-length()</code>? Hint: Try searching for <code>sp</code> elements with a predicate that checks to see if the <code>string-length()</code> <em>is equal to</em> the maximum string-length you found in the previous step.</li>
+           
            </ol>    
                </li>
-               <li>
+               <li>Now we will turn our attention to the <code>spk</code> elements, to return information about the speakers.
                   <ol>
-                     <li>Notice how <code>spk</code> elements are nested as children inside the <code>sp</code> elements. Write an XPath expression to return all the speakers (<code>spk</code>) who deliver speeches that contain the word "Iraq". </li>
-                     <li>All the <code>spk</code> elements are entered in block caps. Use the XPath <code>lower-case()</code> function to return all the spk elements lower-cased instead and record your expression.</li>
+                     <li>Notice how <code>spk</code> elements are nested as children inside the <code>sp</code> elements. Write an XPath expression to return all the <strong>speakers</strong> who deliver speeches that contain the word "Iraq". (Hint: Try breaking this down: first return all of the speeches that contain "Iraq" and then take a step to return the <code>spk</code> element. </li>
+                     <li>All the <code>spk</code> elements are entered in block caps. Use the XPath <code>lower-case()</code> function to return all the spk elements lower-cased instead and record your expression. Hint: For this special function, you will need to refer to the self:: node using the dot like this: <code>lower-case(.)</code></li>
                      
                      <li>We don’t really want to make the speakers names all lower-case. We just want to lower-case the letters after the first one, to change BOND to Bond. We can do that kind of <q>string-surgery</q> in XPath by working with substrings. <a href="https://developer.mozilla.org/en-US/docs/Web/XPath/Functions/substring">Consult this page to learn about the XPath <code>substring()</code> function and see how to write it out</a>. Now, see if you can apply the <code>substring()</code> function to isolate the 2nd letter onward in the <code>spk</code> elements. Then, <code>lower-case()</code> that substring!</li> 
                      
-                     <li>Now, if you could apply the  <code>substring()</code> to isolate letters 2 to the end, you should be able to change it to return only the very first letter. Try it and record your expression.</li>
+                     <li>Now, if you could apply the  <code>substring()</code> to isolate letters 2 to the end, you should be able to change it to return only the very first letter. (This time, we do <strong>not</strong> want to apply the lower-case function, because we want to preserve the upper case of the first letter.) Try it and record your expression.</li>
                      
                      <li>One last challenge. If we can isolate part of the speakers' names to lower-case the 2nd letter to the end, we should be able to connect the first (capital) letter to the rest of the lower-cased letters. For this we want to use the XPath <code>concat()</code> function, and there is a convenient shorthand for it in XPath 3.1 which sets two vertical bars <code>||</code> between the expressions you want to connect. However, we need to be careful because concatenation requires joining <em>exactly one</em> thing to <em>exactly one</em> other thing. (XPath can't figure out on its own how to concat (or tie together) the whole sequence of substrings of the first letter to the whole sequence of the substrings of the rest.) To help XPath to work one at a time over sequences of <code>spk</code> substrings, look up the <code>for $i in (sequence) return ...</code> XPath sequence. (This is a <dfn>for-loop</dfn> in XPath, and <code>$i</code> is known as a range variable that isolates each member of the series, one by one.) With the for-loop, you can go one step at a time through the series of <code>//spk</code> nodes and return a concatenation of the substring functions you figured out, using <code>$i</code> as the first argument of your substring functions. See if you can work out how to write this XPath.</li>
                      

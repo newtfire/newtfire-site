@@ -35,10 +35,10 @@
       <h3>Structuring the Code</h3>
       <p>To help get you started, here is how we are organizing our code. We will start by defining a series of global variables that pull year values from the Banksy collection, converting those years to integers, and make some calculations. We declare a global variable to hold an SVG file, and then we begin writing SVG. The structure is something like this: </p>
       <pre>
-  declare variable $banksyColl := collection('/db/Assignments/banksyForSVG/');
+  <code>declare variable $banksyColl := collection('/db/Assignments/banksyForSVG/');</code>
  (: declare more global variables to pull data from the Banks collection. :)
-  declare variable $timelineSpacer := 100;
- declare variable $ThisFileContent := 
+  <code>declare variable $timelineSpacer := 100;</code>
+ <code>declare variable $ThisFileContent := </code>
 &lt;svg&gt;
    &lt;g&gt;
       &lt;line x1="??" y1="??" x2="??" y2="??" style="??;??;"/&gt;  
@@ -48,7 +48,7 @@
          }
       
    &lt;/g&gt;
-&lt;/svg&gt;
+&lt;/svg&gt; <code>;</code>
       </pre>
       <p>Notice that unlike FLWOR statements, global variables are always followed by a semicolon <code>;</code>.</p>
       <h3>Plotting the timeline</h3>
@@ -71,7 +71,7 @@
          &lt;!--ebb: FLWOR statements will go here, inside a pair of curly braces--&gt;
          }      
    &lt;/g&gt; 
-&lt;/svg&gt;      
+&lt;/svg&gt; ;    
       </pre>
       <p>You have lots of options for scaling here, and we encourage you to experiment with various ways to shrink, expand, rotate, or skew your timeline. Here are some excellent resources on the viewbox and transform and scaling properties in SVG:</p>
       <ul>

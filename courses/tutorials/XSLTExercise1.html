@@ -17,11 +17,13 @@
       		
       			
       <h1><span class="banner">XSLT Exercise 1</span></h1>
-      			
-      			
-      			
-      			
-      <p>Our very first XSLT assignment is an Identity Transformation, a kind of transformation we have to do frequently in our projects when we need to make specific changes to our encoding. We want to make some small changes in our Georg Forster file to make better choices of TEI elements for some of our tags.</p>
+	
+      <p>Our very first XSLT assignment is an <dfn>Identity Transformation</dfn>, a kind of transformation we have to do frequently in our projects when we need to make specific changes to our encoding. We will work with a file originally prepared by a Fall 2020 DIGIT 110 project team working with a collection of poems by Langston Hughes, <i>Montage of a Dream Deferred</i>. We will write XSLT to make some changes to the way this document is coded.</p>
+      
+      <h2>Source files</h2>
+      <p>Here are two files to get us started: </p>
+      
+      
       <p>To begin, download the Georg Forster file from here: <a href="ForsterGeorgComplete.xml">ForsterGeorgComplete.xml</a> and open it in &lt;oXygen&gt;. We don’t want to change much about this file, but we do want to alter its tagging just a little, and that is a good occasion to write an Identity Transformation XSLT, converting our XML to XML that is meant to be (for the most part) <em>identical</em> to the original.</p>
       <p>Here are two changes we want to make to our XML file:</p> 
       <ul><li>Looking through the file in the Outline view, we notice that our <span class="code">&lt;head&gt;</span> elements inside each <span class="code">&lt;div type="chapter"&gt;</span> are holding <span class="code">&lt;l&gt;</span> elements, which we originally applied to preserve line breaks in the original document. But we really should not be using the <span class="code">&lt;l&gt;</span> element, because in TEI that element is reserved for a line of poetry! We should change our tagging, and we think we should instead <em>end</em> each line with the self-closing <span class="code">&lt;lb/&gt;</span> element used to record a (non-poetry) line-break in TEI.</li>

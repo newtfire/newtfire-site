@@ -1,0 +1,64 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   
+   	
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="stylesheet" type="text/css" href="explain.css" />
+      <title>XSLT Exercise 1</title>
+   </head>
+   
+   
+   
+   <body>
+      <!--#include virtual="top.html" -->
+      		
+      			
+      <h1><span class="banner">XSLT Exercise 1</span></h1>
+	
+      <p>Our very first XSLT assignment is an <dfn>Identity Transformation</dfn>, a kind of transformation we have to do frequently in our projects when we need to make specific changes to our encoding. We will work with a file originally prepared by a Fall 2020 DIGIT 110 project team working with a collection of poems by Langston Hughes, <i>Montage of a Dream Deferred</i>. We will write XSLT to make some changes to the way this document is coded.</p>
+      
+      <h2>Source files</h2>
+      <p>Download these files to work with for this assignment. (You may also pull them in from our class GitHub repo.) Save them with your homework files:</p>
+      <ol>
+         <li><a href="montage/montageDreamDeferred.xml">montageDreamDeferred.xml</a></li>
+         <li><a href="montage/IDTransform-starter.xsl">IDTransform-starter.xsl</a></li>
+      </ol>
+      
+    <p>Open the files in oXygen, and switch to the XSLT debugger view (as shown in class) so you can see the XML file on the left and the XSLT file in the middle. The output you create with XSLT will be shown on the right.</p>
+      
+ <h2>Writing an Identity Transformation</h2>
+      <p>An <dfn>identity transformation</dfn> in XSLT is designed to make minor changes to a document but preserve most of it intact. There is a special command at the top of our starter XSLT file to make it so, if we don’t write any rules at all, we will simply copy each node, step by step, from parent to child, through the source XML tree. n an identity transformation, we only need to write rules that make changes to particular nodes we want to change on the XML tree.</p>     
+      <p>We are going to use a clear and simple command for this identity transformation in version XSLT 3.0, so that is why we have set <code>version="3.0"</code> in our stylesheet template. (In general, XSLT 3.0 and XPath 3.1 are better to work with than the earlier 2.0 versions, and you will want to set these by default in your oXygen XML Editor.) Our identity transformation command (in your starter XSLT) sets a <dfn>mode</dfn>, or a way of handling elements when we don't write any rules in the XSLT to match them: </p> 
+      <pre>
+         &lt;xsl:mode on-no-match="shallow-copy"/&gt;</pre>
+      
+      <p> This XSLT mode <code>on-no-match="shallow-copy"</code> basically says, if I do not write a template rule to <em>match</em> an element, attribute, or comment node, really of any part of the document that I do not mention in a template match rule, XSLT should simply make a copy of that element and output it. Test this by running the XSLT (as shown in class and in the <a href="explainXSLT.html">Introduction to XSLT tutorial</a>). Look at your output: it will look exactly <em>identical</em> to the current XML document. Obviously we do not need to do this unless we want to make changes with template match rules.</p>
+      
+     <h2>Writing XSLT Template Rules to Change the Nodes</h2>
+      <p>We write XSLT template rules to make changes to nodes in our source document, and output them in a new way, in a new document. Your task in this assignment is to remove and change some elements, and add a new attribute. To do these things, you will need to: </p>
+           
+       <ul>
+          <li><em>Read</em> the tasks below carefully, and <em>study the XML document</em> to make sure you understand what elements you are working with and how you will change them.</li>
+          <li><em>Review</em> some <a href="explainXSLT.html#templates">examples of XSLT template rules from our XSLT tutorial</a>.</li>
+      </ul>
+      
+    <p>You will write <code>xsl:template</code> rules that <code>@match</code> on nodes in the source document and output their contents in a new way. Here are your tasks:</p> 
+      
+      <ol>
+         <li>Write a template rule to match on the <code>&lt;poemTitle&gt;</code> elements and change them to <code>&lt;title&gt;</code> elements. Make sure you preserve their contents by running <code>&lt;xsl:apply-templates/&gt;</code> inside your template rule.</li>
+         <li>Look at how each poem is coded, with a <code>&lt;body&gt;</code> wrapping around the its contents. Try to writea template rule that matches on the body element and <em>simply removes it, while still outputting its children and descendants</em>.</li>
+         <li>The next tasks involve changing some attributes, working with <dfn>Attribute Value Templates</dfn> (or AVTs). An AVT offers a special way to extract or calculate information from our input XML to output inside an attribute value. You need to look at some examples of AVTs in order to write one yourself, so study the examples in Obdurodon’s <a href="http://dh.obdurodon.org/avt.xhtml">Attribute Value Templates (AVT) tutorial</a>. </li>
+         <li>Now that you have looked at some examples of AVTs, try writing a template rule to change the <code>&lt;line&gt;</code> into self-closing elements that still hold the line number value in an attribute, like this: <code>&lt;lb num="2"/&gt;</code>. Make it so the new <code>lb</code> element sits at the start of each line, and use an AVT to output the value of the <code>@n</code> attribute in a new <code>@num</code> attribute.</li>
+         <li>Each <code>&lt;poem&gt;</code> should have a distinct identifier, usually called an <code>@xml:id</code> attribute.
+            Write an attribute value template to add an <code>@xml:id</code> attribute to each poem that includes a string of text, <code>"p-"</code> followed by its count in the sequence of poem elements, which you will calculate with XPath. (See examples in the Obdurodon AVT tutorial: You can calculate this with XPath by counting the preceding poem elements in the document and adding 1.)</li>
+         <li>You will be looking at your results in the Output window as you write and test your template rules each time you press the blue <q>Run-to-End</q> button. Eye-balling those results is not really enough because the Output window does not check for well-formedness or validation against a schema. <strong>Be sure to save those results</strong>, either by setting an output location in the appropriate place in the selection boxes, or by right-clicking on the output window and selecting <q>Save as</q>. <em>Always, always</em> open the saved output file in &lt;oXygen/&gt; and check to make sure that it checks out as valid and well-formed. Your new output should return a green square.</li>
+      </ol>
+     
+      <p>When you are finished, save your XSLT file and your XML output, following our usual <a href="explainFileNames.html">homework file naming conventions</a>, and upload these to the appropriate place in Canvas.</p>					
+    
+   </body>
+</html>

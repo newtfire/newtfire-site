@@ -94,12 +94,12 @@
          				opening and root element. We will usually need to alter this a little: 
       </p>
       			
-      <div class="code"> &lt;?xml version="1.0" encoding="UTF-8"?&gt;<br /> &lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"<br />
+      <pre> &lt;?xml version="1.0" encoding="UTF-8"?&gt;<br /> &lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"<br />
          				<span class="indent">xmlns:xs="http://www.w3.org/2001/XMLSchema"</span><br />
          				<span class="indent">exclude-result-prefixes="xs"</span><br />
          				<span class="indent">version="2.0"&gt;</span><br />
          				<br /> &lt;/xsl:stylesheet&gt; 
-      </div>
+      </pre>
       			
       <p>The part of this we need to alter are the <code>@xmlns</code>
          				attributes, usually to add something more. These are the <strong>namespace</strong>
@@ -118,7 +118,7 @@
          				Here is our series of declarations that we would use <strong>to read from an input TEI XML document and output HTML 5</strong>:
       </p>
       			
-      <div class="code"> &lt;?xml version="1.0" encoding="UTF-8"?&gt;<br /> &lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"<br />
+      <pre> &lt;?xml version="1.0" encoding="UTF-8"?&gt;<br /> &lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"<br />
          				<span class="indent"><code>xpath-default-namespace="http://www.tei-c.org/ns/1.0"</code></span><br />
          				<span class="indent">xmlns:xs="http://www.w3.org/2001/XMLSchema"</span><br />
          				<span class="indent">xmlns:math="http://www.w3.org/2005/xpath-functions/math"</span><br />
@@ -126,7 +126,7 @@
          				<span class="indent"><code>xmlns="http://www.w3.org/1999/xhtml"</code></span><br />
          				<span class="indent">version="3.0"&gt;</span><br />
          				<br /> &lt;/xsl:stylesheet&gt; 
-      </div>
+      </pre>
       			
       <p>Of course we don’t bother to memorize this, and typically copy and paste the
          				namespace values from one file to the next (or by consulting pages like this
@@ -138,27 +138,25 @@
       <p>We need to write another “top-level” statement (an immediate child of
          				the root element) that indicates the kind of output the XSLT file is generating.
          				(This is necessary to output a valid HTML 5 document written in XML syntax.) The
-         					<code>&lt;xsl:output/&gt;</code> element is self-closing, and its
-         				first attribute, <code>@method</code> needs to designate one of the
-         				following options as its value: "xml" (which is the default), "xhtml", "html",
-         and
-         				"text".</p><p>We set "xhtml" here when outputting HTML 5 to avoid validation errors in
-         our output. There are other attributes to place
-         				on the output statement, which we’ll explain by walking through this
-         				example:
-      </p>
+         					<code>&lt;xsl:output/&gt;</code> element is self-closing, and it contains 
+         several attributes that control the various kinds of output. For generating valid HTML 5 in XHTML syntax, 
+         we apply the following attributes and values: </p>
       			
-      <pre> &lt;xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" 
-         omit-xml-declaration="yes"/&gt;</pre>
+      <pre> &lt;xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
+              include-content-type="no" indent="yes"/&gt;</pre>
       			
-      <p>The method is set to xhtml to control the xml syntax of the output document (as HTML in XML form). We set <code>@encoding</code> to utf-8,
-         				because it’s the <a href="http://en.wikipedia.org/wiki/UTF-8">universal
-            					Unicode character set</a>, the most widely compatible character set for use on
-         				the World Wide Web. The <code>@doctype-system</code>, must be set to generate an HTML 5 doctype declaration in your output.
-         Lastly we set <code>@omit-xml-declaration</code> to "yes" to suppress the xml line at the top of the output HTML <span class="smaller">(The precise setting of the @doctype-system attribute is, as of February
-            2016, the easiest way in XSLT to generate the current doctype statement for HTML 5,
-            and the “about:legacy-compat” part of it is actually for compatibility with software
-            that outputs HTML rather than compatibility with browsers.)</span>.</p>
+      <p>Here is a brief explanation of each attribute setting: </p>
+      <ul>
+         <li><code>@method</code> indicates the filetype of your output and the values are typically one of the following: "xml", "html", "xhtml", and "text". 
+            We use "xhtml" to indicate that we want an HTML 5 file in XML syntax with proper start and end tags, consistent with XML.</li>
+         <li><code>html-version="5"</code>: This indicates that we are using the current standard version of HTML, rather than an earlier version.</li>
+         <li><code>omit-xml-declaration="yes"</code>: We say "yes" here to suppress the xml line at the top of the output HTML.</li>
+         <li><code>include-content-type="no"</code>: If this were set to "yes" it would output a <code>meta</code> that we would only need if we were not writing in XHTML syntax.
+            So we supress that element with this command.</li>
+         <li><code>@indent</code>: We usually set this to "yes" in order to pretty-print the output. But since this does add spaces and hard returns, if we ever don't want this feature we can set this attribute to "no".</li>
+         
+      </ul>
+     
       			
       <h4 id="space">White Space: Preserve or Destroy</h4>
       			
@@ -205,6 +203,15 @@
             					match="date[contains(., '1769')]"</code>. Those template rules will only match on
          				the special cases you designate as they come up, wherever they come up in the document.
       </p>
+      <h4>XPath <em>patterns</em> vs. <em>expressions</em></h4>
+      <p>We write XPath patterns to set a <dfn>context node</dfn> for a template rule in XSLT. How is this different from a literal <dfn>XPath expression?</dfn>
+      An XPath expression steps or moves from the left to the right, as in: <code>//p/persName</code>: We would read that as starting from the top of the document tree 
+         and stepping down the descendant axis to <code>&lt;p&gt;</code> elementsa and then to their <code>&lt;persName&gt;</code> children. That is not how an XPath pattern works.
+      </p>
+      <p>An XPath pattern looks like this: <code>p/persName</code>: It does not specify where to begin from the left, and it may be more helpful to read it from the right, to say, we are looking for 
+      any <code>&lt;persName&gt;</code> child elements of <code>&lt;p&gt;</code> elements. The key difference here is that XPath patterns can appear anywhere in the tree and are matched by a template rule.
+      XPath expressions travel from left to right as we move through the tree. In XSLT the <code>@match</code> attribute on the <code>&lt;xs:template&gt;</code> element is intended to contain an XPath pattern, while the 
+      <code>@select</code> attribute on <code>&lt;xsl:apply-templates&gt;</code> points to an XPath expression that steps through the tree from the context match node.</p>
       			
       <p>To write a complete template rule, you first have to <em>call</em> for a particular kind of node
          in your document (usually an element, but maybe other things), and then you have
@@ -214,12 +221,12 @@
          				so you can preserve the line breaks, you could write the following template rule:
       </p>
       			
-      <div class="code"> &lt;xsl:template match="line"&gt;<br />
+      <pre> &lt;xsl:template match="line"&gt;<br />
          				<span class="indent">&lt;p&gt;</span><br />
          				<span class="indentMore">&lt;xsl:apply-templates/&gt;</span><br />
          				<span class="indent">&lt;/p&gt;</span><br /> &lt;/xsl:template&gt;<br />
          			
-      </div>
+      </pre>
       			
       <p>Here is what happens when this rule fires: A <code>&lt;line&gt;</code>
          element drifts by this template rule and is caught by the <code>@match</code> attribute. The template takes its contents (basically <em>consumes</em> the node), and in its place it outputs an HTML <code>&lt;p&gt;</code>.
@@ -299,7 +306,7 @@
          which we can specify as needed with the <code>@select</code> attribute to direct which parts of the XML file will be consumed and processed in particular lists or positions in the output HTML document. Notice that the <code>@select</code> attribute on <code>xsl:apply-templates</code> is a <strong>literal XPath expression</strong>. In the template rule matching <code>div @type="chapter"</code> we see two ways of stepping down into a literal XPath from the current context node,
          whatever it is: In the <em>first</em> <code>xsl:apply-templates @select</code>, we step into a child node and then down another path step to the <code>&lt;l&gt;</code> (or line) element that is the child of head:
          <code>head/l</code>. In the <em>second</em> <code>xsl:apply-templates @select</code>, we reach down the <code>descendant::</code> axis <em>from the current template match</em> (or <dfn>context node</dfn>) to select a specific node to process next. We could also have written that <code>xsl:apply-templates @select</code> like this:</p>
-         <div class="code">
+         <pre>
             <code> &lt;xsl:template match="div[@type='chapter']"&gt;</code>
             &lt;li&gt;
             <code>&lt;xsl:apply-templates select="head/l"/&gt;</code>
@@ -309,7 +316,7 @@
             &lt;/ul&gt;
             &lt;/li&gt;
             <code>&lt;/xsl:template&gt;</code>
-         </div>
+         </pre>
   <p>        
      Here we used the <strong><q>dot</q> notation</strong> to indicate the current context node. This <q>dot</q> notation, <code>.</code>, is very important
      because when there is nothing indicated to the left of it our <code>//</code> descendent axis notation (or a <code>/</code> child axis notation) would otherwise be read as starting from <em>the root of the XML tree</em> and heading all the way down, rather than reading within a specific chapter and looking all the way down through its children and children ’s children <em>only within the chapter</em>.  This is because <code>xsl:apply-templates @select</code> is a <strong>literal XPath expression</strong> that <em>must be defined in terms of the current context node</em>, quite unlike what we described with the <strong><q>XPath-like</q></strong> syntax in the template’s <code>@match</code>. Notice that we only need to use the dot notation when we are designating the descendant axis with its abbreviated double-slash form from the current context node . We do not use it here to step down to the <em>immediate child</em>  or over to <em>an attribute</em> on the current context node: we can simply designate those by element name or by @attribute and no slash is necessary (so therefore no dot notation is necessary either). So that is why we wrote: <code>&lt;xsl:apply-templates select="head/l"/&gt;</code> in the first template rule above; but we wrote <code>&lt;xsl:apply-templates select="descendant::p/placeName"/&gt;</code> in the same rule, in order to step down the descendant axis from the context node. After all, we do not need to use the dot if we always <strong>specify the axis name</strong> at the start of the @select value, and we think it is best practice always to specify the axis direction here.
@@ -329,11 +336,11 @@
          you wrote the following:
       </p> 
       				
-      <div class="code">&lt;xsl:template match="p"/&gt;
+      <pre>&lt;xsl:template match="p"/&gt;
          				
          				
          				
-      </div>
+      </pre>
       			
       <p>This works to suppress the built-in rule to output text when no rules are defined,
          and effectively suppresses your paragraphs. 
@@ -347,14 +354,14 @@
       <p>Use <code>@match</code> only when we’re defining a template rule.
       </p>  
       			
-      <div class="code">	&lt;xsl:template <code>match="a-pattern-wherever-it-is-that-we-want-to-match"</code>&gt;<br />
+      <pre>	&lt;xsl:template <code>match="a-pattern-wherever-it-is-that-we-want-to-match"</code>&gt;<br />
          
          					<span class="indent" style="color:green;">&lt;!--INSIDE HERE we write code to process what we’ve matched, and we instruct XSLT what to
             do next from this point in the document.--&gt;</span><br />
          					
          					&lt;/xsl:template/&gt;<br />
          				
-      </div>
+      </pre>
       			
       <p>We use <code>@select</code> in the internal part, on one of two XSLT elements: <code>&lt;xsl:apply-templates/&gt;</code> or <code>&lt;xsl:value-of/&gt;</code>.
       </p>
@@ -362,12 +369,12 @@
       				
       				
       			
-      <div class="code">			&lt;xsl:template match="wherever-it-is-that-we-want-to-match"&gt;<br/>	
+      <pre>			&lt;xsl:template match="wherever-it-is-that-we-want-to-match"&gt;<br/>	
          					<span class="indent">&lt;newElement&gt; <span style="color:green;">&lt;!--This is the new element we want to show up in the transformed document--&gt;</span></span><br />
          					<span class="indentMore">&lt;xsl:apply-templates <code>select="something-related-by-XPath-to-this-point-we’ve-matched</code>&gt;</span><br />
          				<span class="indent">&lt;/newElement&gt;</span><br/>
          				&lt;/xsl:template&gt;
-      </div>
+      </pre>
       				
       			
       <p>We don’t have to use <code>@select</code> at all! We could simply go with <code>&lt;xsl:apply-templates/&gt;</code> if we want to duplicate ALL the contents of the thing we’ve matched in this place.
@@ -379,14 +386,14 @@
       <p><strong>Example 1: simple <code>&lt;xsl:apply-templates/&gt;</code>  (no <code>@select</code>):</strong></p>
       				
       				
-      <div class="code">
+      <pre>
          					&lt;xsl:template match="div/div//head"&gt;<br />
          					
          					<span class="indent">&lt;h1&gt; &lt;xsl:apply-templates/&gt; &lt;/h1&gt;</span><br />
          					
          					&lt;/xsl:template&gt;
          				
-      </div>
+      </pre>
       				
       				
       			
@@ -407,12 +414,12 @@
       <p><strong>Example 2: <code>&lt;xsl:apply-templates select=".//something"&gt;</code>  using <code>@select</code> (when and why we do it):</strong></p>
       						
       			
-      <div class="code">&lt;xsl:template match="placeName"&gt;<br />
+      <pre>&lt;xsl:template match="placeName"&gt;<br />
          							
          							<span class="indent">&lt;strong&gt; &lt;xsl:apply-templates select="@ref"/&gt; &lt;/strong&gt;</span><br />
          							
          							&lt;/xsl:template&gt;
-      </div>
+      </pre>
       						
       			
       <p>This rule says, first of all, make a template <code>@match</code> on <strong>any</strong> <code>placeName</code>, wherever it appears in my XML input file. When you are there, <code>&lt;xsl:apply-templates select="@ref"&gt;</code> says, go and process <strong>selectively</strong>: We don’t want the whole output here: What we want is ONLY the contents of the @ref
@@ -424,7 +431,7 @@
       <p>Think of <code>@select</code> this way:
       </p>
       			
-      <div class="code">	&lt;xsl:apply-templates select="XPath-from-this-point"&gt; </div>
+      <pre>	&lt;xsl:apply-templates select="XPath-from-this-point"&gt; </pre>
       			
       <p>Wherever our template rule has matched, the <code>apply-templates @select</code> expresses <strong>a definite XPath from that point</strong>—usually to a child element or to an attribute, or to some specific point that you
          want to process so that you <strong>don’t</strong> output the full content of the thing the template has matched on.  Use <code>@select</code> when you want to define very specific output.

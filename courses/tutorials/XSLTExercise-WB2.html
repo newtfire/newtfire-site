@@ -1,0 +1,125 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" type="text/css" href="explain.css" />
+        <title>XSLT Exercise 5</title>
+    </head>
+    
+    
+    
+    <body>
+        <!--#include virtual="top.html" -->
+        
+        
+        <h1><span class="banner">XSLT Exercise 5</span></h1>
+        <h3>The input collection on our textEncoding-Hub</h3>
+        <p>You will be working with same digitized XML collection of Warren Behrend’s papers that you worked with in the last assignment, the collection we posted on our textEncoding-Hub GitHub repository. 
+            If you need a new copy of the files, please refer to <a href="XSLTExercise-WB1.html">our instructions on the previous exercise</a> for accessing them by syncing, cloning, and copying the directory out of your local GitHub directory. 
+            You will be building on the previous exercise, and you can take your stylesheet from that assignment and modify it for this one.</p>        
+        <h3>Overview of the assignment</h3>
+        <p>For your last assignment you used the XSLT <code>@mode</code> attribute to create a table
+            of contents for the documents in the Warren Behrend collection, setting the title elements of each file in an HTML list.
+            Our output for that previous assignment is at <a href="WBLastLetters/WBColl-1.html">https://newtfire.org/courses/tutorials/WBColl-1.html</a>.</p>
+        <h3>Making in internal links from the Table of Contents</h3>
+           <p>We are going to enhance our output from the last assignment in the
+            following ways:</p>
+        <ul>
+            <li>We’re going to create links between the items in the table of contents and the
+               full text of the documents, so that you can click on a title in the table of contents and be taken immediately to the
+                corresponding full text.</li>
+            <li>We’re going to sort the table of contents and the full text entries by date.</li>
+
+        </ul>
+        <p>Our HTML output for this assignment is at <a href="WBLastLetters/WBColl-2.html">https://newtfire.org/courses/tutorials/WBColl-2.html</a>.</p>
+        <h3>The tools we need</h3>
+        <p>To create links between the first lines in the table of contents and the poems in the
+            full text section of the page below we’re going to use <dfn>attribute value
+                templates</dfn> (AVT). We have been working with these in earlier XSLT assignments, but you may want to review Obdurodon’s page on how they are written:
+            <a href="http://dh.obdurodon.org/avt.xhtml">http://dh.obdurodon.org/avt.xhtml</a>.</p>
+        <p>To sort the titles in the table of contents, and in the full-text, we’re going to use <code>&lt;xsl:sort&gt;</code>.</p>
+       
+        <h3>How HTML linking works</h3>
+        <p>The <code>&lt;li&gt;</code> items in the table of contents should include
+            <code>&lt;a&gt;</code> (<q>anchor</q>) elements, which is how HTML identifies a
+            clickable link. An anchor that is a clickable link has an <code>@href</code> attribute,
+            which points to the target to which you want to move when you click on the link. For
+            example, the table of contents might contain the following list item for one of Warren Behrend’s letters:</p>
+        
+        <pre>&lt;li&gt;<code>&lt;a href="#WtoP-Dec17"&gt;</code>Letter from Warren Behrend to Mary and Ernst Behrend, 1929-12-17<code>&lt;/a&gt;</code>&lt;/li&gt;</pre>
+       
+        
+        <p>HTML <code>&lt;a&gt;</code> elements that have <code>@href</code> attributes normally
+            appear blue and underlined in the web browser, to advertise that they are links. The
+            <dfn>target</dfn> of a link can be any element that has an <code>@id</code>
+            attribute that identifies it uniquely. (This is why you need to use a hashtag (<code>#</code>) in the <code>@href</code> on the Table of Contents that links to an <code>@id</code>, because the <code>#</code> indicates you are pointing to the unique identifier that follows.) If you click on this line in the browser, the
+            window will scroll to the element elsewhere in the document that has an <code>@id</code>
+            attribute with the value <q>WtoP-Dec17</q>. In our case, we’ve assigned that
+            <code>@id</code> attribute value to the <code>&lt;h2&gt;</code> for that document in
+            the full-text portion of our file:</p>
+        <pre>&lt;h2 id="WtoP-Dec17"&gt;Letter from Warren Behrend to Mary and Ernst Behrend, 1929-12-17&lt;/h2&gt;</pre>
+        <h3>Adding links to your output</h3>
+        <p>You should review Obdurodon’s page on <a href="http://dh.obdurodon.org/avt.xhtml">Attribute value templates
+            (AVT)</a>, and locate the <code>@xml:id</code> attributes in the source texts. You can use this special attribute on each source document 
+            to output <em>both</em> the target of an internal link, <em>and</em> the link itself. </p>
+            
+          <p>To create link targets, we applied <code>@id</code>
+            attributes to the <code>&lt;h2&gt;</code> elements that we used as titles for each
+              poem in the body of our page, e.g., <code>&lt;h2 id="WtoP-Dec17"&gt;</code> (notice, NO hashtag). Meanwhile,
+            in the table of contents at the top we created <code>&lt;a&gt;</code> elements with
+            <code>@href</code> attributes that point to these <code>@id</code> values. <em>The
+                value of the <code>@href</code> attribute <strong>must begin with a leading <q>#</q></strong>
+                character, but that <q>#</q> must not be part of the value of the <code>@id</code>
+                attribute to which it points.</em> For example,</p>
+        <pre>&lt;li&gt;<code>&lt;a href="#WtoP-Dec17"&gt;</code>Letter from Warren Behrend to Mary and Ernst Behrend, 1929-12-17<code>&lt;/a&gt;</code>&lt;/li&gt;</pre>
+        <p>means if the user clicks on the linked content in this list item, the browser will scroll to the line that reads
+            <code>&lt;h2 id="WtoP-Dec17"&gt;</code> in the main body of the page. <em>Remember:
+                the value of the <code>@href</code> attribute begins with <q>#</q>, but the value of
+                the corresponding <code>@id</code> attribute on the <code>&lt;h2&gt;</code> element
+                you want to scroll to doesn’t.</em></p>
+        <p>Armed with that information, you can take your answer to the main assignment and, using
+            AVTs, modify it to create the <code>&lt;a&gt;</code> elements with the
+            <code>@href</code> attributes and the <code>@id</code> attributes for the
+            targets.</p>
+        <h3>Sorting</h3>
+        <p>It makes sense to sort our collection of Warren Behrend’s last correspondence with his parents in order by date, to help our readers navigate chronologically. To do this we will need to apply 
+            the XSLT sort function. To learn how to sort your table of
+            contents before you output it, start by looking up <code>&lt;xsl:sort&gt;</code> at <a
+                href="https://www.w3schools.com/xml/xsl_sort.asp"
+                >https://www.w3schools.com/xml/xsl_sort.asp</a> or in Michael Kay.</p>
+        <p>So far, if we’ve
+            wanted to output, say, our table of contents in the order in which they occur in the
+            document, we’ve used a self-closing element to select them with something like
+            <code>&lt;xsl:apply-templates select="$WBColl//xml"/&gt;</code>. That the self-closing empty element tag is informationally identical to writing
+            the start and end tags separately with nothing between them, that is,
+            <code>&lt;xsl:apply-templates
+                select="$WBColl//xml&gt;&lt;/xsl:apply-templates&gt;</code>. To cause the elements being
+            processed to be sorted first, you need to use this alternative notation, with separate
+            start and end tags, because you need to put the <code>&lt;xsl:sort&gt;</code> element
+            between the start and end tags. If you use the first notation, the one with a single
+            self-closing tag, there’s no <q>between</q> in which to put the
+            <code>&lt;xsl:sort&gt;</code> element. In other words, you want something like:</p>
+        <pre>&lt;xsl:apply-templates select="$WBColl//xml"&gt;
+                     &lt;xsl:sort/&gt;
+            &lt;/xsl:apply-templates/&gt;</pre>
+        <p>As written, the preceding will sort the <code>&lt;zml&gt;</code> elements
+            alphabetically by their text value. As you’ll see at the sites mentioned above, though,
+            it’s also possible to use the <code>@select</code> attribute on
+            <code>&lt;xsl:sort&gt;</code> to sort a set of items by properties other than
+            alphabetic order of their textual content, which is what we will be doing in sorting on date information. To retrieve the date information, write the <code>xsl:sort @select</code> value as an XPath in relation to the 
+            what you hav eselected in <code>xsl:apply-templates</code> around it. Here, <code>xsl:apply-templates</code> sets the context for <em>what</em> is sorted, and the <code>xsl:sort</code> specifies with @select <em>how</em> it should be sorted.
+        </p>
+        <p>Once you have figured out how to sort the table of contents, go on and sort the documents that appear in the full-text portion of the file as well.</p>
+       <h3>Finishing touches</h3>
+        <p>You could try outputting the images: see if you can find a good place to include them with their associated letter. Constructing working references to image files may be a challenge.
+            These are applied <strong>based on the location of your output HTML file</strong>. So, if the <code>images/</code> directory is one step down in your file directories from the HTML file you are outputting, you will want to point to it like this:
+        <code>&lt;img src="images/yourPicture.jpg" alt="image from my archive"/&gt;</code>
+        </p>
+        <p>Finally, it's time to associate some CSS with this file! Write some CSS and associate a CSS stylesheet to your output (write the CSS file link into your XSLT) to make it
+            look more interesting than what you get by default in a web browser! When finished, submit your XSLT and your HTML and CSS files on Canvas.</p>
+        
+    </body>
+</html>

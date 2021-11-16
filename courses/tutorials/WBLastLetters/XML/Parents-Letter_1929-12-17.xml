@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="letters_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <meta>
+        <title xml:id="PtoW-Dec17">Letter from Mary and Ernst Behrend to Warren Behrend, <date>1929-12-17</date></title>
+        <sourceDesc location="John M. Lilley Library, Penn State Behrend Archives"/>
+        <paperOrigin>The Monticello Tidewater's Leading Hotel. Norfolk,VA.</paperOrigin>
+        <transDesc>
+            <editor>AM</editor>
+        </transDesc>
+    </meta>
+    <facsimile>
+        <graphic src="../images/1929-12-17_ParentsLetterFront.JPG" alt="front, p1"/>
+        <graphic src="../images/1929-12-17_ParentsLetterBack.JPG" alt="back, p2"/>
+    </facsimile>
+    <body>
+        <pb n="1"/>
+        <header>
+            <date>1929-12-17</date>
+            <greeting>Dear Warren,</greeting>
+        </header>
+ 
+        <p n="2"> <!--Fathers letter on the back of the page-->
+            <ln n="1"/><unclear reason="cannot read this word, just know it is 10 letters">??????????</unclear><unclear reason="unsure of this word">???</unclear> beautifully -so far!
+            <ln n="2"/>First day nice weather; <underline>very</underline> cold
+            <ln n="3"/>yesterday. You may need your <unclear reason="don't know if this is the right word">coon</unclear>
+            <ln n="4"/>coat, heavy hat <unclear reason="I believe this is what it says but not sure">or fur</unclear> cap!!
+            <ln n="5"/>Look forward to <unclear reason="unsure of these two words">??? ??????????.</unclear>
+        </p>    
+        <!-- Transcription in progress.  -->
+        <pb n="2"/>
+        <closer>
+            <ln n="6"/>Faithfully
+            <ln n="7"/>Father.
+        </closer>
+        
+    </body>
+</xml>

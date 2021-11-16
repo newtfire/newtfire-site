@@ -16,13 +16,13 @@
         <h1><span class="banner">XSLT Exercise 3: A Reading View</span></h1>
         <section id="input_text">
             <h3>The input text</h3>
-            <p>In this exercise, we work with an XML file in progress produced by Fall 2020 DIGIT 110 students working on a collection of poems titled <i>Montage of a Dream Deferred</i> by Langston Hughes. The XML code is available at
+            <p>In this exercise, we work with an XML file begun by Fall 2020 DIGIT 110 students working on a collection of poems titled <i>Montage of a Dream Deferred</i> by Langston Hughes.</p> 
+                <ul><li>The XML code is available at
                 <a href="montageCode.xml">https://newtfire.org/courses/tutorials/montageCode</a>. You
-                should right-click on this link, download the file, and open it in &lt;oXygen/&gt;.
-                (You don’t need the Relax NG schema, but if you’d like to look at it and associate
-                it with the file, it’s available at <a href="MontageofADreamDeferred.rnc">https://newtfire.org/courses/tutorials/MontageofADreamDeferred.rnc</a>). 
-                Here is <a href="montageReadingView.html">a view of some sample output for this assignment</a>, though we have not captured all the formatting features marked in the source XML. We expect you can do a better job than we did!</p>
-            
+                should right-click on this link, download the file, and open it in &lt;oXygen/&gt;.</li>
+                <li>You will notice a red box in oXygen because the file is missing its schema. You don’t need the Relax NG schema, but if you’d like to look at it and associate
+                it with the file, it’s available at <a href="MontageofADreamDeferred.rnc">https://newtfire.org/courses/tutorials/MontageofADreamDeferred.rnc</a>). </li>
+                <li>Here is <a href="montageReadingView.html">a view of some sample output for this assignment</a>, though we have not captured all the formatting features marked in the source XML. We expect you can do a better job than we did!</li></ul>
         </section>
         <section id="xslt_root">
             <h3>The usual housekeeping:</h3>
@@ -34,8 +34,7 @@
                 sure we produce valid HTML 5 in XHTML format). Here’s what we need:</p>
             <pre>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
          &lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="3.0"
-    <span style="color:purple;">xmlns="http://www.w3.org/1999/xhtml"</span>
-   <span style="color:blue;"> xpath-default-namespace="http://www.tei-c.org/ns/1.0"</span>&gt;
+    <span style="color:purple;">xmlns="http://www.w3.org/1999/xhtml"</span>&gt;
     
    <span style="color:#800000;">&lt;xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
               include-content-type="no" indent="yes"/&gt;</span>

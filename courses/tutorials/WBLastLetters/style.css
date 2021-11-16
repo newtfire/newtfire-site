@@ -1,0 +1,24 @@
+body {background-color: Linen; font-size:2em;}
+
+section.doc{width:80%; display:flex;}
+
+div.text { 
+  flex:1;
+}
+
+div.facsimile {
+ display:flex; flex-direction:column; justify-content:space-between;
+    }
+    
+
+    
+figure {flex:1;
+}
+figcaption {font-style: italic; font-size: smaller;}
+
+img {max-width:500px; width:100%}
+
+span.lineNum {font-size: smaller; color:maroon;}
+
+
+span.date {color:blue;}

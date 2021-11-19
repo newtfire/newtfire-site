@@ -1,0 +1,142 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="explain.css" />
+        <title>XSLT Test: Styling Skyrim</title>
+    </head>
+
+
+
+    <body>
+        <!--#include virtual="top.html" -->
+        <h1><span class="banner">XPath / XSLT Test: Styling Skyrim</span></h1>
+        <p>For this take-home test, you will be transforming and styling a student-coded XML file for a project on the Skyrim legends based on the video game.</p>
+        <section id="setup">
+           <h3>Files to begin with</h3>
+            <ol>   
+                <li>First, access the source XML file, however is most convenient for you via one of the following methods:
+                    <ul>
+                        <li><a href="skyrimTest.xml">Right-click on this link</a>, use <q>Save as</q> to download the file to your computer and open it in oXygen.</li>
+                        <li>Or, (if you have a stable network connection) you can <a href="skyrimTest.xml">open the file link in the web browser</a>, copy the URL for the file, and use "Open URL" to open the file directly from the web in oXygen. (You can then save the file directly in oXygen to your local computer.)</li>
+                    </ul>
+                </li>
+                <li>Open a new XSLT 3.0 file in oXygen, and set up the <code>xsl:stylesheet</code> root element and <code>xsl:output</code> line this way to output HTML 5 (as we have been doing for previous assignments): 
+                <pre>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+         &lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="3.0"
+    <span style="color:purple;">xmlns="http://www.w3.org/1999/xhtml"</span>&gt;
+    
+   <span style="color:#800000;">&lt;xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
+              include-content-type="no" indent="yes"/&gt;</span>
+    
+    &lt;/xsl:stylesheet&gt;</pre>
+                </li>
+            </ol> 
+        </section>
+        
+        <section id="tasks">
+            <p>Your tasks for this test are: </p>
+            <ol>
+                <li>Write XSLT to produce an HTML reading view of the Skyrim document, selecting the content in the <code>&lt;source&gt;</code> and the <code>&lt;body&gt;</code> elements to transform into HTML. <em>(5 points)</em></li>
+                <li>Process the <code>&lt;para&gt;</code> elements to: 
+                    <ul><li>output them as HTML <code>&lt;p&gt;</code> elements <em>(2 points)</em>, </li>
+                        <li>Add an <code>@id</code> attribute to the HTML <code>&lt;p&gt;</code>, and use an Attribute Value Template (AVT) to make its value look like this:
+                            <code>"skyrim-1"</code>,  <code>"skyrim-2"</code>, etc. Hints: Use the <code>count()</code> function, and review <a href="http://dh.obdurodon.org/avt.xhtml">Obdurodon’s tutorial on Attribute Value Templates</a> and the homework exercises in which we used them for help with this.  <em>(3 points)</em>.  
+                           
+                       </li>
+                    </ul>
+                </li>
+                <li>There are several types of in-line elements that appear in many different contexts in the source document. Your XSLT needs to process the following: 
+                    <ul>
+                        <li><code>&lt;event&gt;</code></li>
+                        <li><code>&lt;item&gt;</code></li>
+                        <li><code>&lt;char&gt;</code></li>
+                        <li><code>&lt;soCalled&gt;</code></li>
+                        <li><code>&lt;faction&gt;</code></li>
+                        <li><code>&lt;place&gt;</code></li>
+                    </ul>
+                    <p>Write XSLT to process these elements wherever they may be, and output them as HTML elements: You can use some
+                        of the basic HTML in-line elements, like <code>&lt;em&gt;</code> for emphasis or
+                        <code>&lt;strong&gt;</code> for strong emphasis, but you’ll also want to use CSS
+                        to set some elements to different colors or background colors or borders or fonts or
+                        font sizes or font styles (e.g., italic) or font weights (e.g., bold) or text
+                        decoration (e.g., underlining) or text transformation (e.g., convert to all upper
+                        case) … well … anything else. Use <code>&lt;span&gt;</code> elements using <code>@class</code> attributes for styling. <em>(10 points)</em></p>
+                    <h4>Reminder for processing richly mixed content, as seen in XSLT Exercises 3 and 4</h4>
+                    <p>When you write a template rule for mixed content (elements floating in text) and you want to simply process all the contents without remixing them, 
+                        you can just use  <code>&lt;xsl:apply-templates/&gt;</code>
+                        without the <code>@select</code> attribute. This simply means, process everything inside this node, and <q>apply templates to whatever you
+                            find.</q></p>
+                  </li>
+                <li>Instead of setting all <code>&lt;faction&gt;</code> elements to the same
+                    HTML <code>@class</code>, please create separate template rules to
+                    match on factions according to their attribute values. For example,
+                    <code>&lt;xsl:template match="faction[@ref='daedra']"&gt;</code>
+                    is a normal XPath expression to match <code>&lt;faction&gt;</code>
+                    elements only if they have a <code>@ref</code> attribute with the value
+                    <q>daedra</q>. <em>(3 points)</em>
+                    <ul><li><strong>Bonus</strong>: For extra credit <em>(up to 3 points)</em>, exercise your document analysis and XPath skills: Note that in the
+                    header some factions are described (with an <code>@align</code>
+                    attribute) as <q>evil</q>, <q>good</q>, or <q>neutral</q>. You can write
+                    an Attribute Value Template (AVT) that will <dfn>dereference</dfn> the <code>@ref</code>
+                    attribute on, say, <code>&lt;faction
+                        ref="daedra"&gt;assassins&lt;/faction&gt;</code>, look up
+                    whether this is an "evil", "good", or "neutral" faction, and set the
+                    <code>@class</code> value accordingly. Make all "good"
+                    factions one color and all "evil" factions a different color, letting
+                        XPath look up the moral alignment of a faction for you. <strong>Note:
+                        </strong> This will require the XSLT <code>current()</code> function, to
+                        read a specific value from the source node at the time it is being
+                        processed. <a href="https://www.w3schools.com/xml/func_current.asp">Learn more about <code>current()</code> here</a>.</li></ul></li>
+                
+                <li>Prepare a separate CSS stylesheet file, saved with a <code>.css</code> file extension, and specify how you want to style your <code>&lt;span&gt;</code>
+                    elements. <em>(5 points)</em></li>
+                <li>Link the CSS stylesheet to the HTML you are outputting by creating
+                    the appropriate <code>&lt;link&gt;</code> element in your output HTML (you
+                    can remind yourself how to do that here <a
+                        href="explainCSS.html#link_CSS">in this section
+                        of our Intro to CSS</a>). Set that <code>&lt;link&gt;</code>
+                    element in your XSLT so it is always output every time you update your
+                    code. <em>(2 points)</em></li>
+                
+                
+            </ol>
+            <h4>Resources to help with constructing the HTML and CSS</h4>
+            <ul>
+                <li>Refer to any resources on <a href="https://newtfire.org/courses/">newtfire</a>, your homework files and any of the example and solution files to XSLT homeworks posted in <a href="https://github.com/newtfire/textEncoding-Hub">our class TextEncoding-Hub</a>. You can also look up information in the motherlode of lore on XPath and XSLT: <a href="https://ebookcentral.proquest.com/lib/pensu/reader.action?docID=514366">Michael Kay's XPath/XSLT Reference book</a>.</li>
+                <li>Review our tutorial on <a
+                    href="explainHTMLSpanClass.html">using <code>&lt;span&gt;</code> and
+                    <code>@class</code> to style your HTML</a> page.</li>
+                <li>Work with the <a href="https://www.w3schools.com/css/">w3shools CSS tutorial</a> to experiment with the CSS. We suggest following the links on
+                    the left under <q>CSS styling</q> for styling backgrounds, text, and fonts, as
+                    well as the link for borders under <q>CSS box model</q>.</li>
+            </ul>
+        </section>
+        
+      
+      
+       
+        <section id="finishingUp">
+            <h3>Completing the test</h3>
+            <p>You should make sure you have completed the following before submitting your test:</p>
+            <ul>
+                <li>An XSLT stylesheet that transforms the <code>&lt;source&gt;</code> and <code>&lt;body&gt;</code> elements and their
+                    contents into HTML.</li>
+                <li>The resulting HTML should style the six types of in-line elements listed above.
+                    At least some of those styles should be set using <code>&lt;span&gt;</code>
+                    elements with the <code>@class</code> attribute.</li>
+                <li>You need to create a CSS file that specifies how to
+                    style the output HTML, and the output HTML needs to have a special <code>&lt;link&gt;</code> element to associate the CSS file. 
+                    Set up that <code>&lt;link&gt;</code>
+                    element in your XSLT so it is always output when you produce the HTML.</li>
+                <li><strong>Check your work!</strong> Open your HTML file in &lt;oXygen/&gt; to be sure it is valid
+                    and well-formed, and if it is not, modify your XSLT accordingly.</li>
+            </ul>
+            <p>Please upload your XSLT, HTML, and CSS files to Canvas.</p>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,52 @@
+# skyrim.rnc
+# Original verison by Jean Romanowski 2012-01-20.
+# Modified for use as an XSLT exercise by ebb,
+start = skyrim
+skyrim = element skyrim { castList, source, body }
+# 
+# Cast list header elements
+#
+castList = element castList { charhead+, factionhead+ }
+charhead = element char { id, loyalty, align }
+factionhead = element faction { id, align }
+id = attribute id { xsd:ID }
+loyalty = attribute loyalty { xsd:NMTOKENS }
+align = attribute align { "good" | "evil" | "neutral" }
+# 
+# Cover and body in-line elements
+# Some point to values of items in the cast list
+#
+char = element char { ref?, text }
+faction = element faction { ref, text }
+soCalled = element soCalled {ref, mixed { (faction | place)* }
+    }
+ref = attribute ref { xsd:IDREFS }
+# 
+# Source structure
+#
+source = element source { title, authorInfo, subtitle? }
+title = element title { text }
+authorInfo =
+    element authorInfo {
+        mixed { author }
+    }
+author = element author { text }
+subtitle =
+    element subtitle {
+        mixed { (char | event)? }
+    }
+# 
+# Body structure
+#
+body = element body { para+ }
+para =
+    element para {
+        mixed { (char | faction | place | soCalled | event | item)* }
+    }
+place = element place { type?, text }
+type = attribute type { "city" }
+event =
+    element event {
+        mixed { (char | faction | place | soCalled | event | item)* }
+    }
+item = element item { text }

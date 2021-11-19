@@ -6,7 +6,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <link rel="stylesheet" type="text/css" href="explain.css" />
-        <title>XSLT Exercise 4: Styling Skyrim</title>
+        <title>XSLT Test: Styling Skyrim</title>
     </head>
 
 
@@ -32,15 +32,14 @@
                 attribute pointing to the HTML namespace. We also add our usual
                     <code>&lt;xsl:output&gt;</code> line that we use when producing HTML (for making
                 sure we produce valid HTML 5 in XHTML format). Here’s what we need:</p>
-            <pre>
-          &lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="xs math"
-    <span style="color:blue;">xmlns="http://www.w3.org/1999/xhtml" version="3.0"</span>&gt;
-    <span style="color:purple;">&lt;xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
-        omit-xml-declaration="yes"/&gt;</span>
-            
-        </pre>
+            <pre>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+         &lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="3.0"
+    <span style="color:purple;">xmlns="http://www.w3.org/1999/xhtml"</span>&gt;
+    
+   <span style="color:#800000;">&lt;xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
+              include-content-type="no" indent="yes"/&gt;</span>
+    
+    &lt;/xsl:stylesheet&gt;</pre>
         </section>
         <section id="overview">
             <h3>Overview of the assignment</h3>

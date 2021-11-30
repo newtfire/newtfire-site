@@ -9,7 +9,7 @@
    </head>
    <body><!--#include virtual="../top.html" -->
       <h1>Explanatory Guides Used in Courses</h1>
-      <p><b>Quick Links:</b> <a href="#git">Git and GitHub</a> | <a href="#html">HTML</a> | <a href="#js">JavaScript</a> | <a href="#network">Network Analysis</a> | <a href="#projects">Project Preparation</a> | <a href="#python">Python</a> | <a href="#qgis">QGIS</a> | <a href="#regex">Regular Expressions</a> | <a href="#rng">Relax NG</a> | <a href="#schematron">Schematron</a> | <a href="#svg">SVG</a> | <a href="#tei">TEI</a> | <a href="#xml">XML</a> | <a href="#xpath">XPath</a> | <a href="#xquery">XQuery and PHP</a> | <a href="#xslt">XSLT</a> </p>
+      <p><b>Quick Links:</b>  <a href="#css">Cascading Stylesheets (CSS)</a> | <a href="#gis">Geographic Information Systems: KML and QGIS for XML projects</a> | <a href="#git">Git and GitHub</a> | <a href="#html">HTML</a> | <a href="#js">JavaScript</a> | <a href="#network">Network Analysis</a> | <a href="#projects">Project Preparation</a> | <a href="#python">Python</a> | <a href="#regex">Regular Expressions</a> | <a href="#rng">Relax NG</a> | <a href="#schematron">Schematron</a> | <a href="#svg">SVG</a> | <a href="#tei">TEI</a> | <a href="#xml">XML</a> | <a href="#xpath">XPath</a> | <a href="#xquery">XQuery and PHP</a> | <a href="#xslt">XSLT</a> </p>
       <ul>
          <li id="projects">Project Management
             <ul>
@@ -70,16 +70,70 @@
             </li>
          
          <li id="html">
-            <a href="explainHTML.html">Introduction to XHTML (and HTML)</a> and <a href="explainCSS.html">Introduction to Cascading Stylesheets (CSS)</a>
+            <a href="explainHTML.html">Introduction to XHTML (and HTML)</a>
             
             <ul>
+               <li><a href="https://slides.com/elisabeshero-bondar/learninghtml">Our slides on learning HTML</a></li>
                
                <li><a href="HTMLExercise1.html">HTML and CSS Exercise 1</a></li>
                
                <li><a href="HTMLExercise2.html">HTML and CSS Exercise 2</a></li>
                </ul>
             </li>
+         <li id="css">CSS and website layout resources
+            <ul>
+               <li>Our <a href="explainCSS.html">Introduction to Cascading Stylesheets (CSS)</a></li>
+               <li><a href="https://slides.com/elisabeshero-bondar/learningcss">Our slides on learning CSS</a>, with color and web accessibility resources</li>
+               <li><a href="http://www.csszengarden.com/">CSS Zen Garden</a>: one page, several completely different styles</li>
+               <li><a href="http://dh.obdurodon.org/class-and-span.xhtml">Obdurodon: Using HTML <code>&lt;span&gt;</code> and <code>@class</code> for CSS styling</a></li>
+               <li><a href="http://dh.obdurodon.org/usingWebfonts.xhtml">Obdurodon: Webfonts</a></li>
+               <li><a href="http://dh.obdurodon.org/cssAnimationsIntro.xhtml">Obdurodon: pure CSS animations (with example)</a></li>
+               
+               <li>Website layout with CSS: 
+                  <ul>
+                     <li><a href="http://dh.obdurodon.org/html_layouts/">Obdurodon’s website layout tutorial</a></li>
+                     <li><a href="https://learnlayout.com/">Learn CSS Layout</a> (see more updated resources below for flexbox and grid layouts)</li>
+                     <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Complete Guide to Flexbox</a></li>
+                    <li><a href="https://www.codeinwp.com/blog/css-grid-tutorial-layout/">The ultimate CSS grid tutorial for beginners </a></li>
+                     <li><a href="https://semicolon.dev/tutorial/css/complete-css-grid-tutorial">Semicolon’s Complete CSS Grid Tutorial</a> (good visual guide)</li>
+                  </ul>
+               </li>
+            </ul>
+            
+         </li>
          
+
+     
+         <li id="js">Javascript 
+            
+            <p>Tutorials and Examples</p>
+            <ul>
+               
+               <li><a href="js-practice/index.html">NewtFire JavaScript Introductory Examples</a></li>
+               
+               <li>
+                  <a href="http://dh.obdurodon.org/javascript.html">Introduction to
+                     Javascript</a>
+               </li>
+               
+               <li>
+                  <a href="http://dh.obdurodon.org/javascript/classListToggle.xhtml">Javascript Toggling with classList and switch</a>
+               </li>
+            </ul>
+            
+            <p>Exercises</p>
+            
+            <ul>
+               
+               <li><a href="JavaScriptExercise1.html">JavaScript Exercise 1</a> (with Server Side Includes)</li>
+               
+               <li><a href="JavaScriptExercise2.html">JavaScript Exercise 2</a></li>
+               
+               <li><a href="JavaScript_Exercise3.html">JavaScript Exercise 3 (CDA)</a></li>
+               
+               <li><a href="JavaScript_Exercise3_CDV.html">JavaScript Exercise 3 (CDV)</a></li>
+            </ul>
+         </li>
          
          <li id="regex">
             <a href="explainRegex.html">Regular Expression Matching (Regex) and Up-Conversion to XML</a>
@@ -187,26 +241,37 @@
             
             <ul>
                
-               <li><a href="XQueryExercise1.html">XQuery Exercise 1</a></li>
+               <li><a href="XQueryExercise1-TA.html">XQuery Exercise 1</a>: introducing XQuery with eXist-dB with Shakespeare’s plays</li>
                
-               <li><a href="XQueryExercise2.html">XQuery Exercise 2</a></li>
+               <li><a href="XQueryExercise2-TA.html">XQuery Exercise 2</a>: introducing FLWOR with Shakespeare’s plays</li>
                
-               <li><a href="XQueryExercise3.html">XQuery Exercise 3: XQuery and XSLT to produce KML for Mapping</a></li>
+               <li><a href="XQueryExercise3-TA.html">XQuery Exercise 3: introducing FLWOR statements</a>: Disney Songs project</li>
+               
+               <li><a href="XQueryExercise3-TA.html">XQuery Exercise 4: FLWOR to HTML</a>: Disney Songs project</li>
+               
+               <li><a href="XQueryExercise5-TA.html">XQuery Exercise 5</a>: Saving output to eXist-dB from the Blues Analysis project</li>
+               
+               <li><a href="XQueryExercise2.html">XQuery Exercise (long)</a>: Digital Mitford project: FLWOR and XQuery to HTML</li>
                
                <li><a href="explainXQueryPHP.html">XQuery / PHP: Introduction to PHP with eXist-dB</a></li>
             </ul>
             </li>
          
-         <li id="qgis"><a href="explainQGIS.html">Making a Basic Map with QGIS</a>: Introductory tutorial exercise
+         <li id="gis">Geographic Information Systems: KML and QGIS for XML projects
+            <ul>
+               <li><a href="XQueryExercise3.html">XQuery and XSLT to produce KML for Mapping</a></li>
+            
+            <li>QGIS Series
             
             <ul>
+               <li><a href="explainQGIS.html">Making a Basic Map with QGIS</a>: Introductory tutorial exercise</li>
                
                <li><a href="QGISExercise1.html">QGIS Exercise 1</a>: Mapping the Pokemon</li>
                
                <li><a href="QGISExercise2.html">QGIS Exercise 2</a>: Researching historic Pacific voyages with weather and ocean temperature data</li>
                
                <li><a href="QGISExercise3.html">QGIS Exercise 3</a>: Exploring export formats from QGIS for websites</li>
-               </ul>
+               </ul></li></ul>
             </li>
          
          <li id="svg">SVG (Scalable Vector Graphics)
@@ -322,39 +387,7 @@
                <li><a href="NetworkExercise3.html">Embedding an Interactive Cytoscape Network on a Website</a></li>
                </ul>
             </li>
-         
-         
-         <li id="js">Javascript 
-            
-            <p>Tutorials and Examples</p>
-            <ul>
-               
-               <li><a href="js-practice/index.html">NewtFire JavaScript Introductory Examples</a></li>
-               
-               <li>
-                  <a href="http://dh.obdurodon.org/javascript.html">Introduction to
-                     Javascript</a>
-                  </li>
-               
-               <li>
-                  <a href="http://dh.obdurodon.org/javascript/classListToggle.xhtml">Javascript Toggling with classList and switch</a>
-                  </li>
-               </ul>
-            
-            <p>Exercises</p>
-            
-            <ul>
-               
-               <li><a href="JavaScriptExercise1.html">JavaScript Exercise 1</a> (with Server Side Includes)</li>
-               
-               <li><a href="JavaScriptExercise2.html">JavaScript Exercise 2</a></li>
-               
-               <li><a href="JavaScript_Exercise3.html">JavaScript Exercise 3 (CDA)</a></li>
-               
-               <li><a href="JavaScript_Exercise3_CDV.html">JavaScript Exercise 3 (CDV)</a></li>
-               </ul>
-            </li>
-         
+ 
          
          <li id="python">Python 
             

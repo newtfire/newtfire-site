@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/san5281" version="1" owner="san5281" group="dba" mode="7775" created="2021-10-08T13:10:56.228Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="snaqvi-carTimelines.xql" skip="no" owner="san5281" group="dba" mode="755" created="2021-11-03T18:56:59.424Z" modified="2021-12-06T20:21:47.354Z" filename="snaqvi-carTimelines.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="snaqvi-xquery3" skip="no" owner="san5281" group="dba" mode="755" created="2021-10-11T18:23:08.046Z" modified="2021-10-13T19:35:26.991Z" filename="snaqvi-xquery3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="snaqvi-carTimelines" skip="no" owner="san5281" group="dba" mode="755" created="2021-11-03T18:56:16.545Z" modified="2021-11-03T18:56:27.4Z" filename="snaqvi-carTimelines" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

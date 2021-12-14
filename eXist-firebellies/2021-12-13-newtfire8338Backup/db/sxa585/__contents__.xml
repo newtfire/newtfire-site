@@ -1,0 +1,19 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/sxa585" version="1" owner="sxa585" group="dba" mode="7775" created="2021-10-08T13:04:57.871Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="alt_names.html" skip="no" owner="sxa585" group="dba" mode="644" created="2021-10-13T17:12:24.274Z" modified="2021-10-13T17:16:01.208Z" filename="alt_names.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Map_XML" skip="no" owner="sxa585" group="dba" mode="644" created="2021-11-11T23:23:27.003Z" modified="2021-11-11T23:34:10.017Z" filename="Map_XML" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BC.html" skip="no" owner="sxa585" group="dba" mode="644" created="2021-10-15T17:55:27.894Z" modified="2021-10-15T18:32:14.24Z" filename="BC.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SuperSmashData.tsv" skip="no" owner="sxa585" group="dba" mode="644" created="2021-11-17T17:52:09.371Z" modified="2021-11-17T17:54:35.917Z" filename="SuperSmashData.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="xquery" filename="xquery"/>
+    <subcollection name="SVG" filename="SVG"/>
+    <subcollection name="KML" filename="KML"/>
+    <subcollection name="Cytoscape" filename="Cytoscape"/>
+</collection>

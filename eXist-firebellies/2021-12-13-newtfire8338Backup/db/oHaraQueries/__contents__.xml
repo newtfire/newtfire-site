@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/oHaraQueries" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:46.006Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="indivReferenceQuery" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:46.007Z" modified="2020-08-07T21:14:46.007Z" filename="indivReferenceQuery" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="referenceQuery" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:46.15Z" modified="2020-08-07T21:14:46.15Z" filename="referenceQuery" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lineCountQuery" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:46.229Z" modified="2020-08-07T21:14:46.229Z" filename="lineCountQuery" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="refCountQuery" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:46.292Z" modified="2020-08-07T21:14:46.292Z" filename="refCountQuery" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="foreignLanguageQuery" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:46.359Z" modified="2020-08-07T21:14:46.359Z" filename="foreignLanguageQuery" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="peopleCountQuery" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:46.427Z" modified="2020-08-07T21:14:46.427Z" filename="peopleCountQuery" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

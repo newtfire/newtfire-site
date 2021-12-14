@@ -1,0 +1,20 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ajm7408" version="1" owner="ajm7408" group="dba" mode="775" created="2021-03-08T20:26:03.439Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="acData.svg" skip="no" owner="ajm7408" group="ajm7408" mode="644" created="2021-11-01T19:11:14.574Z" modified="2021-11-01T19:11:14.574Z" filename="acData.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="xqueryTest.svg" skip="no" owner="ajm7408" group="ajm7408" mode="644" created="2021-11-01T19:13:50.094Z" modified="2021-11-04T22:52:39.676Z" filename="xqueryTest.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FA2021_KH1.5_ExampleDistinct-Values.xql" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-10-11T19:17:49.619Z" modified="2021-10-11T19:17:49.619Z" filename="FA2021_KH1.5_ExampleDistinct-Values.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuery%20Exercise%204" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-03-12T14:15:51.933Z" modified="2021-04-01T00:11:36.779Z" filename="XQuery Exercise 4" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuery%20Exercise%203" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-03-12T13:46:18.967Z" modified="2021-03-12T13:46:18.967Z" filename="XQuery Exercise 3" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="SP2021" filename="SP2021"/>
+    <subcollection name="FA2021" filename="FA2021"/>
+</collection>

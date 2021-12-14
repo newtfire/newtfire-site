@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <song name="Out of the Box">
+        <metadata>
+            <sname>Out of the Box</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+        <lyrics>
+           <verse n="1">
+               <line n="1">All day today the same day has come</line>
+               <line n="2">A different day from everyone</line>
+               <line n="3"><parentheses>(Whether I will or not - Whether I would or not. Wow!)</parentheses></line>
+               <line n="4"><i story="axl">It's like my time was frozen still</i></line>
+           </verse>
+            <verse n="2">
+                <line n="1">A girl passed by a dog's bark bow wow</line>
+                <line n="2">The smell from that</line>
+                <line n="3">cafe makes me hungry</line>
+                <line n="4">I knew all about it</line>
+                <line n="5"><parentheses>(Whether I will or not - Whether I would or not. Wow!)</parentheses></line>
+                <line n="6">It's like my time was frozen still</line>
+            </verse>
+            <chorus n="1">
+                <line n="1">Not much</line>
+                <line n="2">No Prob'. Even if the world doesn't change</line>
+                <line n="3">I'm a cloud that don't have shapes</line>
+                <line n="4">My password is out of the box</line>
+                <line n="5">Out of the box</line>
+                <line n="6"><parentheses>(Out of the box)</parentheses></line>
+                <line n="7">Out of the box</line>
+            </chorus>
+            <verse n="3">
+                <line n="1">Happiness issued plenty</line>
+                <line n="2">it will soon come out all right</line>
+                <line n="3">there is the conviction by lie is it so?</line>
+                <line n="4">I walk this path everyday</line>
+                <line n="5">But somehow there is a world</line>
+                <line n="6">that is yet to be discovered!</line>
+            </verse>
+            <chorus n="2">
+                <line n="1">That's right</line>
+                <line n="2">No Prob'. Even if the world doesn't change</line>
+                <line n="3"><i story="axl">Like the wind, I'm everywhere</i></line>
+                <line n="4">My password is out of the box</line>
+                <line n="5">Out of the box</line>
+                <line n="6"><parentheses>(Out of the box)</parentheses></line>
+                <line n="7">Out of the box</line>
+            </chorus>
+            <bridge n="1">
+                <line n="1">I'm alive</line>
+                <line n="2">I'm alive</line>
+                <line n="3">It is dramatic with just that</line>
+            </bridge>
+            <prechorus n="1">
+                <line n="1">My frozen time is</line>
+                <line n="2">My frozen time</line>
+                <line n="3">My frozen time</line>
+                <line n="4"><i story="axl">My frozen time moves again</i></line>
+            </prechorus>
+            <chorus n="3">
+                <line n="1"><parentheses>(Box)</parentheses></line>
+                <line n="2">Out of the box</line>
+                <line n="3"><parentheses>(Out of the box)</parentheses></line>
+                <line n="4">Out of the box</line>
+                <line n="5">(Out of the box)</line>
+                <line n="6">Out of the box</line>
+                <line n="7"><parentheses>(All day today the same day has come)</parentheses></line>
+                <line n="8"><parentheses>(Out of the box)</parentheses></line>
+            </chorus>
+        </lyrics>
+    </song>
+</xml>

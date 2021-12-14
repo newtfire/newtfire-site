@@ -1,0 +1,144 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/hamilton/Updated_Directory" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:16:52.062Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="22_DearTheodosia.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.064Z" modified="2020-08-07T21:16:52.064Z" filename="22_DearTheodosia.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="11_TheAdamsAdministration.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.128Z" modified="2020-08-07T21:16:52.128Z" filename="11_TheAdamsAdministration.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="03_MyShot.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.196Z" modified="2020-08-07T21:16:52.196Z" filename="03_MyShot.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="08_RightHandMan.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.264Z" modified="2020-08-07T21:16:52.264Z" filename="08_RightHandMan.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="17_ThatWouldBeEnough.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.329Z" modified="2020-08-07T21:16:52.329Z" filename="17_ThatWouldBeEnough.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="08_WashingtonOnYourSide.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.388Z" modified="2020-08-07T21:16:52.388Z" filename="08_WashingtonOnYourSide.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="09_AWintersBall.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.468Z" modified="2020-08-07T21:16:52.468Z" filename="09_AWintersBall.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="16_BlowUsAllAway.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.532Z" modified="2020-08-07T21:16:52.532Z" filename="16_BlowUsAllAway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="09_OneLastTime.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.599Z" modified="2020-08-07T21:16:52.599Z" filename="09_OneLastTime.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="19_HistoryHasItsEyesOnYou.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.663Z" modified="2020-08-07T21:16:52.663Z" filename="19_HistoryHasItsEyesOnYou.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="10_IKnowHim.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.716Z" modified="2020-08-07T21:16:52.716Z" filename="10_IKnowHim.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="06_FarmerRefuted.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.783Z" modified="2020-08-07T21:16:52.783Z" filename="06_FarmerRefuted.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="20_Yorktown_TheWorldTurnedUpsideDown_.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.848Z" modified="2020-08-07T21:16:52.848Z" filename="20_Yorktown_TheWorldTurnedUpsideDown_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="02_AaronBurrSir.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.91Z" modified="2020-08-07T21:16:52.91Z" filename="02_AaronBurrSir.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="22b_TomorrowTherellBeMoreOfUs.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:52.97Z" modified="2020-08-07T21:16:52.97Z" filename="22b_TomorrowTherellBeMoreOfUs.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="14_ReynoldsPamphlet.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.039Z" modified="2020-08-07T21:16:53.039Z" filename="14_ReynoldsPamphlet.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="12_TheStoryOfTonight_Reprise_.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.108Z" modified="2020-08-07T21:16:53.108Z" filename="12_TheStoryOfTonight_Reprise_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="23_Non-Stop.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.173Z" modified="2020-08-07T21:16:53.173Z" filename="23_Non-Stop.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="05_RoomWhereItHappens.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.245Z" modified="2020-08-07T21:16:53.245Z" filename="05_RoomWhereItHappens.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="17_StayAlive_Reprise_.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.311Z" modified="2020-08-07T21:16:53.311Z" filename="17_StayAlive_Reprise_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="13_WaitForIt.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.378Z" modified="2020-08-07T21:16:53.378Z" filename="13_WaitForIt.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="21_BestOfWivesAndBestOfWomen.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.444Z" modified="2020-08-07T21:16:53.444Z" filename="21_BestOfWivesAndBestOfWomen.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="11_Satisfied.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.577Z" modified="2020-08-07T21:16:53.577Z" filename="11_Satisfied.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="13_Hurricane.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.637Z" modified="2020-08-07T21:16:53.637Z" filename="13_Hurricane.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="15_TenDuelCommandments.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.717Z" modified="2020-08-07T21:16:53.717Z" filename="15_TenDuelCommandments.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="21_WhatComesNext.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.78Z" modified="2020-08-07T21:16:53.78Z" filename="21_WhatComesNext.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="02_CabinetBattle1.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.844Z" modified="2020-08-07T21:16:53.844Z" filename="02_CabinetBattle1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="22_TheWorldWasWideEnough.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.92Z" modified="2020-08-07T21:16:53.92Z" filename="22_TheWorldWasWideEnough.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="06_SchuylerDefeated.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:53.977Z" modified="2020-08-07T21:16:53.977Z" filename="06_SchuylerDefeated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="20_YourObedientServant.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.041Z" modified="2020-08-07T21:16:54.041Z" filename="20_YourObedientServant.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="15_Burn.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.105Z" modified="2020-08-07T21:16:54.105Z" filename="15_Burn.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="01_WhatdIMiss.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.168Z" modified="2020-08-07T21:16:54.168Z" filename="01_WhatdIMiss.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="05_TheSchuylerSisters.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.233Z" modified="2020-08-07T21:16:54.233Z" filename="05_TheSchuylerSisters.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="03_TakeABreak.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.296Z" modified="2020-08-07T21:16:54.296Z" filename="03_TakeABreak.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="23_WhoLivesWhoDiesWhoTellsYourStory.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.375Z" modified="2020-08-07T21:16:54.375Z" filename="23_WhoLivesWhoDiesWhoTellsYourStory.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="18_ItsQuietUptown.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.442Z" modified="2020-08-07T21:16:54.442Z" filename="18_ItsQuietUptown.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="12_WeKnow.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.508Z" modified="2020-08-07T21:16:54.508Z" filename="12_WeKnow.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="14_StayAlive.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.568Z" modified="2020-08-07T21:16:54.568Z" filename="14_StayAlive.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="01_AlexanderHamilton.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.625Z" modified="2020-08-07T21:16:54.625Z" filename="01_AlexanderHamilton.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="07_YoullBeBack.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.691Z" modified="2020-08-07T21:16:54.691Z" filename="07_YoullBeBack.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="10_Helpless.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.763Z" modified="2020-08-07T21:16:54.763Z" filename="10_Helpless.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="19_TheElectionOf1800.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.839Z" modified="2020-08-07T21:16:54.839Z" filename="19_TheElectionOf1800.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="16_MeetMeInside.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.905Z" modified="2020-08-07T21:16:54.905Z" filename="16_MeetMeInside.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="04_SayNoToThis.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:54.969Z" modified="2020-08-07T21:16:54.969Z" filename="04_SayNoToThis.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="04_TheStoryOfTonight.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:55.028Z" modified="2020-08-07T21:16:55.028Z" filename="04_TheStoryOfTonight.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="18_GunsAndShips.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:55.089Z" modified="2020-08-07T21:16:55.089Z" filename="18_GunsAndShips.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="07_CabinetBattle2.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:55.15Z" modified="2020-08-07T21:16:55.15Z" filename="07_CabinetBattle2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

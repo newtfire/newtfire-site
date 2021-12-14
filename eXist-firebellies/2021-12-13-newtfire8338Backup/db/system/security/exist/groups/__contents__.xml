@@ -1,0 +1,334 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/security/exist/groups" version="1" owner="SYSTEM" group="dba" mode="770" created="2020-08-07T01:27:59.543Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="npv4.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:13:58.764Z" modified="2021-03-08T18:13:58.868Z" filename="npv4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jrw5970.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:14:34.397Z" modified="2021-03-08T18:14:34.503Z" filename="jrw5970.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="auw600.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:15:02.054Z" modified="2021-03-08T18:15:02.187Z" filename="auw600.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="amw6765.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:15:39.705Z" modified="2021-03-08T18:15:39.837Z" filename="amw6765.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pub81.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-09-21T13:48:05.147Z" modified="2021-09-21T13:48:05.359Z" filename="pub81.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="piperpoetry.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-09-21T13:48:53.187Z" modified="2021-09-21T13:48:53.4Z" filename="piperpoetry.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="packageservice.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2020-08-07T02:48:23.102Z" modified="2020-08-07T02:48:23.126Z" filename="packageservice.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="monex.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2020-08-07T02:48:37.828Z" modified="2020-08-07T20:50:45.683Z" filename="monex.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sxa585.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:28:36.501Z" modified="2021-10-04T04:28:36.635Z" filename="sxa585.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mxb1244.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:29:37.868Z" modified="2021-10-04T04:29:37.998Z" filename="mxb1244.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cub433.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:30:16.451Z" modified="2021-10-04T04:30:16.574Z" filename="cub433.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bac5738.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:31:25.434Z" modified="2021-10-04T04:31:25.56Z" filename="bac5738.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ged5131.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:34:40.663Z" modified="2021-10-04T04:34:40.825Z" filename="ged5131.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="gmh5321.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:35:08.854Z" modified="2021-10-04T04:35:08.995Z" filename="gmh5321.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dlk5486.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:35:42.35Z" modified="2021-10-04T04:35:42.493Z" filename="dlk5486.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bwm5473.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:37:41.334Z" modified="2021-10-04T04:37:41.457Z" filename="bwm5473.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="san5281.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:38:25.431Z" modified="2021-10-04T04:38:25.552Z" filename="san5281.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="amo5551.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:38:58.577Z" modified="2021-10-04T04:38:58.718Z" filename="amo5551.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="eqt5165.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:40:02.559Z" modified="2021-10-04T04:40:02.711Z" filename="eqt5165.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="apv5182.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:40:43.944Z" modified="2021-10-04T04:40:44.087Z" filename="apv5182.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mayan.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:43:25.026Z" modified="2021-10-04T04:44:46.657Z" filename="mayan.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="auto.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:45:52.931Z" modified="2021-10-04T04:45:53.11Z" filename="auto.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="btrees.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:50:07.025Z" modified="2021-10-04T04:50:07.206Z" filename="btrees.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="smashtiers.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:52:04.28Z" modified="2021-10-04T04:52:04.454Z" filename="smashtiers.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="letsrock.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:52:42.788Z" modified="2021-10-04T04:52:42.959Z" filename="letsrock.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="koh2.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-10-04T04:56:50.579Z" modified="2021-10-04T04:56:50.774Z" filename="koh2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="agf33.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:43.232Z" modified="2020-08-07T20:50:43.232Z" filename="agf33.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ahunker.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:43.294Z" modified="2020-08-07T20:50:43.294Z" filename="ahunker.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ajnewton.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:43.366Z" modified="2020-08-07T20:50:43.366Z" filename="ajnewton.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="akira.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:43.423Z" modified="2020-08-07T20:50:43.423Z" filename="akira.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="alc256.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:43.493Z" modified="2020-08-07T20:50:43.493Z" filename="alc256.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="alnopa.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:43.565Z" modified="2020-08-07T20:50:43.565Z" filename="alnopa.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="amp293.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:43.628Z" modified="2020-08-07T20:50:43.628Z" filename="amp293.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="awn7.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:43.687Z" modified="2020-08-07T20:50:43.687Z" filename="awn7.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bab184.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:43.752Z" modified="2020-08-07T20:50:43.752Z" filename="bab184.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="banksy.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:43.842Z" modified="2020-08-07T20:50:43.842Z" filename="banksy.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bec80.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:43.911Z" modified="2020-08-07T20:50:43.911Z" filename="bec80.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bim8.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:43.97Z" modified="2020-08-07T20:50:43.97Z" filename="bim8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bloodborne.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.036Z" modified="2020-08-07T20:50:44.036Z" filename="bloodborne.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bmt45.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.093Z" modified="2020-08-07T20:50:44.093Z" filename="bmt45.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="brandnew.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.165Z" modified="2020-08-07T20:50:44.165Z" filename="brandnew.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="crc114.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.242Z" modified="2020-08-07T20:50:44.242Z" filename="crc114.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dh-group.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.305Z" modified="2020-08-07T20:50:44.305Z" filename="dh-group.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dh-mentors.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.362Z" modified="2020-08-07T20:50:44.362Z" filename="dh-mentors.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dickinson.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.419Z" modified="2020-08-07T20:50:44.419Z" filename="dickinson.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="digmit.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.478Z" modified="2020-08-07T20:50:44.478Z" filename="digmit.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="djb.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.536Z" modified="2020-08-07T20:50:44.536Z" filename="djb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="drl43.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.601Z" modified="2020-08-07T20:50:44.601Z" filename="drl43.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dtd21.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.667Z" modified="2020-08-07T20:50:44.667Z" filename="dtd21.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="frc23.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.799Z" modified="2020-08-07T20:50:44.799Z" filename="frc23.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="frk11.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.863Z" modified="2020-08-07T20:50:44.863Z" filename="frk11.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ghb.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.932Z" modified="2020-08-07T20:50:44.932Z" filename="ghb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="glj9.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:44.992Z" modified="2020-08-07T20:50:44.992Z" filename="glj9.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="hamilton.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.054Z" modified="2020-08-07T20:50:45.054Z" filename="hamilton.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jag240.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.12Z" modified="2020-08-07T20:50:45.12Z" filename="jag240.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jhf20.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.187Z" modified="2020-08-07T20:50:45.187Z" filename="jhf20.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jmh237.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.249Z" modified="2020-08-07T20:50:45.249Z" filename="jmh237.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ksd32.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.312Z" modified="2020-08-07T20:50:45.312Z" filename="ksd32.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lam289.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.373Z" modified="2020-08-07T20:50:45.373Z" filename="lam289.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lope.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.442Z" modified="2020-08-07T20:50:45.442Z" filename="lope.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lottig.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.502Z" modified="2020-08-07T20:50:45.502Z" filename="lottig.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mar270.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.56Z" modified="2020-08-07T20:50:45.56Z" filename="mar270.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mklamer.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.624Z" modified="2020-08-07T20:50:45.624Z" filename="mklamer.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="nad100.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.736Z" modified="2020-08-07T20:50:45.736Z" filename="nad100.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="nelson.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.804Z" modified="2020-08-07T20:50:45.804Z" filename="nelson.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="newsanalysis.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.866Z" modified="2020-08-07T20:50:45.866Z" filename="newsanalysis.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="npp16.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.936Z" modified="2020-08-07T20:50:45.936Z" filename="npp16.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="overholt.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:45.996Z" modified="2020-08-07T20:50:45.996Z" filename="overholt.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pacific.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:46.058Z" modified="2020-08-07T20:50:46.058Z" filename="pacific.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pokemon.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:46.12Z" modified="2020-08-07T20:50:46.12Z" filename="pokemon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="quantumsatire.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:46.181Z" modified="2020-08-07T20:50:46.181Z" filename="quantumsatire.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="railroad.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:46.243Z" modified="2020-08-07T20:50:46.243Z" filename="railroad.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rap159.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:46.314Z" modified="2020-08-07T20:50:46.314Z" filename="rap159.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rickandmorty.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:54.978Z" modified="2020-08-07T20:50:54.978Z" filename="rickandmorty.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rocket.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:55.052Z" modified="2020-08-07T20:50:55.052Z" filename="rocket.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rparker.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:55.112Z" modified="2020-08-07T20:50:55.112Z" filename="rparker.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rwf17.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:55.175Z" modified="2020-08-07T20:50:55.175Z" filename="rwf17.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="set.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:55.235Z" modified="2020-08-07T20:50:55.235Z" filename="set.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="shd79.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:55.299Z" modified="2020-08-07T20:50:55.299Z" filename="shd79.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="teentitans.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:55.36Z" modified="2020-08-07T20:50:55.36Z" filename="teentitans.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="testPilot.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:55.421Z" modified="2020-08-07T20:50:55.421Z" filename="testPilot.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="toscana.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:55.481Z" modified="2020-08-07T20:50:55.481Z" filename="toscana.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="triplette.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:55.545Z" modified="2020-08-07T20:50:55.545Z" filename="triplette.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulysses.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:55.606Z" modified="2020-08-07T20:50:55.606Z" filename="ulysses.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="zme.xml" skip="no" owner="admin" group="dba" mode="770" created="2020-08-07T20:50:55.664Z" modified="2020-08-07T20:50:55.664Z" filename="zme.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="wdjacca.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-02T18:05:16.917Z" modified="2021-03-02T18:05:17.136Z" filename="wdjacca.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="eXide.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2020-08-07T02:48:31.627Z" modified="2020-08-07T20:50:44.73Z" filename="eXide.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="holmes.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-02T18:05:59.889Z" modified="2021-03-02T18:06:00.119Z" filename="holmes.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="disneysongs.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-12T04:11:21.423Z" modified="2021-03-12T04:17:58.701Z" filename="disneysongs.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bca5125.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-04-06T19:41:46.71Z" modified="2021-04-06T19:41:46.893Z" filename="bca5125.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="harrypotter.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-04-06T19:42:41.493Z" modified="2021-04-06T19:42:41.661Z" filename="harrypotter.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jub405.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:00:13.693Z" modified="2021-03-08T18:00:13.894Z" filename="jub405.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mqb5995.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:01:13.925Z" modified="2021-03-08T18:01:14.04Z" filename="mqb5995.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ice5017.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:02:44.984Z" modified="2021-03-08T18:02:45.111Z" filename="ice5017.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="stf5123.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:07:23.088Z" modified="2021-03-08T18:07:23.201Z" filename="stf5123.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rgg5144.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:08:08.89Z" modified="2021-03-08T18:08:09.001Z" filename="rgg5144.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="kmh6907.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:08:47.385Z" modified="2021-03-08T18:08:47.501Z" filename="kmh6907.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dxh405.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:09:17.497Z" modified="2021-03-08T18:09:17.608Z" filename="dxh405.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="eul85.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:10:03.742Z" modified="2021-03-08T18:10:03.879Z" filename="eul85.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ajm7408.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:10:42.33Z" modified="2021-03-08T18:10:42.444Z" filename="ajm7408.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="blues.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-12T04:13:07.751Z" modified="2021-03-12T04:17:26.4Z" filename="blues.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="nrm5383.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:11:16.792Z" modified="2021-03-08T18:11:16.895Z" filename="nrm5383.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="loz.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-12T04:15:18.541Z" modified="2021-03-12T04:15:18.681Z" filename="loz.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="grimm.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-12T04:16:58.107Z" modified="2021-03-12T04:20:29.292Z" filename="grimm.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sao5303.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:11:49.562Z" modified="2021-03-08T18:11:49.67Z" filename="sao5303.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="kingdomhearts.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-12T04:19:55.234Z" modified="2021-03-12T04:19:55.379Z" filename="kingdomhearts.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="assassins.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-12T04:23:16.786Z" modified="2021-03-12T04:23:16.918Z" filename="assassins.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ets5199.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:12:23.935Z" modified="2021-03-08T18:12:24.053Z" filename="ets5199.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tjs6551.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:12:57.485Z" modified="2021-03-08T18:12:57.595Z" filename="tjs6551.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jqs6375.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2021-03-08T18:13:30.451Z" modified="2021-03-08T18:13:30.564Z" filename="jqs6375.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="removed" filename="removed"/>
+</collection>

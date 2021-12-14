@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/learning-xquery" version="1" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:34.871Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="learning-xquery.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.872Z" modified="2020-08-07T02:48:34.872Z" filename="learning-xquery.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

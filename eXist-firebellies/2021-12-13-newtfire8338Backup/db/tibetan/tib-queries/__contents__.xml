@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tibetan/tib-queries" version="1" owner="phackett" group="dba" mode="751" created="2020-09-10T17:19:19.427Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="tabulate_parallel_text2.xql" skip="no" owner="phackett" group="dba" mode="751" created="2020-09-10T17:35:59.56Z" modified="2020-11-06T23:21:20.392Z" filename="tabulate_parallel_text2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-apply-xslt.xql" skip="no" owner="phackett" group="dba" mode="751" created="2020-09-10T17:46:52.563Z" modified="2020-11-06T23:24:29.657Z" filename="test-apply-xslt.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="search-SKT_new.xql" skip="no" owner="phackett" group="dba" mode="751" created="2020-09-10T18:02:08.144Z" modified="2020-11-10T00:59:11.355Z" filename="search-SKT_new.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="search-TIB_new.xql" skip="no" owner="phackett" group="dba" mode="751" created="2020-09-10T17:43:36.106Z" modified="2020-09-10T17:43:36.106Z" filename="search-TIB_new.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tib-texts-home_v2.xql" skip="no" owner="phackett" group="dba" mode="751" created="2020-09-10T17:35:59.262Z" modified="2020-09-10T17:54:26.96Z" filename="tib-texts-home_v2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-apply-xslt-skt.xql" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T18:04:56.428Z" modified="2020-09-10T18:05:32.053Z" filename="test-apply-xslt-skt.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-apply-xslt-tibsyll.xql" skip="no" owner="phackett" group="dba" mode="751" created="2020-09-10T17:46:52.608Z" modified="2020-09-10T18:06:07.397Z" filename="test-apply-xslt-tibsyll.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

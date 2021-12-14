@@ -1,0 +1,31 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/modules" version="1" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35.405Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="search.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35.405Z" modified="2020-08-07T02:48:35.405Z" filename="search.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35.429Z" modified="2020-08-07T02:48:35.429Z" filename="docbook.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="diagnostics.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35.442Z" modified="2020-08-07T02:48:35.442Z" filename="diagnostics.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rvd-support.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35.476Z" modified="2020-08-07T02:48:35.476Z" filename="rvd-support.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-suite.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35.483Z" modified="2020-08-07T02:48:35.483Z" filename="test-suite.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35.506Z" modified="2020-08-07T02:48:35.506Z" filename="view.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="review.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35.611Z" modified="2020-08-07T02:48:35.611Z" filename="review.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:35.647Z" modified="2020-08-07T02:48:35.647Z" filename="config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-runner.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:36.625Z" modified="2020-08-07T02:48:36.625Z" filename="test-runner.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="xsl" filename="xsl"/>
+</collection>

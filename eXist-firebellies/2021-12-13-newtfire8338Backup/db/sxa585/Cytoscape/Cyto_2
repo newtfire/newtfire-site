@@ -1,0 +1,15 @@
+xquery version "3.1";
+let $mayan := doc('/db/mayan/sitesIndex.xml')
+let $sites := $mayan//mayanSites/site
+for $s in $sites
+
+let $Rid := $s/@id ! normalize-space (.)
+let $relc := $s/artifacts/relic/@type ! normalize-space (.)
+let $building := $s/structures/building/@type ! normalize-space (.)
+
+return
+    concat($Rid, "&#x9;", "Site ID", "&#x9;", $relc , "&#x9;", "Type", "&#x9;", $building,"&#10;")
+    
+let $filename := "Sam_Mayan.tsv"
+let $doc-db-uri := xmldb:store("/db/sxa585/Cytoscape", $filename, $ThisFileContent, "text/plain")
+return $doc-db-uri

@@ -1,0 +1,7 @@
+xquery version "3.1";
+
+let $smash :=doc('/db/smashtiers/supersmashtierlist.xml')/*
+let $character := $smash//char
+let $limit := $smash//char[game[@n="3"]] ! string() =>sort () (:by adding sort it seemed to organize them orioperly by alphabetical but wolf i think is the odd one out since maybe because his name starts with a space bar in their xml he comes up first:)
+
+return $limit

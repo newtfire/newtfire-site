@@ -1,0 +1,61 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/bca5125" version="1" owner="bca5125" group="dba" mode="775" created="2021-04-06T19:51:18.407Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="SpeakerCountsBySpeaker.html" skip="no" owner="bca5125" group="dba" mode="774" created="2021-04-13T20:33:42.245Z" modified="2021-04-13T20:33:42.245Z" filename="SpeakerCountsBySpeaker.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SpeakerCountsByCount.html" skip="no" owner="bca5125" group="dba" mode="774" created="2021-04-13T20:37:03.633Z" modified="2021-04-13T20:38:19.367Z" filename="SpeakerCountsByCount.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SpeakerCountsByCountInMovie.html" skip="no" owner="bca5125" group="dba" mode="774" created="2021-04-13T20:40:46.874Z" modified="2021-04-13T20:53:06.134Z" filename="SpeakerCountsByCountInMovie.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SpeakerCountsTotal.html" skip="no" owner="bca5125" group="dba" mode="774" created="2021-04-13T20:46:17.629Z" modified="2021-04-13T20:46:17.629Z" filename="SpeakerCountsTotal.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="screenplayTextsScraper.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-04-13T21:35:02.968Z" modified="2021-04-13T21:46:38.445Z" filename="screenplayTextsScraper.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="play-by-play-scraper.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-04-13T21:54:41.493Z" modified="2021-04-13T21:54:41.493Z" filename="play-by-play-scraper.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="characterScraper.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-04-13T22:01:53.031Z" modified="2021-04-13T22:02:30.328Z" filename="characterScraper.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="speakers-query.xql" skip="no" owner="bca5125" group="dba" mode="775" created="2021-04-06T21:24:37.023Z" modified="2021-04-06T21:24:37.023Z" filename="speakers-query.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="starter-query.xql" skip="no" owner="bca5125" group="dba" mode="775" created="2021-04-06T20:06:43.168Z" modified="2021-04-09T22:59:20.479Z" filename="starter-query.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MalfoyScraper.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-04-16T21:09:06.481Z" modified="2021-04-16T21:11:10.384Z" filename="MalfoyScraper.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="weasleySpeeches.txt" skip="no" owner="bca5125" group="bca5125" mode="644" created="2021-04-19T15:35:45.708Z" modified="2021-04-19T15:35:45.708Z" filename="weasleySpeeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="harrySpeeches.txt" skip="no" owner="bca5125" group="bca5125" mode="644" created="2021-04-19T15:41:14.973Z" modified="2021-04-19T15:41:14.973Z" filename="harrySpeeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hermioneSpeeches.txt" skip="no" owner="bca5125" group="bca5125" mode="644" created="2021-04-19T15:44:02.964Z" modified="2021-04-19T15:44:02.964Z" filename="hermioneSpeeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="filch_figgSpeeches.txt" skip="no" owner="bca5125" group="bca5125" mode="644" created="2021-04-19T15:48:41.427Z" modified="2021-04-19T15:48:41.427Z" filename="filch_figgSpeeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="malfoySpeeches.txt" skip="no" owner="bca5125" group="bca5125" mode="644" created="2021-04-19T15:50:33.874Z" modified="2021-04-19T15:50:33.874Z" filename="malfoySpeeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drB-speakerQuery-HTML.xql" skip="no" owner="bca5125" group="dba" mode="774" created="2021-04-06T21:51:09.396Z" modified="2021-04-13T20:41:15.39Z" filename="drB-speakerQuery-HTML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drB-speakerQueryTotalsOnly-HTML.xql" skip="no" owner="bca5125" group="dba" mode="775" created="2021-04-13T20:42:14.241Z" modified="2021-04-13T20:46:05.694Z" filename="drB-speakerQueryTotalsOnly-HTML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="allSpeeches.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-04-13T21:11:54.768Z" modified="2021-04-13T21:11:54.768Z" filename="allSpeeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="speechScraper.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-04-13T21:04:12.268Z" modified="2021-04-13T21:24:42.204Z" filename="speechScraper.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="output" filename="output"/>
+</collection>

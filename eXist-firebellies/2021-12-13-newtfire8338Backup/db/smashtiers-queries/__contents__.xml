@@ -1,0 +1,38 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/smashtiers-queries" version="1" owner="bac5738" group="dba" mode="775" created="2021-10-04T05:35:34.477Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="smashtiers" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="tier.html" skip="no" owner="bac5738" group="bac5738" mode="644" created="2021-10-18T19:36:59.599Z" modified="2021-10-18T19:36:59.599Z" filename="tier.html" mimetype=".html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SuperSmashData.tsv" skip="no" owner="apv5182" group="apv5182" mode="644" created="2021-11-15T20:24:55.252Z" modified="2021-11-15T20:26:21.386Z" filename="SuperSmashData.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="characterTierPerGame.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-10-17T23:36:37.324Z" modified="2021-10-17T23:36:37.324Z" filename="characterTierPerGame.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tiersforPHP.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-10-28T22:22:11.292Z" modified="2021-10-28T22:23:20.302Z" filename="tiersforPHP.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tiers.xql" skip="no" owner="bac5738" group="bac5738" mode="755" created="2021-10-18T19:34:02.298Z" modified="2021-10-18T19:39:44.509Z" filename="tiers.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tiersforPHPcopy.xql" skip="no" owner="apv5182" group="apv5182" mode="775" created="2021-11-12T02:22:19.232Z" modified="2021-11-12T02:30:29.54Z" filename="tiersforPHPcopy.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="charByTier.xql" skip="no" owner="apv5182" group="apv5182" mode="755" created="2021-11-12T02:46:09.363Z" modified="2021-11-12T02:46:09.363Z" filename="charByTier.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Network-SmashTiers.xql" skip="no" owner="apv5182" group="apv5182" mode="755" created="2021-11-15T20:24:06.395Z" modified="2021-11-17T19:07:20.995Z" filename="Network-SmashTiers.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="GameList.xql" skip="no" owner="apv5182" group="apv5182" mode="755" created="2021-10-15T19:24:27.09Z" modified="2021-11-12T20:09:15.13Z" filename="GameList.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="networktest.xql" skip="no" owner="apv5182" group="apv5182" mode="755" created="2021-11-17T19:32:08.973Z" modified="2021-11-17T19:36:14.19Z" filename="networktest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SuperSmashData2.tsv" skip="no" owner="apv5182" group="apv5182" mode="644" created="2021-11-17T18:38:23.375Z" modified="2021-11-19T19:41:53.608Z" filename="SuperSmashData2.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

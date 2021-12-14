@@ -1,0 +1,54 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/modules" version="1" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.235Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="admin.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.236Z" modified="2020-08-07T02:48:38.236Z" filename="admin.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="unschedule.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.238Z" modified="2020-08-07T02:48:38.238Z" filename="unschedule.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="app.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.24Z" modified="2020-08-07T02:48:38.24Z" filename="app.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-timeline-prof.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.242Z" modified="2020-08-07T02:48:38.242Z" filename="test-timeline-prof.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="remote.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.244Z" modified="2020-08-07T02:48:38.244Z" filename="remote.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-timeline.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.249Z" modified="2020-08-07T02:48:38.249Z" filename="test-timeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="collectionsAsHtml.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.25Z" modified="2020-08-07T02:48:38.25Z" filename="collectionsAsHtml.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.252Z" modified="2020-08-07T02:48:38.252Z" filename="view.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="notification.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.253Z" modified="2020-08-07T02:48:38.253Z" filename="notification.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="suite.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.255Z" modified="2020-08-07T02:48:38.255Z" filename="suite.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="job.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.257Z" modified="2020-08-07T02:48:38.257Z" filename="job.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="indexes.xqm" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.258Z" modified="2020-08-07T02:48:38.258Z" filename="indexes.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="update-timeline.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.26Z" modified="2020-08-07T02:48:38.26Z" filename="update-timeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.262Z" modified="2020-08-07T02:48:38.262Z" filename="config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="schedule.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.27Z" modified="2020-08-07T02:48:38.27Z" filename="schedule.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index2json.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.272Z" modified="2020-08-07T02:48:38.272Z" filename="index2json.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-app.xql" skip="no" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.274Z" modified="2020-08-07T02:48:38.274Z" filename="test-app.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

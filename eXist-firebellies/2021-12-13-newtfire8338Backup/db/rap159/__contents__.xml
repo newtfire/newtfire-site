@@ -1,0 +1,79 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rap159" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:13:12.037Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="theDevilAndGodAreRagingInsideMeAlbumInfo.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:12.038Z" modified="2020-08-07T21:13:12.038Z" filename="theDevilAndGodAreRagingInsideMeAlbumInfo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="scienceFictionAlbumInfo.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:12.71Z" modified="2020-08-07T21:13:12.71Z" filename="scienceFictionAlbumInfo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dejaEntenduAlbumInfo.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:13.614Z" modified="2020-08-07T21:13:13.614Z" filename="dejaEntenduAlbumInfo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="daisyAlbumInfo.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:13.804Z" modified="2020-08-07T21:13:13.804Z" filename="daisyAlbumInfo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bnTable.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:13.869Z" modified="2020-08-07T21:13:13.869Z" filename="bnTable.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pokemon_example.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:13.949Z" modified="2020-08-07T21:13:13.949Z" filename="pokemon_example.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="class_example_pokemon_routes_1.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:14.252Z" modified="2020-08-07T21:13:14.252Z" filename="class_example_pokemon_routes_1.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="yourFavoriteWeaponAlbumInfo.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:14.376Z" modified="2020-08-07T21:13:14.376Z" filename="yourFavoriteWeaponAlbumInfo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonsXquerey" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:12.11Z" modified="2020-08-07T21:13:12.11Z" filename="pokemonsXquerey" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonLatLon.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:12.185Z" modified="2020-08-07T21:13:12.185Z" filename="pokemonLatLon.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="brandNewNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:12.242Z" modified="2020-08-07T21:13:12.242Z" filename="brandNewNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="songLength.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:12.527Z" modified="2020-08-07T21:13:12.527Z" filename="songLength.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:12.586Z" modified="2020-08-07T21:13:12.586Z" filename="qgis" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="waterSVG" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:12.767Z" modified="2020-08-07T21:13:12.767Z" filename="waterSVG" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonLatLon.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:12.838Z" modified="2020-08-07T21:13:12.838Z" filename="pokemonLatLon.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonLatLon" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:12.906Z" modified="2020-08-07T21:13:12.906Z" filename="pokemonLatLon" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="studioLocations.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:12.959Z" modified="2020-08-07T21:13:12.959Z" filename="studioLocations.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bntable" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:13.022Z" modified="2020-08-07T21:13:13.022Z" filename="bntable" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="LatAndLon.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:13.547Z" modified="2020-08-07T21:13:13.547Z" filename="LatAndLon.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="refers" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:13.677Z" modified="2020-08-07T21:13:13.677Z" filename="refers" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xxxxxx" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:13.74Z" modified="2020-08-07T21:13:13.74Z" filename="xxxxxx" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="songLength.csv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:14.181Z" modified="2020-08-07T21:13:14.181Z" filename="songLength.csv" mimetype="text/csv">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="locationsTSV" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:14.318Z" modified="2020-08-07T21:13:14.318Z" filename="locationsTSV" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PokemonLatAndLon.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:14.437Z" modified="2020-08-07T21:13:14.437Z" filename="PokemonLatAndLon.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_1_test.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:14.5Z" modified="2020-08-07T21:13:14.5Z" filename="qgis_1_test.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="albumInfo" filename="albumInfo"/>
+</collection>

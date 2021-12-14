@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="88"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>07aff16b2763285e1ffd077a90d7664401a7c0a0</digestPassword><group name="dlk5486"/><group name="btrees"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><metadata key="http://axschema.org/namePerson">Destinee Kellner</metadata><name>dlk5486</name></account>

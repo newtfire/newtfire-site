@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/alc256" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:48.808Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="pokenet.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:49.014Z" modified="2020-08-07T21:20:49.014Z" filename="pokenet.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonnet.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:49.083Z" modified="2020-08-07T21:20:49.083Z" filename="pokemonnet.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="locationnet.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:49.157Z" modified="2020-08-07T21:20:49.157Z" filename="locationnet.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="locationnet.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:49.226Z" modified="2020-08-07T21:20:49.226Z" filename="locationnet.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemondistypes.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:49.29Z" modified="2020-08-07T21:20:49.29Z" filename="pokemondistypes.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,25 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/repo/semver-xq-2.2.1" version="1" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:23.012Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="expath-pkg.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23.014Z" modified="2020-08-07T02:48:23.014Z" filename="expath-pkg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="exist.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23.017Z" modified="2020-08-07T02:48:23.017Z" filename="exist.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cxan.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23.042Z" modified="2020-08-07T02:48:23.042Z" filename="cxan.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="repo.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23.052Z" modified="2020-08-07T02:48:23.052Z" filename="repo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="README.md" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23.019Z" modified="2020-08-07T02:48:23.019Z" filename="README.md" mimetype="text/markdown">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="LICENSE" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23.029Z" modified="2020-08-07T02:48:23.029Z" filename="LICENSE" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="icon.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:23.034Z" modified="2020-08-07T02:48:23.034Z" filename="icon.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="content" filename="content"/>
+</collection>

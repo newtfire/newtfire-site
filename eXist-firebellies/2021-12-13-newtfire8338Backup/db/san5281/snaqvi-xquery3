@@ -1,0 +1,4 @@
+declare default element namespace "http://www.tei-c.org/ns/1.0";
+let $potato := collection('/db/auto')/*
+let $carrot := $potato[descendant::built[contains(.,"19")]]//built
+return $carrot

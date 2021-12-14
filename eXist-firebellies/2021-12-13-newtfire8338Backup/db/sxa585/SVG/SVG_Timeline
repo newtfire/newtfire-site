@@ -1,0 +1,30 @@
+xquery version "3.1";
+
+ declare variable $banksyColl := collection('/db/Assignments/banksyForSVG/');
+ (: declare more global variables to pull data from the Banks collection. :)
+  declare variable $timelineSpacer := 100;
+ declare variable $ThisFileContent := 
+ 
+<svg>
+   <g transform="translate(30, 30)">
+      <line x1="0" y1="1" x2="1" y2="2000" style="stroke:black;strokewidth:2"/>  
+      
+      
+         {for $m at $pos in $distinctMediums
+            let $countm := $thisYearTitles/following::medium[@type/string() = $m] => count()
+            let $color :=  if ($m = "spray_paint") 
+                              then "aqua"
+                     else if ($m = "canvas") 
+                               then "pink"
+                      else "lavender"
+            return
+        <g>
+            <svg:rect x="75" y="{$i * $timelineSpacer + $pos * 20}" height="20" width="{$countm * 10}"
+        style="fill: {$color}"/>
+       {$countm}
+        <svg:text x="78" y="{$i * $timelineSpacer + $pos * 20 + 15}" style="fill:navy; stroke-width: 2; text-anchor:start"> {$countm}</text>
+         }
+      
+   </g>
+</svg> ;
+      

@@ -1,0 +1,66 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/resources/images" version="1" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.747Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="exide.svg" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.782Z" modified="2020-08-07T02:48:31.782Z" filename="exide.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="help2.png" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.749Z" modified="2020-08-07T02:48:31.749Z" filename="help2.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="layouts_split.png" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.755Z" modified="2020-08-07T02:48:31.755Z" filename="layouts_split.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="layouts_split_vertical.png" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.757Z" modified="2020-08-07T02:48:31.757Z" filename="layouts_split_vertical.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="toggle-dn.gif" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.761Z" modified="2020-08-07T02:48:31.761Z" filename="toggle-dn.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="private.png" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.765Z" modified="2020-08-07T02:48:31.765Z" filename="private.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="header.gif" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.768Z" modified="2020-08-07T02:48:31.768Z" filename="header.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="toggle-up.gif" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.771Z" modified="2020-08-07T02:48:31.771Z" filename="toggle-up.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="toggle-rt.gif" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.774Z" modified="2020-08-07T02:48:31.774Z" filename="toggle-rt.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pbar-ani.gif" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.78Z" modified="2020-08-07T02:48:31.78Z" filename="pbar-ani.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="public.png" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.786Z" modified="2020-08-07T02:48:31.786Z" filename="public.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="background.gif" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.789Z" modified="2020-08-07T02:48:31.789Z" filename="background.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="toggle-lt.gif" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.793Z" modified="2020-08-07T02:48:31.793Z" filename="toggle-lt.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="folder.png" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.795Z" modified="2020-08-07T02:48:31.795Z" filename="folder.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="handle-vert.png" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.798Z" modified="2020-08-07T02:48:31.798Z" filename="handle-vert.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fullscreen.png" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.8Z" modified="2020-08-07T02:48:31.8Z" filename="fullscreen.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="handle-hor.png" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.802Z" modified="2020-08-07T02:48:31.802Z" filename="handle-hor.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bubble.gif" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.804Z" modified="2020-08-07T02:48:31.804Z" filename="bubble.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="help1.png" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.806Z" modified="2020-08-07T02:48:31.806Z" filename="help1.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="logo.png" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.808Z" modified="2020-08-07T02:48:31.808Z" filename="logo.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exide.png" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.81Z" modified="2020-08-07T02:48:31.81Z" filename="exide.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

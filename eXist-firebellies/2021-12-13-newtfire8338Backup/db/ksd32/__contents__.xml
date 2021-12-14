@@ -1,0 +1,33 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ksd32" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:16:36.343Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="DeVore_project.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36.499Z" modified="2020-08-07T21:16:36.499Z" filename="DeVore_project.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DeVoreProject.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36.56Z" modified="2020-08-07T21:16:36.56Z" filename="DeVoreProject.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DeVore_timeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.203Z" modified="2020-08-07T21:16:37.203Z" filename="DeVore_timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CharterCollation.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.298Z" modified="2020-08-07T21:16:37.298Z" filename="CharterCollation.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CharterNetwork.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36.344Z" modified="2020-08-07T21:16:36.344Z" filename="CharterNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DeVoreSVG2.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36.408Z" modified="2020-08-07T21:16:36.408Z" filename="DeVoreSVG2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DeVore_Net-ebb.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36.824Z" modified="2020-08-07T21:16:36.824Z" filename="DeVore_Net-ebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DeVore_Net.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.035Z" modified="2020-08-07T21:16:37.035Z" filename="DeVore_Net.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DeVore_SVG3.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.119Z" modified="2020-08-07T21:16:37.119Z" filename="DeVore_SVG3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DeVore_Net.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.37Z" modified="2020-08-07T21:16:37.37Z" filename="DeVore_Net.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

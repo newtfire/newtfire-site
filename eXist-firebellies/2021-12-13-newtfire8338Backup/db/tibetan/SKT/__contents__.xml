@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tibetan/SKT" version="1" owner="phackett" group="dba" mode="751" created="2020-09-10T17:18:12.709Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="2-03-00256-SKT01.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T17:29:04.028Z" modified="2020-09-10T17:29:04.028Z" filename="2-03-00256-SKT01.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00001-SKT01.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T18:19:56.462Z" modified="2020-09-10T18:19:56.462Z" filename="2-07-00001-SKT01.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00002-SKT04.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T18:19:56.526Z" modified="2020-09-10T18:19:56.526Z" filename="2-07-00002-SKT04.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00048-SKT03.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T18:19:56.561Z" modified="2020-09-10T18:19:56.561Z" filename="2-07-00048-SKT03.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-05-00015-SKT01.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-11T13:16:02.118Z" modified="2020-09-11T13:16:02.118Z" filename="2-05-00015-SKT01.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

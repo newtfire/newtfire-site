@@ -1,0 +1,20 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/resources/scripts" version="1" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.423Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="emmet.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.425Z" modified="2020-08-07T02:48:30.425Z" filename="emmet.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap-3.0.3.min.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.435Z" modified="2020-08-07T02:48:30.435Z" filename="bootstrap-3.0.3.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="highlight.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.438Z" modified="2020-08-07T02:48:30.438Z" filename="highlight.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap.min.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.441Z" modified="2020-08-07T02:48:30.441Z" filename="bootstrap.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="loadsource.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.445Z" modified="2020-08-07T02:48:30.445Z" filename="loadsource.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="jquery" filename="jquery"/>
+    <subcollection name="ace" filename="ace"/>
+</collection>

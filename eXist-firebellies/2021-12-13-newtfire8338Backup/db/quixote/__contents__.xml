@@ -1,0 +1,5 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/quixote" version="1" owner="admin" group="dba" mode="775" created="2021-03-12T04:44:08.941Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="USER" who="jqs6375" access_type="ALLOWED" mode="7"/>
+    </acl>
+</collection>

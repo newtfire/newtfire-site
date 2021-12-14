@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/indexes-test/data" version="1" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:37.979Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="indexes-test-data.xml" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:37.98Z" modified="2020-08-07T02:48:37.98Z" filename="indexes-test-data.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

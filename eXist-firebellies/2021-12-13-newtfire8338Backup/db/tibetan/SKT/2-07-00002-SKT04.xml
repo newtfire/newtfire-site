@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+    <head>
+        <doc id="2-07-00002-SKT04.xml"/>
+        <title>Yuktiṣaṣṭikākārikā</title>
+        <author>Nāgārjuna</author>
+        <unifiedCatalogID>2-07-00002</unifiedCatalogID>
+        <creation date="Sun Aug 25 23:24:40 2019"/>
+        <sourceDesc>
+            <bibl>
+                <title>《六十如理颂》 —— 梵藏汉合校 • 导读 • 译注 [″Yuktiṣaṣṭikākārikā: Editions of the Sanskrit, Tibetan and Chinese Versions, with Commentary and a Modern Chinese Translation″]</title>
+                <author>李学竹 [ LI Xuezhu ]</author>
+                <author>叶少勇 [ YE Shaoyong ]</author>
+				<pubInfo>Zhongxi Book Co. (中西书局)</pubInfo>
+                <pubPlace>-----</pubPlace>
+                <publisher>Zhongxi Book Co. (中西书局)</publisher>
+                <date>2014</date>
+            </bibl>
+        </sourceDesc>
+        <processed date="Sun Aug 25 23:24:40 2019" ver="v.1.0" auth="Hackett"/>
+		<processed date="Sun Apr  5 06:17:55 2020" ver="v.1.01" auth="Fix_non-sequential_PHRASE_ID v.0.1"/>
+    </head>
+    <text>
+        <text_id t_id="2-07-00002-SKT04"/>
+        <sentence s_id="2-07-00002-SKT04-SID000001" type="Text Title" s_name="">
+            <phrase phr_id="2-07-00002-SKT04-000001">yuktiṣaṣṭikākārikā</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000002" type="Homage" s_name="">
+            <phrase phr_id="2-07-00002-SKT04-000002">namas tasmai munīndrāya pratītyotpādavādine</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000003" type="Verse" s_name="1">
+            <phrase phr_id="2-07-00002-SKT04-000003">astināstivyatikrāntā buddhir yeṣāṃ nirāśrayā</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000004">gambhīras tair nirālambaḥ pratyayārtho vibhāvyate</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000004" type="Verse" s_name="5">
+            <phrase phr_id="2-07-00002-SKT04-000005">nirvāṇaṃ caiva lokaṃ ca manyante 'tattvadarśinaḥ</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000006">naiva lokaṃ na nirvāṇaṃ manyante tattvadarśinaḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000005" type="Verse" s_name="6">
+            <phrase phr_id="2-07-00002-SKT04-000007">nirvāṇaṃ ca bhavaś caiva dvayam etan na vidyate</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000008">parijñānaṃ bhavasyaiva nirvāṇam iti kathyate</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000006" type="Verse" s_name="10">
+            <phrase phr_id="2-07-00002-SKT04-000009">avidyāpratyayotpanne samyagjñānāvalokite</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000010">utpādo vā nirodho vā na kaścid upalabhyate</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000007" type="Verse" s_name="11ab">
+            <phrase phr_id="2-07-00002-SKT04-000011">dṛṣṭe dharme ca nirvāṇaṃ kṛtakṛtyaṃ tad eva ca</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000008" type="Verse" s_name="19">
+            <phrase phr_id="2-07-00002-SKT04-000012">tat tat prāpya yad utpannaṃ notpannaṃ tat svabhāvataḥ</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000013">yat svabhāvena notpannam utpannaṃ nāma tat katham</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000009" type="Verse" s_name="21ab">
+            <phrase phr_id="2-07-00002-SKT04-000014">na hy atrotpadyate kiṃcin napi kiṃcin nirudhyate</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000010" type="Verse" s_name="24">
+            <phrase phr_id="2-07-00002-SKT04-000015">svena cittena vañcyante bhāvātmānaḥ pṛthagjanāḥ</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000016">bhāvābhāvaviparyāsa-doṣakleśavaśaṃgatāḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000011" type="Verse" s_name="25">
+            <phrase phr_id="2-07-00002-SKT04-000017">anityaṃ moṣadharmāṇaṃ muktaṃ śūnyam anātmakam</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000018">viviktam iti paśyanti bhāvaṃ bhāvavicakṣaṇāḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000012" type="Verse" s_name="26">
+            <phrase phr_id="2-07-00002-SKT04-000019">apratiṣṭham anālambaṃ nirmūlam anavasthitam</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000020">avidyābījasambhūtam ādimadhyāntavarjitam</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000013" type="Verse" s_name="27">
+            <phrase phr_id="2-07-00002-SKT04-000021">kadalīgarbhaniḥsāraṃ gandharvanagaropamam</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000022">saṃmohanagaraṃ ghoraṃ jagan māyeva dṛśyate</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000014" type="Verse" s_name="28">
+            <phrase phr_id="2-07-00002-SKT04-000023">brahmādyair asya lokasya yat satyaṃ saṃprakāśitam</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000024">tad āryāṇāṃ mṛṣety uktaṃ kiṃ na śeṣam ataḥ param</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000015" type="Verse" s_name="30">
+            <phrase phr_id="2-07-00002-SKT04-000025">sarvam astīti vaktavyam ādau tattvagaveṣiṇām</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000026">paścād avagatārthasya niḥsaṅgasya viviktatā</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000016" type="Verse" s_name="31">
+            <phrase phr_id="2-07-00002-SKT04-000027">viviktārtham ajānānāḥ śrutimātrāvalambinaḥ</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000028">ye na kurvanti puṇyāni hatās te puruṣādhamāḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000017" type="Verse" s_name="32">
+            <phrase phr_id="2-07-00002-SKT04-000029">gatayaś ca samākhyātāḥ saphalatvaṃ ca karmaṇām</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000030">tatsvabhāvaparijñānam anutpādaś ca deśitaḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000018" type="Verse" s_name="33">
+            <phrase phr_id="2-07-00002-SKT04-000031">mamety aham iti proktaṃ yathā kāryavaśāj jinaiḥ</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000032">tathā kāryavaśāt proktāḥ skandhāyatanadhātavaḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000019" type="Verse" s_name="34">
+            <phrase phr_id="2-07-00002-SKT04-000033">mahābhūtādi vijñāne proktaṃ samavarudhyate</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000034">tajjñāne vigamaṃ yāti nanu mithyā vikalpitam</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000020" type="Verse" s_name="36ab">
+            <phrase phr_id="2-07-00002-SKT04-000035">manovispanditaṃ yāvat tāvan mārasya gocaraḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000021" type="Verse" s_name="37">
+            <phrase phr_id="2-07-00002-SKT04-000036">avidyāpratyayaṃ yasmāt sambuddho lokam abravīt</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000037">tasmāl loko vikalpo 'yam iti kiṃ nopapadyate</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000022" type="Verse" s_name="38">
+            <phrase phr_id="2-07-00002-SKT04-000038">avidyāyāṃ niruddhāyāṃ niruddho yasya jāyate</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000039">tat kathaṃ nāma na spaṣṭam ajñānaparikalpitam</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000023" type="Verse" s_name="39">
+            <phrase phr_id="2-07-00002-SKT04-000040">hetutaḥ sambhavo yasya sthitir na pratyayair vinā</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000041">vigamaḥ pratyayābhāvāt so 'stīty avagataḥ katham</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000024" type="Verse" s_name="44">
+            <phrase phr_id="2-07-00002-SKT04-000042">ye 'py upādāya bhāvānāṃ siddhim icchanti tattvataḥ</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000043">teṣām api kathaṃ na syur doṣās te śāśvatādayaḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000025" type="Verse" s_name="45">
+            <phrase phr_id="2-07-00002-SKT04-000044">upādāya tu ye bhāvān icchanty udakacandravat</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000045">nāpi tathyaṃ na cātathyaṃ hriyante te na dṛṣṭibhiḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000026" type="Verse" s_name="46">
+            <phrase phr_id="2-07-00002-SKT04-000046">rāgadveṣodbhavas tīvraḥ kaṣṭo dṛṣṭiparigrahaḥ</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000047">vivādās tatsamutthāś ca bhāvābhyupagame sati</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000027" type="Verse" s_name="47">
+            <phrase phr_id="2-07-00002-SKT04-000048">sa hetuḥ sarvadṛṣṭīnāṃ kleśotpattir na taṃ vinā</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000049">tasmāt tasmin parijñāte dṛṣṭikleśaparikṣayaḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000028" type="Verse" s_name="48">
+            <phrase phr_id="2-07-00002-SKT04-000050">parijñā tasya kenêti pratītyotpādadarśanāt</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000051">pratītya jātaṃ cājātam āha tattvavidāṃ varaḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000029" type="Verse" s_name="49">
+            <phrase phr_id="2-07-00002-SKT04-000052">mithyājñānābhibhūtānām asatye satyasaṃjñinām</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000053">parigrahavivādādikramaḥ snehāt pravartate</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000030" type="Verse" s_name="50">
+            <phrase phr_id="2-07-00002-SKT04-000054">nirvivādā mahātmānaḥ pakṣas teṣā na vidyate</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000055">yeṣāṃ na vidyate pakṣaḥ teṣāṃ pakṣaḥ paraḥ kutaḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000031" type="Verse" s_name="51">
+            <phrase phr_id="2-07-00002-SKT04-000056">kaṃcid evāśrayaṃ labdhvā śaṭhāḥ kleśabhujaṅgamāḥ</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000057">daśanti te na daśyante yeṣāṃ cittaṃ nirāśrayam</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000032" type="Verse" s_name="52">
+            <phrase phr_id="2-07-00002-SKT04-000058">kathaṃ sāspadacittānāṃ doṣā na syur mahāviṣāḥ</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000059">audāsīnye 'pi daśyante yadā kleśabhujaṅgamaiḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000033" type="Verse" s_name="53">
+            <phrase phr_id="2-07-00002-SKT04-000060">pratibimbe yathā bālāḥ sajjante satyasaṃjñinaḥ</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000061">tathā ca badhyate loko mohād viṣayapañjare</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000034" type="Verse" s_name="54">
+            <phrase phr_id="2-07-00002-SKT04-000062">pratibimbopamān bhāvān gṛhītvā jñānacakṣuṣā</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000063">na majjanti mahātmānaḥ paṅke viṣayasaṃjñite</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000035" type="Verse" s_name="55">
+            <phrase phr_id="2-07-00002-SKT04-000064">bālāḥ sajjanti rūpeṣu vairāgyaṃ yānti madhyamāḥ</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000065">svabhāvajñā vimucyante rūpasyottamabuddhayaḥ</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000036" type="Verse" s_name="56">
+            <phrase phr_id="2-07-00002-SKT04-000066">śubham ity āgataḥ saṅgo vairāgyaṃ tadviparyayāt</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000067">māyāpuruṣavad dṛṣṭvā viviktaṃ yānti nirvṛtim</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000037" type="Verse" s_name="58">
+            <phrase phr_id="2-07-00002-SKT04-000068">naiva raktā mahātmāno na viraktā nirāśrayāḥ</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000069">āśraye sati rāgaś ca virāgaś copajāyate</phrase>
+        </sentence>
+        <sentence s_id="2-07-00002-SKT04-SID000038" type="Verse" s_name="59">
+            <phrase phr_id="2-07-00002-SKT04-000070">viviktam iti yeṣān tu calam apy acalaṃ manaḥ</phrase>
+            <phrase phr_id="2-07-00002-SKT04-000071">kleśavyālākulaṃ ghoraṃ tīrṇās te bhavasāgaram</phrase>
+        </sentence>
+    </text>
+</bcrdCorpus>

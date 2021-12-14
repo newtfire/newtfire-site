@@ -1,0 +1,20 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/smashtiers" version="1" owner="bac5738" group="dba" mode="775" created="2021-10-04T05:22:12.046Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="smashtiers" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="supersmashtierlist.xml" skip="no" owner="apv5182" group="smashtiers" mode="7774" created="2021-10-06T19:30:35.829Z" modified="2021-10-27T20:05:35.505Z" filename="supersmashtierlist.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="GameList.xql" skip="no" owner="apv5182" group="apv5182" mode="755" created="2021-10-13T19:31:41.557Z" modified="2021-10-16T02:53:44.089Z" filename="GameList.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="characterTiersPerGame.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-10-17T23:57:24.513Z" modified="2021-10-17T23:57:24.513Z" filename="characterTiersPerGame.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="characterTiersWithoutGames.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-10-18T00:33:40.206Z" modified="2021-10-18T00:33:40.206Z" filename="characterTiersWithoutGames.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="group_by_exp.xql" skip="no" owner="apv5182" group="apv5182" mode="755" created="2021-11-08T22:29:42.474Z" modified="2021-11-08T22:29:42.474Z" filename="group_by_exp.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

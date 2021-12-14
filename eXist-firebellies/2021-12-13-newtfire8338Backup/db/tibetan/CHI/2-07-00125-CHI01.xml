@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-07-00125-CHI01.xml"/>
+		<title>Bodhipathapradīpa</title>
+		<author>Atīśa Dīpaṃkaraśrījñāna</author>
+		<unifiedCatalogID>2-07-00125</unifiedCatalogID>
+		<sourceDesc>
+			<bibl>
+				<title>The lamp for the path to enlightenment = 菩提道炬論</title>
+				<author>Bstan-ʼdzin-rgya-mtsho, Dalai Lama XIV</author>
+				<pubInfo>Bloomington, Ind. : [s.n.] ; Taipei, Taiwan : Printed by Corporate Body of the Buddha Educational Foundation</pubInfo>
+				<date>2007</date>
+			</bibl>
+		</sourceDesc>
+		<creation date="Mon Feb 31 4:20:37 2020"/>
+		<processed date="Mon Feb 31 4:20:37 2020" ver="v.1.0" auth="Hackett"/>
+		<processed date="Tue Mar 31 04:19:17 2020" ver="v.1.01" auth="XMLTagEnglish v.1.08"/>
+	</head>
+	<text>
+		<sentence s_id="2-07-00125-CHI01-SID000001" type="Text Title">
+			<phrase phr_id="2-07-00125-CHI01-000001">菩提道燈論</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000002" type="Verse" s_name="1">
+			<phrase phr_id="2-07-00125-CHI01-000002">敬禮三世一切佛</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000003">及彼正法與眾僧</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000004">應賢弟子菩提光</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000005">勸請善顯覺道燈</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000003" type="Verse" s_name="2">
+			<phrase phr_id="2-07-00125-CHI01-000006">由下中及上</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000007">應知有三士</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000008">當書彼等相</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000009">各各之差別</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000004" type="Verse" s_name="3">
+			<phrase phr_id="2-07-00125-CHI01-000010">若以何方便</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000011">唯於生死樂</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000012">但求自利益</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000013">知為下士夫</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000005" type="Verse" s_name="4">
+			<phrase phr_id="2-07-00125-CHI01-000014">背棄三有樂</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000015">遮止諸惡業</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000016">但求自寂滅</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000017">彼名為中士</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000006" type="Verse" s_name="5">
+			<phrase phr_id="2-07-00125-CHI01-000018">若以自身苦</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000019">比他一切苦</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000020">欲求永盡者</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000021">彼是上士夫</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000007" type="Verse" s_name="6">
+			<phrase phr_id="2-07-00125-CHI01-000022">為諸勝有情</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000023">求大菩提者</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000024">當說諸師長</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000025">所示正方便</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000008" type="Verse" s_name="7">
+			<phrase phr_id="2-07-00125-CHI01-000026">對佛畫像等</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000027">及諸靈塔前</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000028">以花香等物</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000029">盡所有供養</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000009" type="Verse" s_name="8">
+			<phrase phr_id="2-07-00125-CHI01-000030">亦以普賢行</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000031">所說七支供</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000032">以至菩提藏</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000033">不退轉之心</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000010" type="Verse" s_name="9">
+			<phrase phr_id="2-07-00125-CHI01-000034">信仰三寶尊</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000035">雙膝著於地</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000036">恭敬合掌已</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000037">先三遍皈依</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000011" type="Verse" s_name="10">
+			<phrase phr_id="2-07-00125-CHI01-000038">次一切有情</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000039">以慈心為先</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000040">觀惡趣生等</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000041">及死歿等苦</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000012" type="Verse" s_name="11">
+			<phrase phr_id="2-07-00125-CHI01-000042">無餘諸眾生</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000043">為苦所苦惱</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000044">從苦及苦因</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000045">欲度脫眾生</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000013" type="Verse" s_name="12">
+			<phrase phr_id="2-07-00125-CHI01-000046">立誓永不退</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000047">當發菩提心</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000048">如是發願心</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000049">所生諸功德</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000050">如華嚴經中</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000051">彌勒應宣說</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000014" type="Verse" s_name="13">
+			<phrase phr_id="2-07-00125-CHI01-000052">或讀彼經或師聞</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000053">了知正等菩提心</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000054">功德無邊為因緣</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000055">如是數數發其心</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000015" type="Verse" s_name="14">
+			<phrase phr_id="2-07-00125-CHI01-000056">勇施請問經</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000057">亦廣說此福</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000058">彼略攝三頌</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000059">今此當摘錄</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000016" type="Verse" s_name="15">
+			<phrase phr_id="2-07-00125-CHI01-000060">菩提心福德</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000061">假使有色者</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000062">充滿虛空界</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000063">其福猶有餘</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000017" type="Verse" s_name="16">
+			<phrase phr_id="2-07-00125-CHI01-000064">若人以寶珍</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000065">遍滿恆沙數</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000066">一切佛世界</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000067">供獻於諸佛</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000018" type="Verse" s_name="17">
+			<phrase phr_id="2-07-00125-CHI01-000068">若有人合掌</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000069">心敬大菩提</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000070">此供最殊勝</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000071">其福無邊際</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000019" type="Verse" s_name="18">
+			<phrase phr_id="2-07-00125-CHI01-000072">既發菩提願心已</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000073">應多勵力遍增長</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000074">此為餘生常憶念</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000075">如說學處當遍護</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000020" type="Verse" s_name="19">
+			<phrase phr_id="2-07-00125-CHI01-000076">除行心體諸律儀</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000077">非能增長正願心</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000078">由欲增長菩提願</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000079">故當勵力受此律</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000021" type="Verse" s_name="20">
+			<phrase phr_id="2-07-00125-CHI01-000080">若常具餘七</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000081">別解脫律儀</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000082">乃有菩薩律</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000083">善根餘非有</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000022" type="Verse" s_name="21">
+			<phrase phr_id="2-07-00125-CHI01-000084">七眾別解脫</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000085">如來所宣說</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000086">梵行為最勝</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000087">是比丘律儀</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000023" type="Verse" s_name="22">
+			<phrase phr_id="2-07-00125-CHI01-000088">當以菩薩地</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000089">戒品所說軌</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000090">從具德相師</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000091">受持彼律儀</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000024" type="Verse" s_name="23">
+			<phrase phr_id="2-07-00125-CHI01-000092">善巧律儀軌</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000093">自安住律儀</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000094">堪傳律具悲</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000095">當知是良師</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000025" type="Verse" s_name="24">
+			<phrase phr_id="2-07-00125-CHI01-000096">若努力尋求</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000097">不得如是師</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000098">當宣說其餘</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000099">受律儀軌則</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000026" type="Verse" s_name="25">
+			<phrase phr_id="2-07-00125-CHI01-000100">如昔妙吉祥</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000101">為虛空王時</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000102">所發菩提心</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000103">如妙祥莊嚴</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000027" type="Verse" s_name="26">
+			<phrase phr_id="2-07-00125-CHI01-000104">佛土經所說</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000105">如是此當書</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000106">於諸依怙前</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000107">發大菩提心</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000028" type="Verse" s_name="27">
+			<phrase phr_id="2-07-00125-CHI01-000108">請一切眾生</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000109">度彼出生死</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000110">損害心忿心</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000111">慳吝與嫉妒</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000112">從今至證道</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000113">此等終不起</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000029" type="Verse" s_name="28">
+			<phrase phr_id="2-07-00125-CHI01-000114">當修行梵行</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000115">當斷罪及欲</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000116">愛樂戒律儀</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000117">當隨諸佛學</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000030" type="Verse" s_name="29">
+			<phrase phr_id="2-07-00125-CHI01-000118">不樂為自己</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000119">速得大菩提</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000120">為一有情因</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000121">住到最後際</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000031" type="Verse" s_name="30">
+			<phrase phr_id="2-07-00125-CHI01-000122">當嚴淨無量</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000123">不思議佛土</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000124">受持於名號</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000125">及住十方界</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000032" type="Verse" s_name="31">
+			<phrase phr_id="2-07-00125-CHI01-000126">我之身語業</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000127">一切使清淨</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000128">意業亦清淨</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000129">不作不善業</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000033" type="Verse" s_name="32">
+			<phrase phr_id="2-07-00125-CHI01-000130">自身語心清淨因</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000131">謂住行心體律儀</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000132">由善學習三戒學</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000133">於三戒學起敬重</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000034" type="Verse" s_name="33">
+			<phrase phr_id="2-07-00125-CHI01-000134">如是勤清淨</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000135">菩薩諸律儀</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000136">便當能圓滿</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000137">大菩提資糧</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000035" type="Verse" s_name="34">
+			<phrase phr_id="2-07-00125-CHI01-000138">福智為自性</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000139">資糧圓滿因</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000140">一切佛共許</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000141">為引發神通</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000036" type="Verse" s_name="35">
+			<phrase phr_id="2-07-00125-CHI01-000142">如鳥未生翼</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000143">不能騰虛空</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000144">若離神通力</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000145">不能利有情</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000037" type="Verse" s_name="36">
+			<phrase phr_id="2-07-00125-CHI01-000146">具通者日夜</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000147">所修諸福德</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000148">諸離神通者</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000149">百生不能集</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000038" type="Verse" s_name="37">
+			<phrase phr_id="2-07-00125-CHI01-000150">若欲速圓滿</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000151">大菩提資糧</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000152">要勤修神通</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000153">方成非懈怠</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000039" type="Verse" s_name="38">
+			<phrase phr_id="2-07-00125-CHI01-000154">若未成就止</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000155">不能起神通</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000156">為修成止故</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000157">應數數策勵</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000040" type="Verse" s_name="39">
+			<phrase phr_id="2-07-00125-CHI01-000158">止支若失壞</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000159">即使勤修習</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000160">縱然經千載</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000161">亦不能得定</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000041" type="Verse" s_name="40">
+			<phrase phr_id="2-07-00125-CHI01-000162">故當善安住</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000163">定資糧品中</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000164">所說諸支分</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000165">於隨一所緣</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000042" type="Verse" s_name="41">
+			<phrase phr_id="2-07-00125-CHI01-000166">意安住於善</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000167">瑜伽若成止</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000168">神通亦當成</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000169">離慧度瑜伽</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000043" type="Verse" s_name="42">
+			<phrase phr_id="2-07-00125-CHI01-000170">不能盡諸障</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000171">為無餘斷除</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000172">煩惱所知障</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000173">故應具方便</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000044" type="Verse" s_name="43">
+			<phrase phr_id="2-07-00125-CHI01-000174">修慧度瑜伽</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000175">般若離方便</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000176">方便離般若</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000177">俱說為繫縛</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000045" type="Verse" s_name="44">
+			<phrase phr_id="2-07-00125-CHI01-000178">故二不應離</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000179">何慧何方便</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000180">為除諸疑故</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000181">當明諸方便</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000046" type="Verse" s_name="45">
+			<phrase phr_id="2-07-00125-CHI01-000182">與般若差別</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000183">除般若度外</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000184">施波羅密等</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000185">一切善資糧</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000047" type="Verse" s_name="46">
+			<phrase phr_id="2-07-00125-CHI01-000186">佛說為方便</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000187">苦修方便力</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000188">自善修般若</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000189">彼速證菩提</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000048" type="Verse" s_name="47">
+			<phrase phr_id="2-07-00125-CHI01-000190">非單修無我</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000191">遍達蘊處界</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000192">皆悉無有生</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000193">了知自性空</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000049" type="Verse" s_name="48">
+			<phrase phr_id="2-07-00125-CHI01-000194">說名為般若</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000195">有則生非理</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000196">無亦如空花</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000197">俱則犯俱過</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000050" type="Verse" s_name="49">
+			<phrase phr_id="2-07-00125-CHI01-000198">故俱亦不生</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000199">諸法不自生</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000200">亦非他及共</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000201">亦非無因生</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000051" type="Verse" s_name="50">
+			<phrase phr_id="2-07-00125-CHI01-000202">故無體自性</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000203">又一切諸法</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000204">用一異觀察</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000205">自性不可得</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000052" type="Verse" s_name="51">
+			<phrase phr_id="2-07-00125-CHI01-000206">定知無自性</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000207">七十空性理</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000208">及本中論等</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000209">亦成立諸法</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000053" type="Verse" s_name="52">
+			<phrase phr_id="2-07-00125-CHI01-000210">自性之空性</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000211">由恐文太繁</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000212">故此不廣說</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000213">僅就已成宗</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000054" type="Verse" s_name="53">
+			<phrase phr_id="2-07-00125-CHI01-000214">為修故而說</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000215">故無餘諸法</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000216">自性不可得</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000217">所有修無我</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000055" type="Verse" s_name="54">
+			<phrase phr_id="2-07-00125-CHI01-000218">即是修般若</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000219">以慧觀諸法</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000220">都不見自性</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000221">亦了彼慧性</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000056" type="Verse" s_name="55">
+			<phrase phr_id="2-07-00125-CHI01-000222">無分別修彼</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000223">三有分別生</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000224">分別為體性</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000225">故斷諸分別</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000226">是最勝涅槃</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000057" type="Sentence">
+			<phrase phr_id="2-07-00125-CHI01-000227">如世尊所云</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000058" type="Verse" s_name="56">
+			<phrase phr_id="2-07-00125-CHI01-000228">分別大無明</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000229">能墮生死海</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000059" type="Sentence">
+			<phrase phr_id="2-07-00125-CHI01-000230">入無分別陀羅尼亦云</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000060" type="Verse" s_name="57">
+			<phrase phr_id="2-07-00125-CHI01-000231">佛子於此法</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000232">若思無分別</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000233">越分別險阻</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000234">漸得無分別</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000061" type="Verse" s_name="58">
+			<phrase phr_id="2-07-00125-CHI01-000235">由聖教正理</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000236">定解一切法</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000237">無生無自性</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000238">當修無分別</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000062" type="Verse" s_name="59">
+			<phrase phr_id="2-07-00125-CHI01-000239">如是修真性</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000240">漸得暖等已</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000241">當得極喜等</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000242">佛菩提非遙</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000063" type="Verse" s_name="60">
+			<phrase phr_id="2-07-00125-CHI01-000243">由咒力成就</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000244">靜增等事業</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000245">及修寶瓶等</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000246">八大悉地力</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000064" type="Verse" s_name="61">
+			<phrase phr_id="2-07-00125-CHI01-000247">欲安樂圓滿</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000248">大菩提資糧</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000249">若有欲修習</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000250">事行等續部</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000251">所說諸密咒</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000065" type="Verse" s_name="62">
+			<phrase phr_id="2-07-00125-CHI01-000252">為求師長灌頂故</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000253">當以承事寶等施</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000254">依教行等一切事</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000255">使良師長心歡喜</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000066" type="Verse" s_name="63">
+			<phrase phr_id="2-07-00125-CHI01-000256">由於師長心喜故</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000257">圓滿傳授師灌頂</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000258">清淨諸罪為體性</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000259">是修悉地善根者</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000067" type="Verse" s_name="64">
+			<phrase phr_id="2-07-00125-CHI01-000260">初佛大續中</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000261">極力遮止故</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000262">密與慧灌頂</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000263">梵行者勿受</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000068" type="Verse" s_name="65">
+			<phrase phr_id="2-07-00125-CHI01-000264">倘持彼灌頂</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000265">安住梵行者</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000266">違犯所遮故</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000267">失壞彼律儀</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000069" type="Verse" s_name="66">
+			<phrase phr_id="2-07-00125-CHI01-000268">其持禁行者</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000269">則犯他勝罪</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000270">定當墮惡趣</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000271">亦無所成就</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000070" type="Verse" s_name="67">
+			<phrase phr_id="2-07-00125-CHI01-000272">若聽講諸續</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000273">護摩祠祀等</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000274">得師灌頂者</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000275">知真實無過</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000071" type="Verse" s_name="68">
+			<phrase phr_id="2-07-00125-CHI01-000276">燃燈智上座</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000277">見經法等說</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000278">由菩提光請</phrase>
+			<phrase phr_id="2-07-00125-CHI01-000279">略說菩提道</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-CHI01-SID000072" type="Text Colophon">
+			<phrase phr_id="2-07-00125-CHI01-000280">菩提道燈 大阿遮利耶吉祥燃燈智造論圓滿</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

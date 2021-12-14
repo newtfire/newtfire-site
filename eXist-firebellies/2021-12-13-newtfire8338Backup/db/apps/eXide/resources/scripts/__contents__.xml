@@ -1,0 +1,22 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/resources/scripts" version="1" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.98Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="d3.v3.min.js" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.983Z" modified="2020-08-07T02:48:31.983Z" filename="d3.v3.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xqlint.min.js" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.987Z" modified="2020-08-07T02:48:31.987Z" filename="xqlint.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="require.js" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.996Z" modified="2020-08-07T02:48:31.996Z" filename="require.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="modernizr.custom.js" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32.001Z" modified="2020-08-07T02:48:32.001Z" filename="modernizr.custom.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="eXide.min.js" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32.004Z" modified="2020-08-07T02:48:32.004Z" filename="eXide.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="less.min.js" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32.007Z" modified="2020-08-07T02:48:32.007Z" filename="less.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="jquery" filename="jquery"/>
+</collection>

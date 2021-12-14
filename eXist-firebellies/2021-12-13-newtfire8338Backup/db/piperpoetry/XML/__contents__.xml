@@ -1,0 +1,42 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/piperpoetry/XML" version="1" owner="pub81" group="pub81" mode="755" created="2021-09-21T13:54:31.991Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="clockface_poem.xml" skip="no" owner="pub81" group="pub81" mode="644" created="2021-09-21T13:54:31.993Z" modified="2021-11-30T12:00:13.779Z" filename="clockface_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fromACorpse_poem.xml" skip="no" owner="pub81" group="pub81" mode="644" created="2021-11-30T12:00:13.862Z" modified="2021-11-30T12:00:13.862Z" filename="fromACorpse_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="host_poem.xml" skip="no" owner="pub81" group="pub81" mode="644" created="2021-09-21T13:54:32.14Z" modified="2021-11-30T12:00:14.022Z" filename="host_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="liminalDreaming_poem.xml" skip="no" owner="pub81" group="pub81" mode="644" created="2021-11-30T12:00:14.097Z" modified="2021-11-30T12:00:14.097Z" filename="liminalDreaming_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="littleStories_poem.xml" skip="no" owner="pub81" group="pub81" mode="644" created="2021-11-30T12:00:14.172Z" modified="2021-11-30T12:00:14.172Z" filename="littleStories_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pulse_poem.xml" skip="no" owner="pub81" group="pub81" mode="644" created="2021-09-21T13:54:32.333Z" modified="2021-11-30T12:00:14.331Z" filename="pulse_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lorn_poem.xml" skip="no" owner="pub81" group="pub81" mode="644" created="2021-11-30T12:00:14.246Z" modified="2021-11-30T12:00:14.246Z" filename="lorn_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="toACorpse_poem.xml" skip="no" owner="pub81" group="pub81" mode="644" created="2021-11-30T12:00:14.569Z" modified="2021-11-30T12:00:14.569Z" filename="toACorpse_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="hollow_poem.xml" skip="no" owner="pub81" group="pub81" mode="644" created="2021-11-16T14:46:31.329Z" modified="2021-11-30T12:00:13.942Z" filename="hollow_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="red_poem.xml" skip="no" owner="pub81" group="pub81" mode="644" created="2021-11-16T14:46:34.918Z" modified="2021-11-30T12:00:14.411Z" filename="red_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rotten_poem.xml" skip="no" owner="pub81" group="pub81" mode="644" created="2021-11-16T14:46:38.023Z" modified="2021-11-30T12:00:14.49Z" filename="rotten_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="witness_poem.xml" skip="no" owner="pub81" group="pub81" mode="644" created="2021-10-05T14:11:43.272Z" modified="2021-11-30T12:00:14.724Z" filename="witness_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="virga_poem.xml" skip="no" owner="pub81" group="pub81" mode="644" created="2021-11-18T16:15:11.951Z" modified="2021-11-30T12:00:14.651Z" filename="virga_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

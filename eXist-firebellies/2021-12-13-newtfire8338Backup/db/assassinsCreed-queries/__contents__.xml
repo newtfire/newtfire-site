@@ -1,0 +1,11 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/assassinsCreed-queries" version="1" owner="admin" group="dba" mode="775" created="2021-03-28T22:09:59.201Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="assassins" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="BinaryResource" name="AMW_ac_speakerNetwork.tsv" skip="no" owner="amw6765" group="amw6765" mode="644" created="2021-04-27T19:03:30.192Z" modified="2021-04-27T19:03:30.192Z" filename="AMW_ac_speakerNetwork.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_ac_speakerNetwork.xql" skip="no" owner="amw6765" group="amw6765" mode="755" created="2021-04-27T19:04:00.51Z" modified="2021-04-27T19:04:00.51Z" filename="AMW_ac_speakerNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

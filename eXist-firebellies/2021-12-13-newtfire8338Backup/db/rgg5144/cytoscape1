@@ -1,0 +1,7 @@
+xquery version "3.1";
+let $disneySongs := collection('/db/disneySongs')
+let $voiceActors := $disneySongs//voiceActor ! normalize-space()=> distinct-values()
+for $va in $voiceActors
+let $vaMovies := $disneySongs[.//voiceActor ! normalize-space() = $va]//movie !normalize-space() => distinct-values()
+for 
+return $disneySongs

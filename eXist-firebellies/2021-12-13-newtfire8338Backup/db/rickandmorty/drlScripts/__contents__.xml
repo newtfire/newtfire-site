@@ -1,0 +1,61 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rickandmorty/drlScripts" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:13:04.941Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="bigTroubleInLittleSanchez_s02_e07.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.942Z" modified="2020-08-07T21:13:04.942Z" filename="bigTroubleInLittleSanchez_s02_e07.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lawnmowerDog_s01_e02.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:05.02Z" modified="2020-08-07T21:13:05.02Z" filename="lawnmowerDog_s01_e02.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="anatomyPark_s01_e03.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:05.517Z" modified="2020-08-07T21:13:05.517Z" filename="anatomyPark_s01_e03.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="getSchwifty_s02_e05.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:05.749Z" modified="2020-08-07T21:13:05.749Z" filename="getSchwifty_s02_e05.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rickPotion_s01_e06.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:09.535Z" modified="2020-08-07T21:13:09.535Z" filename="rickPotion_s01_e06.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="somethingRickedThisWayComes_s01_e09.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:09.711Z" modified="2020-08-07T21:13:09.711Z" filename="somethingRickedThisWayComes_s01_e09.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rickmancingTheStone_s03_e02.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:09.906Z" modified="2020-08-07T21:13:09.906Z" filename="rickmancingTheStone_s03_e02.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ricksyBusiness_s01_e11.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:09.983Z" modified="2020-08-07T21:13:09.983Z" filename="ricksyBusiness_s01_e11.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aRickleInTime_s02_e01.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:10.157Z" modified="2020-08-07T21:13:10.157Z" filename="aRickleInTime_s02_e01.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="raisingGazorpazorp_s01_e07.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:10.325Z" modified="2020-08-07T21:13:10.325Z" filename="raisingGazorpazorp_s01_e07.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="theAbcsOfBeth_s03_e09.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:10.487Z" modified="2020-08-07T21:13:10.487Z" filename="theAbcsOfBeth_s03_e09.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mNightShaym-Aliens_s01_e04.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:10.623Z" modified="2020-08-07T21:13:10.623Z" filename="mNightShaym-Aliens_s01_e04.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="totalRickall_s02_e04.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:10.769Z" modified="2020-08-07T21:13:10.769Z" filename="totalRickall_s02_e04.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pickleRick_s03_e03.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:10.942Z" modified="2020-08-07T21:13:10.942Z" filename="pickleRick_s03_e03.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mortynightRun_s02_e02.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:11.159Z" modified="2020-08-07T21:13:11.159Z" filename="mortynightRun_s02_e02.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="theWhirlyDirlyConspiracy_s03_e05.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:11.325Z" modified="2020-08-07T21:13:11.325Z" filename="theWhirlyDirlyConspiracy_s03_e05.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rixtyMinutes_s01_e08.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:11.469Z" modified="2020-08-07T21:13:11.469Z" filename="rixtyMinutes_s01_e08.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="closeRick-countersOfTheRickKind_s01_e10.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:11.677Z" modified="2020-08-07T21:13:11.677Z" filename="closeRick-countersOfTheRickKind_s01_e10.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="meeseeksAndDestroy_s01_e05.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:11.859Z" modified="2020-08-07T21:13:11.859Z" filename="meeseeksAndDestroy_s01_e05.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="episodes" filename="episodes"/>
+</collection>

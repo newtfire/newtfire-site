@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/teentitans" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:08.44Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="speakerNetwork_s2.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:11.647Z" modified="2020-08-07T21:12:11.647Z" filename="speakerNetwork_s2.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="speakerNetwork_s1.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:11.569Z" modified="2020-08-07T21:12:11.569Z" filename="speakerNetwork_s1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="speakerNetwork_s2.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:10.101Z" modified="2020-08-07T21:12:10.101Z" filename="speakerNetwork_s2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="season2" filename="season2"/>
+    <subcollection name="qgis" filename="qgis"/>
+    <subcollection name="season1" filename="season1"/>
+</collection>

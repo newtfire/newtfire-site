@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/brandnew/XML/albumInfo" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:18:44.132Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="theDevilAndGodAreRagingInsideMeAlbumInfo.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:44.133Z" modified="2020-08-07T21:18:44.133Z" filename="theDevilAndGodAreRagingInsideMeAlbumInfo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="scienceFictionAlbumInfo.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:44.209Z" modified="2020-08-07T21:18:44.209Z" filename="scienceFictionAlbumInfo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dejaEntenduAlbumInfo.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:44.34Z" modified="2020-08-07T21:18:44.34Z" filename="dejaEntenduAlbumInfo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="daisyAlbumInfo.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:44.4Z" modified="2020-08-07T21:18:44.4Z" filename="daisyAlbumInfo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="yourFavoriteWeaponAlbumInfo.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:44.46Z" modified="2020-08-07T21:18:44.46Z" filename="yourFavoriteWeaponAlbumInfo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

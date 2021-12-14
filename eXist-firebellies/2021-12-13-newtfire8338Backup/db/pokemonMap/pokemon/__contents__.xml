@@ -1,0 +1,300 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/pokemonMap/pokemon" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:16.322Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="016.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16.323Z" modified="2020-08-07T21:14:16.323Z" filename="016.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="002.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16.379Z" modified="2020-08-07T21:14:16.379Z" filename="002.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="003.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16.44Z" modified="2020-08-07T21:14:16.44Z" filename="003.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="017.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16.5Z" modified="2020-08-07T21:14:16.5Z" filename="017.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="149.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16.554Z" modified="2020-08-07T21:14:16.554Z" filename="149.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="001.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16.61Z" modified="2020-08-07T21:14:16.61Z" filename="001.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="015.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16.667Z" modified="2020-08-07T21:14:16.667Z" filename="015.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="029.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16.724Z" modified="2020-08-07T21:14:16.724Z" filename="029.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="028.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16.789Z" modified="2020-08-07T21:14:16.789Z" filename="028.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="014.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16.853Z" modified="2020-08-07T21:14:16.853Z" filename="014.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="148.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16.907Z" modified="2020-08-07T21:14:16.907Z" filename="148.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="038.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:16.962Z" modified="2020-08-07T21:14:16.962Z" filename="038.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="004.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.025Z" modified="2020-08-07T21:14:17.025Z" filename="004.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="010.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.083Z" modified="2020-08-07T21:14:17.083Z" filename="010.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="011.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.142Z" modified="2020-08-07T21:14:17.142Z" filename="011.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="005.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.202Z" modified="2020-08-07T21:14:17.202Z" filename="005.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="039.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.256Z" modified="2020-08-07T21:14:17.256Z" filename="039.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="013.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.311Z" modified="2020-08-07T21:14:17.311Z" filename="013.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="007.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.369Z" modified="2020-08-07T21:14:17.369Z" filename="007.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="006.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.435Z" modified="2020-08-07T21:14:17.435Z" filename="006.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="012.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.503Z" modified="2020-08-07T21:14:17.503Z" filename="012.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="101.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.557Z" modified="2020-08-07T21:14:17.557Z" filename="101.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="115.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.611Z" modified="2020-08-07T21:14:17.611Z" filename="115.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="129.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.676Z" modified="2020-08-07T21:14:17.676Z" filename="129.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="075.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.736Z" modified="2020-08-07T21:14:17.736Z" filename="075.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="061.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.791Z" modified="2020-08-07T21:14:17.791Z" filename="061.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="049.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.864Z" modified="2020-08-07T21:14:17.864Z" filename="049.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="048.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:17.931Z" modified="2020-08-07T21:14:17.931Z" filename="048.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="060.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.004Z" modified="2020-08-07T21:14:18.004Z" filename="060.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="074.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.069Z" modified="2020-08-07T21:14:18.069Z" filename="074.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="128.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.131Z" modified="2020-08-07T21:14:18.131Z" filename="128.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="114.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.18Z" modified="2020-08-07T21:14:18.18Z" filename="114.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="100.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.241Z" modified="2020-08-07T21:14:18.241Z" filename="100.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="116.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.298Z" modified="2020-08-07T21:14:18.298Z" filename="116.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="102.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.356Z" modified="2020-08-07T21:14:18.356Z" filename="102.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="062.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.422Z" modified="2020-08-07T21:14:18.422Z" filename="062.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="076.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.477Z" modified="2020-08-07T21:14:18.477Z" filename="076.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="089.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.536Z" modified="2020-08-07T21:14:18.536Z" filename="089.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="088.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.589Z" modified="2020-08-07T21:14:18.589Z" filename="088.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="077.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.649Z" modified="2020-08-07T21:14:18.649Z" filename="077.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="063.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.707Z" modified="2020-08-07T21:14:18.707Z" filename="063.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="103.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.764Z" modified="2020-08-07T21:14:18.764Z" filename="103.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="117.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.82Z" modified="2020-08-07T21:14:18.82Z" filename="117.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="113.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.872Z" modified="2020-08-07T21:14:18.872Z" filename="113.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="107.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.921Z" modified="2020-08-07T21:14:18.921Z" filename="107.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="067.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:18.979Z" modified="2020-08-07T21:14:18.979Z" filename="067.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="073.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.044Z" modified="2020-08-07T21:14:19.044Z" filename="073.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="098.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.11Z" modified="2020-08-07T21:14:19.11Z" filename="098.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="099.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.187Z" modified="2020-08-07T21:14:19.187Z" filename="099.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="072.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.241Z" modified="2020-08-07T21:14:19.241Z" filename="072.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="066.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.305Z" modified="2020-08-07T21:14:19.305Z" filename="066.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="106.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.364Z" modified="2020-08-07T21:14:19.364Z" filename="106.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="112.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.429Z" modified="2020-08-07T21:14:19.429Z" filename="112.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="138.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.482Z" modified="2020-08-07T21:14:19.482Z" filename="138.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="104.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.539Z" modified="2020-08-07T21:14:19.539Z" filename="104.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="110.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.598Z" modified="2020-08-07T21:14:19.598Z" filename="110.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="058.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.659Z" modified="2020-08-07T21:14:19.659Z" filename="058.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="070.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.714Z" modified="2020-08-07T21:14:19.714Z" filename="070.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="064.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.77Z" modified="2020-08-07T21:14:19.77Z" filename="064.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="065.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.833Z" modified="2020-08-07T21:14:19.833Z" filename="065.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="071.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.894Z" modified="2020-08-07T21:14:19.894Z" filename="071.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="059.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:19.954Z" modified="2020-08-07T21:14:19.954Z" filename="059.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="111.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.017Z" modified="2020-08-07T21:14:20.017Z" filename="111.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="105.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.074Z" modified="2020-08-07T21:14:20.074Z" filename="105.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="139.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.127Z" modified="2020-08-07T21:14:20.127Z" filename="139.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="120.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.19Z" modified="2020-08-07T21:14:20.19Z" filename="120.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="134.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.255Z" modified="2020-08-07T21:14:20.255Z" filename="134.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="108.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.313Z" modified="2020-08-07T21:14:20.313Z" filename="108.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="054.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.479Z" modified="2020-08-07T21:14:20.479Z" filename="054.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="040.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.559Z" modified="2020-08-07T21:14:20.559Z" filename="040.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="068.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.615Z" modified="2020-08-07T21:14:20.615Z" filename="068.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="097.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.667Z" modified="2020-08-07T21:14:20.667Z" filename="097.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="083.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.728Z" modified="2020-08-07T21:14:20.728Z" filename="083.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="082.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.792Z" modified="2020-08-07T21:14:20.792Z" filename="082.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="096.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.855Z" modified="2020-08-07T21:14:20.855Z" filename="096.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="069.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.92Z" modified="2020-08-07T21:14:20.92Z" filename="069.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="041.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:20.972Z" modified="2020-08-07T21:14:20.972Z" filename="041.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="055.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.033Z" modified="2020-08-07T21:14:21.033Z" filename="055.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="109.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.087Z" modified="2020-08-07T21:14:21.087Z" filename="109.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="135.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.142Z" modified="2020-08-07T21:14:21.142Z" filename="135.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="121.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.208Z" modified="2020-08-07T21:14:21.208Z" filename="121.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="137.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.271Z" modified="2020-08-07T21:14:21.271Z" filename="137.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="123.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.329Z" modified="2020-08-07T21:14:21.329Z" filename="123.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="043.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.391Z" modified="2020-08-07T21:14:21.391Z" filename="043.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="057.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.453Z" modified="2020-08-07T21:14:21.453Z" filename="057.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="080.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.515Z" modified="2020-08-07T21:14:21.515Z" filename="080.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="094.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.571Z" modified="2020-08-07T21:14:21.571Z" filename="094.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="095.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.64Z" modified="2020-08-07T21:14:21.64Z" filename="095.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="081.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.692Z" modified="2020-08-07T21:14:21.692Z" filename="081.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="056.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.759Z" modified="2020-08-07T21:14:21.759Z" filename="056.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="042.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.817Z" modified="2020-08-07T21:14:21.817Z" filename="042.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="122.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.872Z" modified="2020-08-07T21:14:21.872Z" filename="122.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="136.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.933Z" modified="2020-08-07T21:14:21.933Z" filename="136.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="132.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:21.99Z" modified="2020-08-07T21:14:21.99Z" filename="132.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="126.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:22.047Z" modified="2020-08-07T21:14:22.047Z" filename="126.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="046.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:22.109Z" modified="2020-08-07T21:14:22.109Z" filename="046.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="052.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:22.163Z" modified="2020-08-07T21:14:22.163Z" filename="052.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="085.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:22.221Z" modified="2020-08-07T21:14:22.221Z" filename="085.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="091.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:22.275Z" modified="2020-08-07T21:14:22.275Z" filename="091.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

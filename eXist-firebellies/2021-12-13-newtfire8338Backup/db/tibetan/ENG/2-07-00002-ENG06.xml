@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-07-00002-ENG06.xml"/>
+        <title>Yuktiṣaṣṭikākārikā-nāma</title>
+        <author>Nāgārjuna</author>
+		<unifiedCatalogID>2-07-00002</unifiedCatalogID>
+		<sourceDesc>
+			<bibl>
+				<title>Nāgārjuna's Reason Sixty</title>
+				<author>Loizzo, Joseph, and the AIBS Team</author>
+				<pubInfo>New York: AIBS</pubInfo>
+				<date>2007</date>
+			</bibl>
+		</sourceDesc>
+		<creation date="Tue Feb 25 8:38:57 2020"/>
+		<processed date="Tue Feb 25 8:38:57 2020" ver="v.1.0" auth="Hackett"/>
+		<processed date="Wed Mar 25 08:34:11 2020" ver="v.1.01" auth="XMLTagEnglish v.1.07"/>
+	</head>
+	<text>
+		<sentence s_id="2-07-00002-ENG06-SID000001" type="Text Title">
+			<phrase phr_id="2-07-00002-ENG06-000001">Sixty Stanzas of Reasonings</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000002" type="Sentence">
+			<phrase phr_id="2-07-00002-ENG06-000002">Homage to the Ever-youthful Mañjuśrī!</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000003" type="Verse" s_name="Homage">
+			<phrase phr_id="2-07-00002-ENG06-000003">I pay homage to that Lord of Sages</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000004">Who proclaimed dependent arising,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000005">The means by which he abandonned</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000006">Creation and destruction!</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000004" type="Verse" s_name="1">
+			<phrase phr_id="2-07-00002-ENG06-000007">Those whose intellects transcend</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000008">Being and nothingness, and do not dwell [in between],</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000009">Meditate on the meaning of conditions,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000010">Which is profound and unobservable.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000005" type="Verse" s_name="2">
+			<phrase phr_id="2-07-00002-ENG06-000011">Those who have turned away from nihilism</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000012">The source of all ills,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000013">Should attend to the reasons why</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000014">The extreme of permanence should be rejected as well.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000006" type="Verse" s_name="3">
+			<phrase phr_id="2-07-00002-ENG06-000015">If things were real</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000016">As the childish construe them,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000017">Then why not accept</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000018">Nothing[ness] as liberation?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000007" type="Verse" s_name="4">
+			<phrase phr_id="2-07-00002-ENG06-000019">One cannot be liberated through the extreme of permanence,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000020">Nor transcend this existence through nihilism;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000021">The great beings are liberated</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000022">By comprehending being and nothingness.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000008" type="Verse" s_name="5">
+			<phrase phr_id="2-07-00002-ENG06-000023">Those who do not see reality presume</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000024">The world and nirvāṇa;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000025">Those who see reality do not presume</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000026">Either a world nor transcendence.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000009" type="Verse" s_name="6">
+			<phrase phr_id="2-07-00002-ENG06-000027">Existence and nirvāṇa —</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000028">Neither of those two are existent;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000029">Complete comprehension of existence</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000030">Is what is called “nirvāṇa.”</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000010" type="Verse" s_name="7">
+			<phrase phr_id="2-07-00002-ENG06-000031">[The childish] imagine cessation</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000032">As the annihilation of a created being,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000033">While the wise understand it</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000034">As like the cessation of a magician’s illusion.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000011" type="Verse" s_name="8">
+			<phrase phr_id="2-07-00002-ENG06-000035">If cessation came by destruction, [and]</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000036">Not by cognizing the contingent,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000037">Who would there be to directly perceive it?</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000038">What would such a destroyed [person] be like?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000012" type="Verse" s_name="9">
+			<phrase phr_id="2-07-00002-ENG06-000039">[Some claim:] “If the aggregates have not ceased,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000040">Though afflictions have stopped, there is no transcendence;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000041">When one’s [aggregates] have ceased</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000042">Then [and only then] would one be liberated.”</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000013" type="Verse" s_name="10">
+			<phrase phr_id="2-07-00002-ENG06-000043">When one sees with correct intuition</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000044">What occurs conditioned by misknowledge,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000045">One does not perceive anything</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000046">That could possibly be created or cease.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000014" type="Verse" s_name="11">
+			<phrase phr_id="2-07-00002-ENG06-000047">At [the moment of] the truth of seeing [suchness, one achieves] nirvāṇa;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000048">[It is] the accomplishment of the objective, or suchness.</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000049">If, after such [direct] insight into the [Four Noble] Truths,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000050">One finds distinctions in this [object of realization],</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000015" type="Verse" s_name="12">
+			<phrase phr_id="2-07-00002-ENG06-000051">Imagining anything, however subtle,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000052">That could be created,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000053">Such an unwise individual</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000054">Has not seen the meaning of dependent arising.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000016" type="Verse" s_name="13">
+			<phrase phr_id="2-07-00002-ENG06-000055">If monks who exhaust their afflictions</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000056">Completely overturn cyclic life,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000057">Then why do the perfect Buddhas</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000058">Not explain the beginning of that [cyclic life]?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000017" type="Verse" s_name="14">
+			<phrase phr_id="2-07-00002-ENG06-000059">If there were a beginning, then there would be faults,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000060">and one would be obsessed with [false] worldviews.</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000061">What beginning or end could there be</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000062">To that which arises dependently?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000018" type="Verse" s_name="15">
+			<phrase phr_id="2-07-00002-ENG06-000063">How could something previously [absolutely] created</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000064">Later be eliminated?</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000065">Free from initial or terminal limits,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000066">The [places of] migration appear like illusions.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000019" type="Verse" s_name="16">
+			<phrase phr_id="2-07-00002-ENG06-000067">When an illusion arises</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000068">Or when it is destroyed,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000069">One who knows the illusion is not confused;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000070">One ignorant of the illusion is entranced by it.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000020" type="Verse" s_name="17">
+			<phrase phr_id="2-07-00002-ENG06-000071">One whose intellect sees existence</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000072">As analogous to an illusion or mirage,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000073">Is not deceived by [extremist] views</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000074">Of an ultimate beginning or end.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000021" type="Verse" s_name="18">
+			<phrase phr_id="2-07-00002-ENG06-000075">Those who imagine that contingent things</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000076">Are [intrinsically] created and destroyed,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000077">Utterly fail to understand</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000078">The turning of the wheel of dependent arising.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000022" type="Verse" s_name="19">
+			<phrase phr_id="2-07-00002-ENG06-000079">What arises, dependent upon this and that</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000080">Is not intrinsically created;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000081">How can one call the intrinsically</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000082">Uncreated, “created?”</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000023" type="Verse" s_name="20">
+			<phrase phr_id="2-07-00002-ENG06-000083">Peace through exhausting the causes [of suffering]</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000084">Manifests as so-called “termination;”</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000085">How can one call the intrinsically</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000086">Unterminated, “terminated”?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000024" type="Verse" s_name="21">
+			<phrase phr_id="2-07-00002-ENG06-000087">Thus, nothing whatsoever is created;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000088">And nothing whatsoever will cease.</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000089">The path of creation and destruction</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000090">Was taught for a meaningful purpose:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000025" type="Verse" s_name="22">
+			<phrase phr_id="2-07-00002-ENG06-000091">By knowing creation, one knows destruction;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000092">By knowing destruction, one knows impermanence.</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000093">Through knowing the entry into impermanence,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000094">One will come, as well, to realize the truth.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000026" type="Verse" s_name="23">
+			<phrase phr_id="2-07-00002-ENG06-000095">Those who develop insight</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000096">Into dependent arising,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000097">And abandon creation and destruction,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000098">Cross the ocean of existence with its [bad] views.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000027" type="Verse" s_name="24">
+			<phrase phr_id="2-07-00002-ENG06-000099">Alienated beings, who hold the self [to be] real,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000100">Are mistaken about existence and non-existence, and</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000101">Because of [such] faults, come under the influence of afflictions,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000102">Are deceived by their own minds.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000028" type="Verse" s_name="25">
+			<phrase phr_id="2-07-00002-ENG06-000103">Those who are expert in things</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000104">See things as impermanent,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000105">Deceptive in nature, worthless,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000106">Empty, selfless, and [hence,] isolated.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000029" type="Verse" s_name="26">
+			<phrase phr_id="2-07-00002-ENG06-000107">Without a supporting [condition], an observed object does not exist;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000108">There is no root, and there is no support,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000109">Utterly arisen from the cause — misknowledge —</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000110">Bereft of beginning, middle, and end.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000030" type="Verse" s_name="27">
+			<phrase phr_id="2-07-00002-ENG06-000111">Essenceless — like a plantain [tree] —</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000112">Resembling an ephemeral city</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000113">And an unbearable city of confusion,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000114">Lifeforms appear like illusions.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000031" type="Verse" s_name="28">
+			<phrase phr_id="2-07-00002-ENG06-000115">Since what is proclaimed as truth</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000116">In this world by Brahma [the Creator] and others,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000117">The noble ones call “false.”</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000118">What remains that is other than this?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000032" type="Verse" s_name="29">
+			<phrase phr_id="2-07-00002-ENG06-000119">How can the worldly, blinded by misknowledge [and]</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000120">Followers of [their own] continuum of existence,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000121">And the virtuous, who are skilled and</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000122">Free of craving, be viewed as equal?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000033" type="Verse" s_name="30">
+			<phrase phr_id="2-07-00002-ENG06-000123">As a means [of entering] reality, at first</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000124">One should declare “everything exists;”</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000125">Once they have understood things and are attached [to them],</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000126">Thereafter, [one may teach] the isolation [of things].</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000034" type="Verse" s_name="31">
+			<phrase phr_id="2-07-00002-ENG06-000127">Ignorant of the meaning of isolation,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000128">Those who act out of merely what they have heard</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000129">Neglect the exercise of virtue;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000130">Such sorry creatures are lost.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000035" type="Verse" s_name="32">
+			<phrase phr_id="2-07-00002-ENG06-000131">[The Buddha] discussed the existence of the effects of actions,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000132">As well as the forms of life [they give rise to];</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000133">[He] taught the thorough undertstanding of their nature,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000134">Including their uncreatedness.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000036" type="Verse" s_name="33">
+			<phrase phr_id="2-07-00002-ENG06-000135">Just as the Victors say “I”</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000136">And “mine” for a reason,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000137">So they speak of “aggregates,” “media,”</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000138">And “elements,” for a reason.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000037" type="Verse" s_name="34">
+			<phrase phr_id="2-07-00002-ENG06-000139">Explanations of the primary elements and so forth</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000140">Are subsumed within consciousness,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000141">For when the consciousness becomes separated from that [object],</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000142">Is it not a false construction?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000038" type="Verse" s_name="35">
+			<phrase phr_id="2-07-00002-ENG06-000143">“Nirvāṇa is the sole truth,”</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000144">Is what the Victors declared;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000145">Then, what expert would not realize,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000146">“Everything else is false”?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000039" type="Verse" s_name="36">
+			<phrase phr_id="2-07-00002-ENG06-000147">Just as long as the mind vacillates,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000148">For just so long, [it remains under] the dominion of Māra.</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000149">When that is the case, then how is it even on this [occasion],</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000150">That without any faults, it is unacceptable?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000040" type="Verse" s_name="37">
+			<phrase phr_id="2-07-00002-ENG06-000151">“By the condition of misknowledge, there is the world,”</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000152">As the perfect Buddha says.</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000153">Hence, how is it incorrect to say that</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000154">Even these worlds are “[mere mental] constructions”?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000041" type="Verse" s_name="38">
+			<phrase phr_id="2-07-00002-ENG06-000155">That which ceases</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000156">when ignorance ceases —</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000157">All of that is constructed from ignorance.</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000158">Therefore, why would it not be cleared away?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000042" type="Verse" s_name="39">
+			<phrase phr_id="2-07-00002-ENG06-000159">Whatever has originated from an existent cause</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000160">Cannot endure without [sustaining] conditions,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000161">And in the absence of conditions, moreover, disintegrates;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000162">How can one consider such [a thing really] to exist?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000043" type="Verse" s_name="40">
+			<phrase phr_id="2-07-00002-ENG06-000163">When those who espouse [objective] existence</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000164">Maintain their insistence on [objectively existent] things,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000165">And remain on that very path,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000166">It is not surprising in the least.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000044" type="Verse" s_name="41">
+			<phrase phr_id="2-07-00002-ENG06-000167">For those who, having relied on the path of the Buddha,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000168">Advocate the impermanence of all things,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000169">To maintain any sort of attachment to [real] things</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000170">With arguments, that is amazing!</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000045" type="Verse" s_name="42">
+			<phrase phr_id="2-07-00002-ENG06-000171">If, having analyzed something [designated] “this” or “that,”</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000172">[An intrinsically identifiable referent] is utterly unseen</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000173">What wise person would make the argument</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000174">“‘This’ or ‘that’ is true”?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000046" type="Verse" s_name="43">
+			<phrase phr_id="2-07-00002-ENG06-000175">Those without a [rational] basis,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000176">Addicted to a “self” or the “world,”</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000177">Alas! They are captivated</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000178">By views of permanence and impermanence, etc.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000047" type="Verse" s_name="44">
+			<phrase phr_id="2-07-00002-ENG06-000179">Wishing to establish in reality</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000180">Things as having depended upon some [other things],</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000181">How can one not come to develop the problems of</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000182">[Holding views] such as absolutism towards these [things]?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000048" type="Verse" s_name="45">
+			<phrase phr_id="2-07-00002-ENG06-000183">Those who accept things as having depended upon</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000184">Some [other things], like the moon in water —</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000185">As neither [intrinsically] real nor unreal —</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000186">Are not captivated by views.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000049" type="Verse" s_name="46">
+			<phrase phr_id="2-07-00002-ENG06-000187">Once they have assertions of things,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000188">They maintain intolerable, malignant views,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000189">Which generate attachment and aversion,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000190">And the disputes that spring from them.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000050" type="Verse" s_name="47">
+			<phrase phr_id="2-07-00002-ENG06-000191">That is the cause of all views;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000192">Without it, afflictions could not develop.</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000193">So when it's [falsity] is fully known,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000194">Worldviews and afflictions are fully cured.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000051" type="Verse" s_name="48">
+			<phrase phr_id="2-07-00002-ENG06-000195">Someone asks, “How is this to be known?”</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000196">See dependent arising —</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000197">Know the dependently created to be uncreated.</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000198">So the supreme omniscient [Buddha] proclaimed.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000052" type="Verse" s_name="49">
+			<phrase phr_id="2-07-00002-ENG06-000199">Those overwhelmed by mistaken knowledge</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000200">Grasp at true [existence] in what is not truly [existent];</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000201">Hence the sequence of clinging, disputes,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000202">And so forth, springs from attachment [to things as truly existent].</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000053" type="Verse" s_name="50">
+			<phrase phr_id="2-07-00002-ENG06-000203">The great beings have no disputes, [and]</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000204">Have no position.</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000205">For those who have no position,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000206">How can there be any opposed position?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000054" type="Verse" s_name="51">
+			<phrase phr_id="2-07-00002-ENG06-000207">Having found any possible place,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000208">The cunning, poisonous snake of compulsion</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000209">Will seize it; those whose minds</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000210">Have no [such] place are not seized.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000055" type="Verse" s_name="52">
+			<phrase phr_id="2-07-00002-ENG06-000211">How could the venom of afflictions not arise</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000212">For those whose minds hold a place for it?</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000213">While ordinary beings abide [in that state],</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000214">The snake of the afflictions will seize them.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000056" type="Verse" s_name="53">
+			<phrase phr_id="2-07-00002-ENG06-000215">Since the childish conceive of [things] as truly [existent]</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000216">Like being attached to a reflection,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000217">Worldly people, due to delusion</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000218">Are trapped in the thicket of objects.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000057" type="Verse" s_name="54">
+			<phrase phr_id="2-07-00002-ENG06-000219">Seeing with their wisdom-eye</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000220">That things are like reflections,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000221">The [noble] great beings do not get stuck</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000222">In the mire of objects.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000058" type="Verse" s_name="55">
+			<phrase phr_id="2-07-00002-ENG06-000223">The childish are attached to forms, [while]</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000224">The average are free from attachment to them, [but]</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000225">Those with the highest intelligence who know</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000226">The [true] nature of forms are liberated.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000059" type="Verse" s_name="56">
+			<phrase phr_id="2-07-00002-ENG06-000227">Those who hold suffering as something dear, are attached;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000228">Those who turn away from it are free of desirous attachment.</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000229">But those who see it in isolation,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000230">As like an illusory person, reach nirvāṇa.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000060" type="Verse" s_name="57">
+			<phrase phr_id="2-07-00002-ENG06-000231">Those tormented by false knowledge</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000232">Have all the faults of the afflictions;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000233">Yet, having conceived of being and nothingness</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000234">When one has become fully cognizant, [they] do not arise.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000061" type="Verse" s_name="58">
+			<phrase phr_id="2-07-00002-ENG06-000235">When one has a place [for them], one perceives</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000236">Attachment and freedom from attachment;</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000237">But the great beings, having no [such] place,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000238">Are neither attached nor free from attachment.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000062" type="Verse" s_name="59">
+			<phrase phr_id="2-07-00002-ENG06-000239">Whosoever isolates [things from intrinsic existence]</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000240">And does not vacillate with a wavering mind</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000241">Will cross the ocean of intolerable existence,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000242">Which seethes with the snakes of the afflictions.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000063" type="Verse" s_name="60">
+			<phrase phr_id="2-07-00002-ENG06-000243">By the virtue [arisen from writing this] may all beings</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000244">Gather the stores of merit and wisdom,</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000245">And attain the two supreme [buddha bodies]</phrase>
+			<phrase phr_id="2-07-00002-ENG06-000246">Arisen from merit and wisdom!</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000064" type="Text Colophon">
+			<phrase phr_id="2-07-00002-ENG06-000247">So ends the Sixty Stanza on Reasonings composed by the Master, the lineage-holder, the Ārya Nāgārjuna.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG06-SID000065" type="Sentence">
+			<phrase phr_id="2-07-00002-ENG06-000248">This version was prepared by the Tibetan translator Pa-tshab Nyi-ma-grags under the direction of the lineage master and Indian Abbot Muditaśrī.</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

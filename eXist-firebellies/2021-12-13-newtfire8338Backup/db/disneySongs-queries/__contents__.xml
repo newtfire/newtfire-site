@@ -1,0 +1,65 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/disneySongs-queries" version="1" owner="admin" group="dba" mode="775" created="2021-03-28T22:09:35.588Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="disneysongs" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="personography-aladdin.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-10-15T19:23:13.039Z" modified="2021-10-15T19:23:13.039Z" filename="personography-aladdin.xml" mimetype="xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="personography-bnb.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-10-15T19:23:45.861Z" modified="2021-10-15T19:23:45.861Z" filename="personography-bnb.xml" mimetype="xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listofRef.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-09-29T18:59:56.704Z" modified="2021-09-29T19:03:54.916Z" filename="listofRef.xml" mimetype="xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Personography.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-10-04T01:05:34.073Z" modified="2021-10-15T19:22:53.47Z" filename="Personography.xml" mimetype="xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="personography-aladdin.html" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-10-22T16:48:43.007Z" modified="2021-12-08T18:07:35.014Z" filename="personography-aladdin.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="masterSongList.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-04-02T21:52:44.821Z" modified="2021-04-02T21:52:44.821Z" filename="masterSongList.xml" mimetype="xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="personography-bnb.html" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-10-25T18:18:53.981Z" modified="2021-12-08T18:03:59.088Z" filename="personography-bnb.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="masterSongwithMeta.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-04-01T05:51:05.322Z" modified="2021-04-02T21:50:54.319Z" filename="masterSongwithMeta.xml" mimetype="xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="personography-bnb.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-10-15T19:22:23.779Z" modified="2021-10-15T19:22:43.814Z" filename="personography-bnb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="personography-aladdin.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-10-15T19:21:56.46Z" modified="2021-10-15T19:23:11.153Z" filename="personography-aladdin.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MasterList.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-03-22T19:21:32.603Z" modified="2021-09-29T19:03:53.668Z" filename="MasterList.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Personography.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-10-01T19:10:22.768Z" modified="2021-10-04T01:34:55.285Z" filename="Personography.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="masterSongList.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-03-25T01:41:00.503Z" modified="2021-04-01T05:45:16.61Z" filename="masterSongList.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SongListwithMeta.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-04-01T05:47:20.298Z" modified="2021-04-01T05:47:20.298Z" filename="SongListwithMeta.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="php-bnb-movies.xql" skip="no" owner="auw600" group="auw600" mode="755" created="2021-11-03T18:30:15.234Z" modified="2021-11-03T23:05:59.366Z" filename="php-bnb-movies.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="songcount.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-10-15T14:31:49.866Z" modified="2021-12-10T11:11:38.644Z" filename="songcount.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="php-aladdin_movies.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-12-10T15:38:43.276Z" modified="2021-12-10T15:39:44.64Z" filename="php-aladdin_movies.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="php-bnb_movies.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-12-10T16:15:48.852Z" modified="2021-12-10T16:15:48.852Z" filename="php-bnb_movies.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="php-movie-songs.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-11-02T22:34:47.809Z" modified="2021-11-02T23:12:31.264Z" filename="php-movie-songs.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="php-aladdin-movies.xql" skip="no" owner="auw600" group="auw600" mode="755" created="2021-11-03T18:30:51.751Z" modified="2021-11-03T18:32:32.758Z" filename="php-aladdin-movies.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

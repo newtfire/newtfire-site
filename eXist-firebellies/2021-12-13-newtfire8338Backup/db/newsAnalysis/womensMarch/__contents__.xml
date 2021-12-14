@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/newsAnalysis/womensMarch" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:49.204Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="womensMarch_FOX.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:49.205Z" modified="2020-08-07T21:14:49.205Z" filename="womensMarch_FOX.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="womensMarch_NPR.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:49.292Z" modified="2020-08-07T21:14:49.292Z" filename="womensMarch_NPR.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="womensMarch_CNN.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:49.362Z" modified="2020-08-07T21:14:49.362Z" filename="womensMarch_CNN.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="womensMarch_BBC.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:49.493Z" modified="2020-08-07T21:14:49.493Z" filename="womensMarch_BBC.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

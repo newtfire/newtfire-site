@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <song name="The Disaster of Passion">
+        <metadata>
+            <sname>The Disaster of Passion</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+        <lyrics>
+            <verse n="1">
+                <line n="1">Over time, most things fade away</line>
+                <line n="2">Isn't that right?</line>
+                <line n="3">All of the memories dissolve it all</line>
+                <line n="4">The sun shine,</line>
+                <line n="5">The breeze's song</line>
+                <line n="6">go by</line>
+            </verse>
+    
+    <verse n="2">
+    <line n="1">No matter how big it is,</line>
+        <line n="2">its time will come</line>
+        <line n="3">It will be reborn as something new</line>
+        <line n="4">The full moon</line>
+        <line n="5">Bright balloons</line>
+        <line n="6"><i story="may">Only my feelings will ever grow</i></line>
+    </verse>
+    
+            <chorus n="1">
+                <line n="1"><parentheses>(An off-season)</parentheses></line>
+                <line n="2">Swallow. So that's me</line>
+                <line n="3">Non-stop love song</line>
+                <line n="4"><parentheses><i story="may">(I will)</i></parentheses> <i story="may">follow you,</i></line>
+                <line n="5"><i story="may">wherever you go</i></line>
+                <line n="6"><i story="may">I can't wait to</i></line>
+                <line n="7"><i story="may">catch up</i></line>
+                <line n="8">Before the sun sleeps</line>
+                <line n="9">Not if you're short of breath</line>
+                <line n="10">I'm The Disaster of Passion</line>
+    </chorus>
+    
+            <verse n="3">
+                <line n="1">All you need to know is one or two things, or a few</line>
+                <line n="2">I'm alone, but I'm not alone</line>
+                <line n="3">You know that, right?</line>
+                <line n="4">Trees and Rain</line>
+                <line n="5">Now and then</line>
+                <line n="6"><i story="may">I can't live without that precious one</i></line>
+    </verse>
+    
+            <chorus n="2"> 
+                <line n="1"><parentheses>(An off-season)</parentheses></line>
+                <line n="2">Swallow. So that's me</line>
+                <line n="3">springtime syndrome</line>
+                <line n="4"><parentheses>(I will)</parentheses> follow you,</line>
+                <line n="5">wherever you go</line>
+                <line n="6">I can't wait to</line>
+                    <line n="7">catch up</line>
+                    <line n="8">Before the sun sleeps</line>
+                    <line n="9">Not if you're short of breath</line>
+                    <line n="10">Just so you know, please don't think you're</line>
+                    <line n="11">going to get away with it. Okay?</line>
+   </chorus>
+    
+    <bridge n="1">
+        <line n="1">The sun shine,</line>
+        <line n="2">The breeze's song</line>
+    </bridge>
+        
+            <chorus n="3">
+                <line n="1"><parentheses>(An off-season)</parentheses></line>
+                <line n="2">Swallow. So that's me</line>
+                <line n="3">Non-stop love song</line>
+                <line n="4"><parentheses>(I will)</parentheses> follow you,</line>
+                <line n="5">wherever you go</line>
+                <line n="6">I can't wait to</line>
+                <line n="7">catch up</line>
+                <line n="8">Before the sun sleeps</line>
+                <line n="9">Not if you're short of breath</line>
+                <line n="10">I'm The Disaster of Passion</line> 
+            </chorus>
+    </lyrics>
+    </song>
+</xml>

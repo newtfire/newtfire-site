@@ -1,0 +1,37 @@
+xquery version "3.1";
+declare variable $ThisFileContent :=
+<html>
+    <head>
+        <title>Kingdom Hearts speaker</title>
+    </head>
+    <body>
+        <h1>person talking</h1>
+        <table>
+            <tr>
+                <td>text</td>
+            </tr>
+{
+let $king := collection ('/db/kingdomofhearts/')/*
+let $speaker := $king//speaker
+let $talk := $speaker/data() => distinct-values() => sort()
+for $s in $talk
+let $name := $king[.//speaker/@when = $s]//name/text()
+return 
+    <tr>
+        <td>{$s}</td>
+        <td>{string-join($name, ',')}
+            <ul>{for $n in $name
+            return 
+                <li>{$n}</li>
+            }</ul>
+        </td>
+    </tr>
+}
+</table>
+</body>
+</html>;
+
+let $filename := "KH_speakerList.html"
+let $doc-db-uri := xmldb:store("/db/cub433", $filename, $ThisFileContent, "html")
+return $doc-db-uri
+(: Output at http://newtfire.org:8338/exist/rest/cub433/KH_speakerList.html :)

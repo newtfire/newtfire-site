@@ -1,0 +1,51 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/resources/scripts/jquery/flot" version="1" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.524Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery.flot.stack.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.525Z" modified="2020-08-07T02:48:30.525Z" filename="jquery.flot.stack.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.navigate.min.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.527Z" modified="2020-08-07T02:48:30.527Z" filename="jquery.flot.navigate.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="excanvas.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.529Z" modified="2020-08-07T02:48:30.529Z" filename="excanvas.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.navigate.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.532Z" modified="2020-08-07T02:48:30.532Z" filename="jquery.flot.navigate.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.crosshair.min.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.534Z" modified="2020-08-07T02:48:30.534Z" filename="jquery.flot.crosshair.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.min.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.536Z" modified="2020-08-07T02:48:30.536Z" filename="jquery.flot.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="excanvas.min.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.538Z" modified="2020-08-07T02:48:30.538Z" filename="excanvas.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.selection.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.54Z" modified="2020-08-07T02:48:30.54Z" filename="jquery.flot.selection.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.threshold.min.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.543Z" modified="2020-08-07T02:48:30.543Z" filename="jquery.flot.threshold.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.stack.min.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.544Z" modified="2020-08-07T02:48:30.544Z" filename="jquery.flot.stack.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.threshold.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.546Z" modified="2020-08-07T02:48:30.546Z" filename="jquery.flot.threshold.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.549Z" modified="2020-08-07T02:48:30.549Z" filename="jquery.flot.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.image.min.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.552Z" modified="2020-08-07T02:48:30.552Z" filename="jquery.flot.image.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.image.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.554Z" modified="2020-08-07T02:48:30.554Z" filename="jquery.flot.image.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.crosshair.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.557Z" modified="2020-08-07T02:48:30.557Z" filename="jquery.flot.crosshair.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.selection.min.js" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.561Z" modified="2020-08-07T02:48:30.561Z" filename="jquery.flot.selection.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

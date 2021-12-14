@@ -1,0 +1,2 @@
+xquery version "3.1";
+doc('/db/smashtiers/supersmashtierlist.xml')//char[game[@n="2"]]/@id ! string()

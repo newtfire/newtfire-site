@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
+        <fulltext default="none" attributes="false"/>
+        <!-- Lucene index is configured below -->
+        <lucene>
+            <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
+            <analyzer id="ws" class="org.apache.lucene.analysis.WhitespaceAnalyzer"/>
+            <text qname="xml"/>
+            <text qname="metadata"/>
+            <text qname="artist"/>
+            <text qname="songInfo"/>
+            <text qname="songwriter"/>
+            <text qname="name"/>
+            <text qname="recordDate"/>
+            <text qname="album"/>
+            <text qname="lyrics"/>
+            <text qname="l"/>
+        </lucene>
+        <ngram qname="xml"/>
+        <ngram qname="metadata"/>
+        <ngram qname="artist"/>
+        <ngram qname="title"/>
+        <ngram qname="songInfo"/>
+        <ngram qname="songwriter"/>
+        <ngram qname="name"/>
+        <ngram qname="recordDate"/>
+        <ngram qname="album"/>
+        <ngram qname="lyrics"/>
+        <ngram qname="l"/>
+    </index>
+</collection>

@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/holmes" version="1" owner="wdjacca" group="dba" mode="775" created="2021-03-02T18:16:31.924Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="TheAdventureoftheTollingBell.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-03-02T18:33:21.163Z" modified="2021-03-02T18:33:21.163Z" filename="TheAdventureoftheTollingBell.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

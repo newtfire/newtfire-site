@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/web-animations-js" version="1" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29.4Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="web-animations-next-lite.min.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.401Z" modified="2020-08-07T02:48:29.401Z" filename="web-animations-next-lite.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

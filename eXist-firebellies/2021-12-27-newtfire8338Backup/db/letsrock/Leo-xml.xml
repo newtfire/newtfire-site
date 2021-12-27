@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <song name="Hellfire">
+        <metadata>
+            <sname>Hellfire</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+        <lyrics>
+            <verse n="1">
+                <line n="1">I faked out. Call me out</line>
+                <line n="2">Who can say that?</line>
+                <line n="3">I came home alone today again</line>
+                <line n="4">I faked out. Call me out</line>
+                <line n="5">Who can say that?</line>
+                <line n="6">My people are all dead, but so are those bastards</line>
+            </verse>
+            <verse n="2">
+                <line n="1"><i story="leo">I wake up one morning, strangers say hello to me</i></line>
+                <line n="2"><i story="leo">Tomorrow their names will be carved onto stones</i></line>
+                <line n="3">We're going home alive</line>
+                <line n="4">I'm a terrible liar</line>
+                <line n="5">Forgive me</line>
+                <line n="6">That's not the Arc de Triomphe</line>
+            </verse>
+            <prechorus n="1">
+                <line n="1">For the sake of that day</line>
+                <line n="2">Keep crying out</line>
+                <line n="3">Swing the sword! Swing the sword!</line>
+                <line n="4">Swing the freakin' sword down!</line>
+            </prechorus>
+            <chorus n="1">
+                <line n="1">Hellfire! Hellfire!</line>
+                <line n="2">Bring it on, bastards!</line>
+                <line n="3">Hellfire! Hellfire!</line>
+                <line n="4">Hellfire! Hellfire!</line>
+                <line n="5">All of 'em are going down with us</line>
+            </chorus>
+            <verse n="3">
+                <line n="1">Those who dream of heaven,</line>
+                <line n="2">Those who dream of heaven never last very long</line>
+                <line n="3">The rotting flesh and the dirty sky infect my wounds</line>
+                <line n="4"><i story="leo">We're going home alive Liar</i></line>
+                <line n="5">Liar</line>
+                <line n="6"><i story="leo">Forgive me</i></line>
+                <line n="7"><i story="leo">Just get me out of this hell</i></line>
+            </verse>
+            <verse n="4">
+                <line n="1">For the sake of that day</line>
+                <line n="2">Keep crying out</line>
+                <line n="3">Swing the sword! Swing the sword!</line>
+                <line n="4">Swing the freakin' sword down!</line>
+            </verse>
+            <verse n="5">
+                <line n="1">My voice withered away</line>
+                <line n="2">limbs can't hear my commands</line>
+                <line n="3">But still, I can see the way home</line>
+                <line n="4"><i story="leo">I am the Reaper</i></line>
+                <line n="5"><i story="leo">I took my friends to the netherworld</i></line>
+                <line n="6"><i story="leo">That's why I have to go home</i></line>
+            </verse>
+            <verse n="6">
+                <line n="1">I faked out. Call me out</line>
+                <line n="2">Who can say that?</line>
+                <line n="3">I'm just an ordinary soldier</line>
+                <line n="4">I faked out. Call me out</line>
+                <line n="5">Who can say that?</line>
+                <line n="6">Will I be on the right side of history?</line>
+                <line n="7">I faked out. Call me out</line>
+                <line n="8">Who can say that?</line>
+                <line n="9">I came home alone today again</line>
+                <line n="10">I faked out. Call me out</line>
+                <line n="11">Who can say that?</line>
+                <line n="12">My people are all dead, but so are those bastards</line>
+            </verse>
+            <oneoff n="1"><line n="1">---Bring it on, you bastards!---</line></oneoff>
+            <chorus n="2">
+                <line n="1">Hellfire! Hellfire!</line>
+                <line n="2">Bring it on, bastards!</line>
+                <line n="3">Hellfire! Hellfire!</line>
+                <line n="4">Hellfire! Hellfire!</line>
+                <line n="5">All of 'em are going down</line>
+                <line n="6">Hellfire! Hellfire!</line>
+                <line n="7">Bring it on, bastards!</line>
+                <line n="8">Hellfire! Hellfire!</line>
+                <line n="9">Hellfire! Hellfire!</line>
+                <line n="10">All of 'em are going down with us</line>
+            </chorus>
+        </lyrics>
+
+    </song>
+</xml>

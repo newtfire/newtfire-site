@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/resources/img" version="1" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:37.985Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="powered-by-whiteglass.svg" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:37.99Z" modified="2020-08-07T02:48:37.99Z" filename="powered-by-whiteglass.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="screenshot.png" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:37.985Z" modified="2020-08-07T02:48:37.985Z" filename="screenshot.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sprite-skin-flat.png" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:37.994Z" modified="2020-08-07T02:48:37.994Z" filename="sprite-skin-flat.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="avatar3.png" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:37.997Z" modified="2020-08-07T02:48:37.997Z" filename="avatar3.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

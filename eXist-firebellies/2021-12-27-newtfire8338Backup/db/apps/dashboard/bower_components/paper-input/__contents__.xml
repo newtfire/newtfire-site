@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/paper-input" version="1" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29.211Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="paper-input-char-counter.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.213Z" modified="2020-08-07T02:48:29.213Z" filename="paper-input-char-counter.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-input.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.217Z" modified="2020-08-07T02:48:29.217Z" filename="paper-input.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-input-behavior.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.22Z" modified="2020-08-07T02:48:29.22Z" filename="paper-input-behavior.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-input-container.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.223Z" modified="2020-08-07T02:48:29.223Z" filename="paper-input-container.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-input-addon-behavior.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.228Z" modified="2020-08-07T02:48:29.228Z" filename="paper-input-addon-behavior.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper-input-error.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.231Z" modified="2020-08-07T02:48:29.231Z" filename="paper-input-error.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-05-00015-SKT01.xml"/>
+		<title>Kāyatraya-stotra</title>
+		<author>Nāgārjuna</author>
+		<unifiedCatalogID>2-05-00015</unifiedCatalogID>
+		<creation date="Sun Aug  6 17:07: 2017"/>
+		<processed date="Sun Aug  6 17:07: 2017" ver="IndSenz SanskritOCR v.1.0.1.0" auth="Hackett"/>
+		<sourceDesc>
+			<bibl>
+				<title>Sekoddeśaṭikā of Naḍapāda (Nāropā)</title>
+                <author>Carelli, Mario E.</author>
+				<pubPlace>Baroda</pubPlace>
+				<publisher>Oriental Institute</publisher>
+				<date>1941</date>
+				<biblScope unit="pageRange">57-58</biblScope>
+			</bibl>
+		</sourceDesc>
+	</head>
+	<text>
+		<text_id t_id="2-05-00015-SKT01"/>
+		<sentence s_id="2-05-00015-SKT01-SID000001" type="Text Title">
+			<phrase phr_id="2-05-00015-SKT01-000001">kāyatrayastotranāma</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-SKT01-SID000002" type="Verse" s_name="1">
+			<phrase phr_id="2-05-00015-SKT01-000002">yatrābhūteti satyaṃ sitakuśalagaṇo dharmakāyo jinānāṃ dharmātsambhogakāyaḥ sakalarutagaṇo lakṣaṇavyañjanānām</phrase>
+			<phrase phr_id="2-05-00015-SKT01-000003">rāśirnirmāṇakāyo'kṣaraparamasukho dharmakāyo na tasmāt kāyānāṃ lakṣaṇaṃ yattadiha sukhagatācāryanāgāhṇayena</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-SKT01-SID000003" type="Verse" s_name="2">
+			<phrase phr_id="2-05-00015-SKT01-000004">yo naiko natayanekaḥ svaparahitamahāsampadādhārabhūto naivābhāvo na bhāvaḥ khamiva samaraso durvibhāvyasvabhāvaḥ</phrase>
+			<phrase phr_id="2-05-00015-SKT01-000005">nirlepaṃ nirvikāraṃ śivamasamasamaṃ vyāpinaṃ niṣprapañca vande pratyātmavedyaṃ tamahamanupamaṃ dharmakāyaṃ jinānām</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-SKT01-SID000004" type="Verse" s_name="3">
+			<phrase phr_id="2-05-00015-SKT01-000006">lokātītamacilyaṃ sukṛtaśataphalāmātmano yo vibhūtiṃ parṣanmadhye vicitrāṃ prathayati mahatīṃ dhīmatāṃ prītihetoḥ</phrase>
+			<phrase phr_id="2-05-00015-SKT01-000007">buddhānāṃ sarvalokaprasṛtamaviratodārasaddharmaghāceṃ vande sambhogakāya tamahamiha mahādharmarājyapratiṣṭham</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-SKT01-SID000005" type="Verse" s_name="4">
+			<phrase phr_id="2-05-00015-SKT01-000008">sattvānāṃ pākahetoḥ kvacidanala ivābhāti yo dīpyamānaḥ sambodhau dharmacakre kvacidapi ca punardṛśyate yaḥ praśāntaḥ</phrase>
+			<phrase phr_id="2-05-00015-SKT01-000009">naikākārapravṛttaṃ tribhavabhayaharaṃ viśvarūpairupāyairvande nirmāṇakāyaṃ daśadiganugataṃ tanmahārtha munīnām</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-SKT01-SID000006" type="Verse" s_name="5">
+			<phrase phr_id="2-05-00015-SKT01-000010">trailokyācāramuktaṃ gaganasamagataṃ sarvabhāvasvabhāvaṃ śuddhaṃ śāntaṃ viviktaṃ paramaśivamayaṃ yogināmeva gamyam</phrase>
+			<phrase phr_id="2-05-00015-SKT01-000011">durthodhaṃ durvicāraṃ svaparahitatamaṃ vyāpinaṃ nirnimittaṃ vande kāyaṃ jinānāṃ sukhamasamasamaṃ nirvikalpaikamūrtim</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

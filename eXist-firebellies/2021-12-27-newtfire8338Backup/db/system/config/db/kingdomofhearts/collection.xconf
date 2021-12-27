@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
+        <fulltext default="none" attributes="false"/>
+        <!-- Lucene index is configured below -->
+        <lucene>
+            <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
+            <analyzer id="ws" class="org.apache.lucene.analysis.WhitespaceAnalyzer"/>
+            <text qname="desc"/>
+            <text qname="title"/>
+            <text qname="sp"/>
+            <text qname="speaker"/>
+            <text qname="cutscene"/>
+        </lucene>
+        <ngram qname="desc"/>
+        <ngram qname="title"/>
+        <ngram qname="sp"/>
+        <ngram qname="speaker"/>
+        <ngram qname="cutscene"/>
+    </index>
+</collection>

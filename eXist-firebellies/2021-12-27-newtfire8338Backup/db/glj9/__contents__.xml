@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/glj9" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:16:55.448Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="SchismMapData.txt" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:55.545Z" modified="2020-08-07T21:16:55.545Z" filename="SchismMapData.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuerykml2.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:55.672Z" modified="2020-08-07T21:16:55.672Z" filename="XQuerykml2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xquerytokml1.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:55.737Z" modified="2020-08-07T21:16:55.737Z" filename="Xquerytokml1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

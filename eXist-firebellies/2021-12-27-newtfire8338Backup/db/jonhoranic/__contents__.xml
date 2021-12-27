@@ -1,0 +1,87 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/jonhoranic" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:16:37.447Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="test2.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.448Z" modified="2020-08-07T21:16:37.448Z" filename="test2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TopTenMitfordPeeps.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.18Z" modified="2020-08-07T21:16:38.18Z" filename="TopTenMitfordPeeps.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ClassExTimeLineP2.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.245Z" modified="2020-08-07T21:16:38.245Z" filename="ClassExTimeLineP2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ClassExTimeLineP1.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.319Z" modified="2020-08-07T21:16:38.319Z" filename="ClassExTimeLineP1.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TimelineForJS.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.511Z" modified="2020-08-07T21:16:38.511Z" filename="TimelineForJS.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="WillShakesManOutput.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.573Z" modified="2020-08-07T21:16:38.573Z" filename="WillShakesManOutput.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TimelinePart2.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.638Z" modified="2020-08-07T21:16:38.638Z" filename="TimelinePart2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TimelineForJS.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.885Z" modified="2020-08-07T21:16:38.885Z" filename="TimelineForJS.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Timeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.946Z" modified="2020-08-07T21:16:38.946Z" filename="Timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Timeline_VEIWPORT-EDIT.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39.07Z" modified="2020-08-07T21:16:39.07Z" filename="Timeline_VEIWPORT-EDIT.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="test.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39.323Z" modified="2020-08-07T21:16:39.323Z" filename="test.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-15_XQuery_3" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.514Z" modified="2020-08-07T21:16:37.514Z" filename="horanic_03-15_XQuery_3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ClassExampleTimelinePart2.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.572Z" modified="2020-08-07T21:16:37.572Z" filename="ClassExampleTimelinePart2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ClassExampleTimelinePart1.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.644Z" modified="2020-08-07T21:16:37.644Z" filename="ClassExampleTimelinePart1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-03_XQuery_2_fix" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.71Z" modified="2020-08-07T21:16:37.71Z" filename="horanic_03-03_XQuery_2_fix" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="f6_network.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.792Z" modified="2020-08-07T21:16:37.792Z" filename="f6_network.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_script_TEST" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.85Z" modified="2020-08-07T21:16:37.85Z" filename="horanic_script_TEST" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-03_XQuery_2" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.912Z" modified="2020-08-07T21:16:37.912Z" filename="horanic_03-03_XQuery_2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ClassExampleTimelinePart2" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:37.985Z" modified="2020-08-07T21:16:37.985Z" filename="ClassExampleTimelinePart2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-17_SVG_2" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.04Z" modified="2020-08-07T21:16:38.04Z" filename="horanic_03-17_SVG_2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-22_Network_1" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.107Z" modified="2020-08-07T21:16:38.107Z" filename="horanic_03-22_Network_1" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-22_SVG_4" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.447Z" modified="2020-08-07T21:16:38.447Z" filename="horanic_03-22_SVG_4" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_03-21_SVG_3" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.707Z" modified="2020-08-07T21:16:38.707Z" filename="horanic_03-21_SVG_3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ClassExampleTimelinePart1" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.765Z" modified="2020-08-07T21:16:38.765Z" filename="ClassExampleTimelinePart1" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapTest.txt" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:38.822Z" modified="2020-08-07T21:16:38.822Z" filename="mapTest.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horanic_mapScript_TEST" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39.007Z" modified="2020-08-07T21:16:39.007Z" filename="horanic_mapScript_TEST" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Placeography.kml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39.138Z" modified="2020-08-07T21:16:39.138Z" filename="Placeography.kml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelineForJS.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:39.24Z" modified="2020-08-07T21:16:39.24Z" filename="timelineForJS.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

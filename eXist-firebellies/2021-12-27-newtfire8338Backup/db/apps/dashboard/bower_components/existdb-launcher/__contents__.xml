@@ -1,0 +1,38 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/existdb-launcher" version="1" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29.739Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="icon.svg" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.757Z" modified="2020-08-07T02:48:29.757Z" filename="icon.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="existdb-branding.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.768Z" modified="2020-08-07T02:48:29.768Z" filename="existdb-branding.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="existdb-version.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.78Z" modified="2020-08-07T02:48:29.78Z" filename="existdb-version.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="existdb-styles.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.795Z" modified="2020-08-07T02:48:29.795Z" filename="existdb-styles.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="configuration.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.804Z" modified="2020-08-07T02:48:29.804Z" filename="configuration.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="existdb-login.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.742Z" modified="2020-08-07T02:48:29.742Z" filename="existdb-login.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="launcher-app.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.751Z" modified="2020-08-07T02:48:29.751Z" filename="launcher-app.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="existdb-launcher.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.755Z" modified="2020-08-07T02:48:29.755Z" filename="existdb-launcher.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="controller.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29.786Z" modified="2020-08-07T02:48:29.786Z" filename="controller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dependencies.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.8Z" modified="2020-08-07T02:48:29.8Z" filename="dependencies.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="existdb-launcher-app.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.806Z" modified="2020-08-07T02:48:29.806Z" filename="existdb-launcher-app.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="resources" filename="resources"/>
+    <subcollection name="modules" filename="modules"/>
+</collection>

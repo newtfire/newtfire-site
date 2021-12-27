@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/kingdomofhearts/FA2021_Scripts" version="1" owner="ajm7408" group="ajm7408" mode="755" created="2021-11-14T00:55:32.576Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="FA2021_Kingdom_hearts_1.5_script.xml" skip="no" owner="ajm7408" group="ajm7408" mode="644" created="2021-11-14T00:50:27.696Z" modified="2021-11-14T00:50:27.696Z" filename="FA2021_Kingdom_hearts_1.5_script.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

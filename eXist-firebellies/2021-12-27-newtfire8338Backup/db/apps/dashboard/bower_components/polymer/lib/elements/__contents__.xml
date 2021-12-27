@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/polymer/lib/elements" version="1" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29.169Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="array-selector.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.173Z" modified="2020-08-07T02:48:29.173Z" filename="array-selector.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dom-repeat.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.177Z" modified="2020-08-07T02:48:29.177Z" filename="dom-repeat.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dom-module.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.182Z" modified="2020-08-07T02:48:29.182Z" filename="dom-module.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dom-bind.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.186Z" modified="2020-08-07T02:48:29.186Z" filename="dom-bind.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dom-if.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.19Z" modified="2020-08-07T02:48:29.19Z" filename="dom-if.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="custom-style.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.194Z" modified="2020-08-07T02:48:29.194Z" filename="custom-style.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

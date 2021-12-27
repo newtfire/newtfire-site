@@ -1,0 +1,25 @@
+xquery version "3.1";
+declare variable $KingdomHearts := collection('/db/kingdomofhearts');
+
+let $cutscene := $KingdomHearts//cutscene
+let $IDs := $cutscene/@cutscene ! normalize-space() 
+
+
+for $c in $cutscene
+
+let $cID := $c/@cutscene ! normalize-space()
+
+
+for $g in $c
+
+
+let $type := $g/@type ! normalize-space()
+let $gameLocation := $g/@location ! normalize-space()
+let $gNum := concat("cutNum", $gameLocation)
+ 
+return
+ concat($cID , "&#x9;", "Type", "&#x9;", $gNum , "&#x9;", "Location", "&#x9;", $type)   
+
+
+
+

@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/DHSI-Queries" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:17:45.302Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Chas-PersNameGraph-SVG.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:45.303Z" modified="2020-08-07T21:17:45.303Z" filename="Chas-PersNameGraph-SVG.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Chas-PlaceGraph-SVG.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:45.374Z" modified="2020-08-07T21:17:45.374Z" filename="Chas-PlaceGraph-SVG.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Chas-SI-HTMLTable.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:45.451Z" modified="2020-08-07T21:17:45.451Z" filename="Chas-SI-HTMLTable.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Chas-SI-concatString.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:45.596Z" modified="2020-08-07T21:17:45.596Z" filename="Chas-SI-concatString.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

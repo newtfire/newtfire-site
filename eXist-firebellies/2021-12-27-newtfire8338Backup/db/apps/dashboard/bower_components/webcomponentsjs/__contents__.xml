@@ -1,0 +1,36 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/webcomponentsjs" version="1" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:29.538Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="gulpfile.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.539Z" modified="2020-08-07T02:48:29.539Z" filename="gulpfile.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-sd.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.541Z" modified="2020-08-07T02:48:29.541Z" filename="webcomponents-sd.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-hi-sd-ce.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.544Z" modified="2020-08-07T02:48:29.544Z" filename="webcomponents-hi-sd-ce.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-hi.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.549Z" modified="2020-08-07T02:48:29.549Z" filename="webcomponents-hi.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-loader.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.553Z" modified="2020-08-07T02:48:29.553Z" filename="webcomponents-loader.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-lite.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.556Z" modified="2020-08-07T02:48:29.556Z" filename="webcomponents-lite.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-sd-ce.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.561Z" modified="2020-08-07T02:48:29.561Z" filename="webcomponents-sd-ce.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="custom-elements-es5-adapter.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.564Z" modified="2020-08-07T02:48:29.564Z" filename="custom-elements-es5-adapter.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-ce.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.568Z" modified="2020-08-07T02:48:29.568Z" filename="webcomponents-ce.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-hi-ce.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.573Z" modified="2020-08-07T02:48:29.573Z" filename="webcomponents-hi-ce.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webcomponents-hi-sd.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:29.576Z" modified="2020-08-07T02:48:29.576Z" filename="webcomponents-hi-sd.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

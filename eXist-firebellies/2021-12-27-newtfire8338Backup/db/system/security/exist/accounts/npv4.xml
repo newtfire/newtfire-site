@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="76"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>4c847c7209ab20f34ff154c3fa3df4459ad17877</digestPassword><group name="npv4"/><group name="dh-group"/><group name="blues"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><metadata key="http://axschema.org/namePerson">Nicholas Versagli</metadata><name>npv4</name></account>

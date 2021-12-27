@@ -1,0 +1,39 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/resources/images" version="1" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.254Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="existdb-web.svg" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.259Z" modified="2020-08-07T02:48:30.259Z" filename="existdb-web.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="powered-by.svg" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.265Z" modified="2020-08-07T02:48:30.265Z" filename="powered-by.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="powered-by-whiteglass.svg" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.282Z" modified="2020-08-07T02:48:30.282Z" filename="powered-by-whiteglass.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="body-base.gif" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.255Z" modified="2020-08-07T02:48:30.255Z" filename="body-base.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="header.gif" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.257Z" modified="2020-08-07T02:48:30.257Z" filename="header.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="noise.png" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.263Z" modified="2020-08-07T02:48:30.263Z" filename="noise.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exist_icon_16x16.ico" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.301Z" modified="2020-08-07T02:48:30.301Z" filename="exist_icon_16x16.ico" mimetype="image/vnd.microsoft.icon">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bgmenuhi.gif" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.305Z" modified="2020-08-07T02:48:30.305Z" filename="bgmenuhi.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="body.gif" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.308Z" modified="2020-08-07T02:48:30.308Z" filename="body.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horizontal.gif" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.312Z" modified="2020-08-07T02:48:30.312Z" filename="horizontal.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bgmenu.gif" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.316Z" modified="2020-08-07T02:48:30.316Z" filename="bgmenu.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="existdb.png" skip="no" owner="admin" group="dba" mode="775" created="2020-08-07T02:48:30.318Z" modified="2020-08-07T02:48:30.318Z" filename="existdb.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

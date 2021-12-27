@@ -1,0 +1,265 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/fundocs/data" version="1" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:37.672Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="a1322b96305112c93d2daed6f3d09c69.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.682Z" modified="2020-11-06T23:08:02.682Z" filename="a1322b96305112c93d2daed6f3d09c69.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="657093a08aec4ec05735cd4f260230dd.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.696Z" modified="2020-11-06T23:08:02.696Z" filename="657093a08aec4ec05735cd4f260230dd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="af773575c9161e29d410edfdcded12b5.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.705Z" modified="2020-11-06T23:08:02.705Z" filename="af773575c9161e29d410edfdcded12b5.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ae635ba27f0b97e5dcc8e14ff8248fdc.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.711Z" modified="2020-11-06T23:08:02.711Z" filename="ae635ba27f0b97e5dcc8e14ff8248fdc.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="4973aaf8d6aef72fedc5759006421a06.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.721Z" modified="2020-11-06T23:08:02.721Z" filename="4973aaf8d6aef72fedc5759006421a06.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="96eb408d709b2c232961633435d38ed0.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.735Z" modified="2020-11-06T23:08:02.735Z" filename="96eb408d709b2c232961633435d38ed0.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="858822df0de4731f0251a29f478bb4fe.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.761Z" modified="2020-11-06T23:08:02.761Z" filename="858822df0de4731f0251a29f478bb4fe.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="c647e188cf133f408263eeed9243a7e0.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.786Z" modified="2020-11-06T23:08:02.786Z" filename="c647e188cf133f408263eeed9243a7e0.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="f133866ba6b7fe5315ec4084faf30294.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.795Z" modified="2020-11-06T23:08:02.795Z" filename="f133866ba6b7fe5315ec4084faf30294.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="16b3ca53333a303677793ab5d4c2bb4c.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.813Z" modified="2020-11-06T23:08:02.813Z" filename="16b3ca53333a303677793ab5d4c2bb4c.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="d815de4f079593ff301f8abf04a18a63.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.835Z" modified="2020-11-06T23:08:02.835Z" filename="d815de4f079593ff301f8abf04a18a63.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="e3aa49394c5440cfe6da177136a7df42.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.849Z" modified="2020-11-06T23:08:02.849Z" filename="e3aa49394c5440cfe6da177136a7df42.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="66c69cd84def031b27c8edaa708fd295.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.947Z" modified="2020-11-06T23:08:02.947Z" filename="66c69cd84def031b27c8edaa708fd295.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="775daf4c074cd71d1367a9064472ea32.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.133Z" modified="2020-11-06T23:08:03.133Z" filename="775daf4c074cd71d1367a9064472ea32.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="951b7e865d755b690da6dd65d607f1f4.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.163Z" modified="2020-11-06T23:08:03.163Z" filename="951b7e865d755b690da6dd65d607f1f4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="6f4191463702322a56d88a9f8c348e84.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.176Z" modified="2020-11-06T23:08:03.176Z" filename="6f4191463702322a56d88a9f8c348e84.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="4891722499094d470d7e77846b7e3ac8.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.189Z" modified="2020-11-06T23:08:03.189Z" filename="4891722499094d470d7e77846b7e3ac8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="c021845d160ac16025cc4873af1a129e.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.201Z" modified="2020-11-06T23:08:03.201Z" filename="c021845d160ac16025cc4873af1a129e.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="8d84c49eac460e717670cef30a1a9d71.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.214Z" modified="2020-11-06T23:08:03.214Z" filename="8d84c49eac460e717670cef30a1a9d71.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="14ce3c810b9cca2c989c2c37a1e68faa.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.248Z" modified="2020-11-06T23:08:03.248Z" filename="14ce3c810b9cca2c989c2c37a1e68faa.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="e83fadd8e50892bc5241168880dafb51.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.321Z" modified="2020-11-06T23:08:03.321Z" filename="e83fadd8e50892bc5241168880dafb51.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="e805c6ee6770033affd0cac5fb37b45a.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.332Z" modified="2020-11-06T23:08:03.332Z" filename="e805c6ee6770033affd0cac5fb37b45a.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="7f385ed42ac8c24ac8c46513ced4eda1.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.339Z" modified="2020-11-06T23:08:03.339Z" filename="7f385ed42ac8c24ac8c46513ced4eda1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="7153aaadd5b9d4c29269a54d15855a29.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.354Z" modified="2020-11-06T23:08:03.354Z" filename="7153aaadd5b9d4c29269a54d15855a29.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="4d00b1f6d971b105ecf03f4a83e2d800.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.372Z" modified="2020-11-06T23:08:03.372Z" filename="4d00b1f6d971b105ecf03f4a83e2d800.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="197a8bc2847a40658a96bdf0943204fb.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.384Z" modified="2020-11-06T23:08:03.384Z" filename="197a8bc2847a40658a96bdf0943204fb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="5840780068d8270483daa56f45068c23.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.394Z" modified="2020-11-06T23:08:03.394Z" filename="5840780068d8270483daa56f45068c23.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="c22b782b7323c7ff63b0bd9789f7ca19.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.403Z" modified="2020-11-06T23:08:03.403Z" filename="c22b782b7323c7ff63b0bd9789f7ca19.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="03bb577b06c3b4eaea35c5924d7f2ee3.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.415Z" modified="2020-11-06T23:08:03.415Z" filename="03bb577b06c3b4eaea35c5924d7f2ee3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cff2b719c85d9c4955deff09df67df0e.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.436Z" modified="2020-11-06T23:08:03.436Z" filename="cff2b719c85d9c4955deff09df67df0e.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="842abb022b49064f1189bce4002dd47c.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.444Z" modified="2020-11-06T23:08:03.444Z" filename="842abb022b49064f1189bce4002dd47c.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bef49bafff352294f41a33c1b1198d57.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.461Z" modified="2020-11-06T23:08:03.461Z" filename="bef49bafff352294f41a33c1b1198d57.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2c03f6079707330c65893cce67806768.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.488Z" modified="2020-11-06T23:08:03.488Z" filename="2c03f6079707330c65893cce67806768.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="d6def0b5816b9f8f31b2fd4572b71fc8.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.533Z" modified="2020-11-06T23:08:03.533Z" filename="d6def0b5816b9f8f31b2fd4572b71fc8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="4d6c6c7beb4c8feb28e7cc3fa1187471.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.618Z" modified="2020-11-06T23:08:03.618Z" filename="4d6c6c7beb4c8feb28e7cc3fa1187471.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="4b35a5af95d442bad267ee0734679314.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.643Z" modified="2020-11-06T23:08:03.643Z" filename="4b35a5af95d442bad267ee0734679314.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="90872676104630267fa74560480b0b3f.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:03.683Z" modified="2020-11-06T23:08:03.683Z" filename="90872676104630267fa74560480b0b3f.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="38ebc618f26ba5cfd79920beb139883a.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:04.211Z" modified="2020-11-06T23:08:04.211Z" filename="38ebc618f26ba5cfd79920beb139883a.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="7126c326fe87a444eb3b9f680845df48.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:04.318Z" modified="2020-11-06T23:08:04.318Z" filename="7126c326fe87a444eb3b9f680845df48.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ef623c565106fb6ea98e8443ba786da1.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:04.6Z" modified="2020-11-06T23:08:04.6Z" filename="ef623c565106fb6ea98e8443ba786da1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="da50ca8b837b190cad39873cab237f2f.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:04.634Z" modified="2020-11-06T23:08:04.634Z" filename="da50ca8b837b190cad39873cab237f2f.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="3ceebd85edc4f38c9472742cebab0876.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:04.657Z" modified="2020-11-06T23:08:04.657Z" filename="3ceebd85edc4f38c9472742cebab0876.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="53a3d99083cac29d799e890cdb4f3e4a.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:04.689Z" modified="2020-11-06T23:08:04.689Z" filename="53a3d99083cac29d799e890cdb4f3e4a.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="5ae757ba04ec236819d43face623ea0a.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:04.732Z" modified="2020-11-06T23:08:04.732Z" filename="5ae757ba04ec236819d43face623ea0a.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="251c3211f089869b0f88adb6f44440c0.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:04.797Z" modified="2020-11-06T23:08:04.797Z" filename="251c3211f089869b0f88adb6f44440c0.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="04dc16df5d425a0df3d22a18a4c0c061.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:04.901Z" modified="2020-11-06T23:08:04.901Z" filename="04dc16df5d425a0df3d22a18a4c0c061.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="9217fba403a42072b92a39b97b5a09f8.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:04.919Z" modified="2020-11-06T23:08:04.919Z" filename="9217fba403a42072b92a39b97b5a09f8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="e9db619d71f7b10370f8ab4f6d9ad9ff.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:04.944Z" modified="2020-11-06T23:08:04.944Z" filename="e9db619d71f7b10370f8ab4f6d9ad9ff.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="7874326941461010369063b289c971b0.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:04.997Z" modified="2020-11-06T23:08:04.997Z" filename="7874326941461010369063b289c971b0.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ed1efe1b9f2a786e29795d3c6d408a0b.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.012Z" modified="2020-11-06T23:08:05.012Z" filename="ed1efe1b9f2a786e29795d3c6d408a0b.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="f22f4a62d89dd6650358864fa293a907.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.039Z" modified="2020-11-06T23:08:05.039Z" filename="f22f4a62d89dd6650358864fa293a907.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="190a01709f27704d89c37147a4d19f16.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.073Z" modified="2020-11-06T23:08:05.073Z" filename="190a01709f27704d89c37147a4d19f16.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="8a107863cc3b9dd338ffef4675e1010a.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.184Z" modified="2020-11-06T23:08:05.184Z" filename="8a107863cc3b9dd338ffef4675e1010a.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="b04b276bbdf7dd049839f707073af617.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.258Z" modified="2020-11-06T23:08:05.258Z" filename="b04b276bbdf7dd049839f707073af617.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="5d193e52cc912b56d89ab423fea86c7b.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.287Z" modified="2020-11-06T23:08:05.287Z" filename="5d193e52cc912b56d89ab423fea86c7b.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="e34d862902d8d25f0d518ad230538a9e.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.308Z" modified="2020-11-06T23:08:05.308Z" filename="e34d862902d8d25f0d518ad230538a9e.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="29bdce12d254ef9681ba5ae4afd42f23.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.329Z" modified="2020-11-06T23:08:05.329Z" filename="29bdce12d254ef9681ba5ae4afd42f23.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fde491fcbf48e0695f50e9d1927bfe7c.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.346Z" modified="2020-11-06T23:08:05.346Z" filename="fde491fcbf48e0695f50e9d1927bfe7c.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ce07d5dd2a0a99b61df90a456e0cd29b.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.369Z" modified="2020-11-06T23:08:05.369Z" filename="ce07d5dd2a0a99b61df90a456e0cd29b.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="3dac013944f35a6bc2823c0b0b7280e4.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.383Z" modified="2020-11-06T23:08:05.383Z" filename="3dac013944f35a6bc2823c0b0b7280e4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="f40c60c29c4d78669224a5ee6f3f18a1.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.557Z" modified="2020-11-06T23:08:05.557Z" filename="f40c60c29c4d78669224a5ee6f3f18a1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="5f0b92ce307585d8744d99d5a0812752.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.715Z" modified="2020-11-06T23:08:05.715Z" filename="5f0b92ce307585d8744d99d5a0812752.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="d906d9f89eb44b36d557c7f278eec69a.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.832Z" modified="2020-11-06T23:08:05.832Z" filename="d906d9f89eb44b36d557c7f278eec69a.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="8013f3374e45b3c7e8a4bc9cb70df8c7.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:05.937Z" modified="2020-11-06T23:08:05.937Z" filename="8013f3374e45b3c7e8a4bc9cb70df8c7.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2201c293ad3f9c248a9a0b3eba2f2bc3.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:06.152Z" modified="2020-11-06T23:08:06.152Z" filename="2201c293ad3f9c248a9a0b3eba2f2bc3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="e9960a71e27ca653a88dd47357f38a95.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:06.275Z" modified="2020-11-06T23:08:06.275Z" filename="e9960a71e27ca653a88dd47357f38a95.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="98c4212236aa9b73c45446cabb99a0a0.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:06.397Z" modified="2020-11-06T23:08:06.397Z" filename="98c4212236aa9b73c45446cabb99a0a0.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="b88c12ffb8107d354953080e26f68f28.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:06.504Z" modified="2020-11-06T23:08:06.504Z" filename="b88c12ffb8107d354953080e26f68f28.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="3e1fe43a33eb1294d204ca4ea70010d6.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:06.528Z" modified="2020-11-06T23:08:06.528Z" filename="3e1fe43a33eb1294d204ca4ea70010d6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ab78adf19ad93e8b5f3e459be5bf5e5a.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:06.799Z" modified="2020-11-06T23:08:06.799Z" filename="ab78adf19ad93e8b5f3e459be5bf5e5a.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="5b259349cb3eadecddf4c82e6cef3680.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:06.837Z" modified="2020-11-06T23:08:06.837Z" filename="5b259349cb3eadecddf4c82e6cef3680.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="efcc15415c729500a3608bed852d7dd6.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:06.943Z" modified="2020-11-06T23:08:06.943Z" filename="efcc15415c729500a3608bed852d7dd6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="68c9dbd5fdfaa024dc8e8552d0ab8bab.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:07.136Z" modified="2020-11-06T23:08:07.136Z" filename="68c9dbd5fdfaa024dc8e8552d0ab8bab.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="a79a0661e8aa1fca8333d7df1575c508.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:07.162Z" modified="2020-11-06T23:08:07.162Z" filename="a79a0661e8aa1fca8333d7df1575c508.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="383e5fe313a3a09e66be2c03c8c2a8f2.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:07.368Z" modified="2020-11-06T23:08:07.368Z" filename="383e5fe313a3a09e66be2c03c8c2a8f2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="37a78b129bff00ed10e4bbfc995a9888.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:07.388Z" modified="2020-11-06T23:08:07.388Z" filename="37a78b129bff00ed10e4bbfc995a9888.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="e3b80bd2c1ebfff3bab04a16b1e8d52d.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:07.562Z" modified="2020-11-06T23:08:07.562Z" filename="e3b80bd2c1ebfff3bab04a16b1e8d52d.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="d7d79066d1b8a3651bf769fe0bcf7d82.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.387Z" modified="2020-11-06T23:08:02.387Z" filename="d7d79066d1b8a3651bf769fe0bcf7d82.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="11651c4c4740fd186e052a3b3a945ed4.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.449Z" modified="2020-11-06T23:08:02.449Z" filename="11651c4c4740fd186e052a3b3a945ed4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="febf7a8e3bef167c1fc9a2ccdcb0ffa2.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.469Z" modified="2020-11-06T23:08:02.469Z" filename="febf7a8e3bef167c1fc9a2ccdcb0ffa2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="734059540d09083df67a1299bd814164.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.507Z" modified="2020-11-06T23:08:02.507Z" filename="734059540d09083df67a1299bd814164.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2926371ff39f0164b1cd9816b56642e0.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.549Z" modified="2020-11-06T23:08:02.549Z" filename="2926371ff39f0164b1cd9816b56642e0.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="c189e489391e222fadc5e964a67b7020.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.591Z" modified="2020-11-06T23:08:02.591Z" filename="c189e489391e222fadc5e964a67b7020.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1e3494f2b9d6b9fada4c9fa1b226d39c.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.611Z" modified="2020-11-06T23:08:02.611Z" filename="1e3494f2b9d6b9fada4c9fa1b226d39c.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="8170a2177cf225b406594a8b9a475f43.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.624Z" modified="2020-11-06T23:08:02.624Z" filename="8170a2177cf225b406594a8b9a475f43.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="e872ebac37616a5fa20e963768fdb7fd.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.643Z" modified="2020-11-06T23:08:02.643Z" filename="e872ebac37616a5fa20e963768fdb7fd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="0e84d15dc0133b7f690a5af4549d6054.xml" skip="no" owner="admin" group="dba" mode="664" created="2020-11-06T23:08:02.675Z" modified="2020-11-06T23:08:02.675Z" filename="0e84d15dc0133b7f690a5af4549d6054.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="docs" filename="docs"/>
+</collection>

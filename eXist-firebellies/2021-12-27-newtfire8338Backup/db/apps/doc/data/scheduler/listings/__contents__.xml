@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/scheduler/listings" version="1" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:34.404Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="listing-3.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.405Z" modified="2020-08-07T02:48:34.405Z" filename="listing-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-1.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.409Z" modified="2020-08-07T02:48:34.409Z" filename="listing-1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-2.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.406Z" modified="2020-08-07T02:48:34.406Z" filename="listing-2.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

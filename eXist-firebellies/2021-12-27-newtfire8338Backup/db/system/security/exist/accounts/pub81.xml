@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="81"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>5acf8bc2f8f55045a9193d9ff0ebf3a9103009eb</digestPassword><group name="pub81"/><group name="piperpoetry"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><metadata key="http://axschema.org/namePerson">Piper Baron</metadata><name>pub81</name></account>

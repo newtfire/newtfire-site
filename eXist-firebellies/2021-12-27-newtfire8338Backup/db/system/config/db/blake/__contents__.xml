@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/config/db/blake" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:24:59.676Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="collection.xconf" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:25:13.156Z" modified="2020-08-07T21:34:59.022Z" filename="collection.xconf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

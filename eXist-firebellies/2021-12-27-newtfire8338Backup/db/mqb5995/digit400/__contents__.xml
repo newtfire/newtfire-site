@@ -1,0 +1,48 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/mqb5995/digit400" version="1" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-08T15:25:01.241Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="carYearsTable.html" skip="no" owner="mqb5995" group="mqb5995" mode="644" created="2021-10-11T19:17:02.708Z" modified="2021-10-11T19:17:02.708Z" filename="carYearsTable.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGupdatedSitesTimeline.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-08T13:44:43.489Z" modified="2021-11-13T18:56:43.882Z" filename="SVGupdatedSitesTimeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mayanSources-BibHTML.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-14T17:36:08.829Z" modified="2021-11-14T20:02:18.488Z" filename="mayanSources-BibHTML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="auto_XQL-HTML.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-11T18:49:21.198Z" modified="2021-10-11T19:17:30.135Z" filename="auto_XQL-HTML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySVGstarter.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-03T19:07:10.134Z" modified="2021-11-03T19:08:06.73Z" filename="banksySVGstarter.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGmayanSitesActiveTimeline.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-05T16:14:18.934Z" modified="2021-11-06T22:29:59.977Z" filename="SVGmayanSitesActiveTimeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="autoXquery.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-08T19:09:06.98Z" modified="2021-10-13T11:32:59.374Z" filename="autoXquery.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGmayanSitesActiveTimeline-ebb.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-11-06T22:33:41.607Z" modified="2021-11-07T00:42:58.317Z" filename="SVGmayanSitesActiveTimeline-ebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mayaSites_latlong.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-15T16:50:17.269Z" modified="2021-10-18T15:32:36.414Z" filename="mayaSites_latlong.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pv_charindex_query" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-08T15:25:22.839Z" modified="2021-10-08T16:06:40.988Z" filename="pv_charindex_query" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TSV-PVgodrefs" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-17T11:25:12.047Z" modified="2021-11-17T17:13:54.406Z" filename="TSV-PVgodrefs" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGtimelineBanksyexample.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-05T16:05:21.6Z" modified="2021-11-05T16:05:21.6Z" filename="SVGtimelineBanksyexample.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="char_familyList_HTML.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-13T13:02:53.242Z" modified="2021-10-13T19:10:20.696Z" filename="char_familyList_HTML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bubbleplotSVGexample.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-12T17:44:29.442Z" modified="2021-11-12T17:44:29.442Z" filename="bubbleplotSVGexample.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="altNames_gods.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-15T17:26:34.3Z" modified="2021-10-15T17:26:34.3Z" filename="altNames_gods.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

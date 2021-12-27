@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/fundocs/modules" version="1" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:37.684Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="app.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:37.684Z" modified="2020-08-07T02:48:37.684Z" filename="app.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:37.687Z" modified="2020-08-07T02:48:37.687Z" filename="view.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="scan.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:37.688Z" modified="2020-08-07T02:48:37.688Z" filename="scan.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="reindex.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:37.69Z" modified="2020-08-07T02:48:37.69Z" filename="reindex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" skip="no" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:37.692Z" modified="2020-08-07T02:48:37.692Z" filename="config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

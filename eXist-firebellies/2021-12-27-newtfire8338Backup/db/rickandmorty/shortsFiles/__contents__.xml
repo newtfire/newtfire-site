@@ -1,0 +1,51 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rickandmorty/shortsFiles" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:13:03.749Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Short4" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:03.75Z" modified="2020-08-07T21:13:03.75Z" filename="Short4" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short3" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:03.82Z" modified="2020-08-07T21:13:03.82Z" filename="Short3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short2" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:03.883Z" modified="2020-08-07T21:13:03.883Z" filename="Short2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short5" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:03.948Z" modified="2020-08-07T21:13:03.948Z" filename="Short5" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short10" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.019Z" modified="2020-08-07T21:13:04.019Z" filename="Short10" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short16" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.082Z" modified="2020-08-07T21:13:04.082Z" filename="Short16" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short11" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.145Z" modified="2020-08-07T21:13:04.145Z" filename="Short11" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short9" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.28Z" modified="2020-08-07T21:13:04.28Z" filename="Short9" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short7" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.339Z" modified="2020-08-07T21:13:04.339Z" filename="Short7" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short6" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.41Z" modified="2020-08-07T21:13:04.41Z" filename="Short6" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short1" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.476Z" modified="2020-08-07T21:13:04.476Z" filename="Short1" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short8" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.54Z" modified="2020-08-07T21:13:04.54Z" filename="Short8" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short14" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.599Z" modified="2020-08-07T21:13:04.599Z" filename="Short14" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short13" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.661Z" modified="2020-08-07T21:13:04.661Z" filename="Short13" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short12" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.718Z" modified="2020-08-07T21:13:04.718Z" filename="Short12" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Short15" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.781Z" modified="2020-08-07T21:13:04.781Z" filename="Short15" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

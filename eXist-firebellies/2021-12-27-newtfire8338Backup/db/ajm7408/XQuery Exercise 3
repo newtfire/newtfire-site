@@ -1,0 +1,18 @@
+xquery version "3.1";
+let $disneySongs := collection('/db/disneySongs/')
+let $songLengths := 
+    for $d at $pos in $disneySongs
+let $dtitle := $d//title
+let $dlineCount := $d//ln => count()
+let $dsongString := $d//song => string-length()
+    return $dsongString
+let $maxsongLengths := $songLengths => max()
+    for $d at $pos in $disneySongs
+let $dtitle := $d//title
+let $dlineCount := $d//ln => count()
+let $dsongString := $d//song => string-length()
+    where $dsongString = $maxsongLengths
+        return concat($pos, " ", $dtitle, " ", $dsongString)
+    (: order by $dsongString descending
+        return $dsongString :)
+    (: return concat($pos, " ", $dtitle, " ", $dsongString) :)

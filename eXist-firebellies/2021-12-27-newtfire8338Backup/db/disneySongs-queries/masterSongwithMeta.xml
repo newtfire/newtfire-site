@@ -1,0 +1,1825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml><title>Master Song List With MetaData</title><song><meta><metadata>
+        <title> One Jump Ahead (Reprise 2)</title>
+        <origin>Lyrics from <movie>Aladdin (Live-Action)</movie></origin>
+        <author>Music by <composer ref="#Menken">Alan Menken</composer> Lyrics by <lyricist ref="#Pasek">Benj Pasek</lyricist> and <lyricist ref="#Paul">Justin Paul</lyricist></author>
+        <perform>Performed by <voiceActor ref="#Massoud" role="#Aladdin">Mena Massoud</voiceActor> as Aladdin</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1"> Riffraff! Street rat! Would they think that</ln>
+            <ln n="2">If they look much closer</ln>
+            <ln n="3">Still, I can't play a prince here</ln>
+            <ln n="4">No, siree</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="1">Gotta tell the truth</ln>
+            <ln n="2">I can't pretend</ln>
+            <ln n="3">Even if it means this dream will end</ln>
+            <ln n="4">Even if she walks away from me</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>One Jump Ahead (Reprise)</title>
+        <origin>Lyrics from <movie>Aladdin (Live-Action)</movie></origin>
+        <author>Music and lyrics by<composer ref="#Menken"> Alan Menken</composer>
+            and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform>Performed by <voiceActor ref="#Massoud" role="#Aladdin">Mena Massoud</voiceActor> as Aladdin</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1">Riffraff! Street rat! I don't buy that!</ln>
+            <ln n="2">If only they'd look closer</ln>
+            <ln n="3">Would they see a poor boy?</ln>
+            <ln n="4">No, siree</ln>
+            <ln n="5">They'd find out there's so much more to me</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>One Jump Ahead</title>
+        <origin>Lyrics from <movie>Aladdin (Live-Action)</movie></origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer>
+            and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform>Performed by <voiceActor ref="#Massoud" role="#Aladdin">Mena Massoud</voiceActor> as
+                Aladdin</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1"><char ref="#Aladdin">Aladdin</char> Gotta keep one jump ahead of the
+                breadline</ln>
+            <ln n="2">One swing ahead of the sword</ln>
+            <ln n="3">I steal only what I can't afford (And that's everything!)</ln>
+            <ln n="4">One jump ahead of the lawmen</ln>
+            <ln n="5">That's all, and that's no joke</ln>
+            <ln n="6">These guys don't appreciate I'm broke</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="7"><char ref="#Crowd">Crowd</char> Riffraff! Street rat! Scoundrel!</ln>
+            <ln n="8"><char ref="#Aladdin">Aladdin</char> Take that! Try a different tack,
+                guys</ln>
+            <ln n="9"><char ref="#Crowd">Crowd</char> Rip him open! Round the back, guys</ln>
+            <ln n="10"><char ref="#Aladdin">Aladdin</char> I can take a hint, gotta face the
+                facts</ln>
+            <ln n="11">Could really use a friend or two</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="12"><char ref="#Ladies">Ladies</char> Huh? Oh, it's sad Aladdin's hit the
+                bottom</ln>
+            <ln n="13">He's become a one-man rise in crime</ln>
+            <ln n="14">I'd blame parents except he hasn't got 'em</ln>
+            <ln n="15"><char ref="#Aladdin">Aladdin</char> Gotta eat to live, gotta steal to
+                eat</ln>
+            <ln n="16">Tell you all about it when I got the time!</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="17">One jump ahead of the slowpokes</ln>
+            <ln n="18">One skip ahead of my doom</ln>
+            <ln n="19">Next time gonna use a nom de plume</ln>
+            <ln n="20">One jump ahead of the hitmen</ln>
+            <ln n="21">One hit ahead of the flock</ln>
+            <ln n="22">I think I'll take a stroll around the block</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="23"><char ref="#Crowd">Crowd</char> Stop, thief! Vandal! Abu! Scandal!</ln>
+            <ln n="24"><char ref="#Aladdin">Aladdin</char> Let's not be too hasty</ln>
+            <ln n="25"><char ref="#Lady">Lady</char> Still I think he's rather tasty</ln>
+            <ln n="26"><char ref="#Aladdin">Aladdin</char> Gotta eat to live, gotta steal to
+                eat</ln>
+            <ln n="27">Otherwise we'd get along</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="28"><char ref="#Aladdin">Aladdin</char> One jump ahead of the hoofbeats</ln>
+            <ln n="29">One hop ahead of the hump</ln>
+            <ln n="30">One trick ahead of disaster</ln>
+            <ln n="31">They're quick, but I'm much faster</ln>
+            <ln n="32">Here goes, better throw my hand in</ln>
+            <ln n="33">Wish me happy landin'</ln>
+            <ln n="34">All I gotta do is jump</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>Forget About Love</title>
+        <origin>Lyrics from <movie>Aladdin: The Return of Jafar</movie></origin>
+        <author>Lyrics and music by <composer ref="#PSilversher">Patty
+                Silversher</composer> and <composer ref="#MSilversher">Michael
+                Silversher</composer></author>
+        <perform>Performed by <voiceActor ref="#Gottfried" role="#Iago">Gilbert
+                Gottfried</voiceActor>, <voiceActor ref="#Callaway" role="#Jasmine">Liz
+                Callaway</voiceActor> and <voiceActor ref="#Kane" role="#Aladdin">Brad
+            Kane</voiceActor></perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1"><char ref="#Iago">Iago</char> Forget about that guy</ln>
+            <ln n="2">Forget about the way you fell into his eyes</ln>
+            <ln n="3">Forget about his charms</ln>
+            <ln n="4">Forget about the way he held you in his arms</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5">Walking on air's obnoxious</ln>
+            <ln n="6">The thrills, the chills</ln>
+            <ln n="7">Will make you nauseous</ln>
+            <ln n="8">And you'll never get enough</ln>
+            <ln n="9">Just forget about love</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="10">Forget about romance</ln>
+            <ln n="11">Forget about the way your heart begins to dance</ln>
+            <ln n="12">Then you feel the blush</ln>
+            <ln n="13">When he's spouting out some sentimental mush</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="14">Love really is revolting</ln>
+            <ln n="15">It's even worse than when you're molting</ln>
+            <ln n="16">Enough of this fluff</ln>
+            <ln n="17">Just forget about love</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="18"><char ref="#Jasmine">Jasmine</char> I had almost forgotten the way it
+                felt</ln>
+            <ln n="19">When he held out his hand for mine</ln>
+            <ln n="20">My heart all a-flutter</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="21">
+                <char ref="#Iago">Iago</char> Oh, how I shudder</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="22"><char ref="#Jasmine">Jasmine</char> The first time we kissed</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="23"><char ref="#Iago">Iago</char> It won't be missed</ln>
+            <ln n="24">Forget about his touch</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="25"><char ref="#Jasmine">Jasmine</char> I can't forget about his touch</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="26"><char ref="#Iago">Iago</char> In the scheme of things</ln>
+            <ln n="27">It doesn't matter much</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="28"><char ref="#Jasmine">Jasmine</char> It matters so much</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="29"><char ref="#Iago">Iago</char> You're better on your own</ln>
+            <ln n="30">A meal becomes a banquet</ln>
+            <ln n="31">When you eat alone</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="32"><char ref="#Jasmine">Jasmine</char> Hmm-mm-mm-mm</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="33"><char ref="#Both">Both </char>Love's filled with compromises</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="34"><char ref="#Iago">Iago</char> And don't you hate those big surprises?</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="35"><char ref="#Jasmine">Jasmine</char> A cozy rendez-vous</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="36"><char ref="#Iago">Iago</char> Oh, please!</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="37"><char ref="#Jasmine">Jasmine</char> Candlelight for two</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="38"><char ref="#Iago">Iago</char> Oh, geez!</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="39"><char ref="#Jasmine">Jasmine</char> Look, you're calling my bluff, I
+                can't</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="40"><char ref="#Iago">Iago</char> Just</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="41"><char ref="#Both">Both</char> Forget about love!</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="42"><char ref="#Jasmine">Jasmine</char> I can't forget about my heart</ln>
+        </lg>
+
+        <lg n="24">
+            <ln n="43"><char ref="#Aladdin">Aladdin</char> I can't forget about my heart</ln>
+        </lg>
+
+        <lg n="25">
+            <ln n="44"><char ref="#Jasmine">Jasmine</char> And how it felt to fall for you right
+                from the start</ln>
+        </lg>
+
+        <lg n="26">
+            <ln n="45"><char ref="#Aladdin">Aladdin</char> I'm still falling</ln>
+        </lg>
+
+        <lg n="27">
+            <ln n="46"><char ref="#Jasmine">Jasmine</char> Whatever we may do</ln>
+        </lg>
+
+        <lg n="28">
+            <ln n="47"><char ref="#Aladdin">Aladdin</char> Whatever we may do</ln>
+        </lg>
+
+        <lg n="29">
+            <ln n="48"><char ref="#Jasmine">Jasmine</char> You are here for me, and I'll be there
+                for you</ln>
+        </lg>
+
+        <lg n="30">
+            <ln n="49"><char ref="#Aladdin">Aladdin</char> I'll be there</ln>
+        </lg>
+
+        <lg n="31">
+            <ln n="50"><char ref="#Both">Both</char> To wish, to want, to wander</ln>
+            <ln n="51">To find the sun through rain and thunder</ln>
+        </lg>
+
+        <lg n="32">
+            <ln n="52"><char ref="#Aladdin">Aladdin</char> A cozy rendez-vous</ln>
+        </lg>
+
+        <lg n="33">
+            <ln n="53"><char ref="#Jasmine">Jasmine</char> Yes, please!</ln>
+        </lg>
+
+        <lg n="34">
+            <ln n="54"><char ref="#Aladdin">Aladdin</char> Candlelight for two</ln>
+        </lg>
+
+        <lg n="35">
+            <ln n="55"><char ref="#Iago">Iago</char> Oh, geez!</ln>
+            <ln n="56">Enough is enough!</ln>
+        </lg>
+
+        <lg n="36">
+            <ln n="57"><char ref="#Both">Aladdin and Jasmine</char> We can't forget about
+                love!</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>Father and Son</title>
+        <origin>Lyrics from <movie>Aladdin and the King of Theives</movie></origin>
+        <author>Composed by <composer ref="#Petersen">Randy Petersen</composer> and
+                <composer ref="#Quinn">Kevin Quinn</composer></author>
+        <perform>Performed by <voiceActor ref="#Williams" role="#Genie">Robin Williams</voiceActor>,
+                <voiceActor ref="#Kane" role="#Aladdin">Brad Kane</voiceActor> and <voiceActor ref="#Foard" role="#Cassim">Merwin Foard</voiceActor></perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1"><char ref="#Genie">Genie</char> It's a big, bright, beautiful future</ln>
+            <ln n="2">Thank your lucky stars you're alive</ln>
+            <ln n="3">You got someone special to talk to</ln>
+            <ln n="4">A friend that you can trust for life</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5">You've been on your own with no family ties</ln>
+            <ln n="6">But those solo days are done</ln>
+            <ln n="7">You'll be two of a kind</ln>
+            <ln n="8">Spending quality time</ln>
+            <ln n="9">Together as father and son</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="10">Buildin' model ships</ln>
+            <ln n="11">Takin' fishin' trips</ln>
+            <ln n="12">Workin' hand in hand</ln>
+            <ln n="13">Painting the palace, mowin' the sand</ln>
+            <ln n="14">First at ten to go</ln>
+            <ln n="15">With your daddy-o</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="16">Once you break the ice</ln>
+            <ln n="17">You can postulate paternal advice</ln>
+            <ln n="18">See, you're travelling at the speed of life</ln>
+            <ln n="19">That's the theory of relatives!</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="20">It's a fine, fantabulous future</ln>
+            <ln n="21">I see fruit on the family tree</ln>
+            <ln n="22">You'll be great as a grumpy ol' grandpa</ln>
+            <ln n="23">Bouncing babies on your knee!</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="24">You can fall asleep on the comfy couch</ln>
+            <ln n="25">After playin' one-on-one</ln>
+            <ln n="26">Reamin' back-to-back</ln>
+            <ln n="27">Betcha wallop the Shaq</ln>
+            <ln n="28">Together as father and son</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="29"><char ref="#Cassim">Cassim</char> May be a bumpy ride</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="30"><char ref="#Aladdin">Aladdin</char> We'll make it side by side</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="31"><char ref="#Genie">Genie</char> Good afternoon, I'll be your travel guide</ln>
+            <ln n="32">Move over, Aladdin</ln>
+            <ln n="33">Make room for dad!</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="34">You got a whole new shoulder to cry on</ln>
+            <ln n="35">Take a chance now, give it a spin</ln>
+            <ln n="36">You've had chums for palin' around with</ln>
+            <ln n="37">But you never had a friend like him</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="38">Put your checkered past behind you now</ln>
+            <ln n="39">No more living on the run</ln>
+            <ln n="40">Face the big, bright, beautiful future</ln>
+            <ln n="41">Together together, together, together as father and son</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>Are You in or Out?</title>
+        <origin>Lyrics from <movie>Aladdin and the King of Thieves</movie></origin>
+        <author>Composed by <composer ref="#Petersen">Randy Petersen</composer> and
+                <composer ref="#Quinn">Kevin Quinn</composer></author>
+        <perform>Performed by <voiceActor ref="#Orbach" role="#Sa'luk">Jerry Orbach</voiceActor> as Sa'luk, with chorus</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1"><char ref="#Sa'luk">Sa'luk</char> I remember a time</ln>
+            <ln n="2">When crime was sublime</ln>
+            <ln n="3">There was plenty of loot in the lair</ln>
+            <ln n="4">We'd plunder and pillage</ln>
+            <ln n="5">And ransack a village</ln>
+            <ln n="6">With nary a worry or care</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="7">Then along came this king</ln>
+            <ln n="8">With his soft-hearted dream</ln>
+            <ln n="9">But he ratted us out in the end</ln>
+            <ln n="10">So rally the troops</ln>
+            <ln n="11">We were meant to regroup</ln>
+            <ln n="12">And return to our roots once again!</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="13">Are you in or out?</ln>
+            <ln n="14">Gotta know without a doubt</ln>
+            <ln n="15">I'm the one you need for a dirty deed</ln>
+            <ln n="16">I'm the best; success is guaranteed</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="17">Are you men or mice?</ln>
+            <ln n="18">Take a slice of my advice</ln>
+            <ln n="19">You want a fearless leader</ln>
+            <ln n="20">One that's strong and stout?</ln>
+            <ln n="21">Better vote for me</ln>
+            <ln n="22">Are you in or out?</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="23"><char ref="#Thieves">Thieves</char> We used to be smart, yes</ln>
+            <ln n="24">Horrendously heartless</ln>
+            <ln n="25">In a ravaging raid we were rough</ln>
+            <ln n="26">We knew what we had</ln>
+            <ln n="27">To be blissfully bad</ln>
+            <ln n="28">Then Cassim brought this sensitive stuff</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="29">And we strayed from the path</ln>
+            <ln n="30">Of our rigorous wrath</ln>
+            <ln n="31">Now we're taking a bath in the dust</ln>
+            <ln n="32">But we'll reclaim our winnings</ln>
+            <ln n="33">Our humble beginnings</ln>
+            <ln n="34">In turmoil and torture we trust</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="35"><char ref="#Sa'luk">Sa'luk</char> Are you in or out?</ln>
+            <ln n="36">Double-crossers or devout?</ln>
+            <ln n="37">Put your faith in me; pretty soon you'll see</ln>
+            <ln n="38">I'm the prince of generosity</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="39">Are you foe or friend?</ln>
+            <ln n="40">Here's the path I recommend</ln>
+            <ln n="41">You want a ride to fame?</ln>
+            <ln n="42">I've got the fastest route</ln>
+            <ln n="43">What's it gonna be?</ln>
+            <ln n="44">Are you in or out?</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="45"><char ref="#Thieves">Thieves</char> We'll go robbing in all the right
+                places</ln>
+            <ln n="46">From Agrabah dunes to Paris</ln>
+            <ln n="47">Imagine the fear on their faces</ln>
+            <ln n="48">When we drop by for cookies and tea</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="49"><char ref="#Sa'luk">Sa'luk</char> Are you in or out?</ln>
+            <ln n="50">If you're with me, give a shout</ln>
+            <ln n="51">I'll lead you all the way into the glory days</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="52"><char ref="#Thieves">Thieves</char> We'll begin a life of crime that
+                pays</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="53">Are you out or in?</ln>
+            <ln n="54">Make your choice now: sink or swim</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="55"><char ref="#Sa'luk">Sa'luk</char> You can stick with me</ln>
+            <ln n="56">Or stay behind and pout</ln>
+            <ln n="57">What's it gonna be?</ln>
+            <ln n="58">Consider carefully</ln>
+            <ln n="59">Are you in or out?</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>A Whole New World </title>
+        <origin>Lyrics from <movie>Aladdin (Live-Action)</movie></origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer>
+            and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform>Performed by <voiceActor ref="#Massoud" role="#Aladdin">Mena Massoud</voiceActor> as
+                Aladdin and <voiceActor ref="#Scott" role="#Jasmine">Naomi Scott</voiceActor> as Jasmine</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1"><char ref="#Aladdin">Aladdin</char> I can show you the world</ln>
+            <ln n="2">Shining, shimmering, splendid</ln>
+            <ln n="3">Tell me, princess, now when did</ln>
+            <ln n="4">You last let your heart decide</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5">I can open your eyes</ln>
+            <ln n="6">Take you wonder by wonder</ln>
+            <ln n="7">Over, sideways and under</ln>
+            <ln n="8">On a magic carpet ride</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="9">A whole new world</ln>
+            <ln n="10">A new fantastic point of view</ln>
+            <ln n="11">No one to tell us no</ln>
+            <ln n="12">Or where to go</ln>
+            <ln n="13">Or say we're only dreaming</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="14"><char ref="#Jasmine">Jasmine</char> A whole new world</ln>
+            <ln n="15">A dazzling place I never knew</ln>
+            <ln n="16">But when I'm way up here</ln>
+            <ln n="17">It's crystal clear</ln>
+            <ln n="18">That now I'm in a whole new world with you</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="19"><char ref="#Aladdin">Aladdin</char> Now I'm in a whole new world with
+                you</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="20"><char ref="#Jasmine">Jasmine</char> Unbelievable sights</ln>
+            <ln n="21">Indescribable feeling</ln>
+            <ln n="22">Soaring, tumbling, freewheeling</ln>
+            <ln n="23">Through an endless diamond sky</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="24">A whole new world</ln>
+        </lg>
+
+
+        <lg n="8">
+            <ln n="25"><char ref="#Aladdin">Aladdin</char> Don't you dare close your eyes</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="26"><char ref="#Jasmine">Jasmine</char> A hundred thousand things to see</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="27"><char ref="#Aladdin">Aladdin</char> Hold your breath; it gets better</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="28"><char ref="#Jasmine">Jasmine</char> I'm like a shooting star</ln>
+            <ln n="29">I've come so far</ln>
+            <ln n="30">I can't go back to where I used to be</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="31"><char ref="#Aladdin">Aladdin</char> A whole new world</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="32"><char ref="#Jasmine">Jasmine</char> Every turn a surprise</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="33"><char ref="#Aladdin">Aladdin</char> With new horizons to pursue</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="34"><char ref="#Jasmine">Jasmine</char> Every moment red-letter</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="35"><char ref="#Both">Both</char> I'll chase them anywhere</ln>
+            <ln n="36">There's time to spare</ln>
+            <ln n="37">Let me share this whole new world with you</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="38"><char ref="#Aladdin">Aladdin</char> A whole new world</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="39"><char ref="#Jasmine">Jasmine</char> A whole new world</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="40"><char ref="#Aladdin">Aladdin</char> That's where we'll be</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="41"><char ref="#Jasmine">Jasmine</char> That's where we'll be</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="42"><char ref="#Aladdin">Aladdin</char> A thrilling chase</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="43"><char ref="#Jasmine">Jasmine</char> A wondrous place</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="44"><char ref="#Both">Both</char> For you and me</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>A Whole New World</title>
+        <origin>Lyrics from <movie>Aladdin</movie></origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform>Performed by <voiceActor ref="#Salonga" role="#Jasmine">Lea Salonga</voiceActor> as Jasmine and <voiceActor ref="#Kane" role="#Aladdin">Brad Kane</voiceActor> as Aladdin</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1"><char ref="#Aladdin">Aladdin</char> I can show you the world</ln>
+            <ln n="2">Shining, shimmering, splendid</ln>
+            <ln n="3">Tell me, princess, now when did</ln>
+            <ln n="4">You last let your heart decide</ln>
+        </lg>
+        
+        <lg n="2">
+            <ln n="5">I can open your eyes</ln>
+            <ln n="6">Take you wonder by wonder</ln>
+            <ln n="7">Over, sideways and under</ln>
+            <ln n="8">On a magic carpet ride</ln>
+        </lg>
+        
+        <lg n="3">
+            <ln n="9">A whole new world</ln>
+            <ln n="10">A new fantastic point of view</ln>
+            <ln n="11">No one to tell us no</ln>
+            <ln n="12">Or where to go</ln>
+            <ln n="13">Or say we're only dreaming</ln>
+        </lg>
+        
+        <lg n="4">
+            <ln n="14"><char ref="#Jasmine">Jasmine</char> A whole new world</ln>
+            <ln n="15">A dazzling place I never knew</ln>
+            <ln n="16">But now from way up here</ln>
+            <ln n="17">It's crystal clear</ln>
+            <ln n="18">That now I'm in a whole new world with you</ln>
+        </lg>
+        
+        <lg n="5">
+            <ln n="19"><char ref="#Aladdin">Aladdin</char> Now I'm in a whole new world with you</ln>
+        </lg>
+        
+        <lg n="6">
+            <ln n="20"><char ref="#Jasmine">Jasmine</char> Unbelievable sights</ln>
+            <ln n="21">Indescribable feeling</ln>
+            <ln n="22">Soaring, tumbling, freewheeling</ln>
+            <ln n="23">Through an endless diamond sky</ln>
+        </lg>
+        
+        <lg n="7">
+            <ln n="24"><char ref="#Jasmine">Jasmine</char> A whole new world</ln>
+        </lg>
+        
+        <lg n="8">
+            <ln n="25"><char ref="#Aladdin">Aladdin</char> Don't you dare close your eyes</ln>
+        </lg>
+        
+        <lg n="9">
+            <ln n="26"><char ref="#Jasmine">Jasmine</char> A hundred thousand things to see</ln>
+        </lg>
+        
+        <lg n="10">
+            <ln n="27"><char ref="#Aladdin">Aladdin</char> Hold your breath; it gets better</ln>
+        </lg>
+        
+        <lg n="11">
+            <ln n="28"><char ref="#Jasmine">Jasmine</char> I'm like a shooting star</ln>
+            <ln n="29">I've come so far</ln>
+            <ln n="30">I can't go back to where I used to be</ln>
+        </lg>
+        
+        <lg n="12">
+            <ln n="31"><char ref="#Aladdin">Aladdin</char> A whole new world</ln>
+        </lg>
+        
+        <lg n="13">
+            <ln n="32"><char ref="#Jasmine">Jasmine</char> Every turn a surprise</ln>
+        </lg>
+        
+        <lg n="14">
+            <ln n="33"><char ref="#Aladdin">Aladdin</char> With new horizons to pursue</ln>
+        </lg>
+        
+        <lg n="15">
+            <ln n="34"><char ref="#Jasmine">Jasmine</char> Every moment red-letter</ln>
+        </lg>
+        
+        <lg n="16">
+            <ln n="35"><char ref="#Both">Both</char> I'll chase them anywhere</ln>
+            <ln n="36">There's time to spare</ln>
+            <ln n="37">Let me share this whole new world with you</ln>
+        </lg>
+        
+        <lg n="17">
+            <ln n="38"><char ref="#Aladdin">Aladdin</char> A whole new world</ln>
+        </lg>
+        
+        <lg n="18">
+            <ln n="39"><char ref="#Jasmine">Jasmine</char> A whole new world</ln>
+        </lg>
+        
+        <lg n="19">
+            <ln n="40"><char ref="#Aladdin">Aladdin</char> That's where we'll be</ln>
+        </lg>
+        
+        <lg n="20">
+            <ln n="41"><char ref="#Jasmine">Jasmine</char> That's where we'll be</ln>
+        </lg>
+        
+        <lg n="21">
+            <ln n="42"><char ref="#Aladdin">Aladdin</char> A thrilling chase</ln>
+        </lg>
+        
+        <lg n="22">
+            <ln n="43"><char ref="#Jasmine">Jasmine</char> A wondrous place</ln>
+        </lg>
+        
+        <lg n="23">
+            <ln n="44"><char ref="#Both">Both</char> For you and me</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>Prince Ali </title>
+        <origin>Lyrics from <movie>Aladdin (Live-Action)</movie>
+        </origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <composer ref="#Ashman">Howard Ashman</composer></author>
+        <perform>Performed by <voiceActor ref="#Smith" role="#Genie">Will Smith</voiceActor> as
+            Genie</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1"> Make way for Prince Ali </ln>
+            <ln n="2"> Say hey, it's Prince Ali </ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="3"> Hey, clear the way in the old Bazaar </ln>
+            <ln n="4"> Hey, you, let us through </ln>
+            <ln n="5"> It's a brand new star </ln>
+            <ln n="6"> Oh, come! </ln>
+            <ln n="7"> Be the first on your block to meet his eye </ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="8"> Make way, here he comes </ln>
+            <ln n="9"> Ring bells! Bang the drums! </ln>
+            <ln n="10"> You're gonna love this guy </ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="11"> Prince Ali! Fabulous he, Ali Ababwa </ln>
+            <ln n="12"> Show some respect </ln>
+            <ln n="13"> Boy, genuflect! </ln>
+            <ln n="14"> Down on one knee </ln>
+            <ln n="15"> Now try your best to stay calm </ln>
+            <ln n="16"> Brush up your Friday salaam </ln>
+            <ln n="17"> Then come and meet his spectacular coterie! </ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="18"> Prince Ali! Mighty is he, Ali Ababwa </ln>
+            <ln n="19"> Strong as ten regular men, definitely </ln>
+            <ln n="20"> He's faced the galloping hordes </ln>
+            <ln n="21"> A hundred bad guys with swords </ln>
+            <ln n="22"> Who sent those goons to their lords? </ln>
+            <ln n="23"> Why, Prince Ali </ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="24"> Fellas, he's got </ln>
+            <ln n="25"> He's got seventy-five golden camels </ln>
+            <ln n="26"> Woo, uh, huh, now the ladies, what he got? </ln>
+            <ln n="27"> Purple peacocks, he's got fifty-three </ln>
+            <ln n="28"> Uh, huh, uh, huh, uh, huh </ln>
+            <ln n="29"> When it comes to exotic-type mammals </ln>
+            <ln n="30"> Everybody, help me out! </ln>
+            <ln n="31"> He's got a zoo </ln>
+            <ln n="32"> I'm telling you, it's a world-class menagerie </ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="33"> Prince Ali! Handsome is he, Ali Ababwa </ln>
+            <ln n="34"> That physique! How can I speak </ln>
+            <ln n="35"> Weak in my knees (yummy, boy!) </ln>
+            <ln n="36"> So get on out in that square </ln>
+            <ln n="37"> Adjust your veil and prepare </ln>
+            <ln n="38"> To gawk and grovel and stare at Prince Ali </ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="39"> He's got ninety-five white Persian monkeys </ln>
+            <ln n="40"> (He's got the monkeys, a bunch of monkeys) </ln>
+            <ln n="41"> And to view them he charges no fee </ln>
+            <ln n="42"> (He's generous, so generous) </ln>
+            <ln n="43"> He's got ten thousand servants and flunkies </ln>
+            <ln n="44"> (Proud to work for him) </ln>
+            <ln n="45"> They bow to his whim, love serving him </ln>
+            <ln n="46"> They're just lousy with loyalty to Ali! </ln>
+            <ln n="47"> Prince Ali! </ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="48"> Prince A- </ln>
+            <ln n="49"> We're waiting for you! We're not going till you go </ln>
+            <ln n="50"> You can do it! There it is! </ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="51"> Prince Ali! Amorous he, Ali Ababwa </ln>
+            <ln n="52"> Heard your princess was hot! Where is she? </ln>
+            <ln n="53"> And that, good people, is why </ln>
+            <ln n="54"> He got all cute and dropped by </ln>
+            <ln n="55"> With sixty elephants, llamas galore </ln>
+            <ln n="56"> (For real?) </ln>
+            <ln n="57"> With his bears and lions </ln>
+            <ln n="58"> A brass band and more </ln>
+            <ln n="59"> (What?) </ln>
+            <ln n="60"> With his forty fakirs, his cooks, his bakers </ln>
+            <ln n="61"> His birds that warble on key </ln>
+            <ln n="62"> Make way </ln>
+            <ln n="63"> For Prince Ali! </ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>Out of Thin Air</title>
+        <origin><movie>Aladdin and the King of Thieves</movie></origin>
+        <author><composer ref="#Friedman">David
+            Friedman</composer></author>
+        <perform>
+            <voiceActor ref="#Kane" role="#Aladdin">Brad Kane</voiceActor>
+            <voiceActor ref="#Callaway" role="#Jasmine">Liz Callaway</voiceActor></perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1"><char ref="#Jasmine">Jasmine</char> You showed me the world</ln>
+            <ln n="2">When I was all locked up inside</ln>
+            <ln n="3">You reached out your hand</ln>
+            <ln n="4">And took me on a magic carpet ride</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5">One look at your smile</ln>
+            <ln n="6">And I could see the light</ln>
+            <ln n="7">Shining everywhere</ln>
+            <ln n="8">People like you don't come out of thin air</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="9"><char ref="#Aladdin">Aladdin</char> Oh, Jasmine</ln>
+            <ln n="10">You don't understand</ln>
+            <ln n="11">There is so much that you don't see</ln>
+            <ln n="12">Just think, if you can</ln>
+            <ln n="13">What growing up had to be like for me</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="14">Your father's a man</ln>
+            <ln n="15">Who taught you who you are</ln>
+            <ln n="16">Mine was never there</ln>
+            <ln n="17">So how can you say I don't come out of thin air?</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="18"><char ref="#Aladdin">Aladdin</char> There's so much I want to know</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="19"><char ref="#Jasmine">Jasmine</char> You've got the chance to learn</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="20"><char ref="#Aladdin">Aladdin</char> If it means I'd have to go</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="21"><char ref="#Jasmine">Jasmine</char> I'll be right here when you return</ln>
+            <ln n="22">Our wedding can wait</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="23"><char ref="#Aladdin">Aladdin</char> I love you</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="24"><char ref="#Jasmine">Jasmine</char> I think it's worth this small
+                delay</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="25"><char ref="#Aladdin">Aladdin</char> Maybe you're right</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="26"><char ref="#Jasmine">Jasmine</char> And won't it be great</ln>
+            <ln n="27">To have your father see our wedding day?</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="28"><char ref="#Aladdin">Aladdin</char> I've waited so long</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="29"><char ref="#Jasmine">Jasmine</char> It isn't too late</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="30"><char ref="#Aladdin">Aladdin</char> To learn the truth</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="31"><char ref="#Both">Both</char> And now at last, we can finally say</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="32"><char ref="#Jasmine">Jasmine</char> Your father is really there</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="33"><char ref="#Aladdin">Aladdin</char> There's so much that we might
+                share</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="34"><char ref="#Jasmine">Jasmine</char> And you'll finally learn</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="35"><char ref="#Both">Both</char> You don't come out of thin air</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>Prince Ali (Reprise)</title>
+        <origin>Lyrics from <movie>Aladdin</movie></origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <composer ref="#Rice">Tim Rice</composer></author>
+        <perform> Performed by <voiceActor ref="#Freeman" role="#Jafar">Jonathan Freeman</voiceActor>
+            as Jafar</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1"> Jafar, Jasmine </ln>
+            <ln n="2"> Prince Ali, yes it is he, but not as you know him </ln>
+            <ln n="3"> Read my lips and come to grips with reality </ln>
+            <ln n="4"> Yes, meet a blast from your past </ln>
+            <ln n="5"> Whose lies were too good to last </ln>
+            <ln n="6"> Say hello to your precious Prince Ali! </ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="7"> So Ali turns out to be merely Aladdin </ln>
+            <ln n="8"> Just a con, need I go on, take it from me </ln>
+            <ln n="9"> His personality flaws give me adequate cause </ln>
+            <ln n="10"> To send him packing on a one-way trip so his prospects take a terminal dip </ln>
+            <ln n="11"> His assets frozen, the venue chosen is in the ends of the Earth </ln>
+            <ln n="12"> Salaam, ex-prince Ali! </ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>Prince Ali</title>
+        <origin>Lyrics from <movie>Aladdin</movie></origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <composer ref="#Ashman">Howard Ashman</composer></author>
+        <perform>Performed by <voiceActor ref="#Williams" role="#Genie">Robin Williams</voiceActor> as
+            Genie</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1">Make way for Prince Ali</ln>
+            <ln n="2">Say hey, it's Prince Ali</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="3">Hey, clear the way in the old Bazaar</ln>
+            <ln n="4">Hey you, let us through</ln>
+            <ln n="5">It's a bright new star</ln>
+            <ln n="6">Oh, come!</ln>
+            <ln n="7">Be the first on your block to meet his eye!</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="8">Make way, here he comes</ln>
+            <ln n="9">Ring bells! Bang the drums!</ln>
+            <ln n="10">You're gonna love this guy</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="11">Prince Ali! Fabulous he, Ali Ababwa</ln>
+            <ln n="12">Genuflect, show some respect</ln>
+            <ln n="13">Down on one knee</ln>
+            <ln n="14">Now, try your best to stay calm</ln>
+            <ln n="15">Brush up your Sunday salaam</ln>
+            <ln n="16">Then come and meet his spectacular coterie</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="17">Prince Ali! Mighty is he, Ali Ababwa</ln>
+            <ln n="18">Strong as ten regular men, definitely</ln>
+            <ln n="19">He faced the galloping hordes</ln>
+            <ln n="20">A hundred bad guys with swords</ln>
+            <ln n="21">Who sent those goons to their lords?</ln>
+            <ln n="22">Why, Prince Ali</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="23">He's got seventy-five golden camels</ln>
+            <ln n="24">Purple peacocks, he's got fifty-three</ln>
+            <ln n="25">When it comes to exotic-type mammals</ln>
+            <ln n="26">Has he got a zoo?</ln>
+            <ln n="27">I'm telling you, it's a world-class menagerie</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="28">Prince Ali! Handsome is he, Ali Ababwa</ln>
+            <ln n="29">That physique! How can I speak</ln>
+            <ln n="30">Weak at the knee</ln>
+            <ln n="31">Well, get on out in that square</ln>
+            <ln n="32">Adjust your veil and prepare</ln>
+            <ln n="33">To gawk and grovel and stare at Prince Ali</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="34">He's got ninety-five white Persian monkeys</ln>
+            <ln n="35">(He's got the monkeys, let's see the monkeys)</ln>
+            <ln n="36">And to view them he charges no fee</ln>
+            <ln n="37">(He's generous, so generous)</ln>
+            <ln n="38">He's got slaves, he's got servants and flunkies</ln>
+            <ln n="39">(Proud to work for him)</ln>
+            <ln n="40">They bow to his whim, love serving him</ln>
+            <ln n="41">They're just lousy with loyalty to Ali!</ln>
+            <ln n="42">Prince Ali!</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="43">Prince Ali! Amorous he, Ali Ababwa</ln>
+            <ln n="44">Heard your princess was a sight lovely to see</ln>
+            <ln n="45">And that, good people, is why</ln>
+            <ln n="46">He got dolled up and dropped by</ln>
+            <ln n="47">With sixty elephants, llamas galore</ln>
+            <ln n="48">With his bears and lions</ln>
+            <ln n="49">A brass band and more</ln>
+            <ln n="50">With his forty fakirs, his cooks, his bakers</ln>
+            <ln n="51">His birds that warble on key</ln>
+            <ln n="52">Make way</ln>
+            <ln n="53">For Prince Ali!</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>There's a Party Here in Agrabah</title>
+        <origin>Lyrics from <movie>Aladdin and the King of Thieves</movie></origin>
+        <author>Composed by <composer ref="#Friedman">David Friedman</composer></author>
+        <perform><voiceActor ref="#null" role="#null">null</voiceActor></perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1"><char ref="#Genie">Genie</char> There's a party here in Agrabah</ln>
+            <ln n="2">There's excitement in the air</ln>
+            <ln n="3">People pouring in from near and far</ln>
+            <ln n="4">'Cause Jasmine and Aladdin are gonna have a weddin'</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5">There's a party here in Agrabah</ln>
+            <ln n="6">Everybody will be there</ln>
+            <ln n="7">So if you're a pauper or a shah</ln>
+            <ln n="8">Do somethin' with your hair</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="9">You mustn't wear an outfit that's naughty</ln>
+            <ln n="10">A turban that's unraveling just won't do</ln>
+            <ln n="11">No earrings that are tasteless or gaudy</ln>
+            <ln n="12">You're gonna look gorgeous when I get through</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="13">There's a party here in Agrabah</ln>
+            <ln n="14">So I'm going to paint the town</ln>
+            <ln n="15">If you want to see what colors are</ln>
+            <ln n="16">Follow me around</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="17">Aladdin's gettin' married, and it's gonna be</ln>
+            <ln n="18">The wedding of the century</ln>
+            <ln n="19">My buddy's gettin' married, and you're gonna see</ln>
+            <ln n="20">Just how much I can do</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="21">You've heard of your safari bar mitzvahs</ln>
+            <ln n="22">You've all been to a luau, a sweet sixteen</ln>
+            <ln n="23">Well, none of them compare to what this is</ln>
+            <ln n="24">The food'll be disgusting, by evening you'll be busting</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="25">There's a party here in Agrabah</ln>
+            <ln n="26">And it's got us all aglow</ln>
+            <ln n="27">If a street rat could've come so far</ln>
+            <ln n="28">Maybe I could do it</ln>
+            <ln n="29">Sure, there's nothin' to it!</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="30">There's a party here in Agrabah</ln>
+            <ln n="31">But we're not sure that we'll go</ln>
+            <ln n="32">For although the bride is lah-dee-dah</ln>
+            <ln n="33">The groom is awfully low</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="34">And now we take you down to the palace</ln>
+            <ln n="35">Where everyone has celebrated all night long</ln>
+            <ln n="36">Without Jafar and all of his malice</ln>
+            <ln n="37">Everybody's happy</ln>
+            <ln n="38">What could possibly go wrong?</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="39"><char ref="#Thieves">Thieves</char> There's a party here in Agrabah</ln>
+            <ln n="40">And we're gonna rob 'em blind</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="41"><char ref="#Cassim">Cassim</char> While they're all munching caviar</ln>
+            <ln n="42">Create a small disturbance, I'll sneak up from behind</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="43"><char ref="#Iago">Iago</char> There's a party here in Agrabah</ln>
+            <ln n="44">And the loot is pourin' in</ln>
+            <ln n="45">I like this wedding stuff so far</ln>
+            <ln n="46">Maybe if I'm pleasant, I'll get to keep a present</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="47"><char ref="#Genie">Genie</char> We've ordered just a few tasteful flowers</ln>
+            <ln n="48">The valets will carefully park for you</ln>
+            <ln n="49">The bridesmaids have been dressing for hours!</ln>
+            <ln n="50">Girls, you look just lovely and so grown-up, too</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="51">There's a party here in Agrabah</ln>
+            <ln n="52">Guests are filling up the room</ln>
+            <ln n="53">But there's something missing...yes, ah ha!</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="54"><char ref="#Sultan">Sultan</char> Where is the groom?</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>Welcome to the Forty Thieves</title>
+        <origin>Lyrics from <movie>Aladdin and the King of Thieves</movie></origin>
+        <author>Composed by <composer ref="#Petersen">Randy Petersen</composer> and <composer ref="#Quinn">Kevin Quinn</composer></author>
+        <perform>
+            <voiceActor ref="#null" role="#null"> null</voiceActor>
+        </perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1">Cassim, Aladdin</ln>
+            <ln n="2"><char ref="#Thieves">Thieves</char> Congratulations, bub, you've joined the
+                club</ln>
+            <ln n="3">And everybody here agrees</ln>
+            <ln n="4">We got the finest blend of nearly-honest men</ln>
+            <ln n="5">Welcome to the forty thieves!</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="6">A fraternity of thugs that you can trust</ln>
+            <ln n="7">There's nothing up our eighty sleeves</ln>
+            <ln n="8">Got lotsa grub to share</ln>
+            <ln n="9">Pull up an easy chair</ln>
+            <ln n="10">Welcome to the forty thieves!</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="11">Now you get to lie and cheat</ln>
+            <ln n="12">Never have to brush your teeth</ln>
+            <ln n="13">But we always aim to please</ln>
+            <ln n="14">Care for one another</ln>
+            <ln n="15">You'll never miss your mother</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="16"><char ref="#Iago">Iago</char> Oh, I love you guys</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="17"><char ref="#Thieves">Thieves</char> Schemin' up a scam</ln>
+            <ln n="18">Out on the lam</ln>
+            <ln n="19">Takin' whatever we please</ln>
+            <ln n="20">And if you like to lurk</ln>
+            <ln n="21">You're gonna love this work</ln>
+            <ln n="22">Welcome to the forty thieves!</ln>
+            <ln n="23">Welcome to the forty thieves!</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="25"><char ref="#Cassim">Cassim</char> Together we're the perfect team</ln>
+            <ln n="26">Larceny is in the genes</ln>
+            <ln n="27">Dare to share the family dream</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="28"><char ref="#Iago">Iago</char> Live a life of leisure</ln>
+            <ln n="29">Countin' all your treasure</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="30"><char ref="#Thieves">Thieves</char> As an honorary member of the gang</ln>
+            <ln n="31">That no one alive ever leaves</ln>
+            <ln n="32">Ya gotta snatch and sneak</ln>
+            <ln n="33">Or else your future's bleak</ln>
+            <ln n="34">We got a lifetime contract that you're bound to keep</ln>
+            <ln n="35">You wanna save your skin</ln>
+            <ln n="36">You better fit right in</ln>
+            <ln n="37">Wel-wel-welcome to the</ln>
+            <ln n="38">Wel-wel-welcome to the</ln>
+            <ln n="39">Forty thieves!</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>Arabian Nights</title>
+        <origin>Lyrics from <movie>Aladdin: The Return of Jafar</movie></origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <composer ref="#Ashman">Howard Ashman</composer></author>
+        <perform>Performed by <voiceActor ref="#Hannan" role="#Peddler">Brian
+            Hannan</voiceActor></perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1">Arabian nights</ln>
+            <ln n="2">Follow me to a place where incredible feats</ln>
+            <ln n="3">Are routine every hour or so</ln>
+            <ln n="4">Where enchantment runs rampant</ln>
+            <ln n="5">Yes, wild in the streets</ln>
+            <ln n="6">Open sesame, here we go</ln>
+        </lg>
+        <lg n="2">
+            <ln n="7">Arabian nights</ln>
+            <ln n="8">Like Arabian days</ln>
+            <ln n="9">They tease and excite</ln>
+            <ln n="10">Take off and take flight</ln>
+            <ln n="11">They shock and amaze</ln>
+        </lg>
+        <lg n="3">
+            <ln n="12">Arabian nights</ln>
+            <ln n="13">Like Arabian days</ln>
+            <ln n="14">More often than not</ln>
+            <ln n="15">Are hotter than hot</ln>
+            <ln n="16">In a lot of good ways</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="17">Pack your shield, pack your sword</ln>
+            <ln n="18">You won't ever get bored</ln>
+            <ln n="19">Though get beaten or gored you might</ln>
+            <ln n="20">Come on down, stop on by</ln>
+            <ln n="21">Hop a carpet and fly</ln>
+            <ln n="22">To another Arabian night</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>Arabian Nights (2019)</title>
+        <origin>Lyrics from <movie>Aladdin (Live-Action)</movie> </origin>
+        <author>Music by <composer ref="#Menken">Alan Menken</composer>Lyrics by <lyricist ref="#Ashman">Howard Ashman</lyricist>, with new lyrics by <lyricist ref="#Pasek">Benj Pasek</lyricist> and
+            <lyricist ref="#Paul">Justin Paul</lyricist></author>
+        <perform>&gt;Performed by <voiceActor ref="#Smith" role="#Genie">Will Smith</voiceActor></perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1">Oh, imagine a land, it's a faraway place</ln>
+            <ln n="2">Where the caravan camels roam</ln>
+            <ln n="3">Where you wander among every culture and tongue</ln>
+            <ln n="4">It's chaotic, but, hey, it's home</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5">When the wind's from the East, and the sun's from the West</ln>
+            <ln n="6">And the sand in the glass is right</ln>
+            <ln n="7">Come on down, stop on by</ln>
+            <ln n="8">Hop a carpet and fly</ln>
+            <ln n="9">To another Arabian night</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="10">As you wind through the streets at the fabled bazaars</ln>
+            <ln n="11">With the cardamom-cluttered stalls</ln>
+            <ln n="12">You can smell every spice</ln>
+            <ln n="13">While you haggle the price</ln>
+            <ln n="14">Of the silks and the satin shawls</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="15">Oh, the music that plays as you move through a maze</ln>
+            <ln n="16">In the haze of your pure delight</ln>
+            <ln n="17">You are caught in a dance</ln>
+            <ln n="18">You are lost in the trance</ln>
+            <ln n="19">Of another Arabian night</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="20">Arabian nights</ln>
+            <ln n="21">Like Arabian days</ln>
+            <ln n="22">More often than not are hotter than hot</ln>
+            <ln n="23">In a lot of good ways</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="24">Arabian nights</ln>
+            <ln n="25">Like Arabian dreams</ln>
+            <ln n="26">This mystical land of magic and sand</ln>
+            <ln n="27">Is more than it seems</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="28">There's a road that may lead you</ln>
+            <ln n="29">To good or to greed through</ln>
+            <ln n="30">The power your wishing commands</ln>
+            <ln n="31">Let the darkness unfold or find fortunes untold</ln>
+            <ln n="32">Well, your destiny lies in your hands</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="33">Arabian nights</ln>
+            <ln n="34">Like Arabian days</ln>
+            <ln n="35">They seem to excite, take off and take flight</ln>
+            <ln n="36">To shock and amaze</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="37">Arabian nights</ln>
+            <ln n="38">'Neath Arabian moons</ln>
+            <ln n="39">A fool off his guard could fall and fall hard</ln>
+            <ln n="40">Out there on the dunes</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>Arabian Nights</title>
+        <origin>Lyrics from <movie>Aladdin</movie></origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer>
+            and <composer ref="#Ashman">Howard Ashman</composer></author>
+        <perform>Performed by <voiceActor ref="#Adler" role="#Peddler">Bruce Adler</voiceActor> as the Peddler</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1">Oh, I come from a land, from a faraway place</ln>
+            <ln n="2">Where the caravan camels roam</ln>
+            <ln n="3">Where it's flat and immense</ln>
+            <ln n="4">And the heat is intense</ln>
+            <ln n="5">It's barbaric, but, hey, it's home</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="6">When the wind's from the East</ln>
+            <ln n="7">And the sun's from the West</ln>
+            <ln n="8">And the sand in the glass is right</ln>
+            <ln n="9">Come on down</ln>
+            <ln n="10">Stop on by</ln>
+            <ln n="11">Hop a carpet and fly</ln>
+            <ln n="12">To another Arabian night</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="13">Arabian nights</ln>
+            <ln n="14">Like Arabian days</ln>
+            <ln n="15">More often than not</ln>
+            <ln n="16">Are hotter than hot</ln>
+            <ln n="17">In a lot of good ways</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="18">Arabian nights</ln>
+            <ln n="19">'Neath Arabian moons</ln>
+            <ln n="20">A fool off his guard</ln>
+            <ln n="21">Could fall and fall hard</ln>
+            <ln n="22">Out there on the dunes</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>Friend Like Me(Animated)</title>
+        <origin>Lyrics from <movie>Aladdin</movie></origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <composer ref="#Ashman">Howard Ashman</composer></author>
+        <perform>Performed by <voiceActor ref="#Williams" role="#Genie">Robin Williams</voiceActor>
+            as Genie</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1">Well, Ali Baba had them forty thieves</ln>
+            <ln n="2">Scheherazade had a thousand tales</ln>
+            <ln n="3">But, master, you're in luck 'cause up your sleeves</ln>
+            <ln n="4">You got a brand of magic never fails</ln>
+            <ln n="5">You got some power in your corner now</ln>
+            <ln n="6">Some heavy ammunition in your camp</ln>
+            <ln n="7">You got some punch, pizazz, yahoo and how</ln>
+            <ln n="8">See all you gotta do is rub that lamp</ln>
+            <ln n="9">And I'll say</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="10">Mr. <char ref="#Aladdin">Aladdin</char>, sir</ln>
+            <ln n="11">What will your pleasure be?</ln>
+            <ln n="12">Let me take your order</ln>
+            <ln n="13">Jot it down</ln>
+            <ln n="14">You ain't never had a friend like me</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="15">Life is your restaurant</ln>
+            <ln n="16">And I'm your maitre d'</ln>
+            <ln n="17">Come on whisper what it is you want</ln>
+            <ln n="18">You ain't never had a friend like me </ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="18">Yes sir, we pride ourselves on service</ln>
+            <ln n="19">You're the boss</ln>
+            <ln n="20">The king, the shah</ln>
+            <ln n="21">Say what you wish</ln>
+            <ln n="22">It's yours! True dish</ln>
+            <ln n="23">How about a little more baklava?</ln>
+            <ln n="24">Have some of column "A"</ln>
+            <ln n="25">Try all of column "B"</ln>
+            <ln n="26">I'm in the mood to help you, dude</ln>
+            <ln n="27">You ain't never had a friend like me</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="28">Can your friends do this</ln>
+            <ln n="29">Can your friends do that</ln>
+            <ln n="30">Can your friends pull this out their little hat</ln>
+            <ln n="31">Can your friends go, poof</ln>
+            <ln n="32">Hey, looky here</ln>
+            <ln n="33">Can your friends go, Abracadabra, let her rip</ln>
+            <ln n="34">And then make the sucker disappear</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="35">So don't you sit there slack-jawed, buggy-eyed</ln>
+            <ln n="36">I'm here to answer all your midnight prayers</ln>
+            <ln n="37">You got me bona fide certified</ln>
+            <ln n="38">You got a genie for your charge d'affaires</ln>
+            <ln n="39">I got a powerful urge to help you out</ln>
+            <ln n="40">So what's your wish? I really wanna know</ln>
+            <ln n="41">You got a list that's three miles long, no doubt</ln>
+            <ln n="42">Well, all you gotta do is rub like so</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="43">Mr. <char ref="#Aladdin">Aladdin</char>, sir, have a wish or two or three</ln>
+            <ln n="44">I'm on the job, you big nabob</ln>
+            <ln n="45">You ain't never had a friend, never had a friend</ln>
+            <ln n="46">You ain't never had a friend, never had a friend</ln>
+            <ln n="47">You ain't never had a friend like me</ln>
+            <ln n="48">You ain't never had a friend like me!</ln>
+        </lg>
+    </song></text></song><song><meta><metadata><title>Friend Like Me(Live Action)</title>
+<origin>Lyrics from <movie>Aladdin (Live-Action)</movie></origin>
+<author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <composer ref="#Ashman">Howard Ashman</composer></author>
+<perform>Performed by <voiceActor ref="#Smith" role="#Genie">Will Smith</voiceActor> as Genie</perform></metadata></meta><text><song><lg n="1"><ln n="1">Here I go, woo!</ln>
+<ln n="2">Back up!</ln>
+<ln n="3">Watch out!</ln>
+<ln n="4">You done wound me up</ln>
+<ln n="5">'Bout to show you what I'm working with</ln></lg>
+
+<lg n="2"><ln n="6">Well, Ali Baba, he had them forty thieves</ln>
+<ln n="7">Scheherazade had a thousand tales</ln>
+<ln n="8">But, master, you're in luck because up your sleeves</ln>
+<ln n="9">You got a brand of magic never fails</ln>
+<ln n="10">You got some power in your corner now</ln>
+<ln n="11">Heavy ammunition in your camp</ln>
+<ln n="12">You got some punch, pizazz, yahoo and how</ln>
+<ln n="13">All you gotta do is rub that lamp</ln>
+<ln n="14">And then I'll say</ln></lg>
+
+<lg n="3"><ln n="15">Mr. - (man, what's your name)</ln>
+<ln n="16">Whatever, what will your pleasure be</ln>
+<ln n="17">Let me take your order</ln>
+<ln n="18">I'll jot it down</ln>
+<ln n="19">You ain't never had a friend like me</ln></lg>
+
+<lg n="4"><ln n="20">Life is your restaurant</ln>
+<ln n="21">And I'm your maitre d'</ln>
+<ln n="22">Come whisper to me whatever it is you want</ln>
+<ln n="23">You ain't never had a friend like me</ln></lg>
+
+<lg n="5"><ln n="24">We pride ourselves on service</ln>
+<ln n="25">You the boss</ln>
+<ln n="26">The king, the shah</ln>
+<ln n="27">Say what you wish</ln>
+<ln n="28">It's yours! True dish</ln>
+<ln n="29">How about a little more baklava?</ln>
+<ln n="30">Have some of column "A"</ln>
+<ln n="31">Try all of column "B"</ln>
+<ln n="32">I'm in the mood to help you, dude</ln>
+<ln n="33">You ain't never had a friend like me</ln></lg>
+
+<lg n="6"><ln n="34">Oh, it's the big part</ln>
+<ln n="35">Watch out, it's the big part, oh</ln></lg>
+
+<lg n="7"><ln n="36">Can your friends do this?</ln>
+<ln n="37">Can your friends do that?</ln>
+<ln n="38">Can your friends pull this outta of their little hat?</ln>
+<ln n="39">Can your friends go -</ln></lg>
+
+<lg n="8"><ln n="40">I'm the genie of the lamp</ln>
+<ln n="41">I can sing, rap, dance if you give me a chance, oh</ln></lg>
+
+<lg n="9"><ln n="42">Don't sit there buggy-eyed</ln>
+<ln n="43">I'm here to answer all your midday prayers</ln>
+<ln n="44">You got me bona fide certified</ln>
+<ln n="45">Got a genie for your charge d'affaires</ln>
+<ln n="46">I got a powerful urge to help you out</ln>
+<ln n="47">So what's your wish? I really wanna know</ln>
+<ln n="48">You got a list that's three miles long, no doubt</ln>
+<ln n="49">All you gotta do is rub like so</ln></lg>
+
+<lg n="10"><ln n="50">Mr. <char ref="#Aladdin">(Aladdin)</char>, yes, one wish or two or three</ln>
+<ln n="51">Well, I'm on the job, you big nabob</ln>
+<ln n="52">You ain't never had a friend, never had a friend</ln>
+<ln n="53">You ain't never had a friend, never had a friend</ln>
+<ln n="54">You ain't never (ever)</ln>
+<ln n="55">Had a (had a)</ln>
+<ln n="56">Friend (friend)</ln>
+<ln n="57">Like (like) me</ln></lg>
+
+<lg n="11"><ln n="58">You ain't never had a friend like me</ln></lg></song></text></song><song><meta><metadata><title>I'm Looking Out For Me(1994)</title>
+<origin>Lyrics from <movie>Aladdin: The Return of Jafar</movie></origin>
+<author>Lyrics and music by <composer ref="#Petersen">Randy Petersen</composer> and <composer ref="#Quinn">Kevin Quinn</composer></author>
+<perform>Performed by <voiceActor ref="#Gottfried" role="#Iago">Gilbert Gottfried</voiceActor> as Iago</perform></metadata></meta><text><song><lg n="1"><ln n="1">That's it!</ln>
+<ln n="2">I've had it! </ln>
+<ln n="3">I hate to be dramatic</ln>
+<ln n="4">But it's time for me to fly the coop</ln>
+<ln n="5">Terrific!</ln>
+<ln n="6">Fine!</ln>
+<ln n="7">I'm drawin' the line</ln>
+<ln n="8">Before I wind up in a parrot soup!</ln></lg>
+
+<lg n="2"><ln n="9">I was a fool to let you run the show</ln> 
+<ln n="10">I'm cuttin' ya loose, pal!</ln>
+<ln n="11">Look out below!</ln>
+<ln n="12">Arrividerci!</ln>
+<ln n="13">C'est la vie!</ln>
+<ln n="14">Hope all goes well!</ln>
+<ln n="15">I'm lookin' out for me!</ln></lg>
+
+<lg n="3"><ln n="16">Okay! I'm little</ln>
+<ln n="17">Been playin' second fiddle</ln>
+<ln n="18">And I don't get no respect</ln>
+<ln n="19">I turn the other cheek</ln>
+<ln n="20">But this busted beak</ln>
+<ln n="21">Is the only thanks that I get!</ln></lg>
+
+<lg n="4"><ln n="22">I never found a friend that I can trust</ln>
+<ln n="23">They promise caviar</ln>
+<ln n="24">And leave me eatin' dust!</ln>
+<ln n="25">That's some reward for loyalty</ln>
+<ln n="26">From here on in</ln>
+<ln n="27">I'm lookin' out for me!</ln></lg>
+
+<lg n="5"><ln n="28">Oh, I don't need nobody else</ln>
+<ln n="29">I'll never fail</ln>
+<ln n="30">I'll cover my own tail</ln>
+<ln n="31">I can take care of myself!</ln></lg>
+
+<lg n="6"><ln n="32">You know, it just don't pay</ln>
+<ln n="33">To give a hoot</ln>
+<ln n="34">I'm givin' all my heart</ln>
+<ln n="35">What do I get?</ln>
+<ln n="36">The boot!</ln>
+<ln n="37">I'm through wit' dat</ln>
+<ln n="38">I'm flappin' free</ln>
+<ln n="39">From here on in</ln>
+<ln n="40">I'm lookin' out for me!</ln></lg></song></text></song><song><meta><metadata>
+        <title>Nothing In The World (Quite Like A Friend)(1994)</title>
+        <origin> Lyrics from <movie>Aladdin: The Return of Jafar</movie></origin>
+        <author>Lyrics and music by <composer ref="#Gonyea">Dale Gonyea</composer> and <composer ref="#MSilversher">Michael Silversher</composer></author>
+        <perform>Performed by <voiceActor ref="#Callaway" role="#Jasmine">Liz Callaway</voiceActor>,
+                <voiceActor ref="#Castellaneta" role="#Genie">Dan Castellaneta</voiceActor> and
+                <voiceActor ref="#Kane" role="#Aladdin">Brad Kane</voiceActor></perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1"><char ref="#Genie">Genie</char>I parachuted down into the Taj Mahal </ln>
+            <ln n="2">I rollerbladed all along the great Great Wall!</ln>
+            <ln n="3">I even made the famous Leaning Tower fall</ln>
+            <ln n="4">But who was with me through it all?</ln>
+            <ln n="5">Nobody!</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="6">The Moscow Circus hired me to fly trapeze</ln>
+            <ln n="7">On Mount Olympus won a race with Hercules</ln>
+            <ln n="8">It's easy when you're chased by killer bees</ln>
+            <ln n="9">Who said "gesundheit" when I sneezed</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="10">So now I'm home</ln>
+            <ln n="11">Home again with you</ln>
+            <ln n="12">You chase the clouds away</ln>
+            <ln n="13">Whenever I am blue</ln>
+            <ln n="14">(You're always blue)</ln>
+            <ln n="15">And the pyramids I highly recommend</ln>
+            <ln n="16">There is nothing in the world quite like a friend</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="17">Slept like a babe in Bombay on a bed of nails</ln>
+            <ln n="18">Moroccans loved my daring dance of seven veils</ln>
+            <ln n="19">I single-handedly I even saved the whales</ln>
+            <ln n="20">No one was there to hear my tales!</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="21">In Acapulco joined a Mariachi band</ln>
+            <ln n="22">I rode the ragin' rapids down the Rio Grande</ln>
+            <ln n="23">Flew in an air balloon, but when I tried to land</ln>
+            <ln n="24">Nobody laughed, or lent a hand</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="25">Without you, the Amazon is just a trickle</ln>
+            <ln n="26">Without you, the Sahara's not so hot</ln>
+            <ln n="27">Without you, Niagara Falls is just a leaky faucet</ln>
+            <ln n="28">And the QEII is just some yacht</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="29">Now that I'm home</ln>
+            <ln n="30">Home again it's clear</ln>
+            <ln n="31">All I ever wanted </ln>
+            <ln n="32">Seems to be right here </ln>
+            <ln n="33">I've traveled east and west</ln>
+            <ln n="34">And now I'm back again</ln>
+            <ln n="35">And there's nothing in the world quite like a friend </ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="36"><char ref="#Aladdin">Aladdin</char>There's nothing in the world</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="37"><char ref="#Jasmine">Jasmine</char>Nothing in the whole wide world</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="38"><char ref="#All">All</char>There is nothing in the world quite like a
+                friend</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="39"><char ref="#Genie">Genie</char>Nothin' in the whole wide world!</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>One Jump Ahead (animated)</title>
+        <origin>Lyrics from <movie>Aladdin</movie></origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <composer ref="#Rice">Tim Rice</composer></author>
+        <perform>Performed by <voiceActor ref="#Kane" role="#Aladdin">Brad Kane</voiceActor> as
+            Aladdin</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1">[<char ref="#Aladdin">Aladdin</char>:] Gotta keep one jump ahead of the
+                breadline</ln>
+            <ln n="2">One swing ahead of the sword</ln>
+            <ln n="3">I steal only what I can't afford (That's everything!)</ln>
+            <ln n="4">One jump ahead of the lawmen</ln>
+            <ln n="5">That's all, and that's no joke</ln>
+            <ln n="6">These guys don't appreciate I'm broke</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="7">[Crowd:] Riffraff! Street rat! Scoundrel! Take that!</ln>
+            <ln n="8">[<char ref="#Aladdin">Aladdin</char>:] Just a little snack, guys</ln>
+            <ln n="9">[Crowd:] Rip him open, take it back, guys</ln>
+            <ln n="10">[<char ref="#Aladdin">Aladdin</char>:] I can take a hint, gotta face the
+                facts</ln>
+            <ln n="11">You're my only friend, Abu!</ln>
+            <ln n="12">[Crowd:] Who?</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="13">[Ladies:] Oh, it's sad <char ref="#Aladdin">Aladdin's</char> hit the
+                bottom</ln>
+            <ln n="14">He's become a one-man rise in crime</ln>
+            <ln n="15">I'd blame parents except he hasn't got 'em</ln>
+            <ln n="16">[<char ref="#Aladdin">Aladdin</char>:] Gotta eat to live, gotta steal to
+                eat</ln>
+            <ln n="17">Tell you all about it when I got the time!</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="18">One jump ahead of the slowpokes</ln>
+            <ln n="19">One skip ahead of my doom</ln>
+            <ln n="20">Next time gonna use a nom de plume</ln>
+            <ln n="21">One jump ahead of the hitmen</ln>
+            <ln n="22">One hit ahead of the flock</ln>
+            <ln n="23">I think I'll take a stroll around the block</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="24">[Crowd:] Stop, thief! Vandal! Outrage! Scandal!</ln>
+            <ln n="25">[<char ref="#Aladdin">Aladdin</char>:] Let's not be too hasty</ln>
+            <ln n="26">[Lady:] Still I think he's rather tasty</ln>
+            <ln n="27">[Aladdin:] Gotta eat to live, gotta steal to eat</ln>
+            <ln n="28">Otherwise we'd get along</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="29">[<char ref="#Aladdin">Aladdin</char>:] One jump ahead of the hoofbeats
+                (Vandal!)</ln>
+            <ln n="30">One hop ahead of the hump (Streetrat!)</ln>
+            <ln n="31">One trick ahead of disaster (Scandal!)</ln>
+            <ln n="32">They're quick, but I'm much faster (Take that!)</ln>
+            <ln n="33">Here goes, better throw my hand in</ln>
+            <ln n="34">Wish me happy landin'</ln>
+            <ln n="35">All I gotta do is jump</ln>
+        </lg>
+    </song></text></song><song><meta><metadata>
+        <title>One Jump Ahead Reprise-animated</title>
+        <origin>Lyrics from <movie>Aladdin</movie></origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <composer ref="#Rice">Tim Rice</composer></author>
+        <perform>Performed by <voiceActor ref="#Kane" role="#Aladdin">Brad Kane</voiceActor> as
+            Aladdin</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1">Riffraff! Street rat! I don't buy that!</ln>
+            <ln n="2">If only they'd look closer</ln>
+            <ln n="3">Would they see a poor boy?</ln>
+            <ln n="4">No, siree</ln>
+            <ln n="5">They'd find out there's so much more to me</ln>
+        </lg>
+    </song></text></song><song><meta><metadata><title>Speechless (Full-live)</title>
+<origin>Lyrics from <movie>Aladdin (Live-Action)</movie></origin>
+<author>Music by <composer ref="#Menken">Alan Menken</composer>; lyrics by <composer ref="#Pasek">Benj Pasek</composer> and <composer ref="#Paul">Justin Paul</composer></author>
+<perform>Performed by <voiceActor ref="#Scott" role="#Jasmine">Naomi Scott</voiceActor> as Jasmine</perform></metadata></meta><text><song><lg n="1"><ln n="1">Here comes a wave meant to wash me away</ln>
+<ln n="2">A tide that is taking me under</ln>
+<ln n="3">Swallowing sand, left with nothing to say</ln>
+<ln n="4">My voice drowned out in the thunder</ln></lg>
+
+<lg n="2"><ln n="5">But I won't cry</ln>
+<ln n="6">And I won't start to crumble</ln>
+<ln n="7">Whenever they try to shut me or cut me down</ln></lg>
+
+<lg n="3"><ln n="8">I won't be silenced</ln>
+<ln n="9">You can't keep me quiet</ln>
+<ln n="10">Won't tremble when you try it</ln>
+<ln n="11">All I know is I won't go speechless</ln>
+<ln n="12">'Cause I'll breathe when they try to suffocate me</ln>
+<ln n="13">Don't you underestimate me</ln>
+<ln n="14">'Cause I know that I won't go speechless</ln></lg>
+
+<lg n="4"><ln n="15">Written in stone, every rule, every word</ln>
+<ln n="16">Centuries old and unbending</ln>
+<ln n="17">Stay in your place, better seen and not heard</ln>
+<ln n="18">Well, now that story's ending</ln></lg>
+
+<lg n="5"><ln n="19">'Cause I, I cannot start to crumble</ln>
+<ln n="20">So come on and try</ln>
+<ln n="21">Try to shut me and cut me down</ln></lg>
+
+<lg n="6"><ln n="22">I won't be silenced</ln>
+<ln n="23">You can't keep me quiet</ln>
+<ln n="24">Won't tremble when you try it</ln>
+<ln n="25">All I know is I won't go speechless</ln>
+<ln n="26">Speechless!</ln></lg>
+
+<lg n="7"><ln n="27">Let the storm in</ln>
+<ln n="28">I cannot be broken</ln>
+<ln n="29">No, I won't live unspoken</ln>
+<ln n="30">'Cause I know that I won't go speechless</ln></lg>
+
+<lg n="8"><ln n="31">Try to lock me in this cage</ln>
+<ln n="32">I won't just lay me down and die</ln>
+<ln n="33">I will take these broken wings</ln>
+<ln n="34">And watch me burn across the sky</ln>
+<ln n="35">Hear the echo saying</ln></lg>
+
+<lg n="9"><ln n="36">I won't be silenced</ln>
+<ln n="37">Though you wanna see me tremble when you try it</ln>
+<ln n="38">All I know is I won't go speechless</ln>
+<ln n="39">Speechless!</ln>
+<ln n="40">'Cause I'll breathe when they try to suffocate me</ln>
+<ln n="41">Don't you underestimate me</ln>
+<ln n="42">'Cause I know that I won't go speechless</ln>
+<ln n="43">All I know is I won't go speechless</ln>
+<ln n="44">Speechless!</ln></lg></song></text></song><song><meta><metadata>
+        <title>You're Only Second Rate(1994)</title>
+        <origin>Lyrics from <movie>Aladdin: The Return of Jafar</movie></origin>
+        <author>Lyrics and music by <composer ref="#Petersen">Randy Petersen</composer> and
+                <composer ref="#Quinn">Kevin Quinn</composer></author>
+        <perform>Performed by <voiceActor ref="#Freeman" role="#Jafar">Joanathan
+                Freeman</voiceActor> as Jafar</perform>
+    </metadata></meta><text><song>
+        <lg n="1">
+            <ln n="1">I must admit, your parlor tricks are amusing</ln>
+            <ln n="2">I bet you've got a bunny under your hat </ln>
+            <ln n="3">Now here's your chance to get the best of me</ln>
+            <ln n="4">Hope your hand is hot</ln>
+            <ln n="5">C'mon, clown, let's see what you've got</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="6">You try to slam me with your hardest stuff</ln>
+            <ln n="7">But your double whammy isn't up to snuff</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="8">I'll set the record straight</ln>
+            <ln n="9">You're simply out of date</ln>
+            <ln n="10">You're only second rate!</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="11">You think your cat's a meanie, but your tiger's tame</ln>
+            <ln n="12">You've got a lot to learn about the genie game</ln>
+            <ln n="13">So for your education I'll reiterate</ln>
+            <ln n="14">You're only second rate!</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="15">Men cower at the power in my pinky</ln>
+            <ln n="16">My thumb is number one on every list</ln>
+            <ln n="17">But if you're not convinced that I'm invincible</ln>
+            <ln n="18">Put me to the test</ln>
+            <ln n="19">I'd love to lay this rivalry to rest</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="20">Go ahead and zap me with the big surprise</ln>
+            <ln n="21">Snap me in a trap, cut me down to size</ln>
+            <ln n="22">I'll make a great escape</ln>
+            <ln n="23">It's just a piece of cake</ln>
+            <ln n="24">You're only second rate!</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="25">You know, your hocus-pocus isn't tough enough</ln>
+            <ln n="26">And your mumbo-jumbo doesn't measure up</ln>
+            <ln n="27">Let me pontificate upon your sorry state</ln>
+            <ln n="28">You're only second rate!</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="29">Zaba-caba-dabra!</ln>
+            <ln n="30">Granny's gonna grab ya!</ln>
+            <ln n="31">Alakazam-da-mus</ln>
+            <ln n="32">And this thing's bigger than the both of us</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="33">So spare me your tremendous scare</ln>
+            <ln n="34">You look horrendous in your underwear</ln>
+            <ln n="35">And I can hardly wait to discombobulate</ln>
+            <ln n="36">I'll send ya back and packing in a shipping crate</ln>
+            <ln n="37">You'd make a better living with a spinning plate</ln>
+            <ln n="38">You're only second rate!</ln>
+        </lg>
+    </song></text></song></xml>

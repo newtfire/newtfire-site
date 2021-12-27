@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/lam289" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:16:35.529Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="pokemon_mcneillxquery2.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35.992Z" modified="2020-08-07T21:16:35.992Z" filename="pokemon_mcneillxquery2.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mcneill_xquery2-03-01.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36.188Z" modified="2020-08-07T21:16:36.188Z" filename="mcneill_xquery2-03-01.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network1.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:36.277Z" modified="2020-08-07T21:16:36.277Z" filename="network1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_1.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35.531Z" modified="2020-08-07T21:16:35.531Z" filename="qgis_1.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocket-example.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35.59Z" modified="2020-08-07T21:16:35.59Z" filename="rocket-example.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teentitan.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35.663Z" modified="2020-08-07T21:16:35.663Z" filename="teentitan.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_1.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35.737Z" modified="2020-08-07T21:16:35.737Z" filename="qgis_1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemon_example.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:16:35.805Z" modified="2020-08-07T21:16:35.805Z" filename="pokemon_example.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

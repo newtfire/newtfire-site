@@ -1,0 +1,72 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ajnewton1" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:51.172Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="jstimeline.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51.173Z" modified="2020-08-07T21:20:51.173Z" filename="jstimeline.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Newton_XQueryEx4A.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51.595Z" modified="2020-08-07T21:20:51.595Z" filename="Newton_XQueryEx4A.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="newsAnalysis_BarGraph3.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51.795Z" modified="2020-08-07T21:20:51.795Z" filename="newsAnalysis_BarGraph3.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="newsAnalysis_BarGraph2.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51.984Z" modified="2020-08-07T21:20:51.984Z" filename="newsAnalysis_BarGraph2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Newton_XQueryEx2.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52.05Z" modified="2020-08-07T21:20:52.05Z" filename="Newton_XQueryEx2.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Newton_XQueryEx4.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52.113Z" modified="2020-08-07T21:20:52.113Z" filename="Newton_XQueryEx4.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jstimeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52.177Z" modified="2020-08-07T21:20:52.177Z" filename="jstimeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52.359Z" modified="2020-08-07T21:20:52.359Z" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="newsAnalysis_BarGraph.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52.622Z" modified="2020-08-07T21:20:52.622Z" filename="newsAnalysis_BarGraph.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MyNetworkData.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51.236Z" modified="2020-08-07T21:20:51.236Z" filename="MyNetworkData.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="newsAnalysis_BarGraph" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51.302Z" modified="2020-08-07T21:20:51.302Z" filename="newsAnalysis_BarGraph" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton-XQuery3-2" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51.377Z" modified="2020-08-07T21:20:51.377Z" filename="Newton-XQuery3-2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_SVG2Ex" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51.463Z" modified="2020-08-07T21:20:51.463Z" filename="Newton_SVG2Ex" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_XQueryEx1" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51.532Z" modified="2020-08-07T21:20:51.532Z" filename="Newton_XQueryEx1" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_XQueryEx3-2.txt" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51.663Z" modified="2020-08-07T21:20:51.663Z" filename="Newton_XQueryEx3-2.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_SVGEx3" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51.728Z" modified="2020-08-07T21:20:51.728Z" filename="Newton_SVGEx3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_NewtworkEx1" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:51.918Z" modified="2020-08-07T21:20:51.918Z" filename="Newton_NewtworkEx1" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_XQueryEx3.txt" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52.234Z" modified="2020-08-07T21:20:52.234Z" filename="Newton_XQueryEx3.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="newsAnalysis_BarGraph3" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52.297Z" modified="2020-08-07T21:20:52.297Z" filename="newsAnalysis_BarGraph3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Placeography.kml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52.424Z" modified="2020-08-07T21:20:52.424Z" filename="Placeography.kml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="JS3" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52.488Z" modified="2020-08-07T21:20:52.488Z" filename="JS3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_XQueryEx4" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52.556Z" modified="2020-08-07T21:20:52.556Z" filename="Newton_XQueryEx4" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Newton_XQueryEx3" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:52.677Z" modified="2020-08-07T21:20:52.677Z" filename="Newton_XQueryEx3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

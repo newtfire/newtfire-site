@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sitesIndex_schema.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <head>
+        <editor>Brett Meyer</editor>
+        <editor>Mia Borgia</editor>
+        <editor>Sam Andrews</editor>
+        <editor>Anthony Wlodarczyk</editor>
+        <source href="https://thebuildingtrail.com/map-of-maya-sites/"/>
+        <source href="http://www.latinamericanstudies.org/maya-sites.htm"/>
+        <source href="https://www.worldhistory.org/Yaxchilan/"/>
+        <source href="https://www.thoughtco.com/pyramid-of-the-magician-mexico-169623"/>
+        <source href="https://mayanpeninsula.com/ball-court-in-uxmal/"/>
+    </head>
+    <mayanSites>
+        <site id="#SanBart">
+            <Nname>San Bartolo</Nname>
+            <dateActive yearStart="-100" yearEnd="200"/>
+            <location lat="15.0844400" long="-91.4558300"/>
+            <artifacts>
+                <relic type="mural">
+                    <nameD>San Bartolo Mural</nameD>
+                    <img src="https://tang.skidmore.edu/exhibitions/248-7000-fragments-maya-murals-from-san-bartolo-guatemala"/>
+                    <img src="https://tang.skidmore.edu/exhibitions/248-7000-fragments-maya-murals-from-san-bartolo-guatemala"/>
+                    <desc descSource="https://alchetron.com/San-Bartolo-(Maya-site)">
+                        <p>The north wall mural consists of two scenes. One scene is situated in front of a mountain cave (belonging to the Flower Mountain); several persons are walking and kneeling on a large serpent. The Maya maize god is shown in the midst of a group of men and women, while receiving (or perhaps bequeathing) a vine calabash. The other scene shows four babies, with their umbilical cords still attached, surrounding a calabash, which has now split up and from which a fifth, and fully clothed male emerges. A large deity figure watches the scene.</p>
+                        
+                       <p> The west wall mural has a far greater number of scenes. One part of the mural has four successive images of trees with birds, kings with the markings of the Maya Hero Twin Hunahpu, and sacrifices (consisting of fish, deer, turkey, and fragrant blossoms), to which a fifth tree has been added. The five trees are comparable to the directional trees of the Codex Borgia and to those mentioned in the Book of Chilam Balam of Chumayel; the associated birds represent the Principal Bird Deity. The sacrifices are comparable to those in the Year Bearer section of the Dresden Codex. The first four kings are shown piercing their penises (see fig.), spilling sacrificial blood, then offering a sacrifice. The fifth figure, associated with a fifth tree belonging to the centre - the tree of life itself - is the Maya maize god. The directional representation as a whole might refer to the initial arrangement of the world.</p>
+                       <p> Another part of the western mural depicts three scenes from the life of the maize god and the coronation of a king, showing divine right to rule coming from the gods, and providing evidence that the Maya had full-fledged monarchies centuries earlier than previously thought. The three maize god scenes show (i) a maize baby held by a man kneeling in the waters; (ii) the maize god inside a turtle cave, dancing before two enthroned, aquatic deities; and (iii) the maize god flying in the sky, or perhaps falling from the sky down into the water. Scene (iii) has been suggested to represent the death of the maize deity. Alternatively, it may refer to the maize god's role as a rain bringer.</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#OneH">Maize God</deityName>
+                        <deityName godID="#Hun">Hunahpu</deityName>
+                        <deityName godID="#PBD">Principal Bird Deity</deityName>
+                    </gods>
+                </relic>
+            </artifacts>
+            <structures>
+                <building type="pyramid">
+                    <name>Temple of "Las Pinturas"</name>
+                    <img src="https://www.mesoweb.com/reports/SanBartolo/04.jpg"/>
+                    <desc>
+                        <p>The vegetation-covered pyramid complex at San Bartolo in Guatemala shows the mural room located at the base (bottom center) of pyramid. The room's recently excavated west wall, adorned with the earliest preserved Maya mural, abuts the edge of the pyramid. Archaeologists believe the vividly painted room, dating from around 100 B.C. and chronicling the mythology of kings and the birth of the Maya cosmos, could have been a preparation area for ceremonies that took place on the courtyard in front of the pyramid.</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#OneH">Maize God</deityName>
+                        <deityName godID="#Hun">Hunahpu</deityName>
+                        <deityName godID="#PBD">Principal Bird Deity</deityName>
+                    </gods>
+                </building>
+            </structures>
+        </site>
+
+        <site id="#elMira">
+            <Nname>El Mirador</Nname>
+            <dateActive yearStart="-400 " yearEnd="100"/>
+            <location lat="42.5713" long="-64.2817"/>
+            <artifacts>
+                <relic type="frieze">
+                    <nameD>Water Collection Tecolote Friezes</nameD>
+                    <img src="https://i0.wp.com/mayadecipherment.com/wp-content/uploads/2012/04/elm_fig1.jpg"/>
+                    <img src="https://i.pinimg.com/originals/b2/26/4d/b2264dff76320b6dd953501e1d234030.jpg"/>
+                    <desc descSource="https://mayadecipherment.com/2012/04/09/a-watery-tableau-at-el-mirador-guatemala/">
+                        <p>A long set of stucco friezes that depicts two more examples of Late Preclassic deity impersonation. The façades are located in a prominent pathway running east-west in the center of the “Central Acropolis.” They appear to front a large plaza at the base of the “Tecolote” pyramid complex, perhaps adorning part of an ancient water collection system (see map). The figures on the lower frieze have been associated with the Hero Twins, Hunahpu and Xbalanque, protagonists of the colonial K’iche Maya creation story, the Popol Vuh (Hansen et al. 2011: 190). Yet, in our view, these figures represent god impersonators and bear no secure connection to twins in the Popol Vuh.</p>
+                        <p>The lower, more prominent façade contains three beings: two humans with large headdresses, and the large profile head. The figure on the left, whose face is partially damaged, wears a headdress and shell ear spools. His one visible eye has the inverted-“L” found on some early gods; his mouth displays a circular outline, his outstretched arms and bent legs conform to the pattern of many diving figures in Maya art (see Taube et al. 2010: Fig. 54A).</p>
+                        <p>The central figure wears a simple knotted belt with an effigy head attached to his lower back. His headdress and chinstrap form the gaping jaws of what is likely a version of Chahk, the god of rain (see Taube 1996: Fig. 15, 16): the diagnostic elements are the curled forehead (or hair) and especially the Spondylus ear spool (Figure 2). The figure on the viewer’s left shares many of the same features, but with different, tufted forehead, as though referring to another aspect of the rain deity. </p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#Hun">Hunahpu</deityName>
+                        <deityName godID="#Xba">Xbalanque</deityName>
+                        <deityName godID="#Cha">Chahk</deityName>
+                    </gods>
+                </relic>
+            </artifacts>
+            <structures>
+                <building type="temple">
+                    <nameD>Tecolote Structure</nameD>
+                    <desc>
+                        <p>Carved with a stucco frieze showing impersonators of the Rain God, Chahk. Late Preclassic.</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#Cha">Chahk</deityName>
+                    </gods>
+                </building>
+                <building type="complex">
+                    <name>Danta Complex</name>
+                    <desc>
+                        <p>The Danta Complex, at 230 feet tall, is essentially a giant patio group. It is thought to have housed El Mirador's royalty. The purpose of its tall stature was probably meant to exclude commoners from this elite housing area.</p>
+                    </desc>
+                </building>
+                <building type="temple">
+                    <name>Jaguar Temple</name>
+                    <desc>
+                        <p>This 180 ft tall structure is elaborately decorated with lime plaster and stucco depictions of jaguars. The king for whom it was built was called Great Fiery Jaguar Paw. It was probably built as a royal tomb for the Great Fiery Jaguar Paw king, but no burial was ever found within the temple.</p>
+                    </desc>
+                </building>
+            </structures>
+        </site>
+
+        <site id="#tikal">
+            <Nname>Tikal</Nname>
+            <dateActive yearStart="600" yearEnd="900"/>
+            <location lat="17.2220" long="-89.6237"/>
+            <artifacts>
+                <relic type="bones">
+                    <name>Incised bones from Temple I tomb</name>
+                    <desc>
+                        <p>Two incised bones from the Temple I tomb in Tikal. One depicts three
+                        Chahks (Rain Gods) catching fish. The other depicts seven Maya deities
+                        travelling in a canoe to the Underworld. In the middle is the Maize God; at
+                        the left and right are the old Paddler Gods.</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#Cha">Chahk</deityName>
+                        <deityName godID="#OneH">Maize God</deityName>
+                        <deityName>Paddler God</deityName>
+
+                    </gods>
+                </relic>
+                <relic type="jade">
+                    <name>Jade mosaic vase of Maize God</name>
+                    <desc>
+                        <p>Jade mosaic vase with portrait head of the Maize God, from Burial 196, a
+                        royal interment of the Late Classic period at Tikal, Guatemala. The pieces
+                        once adhered to a wooden interior, which has long since disintigrated. Ht:
+                        9.5 inches (24.2 cm)</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#OneH">Maize God</deityName>
+                    </gods>
+                </relic>
+                <relic type="obsidian">
+                    <name>Incised obsidians</name>
+                    <desc>
+                        <p>Incised obsidians from an offering placed beneath a stela at Tikal from the Late Classic period. The flat side of a crude flake has in each instance been engraved with the figure of a deity or with a simplified mat design. The god K'awiil appears at upper left and right; the Sun God K'inich Ajaw at lower right.</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#GodG">K'inich Ajaw</deityName>
+                        <deityName godID="#Kaw">K'awiil</deityName>
+                    </gods>
+                </relic>
+            </artifacts>
+            <structures>
+                <building type="temple">
+                    <name>Temple IV / The Two-Headed Serpent Temple</name>
+                    <desc>
+                        <p>
+                        
+                        The 212-foot high Temple IV is the highest pyramid temple at Tikal; it towers over the rain forest. According to Maya experts, leader Yax Kin ordered the temple built around 734 AD. Climb to the summit of this temple with care, by wooden ladder and stone steps. The summit affords a panoramic view over the site, with views of the other major temples rising from the treetops. This temple is known as the Two-Headed Serpent Temple</p>
+                    </desc>
+                </building>
+                <building type="temple">
+                    <name>Mundo Perdido // "Lost World"</name>
+                    <desc>
+                        <p>A pyramid from the preclassic period, this is the oldest part of Tikal. It features remnants of large plaster masks, as well as the adoption of Teotihuacan-influenced style in Preclassic Mayan architectural design.</p>
+                    </desc>
+                </building>
+            </structures>
+        </site>
+
+        <site id="#copan">
+            <Nname>Copán</Nname>
+            <dateActive yearStart="290" yearEnd="900"/>
+            <location lat="14.8497" long="-89.1468"/>
+            <artifacts>
+                <relic type="ball court marker">
+                    <name>Xibalban ball-court markers</name>
+                    <desc descSource="https://uncoveredhistory.com/honduras/copan/copan-templo-11-the-portal-to-the-underworld/">
+                        <p>The stairs of Temple 11 in Copan also lead down to the underworld, which is
+                        defined by three Xibalban ball-court markers which are still located outside
+                        the Temple. The markers clearly show the evil looking Lords of Xibalba
+                        nestled amongst the roots of the Tree of Life. The stairs and sloping walls
+                        of Temple 11 act as one of the sloping walls of the ball-game arena, from
+                        the top of which the game can be watched. The sacred ball-game has its
+                        origins in a mythical game played by the Hero Twins, Hunuhpu and Xbalanque,
+                        who were asked to play against the the Lords of Xibalba. The myth ends with
+                        the boys winning the game and defeating the Lords of Xibabla and therefore
+                        defeating death. </p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#LOX">Lords of Xibalba</deityName>
+
+                    </gods>
+                </relic>
+                <relic type="bust">
+                    <name>Stone bust of young Maize God</name>
+                    <desc>
+                        <p>Stone bust of young Maize God, Temple 22. One of the wonderfully baroque
+                        sculptures from this site.</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#OneH">Maize God</deityName>
+                    </gods>
+                </relic>
+            </artifacts>
+            <structures>
+                <building type="temple">
+                    <name>Temple 11</name>
+                    <desc descSource="https://uncoveredhistory.com/honduras/copan/copan-templo-11-the-portal-to-the-underworld/">
+                        <p>Temple 11 is covered in glyphic inscriptions that describe the sacred rites
+                        that were performed within it and allude to its religious function, hence it
+                        is also known as the Temple of Inscriptions. Unfortunately, these texts are
+                        so specific to these unknown rites that they remain unreadable at present.
+                        However, the few carvings that remain attached and in situ around the
+                        building do provide enough evidence to assess its function and symbolic
+                        purpose. The most descriptive carvings are those of the so called “Howler
+                        Monkey God”. The two Howler Monkey Gods flank the stairway that rise from
+                        the West Court and have been given their name from the ape like face that
+                        they feature and what appear to be curling tails. The Howler Monkey Gods are
+                        thought to be associated with music and dance, as well as literature, and
+                        the left-hand monkey strikes a theatrical pose with what is said to be a
+                        rattle in his hand. There is plenty of evidence to suggest that Temple 11
+                        was designed as a portal for the ruler Yax Pasaj to travel between the
+                        realms of the heavens and the underworld – a power that any divine ruler
+                        should have in his possession. Unlike his predecessors, Yax Pasaj may have
+                        felt the need prove his divinity as he wasn’t part of the divine royal
+                        lineage.</p> </desc>
+                    <gods>
+                        <deityName godID="#OneArt">Howler Monkey God</deityName>
+                        <deityName godID="#OneMonk">Spider Monkey God</deityName>
+                    </gods>
+                </building>
+            </structures>
+        </site>
+
+        <site id="#chItza">
+            <Nname>Chichen Itza</Nname>
+            <dateActive yearStart="600" yearEnd="900"/>
+            <location lat="20.6843" long="-88.5678"/>
+            <artifacts>
+                <relic type="temple sculpture">
+                   
+                    <name>Serpent Heads on El Castillo</name>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ChichenItzaEquinox.jpg/2560px-ChichenItzaEquinox.jpg"/>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Serpent_head_at_the_base_of_El_Castillo.jpg/2560px-Serpent_head_at_the_base_of_El_Castillo.jpg"/>
+                    <desc>
+                        <p>These sculptures of plumed serpents run down the sides of the northern balustrade. Around the spring and autumn equinoxes, the late afternoon sun strikes off the northwest corner of the pyramid and casts a series of triangular shadows against the northwest balustrade, creating the illusion of the feathered serpent "crawling" down the pyramid. To contemporary visitors, the event has been very popular and is witnessed by thousands at the spring equinox, but it is not known whether the phenomenon is a result of a purposeful design since the light-and-shadow effect can be observed without major changes during several weeks near the equinoxes.</p>
+                    </desc>
+                    <gods>
+                        
+                        <deityName godID="#SPS">Kukulcan</deityName>
+                    </gods>
+                </relic>
+           
+            </artifacts>
+            <structures>
+                <building type="temple">
+                    <name>Temple of the Jaguars</name>
+                    <desc>
+                        <p>The inner walls were once beautifully painted with Toltec battle scenes, so detailed and convincing that the artist must have been a witness to the Toltec invasion. Decades of neglect have resulted in their almost total ruin. The doorway of the Temple of the Jaguars, overlooking the ball court, depict one of two Feathered Serpant columns which support the lintel, and a door jamb with a relief figure of a Toltec warrior. Four staircases, paved on the top, where the two Dance Platforms are, whose facings are covered with themes such as eagles and jaguars eating hearts. They say that the Dance Platforms are where farces were represented, and comedies for the pleasure of the public.</p> </desc>
+                    <gods>
+                        <deityName godID="#SPS">Kukulcan</deityName>
+                    </gods>
+                </building>
+                <building type="pyramid">
+                    <name>Pyramid of Kukulcan</name>
+                    <img src="https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL0NoaWNoZW4tSXR6YS1DYXN0aWxsby1TZWVuLUZyb20tRWFzdC5KUEciXSxbInAiLCJ0aHVtYiIsIjEyMDB4PiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MSAtYXV0by1vcmllbnQiXV0/Chichen-Itza-Castillo-Seen-From-East.JPG"/>
+                    <img src="https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzLzhiZTg0OWJlLWJjNmYtNDQyZi04N2I2LTkyMzc3YWZlNTVjM2NkYjk4MTdjODZkNjBhMDM5OV9JTUdfMDEwNCgxKS5KUEciXSxbInAiLCJ0aHVtYiIsIjEyMDB4PiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MSAtYXV0by1vcmllbnQiXV0/IMG_0104%281%29.JPG"/>
+                    <img src="https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL2FhNmE1YzU5LTA4MjUtNDY0NS05MDc1LWUwYTMyOWVlOTQyMGNkYjk4MTdjODZkNjBhMDM5OV9JTUdfMDEwMSgxKS5KUEciXSxbInAiLCJ0aHVtYiIsIjEyMDB4PiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MSAtYXV0by1vcmllbnQiXV0/IMG_0101%281%29.JPG"/>
+                    <desc descSource="https://www.atlasobscura.com/places/pyramid-kukulcan-chichen-itza">
+                        <p>According to legend, twice a year when the day and night are in balance, this pyramid dedicated to Kukulcan (or Quetzalcoatl), the feathered serpent god, is visited by its namesake. On the equinox, Kukulcan returns to earth to commune with his worshipers, provide blessing for a full harvest and good health before entering the sacred water, bathing in it, and continuing through it on his way to the underworld. A handclap near the base of the pyramidal results in an unusual chirping echo, which is said to replicate the call of the sacred quetzal bird.</p>
+                        
+                        <p>All legends aside, crafty and mathematically brilliant architecture combined with the natural rotation of the Earth creates an amazing and somewhat eerie image of a giant snake crawling down the temple. For five hours an illusion of light and shadow creates seven triangles on the side of the staircase starting at the top and inching its way down until it connects the top platform with the giant stone head of the feathered serpent at the bottom. For 45 minutes this impressive shadow stays in its entirety before slowing descending the pyramid and disappearing along with the crowd that gathered to see it.</p>
+                        
+                        <p>The Pyramid of Kukulcan or Kukulkan (also known as El Castillo, a name given by the Spanish Conquistadors) is the centre of Chich’en Itza, it was built over a preexisting temple between 800 and 900 CE. It is the biggest pyramid in Chich’en Itza; at its base 53.3 meters wide on all four sides. It towers above the other monuments at 24 meters tall with a 6-meter temple on top of the highest platform. Before access to the throne room of the pyramid was restricted, you could climb to the top and, on a clear day, see the top of the grand pyramid at the nearby ruin site of Ek Balam.</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#SPS">Kukulcan</deityName>
+                    </gods>
+                </building>
+            </structures>
+        </site>
+
+        <site id="#izapa">
+            <Nname>Izapa</Nname>
+            <dateActive yearStart="-250" yearEnd="115"/>
+            <location lat="14.923" long="-92.180"/>
+            <artifacts>
+                <relic type="stela">
+                    <name>Stela 2</name>
+                    <desc>
+                        <p>The Hero Twins gesture toward the Principal Bird Deity (Wuqub Caquix) as
+                        he descends to the fruit tree. Late Preclassic, c. 100 B.C. or later.</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#Hun">Hunahpu</deityName>
+                        <deityName godID="#Xba">Xbalanque</deityName>
+                        <deityName godID="#PBD">Principal Bird Deity</deityName>
+                    </gods>
+                </relic>
+                <relic type="stela"> 
+                <name>Chahk Stone Carving</name>
+                    <desc>
+                       <p> A carved stone depiction of Mayan god of rain, Chahk (God G), standing on water. The decorations at the top, called a "sky band," was the Mayan artistic method of depicting the sky and the heavens above a scene.
+                    </p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#Cha">Chahk</deityName>
+                    </gods>
+                </relic>
+                <relic type="stela">
+                    <name>Stela 5</name>
+                    <desc>
+                        <p>This Izapan stela depicts humanity emerging out of the World's Tree from the underworld, Xibalba. It possibly depicts a Mayan ritual.</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#LOX">Xibalba</deityName>
+                    </gods>
+                </relic>
+            </artifacts>
+            <!--<structures>
+                <building type="temple">
+                    <name>N/A</name>
+                    <desc> <p>Izapa is known more for its vastness rather than any of the particualr
+                        buildngs on the premiss. The site stretches close to one and a half miles.
+                        The abundance of monuments gives name to the term Izapan style.</p></desc>
+                </building>
+            </structures>-->
+        </site>
+
+        <site id="#KJ">
+            <Nname>Kaminaljuyu</Nname>
+            <dateActive phase="Miraflores" yearStart="-400" yearEnd="100"/>
+            <dateActive phase="Esperanza" yearStart="250" yearEnd="600"/>
+            <location lat="14.6263441613" long="-90.5427911622"/>
+            <artifacts>
+                <relic type="stela">
+                    <name>Wuqub Kaquix Impersonation Stela</name>
+                    <desc>
+                        <p> A ruler impersonating the Principal Bird Deity (Wuqub Kaquix) is carved on this granite stela. Ht 6 ft</p> </desc>
+                    <gods>
+                        <deityName godID="#PBD">Wuqub Kaquix</deityName>
+                    </gods>
+                </relic>
+                <relic type="monument">
+                    <name>Monument 65</name>
+                    <desc>
+                        <p>Monument 65 depicts high-ranking captives captured in battle, about to be sacrificed to the gods.</p>
+                    </desc>
+                </relic>
+            </artifacts>
+            <structures>
+                <building type="mound">
+                    <name> Mounds A and B</name>
+                    <desc> <p>Two mounds that are noticable becuase of the amount of fine pottery that
+                        is mixed in with the dirt covering the mounds. In the same style done in
+                        Teotihuacan.</p>
+                    </desc>
+                   
+                </building>
+                <building type="tomb">
+                    <name>Tomb II, Mound E-II-3</name>
+                    <desc>
+                        <p>A burial of the Late Preclassic culture at Kaminaljuyu, the first and oldest royal burial found from the Preclassic Period. Consists of several superimposed temple platforms, each a flat-topped, stepped pyramid fronted by a broad stairway. Almost certainly the temples themselves were thatched-roof affairs supported by upright timbers. Within, skeletal remains of sacrifices, both adults and children, accompanied by the illustrious dead, together with offerings of an astonishing richness and profusion. Over 300 objects of beautiful workmanship were placed with the bodies. Among those recovered were the remains of a mask or head-dress of jade plaques, jade flares which once adorned the earlobes of the honored dead, bowls carved from chlorite-schist engraves with scroll designs, and little carved bottles of soapstone adn fuchsite. Pottery vessels, stingray spines, and other objects were also within the tomb.</p>
+                    </desc>
+                </building>
+            </structures>
+
+        </site>
+
+        <site id="#palenQ">
+            <Nname>Palenque</Nname>
+            <dateActive yearStart="-226" yearEnd="799"/>
+            <location lat="17.50953" long="-91.98248"/>
+            <artifacts>
+                <relic type="tomb">
+                    <name>Sarcophagus of Pakal the Great</name>
+                    <desc>
+                        <p>This carving on the upper surface of the sarcophagus found within the
+                        Funerary Crypt in the Temple of Inscriptions depicts the youthful-appearing
+                        Pakal the Great (the eighty-year-old king interred within the tomb) falling
+                        through gigantic fleshless jaws into the Underworld; above him rises the
+                        World Tree, surmounted by the bird-monster Wuqub Kaquix. Surrounding the
+                        scene is a band depicting celestial bodies and ancestral figures. AD
+                        683.</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#PBD">Wuqub Kaquix</deityName>
+
+                    </gods>
+                </relic>
+            </artifacts>
+            <structures>
+                <building type="temple">
+                    <name>Temple of the inscriptions</name>
+                    <desc>
+                        <p> The Temple of Inscriptions rests on a 65-ft high stepped pyramid
+                        approached by a noble frontal stairway. On the walls of its portico and
+                        central chamber, three panels contain a total of 620 hieroglyphs with many
+                        dates, the most corresponding to AD 692. The floor of the temple is covered
+                        by large stone slabs, some of which covering vaults which are entrances to
+                        the interior of the pyramid, where sacrificial skeletons were found. A huge
+                        triangular slab at the end of this passage, once removed, revealed the great
+                        Funerary Crypt, where Palenque's mighty ruler K'inich Janahb Pakal (Pakal
+                        the Great) was found. This temple holds the second longest glyph known in
+                        the Mayan world. The glyph tells the history of the site for around 180
+                        years. This is also the place that leads to Pakal's Tomb.</p> </desc>
+                    <gods>
+                        <deityName godID="#OneH">Maize God Impersonation</deityName>
+                    </gods>
+                </building>
+                <building type="temple">
+                    <name> Temple of the cross group </name>
+                    <desc>
+                        <p>Cross section of three temples, The temple of the Cross, the Temple of the
+                        Sun and Temple of the Foliated Cross. They sit upon temples </p>
+                    </desc>
+                </building>
+            </structures>
+        </site>
+
+        <site id="#uxmal">
+            <Nname>Uxmal</Nname>
+            <dateActive yearStart="500" yearEnd="1000"/>
+            <location lat="20.3599" long="-89.7684"/>
+            <artifacts>
+                <relic type="decor">
+                    <name>Ball Court</name>
+                    <desc descSource="https://mayanpeninsula.com/ball-court-in-uxmal/">
+                        <p>Its condition
+                        is very deteriorated, and it’s made of two constructions of medium
+                        dimensions that make up the sides of the court with the rings by which the
+                        ball was to be introduced. The originally carved stone rings were removed to
+                        protect them from the elements and were replaced by reproductions. This game
+                        has always been related to mythical and cosmic aspects. The ball symbolized
+                        the movements of the stars in the sky and the players, in repeated
+                        occasions, symbolically staged the fight of the day against the night or the
+                        struggle of the deities of the underworld against the gods of heaven. The
+                        date of construction was found in one of the calendrical symbols revealing
+                        the date in the year 906, time in which Uxmal began the decline.</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#Cha">Chahk</deityName>
+
+                    </gods>
+                </relic>
+            </artifacts>
+            <structures>
+                <building type="temple">
+                    <name>Pyramid Of the Magician</name>
+                    <desc descSource="https://www.thoughtco.com/pyramid-of-the-magician-mexico-169623">
+                        <p>Its name comes from a Maya tale of the 19th century, titled the Leyenda del
+                        Enano de Uxmal (The Legend of the Uxmal’s Dwarf). According to this legend,
+                        a dwarf constructed the pyramid in one night, helped by his mother, a witch.
+                        This building is one of the most impressive of Uxmal, measuring about 115
+                        feet in height. It was constructed over the Late and Terminal Classic
+                        periods, between AD 600 and 1000, and five constructive phases have been
+                        detected. The one visible today is the latest one, built around AD 900-1000.
+                        The pyramid, over which the actual temple stands, has a peculiar elliptical
+                        form. Two staircases lead to the top of the pyramid. The Eastern staircase,
+                        the wider, has a small temple along the way that cut the stairway in half.
+                        The second access stair, the Western, faces the Nunnery Quadrangle and is
+                        decorated with friezes of the rain god Chaac.</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#Cha">Chaac</deityName>
+                    </gods>
+                </building>
+            </structures>
+        </site>
+
+        <site id="#yaxchil">
+            <nameD>Yaxchilan</nameD>
+            <dateActive yearStart="250" yearEnd="900"/>
+            <location lat="16.8989" long="-90.9659"/>
+            <artifacts>
+                <relic type="stela">
+                    <name>Stela 11</name>
+                    <desc descSource="https://www.worldhistory.org/Yaxchilan/">
+                        <p>Stela 11 shows two
+                        standing figures in costume on the front, probably signifying the accession
+                        of the ruler Bird-Jaguar alongside his father and, in a quite different
+                        style, the reverse side again shows Bird-Jaguar, this time represented as
+                        the god Chahk, attacking three kneeling victims with his sceptre.</p>
+                    </desc>
+                    <gods>
+                        <deityName godID="#Cha">Chahk</deityName>
+
+                    </gods>
+                </relic>
+                <relic type="lintel">
+                    <name>Lintel 15</name>
+                    <img src="images/temples_and_relics/yaxchilan/yaxchilan-lintels_kawiil.webp"/>
+                    <desc descSource="https://www.thoughtco.com/maya-gods-and-goddesses-117947">
+                       <p> Lady Wak Tuun holds bloodletting equipment and communes with an aspect of waterlily serpent, the nagual of the serpent-legged lightning deity K'awiil. Lintel 15 at Yaxilan.</p>
+                    </desc>
+                </relic>
+            </artifacts>
+            <structures>
+                <building type="temple">
+                    <name>Temple 23</name>
+                    <desc descSource="https://www.worldhistory.org/Yaxchilan/">
+                        <p>Temple 23 has scenes
+                        on limestone lintels, carved in high relief, typically portray rituals such
+                        as a worshipper drawing blood from his tongue in the presence of a priest
+                        and Bird-Jaguar standing over a kneeling captive. Another vivid scene, from
+                        Temple 23, shows a giant double-headed snake creature from the mouths of
+                        which emerge a warrior and the war and rain god Tlaloc, who both tower over
+                        a kneeling worshipper, identified as Lady Xok', wife of the Yaxchilan ruler
+                        Shield-Jaguar, who sees the monster in a blood-letting induced vision. This
+                        scene, as indicated by the glyphs, occurred on 23rd October 681 CE, the
+                        accession of Itzamnaaj Bahlam II, 'Shield Jaguar the Great'. Traces of red,
+                        greens, and yellows indicate that the panels were once brightly painted.
+                        These violent scenes are amongst the earliest to show such graphic episodes
+                        of religious life and conquest, although they would later become common in
+                        the art of the Toltec and Aztec civilizations.</p>
+                    </desc>
+                </building>
+            </structures>
+        </site>
+
+        <unknownOrigin>
+            <relic type="pottery">
+                <name>Chama Vase</name>
+                
+                <date when="600">Late Classic Period</date>
+                <img src=""/>
+                <desc descSource="http://www.mesoweb.com/publications/MayaScribe/MayaScribe.lores.pdf">
+                    <p> The theme of this vessel has many linkages with the Popol Vuh. A Young Lord is in the act of pulling God N from his snail shell, while he conceals behind his back the knife with which he is going to sacrifice him.
+                    </p>
+                </desc>
+                <gods>
+                    <deityName>God N</deityName>
+                    <deityName godID="#LOX">Lord of Xibalba</deityName>
+                </gods>
+            </relic>
+        </unknownOrigin>
+       
+    </mayanSites>
+    
+</xml>

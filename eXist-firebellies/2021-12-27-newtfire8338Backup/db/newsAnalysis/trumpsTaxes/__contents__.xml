@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/newsAnalysis/trumpsTaxes" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:48.834Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="trumpsTaxes_NPR.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:48.835Z" modified="2020-08-07T21:14:48.835Z" filename="trumpsTaxes_NPR.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="trumpsTaxes_CNN.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:48.894Z" modified="2020-08-07T21:14:48.894Z" filename="trumpsTaxes_CNN.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="trumpsTaxes_FOX.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:48.956Z" modified="2020-08-07T21:14:48.956Z" filename="trumpsTaxes_FOX.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="trumpsTaxes_BBC.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:49.072Z" modified="2020-08-07T21:14:49.072Z" filename="trumpsTaxes_BBC.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

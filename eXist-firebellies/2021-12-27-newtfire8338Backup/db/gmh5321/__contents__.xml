@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/gmh5321" version="1" owner="gmh5321" group="dba" mode="7775" created="2021-10-08T13:09:30.123Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="php_query" skip="no" owner="gmh5321" group="dba" mode="755" created="2021-10-27T15:24:20.404Z" modified="2021-10-27T15:24:20.404Z" filename="php_query" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="org_query.xql" skip="no" owner="gmh5321" group="dba" mode="755" created="2021-10-29T18:22:45.565Z" modified="2021-11-03T18:43:09.999Z" filename="org_query.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySVGstarter.xql" skip="no" owner="gmh5321" group="dba" mode="755" created="2021-11-03T18:55:47.728Z" modified="2021-11-07T23:00:18.133Z" filename="banksySVGstarter.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

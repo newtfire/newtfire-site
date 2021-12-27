@@ -1,0 +1,54 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/2018_classExQueries" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:57.754Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="PeepsinMitford.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58.34Z" modified="2020-08-07T21:20:58.34Z" filename="PeepsinMitford.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQueryEx2ClassEx.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57.755Z" modified="2020-08-07T21:20:57.755Z" filename="XQueryEx2ClassEx.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelinePart2PreSVG.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57.829Z" modified="2020-08-07T21:20:57.829Z" filename="timelinePart2PreSVG.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MitfordSI.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:57.935Z" modified="2020-08-07T21:20:57.935Z" filename="MitfordSI.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SchismMapData.kml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58.014Z" modified="2020-08-07T21:20:58.014Z" filename="SchismMapData.kml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DecameronNetworkData.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58.085Z" modified="2020-08-07T21:20:58.085Z" filename="DecameronNetworkData.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AkiraNetData.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58.153Z" modified="2020-08-07T21:20:58.153Z" filename="AkiraNetData.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AkiraPowerBar_HSLColors.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58.23Z" modified="2020-08-07T21:20:58.23Z" filename="AkiraPowerBar_HSLColors.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelinePart2Starter.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58.419Z" modified="2020-08-07T21:20:58.419Z" filename="timelinePart2Starter.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SchismMapData.txt" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58.483Z" modified="2020-08-07T21:20:58.483Z" filename="SchismMapData.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuery_to_KML_2.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58.607Z" modified="2020-08-07T21:20:58.607Z" filename="XQuery_to_KML_2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuery_to_KML_1.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58.675Z" modified="2020-08-07T21:20:58.675Z" filename="XQuery_to_KML_1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelineStarter_ebb.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58.748Z" modified="2020-08-07T21:20:58.748Z" filename="timelineStarter_ebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelineMidway_ebb.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58.874Z" modified="2020-08-07T21:20:58.874Z" filename="timelineMidway_ebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelinePREStarter_ebb.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:58.934Z" modified="2020-08-07T21:20:58.934Z" filename="timelinePREStarter_ebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="decameronTesting.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:59.01Z" modified="2020-08-07T21:20:59.01Z" filename="decameronTesting.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dcNetFinished.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:59.078Z" modified="2020-08-07T21:20:59.078Z" filename="dcNetFinished.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

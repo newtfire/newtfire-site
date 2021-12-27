@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ajm7408/SP2021" version="1" owner="ajm7408" group="ajm7408" mode="755" created="2021-10-11T18:38:47.907Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="acData.svg" skip="no" owner="ajm7408" group="ajm7408" mode="644" created="2021-03-24T18:36:59.755Z" modified="2021-04-01T00:12:48.018Z" filename="acData.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Speeches-vs-Cutscenes.svg" skip="no" owner="ajm7408" group="ajm7408" mode="644" created="2021-04-29T01:04:15.349Z" modified="2021-04-29T01:04:15.349Z" filename="Speeches-vs-Cutscenes.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGexercise2.svg" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-03-24T17:58:11.169Z" modified="2021-03-24T18:17:56.105Z" filename="SVGexercise2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGexercise2.xql" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-03-24T18:33:12.857Z" modified="2021-03-24T18:55:29.47Z" filename="SVGexercise2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Python_KH2.5_Homework1.txt" skip="no" owner="ajm7408" group="ajm7408" mode="644" created="2021-04-14T13:48:48.281Z" modified="2021-04-14T13:48:48.281Z" filename="Python_KH2.5_Homework1.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XqueryTest.xql" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-04-07T16:19:35.601Z" modified="2021-04-07T18:48:19.815Z" filename="XqueryTest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="NetworkAnalysisEx1.xql" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-03-26T17:03:45.442Z" modified="2021-03-26T17:09:21.057Z" filename="NetworkAnalysisEx1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MyNetworkData.tsv" skip="no" owner="ajm7408" group="ajm7408" mode="644" created="2021-03-26T17:05:49.949Z" modified="2021-04-12T14:08:46.402Z" filename="MyNetworkData.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KingdomHearts2.5TextPuller.xql" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-10-11T18:39:09.685Z" modified="2021-10-11T18:39:09.685Z" filename="KingdomHearts2.5TextPuller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

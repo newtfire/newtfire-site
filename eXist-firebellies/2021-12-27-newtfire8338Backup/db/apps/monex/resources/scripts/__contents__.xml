@@ -1,0 +1,63 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/resources/scripts" version="1" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.16Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery.flot.time.min.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.161Z" modified="2020-08-07T02:48:38.161Z" filename="jquery.flot.time.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="util.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.163Z" modified="2020-08-07T02:48:38.163Z" filename="util.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.navigate.min.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.165Z" modified="2020-08-07T02:48:38.165Z" filename="jquery.flot.navigate.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exadmin.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.167Z" modified="2020-08-07T02:48:38.167Z" filename="exadmin.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="app.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.169Z" modified="2020-08-07T02:48:38.169Z" filename="app.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="knockout.mapping-2.4.1.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.172Z" modified="2020-08-07T02:48:38.172Z" filename="knockout.mapping-2.4.1.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="knockout-3.1.0.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.174Z" modified="2020-08-07T02:48:38.174Z" filename="knockout-3.1.0.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.min.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.176Z" modified="2020-08-07T02:48:38.176Z" filename="jquery.flot.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="d3.v3.min.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.179Z" modified="2020-08-07T02:48:38.179Z" filename="d3.v3.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-1.9.1.min.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.184Z" modified="2020-08-07T02:48:38.184Z" filename="jquery-1.9.1.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ion.rangeSlider.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.187Z" modified="2020-08-07T02:48:38.187Z" filename="ion.rangeSlider.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timerange.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.189Z" modified="2020-08-07T02:48:38.189Z" filename="timerange.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.tooltip.min.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.191Z" modified="2020-08-07T02:48:38.191Z" filename="jquery.flot.tooltip.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="modernizr.custom.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.193Z" modified="2020-08-07T02:48:38.193Z" filename="modernizr.custom.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="console.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.196Z" modified="2020-08-07T02:48:38.196Z" filename="console.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="highlight.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.198Z" modified="2020-08-07T02:48:38.198Z" filename="highlight.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="details.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.2Z" modified="2020-08-07T02:48:38.2Z" filename="details.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fastclick.min.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.202Z" modified="2020-08-07T02:48:38.202Z" filename="fastclick.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.selection.min.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.204Z" modified="2020-08-07T02:48:38.204Z" filename="jquery.flot.selection.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timeline.js" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.206Z" modified="2020-08-07T02:48:38.206Z" filename="timeline.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

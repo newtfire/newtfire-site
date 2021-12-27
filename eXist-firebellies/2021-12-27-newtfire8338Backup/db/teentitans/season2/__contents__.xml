@@ -1,0 +1,45 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/teentitans/season2" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:08.441Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="s2_episode-9.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09.682Z" modified="2020-08-07T21:12:09.682Z" filename="s2_episode-9.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-8.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09.582Z" modified="2020-08-07T21:12:09.582Z" filename="s2_episode-8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-6.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09.427Z" modified="2020-08-07T21:12:09.427Z" filename="s2_episode-6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-7.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09.332Z" modified="2020-08-07T21:12:09.332Z" filename="s2_episode-7.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-5.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09.197Z" modified="2020-08-07T21:12:09.197Z" filename="s2_episode-5.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-4.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09.103Z" modified="2020-08-07T21:12:09.103Z" filename="s2_episode-4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-13.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08.442Z" modified="2020-08-07T21:12:08.442Z" filename="s2_episode-13.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-2.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08.538Z" modified="2020-08-07T21:12:08.538Z" filename="s2_episode-2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-3.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08.627Z" modified="2020-08-07T21:12:08.627Z" filename="s2_episode-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-12.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08.729Z" modified="2020-08-07T21:12:08.729Z" filename="s2_episode-12.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-10.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08.811Z" modified="2020-08-07T21:12:08.811Z" filename="s2_episode-10.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-1.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:08.909Z" modified="2020-08-07T21:12:08.909Z" filename="s2_episode-1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s2_episode-11.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09.006Z" modified="2020-08-07T21:12:09.006Z" filename="s2_episode-11.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="image.png" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:09.775Z" modified="2020-08-07T21:12:09.775Z" filename="image.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

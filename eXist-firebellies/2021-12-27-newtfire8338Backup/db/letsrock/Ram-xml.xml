@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <song name="Necessary Discrepancy">
+        <metadata>
+            <sname>Necessary Discrepancy</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+        <lyrics>
+            <verse n="1">
+                <line n="1">Denial, denial</line>
+                <line n="2">La sola estoneco</line>
+                <line n="3">Terra, terra</line>
+                <line n="4">La historio</line>
+            </verse>
+            <verse n="2">
+                <line n="1"><i story="ram">There is a will, there is a void</i></line>
+                <line n="2">There is no growth</line>
+                <line n="3">Just burns up time, just burns up time</line>
+                <line n="4">Running, calling, dying! - just burns up time</line>
+            </verse>
+            <verse n="3">
+                <line n="1"><i story="ram">Madness, greed, collapse, satisfaction</i></line>
+                <line n="2"><i story="ram">Envy, cheat, banging, domination</i></line>
+            </verse>
+            <verse n="4">
+                <line n="1">There is a will, there is a void</line>
+                <line n="2">There is no growth</line>
+                <line n="3">Just burns up time, just burns up time</line>
+                <line n="4">Running, calling, dying! - just burns up time</line>
+            </verse>
+            <prechorus n="1">
+                <line n="1">Shine and dark</line>
+                <line n="2">Symbiosis, necessary discrepancy</line>
+                <line n="3">The loving foolish world is down there</line>
+            </prechorus>
+            <chorus n="1">
+                <line n="1">Black and white</line>
+                <line n="2">Two are one, necessary discrepancy</line>
+                <line n="3">The loving foolish world still going on</line>
+                <line n="3">If a room without the sky,</line>
+                <line n="4">is what we idolize, it's a dead tomorrow</line>
+                <line n="5"><i story="ram">Right and wrong are not for sure</i></line>
+                <line n="6">The castle made of sand will fall</line>
+                <line n="7">One thing is certain</line>
+                <line n="8">Heart and heart</line>
+            </chorus>
+            <verse n="5">
+                <line n="1">The empty precepts disguising good intentions</line>
+                <line n="2">A clean page is blank page, never, never</line>
+                <line n="3">Like a wave launching, we leave out the chances</line>
+                <line n="4">A black page is a blank page, never, never</line>
+            </verse>
+            <verse n="6">
+                <line n="1">Weighing up value and will</line>
+                <line n="2">Get up before they reach you</line>
+                <line n="3">Now!</line>
+            </verse>
+            <prechorus n="2">
+                <line n="1">I don't need to be recognized for everything</line>
+                <line n="2">Don't take them down to the ground to a face to face</line>
+                <line n="3">I just want you to hear someone's little voice</line>
+                <line n="4">That is a the voice of life</line>
+            </prechorus>
+            <chorus n="2">
+                <line n="1">Black and white</line>
+                <line n="2">Two are one, necessary discrepancy</line>
+                <line n="3">The loving foolish world still going on</line>
+                <line n="3">If a room without the sky,</line>
+                <line n="4">is what we idolize, it's a dead tomorrow</line>
+                <line n="5">Right and wrong are not for sure</line>
+                <line n="6">The castle made of sand will fall</line>
+                <line n="7">One thing is certain</line>
+                <line n="8">Heart and heart</line>
+                <line n="9">I have the key to leave the door</line>
+                <line n="10">It can hurt me, it can hurt you</line>
+                <line n="11">All things are made of</line>
+                <line n="12">Heart and heart</line>
+            </chorus>
+        </lyrics>
+    </song>
+</xml>

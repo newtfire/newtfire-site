@@ -1,0 +1,39 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/tuning/listings" version="1" owner="SYSTEM" group="dba" mode="755" created="2020-08-07T02:48:34.089Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="listing-6.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.09Z" modified="2020-08-07T02:48:34.09Z" filename="listing-6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-22.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.091Z" modified="2020-08-07T02:48:34.091Z" filename="listing-22.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-1.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.095Z" modified="2020-08-07T02:48:34.095Z" filename="listing-1.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-29.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.097Z" modified="2020-08-07T02:48:34.097Z" filename="listing-29.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-34.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.099Z" modified="2020-08-07T02:48:34.099Z" filename="listing-34.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-21.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.1Z" modified="2020-08-07T02:48:34.1Z" filename="listing-21.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-27.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.102Z" modified="2020-08-07T02:48:34.102Z" filename="listing-27.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-28.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.104Z" modified="2020-08-07T02:48:34.104Z" filename="listing-28.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-3.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.105Z" modified="2020-08-07T02:48:34.105Z" filename="listing-3.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-26.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.107Z" modified="2020-08-07T02:48:34.107Z" filename="listing-26.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-25.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.109Z" modified="2020-08-07T02:48:34.109Z" filename="listing-25.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-30.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2020-08-07T02:48:34.111Z" modified="2020-08-07T02:48:34.111Z" filename="listing-30.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/btrees/networks" version="1" owner="ged5131" group="ged5131" mode="755" created="2021-12-03T17:39:34.243Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="originNetwork.tsv" skip="no" owner="ged5131" group="ged5131" mode="644" created="2021-12-03T17:38:27.806Z" modified="2021-12-03T20:32:27.035Z" filename="originNetwork.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="statusNetwork.tsv" skip="no" owner="ged5131" group="ged5131" mode="644" created="2021-12-03T17:38:55.825Z" modified="2021-12-03T20:32:28.663Z" filename="statusNetwork.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="leafNetwork.tsv" skip="no" owner="ged5131" group="ged5131" mode="644" created="2021-12-03T17:37:33.073Z" modified="2021-12-03T20:32:30.219Z" filename="leafNetwork.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

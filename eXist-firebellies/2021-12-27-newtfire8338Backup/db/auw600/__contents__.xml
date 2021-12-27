@@ -1,0 +1,60 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/auw600" version="1" owner="auw600" group="dba" mode="775" created="2021-03-12T04:01:52.363Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="BubblePlotSVG.svg" skip="no" owner="auw600" group="auw600" mode="644" created="2021-11-10T00:05:16.891Z" modified="2021-11-10T00:05:16.891Z" filename="BubblePlotSVG.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="disneySongsTable.html" skip="no" owner="auw600" group="auw600" mode="644" created="2021-10-12T17:38:49.087Z" modified="2021-10-29T18:10:19.108Z" filename="disneySongsTable.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="disneySongLengths.html" skip="no" owner="admin" group="dba" mode="644" created="2021-10-18T00:53:20.453Z" modified="2021-10-18T00:53:53.888Z" filename="disneySongLengths.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DisneySongInfo.html" skip="no" owner="auw600" group="auw600" mode="644" created="2021-10-14T19:04:39.126Z" modified="2021-10-29T18:08:49.76Z" filename="DisneySongInfo.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bluesArtistTable.html" skip="no" owner="auw600" group="auw600" mode="644" created="2021-11-05T18:53:17.39Z" modified="2021-11-05T18:53:56.597Z" filename="bluesArtistTable.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="svgdig400.svg" skip="no" owner="auw600" group="auw600" mode="644" created="2021-11-05T18:34:41.324Z" modified="2021-11-05T18:49:59.01Z" filename="svgdig400.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bubblePlot.xql" skip="no" owner="auw600" group="auw600" mode="755" created="2021-11-05T19:00:25.857Z" modified="2021-11-10T00:05:45.088Z" filename="bubblePlot.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery5.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-03-15T17:07:53.487Z" modified="2021-03-15T17:07:53.487Z" filename="xquery5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery1digit400" skip="no" owner="auw600" group="auw600" mode="755" created="2021-10-06T18:25:20.055Z" modified="2021-10-06T18:25:20.055Z" filename="xquery1digit400" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery2digit400" skip="no" owner="auw600" group="auw600" mode="755" created="2021-10-06T19:14:05.838Z" modified="2021-10-06T19:14:05.838Z" filename="xquery2digit400" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery4digit400.xql" skip="no" owner="auw600" group="auw600" mode="755" created="2021-10-29T18:10:08.236Z" modified="2021-10-29T18:10:08.236Z" filename="xquery4digit400.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="netan1.xql" skip="no" owner="auw600" group="auw600" mode="755" created="2021-03-29T16:42:56.188Z" modified="2021-04-09T21:14:39.23Z" filename="netan1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery3_disney.xql" skip="no" owner="auw600" group="auw600" mode="755" created="2021-10-29T18:17:26.116Z" modified="2021-10-29T18:17:29.582Z" filename="xquery3_disney.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery3digit400.xql" skip="no" owner="auw600" group="auw600" mode="755" created="2021-10-08T19:11:06.256Z" modified="2021-10-08T19:11:06.256Z" filename="xquery3digit400.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery5digit400.xql" skip="no" owner="auw600" group="auw600" mode="755" created="2021-10-14T19:05:14.611Z" modified="2021-10-14T19:09:06.587Z" filename="xquery5digit400.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="networkanalysis1.tsv" skip="no" owner="auw600" group="auw600" mode="644" created="2021-03-29T16:11:49.097Z" modified="2021-11-17T19:34:42.605Z" filename="networkanalysis1.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="netanDig400.tsv" skip="no" owner="auw600" group="auw600" mode="644" created="2021-11-17T19:37:33.574Z" modified="2021-11-17T19:37:33.574Z" filename="netanDig400.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="netanDig400.xql" skip="no" owner="auw600" group="auw600" mode="755" created="2021-11-17T19:38:07.626Z" modified="2021-11-17T19:38:07.626Z" filename="netanDig400.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg1dig400.xql" skip="no" owner="auw600" group="auw600" mode="755" created="2021-11-03T18:56:21.738Z" modified="2021-11-05T18:46:46.378Z" filename="svg1dig400.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/templates/existdb/resources/css" version="1" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32.214Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="style.css" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32.215Z" modified="2020-08-07T02:48:32.215Z" filename="style.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

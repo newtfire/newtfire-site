@@ -1,0 +1,36 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/brandnew/albums(new)/Albums/Daisy" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:18:57.455Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="vices.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:57.455Z" modified="2020-08-07T21:18:57.455Z" filename="vices.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="daisy.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:57.515Z" modified="2020-08-07T21:18:57.515Z" filename="daisy.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="beGone.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:57.578Z" modified="2020-08-07T21:18:57.578Z" filename="beGone.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="atTheBottom.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:57.635Z" modified="2020-08-07T21:18:57.635Z" filename="atTheBottom.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="gasoline.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:57.702Z" modified="2020-08-07T21:18:57.702Z" filename="gasoline.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="boughtABride.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:57.761Z" modified="2020-08-07T21:18:57.761Z" filename="boughtABride.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bed.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:57.825Z" modified="2020-08-07T21:18:57.825Z" filename="bed.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="youStole.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:57.888Z" modified="2020-08-07T21:18:57.888Z" filename="youStole.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="inAJar.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:58.017Z" modified="2020-08-07T21:18:58.017Z" filename="inAJar.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="noro.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:58.106Z" modified="2020-08-07T21:18:58.106Z" filename="noro.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sink.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:58.191Z" modified="2020-08-07T21:18:58.191Z" filename="sink.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

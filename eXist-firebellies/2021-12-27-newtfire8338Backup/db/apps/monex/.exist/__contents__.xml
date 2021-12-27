@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/.exist" version="1" owner="monex" group="dba" mode="775" created="2020-08-07T02:48:38.208Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="classpath.txt" skip="no" owner="monex" group="dba" mode="664" created="2020-08-07T02:48:38.209Z" modified="2020-08-07T02:48:38.209Z" filename="classpath.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

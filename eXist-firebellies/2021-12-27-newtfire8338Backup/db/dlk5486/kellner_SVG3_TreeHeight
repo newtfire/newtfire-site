@@ -1,0 +1,26 @@
+xquery version "3.1";
+declare variable $btrees := collection('/db/dlk5486/')/*;
+declare variable $entries := $btrees//Q{}entry;
+<div>
+{
+for $e in $entries
+let $cname := $e/Q{}cname ! data() 
+(: let $height := $e/Q{}height ! normalize-space():)
+(:  :let $avg:= $btrees//entry//height/@avg ! string():)
+let $avg:= $btrees//$e//height/@avg ! xs:integer(.)
+
+return 
+<table id="{$e/@xml:id}" value="{$cname}">
+    <tr>
+       <th>Common Name:</th>
+       <td>{$cname}</td>
+
+       <th>Height:</th>
+       <td>{$avg}</td>
+       
+    </tr>
+</table>
+}
+
+</div>
+

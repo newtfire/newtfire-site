@@ -1,0 +1,19 @@
+xquery version "3.1";
+declare variable $ThisFileContent :=
+string-join(
+let $ac := doc('/db/assassinsCreed/assassinscreedodyssey.xml')
+let $characters := $ac//speaker !normalize-space() => distinct-values()
+for $c in $characters 
+    let $cSpeakers := $ac[.//speaker ! normalize-space() = $c]//sp ! normalize-space() => distinct-values()
+    for $s in $cSpeakers
+        let $chapNum := $ac[.//sp ! normalize-space() = $s]//chapterNum ! normalize-space() => distinct-values()
+        for $n in $chapNum 
+        
+return
+    concat($c, "&#x9;", "speaker", "&#x9;", $s, "&#x9;", $n, "&#x9;", "chapNum"),"&#10;") ;
+    $ThisFileContent
+    
+let $filename := "ac.tsv"
+let $doc-db-uri := xmldb:store("/db/ice5017", $filename, $ThisFileContent, "text/plain")
+return $doc-db-uri
+

@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/templates/bootstrap/modules" version="1" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32.25Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="app.xql" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32.251Z" modified="2020-08-07T02:48:32.251Z" filename="app.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.xql" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32.253Z" modified="2020-08-07T02:48:32.253Z" filename="view.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:32.255Z" modified="2020-08-07T02:48:32.255Z" filename="config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

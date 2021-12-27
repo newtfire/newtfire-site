@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/amo5551" version="1" owner="amo5551" group="dba" mode="7775" created="2021-10-08T13:11:13.231Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="BrokenCharList.php" skip="no" owner="amo5551" group="dba" mode="755" created="2021-10-27T17:42:26.99Z" modified="2021-10-27T17:42:42.84Z" filename="BrokenCharList.php" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="samplepg4char" skip="no" owner="amo5551" group="dba" mode="755" created="2021-10-15T19:25:31.723Z" modified="2021-10-15T19:25:31.723Z" filename="samplepg4char" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="samplepg4char.xql" skip="no" owner="amo5551" group="dba" mode="755" created="2021-10-15T19:27:38.573Z" modified="2021-10-15T19:27:38.573Z" filename="samplepg4char.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="BanksySVG.xql" skip="no" owner="amo5551" group="dba" mode="755" created="2021-11-03T19:10:32.077Z" modified="2021-11-03T19:20:48.997Z" filename="BanksySVG.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hw4" skip="no" owner="amo5551" group="dba" mode="755" created="2021-10-13T18:04:35.768Z" modified="2021-10-13T18:04:35.768Z" filename="hw4" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="HW3" skip="no" owner="amo5551" group="dba" mode="755" created="2021-10-11T19:06:03.634Z" modified="2021-10-11T19:07:37.741Z" filename="HW3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

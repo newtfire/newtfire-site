@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/resources/css/font-awesome/fonts" version="1" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.872Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="fontawesome-webfont.svg" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.883Z" modified="2020-08-07T02:48:31.883Z" filename="fontawesome-webfont.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fontawesome-webfont.ttf" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.873Z" modified="2020-08-07T02:48:31.873Z" filename="fontawesome-webfont.ttf" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FontAwesome.otf" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.877Z" modified="2020-08-07T02:48:31.877Z" filename="FontAwesome.otf" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fontawesome-webfont.woff" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.88Z" modified="2020-08-07T02:48:31.88Z" filename="fontawesome-webfont.woff" mimetype="application/font-woff">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fontawesome-webfont.eot" skip="no" owner="eXide" group="monex" mode="775" created="2020-08-07T02:48:31.975Z" modified="2020-08-07T02:48:31.975Z" filename="fontawesome-webfont.eot" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

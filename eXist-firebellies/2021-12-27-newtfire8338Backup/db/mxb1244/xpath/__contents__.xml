@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/mxb1244/xpath" version="1" owner="mxb1244" group="dba" mode="2755" created="2021-10-24T23:11:36.579Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="carTable.xql" skip="no" owner="mxb1244" group="dba" mode="755" created="2021-10-24T23:11:55.048Z" modified="2021-11-06T20:08:00.965Z" filename="carTable.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DcarsTablee.html" skip="no" owner="mxb1244" group="dba" mode="755" created="2021-10-24T23:16:29.995Z" modified="2021-10-24T23:22:46.516Z" filename="DcarsTablee.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="carTable-ebb.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-10-25T19:39:20.81Z" modified="2021-10-25T20:18:16.263Z" filename="carTable-ebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

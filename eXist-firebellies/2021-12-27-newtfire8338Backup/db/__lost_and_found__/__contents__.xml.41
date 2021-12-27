@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rwf17" version="1" owner="rwf17" group="dba" mode="775" created="2020-02-27T02:35:22.355Z">
+    <acl entries="0" version="1"/>
+</collection>

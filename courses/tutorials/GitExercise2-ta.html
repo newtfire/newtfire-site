@@ -13,9 +13,8 @@
         <h1><span class="banner">Git Shell and GitHub Exercise 2</span></h1>
         <section title="preliminaries">
             <h3>Preliminaries</h3>
-            <p>First complete <a href="GitExercise1-ta.html">Git Exercise 1</a>. It will benefit you to
-                keep this <a href="explainGitShell.html" target="_blank">tutorial</a> open while you
-                work on this assignment. Also, you should complete this assignment on a computer you
+            <p>First complete <a href="GitExercise1-ta.html">Git Exercise 1</a> to create your GitHub account, configure git on 
+                your computer, and join our class textAnalysis-Hub. You should complete this assignment on a computer you
                 will likely be using the most this semester, because you will be configuring it to
                 get it working routinely with Git and GitHub and navigating your own file
                 directories. (You can always set up Git on other computers when you need to and
@@ -25,19 +24,20 @@
             <h3>Analysis of the task</h3>
             <p>The goals of this assignment are:</p>
             <ol>
-                <li>Clone and navigate locally our <a target="_blank"
+                <li><strong>Clone</strong> our <a target="_blank"
                         href="https://github.com/newtfire/textAnalysis-Hub">textAnalysis-Hub</a>
-                    repository</li>
+                    repository on your local computer, in a directory space that is not automatically syncing to OneDrive or Google or other automated sync locations.</li>
                 <li>Create a personal remote repository on GitHub via website</li>
-                <li>Make a local clone of your personal remote repository</li>
-                <li>Add a file to a repository using Git and push it to your remote repository.</li>
+                <li>Make a local clone of your personal remote repository, again in that directory space that is not automatically syncing to OneDrive, etc.</li>
+                <li>Save a new file to your new local repository, and use git commands to <code>git add</code>, <code>git commit</code>, and <code>git push</code> it to the remote repository.</li>
+                <li>Use git commands to <code>git pull</code> as well as add, commit, and push files from the textAnalysis-Hub. </li>
                 <li>Comment and/or create an Issue on GitHub.</li>
             </ol>
             <p>Upon completion of this assignment you should feel confident about <dfn>pushing</dfn>
                 and <dfn>pulling</dfn> files using Git and interacting on GitHub. Our courses
-                require weekly, even daily, Git activity; therefore, if you still feel uncertain on
-                how to use Git or GitHub after completing this assignment please meet with an
-                instructor. We will gladly assist you so that you feel comfortable using Git and
+                require weekly, even daily, Git activity, so you will get plenty of practice this semester. If you still feel uncertain on
+                how to use Git or GitHub after completing this assignment please meet with a DIGIT peer tutor or Dr. B. 
+                We will gladly assist you so that you feel comfortable using Git and
                 GitHub on a regular basis.</p>
         </section>
         <section title="step_by_step">
@@ -45,39 +45,35 @@
             <p> First navigate to our <a target="_blank"
                     href="https://github.com/newtfire/textAnalysis-Hub">textAnalysis-Hub</a> repository and
                     <dfn>clone</dfn> the textAnalysis-Hub to your local computer. Follow our <a
-                    href="explainGitShell.html#cloning" target="_blank">tutorial steps on
+                        href="https://github.com/newtfire/textAnalysis-Hub/blob/main/GitCommands.md" target="_blank">quick reference steps on
                     cloning</a>.</p>
-            <p>Once you have the textAnalysis-Hub cloned navigate to the repo on your local computer.
-                Search through the directory and find the folder called <q>sandbox</q>. The sandbox
+            <p>Once you have cloned the textAnalysis-Hub, navigate to the repo on your local computer.
+                Search through the directory and find the folder called <q>Sandbox</q>. The Sandbox
                 directory is a space for you to practice adding, committing, and pushing files to.
-                Go ahead and add ANY file to the sandbox by dragging a file into that directory or
-                saving a file from &lt;oXygen&gt; there. Notice others have added pictures, text
+                Go ahead and save ANY file (okay, anything under 150MB and preferably a code or text file) to the Sandbox. 
+                (You can click and drag a file into that directory or
+                save a file directly there from &lt;oXygen&gt;.) Notice others have added pictures, text
                 files, and a variety of code files. You can open any of these files, but try not to
                 delete any files you have not created yourself. You will only be able to push your new
                 file if we haved added you as a collaborator (which should have been done with
                 completion of <a href="GitExercise1-ta.html">Git Exercise 1</a>).</p>
             <p>Use command line to <a href="explainGitShell.html#working" target="_blank">add,
                     commit, and push</a> your sandbox file to the textAnalysis-Hub.</p>
-            <p>Next, we want you to create your own repository. Later in this course you will be
-                creating a personal website; therefore, we are having you create a Git repo that
-                will correlate with the development of said site. To create a new repo go to your
+            <p>Next, we want you to create your own repository. To create a new repo, go to your
                 GitHub profile, select the <q>Repositories</q> tab, and click <q>New</q>.</p>
             <p><img src="NewRepo_GitEx1.jpg" alt="GitHub Create Repo" /></p>
             <p>Give your repo a logical name (i.e. my_page), a brief description, and select
-                    <q>public</q>. During this course we ask you to keep this repo public so we can
-                view each other’s site development without everyone in the course having to be added
-                as a collaborator; however, you can switch this to private in the future.</p>
+                <q>public</q>. During this course we ask you to keep this repo public, because you will be learning how to host 
+                a free public-facing website from your repo; however, you can switch this to private after our course is over if you wish.</p>
             <p>Now that you have created the repo on GitHub you need to <dfn><a
                         href="explainGitShell.html#cloning" target="_blank">clone</a></dfn> it to
                 your local computer (just like you cloned the textAnalysis-Hub above). After you have the
                 repo cloned you can make some edits to your README.md file using markdown and/or add
-                more files. Feel free to reference my <a
-                    href="https://github.com/RJP43/personalWebpage" target="_blank">GitHub repo</a>
-                used for the development of my <a href="http://newtfire.org/~rjp43/" target="_blank"
-                    >personal website</a>.</p>
+                more files. The README.md file, written in GitHub's simple markdown langauge, serves as a sort of welcome sign to invite other coders and developers to your repo
+                and orient them to what they can find there. Here's <a href="https://github.com/matiassingers/awesome-readme">an amazing resource of README examples</a> to give you ideas of what kinds of things you can write here.</p>
             <p>Your final task is to navigate on GitHub to your personal page repo, and follow our
                     <a href="explainGitShell.html#collaborators" target="_blank">tutorial steps to
-                    add a collaborator</a>. Add your instructor(s) to your repo. After the
+                    add a collaborator</a>. Add Dr. B (GitHub name: <code>ebeshero</code> as a collaborator on your repo. After the
                 completion of this course you can remove any unwanted collaborators; however, for
                 this assignment we want you to practice adding at least one collaborator. Also when
                 creating your own repo you may need to change the settings to include an issues

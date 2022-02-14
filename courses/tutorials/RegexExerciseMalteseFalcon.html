@@ -36,12 +36,12 @@
      <li>We have already verified for you that there are no reserved characters (<code>&amp;</code>, <code>&lt;</code>, and <code>&lt;</code>).</li>
      
         <li>Also there are no groups of blank lines exceeding 2 (<code>\n{2,}</code>).</li>
-        <li><strong>Before you begin</strong>, make sure you have set up your Find and Replace for searching with regular expressions, that case sensitive searching  and Wrap around are checked on, and that you are able ot see space characters in your oXygen window. You will be adjusting below whether or not to select "Dot matches all" when you use the dot <code>.</code> regex.</li>
+        <li><strong>Before you begin</strong>, make sure you have set up your Find and Replace for searching with regular expressions, that case sensitive searching  and Wrap around are checked on, and that you are able to see space characters in your oXygen window. You will be adjusting below whether or not to select "Dot matches all" when you use the dot <code>.</code> regex.</li>
      </ul>
      
      <h3>Your Tasks:</h3>   
      
-     <ol><li><p>We want all of you to <strong>begin by testing the following regular expression Find and Replace patterns and adjusting your settings as needed</strong>, in order to match every visible block of text separated by two newlines (hard returns) and replace it with a <code>&lt;sp&gt;</code> tags.</p>
+     <ol><li><p><strong>Begin by testing the following regular expression Find and Replace patterns</strong>.</p>
         <p>First, please paste in the following regex pattern in the <strong>Find</strong> window: <code>^(.+?)(\n\n)</code>, and in the <strong>Replace</strong> window, paste in this expression: <code>&lt;sp&gt;\1&lt;/sp&gt;\2</code>. Then, answer the following questions in your markdown or text file:</p>
         <ol>
            <li>Experiment with the <strong><q>Dot matches all</q></strong> setting: Inspect the results when Dot matches all is not checked, and then when it is checked. Then explain here, should you turn on <q>Dot matches all</q>, or not? Explain why or why not. (4 points)</li>

@@ -19,7 +19,7 @@
       <h1><span class="banner">XQuery Exercise 1</span></h1>
       		    		
       			
-      <p>For our first XQuery exercise we’ll be working with a special collection of Shakespeare’s plays coded in TEI that are part of <a href="http://exist.newtfire.org">our eXist XML database</a>. Because the XML elements in this collection are coded in the TEI namespace, we need to begin by declaring that TEI is our default element namespace (otherwise we will be unable to access the element nodes in the collection). Open eXide, and a new XQuery window, and paste in the following line, all the way to the semicolon, to establish that we are working in the TEI namespace:</p>
+      <p>For our first XQuery exercise we’ll be working in <a href="http://exist.newtfire.org/exist/apps/eXide/index.html">our eXist XML database</a>, where you'll log in with your username and password provided in class announcements. In our eXist-dB, we will access a special collection of Shakespeare’s plays coded in TEI. Because the XML elements in this collection are coded in the TEI namespace, we need to begin by declaring that TEI is our default element namespace (otherwise we will be unable to access the element nodes in the collection). Open eXide, and a new XQuery window, and paste in the following line, all the way to the semicolon, to establish that we are working in the TEI namespace:</p>
          <pre>declare default element namespace "http://www.tei-c.org/ns/1.0";</pre>
          <p>You can then access this collection:</p> <pre>collection('/db/apps/shakespeare/data/')</pre>
     			

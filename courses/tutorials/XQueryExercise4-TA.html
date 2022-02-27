@@ -17,12 +17,11 @@
       	
       		
       <h1><span class="banner">XQuery Exercise 4 (TA)</span></h1>
-      <p>Let’s continue working with our Disney Songs project team’s collection of XML files that we used in <a href="../tutorials/XQueryExercise3-TA.html">XQuery Exercise 3</a>. Our collection represents a work in progress by the team as of 5 March 2021, and contains 17 XML files. This time, we encourage you to experiment with installing eXist-dB locally on your computer (following instructions). Copy your queries into a text or markdown file in response to this exercise so you can submit them on Canvas. </p>
+       <p>Let’s continue working with our Disney Songs project team’s collection of XML files <a href="http://exist.newtfire.org/exist/apps/eXide/index.html">in our newtfire eXist-dB </a>that we explored in <a href="../tutorials/XQueryExercise3-TA.html">XQuery Exercise 3</a>. Our collection represents a work in progress by the team as of 5 March 2021, and contains 17 XML files. This time, we encourage you to experiment with installing eXist-dB locally on your computer (following instructions). Copy your queries into a text or markdown file in response to this exercise so you can submit them on Canvas. </p>
       
       <p>(If you need to work with this on your local computer and prefer to use oXygen, the collection is stored in our textAnalysis-Hub at Class-Examples >> XQuery >> disneySongs. Please copy the directory to your own space (such as your own GitHub repo), and write your queries over it from oXygen.) </p>
       
-      <p>You can access our newtFire eXist-dB eXide from <a href="http://exist.newtfire.org">http://exist.newtfire.org</a>. (Please alert Dr. B on Slack if you have trouble opening eXide or accessing the database.)  </p>
-      <p>On newtFire’s eXist (and probably on your local eXist, where you should upload the directory directly inside <code>/db/</code>), the Disney Songs collection is stored in this filepath <code>'/db/disneySongs/'</code>, so we can access it with:</p>
+      <p>On newtFire’s eXist, the Disney Songs collection is stored in this filepath <code>'/db/disneySongs/'</code>, so we can access it with:</p>
       <pre>collection('/db/disneySongs/')</pre>
       
      <p>Just as a reminder of the XML structure for this project, here is a short sample file: </p>
@@ -60,7 +59,7 @@
        <ul>
           <li>How we set the basic HTML structure and one table element to surround the XQuery FLWOR. We also put a single table row (<code>&lt;tr&gt;</code>) with special table heading elements (<code>&lt;th&gt;</code>) to sit at the top of the table,</li>
            <li>How we positioned our FLWOR expression inside a set of curly braces, one just after the top header row of the table, and the other after the FLWOR’s return statement. </li>
-           <li>How the FLWOR is designed to return one whole <code>&lt;tr&gt;</code> element for each turn of its for loop. Inside that <code>&lt;tr&gt;</code>, we use HTML table data elements (<code>&lt;td&gt;</code>) to return the value of the XQuery variables from the for loop, a composer name and the titles associated with that composer. This code is saved in <a href="http://exist.newtfire.org">our newtfire eXist-dB</a>  and you can find and run it (using <q>Eval</q>) in <strong>db/2021-ClassExamples/</strong> or just <a href="http://exist.newtfire.org/exist/rest/db/2021-ClassExamples/Disney-composers-songs.xql">view its results as HTML code</a>.</li>
+           <li>How the FLWOR is designed to return one whole <code>&lt;tr&gt;</code> element for each turn of its for loop. Inside that <code>&lt;tr&gt;</code>, we use HTML table data elements (<code>&lt;td&gt;</code>) to return the value of the XQuery variables from the for loop, a composer name and the titles associated with that composer. This code is saved in our newtfire eXist-dB, and you can find and run it (using <q>Eval</q>) in <strong>db/2021-ClassExamples/</strong> or just <a href="http://exist.newtfire.org/exist/rest/db/2021-ClassExamples/Disney-composers-songs.xql">view its results as HTML code</a>.</li>
            <li>Here is <a href="https://www.w3schools.com/html/html_tables.asp">a simple, visual w3schools tutorial on HTML tables</a> to get a sense of how these are put together.</li>
        </ul>
       <pre>

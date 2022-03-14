@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <song name="The Roar of the Spark">
+        <metadata>
+            <sname>The Roar of the Spark</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+        <lyrics>
+            <verse n="1">
+                <line n="1">Through the darkest sky</line>
+                <line n="2">Groping for the light,</line>
+                <line n="3">like crying for the moon</line>
+                <line n="4"><i story="ky">Never-ending black</i></line>
+                <line n="5">Forgot what I want</line>
+                <line n="6">Never felt that hard to me</line>
+            </verse>
+            <prechorus n="1">
+                <line n="1">That's right, go forth</line>
+                <line n="2">Don't look back</line>
+                <line n="3"><i story="ky">I can believe in the path I'm on</i></line>
+                <line n="4">Faith, Pride!</line>
+                <line n="5">So what do I have to fear?</line>
+            </prechorus>
+            <chorus n="1">
+                <line n="1">Under the sacred briars</line>
+                <line n="2">Never stop, just go</line>
+                <line n="3">I don't care how many more scars I get</line>
+                <line n="4">Bearing the pale fire</line>
+                <line n="5">I'm going as far as I can</line>
+                <line n="6"><i story="ky">I hope my path will be,</i></line>
+                <line n="7"><i story="ky">a guide of light for someone to follow</i></line>
+            </chorus>
+            <oneoff n="1"><line n="1">The roar of the spark</line></oneoff>
+            <verse n="2">
+                <line n="1">The dawn that burns my eyes</line>
+                <line n="2">What a strange scent</line>
+                <line n="3">Sound that comes flooding in</line>
+                <line n="4">Never-ending white</line>
+                <line n="5">Forgot what I want</line>
+                <line n="6">Is this Arcadia?</line>
+            </verse>
+            <prechorus n="2">
+                <line n="1"><i story="ky">I don't know what's right for the world</i></line>
+                <line n="2">Oh, I may have lost my way</line>
+                <line n="3">But there's no reason to doubt it now</line>
+                <line n="4">So what do I have to fear</line>
+            </prechorus>
+            <chorus n="2">
+                <line n="1">Under the sacred briars</line>
+                <line n="2">Never stop, just go</line>
+                <line n="3">I don't care how many more scars I get</line>
+                <line n="4">Bearing the pale fire</line>
+                <line n="5">I'm going as far as I can</line>
+                <line n="6">I hope my path will be,</line>
+                <line n="7">a guide of light for someone to follow</line>
+            </chorus>
+            <oneoff n="2"><line n="1">The roar of the spark</line></oneoff>
+            <verse n="3">
+                <line n="1">Dive the deep blue sea,</line>
+                <line n="2">it is hard to breathe</line>
+                <line n="3">The light goes out again</line>
+                <line n="4">Never-ending road</line>
+                <line n="5">A place without color,</line>
+                <line n="6">that's the world we can dye</line>
+            </verse>
+            <prechorus n="3">
+                <line n="1">That's right, go forth</line>
+                <line n="2">Don't look back</line>
+                <line n="3">I can believe in the path I'm on</line>
+                <line n="4">Faith, Pride!</line>
+                <line n="5">So what do I have to fear?</line>
+            </prechorus>
+            <chorus n="3">
+                <line n="1">Under the lonely moon</line>
+                <line n="2">In an influx of words</line>
+                <line n="3">This road shines with my colors</line>
+                <line n="4">Bearing the pale fire</line>
+                <line n="5">I'm going as far as I can</line>
+                <line n="6">To keep the glow alive</line>
+            </chorus>
+            <chorus n="4">
+                <line n="1">Under the sacred briars</line>
+                <line n="2">Never stop, just go</line>
+                <line n="3">I don't care how many more scars I get</line>
+                <line n="4">Bearing the pale fire</line>
+                <line n="5">I'm going as far as I can</line>
+                <line n="6">It will be endless</line>
+                <line n="7">And it's not an <parentheses>(easy journey)</parentheses></line>
+                <line n="8">Hoping to fill the world,</line>
+                <line n="9">with all kinds of light</line>
+            </chorus>
+        </lyrics>        
+    </song>
+</xml>

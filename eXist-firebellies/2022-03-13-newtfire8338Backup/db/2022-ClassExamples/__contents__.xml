@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/2022-ClassExamples" version="1" owner="admin" group="dba" mode="755" created="2022-03-02T17:43:28.976Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="ebb-xqueryFLWOR1.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-03-02T19:18:34.224Z" modified="2022-03-02T19:18:34.224Z" filename="ebb-xqueryFLWOR1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebb-xquery1.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-03-02T17:43:55.342Z" modified="2022-03-04T18:03:06.885Z" filename="ebb-xquery1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebb-xqueryFLWOR2.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-03-04T18:03:41.341Z" modified="2022-03-04T19:15:36.952Z" filename="ebb-xqueryFLWOR2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/templates" version="1" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.456Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="documents.xml" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.467Z" modified="2021-12-30T05:04:53.467Z" filename="documents.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="snippets.xml" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.47Z" modified="2021-12-30T05:04:53.47Z" filename="snippets.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xml.snippets" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.457Z" modified="2021-12-30T05:04:53.457Z" filename="xml.snippets" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="namespaces.json" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.463Z" modified="2021-12-30T05:04:53.463Z" filename="namespaces.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="css.snippets" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.465Z" modified="2021-12-30T05:04:53.465Z" filename="css.snippets" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="html.snippets" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.473Z" modified="2021-12-30T05:04:53.473Z" filename="html.snippets" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="javascript.snippets" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.476Z" modified="2021-12-30T05:04:53.476Z" filename="javascript.snippets" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery.snippets" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.477Z" modified="2021-12-30T05:04:53.477Z" filename="xquery.snippets" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

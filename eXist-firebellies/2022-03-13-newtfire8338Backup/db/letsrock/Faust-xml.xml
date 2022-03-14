@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <song name="Alone Infection">
+        <metadata>
+            <sname>Alone Infection</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+        <lyrics>
+            <oneoff n="1">
+                <line n="1"><i story="faust">Alone Infection</i></line>
+            </oneoff>
+            
+            <verse n="1">
+                <line n="1">VOID!</line>
+                <line n="2">Shit attacking from the other side</line>
+                <line n="3">YUCK! Alone Infection</line>
+                <line n="4">Chaos! ABCDEF GO</line>
+                <line n="5">Checkmate <parentheses>(checkmate)</parentheses> informed consent
+                    <parentheses>(oh yeah)</parentheses></line>
+                <line n="6">It increases words</line>
+                <line n="7">Relation <parentheses>(relation)</parentheses> duration <parentheses>(oh
+                    yeah)</parentheses></line>
+                <line n="8">Build and realize</line>
+            </verse>
+            
+            <verse n="2">
+                <line n="1"><i story="faust">Messiah</i></line>
+                <line n="2"><i story="faust">Will not come</i></line>
+                <line n="3">Parallax! Paradox!</line>
+                <line n="4">Paradigm will attack</line>
+            </verse>
+            
+            <chorus n="1">
+                <line n="1">We've got only one sky</line>
+                <line n="2">Blue, red, and black paranoia</line>
+                <line n="3">What is it like to you?</line>
+                <line n="4">No one can see the colors but you</line>
+            </chorus>
+            
+            <oneoff n="2">
+                <line n="1">Alone Infection</line>
+            </oneoff>
+            
+            <verse n="3">
+                <line n="1">VOID!</line>
+                <line n="2">Shit attacking from the other side</line>
+                <line n="3">YUCK! Alone Infection</line>
+                <line n="4">Chaos! ABCDEF GO!</line>
+                <line n="5">Light and <parentheses>(darkness)</parentheses> invisible <parentheses>(oh
+                    yeah)</parentheses></line>
+                <line n="6">Your soul dissipates</line>
+                <line n="7">Destruction <parentheses>(destruction)</parentheses> reduction
+                    <parentheses>(oh yeah)</parentheses></line>
+                <line n="8">Tower of Babel</line>
+            </verse>
+            
+            <verse n="4">
+                <line n="1">Messiah</line>
+                <line n="2">Will not come</line>
+                <line n="3">Parallax! Paradox!</line>
+                <line n="4">Paradigm will attack</line>
+                <line n="5">We've got only one sky</line>
+                <line n="6">Blue, red, and black paranoia</line>
+                <line n="7">What is it like to you?</line>
+                <line n="8">No one can see the colors but you</line>
+            </verse>
+            
+            <verse n="5">
+                <line n="1"><i story="faust">I had to run away from here</i></line>
+                <line n="2"><i story="faust">Before the storm hit</i></line>
+                <line n="3">We see eye to eye</line>
+                <line n="4">We see eye to eye</line>
+                <line n="5">I told me without you</line>
+                <line n="6">We've got only one sky</line>
+                <line n="7">Blue, red, and black paranoia</line>
+                <line n="8">What is it like to you?</line>
+                <line n="9">No one can see the colors but you</line>
+            </verse>
+            
+            <chorus n="2">
+                <line n="1">We've got only one sky</line>
+                <line n="2">Joy, grief, fun paranoia</line>
+                <line n="3">What is it like to you?</line>
+                <line n="4">No one can see the colors</line>
+                <line n="5">the colors but you</line>
+            </chorus>
+        </lyrics>
+  
+        
+
+    </song>
+</xml>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/alnopa/XSLT/Homework_2" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:48.197Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="argento_03-27_XSLT-02.xsl" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:48.198Z" modified="2020-08-07T21:20:48.198Z" filename="argento_03-27_XSLT-02.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="argento_03-29_XSLT-02_html.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:48.437Z" modified="2020-08-07T21:20:48.437Z" filename="argento_03-29_XSLT-02_html.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="argento_03-29_XSLT-02_css.css" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:48.669Z" modified="2020-08-07T21:20:48.669Z" filename="argento_03-29_XSLT-02_css.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

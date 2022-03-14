@@ -1,0 +1,33 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/amp293" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:16:24.376Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="peddicord_xquery3.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:24.46Z" modified="2021-12-30T05:16:24.46Z" filename="peddicord_xquery3.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pokemon_example.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:25.048Z" modified="2021-12-30T05:16:25.048Z" filename="pokemon_example.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="speakerNetwork_new.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:24.377Z" modified="2021-12-30T05:16:24.377Z" filename="speakerNetwork_new.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="peddicord_qgis1.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:24.52Z" modified="2021-12-30T05:16:24.52Z" filename="peddicord_qgis1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="peddicord_qgis1.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:24.596Z" modified="2021-12-30T05:16:24.596Z" filename="peddicord_qgis1.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="peddicord_xquery3.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:24.659Z" modified="2021-12-30T05:16:24.659Z" filename="peddicord_xquery3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="speakerNetwork.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:24.734Z" modified="2021-12-30T05:16:24.734Z" filename="speakerNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemon_example.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:24.81Z" modified="2021-12-30T05:16:24.81Z" filename="pokemon_example.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketLaunch-classExample.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:24.97Z" modified="2021-12-30T05:16:24.97Z" filename="rocketLaunch-classExample.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="titans_speakerNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:25.114Z" modified="2021-12-30T05:16:25.114Z" filename="titans_speakerNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

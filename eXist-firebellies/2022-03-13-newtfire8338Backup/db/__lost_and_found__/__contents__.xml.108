@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tjs6551" version="1" owner="tjs6551" group="dba" mode="775" created="2021-03-08T20:28:44.938Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="XQuery_Test_Part2.xql" skip="no" owner="tjs6551" group="tjs6551" mode="755" created="2021-04-06T19:49:27.389Z" modified="2021-04-06T20:37:43.735Z" filename="XQuery_Test_Part2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuery_Test_Part1.xql" skip="no" owner="tjs6551" group="tjs6551" mode="755" created="2021-04-06T19:48:55.737Z" modified="2021-04-06T20:37:45.145Z" filename="XQuery_Test_Part1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xquery_Exercise2.xql" skip="no" owner="tjs6551" group="tjs6551" mode="755" created="2021-03-23T23:17:58.188Z" modified="2021-03-26T01:16:43.024Z" filename="Xquery_Exercise2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xquery_Excercise3.xql" skip="no" owner="tjs6551" group="tjs6551" mode="755" created="2021-03-26T01:31:34.988Z" modified="2021-03-26T01:31:36.64Z" filename="Xquery_Excercise3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xquery_Exercise4.xql" skip="no" owner="tjs6551" group="tjs6551" mode="755" created="2021-03-26T02:11:05.839Z" modified="2021-03-26T21:32:18.063Z" filename="Xquery_Exercise4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg_exercise2.xql" skip="no" owner="tjs6551" group="tjs6551" mode="755" created="2021-04-02T19:52:03.044Z" modified="2021-04-03T01:55:56.478Z" filename="svg_exercise2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg_exercise3.xql" skip="no" owner="tjs6551" group="tjs6551" mode="755" created="2021-04-12T22:35:30.912Z" modified="2021-04-12T22:35:30.912Z" filename="svg_exercise3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

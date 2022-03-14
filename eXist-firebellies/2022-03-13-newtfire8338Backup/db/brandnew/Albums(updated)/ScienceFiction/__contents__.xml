@@ -1,0 +1,39 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/brandnew/Albums(updated)/ScienceFiction" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:23:44.803Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="desert.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:44.804Z" modified="2021-12-30T05:23:44.804Z" filename="desert.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="in-the-water.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:44.869Z" modified="2021-12-30T05:23:44.869Z" filename="in-the-water.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="could-never-be-heaven.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:44.933Z" modified="2021-12-30T05:23:44.933Z" filename="could-never-be-heaven.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="waste.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:44.995Z" modified="2021-12-30T05:23:44.995Z" filename="waste.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lit-me-up.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:45.062Z" modified="2021-12-30T05:23:45.062Z" filename="lit-me-up.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="no-control.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:45.126Z" modified="2021-12-30T05:23:45.126Z" filename="no-control.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="batter-up.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:45.191Z" modified="2021-12-30T05:23:45.19Z" filename="batter-up.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cant-get-it-out.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:45.316Z" modified="2021-12-30T05:23:45.316Z" filename="cant-get-it-out.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="451.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:45.38Z" modified="2021-12-30T05:23:45.38Z" filename="451.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="137.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:45.445Z" modified="2021-12-30T05:23:45.445Z" filename="137.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="same-logic-teeth.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:45.51Z" modified="2021-12-30T05:23:45.51Z" filename="same-logic-teeth.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="out-of-mana.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:45.578Z" modified="2021-12-30T05:23:45.578Z" filename="out-of-mana.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

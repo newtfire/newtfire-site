@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/sxa585/xquery" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:28:02.132Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Xquery2" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:02.133Z" modified="2021-12-30T05:28:02.133Z" filename="Xquery2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xquery4" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:02.275Z" modified="2021-12-30T05:28:02.275Z" filename="Xquery4" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Assignemt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:02.346Z" modified="2021-12-30T05:28:02.346Z" filename="Assignemt" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

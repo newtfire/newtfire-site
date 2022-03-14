@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/bloodborne" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:19:41.973Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="mainXML.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:42.468Z" modified="2020-08-07T21:19:42.468Z" filename="mainXML.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:42.032Z" modified="2020-08-07T21:19:42.032Z" filename="network.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bloodNetTest.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:42.111Z" modified="2020-08-07T21:19:42.111Z" filename="bloodNetTest.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="termSearchNetwork" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:42.177Z" modified="2020-08-07T21:19:42.177Z" filename="termSearchNetwork" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bloodNet2.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:45.669Z" modified="2020-08-07T21:19:45.669Z" filename="bloodNet2.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mainXQuery.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:45.977Z" modified="2020-08-07T21:19:45.977Z" filename="mainXQuery.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bloodNet.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:47.399Z" modified="2020-08-07T21:19:47.399Z" filename="bloodNet.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,48 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rickandmorty/projectFiles" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:27:34.535Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="autoEroticAssimilation_s02_e03.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:34.636Z" modified="2021-12-30T05:27:34.636Z" filename="autoEroticAssimilation_s02_e03.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="anatomyPark_s01_e03.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:34.757Z" modified="2021-12-30T05:27:34.757Z" filename="anatomyPark_s01_e03.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="getSchwifty_s02_e05.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:34.849Z" modified="2021-12-30T05:27:34.849Z" filename="getSchwifty_s02_e05.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rickPotion_s01_e06.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:34.923Z" modified="2021-12-30T05:27:34.923Z" filename="rickPotion_s01_e06.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="somethingRickedThisWayComes_s01_e09.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:35Z" modified="2021-12-30T05:27:35Z" filename="somethingRickedThisWayComes_s01_e09.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ricksyBusiness_s01_e11.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:35.072Z" modified="2021-12-30T05:27:35.072Z" filename="ricksyBusiness_s01_e11.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aRickleInTime_s02_e01.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:35.145Z" modified="2021-12-30T05:27:35.145Z" filename="aRickleInTime_s02_e01.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="raisingGazorpazorp_s01_e07.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:35.285Z" modified="2021-12-30T05:27:35.285Z" filename="raisingGazorpazorp_s01_e07.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mNightShaym-Aliens_s01_e04.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:35.372Z" modified="2021-12-30T05:27:35.372Z" filename="mNightShaym-Aliens_s01_e04.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="totalRickall_s02_e04.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:35.45Z" modified="2021-12-30T05:27:35.45Z" filename="totalRickall_s02_e04.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mortynightRun_s02_e02.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:35.533Z" modified="2021-12-30T05:27:35.533Z" filename="mortynightRun_s02_e02.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rixtyMinutes_s01_e08.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:35.612Z" modified="2021-12-30T05:27:35.612Z" filename="rixtyMinutes_s01_e08.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="closeRick-countersOfTheRickKind_s01_e10.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:35.693Z" modified="2021-12-30T05:27:35.693Z" filename="closeRick-countersOfTheRickKind_s01_e10.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="meeseeksAndDestroy_s01_e05.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:35.777Z" modified="2021-12-30T05:27:35.777Z" filename="meeseeksAndDestroy_s01_e05.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lawnmowerDog_s01_e02.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:34.536Z" modified="2021-12-30T05:27:34.536Z" filename="lawnmowerDog_s01_e02.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

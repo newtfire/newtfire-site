@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/bwm5473" version="1" owner="bwm5473" group="dba" mode="7775" created="2021-10-08T13:10:08.287Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="sitesTemplesTable.html" skip="no" owner="bwm5473" group="dba" mode="644" created="2021-10-15T19:07:55.589Z" modified="2021-10-15T19:24:27.166Z" filename="sitesTemplesTable.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="siteIndex" skip="no" owner="bwm5473" group="dba" mode="644" created="2021-11-17T19:38:36.934Z" modified="2021-11-17T19:38:36.934Z" filename="siteIndex" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bwm5473_xquery" skip="no" owner="bwm5473" group="dba" mode="755" created="2021-10-11T18:50:06.033Z" modified="2021-10-11T19:20:31.322Z" filename="bwm5473_xquery" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="meyer_xquery_04" skip="no" owner="bwm5473" group="dba" mode="755" created="2021-10-13T13:52:04.475Z" modified="2021-11-15T19:31:40.119Z" filename="meyer_xquery_04" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="meyer_03" skip="no" owner="bwm5473" group="dba" mode="755" created="2021-12-05T13:35:24.466Z" modified="2021-12-05T13:35:32.876Z" filename="meyer_03" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="meyer_03.xql" skip="no" owner="bwm5473" group="dba" mode="755" created="2021-12-05T13:40:53.584Z" modified="2021-12-05T13:40:53.584Z" filename="meyer_03.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="meyer_svg_02.xql" skip="no" owner="bwm5473" group="dba" mode="755" created="2021-11-03T18:58:24.461Z" modified="2021-11-11T19:03:47.454Z" filename="meyer_svg_02.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="meyer_svg_03.xql" skip="no" owner="bwm5473" group="dba" mode="755" created="2021-11-08T17:09:01.17Z" modified="2021-11-11T19:05:28.897Z" filename="meyer_svg_03.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="meyer_svg_02" skip="no" owner="bwm5473" group="dba" mode="755" created="2021-11-03T18:38:11.121Z" modified="2021-11-03T18:57:08.819Z" filename="meyer_svg_02" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,15 @@
+xquery version "3.1";
+let $btrees := collection('/db/btrees/')/*
+let $entries := $btrees//entry
+for $e in $entries
+let $cname := $e/cname ! data() 
+let $sname := $e/sname ! normalize-space()
+let $desc := $e/desc ! normalize-space()
+let $lat := $e/lat ! normalize-space()
+let $long := $e/long ! normalize-space()
+let $elev:= $e/elev ! normalize-space()
+for $el in $elev
+where data($e//elev) >= 290
+for $treenames in $e
+where data($e//elev) >= 290
+return concat($cname, ' has an elevation equal to or above 290. The current elevation is: ', $elev)

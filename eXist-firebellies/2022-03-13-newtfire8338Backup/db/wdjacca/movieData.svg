@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="1000">
+    <g transform="translate(25, 200)">
+        <g>
+            <circle cx="150" cy="150" r="40" stroke="black" fill="#cfbae1"/>
+            <text x="148" y="155" fill="black">8</text>
+            <text x="150" y="250" style="writing-mode: tb; glyph-orientation-vertical:0" fill="blue">Aladdin (Live-Action)</text>
+            <line x1="150" y1="0" x2="150" y2="40" stroke="grey" stroke-width="3"/>
+        </g>
+        <g>
+            <circle cx="300" cy="150" r="25" stroke="black" fill="#cfbae1"/>
+            <text x="298" y="155" fill="black">5</text>
+            <text x="300" y="250" style="writing-mode: tb; glyph-orientation-vertical:0" fill="blue">Aladdin: The Return of Jafar</text>
+            <line x1="300" y1="0" x2="300" y2="70" stroke="grey" stroke-width="6"/>
+        </g>
+        <g>
+            <circle cx="450" cy="150" r="25" stroke="black" fill="#cfbae1"/>
+            <text x="448" y="155" fill="black">5</text>
+            <text x="450" y="250" style="writing-mode: tb; glyph-orientation-vertical:0" fill="blue">Aladdin and the King of Thieves</text>
+            <line x1="450" y1="0" x2="450" y2="30" stroke="grey" stroke-width="6"/>
+        </g>
+        <g>
+            <circle cx="600" cy="150" r="35" stroke="black" fill="#cfbae1"/>
+            <text x="598" y="155" fill="black">7</text>
+            <text x="600" y="250" style="writing-mode: tb; glyph-orientation-vertical:0" fill="blue">Aladdin</text>
+            <line x1="600" y1="0" x2="600" y2="30" stroke="grey" stroke-width="5"/>
+        </g>
+    </g>
+</svg>

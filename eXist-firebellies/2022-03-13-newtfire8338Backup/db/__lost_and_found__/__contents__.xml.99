@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/agf33" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:20:53.756Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="ClassExTimeLineP1.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53.939Z" modified="2020-08-07T21:20:53.939Z" filename="ClassExTimeLineP1.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="agf33Sample.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53.758Z" modified="2020-08-07T21:20:53.758Z" filename="agf33Sample.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Fell_SVG_Ex_2" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53.817Z" modified="2020-08-07T21:20:53.817Z" filename="Fell_SVG_Ex_2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Fell_SVG_Ex_3" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:53.879Z" modified="2020-08-07T21:20:53.879Z" filename="Fell_SVG_Ex_3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuery2.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:54.053Z" modified="2020-08-07T21:20:54.053Z" filename="XQuery2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuery1.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:54.119Z" modified="2020-08-07T21:20:54.119Z" filename="XQuery1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Fell_SVG_Ex3" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:54.186Z" modified="2020-08-07T21:20:54.186Z" filename="Fell_SVG_Ex3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Fell_SVG_Ex2" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:54.243Z" modified="2020-08-07T21:20:54.243Z" filename="Fell_SVG_Ex2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Placeography.kml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:54.304Z" modified="2020-08-07T21:20:54.304Z" filename="Placeography.kml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Fell_Schism1.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:20:54.363Z" modified="2020-08-07T21:20:54.363Z" filename="Fell_Schism1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

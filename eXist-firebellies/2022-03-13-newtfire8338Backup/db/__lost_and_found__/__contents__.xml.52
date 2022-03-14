@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rickandmorty" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:58.439Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="SVGtimelinescripts.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:01.939Z" modified="2020-08-07T21:13:01.939Z" filename="SVGtimelinescripts.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="scriptsSVGtimeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:02.029Z" modified="2020-08-07T21:13:02.029Z" filename="scriptsSVGtimeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SVGtimeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:11.973Z" modified="2020-08-07T21:13:11.973Z" filename="SVGtimeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rNmOutput1.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:58.44Z" modified="2020-08-07T21:12:58.44Z" filename="rNmOutput1.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_net_original.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:58.504Z" modified="2020-08-07T21:12:58.504Z" filename="lint_net_original.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_netxql.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:58.576Z" modified="2020-08-07T21:12:58.576Z" filename="lint_netxql.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="scriptsSVGtimeline.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:01.767Z" modified="2020-08-07T21:13:01.767Z" filename="scriptsSVGtimeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGtimelinescripts.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:01.845Z" modified="2020-08-07T21:13:01.845Z" filename="SVGtimelinescripts.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rNmOutput.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:03.604Z" modified="2020-08-07T21:13:03.604Z" filename="rNmOutput.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGtimeline.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:04.846Z" modified="2020-08-07T21:13:04.846Z" filename="SVGtimeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="finalScripts" filename="finalScripts"/>
+    <subcollection name="projectFiles" filename="projectFiles"/>
+    <subcollection name="shortsFiles" filename="shortsFiles"/>
+    <subcollection name="drlScripts" filename="drlScripts"/>
+</collection>

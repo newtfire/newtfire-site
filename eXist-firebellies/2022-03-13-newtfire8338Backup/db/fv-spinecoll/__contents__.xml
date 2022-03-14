@@ -1,0 +1,33 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/fv-spinecoll" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:44.595Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="spine_C09.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:44.596Z" modified="2021-12-30T05:24:44.596Z" filename="spine_C09.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="spine_C08.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:45.152Z" modified="2021-12-30T05:24:45.152Z" filename="spine_C08.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="spine_C01.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:45.476Z" modified="2021-12-30T05:24:45.476Z" filename="spine_C01.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="spine_C03.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:45.546Z" modified="2021-12-30T05:24:45.546Z" filename="spine_C03.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="spine_C02.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:45.627Z" modified="2021-12-30T05:24:45.627Z" filename="spine_C02.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="spine_C06.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:45.709Z" modified="2021-12-30T05:24:45.709Z" filename="spine_C06.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="spine_C07.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:46.076Z" modified="2021-12-30T05:24:46.076Z" filename="spine_C07.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="spine_C05.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:46.346Z" modified="2021-12-30T05:24:46.346Z" filename="spine_C05.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="spine_C04.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:46.422Z" modified="2021-12-30T05:24:46.422Z" filename="spine_C04.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="spine_C10.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:46.793Z" modified="2021-12-30T05:24:46.793Z" filename="spine_C10.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

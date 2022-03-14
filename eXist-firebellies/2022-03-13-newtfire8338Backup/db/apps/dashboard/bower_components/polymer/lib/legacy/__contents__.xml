@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/bower_components/polymer/lib/legacy" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:50.795Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="class.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:50.798Z" modified="2021-12-30T05:04:50.798Z" filename="class.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="polymer-fn.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:50.802Z" modified="2021-12-30T05:04:50.802Z" filename="polymer-fn.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mutable-data-behavior.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:50.806Z" modified="2021-12-30T05:04:50.806Z" filename="mutable-data-behavior.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="legacy-element-mixin.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:50.81Z" modified="2021-12-30T05:04:50.81Z" filename="legacy-element-mixin.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="templatizer-behavior.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:50.814Z" modified="2021-12-30T05:04:50.814Z" filename="templatizer-behavior.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="polymer.dom.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:50.817Z" modified="2021-12-30T05:04:50.817Z" filename="polymer.dom.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

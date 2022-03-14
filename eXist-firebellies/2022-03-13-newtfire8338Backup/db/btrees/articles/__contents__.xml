@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/btrees/articles" version="1" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:56.568Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="article-2003-02-28" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:56.569Z" modified="2021-12-30T05:23:56.569Z" filename="article-2003-02-28" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="article-2004-10-15" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:56.632Z" modified="2021-12-30T05:23:56.632Z" filename="article-2004-10-15" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="article-2002-10-11" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:56.775Z" modified="2021-12-30T05:23:56.775Z" filename="article-2002-10-11" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="article-2005-03-25" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:56.854Z" modified="2021-12-30T05:23:56.854Z" filename="article-2005-03-25" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="article-2003-04-18" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:56.941Z" modified="2021-12-30T05:23:56.941Z" filename="article-2003-04-18" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="article-2004-01-03" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:57.034Z" modified="2021-12-30T05:23:57.034Z" filename="article-2004-01-03" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="article-2007-03-30" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:57.141Z" modified="2021-12-30T05:23:57.141Z" filename="article-2007-03-30" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

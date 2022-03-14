@@ -1,0 +1,54 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/dickinson/f6" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:13.509Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="fs608.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:13.51Z" modified="2021-12-30T05:24:13.51Z" filename="fs608.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs609.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:13.573Z" modified="2021-12-30T05:24:13.573Z" filename="fs609.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs616.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:13.696Z" modified="2021-12-30T05:24:13.696Z" filename="fs616.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs602.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:13.76Z" modified="2021-12-30T05:24:13.76Z" filename="fs602.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs603.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:13.825Z" modified="2021-12-30T05:24:13.825Z" filename="fs603.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs617.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:13.89Z" modified="2021-12-30T05:24:13.89Z" filename="fs617.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs601.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:13.954Z" modified="2021-12-30T05:24:13.954Z" filename="fs601.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs615.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:14.019Z" modified="2021-12-30T05:24:14.019Z" filename="fs615.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs614.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:14.083Z" modified="2021-12-30T05:24:14.083Z" filename="fs614.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs604.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:14.144Z" modified="2021-12-30T05:24:14.144Z" filename="fs604.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs610.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:14.208Z" modified="2021-12-30T05:24:14.208Z" filename="fs610.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs611.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:14.271Z" modified="2021-12-30T05:24:14.271Z" filename="fs611.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs605.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:14.335Z" modified="2021-12-30T05:24:14.335Z" filename="fs605.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs613.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:14.401Z" modified="2021-12-30T05:24:14.401Z" filename="fs613.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs607.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:14.469Z" modified="2021-12-30T05:24:14.469Z" filename="fs607.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs606.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:14.533Z" modified="2021-12-30T05:24:14.533Z" filename="fs606.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fs612.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:14.595Z" modified="2021-12-30T05:24:14.595Z" filename="fs612.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

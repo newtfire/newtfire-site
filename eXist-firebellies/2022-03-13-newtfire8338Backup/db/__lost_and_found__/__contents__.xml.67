@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/shd79" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:44.752Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="dunn_bbTransforms.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45.857Z" modified="2020-08-07T21:12:45.857Z" filename="dunn_bbTransforms.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dunn_xquery-02.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45.802Z" modified="2020-08-07T21:12:45.802Z" filename="dunn_xquery-02.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pokemon_example.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45.54Z" modified="2020-08-07T21:12:45.54Z" filename="pokemon_example.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dunn_rocketExample.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45.4Z" modified="2020-08-07T21:12:45.4Z" filename="dunn_rocketExample.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dunn_rocketExample.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45.733Z" modified="2020-08-07T21:12:45.733Z" filename="dunn_rocketExample.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="titans_speeches.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45.671Z" modified="2020-08-07T21:12:45.671Z" filename="titans_speeches.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dunn_3-02_xquery-02.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45.598Z" modified="2020-08-07T21:12:45.598Z" filename="dunn_3-02_xquery-02.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="speechCounts.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45.465Z" modified="2020-08-07T21:12:45.465Z" filename="speechCounts.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dunn_qgis-01.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45.232Z" modified="2020-08-07T21:12:45.232Z" filename="dunn_qgis-01.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dunn_bbTransforms.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45.161Z" modified="2020-08-07T21:12:45.161Z" filename="dunn_bbTransforms.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="titan_speeches2.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45.096Z" modified="2020-08-07T21:12:45.096Z" filename="titan_speeches2.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery-networkAnalysis-01" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:45.034Z" modified="2020-08-07T21:12:45.034Z" filename="xquery-networkAnalysis-01" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="speechCounts2.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:44.966Z" modified="2020-08-07T21:12:44.966Z" filename="speechCounts2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dunn_qgis-01.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:44.755Z" modified="2020-08-07T21:12:44.755Z" filename="dunn_qgis-01.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

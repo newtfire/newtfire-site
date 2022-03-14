@@ -1,0 +1,204 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/mqb5995" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:26:17.57Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="xqueryTestOutput.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:19.028Z" modified="2021-12-30T05:26:19.028Z" filename="xqueryTestOutput.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bluesSongInfo.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:19.334Z" modified="2021-12-30T05:26:19.334Z" filename="bluesSongInfo.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="assassinsSVG.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:19.42Z" modified="2021-12-30T05:26:19.42Z" filename="assassinsSVG.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PVcharsTable.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:19.613Z" modified="2021-12-30T05:26:19.613Z" filename="PVcharsTable.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bluesArtists.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:20.487Z" modified="2021-12-30T05:26:20.487Z" filename="bluesArtists.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="assassinsBarGraph.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:24.43Z" modified="2021-12-30T05:26:24.43Z" filename="assassinsBarGraph.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="assassinsSVG.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:24.628Z" modified="2021-12-30T05:26:24.628Z" filename="assassinsSVG.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="drBsArtistGraph.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:24.849Z" modified="2021-12-30T05:26:24.849Z" filename="drBsArtistGraph.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="blues_xquery_5.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:17.571Z" modified="2021-12-30T05:26:17.571Z" filename="blues_xquery_5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="wholeCollectionLyrics.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:18.138Z" modified="2021-12-30T05:26:18.138Z" filename="wholeCollectionLyrics.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="twentiesLYRICS_NLP.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:18.205Z" modified="2021-12-30T05:26:18.205Z" filename="twentiesLYRICS_NLP.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="thirtiesLyricsNLP.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:18.301Z" modified="2021-12-30T05:26:18.301Z" filename="thirtiesLyricsNLP.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nodeLabel_BluesNetwork-ebb.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:18.437Z" modified="2021-12-30T05:26:18.437Z" filename="nodeLabel_BluesNetwork-ebb.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="wholeCollectionLyrics.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:18.506Z" modified="2021-12-30T05:26:18.506Z" filename="wholeCollectionLyrics.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="blues_analyzestring_dates.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:18.575Z" modified="2021-12-30T05:26:18.575Z" filename="blues_analyzestring_dates.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DisneyNetwork.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:18.649Z" modified="2021-12-30T05:26:18.649Z" filename="DisneyNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ninetiesLyricsNLP.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:18.795Z" modified="2021-12-30T05:26:18.795Z" filename="ninetiesLyricsNLP.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="eightiesLyricsNLP.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:18.962Z" modified="2021-12-30T05:26:18.962Z" filename="eightiesLyricsNLP.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesDecades-Artists.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:19.106Z" modified="2021-12-30T05:26:19.106Z" filename="bluesDecades-Artists.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MudWatersPERFORMlyr.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:19.191Z" modified="2021-12-30T05:26:19.191Z" filename="MudWatersPERFORMlyr.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="twothouLYRICS_NLP" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:19.485Z" modified="2021-12-30T05:26:19.485Z" filename="twothouLYRICS_NLP" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fourtiesLYRICS_NLP" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:19.674Z" modified="2021-12-30T05:26:19.674Z" filename="fourtiesLYRICS_NLP" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sixtiesLYRICS_NLP.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:19.736Z" modified="2021-12-30T05:26:19.736Z" filename="sixtiesLYRICS_NLP.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebb-correctedXQuery3-disneyMaxSongLength.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:19.801Z" modified="2021-12-30T05:26:19.801Z" filename="ebb-correctedXQuery3-disneyMaxSongLength.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="HowlinWolfBluesLyr.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:19.868Z" modified="2021-12-30T05:26:19.868Z" filename="HowlinWolfBluesLyr.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesDecades-Titles.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:19.971Z" modified="2021-12-30T05:26:19.971Z" filename="bluesDecades-Titles.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fiftiesLYRICS_NLP" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:20.039Z" modified="2021-12-30T05:26:20.039Z" filename="fiftiesLYRICS_NLP" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="BluesNetwork.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:20.117Z" modified="2021-12-30T05:26:20.117Z" filename="BluesNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesPerformersLyricsText.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:20.207Z" modified="2021-12-30T05:26:20.207Z" filename="bluesPerformersLyricsText.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="BessieSmithLyr.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:20.339Z" modified="2021-12-30T05:26:20.339Z" filename="BessieSmithLyr.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="twothouLyricsNLP.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:20.577Z" modified="2021-12-30T05:26:20.577Z" filename="twothouLyricsNLP.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="JLHooker_Words.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:20.708Z" modified="2021-12-30T05:26:20.708Z" filename="JLHooker_Words.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery_Test.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:22.114Z" modified="2021-12-30T05:26:22.114Z" filename="xquery_Test.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="JLHookerBluesLyr.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:22.208Z" modified="2021-12-30T05:26:22.208Z" filename="JLHookerBluesLyr.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="twentiesLyricsNLP.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:22.541Z" modified="2021-12-30T05:26:22.541Z" filename="twentiesLyricsNLP.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="new_blues_xquery_5.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:22.61Z" modified="2021-12-30T05:26:22.61Z" filename="new_blues_xquery_5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="JLHooker_Words_ebb.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:22.699Z" modified="2021-12-30T05:26:22.699Z" filename="JLHooker_Words_ebb.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery_ex4.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:22.763Z" modified="2021-12-30T05:26:22.763Z" filename="xquery_ex4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sixtiesLyricsNLP.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:22.878Z" modified="2021-12-30T05:26:22.878Z" filename="sixtiesLyricsNLP.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneyNetworking.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:22.945Z" modified="2021-12-30T05:26:22.945Z" filename="disneyNetworking.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MuddyWatersLyr.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:23.024Z" modified="2021-12-30T05:26:23.024Z" filename="MuddyWatersLyr.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="seventiesLyricsNLP.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:23.122Z" modified="2021-12-30T05:26:23.122Z" filename="seventiesLyricsNLP.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="godStructRefs.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:23.185Z" modified="2021-12-30T05:26:23.185Z" filename="godStructRefs.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="traditionalBluesLyr.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:23.256Z" modified="2021-12-30T05:26:23.256Z" filename="traditionalBluesLyr.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesSongwritersLyricsText.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:23.402Z" modified="2021-12-30T05:26:23.402Z" filename="bluesSongwritersLyricsText.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebb-bluesNetwork.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:23.475Z" modified="2021-12-30T05:26:23.475Z" filename="ebb-bluesNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="eightiesLYRICS_NLP" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:23.549Z" modified="2021-12-30T05:26:23.549Z" filename="eightiesLYRICS_NLP" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="assassinscreedSVG.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:23.615Z" modified="2021-12-30T05:26:23.615Z" filename="assassinscreedSVG.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="blues_HookerLyricsPython.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:23.757Z" modified="2021-12-30T05:26:23.757Z" filename="blues_HookerLyricsPython.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="RobertJohnsonLyr.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:24.232Z" modified="2021-12-30T05:26:24.232Z" filename="RobertJohnsonLyr.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="HowlinWolfPERFORMlyr.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:24.3Z" modified="2021-12-30T05:26:24.3Z" filename="HowlinWolfPERFORMlyr.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ZZTop.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:24.365Z" modified="2021-12-30T05:26:24.365Z" filename="ZZTop.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="BlindLemonLyr.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:24.562Z" modified="2021-12-30T05:26:24.562Z" filename="BlindLemonLyr.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="thirtiesLYRICS_NLP.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:24.701Z" modified="2021-12-30T05:26:24.701Z" filename="thirtiesLYRICS_NLP.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nodeLabel_bluesNetwork.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:24.77Z" modified="2021-12-30T05:26:24.77Z" filename="nodeLabel_bluesNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fourtiesLyricsNLP.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:24.932Z" modified="2021-12-30T05:26:24.932Z" filename="fourtiesLyricsNLP.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="seventiesLYRICS_NLP" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:24.996Z" modified="2021-12-30T05:26:24.996Z" filename="seventiesLYRICS_NLP" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="StevieRVLyr.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:25.07Z" modified="2021-12-30T05:26:25.07Z" filename="StevieRVLyr.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fiftiesLyricsNLP.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:25.158Z" modified="2021-12-30T05:26:25.158Z" filename="fiftiesLyricsNLP.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="assassinsBar.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:25.224Z" modified="2021-12-30T05:26:25.224Z" filename="assassinsBar.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesNetworking.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:25.314Z" modified="2021-12-30T05:26:25.314Z" filename="bluesNetworking.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="BluesNetwork-ebb.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:25.411Z" modified="2021-12-30T05:26:25.411Z" filename="BluesNetwork-ebb.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="JanisJoplinLyr.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:25.482Z" modified="2021-12-30T05:26:25.482Z" filename="JanisJoplinLyr.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ninetiesLYRICS_NLP" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:25.562Z" modified="2021-12-30T05:26:25.562Z" filename="ninetiesLYRICS_NLP" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="artistDecades.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:25.627Z" modified="2021-12-30T05:26:25.627Z" filename="artistDecades.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KebMoLyr.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:25.706Z" modified="2021-12-30T05:26:25.706Z" filename="KebMoLyr.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="performLyr" filename="performLyr"/>
+    <subcollection name="digit400" filename="digit400"/>
+    <subcollection name="MPC-arj" filename="MPC-arj"/>
+</collection>

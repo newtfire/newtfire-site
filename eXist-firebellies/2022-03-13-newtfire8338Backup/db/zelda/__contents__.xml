@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/zelda" version="1" owner="rgg5144" group="grimm" mode="770" created="2021-12-30T05:29:48.59Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="twilight_princess.xml" skip="no" owner="rgg5144" group="grimm" mode="660" created="2021-12-30T05:29:48.591Z" modified="2021-12-30T05:29:48.591Z" filename="twilight_princess.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="four_swords_adventure.xml" skip="no" owner="rgg5144" group="grimm" mode="660" created="2021-12-30T05:29:48.834Z" modified="2021-12-30T05:29:48.834Z" filename="four_swords_adventure.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ocarina-of-time.xml" skip="no" owner="rgg5144" group="grimm" mode="660" created="2021-12-30T05:29:49.198Z" modified="2021-12-30T05:29:49.198Z" filename="ocarina-of-time.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

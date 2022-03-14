@@ -1,0 +1,39 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/resources/images" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:53.98Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="existdb-web.svg" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:53.986Z" modified="2021-12-30T05:04:53.986Z" filename="existdb-web.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="powered-by.svg" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:53.989Z" modified="2021-12-30T05:04:53.989Z" filename="powered-by.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="powered-by-whiteglass.svg" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:54Z" modified="2021-12-30T05:04:54Z" filename="powered-by-whiteglass.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="body-base.gif" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:53.981Z" modified="2021-12-30T05:04:53.981Z" filename="body-base.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="header.gif" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:53.984Z" modified="2021-12-30T05:04:53.984Z" filename="header.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="noise.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:53.987Z" modified="2021-12-30T05:04:53.987Z" filename="noise.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exist_icon_16x16.ico" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:54.01Z" modified="2021-12-30T05:04:54.01Z" filename="exist_icon_16x16.ico" mimetype="image/vnd.microsoft.icon">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bgmenuhi.gif" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:54.013Z" modified="2021-12-30T05:04:54.013Z" filename="bgmenuhi.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="body.gif" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:54.015Z" modified="2021-12-30T05:04:54.015Z" filename="body.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horizontal.gif" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:54.017Z" modified="2021-12-30T05:04:54.017Z" filename="horizontal.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bgmenu.gif" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:54.019Z" modified="2021-12-30T05:04:54.019Z" filename="bgmenu.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="existdb.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:54.021Z" modified="2021-12-30T05:04:54.021Z" filename="existdb.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

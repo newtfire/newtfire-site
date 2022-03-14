@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tibetan/FRE" version="1" owner="phackett" group="dba" mode="751" created="2020-09-10T18:21:59.963Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="2-07-00125-FRE03.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T18:23:07.411Z" modified="2020-09-10T18:23:07.411Z" filename="2-07-00125-FRE03.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

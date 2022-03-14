@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/cub433" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:05.669Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="KH_speakerList.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:06.673Z" modified="2021-12-30T05:24:06.673Z" filename="KH_speakerList.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="T2" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:05.782Z" modified="2021-12-30T05:24:05.782Z" filename="T2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Timeline" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:06.188Z" modified="2021-12-30T05:24:06.188Z" filename="Timeline" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Timeline-ebbComments.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:06.462Z" modified="2021-12-30T05:24:06.462Z" filename="Timeline-ebbComments.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KHXCutsceneNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:06.958Z" modified="2021-12-30T05:24:06.958Z" filename="KHXCutsceneNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,13 @@
+xquery version "3.1";
+declare variable $ThisFileContent := string-join(
+let $ac := doc('/db/assassinsCreed/assassinscreedodyssey.xml')
+let $spkr := $ac//sp ! normalize-space()
+   (: normalize-space() basically combines the string() function and removes spaces between nodes, :)
+   (: so it's an efficient text-scraper. :)
+return $spkr, "&#10;");
+   (: We're using our newline character here to put a hard return between songs :)
+
+let $filename := "acDiologue.txt"
+let $doc-db-uri := xmldb:store("/db/ice5017/", $filename, $ThisFileContent, "text/plain")
+return $doc-db-uri 
+

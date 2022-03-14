@@ -1,0 +1,63 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/bmt45/Ulysses" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:23:07.25Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="lotus-eaters.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:09.355Z" modified="2021-12-30T05:23:09.355Z" filename="lotus-eaters.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Ulysses.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:07.251Z" modified="2021-12-30T05:23:07.251Z" filename="Ulysses.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="UlyssesLocationtoRefFinal" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:07.34Z" modified="2021-12-30T05:23:07.34Z" filename="UlyssesLocationtoRefFinal" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationChartDraft.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:07.408Z" modified="2021-12-30T05:23:07.408Z" filename="ulyssesLocationChartDraft.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationChart.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:07.588Z" modified="2021-12-30T05:23:07.588Z" filename="ulyssesLocationChart.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssessLocationtoRefRevised" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:07.661Z" modified="2021-12-30T05:23:07.661Z" filename="ulyssessLocationtoRefRevised" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationTSVfile.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:07.727Z" modified="2021-12-30T05:23:07.727Z" filename="ulyssesLocationTSVfile.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="7EcclesStreetDraft.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:07.795Z" modified="2021-12-30T05:23:07.795Z" filename="7EcclesStreetDraft.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="7EcclesStreet.csv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:07.868Z" modified="2021-12-30T05:23:07.868Z" filename="7EcclesStreet.csv" mimetype="text/csv">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="OrmondQuayLowerTSV.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:07.962Z" modified="2021-12-30T05:23:07.962Z" filename="OrmondQuayLowerTSV.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationtoRefrevised.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:08.148Z" modified="2021-12-30T05:23:08.148Z" filename="ulyssesLocationtoRefrevised.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CollegeGreenTSV.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:08.28Z" modified="2021-12-30T05:23:08.28Z" filename="CollegeGreenTSV.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationtoRef.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:08.515Z" modified="2021-12-30T05:23:08.515Z" filename="ulyssesLocationtoRef.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="7EcclesStreetDraft.csv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:08.583Z" modified="2021-12-30T05:23:08.583Z" filename="7EcclesStreetDraft.csv" mimetype="text/csv">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="7EcclesStreetFinal.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:08.65Z" modified="2021-12-30T05:23:08.65Z" filename="7EcclesStreetFinal.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="8OrmondQuayUpperTSV.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:08.715Z" modified="2021-12-30T05:23:08.715Z" filename="8OrmondQuayUpperTSV.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationChartThing.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:08.891Z" modified="2021-12-30T05:23:08.891Z" filename="ulyssesLocationChartThing.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationtoRefChanged.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:09.119Z" modified="2021-12-30T05:23:09.119Z" filename="ulyssesLocationtoRefChanged.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="UlyssesLocationtoRef.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:09.182Z" modified="2021-12-30T05:23:09.182Z" filename="UlyssesLocationtoRef.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ulyssesLocationChartDraftLoc.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:09.249Z" modified="2021-12-30T05:23:09.249Z" filename="ulyssesLocationChartDraftLoc.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,78 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/btrees-queries" version="1" owner="ged5131" group="dba" mode="775" created="2021-12-30T05:23:58.048Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="treesScrollTableFINAL.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:58.05Z" modified="2021-12-30T05:23:58.05Z" filename="treesScrollTableFINAL.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="treesScrollTable-test.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:58.932Z" modified="2021-12-30T05:23:58.932Z" filename="treesScrollTable-test.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="btrees-master.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:59.687Z" modified="2021-12-30T05:23:59.687Z" filename="btrees-master.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="btrees-articles-orgs.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:59.929Z" modified="2021-12-30T05:23:59.929Z" filename="btrees-articles-orgs.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="treesScrollTableCOPY.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:00.094Z" modified="2021-12-30T05:24:00.094Z" filename="treesScrollTableCOPY.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="treesScrollTable.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:00.364Z" modified="2021-12-30T05:24:00.364Z" filename="treesScrollTable.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="treesScrollTableFINAL2.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:00.646Z" modified="2021-12-30T05:24:00.646Z" filename="treesScrollTableFINAL2.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="btrees-scrollJS.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:58.163Z" modified="2021-12-30T05:23:58.163Z" filename="btrees-scrollJS.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="btrees_query_scroll.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:58.263Z" modified="2021-12-30T05:23:58.263Z" filename="btrees_query_scroll.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="btrees_height_bargraph.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:58.364Z" modified="2021-12-30T05:23:58.364Z" filename="btrees_height_bargraph.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="btrees_query.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:58.517Z" modified="2021-12-30T05:23:58.517Z" filename="btrees_query.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="status-network.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:58.636Z" modified="2021-12-30T05:23:58.636Z" filename="status-network.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="btrees_tree_names.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:58.776Z" modified="2021-12-30T05:23:58.776Z" filename="btrees_tree_names.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="leaf-network.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:59.048Z" modified="2021-12-30T05:23:59.048Z" filename="leaf-network.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="origin-network.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:59.152Z" modified="2021-12-30T05:23:59.152Z" filename="origin-network.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="allTrees.kml" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:59.276Z" modified="2021-12-30T05:23:59.276Z" filename="allTrees.kml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapQueryKML.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:59.368Z" modified="2021-12-30T05:23:59.368Z" filename="mapQueryKML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapping-to-json.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:59.575Z" modified="2021-12-30T05:23:59.575Z" filename="mapping-to-json.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="organizations-found-in-articles.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:59.8Z" modified="2021-12-30T05:23:59.8Z" filename="organizations-found-in-articles.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapQueryOriginContinent.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:00.209Z" modified="2021-12-30T05:24:00.209Z" filename="mapQueryOriginContinent.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="btrees-master-sheet-html.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:00.483Z" modified="2021-12-30T05:24:00.483Z" filename="btrees-master-sheet-html.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="originTSV.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:00.796Z" modified="2021-12-30T05:24:00.796Z" filename="originTSV.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="treeType.kml" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:01.008Z" modified="2021-12-30T05:24:01.008Z" filename="treeType.kml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="btreesPHP-scrollJS.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:01.122Z" modified="2021-12-30T05:24:01.122Z" filename="btreesPHP-scrollJS.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapQueryTTKML.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:01.259Z" modified="2021-12-30T05:24:01.259Z" filename="mapQueryTTKML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

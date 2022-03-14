@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/templates" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:54.131Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="page.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:54.133Z" modified="2021-12-30T05:04:54.132Z" filename="page.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="content.html" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:54.14Z" modified="2021-12-30T05:04:54.14Z" filename="content.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

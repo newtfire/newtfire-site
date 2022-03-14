@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <song name="Requiem">
+        <metadata>
+            <sname>Requiem</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+        <lyrics>
+            <verse n="1">
+                <line n="1">Can you feel the night?</line>
+                <line n="2">Would it be warm</line>
+                <line n="3"><parentheses>(It must be bright)</parentheses></line>
+                <line n="4">Like a raging fire</line>
+            </verse>
+            <verse n="2">
+                <line n="1">When the sky cries in April,</line>
+                <line n="2">the flowers and trees smile in May</line>
+                <line n="3"><i story="ino">The time that passes tells me many lovely things</i></line>
+                <line n="4"><i story="ino">But I can't feel it</i></line>
+            </verse>
+            <prechorus n="1">
+                <line n="1"><parentheses>(Cut it out!)</parentheses></line>
+                <line n="2">I flew high so that I could see everything</line>
+                <line n="3"><parentheses>(Cut it out!)</parentheses></line>
+                <line n="4">I was on a roll</line>
+                <line n="5">I had to stop</line>
+                <line n="6">There is no up or down above the clouds</line>
+                <line n="7">And I can't breathe</line>
+            </prechorus>
+            <chorus n="1">
+                <line n="1">We're falling down.</line>
+                <line n="2">Slowly, like snow.</line>
+                <line n="3">Led by gravity</line>
+                <line n="4">Fading away in the warm glow</line>
+                <line n="5">Without resisting</line>
+            </chorus>
+            <verse n="3">
+                <line n="1">Let's take some strawberries and go to the hill</line>
+                <line n="2">If you want to see the fireworks, bring a cute scarf</line>
+                <line n="3"><parentheses><i story="ino">(The pictures in my head tell me a lot of stories)</i></parentheses></line>
+                <line n="4"><i story="ino">None of this is real</i></line>
+            </verse>
+            <prechorus n="2">
+                <line n="1"><parentheses>(Cut it out!)</parentheses></line>
+                <line n="2">I flew high so that I could see everything</line>
+                <line n="3"><parentheses>(Cut it out!)</parentheses></line>
+                <line n="4">I was on a roll</line>
+                <line n="5">I had to stop</line>
+                <line n="6">There is no up or down above the clouds</line>
+                <line n="7">And I can't breathe</line>
+            </prechorus>
+            <chorus n="2">
+                <line n="1">We're falling down.</line>
+                <line n="2">Slowly, like snow.</line>
+                <line n="3">Led by gravity</line>
+                <line n="4">Fading away in the warm glow</line>
+            </chorus>
+            <bridge n="1">
+                <line n="1">We lost the power to lose.</line>
+                <line n="2">By leaving all the pain</line>
+                <line n="3">Fading away in the warm glow</line>
+            </bridge>
+            <chorus n="3">
+                <line n="1">We're falling down.</line>
+                <line n="2">Slowly, like snow.</line>
+                <line n="3">Led by gravity</line>
+                <line n="4"><parentheses>(Fading away in the warm glow)</parentheses></line>
+                <line n="5">If I am to be swallowed by</line>
+                <line n="6">fate I must have fought well</line>
+                <line n="7">Praying that it will become a seed of <parentheses>(new life)</parentheses></line>
+            </chorus>
+        </lyrics>
+        
+    </song>
+</xml>

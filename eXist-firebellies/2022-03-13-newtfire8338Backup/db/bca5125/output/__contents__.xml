@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/bca5125/output" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:21:44.098Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="HarryPotterSpeeches.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:44.099Z" modified="2021-12-30T05:21:44.099Z" filename="HarryPotterSpeeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ChamberOfSecrets-Speeches.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:44.272Z" modified="2021-12-30T05:21:44.272Z" filename="ChamberOfSecrets-Speeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DeathlyHallows-2-Speeches.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:44.442Z" modified="2021-12-30T05:21:44.442Z" filename="DeathlyHallows-2-Speeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SorcerersStone-Speeches.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:44.632Z" modified="2021-12-30T05:21:44.632Z" filename="SorcerersStone-Speeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TheHalfBloodPrince-Speeches.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:44.805Z" modified="2021-12-30T05:21:44.805Z" filename="TheHalfBloodPrince-Speeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="GobletofFire-Speeches.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:44.962Z" modified="2021-12-30T05:21:44.962Z" filename="GobletofFire-Speeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="OrderofthePhoenix-Speeches.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:45.355Z" modified="2021-12-30T05:21:45.355Z" filename="OrderofthePhoenix-Speeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PrisonerofAzkaban-Speeches.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:45.501Z" modified="2021-12-30T05:21:45.501Z" filename="PrisonerofAzkaban-Speeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DeathlyHallows-1-Speeches.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:45.825Z" modified="2021-12-30T05:21:45.825Z" filename="DeathlyHallows-1-Speeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

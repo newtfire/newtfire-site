@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/bac5738" version="1" owner="bac5738" group="dba" mode="7775" created="2021-10-08T13:08:38.249Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="character.html" skip="no" owner="bac5738" group="dba" mode="644" created="2021-10-15T20:11:19.761Z" modified="2021-10-15T20:11:29.987Z" filename="character.html" mimetype=".html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="autoFLORtoHTML.xql" skip="no" owner="bac5738" group="dba" mode="755" created="2021-10-11T19:09:46.222Z" modified="2021-10-11T19:09:46.222Z" filename="autoFLORtoHTML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SuperSmashData.tsv" skip="no" owner="bac5738" group="dba" mode="644" created="2021-11-30T16:45:02.473Z" modified="2021-11-30T16:45:02.473Z" filename="SuperSmashData.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test.html" skip="no" owner="bac5738" group="dba" mode="755" created="2021-10-15T20:03:56.256Z" modified="2021-10-15T20:06:50.791Z" filename="test.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="character.xql" skip="no" owner="bac5738" group="dba" mode="755" created="2021-10-15T20:11:28.978Z" modified="2021-10-15T20:11:28.978Z" filename="character.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tier.html" skip="no" owner="bac5738" group="dba" mode="644" created="2021-10-15T20:06:51.519Z" modified="2021-10-18T19:33:08.47Z" filename="tier.html" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyInClass" skip="no" owner="bac5738" group="dba" mode="755" created="2021-11-03T18:56:31.541Z" modified="2021-11-05T00:26:34.922Z" filename="banksyInClass" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="inclassSVG.xql" skip="no" owner="bac5738" group="dba" mode="755" created="2021-11-05T00:27:30.278Z" modified="2021-11-05T00:27:30.278Z" filename="inclassSVG.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XPathExercise3" skip="no" owner="bac5738" group="dba" mode="755" created="2021-10-11T01:27:46.143Z" modified="2021-10-11T01:27:46.143Z" filename="XPathExercise3" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="supersmashFLORandtable.xql" skip="no" owner="bac5738" group="dba" mode="755" created="2021-10-12T02:35:21.579Z" modified="2021-10-15T02:10:28.515Z" filename="supersmashFLORandtable.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svgCharPerGame" skip="no" owner="bac5738" group="dba" mode="755" created="2021-11-08T01:34:25.135Z" modified="2021-11-08T01:34:25.135Z" filename="svgCharPerGame" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svgCharPerGame.svg" skip="no" owner="bac5738" group="dba" mode="755" created="2021-11-08T01:34:40.325Z" modified="2021-11-08T21:14:56.217Z" filename="svgCharPerGame.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XPathExercise3.xql" skip="no" owner="bac5738" group="dba" mode="755" created="2021-10-11T01:29:08.019Z" modified="2021-10-11T19:08:26.413Z" filename="XPathExercise3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

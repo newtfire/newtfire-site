@@ -1,0 +1,42 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/stf5123" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:27:59.936Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="svg3_fassett" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:59.937Z" modified="2021-12-30T05:27:59.937Z" filename="svg3_fassett" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimmwhole.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:00.325Z" modified="2021-12-30T05:28:00.325Z" filename="grimmwhole.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test2Fassett.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:00.398Z" modified="2021-12-30T05:28:00.398Z" filename="test2Fassett.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimmwhole.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:00.467Z" modified="2021-12-30T05:28:00.467Z" filename="grimmwhole.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery5_Fassett" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:00.534Z" modified="2021-12-30T05:28:00.534Z" filename="xquery5_Fassett" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimmnlp2.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:00.614Z" modified="2021-12-30T05:28:00.614Z" filename="grimmnlp2.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG2_fassett.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:00.829Z" modified="2021-12-30T05:28:00.829Z" filename="SVG2_fassett.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery_4.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:00.968Z" modified="2021-12-30T05:28:00.968Z" filename="xquery_4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimmtitle.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:01.048Z" modified="2021-12-30T05:28:01.048Z" filename="grimmtitle.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="part2.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:01.126Z" modified="2021-12-30T05:28:01.126Z" filename="part2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg3_fassett.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:01.23Z" modified="2021-12-30T05:28:01.23Z" filename="svg3_fassett.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grim_fassett.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:01.326Z" modified="2021-12-30T05:28:01.326Z" filename="grim_fassett.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimnlp2.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:01.484Z" modified="2021-12-30T05:28:01.484Z" filename="grimnlp2.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

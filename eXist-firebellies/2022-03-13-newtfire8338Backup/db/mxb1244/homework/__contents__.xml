@@ -1,0 +1,42 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/mxb1244/homework" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:26:26.413Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="DcarsTable.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:26.57Z" modified="2021-12-30T05:26:26.57Z" filename="DcarsTable.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DcarsTablee.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:26.978Z" modified="2021-12-30T05:26:26.978Z" filename="DcarsTablee.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:27.203Z" modified="2021-12-30T05:26:27.203Z" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AutoTimeline.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:26.414Z" modified="2021-12-30T05:26:26.414Z" filename="AutoTimeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xpathEx3-ebbComments.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:26.497Z" modified="2021-12-30T05:26:26.497Z" filename="xpathEx3-ebbComments.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xpathExercise5.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:26.637Z" modified="2021-12-30T05:26:26.637Z" filename="xpathExercise5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xpathExercise4.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:26.705Z" modified="2021-12-30T05:26:26.705Z" filename="xpathExercise4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg-Exercise2.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:26.837Z" modified="2021-12-30T05:26:26.837Z" filename="svg-Exercise2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG-Exercise3.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:26.903Z" modified="2021-12-30T05:26:26.903Z" filename="SVG-Exercise3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CORRECT-BanksyTimeline.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:27.044Z" modified="2021-12-30T05:26:27.044Z" filename="CORRECT-BanksyTimeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="BanksyTimeline.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:27.119Z" modified="2021-12-30T05:26:27.119Z" filename="BanksyTimeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xpathExercise3" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:27.276Z" modified="2021-12-30T05:26:27.276Z" filename="xpathExercise3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xpathExercise4" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:27.341Z" modified="2021-12-30T05:26:27.341Z" filename="xpathExercise4" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

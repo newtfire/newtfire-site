@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="108"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password>
+<!--<digestPassword></digestPassword>--><group name="jzp732"/><group name="dba"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://axschema.org/namePerson">Janet Pituch</metadata><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><name>jzp732</name></account>

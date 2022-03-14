@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/devguide_xmldb/listings" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:55.422Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="listing-10.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.424Z" modified="2021-12-30T05:04:55.424Z" filename="listing-10.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-1.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.428Z" modified="2021-12-30T05:04:55.428Z" filename="listing-1.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-9.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.43Z" modified="2021-12-30T05:04:55.43Z" filename="listing-9.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-7.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.432Z" modified="2021-12-30T05:04:55.432Z" filename="listing-7.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-8.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.434Z" modified="2021-12-30T05:04:55.434Z" filename="listing-8.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-2.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.436Z" modified="2021-12-30T05:04:55.436Z" filename="listing-2.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-6.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.438Z" modified="2021-12-30T05:04:55.438Z" filename="listing-6.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

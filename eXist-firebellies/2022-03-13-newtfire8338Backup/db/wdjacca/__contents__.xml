@@ -1,0 +1,135 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/wdjacca" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:29:42.595Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="TOCTest.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:42.663Z" modified="2021-12-30T05:29:42.663Z" filename="TOCTest.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bnbsongcount.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:42.727Z" modified="2021-12-30T05:29:42.727Z" filename="bnbsongcount.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="movieData.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:42.799Z" modified="2021-12-30T05:29:42.799Z" filename="movieData.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="chan_SVG2.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:42.874Z" modified="2021-12-30T05:29:42.874Z" filename="chan_SVG2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="linecount.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:42.939Z" modified="2021-12-30T05:29:42.939Z" filename="linecount.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aladdinsongcount.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:43.163Z" modified="2021-12-30T05:29:43.163Z" filename="aladdinsongcount.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="songlist.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:43.417Z" modified="2021-12-30T05:29:43.417Z" filename="songlist.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="disneyLine.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:43.544Z" modified="2021-12-30T05:29:43.544Z" filename="disneyLine.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="barchart_voiceActor_songCount.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:45.627Z" modified="2021-12-30T05:29:45.627Z" filename="barchart_voiceActor_songCount.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="songcount.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:46.432Z" modified="2021-12-30T05:29:46.432Z" filename="songcount.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:47.723Z" modified="2021-12-30T05:29:47.723Z" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="linechart_songcount_movie.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:48.103Z" modified="2021-12-30T05:29:48.103Z" filename="linechart_songcount_movie.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tollBell.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:42.596Z" modified="2021-12-30T05:29:42.596Z" filename="tollBell.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="movieData.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:43.004Z" modified="2021-12-30T05:29:43.004Z" filename="movieData.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="comptova.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:43.221Z" modified="2021-12-30T05:29:43.221Z" filename="comptova.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ListofComp.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:43.608Z" modified="2021-12-30T05:29:43.608Z" filename="ListofComp.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network3.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:43.997Z" modified="2021-12-30T05:29:43.997Z" filename="network3.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery4.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:44.07Z" modified="2021-12-30T05:29:44.07Z" filename="xquery4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery5.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:45.745Z" modified="2021-12-30T05:29:45.745Z" filename="xquery5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network2.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:45.832Z" modified="2021-12-30T05:29:45.832Z" filename="network2.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:45.895Z" modified="2021-12-30T05:29:45.895Z" filename="network.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network1.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:45.961Z" modified="2021-12-30T05:29:45.961Z" filename="network1.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network5.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:46.039Z" modified="2021-12-30T05:29:46.039Z" filename="network5.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="aladdin_network.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:46.113Z" modified="2021-12-30T05:29:46.113Z" filename="aladdin_network.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network4.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:46.365Z" modified="2021-12-30T05:29:46.365Z" filename="network4.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xqueryTest.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:46.499Z" modified="2021-12-30T05:29:46.499Z" filename="xqueryTest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network6.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:46.783Z" modified="2021-12-30T05:29:46.783Z" filename="network6.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="barchart_voiceActor_songcount.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:46.848Z" modified="2021-12-30T05:29:46.848Z" filename="barchart_voiceActor_songcount.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network_composer_movie_voiceActor.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:46.926Z" modified="2021-12-30T05:29:46.926Z" filename="network_composer_movie_voiceActor.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network7.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:47.165Z" modified="2021-12-30T05:29:47.165Z" filename="network7.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network4.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:47.232Z" modified="2021-12-30T05:29:47.232Z" filename="network4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG1.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:47.307Z" modified="2021-12-30T05:29:47.307Z" filename="SVG1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="digit400_svg2.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:47.386Z" modified="2021-12-30T05:29:47.386Z" filename="digit400_svg2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="digit400_svg3.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:47.455Z" modified="2021-12-30T05:29:47.455Z" filename="digit400_svg3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="digit400_xquery3.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:47.524Z" modified="2021-12-30T05:29:47.524Z" filename="digit400_xquery3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="linechart_songcount_movie.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:47.585Z" modified="2021-12-30T05:29:47.585Z" filename="linechart_songcount_movie.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg2.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:47.658Z" modified="2021-12-30T05:29:47.658Z" filename="svg2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="digit400_xquery4.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:47.781Z" modified="2021-12-30T05:29:47.781Z" filename="digit400_xquery4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MovieVSComp.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:47.926Z" modified="2021-12-30T05:29:47.926Z" filename="MovieVSComp.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="digit400_xquery5.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:48.038Z" modified="2021-12-30T05:29:48.038Z" filename="digit400_xquery5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneySongLyrics.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:48.169Z" modified="2021-12-30T05:29:48.169Z" filename="disneySongLyrics.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TOCtest.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:48.229Z" modified="2021-12-30T05:29:48.229Z" filename="TOCtest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneySongLyrics.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:48.298Z" modified="2021-12-30T05:29:48.298Z" filename="disneySongLyrics.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="personography_html.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:29:48.363Z" modified="2021-12-30T05:29:48.363Z" filename="personography_html.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

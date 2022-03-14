@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/resources/images" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:51.614Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="existdb-web.svg" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:51.615Z" modified="2021-12-30T05:04:51.615Z" filename="existdb-web.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="logout.svg" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:51.619Z" modified="2021-12-30T05:04:51.619Z" filename="logout.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="x.svg" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:51.621Z" modified="2021-12-30T05:04:51.621Z" filename="x.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="launcher.svg" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:51.624Z" modified="2021-12-30T05:04:51.624Z" filename="launcher.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="existdb.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:51.626Z" modified="2021-12-30T05:04:51.626Z" filename="existdb.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

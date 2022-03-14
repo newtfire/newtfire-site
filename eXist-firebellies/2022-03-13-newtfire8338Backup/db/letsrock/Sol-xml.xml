@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <song name="Find Your Own Way">
+        <metadata>
+            <sname>Find Your Own Way</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+        <lyrics>
+            <verse n="1">
+                <line n="1">Need it back! Yes, nobody is gone</line>
+                <line n="2">I'm just saying and step it, buddy!</line>
+                <line n="3">Do it out of turn!</line>
+                <line n="4">Don't freak out! Yes, nobody's wrong</line>
+                <line n="5">You and I both just have our views</line>
+                <line n="6">That's all</line>
+            </verse>
+
+            <verse n="1">
+                <line n="1">
+                    <i story="sol">Somebody will make me do crazy shit</i>
+                </line>
+                <line n="2">
+                    <i story="sol">When have I ever forced you to do that?</i>
+                </line>
+                <line n="3">
+                    <i story="sol">Give me my place back and I won't take your special place.
+                        Deal?</i>
+                </line>
+                <line n="4">The world is not so tight, right?</line>
+            </verse>
+
+            <chorus n="1">
+                <line n="1">STRIKE BACK! <parentheses>(Go excited)</parentheses></line>
+                <line n="2">Get them out of your way</line>
+                <line n="3"><parentheses>(You don't care)</parentheses> If along the way is a little
+                    sacrifice</line>
+                <line n="4">STRIKE BACK! <parentheses>(Go excited)</parentheses></line>
+                <line n="5">Get them out of your way <parentheses>(Yeah)</parentheses></line>
+                <line n="6">Don't melt in the world</line>
+                <line n="7">Find your One Way</line>
+            </chorus>
+
+            <verse n="2">
+                <line n="1">Give that back! Nobody will miss it!</line>
+                <line n="2">I'm just saying that</line>
+                <line n="3">Step it, buddy! Do it out of turn!</line>
+                <line n="4">Sit back down! 'Cause nobody denies it</line>
+                <line n="5">You and I both just have our views</line>
+                <line n="6">That's all</line>
+            </verse>
+
+            <verse n="3">
+                <line n="1">You're not me</line>
+                <line n="2">You're not the law</line>
+                <line n="3">You're not my downfall, either</line>
+                <line n="4">If your voices will fill the sky</line>
+                <line n="5"><i story="sol">I'll take the wasteland</i></line>
+                <line n="6"><i story="sol">But I won't be alone. Never!</i></line>
+            </verse>
+
+            <chorus n="2">
+                <line n="1">STRIKE BACK! <parentheses>(Go excited)</parentheses></line>
+                <line n="2">Get them out of your way</line>
+                <line n="3"><parentheses>(You don't care)</parentheses> If along the way is a little
+                    sacrifice</line>
+                <line n="4">STRIKE BACK! <parentheses>(Go excited)</parentheses></line>
+                <line n="5">Get them out of your way <parentheses>(Yeah)</parentheses></line>
+                <line n="6">Don't melt in the world</line>
+                <line n="7">Find your One Way</line>
+            </chorus>
+
+            <bridge n="1">
+                <line n="1"> Let's go and step it, buddy!</line>
+                <line n="2">Let's go and step it, buddy!</line>
+                <line n="3">Let's go and step it, buddy!</line>
+                <line n="4">Step it, buddy!</line>
+                <line n="5">Step it, buddy!</line>
+            </bridge>
+
+            <chorus n="3">
+                <line n="1">STRIKE BACK! <parentheses>(Go excited)</parentheses></line>
+                <line n="2">Get them out of your way</line>
+                <line n="3"><parentheses>(You don't care)</parentheses> If along the way is a little
+                    sacrifice</line>
+                <line n="4">STRIKE BACK! (Go excited)</line>
+                <line n="5">Get them out of your way <parentheses>(Yeah)</parentheses></line>
+                <line n="6"><i story="sol">Listen to your heart</i></line>
+                <line n="7">Not the voice in your head!</line>
+                <line n="8">
+                    <parentheses>(STRIKE BACK!)</parentheses>
+                    <parentheses>(Go excited)</parentheses>
+                </line>
+                <line n="9">Get them out of your way</line>
+                <line n="10"><parentheses>(You don't care)</parentheses> If along the way is a
+                    little sacrifice</line>
+                <line n="11">STRIKE BACK! <parentheses>(Go excited)</parentheses></line>
+                <line n="12">Get them out of your way <parentheses>(Yeah)</parentheses></line>
+                <line n="13">Don't melt in the world</line>
+                <line n="14">Find your One Way</line>
+            </chorus>
+
+        </lyrics>
+    </song>
+</xml>

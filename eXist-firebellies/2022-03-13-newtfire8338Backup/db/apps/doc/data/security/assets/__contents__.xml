@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/security/assets" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:55.343Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="owner-group-world.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.344Z" modified="2021-12-30T05:04:55.344Z" filename="owner-group-world.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="usermanager.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.346Z" modified="2021-12-30T05:04:55.346Z" filename="usermanager.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="usermanager2.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.349Z" modified="2021-12-30T05:04:55.349Z" filename="usermanager2.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="client-7.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.351Z" modified="2021-12-30T05:04:55.351Z" filename="client-7.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="client-5.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.354Z" modified="2021-12-30T05:04:55.354Z" filename="client-5.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,78 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/drl43" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:25.579Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="timelineEx3.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:25.718Z" modified="2021-12-30T05:24:25.718Z" filename="timelineEx3.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lint_rNm_networking_xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:26.528Z" modified="2021-12-30T05:24:26.528Z" filename="lint_rNm_networking_xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timelinehorizontal.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:27.012Z" modified="2021-12-30T05:24:27.012Z" filename="timelinehorizontal.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lint_rick_and_morty_networking_O_script_file.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:27.291Z" modified="2021-12-30T05:24:27.291Z" filename="lint_rick_and_morty_networking_O_script_file.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:27.687Z" modified="2021-12-30T05:24:27.687Z" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rNmOutput2.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:25.58Z" modified="2021-12-30T05:24:25.58Z" filename="rNmOutput2.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rnmtestvariables.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:25.645Z" modified="2021-12-30T05:24:25.645Z" filename="rnmtestvariables.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_rNm_netNoFile.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:25.786Z" modified="2021-12-30T05:24:25.786Z" filename="lint_rNm_netNoFile.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_svg_ex2.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:25.858Z" modified="2021-12-30T05:24:25.858Z" filename="lint_svg_ex2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_svg_ex3.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:25.945Z" modified="2021-12-30T05:24:25.945Z" filename="lint_svg_ex3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_shakespeare_sample.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:26.017Z" modified="2021-12-30T05:24:26.017Z" filename="lint_shakespeare_sample.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="decameron_notes.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:26.082Z" modified="2021-12-30T05:24:26.082Z" filename="decameron_notes.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_javascript_ex3.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:26.198Z" modified="2021-12-30T05:24:26.198Z" filename="lint_javascript_ex3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Sample_svg_ex3_start" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:26.363Z" modified="2021-12-30T05:24:26.363Z" filename="Sample_svg_ex3_start" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_svg_ex3A.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:26.428Z" modified="2021-12-30T05:24:26.428Z" filename="lint_svg_ex3A.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_svg_ex4.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:26.624Z" modified="2021-12-30T05:24:26.624Z" filename="lint_svg_ex4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_rick_and_morty_xquery" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:26.7Z" modified="2021-12-30T05:24:26.7Z" filename="lint_rick_and_morty_xquery" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rNmOutput.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:26.812Z" modified="2021-12-30T05:24:26.812Z" filename="rNmOutput.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_xqlex2_edited.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:26.946Z" modified="2021-12-30T05:24:26.946Z" filename="lint_xqlex2_edited.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_xqlex2_ebb.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:27.073Z" modified="2021-12-30T05:24:27.073Z" filename="lint_xqlex2_ebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rNm_netFile_2.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:27.2Z" modified="2021-12-30T05:24:27.2Z" filename="rNm_netFile_2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_xqlex2_a.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:27.364Z" modified="2021-12-30T05:24:27.364Z" filename="lint_xqlex2_a.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="keything2.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:27.437Z" modified="2021-12-30T05:24:27.437Z" filename="keything2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_shakespeare_sample2.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:27.51Z" modified="2021-12-30T05:24:27.51Z" filename="lint_shakespeare_sample2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lint_shakespeare_sample1.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:27.577Z" modified="2021-12-30T05:24:27.577Z" filename="lint_shakespeare_sample1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

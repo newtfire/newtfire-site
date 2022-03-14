@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="ACIP_2-05-00015-D1123.xml"/>
+		<title>Kāyatrayastotra-nāma</title>
+		<author>Nāgārjuna</author>
+		<unifiedCatalogID>2-05-00015</unifiedCatalogID>
+		<creation date="Mon Jun 11 22:44:35 2018"/>
+		<processed date="Thu Jun 21 19:37:11 2018" ver="SentenceVerseBoundaryDetection v.0.67"/>
+		<sourceDesc>
+			<bibl>
+				<title>sku gsum la bstod pa zhes bya ba</title>
+				<author>Nāgārjuna</author>
+				<pubPlace>Derge</pubPlace>
+				<publisher>Derge parkhang</publisher>
+				<date>1734-1744</date>
+				<biblScope unit="catNo">D 1123</biblScope>
+				<biblScope unit="volume">1</biblScope>
+				<biblScope unit="catInfo">bstod tshogs, ka 70b3-71a2</biblScope>
+			</bibl>
+		</sourceDesc>
+	</head>
+	<text>
+		<sentence s_id="2-05-00015-D1123-SID000001" type="Text Title">
+			<phrase phr_id="2-05-00015-D1123-000001">rgya gar skad du</phrase>
+			<phrase phr_id="2-05-00015-D1123-000002">kā ya tra ya sto tra nā ma</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-D1123-SID000002" type="Text Title">
+			<phrase phr_id="2-05-00015-D1123-000003">bod skad du</phrase>
+			<phrase phr_id="2-05-00015-D1123-000004">sku gsum la bstod pa zhes bya ba</phrase>
+		</sentence>
+		<volume vol_id="1"/>
+		<sentence s_id="2-05-00015-D1123-SID000003" type="Sentence">
+			<phrase phr_id="2-05-00015-D1123-000005">'phags pa 'jam dpal gzhon nur gyur pa la phyag 'tshal lo</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-D1123-SID000004" type="Verse">
+			<phrase phr_id="2-05-00015-D1123-000006">gcig min du ma ma yin bdag dang gzhan la phan pa phun sum tshogs chen gzhir gyur pa</phrase>
+			<phrase phr_id="2-05-00015-D1123-000007">dngos min dngos po med pa ma yin mkha' ltar ro gcig rtogs par dka' ba'i rang bzhin can</phrase>
+			<phrase phr_id="2-05-00015-D1123-000008">gos pa med cing mi 'gyur zhi la mi mnyam mnyam pa khyab pa can ste spros med pa</phrase>
+			<phrase phr_id="2-05-00015-D1123-000009">so so rang rig rgyal ba rnams kyi chos sku dpe med gang yin de la bdag phyag 'tshal</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-D1123-SID000005" type="Verse">
+			<phrase phr_id="2-05-00015-D1123-000010">rang gi 'byor pa 'jig rten las 'das bsam gyis mi khyab legs mdzad brgya yi 'bras bu ni</phrase>
+			<phrase phr_id="2-05-00015-D1123-000011">blo can rnams kyi dga' ba bskyed phyir 'khor gyi nang du sna tshogs rgyas par ston mdzad cing</phrase>
+			<phrase phr_id="2-05-00015-D1123-000012">rtag tu dam pa'i chos kyi sgra skad rgya chen 'jig rten kun du 'phro bar mdzad pa po</phrase>
+			<phrase phr_id="2-05-00015-D1123-000013">sangs rgyas longs spyod rdzogs sku chos kyi rgyal srid gnas pa gang yin de la phyag 'tshal lo</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-D1123-SID000006" type="Verse">
+			<phrase phr_id="2-05-00015-D1123-000014">sems can rnams ni smin par mdzad phyir la la dag tu me 'bar bzhin du gang snang zhing</phrase>
+			<phrase phr_id="2-05-00015-D1123-000015">la lar yang ni rdzogs par byang chub chos kyi 'khor lo rab tu zhi bar gang snang la</phrase>
+			<phrase phr_id="2-05-00015-D1123-000016">sna tshogs thabs tshul rnam pa du mar 'jug cing srid pa gsum gyi 'jigs sel ba</phrase>
+			<phrase phr_id="2-05-00015-D1123-000017">phyogs bcur chub mdzad thub pa rnams kyi sprul sku don chen gang yin de la phyag 'tshal lo</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-D1123-SID000007" type="Verse">
+			<phrase phr_id="2-05-00015-D1123-000018">sems can don gcig rgyun du mdzad cing bsod nams ye shes chen po dpag med las byung ba'i</phrase>
+			<phrase phr_id="2-05-00015-D1123-000019">bde bar gshegs pa rnams kyi sku gsum yid dang tshig gi lam las rab tu 'das pa la</phrase>
+			<phrase phr_id="2-05-00015-D1123-000020">bdag gis dad pas phyag byas dge ba byang chub sa bon bsags par gyur pa gang yin des</phrase>
+			<phrase phr_id="2-05-00015-D1123-000021">sku gsum thob nas 'gro ba 'di dag ma lus byang chub lam la nges par 'dzud par shog</phrase>
+		</sentence>
+		<volume vol_id="9999"/>
+		<sentence s_id="2-05-00015-D1123-SID000008" type="Text Colophon">
+			<phrase phr_id="2-05-00015-D1123-000022">sku gsum la bstod pa zhes bya ba slob dpon 'phags pa klu sgrub kyis mdzad pa rdzogs so</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-D1123-SID000009" type="Text Colophon">
+			<phrase phr_id="2-05-00015-D1123-000023">rgya gar gyi mkhan po krīṣṇa paṇḍi ta dang</phrase>
+			<phrase phr_id="2-05-00015-D1123-000024">lo tsā ba dge slong tshul khrims rgyal bas bsgyur cing zhus te gtan la phab pa'o</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

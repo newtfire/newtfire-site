@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="98"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password>
+<!--<digestPassword></digestPassword>--><group name="scd5363"/><group name="dba"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://axschema.org/namePerson">Samuel Deeter</metadata><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><name>scd5363</name></account>

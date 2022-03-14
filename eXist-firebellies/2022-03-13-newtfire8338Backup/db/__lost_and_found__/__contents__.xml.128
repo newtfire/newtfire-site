@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/wdjacca" version="1" owner="wdjacca" group="dba" mode="775" created="2021-03-02T18:09:05.759Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="disneyLine.svg" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-11-26T02:12:41.06Z" modified="2021-12-17T01:42:20.049Z" filename="disneyLine.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="linechart_songcount_movie.svg" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-04-29T16:29:51.044Z" modified="2021-04-30T00:09:23.342Z" filename="linechart_songcount_movie.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="chan_SVG2.svg" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-03-31T06:01:11.151Z" modified="2021-04-01T05:54:03.593Z" filename="chan_SVG2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="movieData.svg" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-04-03T02:36:12.564Z" modified="2021-04-04T03:56:29.557Z" filename="movieData.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TOCTest.html" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-04-20T03:46:22.632Z" modified="2021-04-20T23:26:46.528Z" filename="TOCTest.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="linecount.html" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-10-15T03:14:04.961Z" modified="2021-10-15T03:14:04.961Z" filename="linecount.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="songcount.html" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-10-15T15:24:07.465Z" modified="2021-10-15T15:24:07.465Z" filename="songcount.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aladdinsongcount.html" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-10-15T15:39:24.167Z" modified="2021-12-10T11:10:57.444Z" filename="aladdinsongcount.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bnbsongcount.html" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-10-15T15:39:39.613Z" modified="2021-12-10T11:08:11.151Z" filename="bnbsongcount.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="songlist.html" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-10-15T16:32:22.933Z" modified="2021-10-15T16:33:37.156Z" filename="songlist.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-11-25T19:05:50.648Z" modified="2021-11-25T19:05:50.648Z" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="barchart_voiceActor_songCount.svg" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-04-29T15:52:08.678Z" modified="2021-04-30T00:11:31.086Z" filename="barchart_voiceActor_songCount.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="linechart_songcount_movie.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-04-28T19:11:16.599Z" modified="2021-04-30T00:17:17.657Z" filename="linechart_songcount_movie.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="barchart_voiceActor_songcount.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-04-28T19:02:24.206Z" modified="2021-04-30T00:17:18.532Z" filename="barchart_voiceActor_songcount.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xqueryTest.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-04-05T17:02:09.714Z" modified="2021-04-07T01:47:10.747Z" filename="xqueryTest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneySongLyrics.txt" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-04-15T00:20:47.498Z" modified="2021-04-15T00:20:47.498Z" filename="disneySongLyrics.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneySongLyrics.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-04-15T00:21:15.482Z" modified="2021-04-15T00:21:15.482Z" filename="disneySongLyrics.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="personography_html.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-10-22T16:44:56.981Z" modified="2021-12-08T18:27:34.371Z" filename="personography_html.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network3.tsv" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-04-27T14:54:40.946Z" modified="2021-12-08T18:49:32.285Z" filename="network3.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ListofComp.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-03-22T19:04:37.736Z" modified="2021-04-02T21:59:04.058Z" filename="ListofComp.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg2.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-03-31T05:41:10.369Z" modified="2021-04-02T22:16:39.563Z" filename="svg2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-04-05T04:57:23.626Z" modified="2021-04-10T00:52:41.832Z" filename="network.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="harrypotterspeeches.txt" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-04-20T00:24:38.432Z" modified="2021-04-20T00:24:38.432Z" filename="harrypotterspeeches.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MovieVSComp.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-04-02T22:15:53.224Z" modified="2021-04-04T03:57:37.728Z" filename="MovieVSComp.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="movieData.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-04-04T04:01:50.239Z" modified="2021-04-04T04:01:50.239Z" filename="movieData.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TOCtest.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-04-20T03:30:55.342Z" modified="2021-04-20T23:33:16.806Z" filename="TOCtest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network4.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-12-08T18:57:44.85Z" modified="2021-12-08T18:57:44.85Z" filename="network4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="digit400_xquery3.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-10-11T01:22:25.283Z" modified="2021-10-11T01:22:25.283Z" filename="digit400_xquery3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network4.tsv" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-08T18:55:06.492Z" modified="2021-12-16T16:05:29.98Z" filename="network4.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network5.tsv" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T16:06:24.356Z" modified="2021-12-16T16:09:08.116Z" filename="network5.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network6.tsv" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T16:38:23.425Z" modified="2021-12-16T16:38:23.425Z" filename="network6.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tollBell.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-03-02T18:36:19.324Z" modified="2021-03-02T18:48:44.78Z" filename="tollBell.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="digit400_xquery5.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-10-15T02:59:52.628Z" modified="2021-10-15T03:14:10.888Z" filename="digit400_xquery5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="aladdin_network.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-12-16T14:47:31.236Z" modified="2021-12-17T01:39:49.987Z" filename="aladdin_network.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="digit400_svg3.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-11-25T19:09:55.121Z" modified="2021-12-17T02:57:04.839Z" filename="digit400_svg3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network7.tsv" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-17T02:57:40.165Z" modified="2021-12-17T02:57:40.165Z" filename="network7.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery4.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-03-18T18:27:47.63Z" modified="2021-03-22T19:15:55.021Z" filename="xquery4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="comptova.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-04-23T04:08:53.217Z" modified="2021-04-27T06:05:42.287Z" filename="comptova.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network1.tsv" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-04-10T00:52:09.777Z" modified="2021-04-27T14:37:26.411Z" filename="network1.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network2.tsv" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-04-27T14:37:19.455Z" modified="2021-04-27T14:42:23.524Z" filename="network2.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="digit400_xquery4.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-10-15T16:32:36.312Z" modified="2021-10-15T16:33:59.521Z" filename="digit400_xquery4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network_composer_movie_voiceActor.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-04-27T14:32:13.046Z" modified="2021-04-28T18:16:29.36Z" filename="network_composer_movie_voiceActor.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG1.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-04-27T06:10:08.18Z" modified="2021-04-28T18:36:04.173Z" filename="SVG1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery5.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-03-24T04:04:44.092Z" modified="2021-03-24T04:04:44.092Z" filename="xquery5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="digit400_svg2.xql" skip="no" owner="wdjacca" group="wdjacca" mode="755" created="2021-11-25T06:27:13.241Z" modified="2021-11-25T19:06:13.37Z" filename="digit400_svg2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

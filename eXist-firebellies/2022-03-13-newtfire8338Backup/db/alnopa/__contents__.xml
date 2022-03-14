@@ -1,0 +1,19 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/alnopa" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:16:21.215Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="pokemon_example.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:22.849Z" modified="2021-12-30T05:16:22.849Z" filename="pokemon_example.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PokemonNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:21.636Z" modified="2021-12-30T05:16:21.636Z" filename="PokemonNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonExample.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:22.689Z" modified="2021-12-30T05:16:22.689Z" filename="pokemonExample.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="2020-pokemon-example.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:23.767Z" modified="2021-12-30T05:16:23.767Z" filename="2020-pokemon-example.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="SVG" filename="SVG"/>
+    <subcollection name="Schematron" filename="Schematron"/>
+    <subcollection name="XQuery" filename="XQuery"/>
+    <subcollection name="XSLT" filename="XSLT"/>
+</collection>

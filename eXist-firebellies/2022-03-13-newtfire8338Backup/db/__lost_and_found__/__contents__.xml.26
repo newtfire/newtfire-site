@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/old-queries" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:43.213Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="ElectionsQuery" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.303Z" modified="2020-08-07T21:14:45.303Z" filename="ElectionsQuery" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificPoetryCommPlacesIndexed" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.36Z" modified="2020-08-07T21:14:45.36Z" filename="PacificPoetryCommPlacesIndexed" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KMLGeorgForster" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.433Z" modified="2020-08-07T21:14:45.433Z" filename="KMLGeorgForster" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Election2012SVG" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.503Z" modified="2020-08-07T21:14:45.503Z" filename="Election2012SVG" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ClassOct23PacificPoetryCommPlacesIndexed" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.568Z" modified="2020-08-07T21:14:45.568Z" filename="ClassOct23PacificPoetryCommPlacesIndexed" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sampleQuery.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.629Z" modified="2020-08-07T21:14:45.629Z" filename="sampleQuery.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificPoetryCastLists" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.685Z" modified="2020-08-07T21:14:45.685Z" filename="PacificPoetryCastLists" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SchismPlace" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.756Z" modified="2020-08-07T21:14:45.756Z" filename="SchismPlace" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="beccaKML" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.808Z" modified="2020-08-07T21:14:45.808Z" filename="beccaKML" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="NameandMatchExperiment" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.881Z" modified="2020-08-07T21:14:45.881Z" filename="NameandMatchExperiment" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerqueryEx4" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.939Z" modified="2020-08-07T21:14:45.939Z" filename="testerqueryEx4" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ECCOL2PROB" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.214Z" modified="2020-08-07T21:14:43.214Z" filename="ECCOL2PROB" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KMLScript" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.282Z" modified="2020-08-07T21:14:43.282Z" filename="KMLScript" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MitfordCompareVersions" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.352Z" modified="2020-08-07T21:14:43.352Z" filename="MitfordCompareVersions" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ShakespeareQueryDHClass" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.408Z" modified="2020-08-07T21:14:43.408Z" filename="ShakespeareQueryDHClass" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificPersNamesRsColl" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.476Z" modified="2020-08-07T21:14:43.476Z" filename="PacificPersNamesRsColl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SimplicityItself" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.541Z" modified="2020-08-07T21:14:43.541Z" filename="SimplicityItself" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="alphabetizeShakesColl" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.605Z" modified="2020-08-07T21:14:43.605Z" filename="alphabetizeShakesColl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificInCommon2" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.669Z" modified="2020-08-07T21:14:43.669Z" filename="PacificInCommon2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ClassOct30" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.731Z" modified="2020-08-07T21:14:43.731Z" filename="ClassOct30" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificInCommon3" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.794Z" modified="2020-08-07T21:14:43.794Z" filename="PacificInCommon3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ElmsAttsTable" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.856Z" modified="2020-08-07T21:14:43.856Z" filename="ElmsAttsTable" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamletstringsends-withO" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.911Z" modified="2020-08-07T21:14:43.911Z" filename="hamletstringsends-withO" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CookVoy2toSVGCHAPTER" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.965Z" modified="2020-08-07T21:14:43.965Z" filename="CookVoy2toSVGCHAPTER" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificPoetryCollIndex" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44.034Z" modified="2020-08-07T21:14:44.034Z" filename="PacificPoetryCollIndex" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="textOutput-to-db" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44.095Z" modified="2020-08-07T21:14:44.095Z" filename="textOutput-to-db" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ECCOstringmatch" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44.155Z" modified="2020-08-07T21:14:44.155Z" filename="ECCOstringmatch" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="countgeoCookvoy2" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44.213Z" modified="2020-08-07T21:14:44.213Z" filename="countgeoCookvoy2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificPeeps" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44.273Z" modified="2020-08-07T21:14:44.273Z" filename="PacificPeeps" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificInCommon" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44.333Z" modified="2020-08-07T21:14:44.333Z" filename="PacificInCommon" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="textOutput.txt" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44.391Z" modified="2020-08-07T21:14:44.391Z" filename="textOutput.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SchismPlaceXMLout" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44.462Z" modified="2020-08-07T21:14:44.462Z" filename="SchismPlaceXMLout" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Tables_People_Places_PacPoetry" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44.522Z" modified="2020-08-07T21:14:44.522Z" filename="Tables_People_Places_PacPoetry" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ECCOL2" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44.58Z" modified="2020-08-07T21:14:44.58Z" filename="ECCOL2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ECCOL2HTML" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44.658Z" modified="2020-08-07T21:14:44.658Z" filename="ECCOL2HTML" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ShakespeareColl" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44.717Z" modified="2020-08-07T21:14:44.717Z" filename="ShakespeareColl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbSample.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:44.95Z" modified="2020-08-07T21:14:44.95Z" filename="ebbSample.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PacificNamesSVG" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.012Z" modified="2020-08-07T21:14:45.012Z" filename="PacificNamesSVG" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MitfordWorkQuery" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.07Z" modified="2020-08-07T21:14:45.07Z" filename="MitfordWorkQuery" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CookVoy2toSVGSORTED" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.133Z" modified="2020-08-07T21:14:45.133Z" filename="CookVoy2toSVGSORTED" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ShksmatchTitletoSpk" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.188Z" modified="2020-08-07T21:14:45.188Z" filename="ShksmatchTitletoSpk" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CookVoy2toSVG" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:45.242Z" modified="2020-08-07T21:14:45.242Z" filename="CookVoy2toSVG" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

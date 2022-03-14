@@ -1,0 +1,108 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/2021-ClassExamples" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:16:07.522Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="acData-Sqrt-expanX10.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:07.523Z" modified="2021-12-30T05:16:07.523Z" filename="acData-Sqrt-expanX10.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AssassinsCreedSpeaking.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:07.594Z" modified="2021-12-30T05:16:07.594Z" filename="AssassinsCreedSpeaking.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="acData-Sqrt.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:08.641Z" modified="2021-12-30T05:16:08.641Z" filename="acData-Sqrt.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ac.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:09.297Z" modified="2021-12-30T05:16:09.297Z" filename="ac.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bluesArtistGraph.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:09.461Z" modified="2021-12-30T05:16:09.461Z" filename="bluesArtistGraph.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bluesArtistTable.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:09.704Z" modified="2021-12-30T05:16:09.704Z" filename="bluesArtistTable.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="classMuddyBBLists.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:09.835Z" modified="2021-12-30T05:16:09.835Z" filename="classMuddyBBLists.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="acData.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:10.422Z" modified="2021-12-30T05:16:10.422Z" filename="acData.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="acData-Sqrt-expanX5.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:10.492Z" modified="2021-12-30T05:16:10.492Z" filename="acData-Sqrt-expanX5.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="acData.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:10.708Z" modified="2022-03-03T20:51:41.492Z" filename="acData.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="acData-piBased.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:10.777Z" modified="2021-12-30T05:16:10.777Z" filename="acData-piBased.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="disneyArtistInfo.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:10.845Z" modified="2021-12-30T05:16:10.845Z" filename="disneyArtistInfo.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="assassinsQuerySVG2-moreAccurateCircles.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:07.664Z" modified="2022-03-03T20:57:45.041Z" filename="assassinsQuerySVG2-moreAccurateCircles.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="wholeCollectionLyrics.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:08.229Z" modified="2021-12-30T05:16:08.229Z" filename="wholeCollectionLyrics.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Network1-disneySongsTSVStarter.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:08.306Z" modified="2021-12-30T05:16:08.306Z" filename="Network1-disneySongsTSVStarter.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesToNetTSV.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:08.386Z" modified="2021-12-30T05:16:08.386Z" filename="bluesToNetTSV.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesQuerying-to-HTML.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:08.469Z" modified="2021-12-30T05:16:08.469Z" filename="bluesQuerying-to-HTML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Disney-composers-songs.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:08.556Z" modified="2021-12-30T05:16:08.556Z" filename="Disney-composers-songs.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimmWordList.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:08.711Z" modified="2021-12-30T05:16:08.711Z" filename="grimmWordList.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimmWords.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:08.782Z" modified="2021-12-30T05:16:08.782Z" filename="grimmWords.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesSongsWritByMuddy.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:08.87Z" modified="2021-12-30T05:16:08.87Z" filename="bluesSongsWritByMuddy.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="assassinsQuery.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:08.947Z" modified="2021-12-30T05:16:08.947Z" filename="assassinsQuery.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneyVA-Comp-network.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:09.152Z" modified="2021-12-30T05:16:09.152Z" filename="disneyVA-Comp-network.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimmRobberBridegroom.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:09.375Z" modified="2021-12-30T05:16:09.375Z" filename="grimmRobberBridegroom.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimmTextPuller.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:09.543Z" modified="2021-12-30T05:16:09.543Z" filename="grimmTextPuller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneyVAonly-network.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:09.629Z" modified="2021-12-30T05:16:09.629Z" filename="disneyVAonly-network.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Network2-disneySongsTSV-VAsOnly.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:09.911Z" modified="2021-12-30T05:16:09.911Z" filename="Network2-disneySongsTSV-VAsOnly.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimm.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:10.284Z" modified="2021-12-30T05:16:10.284Z" filename="grimm.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesWholeCollectionTest.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:10.559Z" modified="2021-12-30T05:16:10.559Z" filename="bluesWholeCollectionTest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="assassinsQueryTinkering.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:10.631Z" modified="2021-12-30T05:16:10.631Z" filename="assassinsQueryTinkering.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="assassinsQuerySVG3class.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:10.92Z" modified="2021-12-30T05:16:10.92Z" filename="assassinsQuerySVG3class.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="assassinsQuerySVG2class.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:10.995Z" modified="2021-12-30T05:16:10.995Z" filename="assassinsQuerySVG2class.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="maxMuddySong.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:11.07Z" modified="2021-12-30T05:16:11.07Z" filename="maxMuddySong.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneySongLyrics.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:11.154Z" modified="2021-12-30T05:16:11.154Z" filename="disneySongLyrics.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesMuddyandBB.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:11.225Z" modified="2021-12-30T05:16:11.225Z" filename="bluesMuddyandBB.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

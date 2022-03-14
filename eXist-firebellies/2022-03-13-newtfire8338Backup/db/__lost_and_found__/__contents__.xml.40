@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/pokemonMap/places/landmarks" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:13.193Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="IndigoPlateau.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.559Z" modified="2020-08-07T21:14:13.559Z" filename="IndigoPlateau.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DiglettsCave.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.624Z" modified="2020-08-07T21:14:13.624Z" filename="DiglettsCave.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="MtMoon.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.681Z" modified="2020-08-07T21:14:13.681Z" filename="MtMoon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PokemonTower.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.733Z" modified="2020-08-07T21:14:13.733Z" filename="PokemonTower.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SilphCo.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.79Z" modified="2020-08-07T21:14:13.79Z" filename="SilphCo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SeafoamIsland.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.845Z" modified="2020-08-07T21:14:13.845Z" filename="SeafoamIsland.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ViridianForest.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.899Z" modified="2020-08-07T21:14:13.899Z" filename="ViridianForest.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="RockTunnel.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.965Z" modified="2020-08-07T21:14:13.965Z" filename="RockTunnel.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SafariZone.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14.026Z" modified="2020-08-07T21:14:14.026Z" filename="SafariZone.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CeladonGameCorner.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.194Z" modified="2020-08-07T21:14:13.194Z" filename="CeladonGameCorner.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CeruleanCave.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.252Z" modified="2020-08-07T21:14:13.252Z" filename="CeruleanCave.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="KantoPowerPlant.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.306Z" modified="2020-08-07T21:14:13.306Z" filename="KantoPowerPlant.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PokemonMansion.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.367Z" modified="2020-08-07T21:14:13.367Z" filename="PokemonMansion.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="VictoryRoad.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.43Z" modified="2020-08-07T21:14:13.43Z" filename="VictoryRoad.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

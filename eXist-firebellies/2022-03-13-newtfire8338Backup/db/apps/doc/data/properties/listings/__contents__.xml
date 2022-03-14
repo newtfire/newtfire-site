@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/properties/listings" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:56.381Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="existconf.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:56.382Z" modified="2021-12-30T05:04:56.382Z" filename="existconf.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mavenconf.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:56.386Z" modified="2021-12-30T05:04:56.386Z" filename="mavenconf.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="compose.yml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:56.383Z" modified="2021-12-30T05:04:56.383Z" filename="compose.yml" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docker.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:56.387Z" modified="2021-12-30T05:04:56.387Z" filename="docker.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:56.389Z" modified="2021-12-30T05:04:56.389Z" filename="xquery.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

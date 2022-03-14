@@ -1,0 +1,58 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/bmt45" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:23:07.177Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="brandNewInfo.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:09.917Z" modified="2021-12-30T05:23:09.917Z" filename="brandNewInfo.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Thomas_04_05.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:10.207Z" modified="2021-12-30T05:23:10.207Z" filename="Thomas_04_05.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Thomas_04_07.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:29.738Z" modified="2021-12-30T05:23:29.738Z" filename="Thomas_04_07.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Thomas_04_13.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:36.733Z" modified="2021-12-30T05:23:36.733Z" filename="Thomas_04_13.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_1.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:07.178Z" modified="2021-12-30T05:23:07.178Z" filename="qgis_1.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="RocketLaunchmk1.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:09.427Z" modified="2021-12-30T05:23:09.427Z" filename="RocketLaunchmk1.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="7_Eccles_Street.csv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:09.495Z" modified="2021-12-30T05:23:09.495Z" filename="7_Eccles_Street.csv" mimetype="text/csv">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Thomas_04_08" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:09.557Z" modified="2021-12-30T05:23:09.557Z" filename="Thomas_04_08" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SpecificLocation.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:09.622Z" modified="2021-12-30T05:23:09.622Z" filename="SpecificLocation.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SpecificLocation" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:09.701Z" modified="2021-12-30T05:23:09.701Z" filename="SpecificLocation" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Example" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:09.763Z" modified="2021-12-30T05:23:09.763Z" filename="Example" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Thomas_3-7.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:09.843Z" modified="2021-12-30T05:23:09.843Z" filename="Thomas_3-7.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Thomas_04_07.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:10.045Z" modified="2021-12-30T05:23:10.045Z" filename="Thomas_04_07.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Thomas_04_05.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:10.125Z" modified="2021-12-30T05:23:10.125Z" filename="Thomas_04_05.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Thomas_3-9.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:36.802Z" modified="2021-12-30T05:23:36.802Z" filename="Thomas_3-9.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Thomas_3-9" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:36.87Z" modified="2021-12-30T05:23:36.87Z" filename="Thomas_3-9" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="RocketLaunchmk.1.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:36.938Z" modified="2021-12-30T05:23:36.938Z" filename="RocketLaunchmk.1.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="UlyssesLocationtoRef.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:37.031Z" modified="2021-12-30T05:23:37.031Z" filename="UlyssesLocationtoRef.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="Ulysses" filename="Ulysses"/>
+</collection>

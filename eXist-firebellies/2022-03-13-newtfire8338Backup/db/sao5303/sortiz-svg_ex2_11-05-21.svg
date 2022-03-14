@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="2000"><g transform="translate(30,30)"><line x1="100" y1="0" x2="100" y2="1900" stroke="blue" stroke-width="3"/><g class="yeardata"><circle cx="100" cy="1100" r="10" stroke="purple" fill="violet"/><rect x="120" y="1110" width="10" height="10" fill="cyan"/><rect x="140" y="1110" width="10" height="10" fill="#AED6F1"/><text x="120" y="1100" stroke="blue">2010</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="800" r="10" stroke="purple" fill="violet"/><rect x="120" y="810" width="10" height="10" fill="cyan"/><rect x="140" y="810" width="10" height="10" fill="#AED6F1"/><text x="120" y="800" stroke="blue">2007</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1100" r="10" stroke="purple" fill="violet"/><rect x="120" y="1110" width="10" height="10" fill="cyan"/><rect x="140" y="1110" width="10" height="10" fill="#AED6F1"/><text x="120" y="1100" stroke="blue">2010</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1200" r="10" stroke="purple" fill="violet"/><rect x="120" y="1210" width="10" height="10" fill="cyan"/><rect x="140" y="1210" width="10" height="10" fill="#AED6F1"/><text x="120" y="1200" stroke="blue">2011</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="400" r="10" stroke="purple" fill="violet"/><rect x="120" y="410" width="10" height="10" fill="cyan"/><rect x="140" y="410" width="10" height="10" fill="#AED6F1"/><text x="120" y="400" stroke="blue">2003</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="600" r="10" stroke="purple" fill="violet"/><rect x="120" y="610" width="10" height="10" fill="cyan"/><rect x="140" y="610" width="10" height="10" fill="#AED6F1"/><text x="120" y="600" stroke="blue">2005</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1200" r="10" stroke="purple" fill="violet"/><rect x="120" y="1210" width="10" height="10" fill="cyan"/><rect x="140" y="1210" width="10" height="10" fill="#AED6F1"/><text x="120" y="1200" stroke="blue">2011</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1100" r="10" stroke="purple" fill="violet"/><rect x="120" y="1110" width="10" height="10" fill="cyan"/><rect x="140" y="1110" width="10" height="10" fill="#AED6F1"/><text x="120" y="1100" stroke="blue">2010</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="400" r="10" stroke="purple" fill="violet"/><rect x="120" y="410" width="10" height="10" fill="cyan"/><rect x="140" y="410" width="10" height="10" fill="#AED6F1"/><text x="120" y="400" stroke="blue">2003</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1000" r="10" stroke="purple" fill="violet"/><rect x="120" y="1010" width="10" height="10" fill="cyan"/><rect x="140" y="1010" width="10" height="10" fill="#AED6F1"/><text x="120" y="1000" stroke="blue">2009</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1200" r="10" stroke="purple" fill="violet"/><rect x="120" y="1210" width="10" height="10" fill="cyan"/><rect x="140" y="1210" width="10" height="10" fill="#AED6F1"/><text x="120" y="1200" stroke="blue">2011</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="400" r="10" stroke="purple" fill="violet"/><rect x="120" y="410" width="10" height="10" fill="cyan"/><rect x="140" y="410" width="10" height="10" fill="#AED6F1"/><text x="120" y="400" stroke="blue">2003</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="500" r="10" stroke="purple" fill="violet"/><rect x="120" y="510" width="10" height="10" fill="cyan"/><rect x="140" y="510" width="10" height="10" fill="#AED6F1"/><text x="120" y="500" stroke="blue">2004</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="800" r="10" stroke="purple" fill="violet"/><rect x="120" y="810" width="10" height="10" fill="cyan"/><rect x="140" y="810" width="10" height="10" fill="#AED6F1"/><text x="120" y="800" stroke="blue">2007</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="700" r="10" stroke="purple" fill="violet"/><rect x="120" y="710" width="10" height="10" fill="cyan"/><rect x="140" y="710" width="10" height="10" fill="#AED6F1"/><text x="120" y="700" stroke="blue">2006</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1800" r="10" stroke="purple" fill="violet"/><rect x="120" y="1810" width="10" height="10" fill="cyan"/><rect x="140" y="1810" width="10" height="10" fill="#AED6F1"/><text x="120" y="1800" stroke="blue">2017</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1200" r="10" stroke="purple" fill="violet"/><rect x="120" y="1210" width="10" height="10" fill="cyan"/><rect x="140" y="1210" width="10" height="10" fill="#AED6F1"/><text x="120" y="1200" stroke="blue">2011</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1200" r="10" stroke="purple" fill="violet"/><rect x="120" y="1210" width="10" height="10" fill="cyan"/><rect x="140" y="1210" width="10" height="10" fill="#AED6F1"/><text x="120" y="1200" stroke="blue">2011</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1900" r="10" stroke="purple" fill="violet"/><rect x="120" y="1910" width="10" height="10" fill="cyan"/><rect x="140" y="1910" width="10" height="10" fill="#AED6F1"/><text x="120" y="1900" stroke="blue">2018</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="600" r="10" stroke="purple" fill="violet"/><rect x="120" y="610" width="10" height="10" fill="cyan"/><rect x="140" y="610" width="10" height="10" fill="#AED6F1"/><text x="120" y="600" stroke="blue">2005</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1100" r="10" stroke="purple" fill="violet"/><rect x="120" y="1110" width="10" height="10" fill="cyan"/><rect x="140" y="1110" width="10" height="10" fill="#AED6F1"/><text x="120" y="1100" stroke="blue">2010</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1000" r="10" stroke="purple" fill="violet"/><rect x="120" y="1010" width="10" height="10" fill="cyan"/><rect x="140" y="1010" width="10" height="10" fill="#AED6F1"/><text x="120" y="1000" stroke="blue">2009</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1900" r="10" stroke="purple" fill="violet"/><rect x="120" y="1910" width="10" height="10" fill="cyan"/><rect x="140" y="1910" width="10" height="10" fill="#AED6F1"/><text x="120" y="1900" stroke="blue">2018</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="900" r="10" stroke="purple" fill="violet"/><rect x="120" y="910" width="10" height="10" fill="cyan"/><rect x="140" y="910" width="10" height="10" fill="#AED6F1"/><text x="120" y="900" stroke="blue">2008</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1300" r="10" stroke="purple" fill="violet"/><rect x="120" y="1310" width="10" height="10" fill="cyan"/><rect x="140" y="1310" width="10" height="10" fill="#AED6F1"/><text x="120" y="1300" stroke="blue">2012</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="0" r="10" stroke="purple" fill="violet"/><rect x="120" y="10" width="10" height="10" fill="cyan"/><rect x="140" y="10" width="10" height="10" fill="#AED6F1"/><text x="120" y="0" stroke="blue">1999</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="500" r="10" stroke="purple" fill="violet"/><rect x="120" y="510" width="10" height="10" fill="cyan"/><rect x="140" y="510" width="10" height="10" fill="#AED6F1"/><text x="120" y="500" stroke="blue">2004</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1200" r="10" stroke="purple" fill="violet"/><rect x="120" y="1210" width="10" height="10" fill="cyan"/><rect x="140" y="1210" width="10" height="10" fill="#AED6F1"/><text x="120" y="1200" stroke="blue">2011</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1300" r="10" stroke="purple" fill="violet"/><rect x="120" y="1310" width="10" height="10" fill="cyan"/><rect x="140" y="1310" width="10" height="10" fill="#AED6F1"/><text x="120" y="1300" stroke="blue">2012</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="400" r="10" stroke="purple" fill="violet"/><rect x="120" y="410" width="10" height="10" fill="cyan"/><rect x="140" y="410" width="10" height="10" fill="#AED6F1"/><text x="120" y="400" stroke="blue">2003</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1000" r="10" stroke="purple" fill="violet"/><rect x="120" y="1010" width="10" height="10" fill="cyan"/><rect x="140" y="1010" width="10" height="10" fill="#AED6F1"/><text x="120" y="1000" stroke="blue">2009</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="900" r="10" stroke="purple" fill="violet"/><rect x="120" y="910" width="10" height="10" fill="cyan"/><rect x="140" y="910" width="10" height="10" fill="#AED6F1"/><text x="120" y="900" stroke="blue">2008</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1700" r="10" stroke="purple" fill="violet"/><rect x="120" y="1710" width="10" height="10" fill="cyan"/><rect x="140" y="1710" width="10" height="10" fill="#AED6F1"/><text x="120" y="1700" stroke="blue">2016</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="600" r="10" stroke="purple" fill="violet"/><rect x="120" y="610" width="10" height="10" fill="cyan"/><rect x="140" y="610" width="10" height="10" fill="#AED6F1"/><text x="120" y="600" stroke="blue">2005</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="300" r="10" stroke="purple" fill="violet"/><rect x="120" y="310" width="10" height="10" fill="cyan"/><rect x="140" y="310" width="10" height="10" fill="#AED6F1"/><text x="120" y="300" stroke="blue">2002</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1900" r="10" stroke="purple" fill="violet"/><rect x="120" y="1910" width="10" height="10" fill="cyan"/><rect x="140" y="1910" width="10" height="10" fill="#AED6F1"/><text x="120" y="1900" stroke="blue">2018</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="400" r="10" stroke="purple" fill="violet"/><rect x="120" y="410" width="10" height="10" fill="cyan"/><rect x="140" y="410" width="10" height="10" fill="#AED6F1"/><text x="120" y="400" stroke="blue">2003</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="700" r="10" stroke="purple" fill="violet"/><rect x="120" y="710" width="10" height="10" fill="cyan"/><rect x="140" y="710" width="10" height="10" fill="#AED6F1"/><text x="120" y="700" stroke="blue">2006</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1600" r="10" stroke="purple" fill="violet"/><rect x="120" y="1610" width="10" height="10" fill="cyan"/><rect x="140" y="1610" width="10" height="10" fill="#AED6F1"/><text x="120" y="1600" stroke="blue">2015</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1600" r="10" stroke="purple" fill="violet"/><rect x="120" y="1610" width="10" height="10" fill="cyan"/><rect x="140" y="1610" width="10" height="10" fill="#AED6F1"/><text x="120" y="1600" stroke="blue">2015</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1900" r="10" stroke="purple" fill="violet"/><rect x="120" y="1910" width="10" height="10" fill="cyan"/><rect x="140" y="1910" width="10" height="10" fill="#AED6F1"/><text x="120" y="1900" stroke="blue">2018</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1900" r="10" stroke="purple" fill="violet"/><rect x="120" y="1910" width="10" height="10" fill="cyan"/><rect x="140" y="1910" width="10" height="10" fill="#AED6F1"/><text x="120" y="1900" stroke="blue">2018</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="600" r="10" stroke="purple" fill="violet"/><rect x="120" y="610" width="10" height="10" fill="cyan"/><rect x="140" y="610" width="10" height="10" fill="#AED6F1"/><text x="120" y="600" stroke="blue">2005</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1400" r="10" stroke="purple" fill="violet"/><rect x="120" y="1410" width="10" height="10" fill="cyan"/><rect x="140" y="1410" width="10" height="10" fill="#AED6F1"/><text x="120" y="1400" stroke="blue">2013</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1300" r="10" stroke="purple" fill="violet"/><rect x="120" y="1310" width="10" height="10" fill="cyan"/><rect x="140" y="1310" width="10" height="10" fill="#AED6F1"/><text x="120" y="1300" stroke="blue">2012</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="900" r="10" stroke="purple" fill="violet"/><rect x="120" y="910" width="10" height="10" fill="cyan"/><rect x="140" y="910" width="10" height="10" fill="#AED6F1"/><text x="120" y="900" stroke="blue">2008</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1400" r="10" stroke="purple" fill="violet"/><rect x="120" y="1410" width="10" height="10" fill="cyan"/><rect x="140" y="1410" width="10" height="10" fill="#AED6F1"/><text x="120" y="1400" stroke="blue">2013</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="400" r="10" stroke="purple" fill="violet"/><rect x="120" y="410" width="10" height="10" fill="cyan"/><rect x="140" y="410" width="10" height="10" fill="#AED6F1"/><text x="120" y="400" stroke="blue">2003</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="900" r="10" stroke="purple" fill="violet"/><rect x="120" y="910" width="10" height="10" fill="cyan"/><rect x="140" y="910" width="10" height="10" fill="#AED6F1"/><text x="120" y="900" stroke="blue">2008</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="800" r="10" stroke="purple" fill="violet"/><rect x="120" y="810" width="10" height="10" fill="cyan"/><rect x="140" y="810" width="10" height="10" fill="#AED6F1"/><text x="120" y="800" stroke="blue">2007</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="500" r="10" stroke="purple" fill="violet"/><rect x="120" y="510" width="10" height="10" fill="cyan"/><rect x="140" y="510" width="10" height="10" fill="#AED6F1"/><text x="120" y="500" stroke="blue">2004</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="800" r="10" stroke="purple" fill="violet"/><rect x="120" y="810" width="10" height="10" fill="cyan"/><rect x="140" y="810" width="10" height="10" fill="#AED6F1"/><text x="120" y="800" stroke="blue">2007</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="700" r="10" stroke="purple" fill="violet"/><rect x="120" y="710" width="10" height="10" fill="cyan"/><rect x="140" y="710" width="10" height="10" fill="#AED6F1"/><text x="120" y="700" stroke="blue">2006</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="700" r="10" stroke="purple" fill="violet"/><rect x="120" y="710" width="10" height="10" fill="cyan"/><rect x="140" y="710" width="10" height="10" fill="#AED6F1"/><text x="120" y="700" stroke="blue">2006</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="400" r="10" stroke="purple" fill="violet"/><rect x="120" y="410" width="10" height="10" fill="cyan"/><rect x="140" y="410" width="10" height="10" fill="#AED6F1"/><text x="120" y="400" stroke="blue">2003</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="400" r="10" stroke="purple" fill="violet"/><rect x="120" y="410" width="10" height="10" fill="cyan"/><rect x="140" y="410" width="10" height="10" fill="#AED6F1"/><text x="120" y="400" stroke="blue">2003</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="500" r="10" stroke="purple" fill="violet"/><rect x="120" y="510" width="10" height="10" fill="cyan"/><rect x="140" y="510" width="10" height="10" fill="#AED6F1"/><text x="120" y="500" stroke="blue">2004</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1100" r="10" stroke="purple" fill="violet"/><rect x="120" y="1110" width="10" height="10" fill="cyan"/><rect x="140" y="1110" width="10" height="10" fill="#AED6F1"/><text x="120" y="1100" stroke="blue">2010</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="800" r="10" stroke="purple" fill="violet"/><rect x="120" y="810" width="10" height="10" fill="cyan"/><rect x="140" y="810" width="10" height="10" fill="#AED6F1"/><text x="120" y="800" stroke="blue">2007</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1900" r="10" stroke="purple" fill="violet"/><rect x="120" y="1910" width="10" height="10" fill="cyan"/><rect x="140" y="1910" width="10" height="10" fill="#AED6F1"/><text x="120" y="1900" stroke="blue">2018</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="500" r="10" stroke="purple" fill="violet"/><rect x="120" y="510" width="10" height="10" fill="cyan"/><rect x="140" y="510" width="10" height="10" fill="#AED6F1"/><text x="120" y="500" stroke="blue">2004</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="300" r="10" stroke="purple" fill="violet"/><rect x="120" y="310" width="10" height="10" fill="cyan"/><rect x="140" y="310" width="10" height="10" fill="#AED6F1"/><text x="120" y="300" stroke="blue">2002</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="900" r="10" stroke="purple" fill="violet"/><rect x="120" y="910" width="10" height="10" fill="cyan"/><rect x="140" y="910" width="10" height="10" fill="#AED6F1"/><text x="120" y="900" stroke="blue">2008</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="400" r="10" stroke="purple" fill="violet"/><rect x="120" y="410" width="10" height="10" fill="cyan"/><rect x="140" y="410" width="10" height="10" fill="#AED6F1"/><text x="120" y="400" stroke="blue">2003</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1300" r="10" stroke="purple" fill="violet"/><rect x="120" y="1310" width="10" height="10" fill="cyan"/><rect x="140" y="1310" width="10" height="10" fill="#AED6F1"/><text x="120" y="1300" stroke="blue">2012</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="400" r="10" stroke="purple" fill="violet"/><rect x="120" y="410" width="10" height="10" fill="cyan"/><rect x="140" y="410" width="10" height="10" fill="#AED6F1"/><text x="120" y="400" stroke="blue">2003</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1900" r="10" stroke="purple" fill="violet"/><rect x="120" y="1910" width="10" height="10" fill="cyan"/><rect x="140" y="1910" width="10" height="10" fill="#AED6F1"/><text x="120" y="1900" stroke="blue">2018</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1500" r="10" stroke="purple" fill="violet"/><rect x="120" y="1510" width="10" height="10" fill="cyan"/><rect x="140" y="1510" width="10" height="10" fill="#AED6F1"/><text x="120" y="1500" stroke="blue">2014</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="200" r="10" stroke="purple" fill="violet"/><rect x="120" y="210" width="10" height="10" fill="cyan"/><rect x="140" y="210" width="10" height="10" fill="#AED6F1"/><text x="120" y="200" stroke="blue">2001</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1000" r="10" stroke="purple" fill="violet"/><rect x="120" y="1010" width="10" height="10" fill="cyan"/><rect x="140" y="1010" width="10" height="10" fill="#AED6F1"/><text x="120" y="1000" stroke="blue">2009</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1500" r="10" stroke="purple" fill="violet"/><rect x="120" y="1510" width="10" height="10" fill="cyan"/><rect x="140" y="1510" width="10" height="10" fill="#AED6F1"/><text x="120" y="1500" stroke="blue">2014</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="400" r="10" stroke="purple" fill="violet"/><rect x="120" y="410" width="10" height="10" fill="cyan"/><rect x="140" y="410" width="10" height="10" fill="#AED6F1"/><text x="120" y="400" stroke="blue">2003</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1600" r="10" stroke="purple" fill="violet"/><rect x="120" y="1610" width="10" height="10" fill="cyan"/><rect x="140" y="1610" width="10" height="10" fill="#AED6F1"/><text x="120" y="1600" stroke="blue">2015</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1200" r="10" stroke="purple" fill="violet"/><rect x="120" y="1210" width="10" height="10" fill="cyan"/><rect x="140" y="1210" width="10" height="10" fill="#AED6F1"/><text x="120" y="1200" stroke="blue">2011</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="500" r="10" stroke="purple" fill="violet"/><rect x="120" y="510" width="10" height="10" fill="cyan"/><rect x="140" y="510" width="10" height="10" fill="#AED6F1"/><text x="120" y="500" stroke="blue">2004</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1500" r="10" stroke="purple" fill="violet"/><rect x="120" y="1510" width="10" height="10" fill="cyan"/><rect x="140" y="1510" width="10" height="10" fill="#AED6F1"/><text x="120" y="1500" stroke="blue">2014</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1100" r="10" stroke="purple" fill="violet"/><rect x="120" y="1110" width="10" height="10" fill="cyan"/><rect x="140" y="1110" width="10" height="10" fill="#AED6F1"/><text x="120" y="1100" stroke="blue">2010</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="700" r="10" stroke="purple" fill="violet"/><rect x="120" y="710" width="10" height="10" fill="cyan"/><rect x="140" y="710" width="10" height="10" fill="#AED6F1"/><text x="120" y="700" stroke="blue">2006</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="900" r="10" stroke="purple" fill="violet"/><rect x="120" y="910" width="10" height="10" fill="cyan"/><rect x="140" y="910" width="10" height="10" fill="#AED6F1"/><text x="120" y="900" stroke="blue">2008</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1600" r="10" stroke="purple" fill="violet"/><rect x="120" y="1610" width="10" height="10" fill="cyan"/><rect x="140" y="1610" width="10" height="10" fill="#AED6F1"/><text x="120" y="1600" stroke="blue">2015</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="500" r="10" stroke="purple" fill="violet"/><rect x="120" y="510" width="10" height="10" fill="cyan"/><rect x="140" y="510" width="10" height="10" fill="#AED6F1"/><text x="120" y="500" stroke="blue">2004</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1900" r="10" stroke="purple" fill="violet"/><rect x="120" y="1910" width="10" height="10" fill="cyan"/><rect x="140" y="1910" width="10" height="10" fill="#AED6F1"/><text x="120" y="1900" stroke="blue">2018</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="600" r="10" stroke="purple" fill="violet"/><rect x="120" y="610" width="10" height="10" fill="cyan"/><rect x="140" y="610" width="10" height="10" fill="#AED6F1"/><text x="120" y="600" stroke="blue">2005</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="800" r="10" stroke="purple" fill="violet"/><rect x="120" y="810" width="10" height="10" fill="cyan"/><rect x="140" y="810" width="10" height="10" fill="#AED6F1"/><text x="120" y="800" stroke="blue">2007</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="700" r="10" stroke="purple" fill="violet"/><rect x="120" y="710" width="10" height="10" fill="cyan"/><rect x="140" y="710" width="10" height="10" fill="#AED6F1"/><text x="120" y="700" stroke="blue">2006</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1400" r="10" stroke="purple" fill="violet"/><rect x="120" y="1410" width="10" height="10" fill="cyan"/><rect x="140" y="1410" width="10" height="10" fill="#AED6F1"/><text x="120" y="1400" stroke="blue">2013</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="500" r="10" stroke="purple" fill="violet"/><rect x="120" y="510" width="10" height="10" fill="cyan"/><rect x="140" y="510" width="10" height="10" fill="#AED6F1"/><text x="120" y="500" stroke="blue">2004</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="700" r="10" stroke="purple" fill="violet"/><rect x="120" y="710" width="10" height="10" fill="cyan"/><rect x="140" y="710" width="10" height="10" fill="#AED6F1"/><text x="120" y="700" stroke="blue">2006</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1600" r="10" stroke="purple" fill="violet"/><rect x="120" y="1610" width="10" height="10" fill="cyan"/><rect x="140" y="1610" width="10" height="10" fill="#AED6F1"/><text x="120" y="1600" stroke="blue">2015</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1400" r="10" stroke="purple" fill="violet"/><rect x="120" y="1410" width="10" height="10" fill="cyan"/><rect x="140" y="1410" width="10" height="10" fill="#AED6F1"/><text x="120" y="1400" stroke="blue">2013</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="700" r="10" stroke="purple" fill="violet"/><rect x="120" y="710" width="10" height="10" fill="cyan"/><rect x="140" y="710" width="10" height="10" fill="#AED6F1"/><text x="120" y="700" stroke="blue">2006</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="500" r="10" stroke="purple" fill="violet"/><rect x="120" y="510" width="10" height="10" fill="cyan"/><rect x="140" y="510" width="10" height="10" fill="#AED6F1"/><text x="120" y="500" stroke="blue">2004</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="1000" r="10" stroke="purple" fill="violet"/><rect x="120" y="1010" width="10" height="10" fill="cyan"/><rect x="140" y="1010" width="10" height="10" fill="#AED6F1"/><text x="120" y="1000" stroke="blue">2009</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="500" r="10" stroke="purple" fill="violet"/><rect x="120" y="510" width="10" height="10" fill="cyan"/><rect x="140" y="510" width="10" height="10" fill="#AED6F1"/><text x="120" y="500" stroke="blue">2004</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="600" r="10" stroke="purple" fill="violet"/><rect x="120" y="610" width="10" height="10" fill="cyan"/><rect x="140" y="610" width="10" height="10" fill="#AED6F1"/><text x="120" y="600" stroke="blue">2005</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="600" r="10" stroke="purple" fill="violet"/><rect x="120" y="610" width="10" height="10" fill="cyan"/><rect x="140" y="610" width="10" height="10" fill="#AED6F1"/><text x="120" y="600" stroke="blue">2005</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="500" r="10" stroke="purple" fill="violet"/><rect x="120" y="510" width="10" height="10" fill="cyan"/><rect x="140" y="510" width="10" height="10" fill="#AED6F1"/><text x="120" y="500" stroke="blue">2004</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="400" r="10" stroke="purple" fill="violet"/><rect x="120" y="410" width="10" height="10" fill="cyan"/><rect x="140" y="410" width="10" height="10" fill="#AED6F1"/><text x="120" y="400" stroke="blue">2003</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g><g class="yeardata"><circle cx="100" cy="400" r="10" stroke="purple" fill="violet"/><rect x="120" y="410" width="10" height="10" fill="cyan"/><rect x="140" y="410" width="10" height="10" fill="#AED6F1"/><text x="120" y="400" stroke="blue">2003</text>
+      
+      (:Im stuck here with the for loops but i tried looking back at prior svg works, so i know to fix the radius of the circles i need to somehow grab the info for the titles and count them up:)
+  </g></g></svg>

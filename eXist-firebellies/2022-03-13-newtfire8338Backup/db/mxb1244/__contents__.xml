@@ -1,0 +1,17 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/mxb1244" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:26:25.77Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="correctTimeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:26.222Z" modified="2021-12-30T05:26:26.222Z" filename="correctTimeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:27.47Z" modified="2021-12-30T05:26:27.47Z" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exercise2" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:25.772Z" modified="2021-12-30T05:26:25.772Z" filename="exercise2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="notes" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:26.349Z" modified="2021-12-30T05:26:26.349Z" filename="notes" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="xpath" filename="xpath"/>
+    <subcollection name="homework" filename="homework"/>
+</collection>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/sxa585/KML" version="1" owner="sxa585" group="dba" mode="2755" created="2021-11-15T05:59:31.009Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="May_Map" skip="no" owner="sxa585" group="dba" mode="644" created="2021-11-15T05:59:38.568Z" modified="2021-11-15T06:26:58.159Z" filename="May_Map" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,47 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/2020_ClassExamples" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:16:05.093Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="rocketTimeline-sample.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:05.094Z" modified="2021-12-30T05:16:05.094Z" filename="rocketTimeline-sample.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="introSVG.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:07.238Z" modified="2021-12-30T05:16:07.238Z" filename="introSVG.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="brandNewNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:05.194Z" modified="2021-12-30T05:16:05.194Z" filename="brandNewNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketDateDurationSurvey.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:05.271Z" modified="2021-12-30T05:16:05.271Z" filename="rocketDateDurationSurvey.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testQuery.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:06.57Z" modified="2021-12-30T05:16:06.57Z" filename="testQuery.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocket-data-to-tsv.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:06.652Z" modified="2021-12-30T05:16:06.652Z" filename="rocket-data-to-tsv.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketTimelineStarter.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:06.738Z" modified="2021-12-30T05:16:06.738Z" filename="rocketTimelineStarter.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemon_routes_v_types.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:06.912Z" modified="2021-12-30T05:16:06.912Z" filename="pokemon_routes_v_types.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketLandingNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:06.996Z" modified="2021-12-30T05:16:06.996Z" filename="rocketLandingNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketDateDurationSurvey2.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:07.063Z" modified="2021-12-30T05:16:07.063Z" filename="rocketDateDurationSurvey2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketLaunchData.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:07.154Z" modified="2021-12-30T05:16:07.154Z" filename="rocketLaunchData.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySimpleNet.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:07.303Z" modified="2021-12-30T05:16:07.303Z" filename="banksySimpleNet.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketSimpleDateArithmetic.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:07.37Z" modified="2021-12-30T05:16:07.37Z" filename="rocketSimpleDateArithmetic.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="brandNew-If-Then-to-tsv.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:07.451Z" modified="2021-12-30T05:16:07.451Z" filename="brandNew-If-Then-to-tsv.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="testQuery" filename="testQuery"/>
+    <subcollection name="pokemonQGIS" filename="pokemonQGIS"/>
+</collection>

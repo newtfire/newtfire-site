@@ -1,0 +1,51 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/bab184" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:21:24.904Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="bolyen_03-04_OUTPUT3_BrandNew.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:25.534Z" modified="2021-12-30T05:21:25.534Z" filename="bolyen_03-04_OUTPUT3_BrandNew.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pokemon_example.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:26.025Z" modified="2021-12-30T05:21:26.024Z" filename="pokemon_example.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="class_example_pokemon_routes_1.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:26.087Z" modified="2021-12-30T05:21:26.087Z" filename="class_example_pokemon_routes_1.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bolyen_03-06_XQUERY4_BrandNew.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:24.905Z" modified="2021-12-30T05:21:24.905Z" filename="bolyen_03-06_XQUERY4_BrandNew.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="brandNewBPMandHarmony.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:25.06Z" modified="2021-12-30T05:21:25.06Z" filename="brandNewBPMandHarmony.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="project_songPartsTSV" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:25.132Z" modified="2021-12-30T05:21:25.132Z" filename="project_songPartsTSV" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="brandNewTempo.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:25.204Z" modified="2021-12-30T05:21:25.204Z" filename="brandNewTempo.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="projectTesting2" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:25.271Z" modified="2021-12-30T05:21:25.271Z" filename="projectTesting2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="brandNewTestTSV.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:25.336Z" modified="2021-12-30T05:21:25.336Z" filename="brandNewTestTSV.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="projectTesting" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:25.403Z" modified="2021-12-30T05:21:25.403Z" filename="projectTesting" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bolyen_03-18_XQUERY_BrandNew" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:25.471Z" modified="2021-12-30T05:21:25.471Z" filename="bolyen_03-18_XQUERY_BrandNew" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bolyen_03-02_XQUERY2_pokemon" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:25.685Z" modified="2021-12-30T05:21:25.685Z" filename="bolyen_03-02_XQUERY2_pokemon" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonLocationTSV.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:25.754Z" modified="2021-12-30T05:21:25.754Z" filename="pokemonLocationTSV.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bolyen_03-04_XQUERY3_BrandNew.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:25.817Z" modified="2021-12-30T05:21:25.817Z" filename="bolyen_03-04_XQUERY3_BrandNew.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bolyen_03-25_QGIS1_pokemonXPATH" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:25.883Z" modified="2021-12-30T05:21:25.883Z" filename="bolyen_03-25_QGIS1_pokemonXPATH" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="projectTesting-ebb.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:25.948Z" modified="2021-12-30T05:21:25.948Z" filename="projectTesting-ebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

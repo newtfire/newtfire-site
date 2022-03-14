@@ -1,0 +1,33 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/jhf20" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:25:09.202Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="farley_SVG_Ex_2_04-05-19" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:09.203Z" modified="2021-12-30T05:25:09.203Z" filename="farley_SVG_Ex_2_04-05-19" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="farley_XQuery_Network_03-08-19.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:09.268Z" modified="2021-12-30T05:25:09.268Z" filename="farley_XQuery_Network_03-08-19.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="farley_XQuery_retry_04.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:09.345Z" modified="2021-12-30T05:25:09.345Z" filename="farley_XQuery_retry_04.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MediumsNetwork.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:09.483Z" modified="2021-12-30T05:25:09.483Z" filename="MediumsNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="farley_XQuery_EX_04_03-08-19" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:09.578Z" modified="2021-12-30T05:25:09.578Z" filename="farley_XQuery_EX_04_03-08-19" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="farley_SVG_Ex_3_04-08-19" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:09.698Z" modified="2021-12-30T05:25:09.698Z" filename="farley_SVG_Ex_3_04-08-19" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="farley_XQuery_EX_3_03-06-19" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:09.761Z" modified="2021-12-30T05:25:09.761Z" filename="farley_XQuery_EX_3_03-06-19" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyMediums.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:09.826Z" modified="2021-12-30T05:25:09.826Z" filename="banksyMediums.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyMediumsRetry.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:09.888Z" modified="2021-12-30T05:25:09.888Z" filename="banksyMediumsRetry.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MediumsNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:09.95Z" modified="2021-12-30T05:25:09.95Z" filename="MediumsNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

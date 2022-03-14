@@ -1,0 +1,6 @@
+xquery version "3.1";
+let $PV :=doc('//db/mayan/popolVuh.xml')
+let $book :=$PV//book
+for $g in $book
+let $return :=$g//character/@idref
+return string-join($return," : ")

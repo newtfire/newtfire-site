@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="85"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>226e04c770e90159dffe78779784a1368718ee98</digestPassword><group name="bac5738"/><group name="smashtiers"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><metadata key="http://axschema.org/namePerson">Barbie Cessar</metadata><name>bac5738</name></account>

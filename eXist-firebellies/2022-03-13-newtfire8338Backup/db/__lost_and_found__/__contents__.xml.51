@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rgg5144" version="1" owner="rgg5144" group="dba" mode="775" created="2021-03-08T20:22:08.413Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="RachelBlues.html" skip="no" owner="rgg5144" group="rgg5144" mode="755" created="2021-03-14T22:29:42.943Z" modified="2021-03-22T17:19:37.112Z" filename="RachelBlues.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rachelAC.svg" skip="no" owner="rgg5144" group="rgg5144" mode="644" created="2021-03-21T18:19:42.134Z" modified="2021-03-23T22:32:03.495Z" filename="rachelAC.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Racheltest" skip="no" owner="rgg5144" group="rgg5144" mode="644" created="2021-04-03T15:23:50.613Z" modified="2021-04-03T15:25:28.627Z" filename="Racheltest" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Racheltest.html" skip="no" owner="rgg5144" group="rgg5144" mode="644" created="2021-04-03T15:26:42.926Z" modified="2021-04-05T18:34:37.342Z" filename="Racheltest.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Python2.txt" skip="no" owner="rgg5144" group="rgg5144" mode="644" created="2021-04-13T20:57:47.793Z" modified="2021-04-13T22:39:05.151Z" filename="Python2.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Python2.xql" skip="no" owner="rgg5144" group="rgg5144" mode="755" created="2021-04-13T20:56:14.682Z" modified="2021-04-13T23:08:08.405Z" filename="Python2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="blues%20songs" skip="no" owner="rgg5144" group="rgg5144" mode="755" created="2021-03-14T18:55:03.272Z" modified="2021-03-14T22:25:33.921Z" filename="blues songs" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="RachelBlues" skip="no" owner="rgg5144" group="rgg5144" mode="755" created="2021-03-14T22:42:56.109Z" modified="2021-03-14T22:50:15.234Z" filename="RachelBlues" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="RachelBlues.xql" skip="no" owner="rgg5144" group="rgg5144" mode="755" created="2021-03-14T23:18:06.266Z" modified="2021-03-14T23:19:12.858Z" filename="RachelBlues.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="cytoscape1" skip="no" owner="rgg5144" group="rgg5144" mode="755" created="2021-03-25T21:20:03.752Z" modified="2021-03-25T21:20:17.5Z" filename="cytoscape1" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneySongdata.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-03-25T21:43:14.587Z" modified="2021-03-25T21:43:51.252Z" filename="disneySongdata.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Python3.txt" skip="no" owner="rgg5144" group="rgg5144" mode="644" created="2021-04-15T20:17:47.188Z" modified="2021-04-15T20:21:31.867Z" filename="Python3.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Python3.xql" skip="no" owner="rgg5144" group="rgg5144" mode="755" created="2021-04-15T20:17:35.348Z" modified="2021-04-15T20:23:09.761Z" filename="Python3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneySongdata2.tsv" skip="no" owner="rgg5144" group="rgg5144" mode="644" created="2021-03-28T17:03:08.327Z" modified="2021-03-28T17:17:47.346Z" filename="disneySongdata2.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="cytoscape1.xql" skip="no" owner="rgg5144" group="rgg5144" mode="755" created="2021-03-25T21:20:37.706Z" modified="2021-03-28T17:53:44.238Z" filename="cytoscape1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Python1.txt" skip="no" owner="rgg5144" group="rgg5144" mode="644" created="2021-04-11T14:26:58.156Z" modified="2021-04-11T14:40:50.16Z" filename="Python1.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="python1.xql" skip="no" owner="rgg5144" group="rgg5144" mode="755" created="2021-04-11T14:27:59.469Z" modified="2021-04-11T14:43:13.302Z" filename="python1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test.xql" skip="no" owner="rgg5144" group="rgg5144" mode="755" created="2021-03-31T18:14:30.355Z" modified="2021-04-05T18:34:40.497Z" filename="test.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg2.xql" skip="no" owner="rgg5144" group="rgg5144" mode="755" created="2021-03-21T16:48:37.3Z" modified="2021-03-23T22:33:00.826Z" filename="svg2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="songs%20by%20character" skip="no" owner="rgg5144" group="rgg5144" mode="755" created="2021-03-11T17:37:00.352Z" modified="2021-03-12T13:54:35.961Z" filename="songs by character" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

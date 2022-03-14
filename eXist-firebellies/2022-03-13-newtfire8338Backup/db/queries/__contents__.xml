@@ -1,0 +1,196 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/queries" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:27:10.235Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="SHAKESFLWOROutput.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:13.746Z" modified="2021-12-30T05:27:13.746Z" filename="SHAKESFLWOROutput.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="MissJames_TableOutput.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.035Z" modified="2021-12-30T05:27:14.035Z" filename="MissJames_TableOutput.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="autoBuildYears.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:10.237Z" modified="2021-12-30T05:27:10.237Z" filename="autoBuildYears.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tokenizeBaseURI" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:10.3Z" modified="2021-12-30T05:27:10.3Z" filename="tokenizeBaseURI" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MitfordExactFuzzy.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:10.617Z" modified="2021-12-30T05:27:10.617Z" filename="MitfordExactFuzzy.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapLocs1.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:10.746Z" modified="2021-12-30T05:27:10.746Z" filename="mapLocs1.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerGYjonhoranic.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:10.812Z" modified="2021-12-30T05:27:10.812Z" filename="testerGYjonhoranic.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="backlistsProsop" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:10.896Z" modified="2021-12-30T05:27:10.896Z" filename="backlistsProsop" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesGraphy.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:10.957Z" modified="2021-12-30T05:27:10.957Z" filename="bluesGraphy.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySVGTimelinePrep.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.027Z" modified="2021-12-30T05:27:11.027Z" filename="banksySVGTimelinePrep.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AddressesToTSV" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.096Z" modified="2021-12-30T05:27:11.096Z" filename="AddressesToTSV" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SITransHTML" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.166Z" modified="2021-12-30T05:27:11.166Z" filename="SITransHTML" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitfordCollSVG" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.229Z" modified="2021-12-30T05:27:11.229Z" filename="mitfordCollSVG" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dickinsonNA.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.292Z" modified="2021-12-30T05:27:11.292Z" filename="dickinsonNA.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="classPrep.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.361Z" modified="2021-12-30T05:27:11.361Z" filename="classPrep.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySVGXYBarPlot.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.429Z" modified="2021-12-30T05:27:11.429Z" filename="banksySVGXYBarPlot.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonEx2_pt3globalVar.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.516Z" modified="2021-12-30T05:27:11.516Z" filename="pokemonEx2_pt3globalVar.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="netHtstr" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.594Z" modified="2021-12-30T05:27:11.594Z" filename="netHtstr" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebb_localizedTypeSwitch.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.653Z" modified="2021-12-30T05:27:11.653Z" filename="ebb_localizedTypeSwitch.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksy.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.722Z" modified="2021-12-30T05:27:11.722Z" filename="banksy.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerGYAaronNewton.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.8Z" modified="2021-12-30T05:27:11.8Z" filename="testerGYAaronNewton.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mrmpeeps.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.884Z" modified="2021-12-30T05:27:11.884Z" filename="mrmpeeps.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="reindex2" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:11.965Z" modified="2021-12-30T05:27:11.965Z" filename="reindex2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakeGt58_Ex1.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:12.025Z" modified="2021-12-30T05:27:12.025Z" filename="shakeGt58_Ex1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerMissJames-coRef" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:12.089Z" modified="2021-12-30T05:27:12.089Z" filename="testerMissJames-coRef" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bubblePlotSVG.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:12.15Z" modified="2021-12-30T05:27:12.15Z" filename="bubblePlotSVG.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dectoNA.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:12.608Z" modified="2021-12-30T05:27:12.608Z" filename="dectoNA.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TLjs_ebb.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:12.682Z" modified="2021-12-30T05:27:12.682Z" filename="TLjs_ebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TimelinePart2_fromJMH.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:12.771Z" modified="2021-12-30T05:27:12.771Z" filename="TimelinePart2_fromJMH.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testIndexingLettersHTM" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:12.842Z" modified="2021-12-30T05:27:12.842Z" filename="testIndexingLettersHTM" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonEx2_pt1stringOut.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:12.905Z" modified="2021-12-30T05:27:12.905Z" filename="pokemonEx2_pt1stringOut.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="siteIndexTrans" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:12.975Z" modified="2021-12-30T05:27:12.975Z" filename="siteIndexTrans" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FalstaffFLWORintro.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:13.04Z" modified="2021-12-30T05:27:13.04Z" filename="FalstaffFLWORintro.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerGY_globalVars.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:13.115Z" modified="2021-12-30T05:27:13.115Z" filename="testerGY_globalVars.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="HamletSpeakerSpeechCounts.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:13.189Z" modified="2021-12-30T05:27:13.189Z" filename="HamletSpeakerSpeechCounts.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="classMitfordqueryNov7" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:13.256Z" modified="2021-12-30T05:27:13.256Z" filename="classMitfordqueryNov7" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ShakesMaxDistSpeakers.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:13.323Z" modified="2021-12-30T05:27:13.323Z" filename="ShakesMaxDistSpeakers.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitfordColl_SVG_tinkering" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:13.458Z" modified="2021-12-30T05:27:13.458Z" filename="mitfordColl_SVG_tinkering" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="placesList.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:13.528Z" modified="2021-12-30T05:27:13.528Z" filename="placesList.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bubblePlotSVG-forVideo.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:13.592Z" modified="2021-12-30T05:27:13.592Z" filename="bubblePlotSVG-forVideo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonEx2_pt2htmlOut.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:13.675Z" modified="2021-12-30T05:27:13.675Z" filename="pokemonEx2_pt2htmlOut.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemonEx2.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:13.808Z" modified="2021-12-30T05:27:13.808Z" filename="pokemonEx2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="personQuery-ClassHTML" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:13.906Z" modified="2021-12-30T05:27:13.906Z" filename="personQuery-ClassHTML" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapLocs.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:13.968Z" modified="2021-12-30T05:27:13.968Z" filename="mapLocs.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="returnWholeShakesPlays.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.108Z" modified="2021-12-30T05:27:14.108Z" filename="returnWholeShakesPlays.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitfordCollQuery" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.18Z" modified="2021-12-30T05:27:14.18Z" filename="mitfordCollQuery" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testIndexing.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.24Z" modified="2021-12-30T05:27:14.24Z" filename="testIndexing.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitfordtoNetAnalysis-classPart1" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.339Z" modified="2021-12-30T05:27:14.339Z" filename="mitfordtoNetAnalysis-classPart1" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="NetHTstrGLOBALonly.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.398Z" modified="2021-12-30T05:27:14.398Z" filename="NetHTstrGLOBALonly.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="findHamlet.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.461Z" modified="2021-12-30T05:27:14.461Z" filename="findHamlet.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocketTimeline.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.526Z" modified="2021-12-30T05:27:14.526Z" filename="rocketTimeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="csgNAebb.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.601Z" modified="2021-12-30T05:27:14.601Z" filename="csgNAebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySVGTimelineStarter.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.668Z" modified="2021-12-30T05:27:14.668Z" filename="banksySVGTimelineStarter.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="frankenP1Quester.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.735Z" modified="2021-12-30T05:27:14.735Z" filename="frankenP1Quester.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakeMax.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.8Z" modified="2021-12-30T05:27:14.8Z" filename="shakeMax.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerGY.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.866Z" modified="2021-12-30T05:27:14.866Z" filename="testerGY.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sampleSHAKESFLWR.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:14.962Z" modified="2021-12-30T05:27:14.962Z" filename="sampleSHAKESFLWR.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitfordtoNetAnalysis" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:15.028Z" modified="2021-12-30T05:27:15.028Z" filename="mitfordtoNetAnalysis" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="newsAnalysisKwic.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:15.087Z" modified="2021-12-30T05:27:15.087Z" filename="newsAnalysisKwic.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="reindex.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:15.189Z" modified="2021-12-30T05:27:15.189Z" filename="reindex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Placeography.kml" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:15.282Z" modified="2021-12-30T05:27:15.282Z" filename="Placeography.kml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="personQuery-Class" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:15.342Z" modified="2021-12-30T05:27:15.342Z" filename="personQuery-Class" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakesQuerying.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:15.405Z" modified="2021-12-30T05:27:15.405Z" filename="shakesQuerying.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyKML.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:15.471Z" modified="2021-12-30T05:27:15.471Z" filename="banksyKML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="op" filename="op"/>
+</collection>

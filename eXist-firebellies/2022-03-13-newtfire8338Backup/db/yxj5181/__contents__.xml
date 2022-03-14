@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/yxj5181" version="1" owner="yxj5181" group="dba" mode="775" created="2022-02-23T00:28:42.044Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="btree.xql" skip="no" owner="yxj5181" group="yxj5181" mode="755" created="2022-03-02T23:54:37.478Z" modified="2022-03-03T20:27:06.734Z" filename="btree.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuerySample1" skip="no" owner="yxj5181" group="yxj5181" mode="755" created="2022-02-23T01:00:23.523Z" modified="2022-02-23T01:00:23.523Z" filename="XQuerySample1" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drb-btreeDeDup.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-03-03T20:28:54.685Z" modified="2022-03-03T23:18:49.615Z" filename="drb-btreeDeDup.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuerySample2.xql" skip="no" owner="yxj5181" group="yxj5181" mode="755" created="2022-03-04T23:52:51.164Z" modified="2022-03-04T23:53:02.299Z" filename="XQuerySample2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drb-btreesExample.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-02-23T01:08:01.381Z" modified="2022-02-23T01:08:01.381Z" filename="drb-btreesExample.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuerySample2-drb.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-02-23T01:09:37.549Z" modified="2022-02-23T01:09:37.549Z" filename="XQuerySample2-drb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drb-SVG-btreesExample.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-02-23T01:27:51.208Z" modified="2022-02-23T01:54:15.533Z" filename="drb-SVG-btreesExample.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

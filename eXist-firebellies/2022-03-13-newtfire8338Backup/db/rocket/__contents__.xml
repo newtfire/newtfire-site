@@ -1,0 +1,300 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rocket" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:27:42.158Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="sts050.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:42.159Z" modified="2021-12-30T05:27:42.159Z" filename="sts050.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts044.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:42.228Z" modified="2021-12-30T05:27:42.228Z" filename="sts044.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts078.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:42.292Z" modified="2021-12-30T05:27:42.292Z" filename="sts078.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts093.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:42.352Z" modified="2021-12-30T05:27:42.352Z" filename="sts093.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts087.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:42.438Z" modified="2021-12-30T05:27:42.438Z" filename="sts087.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts51J.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:42.5Z" modified="2021-12-30T05:27:42.5Z" filename="sts51J.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts124.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:42.568Z" modified="2021-12-30T05:27:42.568Z" filename="sts124.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts130.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:42.631Z" modified="2021-12-30T05:27:42.631Z" filename="sts130.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts118.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:42.728Z" modified="2021-12-30T05:27:42.728Z" filename="sts118.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts119.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:42.831Z" modified="2021-12-30T05:27:42.831Z" filename="sts119.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts131.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:42.901Z" modified="2021-12-30T05:27:42.901Z" filename="sts131.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts125.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:42.964Z" modified="2021-12-30T05:27:42.964Z" filename="sts125.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts086.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.028Z" modified="2021-12-30T05:27:43.028Z" filename="sts086.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts092.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.091Z" modified="2021-12-30T05:27:43.091Z" filename="sts092.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts079.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.173Z" modified="2021-12-30T05:27:43.173Z" filename="sts079.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts045.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.245Z" modified="2021-12-30T05:27:43.245Z" filename="sts045.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts051.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.311Z" modified="2021-12-30T05:27:43.311Z" filename="sts051.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts084.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.374Z" modified="2021-12-30T05:27:43.374Z" filename="sts084.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts090.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.454Z" modified="2021-12-30T05:27:43.454Z" filename="sts090.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts51I.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.519Z" modified="2021-12-30T05:27:43.519Z" filename="sts51I.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts133.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.579Z" modified="2021-12-30T05:27:43.579Z" filename="sts133.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts127.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.649Z" modified="2021-12-30T05:27:43.649Z" filename="sts127.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts126.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.745Z" modified="2021-12-30T05:27:43.745Z" filename="sts126.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts132.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.814Z" modified="2021-12-30T05:27:43.814Z" filename="sts132.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts085.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.879Z" modified="2021-12-30T05:27:43.879Z" filename="sts085.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts052.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:43.947Z" modified="2021-12-30T05:27:43.947Z" filename="sts052.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts046.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.013Z" modified="2021-12-30T05:27:44.013Z" filename="sts046.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts042.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.075Z" modified="2021-12-30T05:27:44.075Z" filename="sts042.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts056.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.137Z" modified="2021-12-30T05:27:44.137Z" filename="sts056.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts081.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.2Z" modified="2021-12-30T05:27:44.2Z" filename="sts081.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts095.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.261Z" modified="2021-12-30T05:27:44.261Z" filename="sts095.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts51L.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.323Z" modified="2021-12-30T05:27:44.323Z" filename="sts51L.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts122.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.386Z" modified="2021-12-30T05:27:44.386Z" filename="sts122.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts123.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.452Z" modified="2021-12-30T05:27:44.452Z" filename="sts123.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts094.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.516Z" modified="2021-12-30T05:27:44.516Z" filename="sts094.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts080.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.577Z" modified="2021-12-30T05:27:44.577Z" filename="sts080.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts057.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.637Z" modified="2021-12-30T05:27:44.637Z" filename="sts057.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts043.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.699Z" modified="2021-12-30T05:27:44.699Z" filename="sts043.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts069.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.769Z" modified="2021-12-30T05:27:44.769Z" filename="sts069.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts055.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.83Z" modified="2021-12-30T05:27:44.83Z" filename="sts055.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts041.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.894Z" modified="2021-12-30T05:27:44.894Z" filename="sts041.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts096.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:44.957Z" modified="2021-12-30T05:27:44.957Z" filename="sts096.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts082.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.022Z" modified="2021-12-30T05:27:45.022Z" filename="sts082.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts109.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.086Z" modified="2021-12-30T05:27:45.086Z" filename="sts109.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts121.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.199Z" modified="2021-12-30T05:27:45.199Z" filename="sts121.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts135.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.296Z" modified="2021-12-30T05:27:45.296Z" filename="sts135.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts134.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.359Z" modified="2021-12-30T05:27:45.359Z" filename="sts134.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts120.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.42Z" modified="2021-12-30T05:27:45.42Z" filename="sts120.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts108.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.482Z" modified="2021-12-30T05:27:45.482Z" filename="sts108.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts083.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.544Z" modified="2021-12-30T05:27:45.544Z" filename="sts083.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts097.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.603Z" modified="2021-12-30T05:27:45.603Z" filename="sts097.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts054.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.663Z" modified="2021-12-30T05:27:45.663Z" filename="sts054.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts068.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.728Z" modified="2021-12-30T05:27:45.728Z" filename="sts068.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts033.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.788Z" modified="2021-12-30T05:27:45.788Z" filename="sts033.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts026.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.852Z" modified="2021-12-30T05:27:45.852Z" filename="sts026.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts032.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.916Z" modified="2021-12-30T05:27:45.916Z" filename="sts032.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts030.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:45.979Z" modified="2021-12-30T05:27:45.979Z" filename="sts030.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts031.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:46.042Z" modified="2021-12-30T05:27:46.042Z" filename="sts031.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts009.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:46.106Z" modified="2021-12-30T05:27:46.106Z" filename="sts009.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts035.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:46.173Z" modified="2021-12-30T05:27:46.173Z" filename="sts035.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts034.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:46.236Z" modified="2021-12-30T05:27:46.236Z" filename="sts034.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts036.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:46.298Z" modified="2021-12-30T05:27:46.298Z" filename="sts036.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts037.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:46.361Z" modified="2021-12-30T05:27:46.361Z" filename="sts037.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts006.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:46.424Z" modified="2021-12-30T05:27:46.424Z" filename="sts006.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts61B.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:46.6Z" modified="2021-12-30T05:27:46.6Z" filename="sts61B.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts61C.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:46.672Z" modified="2021-12-30T05:27:46.672Z" filename="sts61C.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts007.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:46.739Z" modified="2021-12-30T05:27:46.739Z" filename="sts007.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts005.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:46.816Z" modified="2021-12-30T05:27:46.816Z" filename="sts005.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts039.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:46.877Z" modified="2021-12-30T05:27:46.877Z" filename="sts039.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts41C.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:46.939Z" modified="2021-12-30T05:27:46.939Z" filename="sts41C.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts61A.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.002Z" modified="2021-12-30T05:27:47.002Z" filename="sts61A.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts41B.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.067Z" modified="2021-12-30T05:27:47.067Z" filename="sts41B.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts004.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.127Z" modified="2021-12-30T05:27:47.127Z" filename="sts004.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts028.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.188Z" modified="2021-12-30T05:27:47.188Z" filename="sts028.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts001.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.25Z" modified="2021-12-30T05:27:47.25Z" filename="sts001.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts029.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.318Z" modified="2021-12-30T05:27:47.318Z" filename="sts029.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts003.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.381Z" modified="2021-12-30T05:27:47.381Z" filename="sts003.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts41D.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.448Z" modified="2021-12-30T05:27:47.448Z" filename="sts41D.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts002.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.51Z" modified="2021-12-30T05:27:47.51Z" filename="sts002.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts071.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.572Z" modified="2021-12-30T05:27:47.572Z" filename="sts071.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts065.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.631Z" modified="2021-12-30T05:27:47.631Z" filename="sts065.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts059.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.704Z" modified="2021-12-30T05:27:47.704Z" filename="sts059.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts51C.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.766Z" modified="2021-12-30T05:27:47.766Z" filename="sts51C.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts105.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.829Z" modified="2021-12-30T05:27:47.829Z" filename="sts105.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts111.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.893Z" modified="2021-12-30T05:27:47.893Z" filename="sts111.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts110.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:47.956Z" modified="2021-12-30T05:27:47.956Z" filename="sts110.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts104.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:48.039Z" modified="2021-12-30T05:27:48.039Z" filename="sts104.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts058.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:48.102Z" modified="2021-12-30T05:27:48.102Z" filename="sts058.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts064.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:48.17Z" modified="2021-12-30T05:27:48.17Z" filename="sts064.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts066.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:48.274Z" modified="2021-12-30T05:27:48.274Z" filename="sts066.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts072.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:48.383Z" modified="2021-12-30T05:27:48.383Z" filename="sts072.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts099.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:48.449Z" modified="2021-12-30T05:27:48.449Z" filename="sts099.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts112.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:48.51Z" modified="2021-12-30T05:27:48.51Z" filename="sts112.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts106.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:48.573Z" modified="2021-12-30T05:27:48.573Z" filename="sts106.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts107.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:48.636Z" modified="2021-12-30T05:27:48.636Z" filename="sts107.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts113.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:48.698Z" modified="2021-12-30T05:27:48.698Z" filename="sts113.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts51A.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:48.76Z" modified="2021-12-30T05:27:48.76Z" filename="sts51A.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts098.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:48.828Z" modified="2021-12-30T05:27:48.828Z" filename="sts098.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sts073.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:48.891Z" modified="2021-12-30T05:27:48.891Z" filename="sts073.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

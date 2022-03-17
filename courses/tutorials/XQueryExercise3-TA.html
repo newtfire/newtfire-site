@@ -17,7 +17,7 @@
       	
       		
       <h1><span class="banner">XQuery Exercise 3 (TA)</span></h1>
-      <p>For this exercise, we will work with a student-coded collection of XML files from the Disney Songs project. Our collection represents work by a DIGIT student project team form 2021, and contains 96 XML files. Please copy your queries into a text or markdown file in response to this exercise so you can submit them on Canvas. </p>
+      <p>For this exercise, we will work with a student-coded collection of XML files from the Disney Songs project. Our collection represents work by a DIGIT student project team form 2021, and contains 93 XML files. Please copy your queries into a text or markdown file in response to this exercise so you can submit them on Canvas. </p>
       
       <p><strong>If you need to work with this on your local computer outside of our newtfire eXist-dB</strong>, the collection is stored in our textAnalysis-Hub at Class-Examples >> XQuery >> disneySongs. Please copy the directory to your own space (such as your own GitHub repo), and write your queries over it from oXygen. You can also work with your own local installation of eXist-dB: check with Dr. B about how to set this up and upload your own file directories.</p>
       
@@ -60,7 +60,7 @@
          let $disneySongs := collection('/db/disneySongs/')//*
          for $d in $disneySongs
          </pre>
-         <p>(If you were to return <code>$d</code> at this point, you would return each of the 96 XML files in this collection.)</p>
+         <p>(If you were to return <code>$d</code> at this point, you would return each of the 93 XML files in this collection.)</p>
       <p>Let's start by building up a FLWOR that looks for information about each song: </p>     
 
       <ol><li>Working with <code>$d</code>, write and return variables to retrieve `<code>&lt;title&gt;</code> element of each song. Record your FLWOR statement in your homework file.</li> 

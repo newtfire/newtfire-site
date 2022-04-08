@@ -17,21 +17,31 @@
       	
       		
       <h1><span class="banner">XQuery Test (Text Analysis)</span></h1>
-     <p>The Assassin’s Creed project team has encoded its script to contain its series of 29 game episodes in an <code>intro</code> element followed by a series of <code>chapterNum</code> elements. We have worked with this game script before. As in past homework assignments, we are interested in looking at the `<code>intro</code> together with the 28 <code>chapterNum</code> elements to consider these together as a sequence of 29 sections. For this test, we are interested in looking at speeches (coded as <code>sp</code>) and speakers (coded as <code>speaker</code>). You should review the code by viewing it in the database or in oXygen to be sure you understand how it is structured. The Assassin's Creed project team file, the game script of <i>Assassin’s Creed Odyssey</i>, is loaded into the newtfire eXist-dB server, and also <a href="assassinscreedodyssey.xml">available here to right-click and download</a> if needed. In <a href="http://exist.newtfire.org/exist/apps/eXide/index.html">the newtFire eXist-dB server</a>, you may access it by pointing a <code>doc()</code> variable to</p>
-       <pre>doc('/db/assassinsCreed/assassinscreedodyssey.xml')</pre>  
+     <p>The Star Wars project team has prepared an XML corpus of five distinct drafts of the first Star Wars movie, <i>A New Hope</i>. For this test, we are interested in looking at speeches (coded as <code>&lt;sp&gt;</code> elements) and speakers (coded as <code>@spk</code> attributes on those elements). You should review the code by viewing it in the database or in oXygen to be sure you understand how it is structured. The Star Wars collection is stored on the <a href="http://exist.newtfire.org/exist/apps/eXide/index.html">the newtFire eXist-dB server</a>. and you may access it with a variable pointing to the collection at: </p>
+       <pre>collection('/db/starwars/fixed/')</pre>  
 
-<p>Write an XQuery script does the following: (Remember to save your work as you go using the <code>.xql</code> extension for XQuery. You may use your personal folder on the newtfire eXist-dB or work on this locally in oXygen or your own local eXist-dB.) As needed, add XQuery comments in your file.</p>
+<p>Write an XQuery script does the following: (Remember to save your work as you go using the <code>.xql</code> extension for XQuery. You may use your personal folder on the newtfire eXist-dB. As needed, add XQuery comments in your file.</p>
  
  <h2>Part 1: Write a FLWOR and return a concatenated string</h2>
  <ol>
-     <li>Write variables to access the <code>intro</code> and <code>chapterNum</code> elements, and combine them together in a unified series of sections (as we did in the SVG assignments) (You should be able to work with a series of 29 sections.) (5 points)</li>
-     <li>Write a <code>for loop</code> that looks in each of the 29 sections and also stores the position number of each turn of the loop. (3 points) </li>
-     <li>Retrieve the titles of each section (coded in the <code>chapTitles</code> element. For full credit, make it possible for the <code>intro</code> to be retrieved as "intro" since it doesn't have a <code>chapTitles</code> element.(5 points)</li>
-     <li>Retrieve a count of the speeches (coded as <code>sp</code>) in each section. (3 points)</li>
-     <li>Now, we want to find out the distinct speakers in each section. Write a variable that finds the speakers, removes any extra spaces from the nodes, and eliminates repeated values. (4 points)</li>
-     <li>Retrieve a count of those distinct speakers. (2 points)</li>
-     <li>We want our return to help us compare the count of distinct speakers with the count of all speeches in each section. (Hint: To return the count of distinct speakers use <code>distinct-values()</code>.) Organize this by the count of speeches in descending order so we see the section counts from the those with the most speeches first. Make your first version of this return statement a concatenated line of text, retuning the position in the <code>for loop</code>, the section title, the count of speeches, and the count of distinct speakers, using text separators of your choice. (5 points)</li>
-     <li>To continue to the next part of the test, comment out the previous return (do not delete it, so I can give you credit for it on this exam.) (1 point).<p>Part I of this exam is worth a total possible 28 points. If you have completed this much, you have finished 80% of the exam.</p></li> 
+   <li>Begin by creating a variable called <code>$drafts</code> that points to the collection at <code>collection('/db/starwars/fixed/')</code>. Make sure your varialble returns the five Star Wars drafts before continuing. (1 point)</li>
+   <li>Copy in this variable and answer a question about it in your file by writing an XQuery comment : 
+       <pre>
+         let $sortOrder := 
+            for $d in $drafts
+            let $date := $d//date/@date ! data()
+            order by $date
+            return $d</pre>
+      Return this variable and inspect your results. Notice what information is stored in the date attribute near the top of each file. 
+      In an XQuery comment, explain in your own words what is happening inside the <code>$sortOrder</code> variable and what it does to the sequence of files in the collection. (3 points)
+   </li>
+   <li>Write a <code>for loop</code> that looks in each member of the sequence stored in the <code>$sortOrder</code> variable, and also stores the position number of each turn of the for loop. (3 points) </li>
+   <li>Write two variables to retrieve the date and the title of each draft in this loop. (3 points)</li>
+   <li>Write a variable that counts all speeches in each draft in this loop. (2 points)</li>
+   <li>Now, we want to find out the distinct speakers in each section: Write a variable that finds the speakers, removes any extra spaces from the nodes, and eliminates repeated values. (4 points)</li>
+   <li>Retrieve a count of those distinct speakers. (2 points)</li>
+     <li>We want our return to help us compare the count of distinct speakers with the count of all speeches in each draft. Make your first version of this return statement a concatenated line of text, outputting the position in the <code>for loop</code>, the draft title, the draft date, the count of speeches, and the count of distinct speakers, using text separators of your choice. (4 points)</li>
+     <li>To continue to the next part of the test, comment out the previous return (do not delete it, so I can give you credit for it on this exam.) (1 point).<p>Part I of this exam is worth a total possible 23 points. If you have completed this much, you have finished 77% of the exam.</p></li> 
  </ol>
    
 
@@ -40,7 +50,7 @@
 
 <h2>Submitting your test</h2>      
        
-       <p>If you have saved your files on my newtfire eXist-dB I'll be able to access them there, too, but I'd like you to submit your work on Canvas as you've been doing just to log it there. Download your XQuery file from the newtfire eXist-dB into a file saved with the <code>.xql</code> file extension. You may also submit your output SVG or HTML file as a link to its REST address from the newtfire eXist-dB server. Or download and save these to submit on Canvas. You must at least submit your XQuery <code>.xql</code> file to complete this exam. <strong>Bonus:</strong> Two extra credit points are available if you submit your files correctly, using the proper file extension for your XQuery document, <em>and</em> send a functioning REST address to your output from the eXist-dB database. 
+       <p>Please submit your XQuery file on Canvas at the submission point for this exam. Download your XQuery file from the newtfire eXist-dB into a file saved with the <code>.xql</code> file extension. You may also submit your output SVG or HTML file as a link to its REST address from the newtfire eXist-dB server. Or download and save these to submit on Canvas. You must at least submit your XQuery <code>.xql</code> file to complete this exam. <strong>Bonus:</strong> One extra credit point is available if you send a functioning REST address to your output from the eXist-dB database. 
          </p>
 
   

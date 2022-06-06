@@ -1,0 +1,51 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/bec80" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:21:48.012Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="brandNewInfo.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.54Z" modified="2021-12-30T05:21:48.54Z" filename="brandNewInfo.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pokemon_landmark.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.932Z" modified="2021-12-30T05:21:48.932Z" filename="pokemon_landmark.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pokemon_example.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:49.071Z" modified="2021-12-30T05:21:49.071Z" filename="pokemon_example.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pokemon_QGIS.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:49.136Z" modified="2021-12-30T05:21:49.136Z" filename="pokemon_QGIS.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Crawford_March-4_XQuery_NetworkAnalysis_Ex1.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.013Z" modified="2021-12-30T05:21:48.013Z" filename="Crawford_March-4_XQuery_NetworkAnalysis_Ex1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Crawford_March-2_XQuery_Ex2" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.092Z" modified="2021-12-30T05:21:48.092Z" filename="Crawford_March-2_XQuery_Ex2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Crawford_March-18_XQuery_NetworkAnalysis_Ex2.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.158Z" modified="2021-12-30T05:21:48.158Z" filename="Crawford_March-18_XQuery_NetworkAnalysis_Ex2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Crawford_March-3_XQuery_Ex3.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.263Z" modified="2021-12-30T05:21:48.263Z" filename="Crawford_March-3_XQuery_Ex3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="UpdatedBrandNewNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.334Z" modified="2021-12-30T05:21:48.334Z" filename="UpdatedBrandNewNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="brandNewNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.403Z" modified="2021-12-30T05:21:48.403Z" filename="brandNewNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Crawford_Feb-28_XQuery_Ex2.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.466Z" modified="2021-12-30T05:21:48.466Z" filename="Crawford_Feb-28_XQuery_Ex2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="brandNewNetwork-ebb.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.665Z" modified="2021-12-30T05:21:48.665Z" filename="brandNewNetwork-ebb.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Crawford_March-25_QGIS_Ex1.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.736Z" modified="2021-12-30T05:21:48.736Z" filename="Crawford_March-25_QGIS_Ex1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Crawford_April-03_SVG_Ex2" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.807Z" modified="2021-12-30T05:21:48.807Z" filename="Crawford_April-03_SVG_Ex2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="networkexample.sql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.869Z" modified="2021-12-30T05:21:48.869Z" filename="networkexample.sql" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PokemonQGIS_Ex1.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:48.998Z" modified="2021-12-30T05:21:48.998Z" filename="PokemonQGIS_Ex1.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,7 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/avatar" version="1" owner="admin" group="avatar" mode="775" created="2022-03-16T16:59:18.1Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="charactersNations.xml" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-21T18:38:52.027Z" modified="2022-04-22T19:39:49.317Z" filename="charactersNations.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="AvatarScripts" filename="AvatarScripts"/>
+</collection>

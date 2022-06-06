@@ -1,0 +1,48 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/modules" version="1" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.688Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="admin.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.689Z" modified="2021-12-30T05:04:59.689Z" filename="admin.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="unschedule.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.697Z" modified="2021-12-30T05:04:59.697Z" filename="unschedule.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="app.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.7Z" modified="2021-12-30T05:04:59.7Z" filename="app.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-timeline-prof.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.703Z" modified="2021-12-30T05:04:59.703Z" filename="test-timeline-prof.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="remote.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.705Z" modified="2021-12-30T05:04:59.705Z" filename="remote.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-timeline.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.708Z" modified="2021-12-30T05:04:59.708Z" filename="test-timeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.71Z" modified="2021-12-30T05:04:59.71Z" filename="view.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="notification.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.712Z" modified="2021-12-30T05:04:59.712Z" filename="notification.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="suite.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.715Z" modified="2021-12-30T05:04:59.715Z" filename="suite.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="job.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.717Z" modified="2021-12-30T05:04:59.717Z" filename="job.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="indexes.xqm" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.718Z" modified="2021-12-30T05:04:59.718Z" filename="indexes.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="update-timeline.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.728Z" modified="2021-12-30T05:04:59.728Z" filename="update-timeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.732Z" modified="2021-12-30T05:04:59.732Z" filename="config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="schedule.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.735Z" modified="2021-12-30T05:04:59.735Z" filename="schedule.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test-app.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.737Z" modified="2021-12-30T05:04:59.737Z" filename="test-app.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+<song name="Smell of the Game">
+<metadata>
+<sname>Smell of the Game</sname>
+<author>Daisuke Ishiwatari</author>
+</metadata>
+<lyrics>
+
+<verse n="1">
+<line n="1">I know who I am</line>
+    <line n="2">The moonlit lake told me</line>
+    <line n="3">"This is who you are"</line>
+    <line n="4">My fangs are so long</line>
+    <line n="5">My nails are sharper than ice</line>
+    <line n="6">That is me</line>
+</verse>
+
+<chorus n="1">
+    <line n="1">I wonder what that will prove?</line>
+    <line n="2">That is bullshit! Blazing!</line>
+    <line n="3">Still, my heart is blazing!</line>
+    <line n="4">If the words killed me</line>
+    <line n="5">I don't need a new world order</line>
+    <line n="6">You - soon you will know</line>
+    <line n="7">We already know the smell of the game</line>
+</chorus>
+
+<verse n="2">
+    <line n="1">Do you know who you are?</line>
+    <line n="2">When you speak your words</line>
+    <line n="3">Don't sound like your own</line>
+    <line n="4">You're trapped in a dark cell created by this world</line>
+    <line n="5">"That is who you are"</line>
+    <line n="6">Norms, standards, rules, and guidelines must be kept</line>
+    <line n="7">So, time to wake up!</line>
+    <line n="8">Gravity keeps us on the ground</line>
+</verse>
+
+<chorus n="2">
+    <line n="1">That is bullshit! Blazing!</line>
+    <line n="2">Still, my heart is blazing!</line>
+    <line n="3">If I lose my wings</line>
+    <line n="4">I don't need a new world order</line>
+    <line n="5">You can't feel a thing</line>
+    <line n="6">We already know the smell of game</line>
+</chorus>
+
+<chorus n="3">
+    <line n="1">Remember, you are blazing!</line>
+    <line n="2">Still, your heart is blazing!</line>
+    <line n="3">If the words made you</line>
+    <line n="4">I don't need a new world order</line>
+    <line n="5">You - soon you will know</line>
+    <line n="6">We already know the smell of the game</line>
+</chorus>
+
+<bridge n="1">
+    <line n="1">What am I?</line>
+</bridge>
+
+<verse n="3">
+    <line n="1">Mankind knew that they cannot change society</line>
+    <line n="2">So, instead of reflecting on themselves, they blamed the beasts</line>
+    <line n="3">But they found beauty in the lives of beasts</line>
+    <line n="4">And couldn't lie to themselves about it</line>
+</verse>
+
+<verse n="4">
+    <line n="1">I'm just a small part of the world...</line>
+    <line n="2">But no one could break me!!!</line>
+</verse>
+
+<chorus n="4">
+    <line n="1">Can't you see I'm blazing?</line>
+    <line n="2">Still, my heart is blazing!</line>
+    <line n="3">If the words killed me</line>
+    <line n="4">I don't need a new world order</line>
+    <line n="5">You - my tribe is my world</line>
+    <line n="6">Your words will never make me disappear</line>
+</chorus>
+
+<chorus n="5">
+    <line n="1">That is bullshit! Blazing!</line>
+    <line n="2">Still, my heart is blazing!</line>
+    <line n="3">If the words killed me</line>
+    <line n="4">I don't need a new world order</line>
+    <line n="5">You - soon you will know</line>
+    <line n="6">We already know the smell of the...</line>
+    <line n="7">Know the smell of the...</line>
+    <line n="8">Know the smell of the...</line>
+    <line n="9">Know the smell of the game</line>
+</chorus>
+
+</lyrics>
+</song>
+</xml>

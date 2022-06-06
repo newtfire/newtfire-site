@@ -1,0 +1,54 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ECCO2" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:31.391Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="ECCOBib5.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:31.392Z" modified="2021-12-30T05:24:31.392Z" filename="ECCOBib5.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOBib4.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:31.457Z" modified="2021-12-30T05:24:31.457Z" filename="ECCOBib4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOBib6.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:31.522Z" modified="2021-12-30T05:24:31.522Z" filename="ECCOBib6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOBib7.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:31.584Z" modified="2021-12-30T05:24:31.584Z" filename="ECCOBib7.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOBib3.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:31.651Z" modified="2021-12-30T05:24:31.651Z" filename="ECCOBib3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOBib2.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:31.715Z" modified="2021-12-30T05:24:31.715Z" filename="ECCOBib2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOBib1.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:31.777Z" modified="2021-12-30T05:24:31.777Z" filename="ECCOBib1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOL3.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:31.847Z" modified="2021-12-30T05:24:31.847Z" filename="ECCOL3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOL2.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:31.91Z" modified="2021-12-30T05:24:31.91Z" filename="ECCOL2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOL1.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:31.977Z" modified="2021-12-30T05:24:31.977Z" filename="ECCOL1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOL5.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:32.045Z" modified="2021-12-30T05:24:32.045Z" filename="ECCOL5.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOL4.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:32.108Z" modified="2021-12-30T05:24:32.108Z" filename="ECCOL4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOL6.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:32.171Z" modified="2021-12-30T05:24:32.171Z" filename="ECCOL6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOL7.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:32.232Z" modified="2021-12-30T05:24:32.232Z" filename="ECCOL7.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOL8.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:32.367Z" modified="2021-12-30T05:24:32.367Z" filename="ECCOL8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOBib8.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:32.43Z" modified="2021-12-30T05:24:32.43Z" filename="ECCOBib8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ECCOLocationebbTCP.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:32.492Z" modified="2021-12-30T05:24:32.492Z" filename="ECCOLocationebbTCP.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

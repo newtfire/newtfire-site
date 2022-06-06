@@ -1,0 +1,34 @@
+xquery version "3.1";
+ <html>
+     <head>
+         <title>
+             $title
+         </title>
+     </head>
+     <body>
+         <h1>
+             Starwars Titles, Dates, and Speakers Count
+         </h1>
+         <table><th>Title</th><th>Dates</th><th>Speakers Count</th></table>
+         {
+            let $drafts := collection('/db/starwars/fixed/')
+            (:  :return $drafts:)
+            let $sortOrder := $drafts
+            for $s at $pos in $sortOrder
+            (:  :for $d in $drafts
+            let $date := $d//date/@date ! data()
+            order by $date:)
+            (:  it is sorting the dates in order from lowest to highest :)
+            let $title := $s//title ! normalize-space()
+            let $date := $s//date/@date ! data()
+            let $spCount := $s//sp => count()
+            let $spk := $s//sp/@spk ! normalize-space()=> distinct-values()
+            let $spkCount := $s//sp/@spk ! normalize-space() => distinct-values()=> count()
+            (:  :return concat($pos," Title ",$title," Date ",$date," spCount ",$spCount," spkCount ",$spkCount):)
+            return
+                <tr>
+                    <td>{$title}</td><td>{$date}</td><td>{$spkCount}</td>
+                </tr>
+         }
+     </body>
+</html>

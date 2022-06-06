@@ -1,0 +1,13 @@
+xquery version "3.1";
+(: This is a comment in XQuery :)
+(: Now we will create a variable, using a FLOWER statement :)
+(: FLOWER means For, Let, Where, Order by, Return :)
+(: Every FLOWRE MUST have Let and Return :)
+ 
+let $btrees := doc('/db/btrees/btrees_tree_book.xml')
+let $heightElements := $btrees//height
+let $heightUnit := $heightElements/@unit => distinct-values()
+let $heightValues := $heightElements/@avg ! data()
+let $cname := $btrees//cname 
+
+return $cname

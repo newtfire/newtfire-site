@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="rhyme" type="literacy" date="1955"/>
+<title>On Beyond Zebra</title>
+<body>
+<stanza>
+<l>
+Said
+<char name="Conrad Cornelius o'Donald o'Dell">Conrad Cornelius o'Donald o'Dell</char>
+,
+</l>
+<l>My very young friend who is learning to spell:</l>
+<l>"The A is for Ape. And B is for Bear.</l>
+<l>The C is for Camel. The H is for Hare</l>
+<l>The M is for Mouse. And the R is for Rat."</l>
+<l>"I know all the twenty-six letters like that. . .</l>
+<l>. . . Through to Z is for Zebra. I know them all well."</l>
+<l>
+Said
+<char name="Conrad Cornelius o'Donald o'Dell">Conrad Cornelius o'Donald o'Dell</char>
+.
+</l>
+<l>"So now I know everything anyone knows.</l>
+<l>From beginning to end. From the start to the close.</l>
+<l>Because Z is as far as the alphabet goes."</l>
+</stanza>
+<stanza>
+<l>Then he almost fell flat on his face on the floor</l>
+<l>When I picked up the chalk and drew one letter more!</l>
+<l>A letter he never had dreamed of before!</l>
+<l>And I said, "You can stop, if you want, with the Z.</l>
+<l>Because most people stop with the Z.</l>
+<l>But not me!!!</l>
+<l>In the places I go, there are things that I see</l>
+<l>That I never could spell if I stopped with the Z.</l>
+<l>I'm telling you this 'cause you're one of my friends.</l>
+<l>My alphabet starts where your alphabet ends!"</l>
+</stanza>
+<stanza>
+<l>
+"My alphabet starts with this letter called
+<mUp>YUZZ</mUp>
+.
+</l>
+<l>
+It's the letter I use to spell
+<mUp>YUZZ-a-ma-TUZZ</mUp>
+.
+</l>
+<l>You'll be sort of surprised what there is to be found</l>
+<l>Once you go beyond Z and start poking around!</l>
+<l>So, on beyond Zebra!</l>
+<l>Explore!</l>
+<l>Like Columbus!</l>
+<l>Discover new letters!</l>
+<l>
+Like
+<mUp>WUM</mUp>
+is for
+<char name="Wumbus">Wumbus</char>
+,
+</l>
+<l>My high-spouting whale who lives high on a hill</l>
+<l>And who never comes down 'till it's time to refill.</l>
+<l>So, on beyond Z! It's high time you were shown</l>
+<l>That you really don't know all there is to be known."</l>
+</stanza>
+<stanza>
+<l>
+"Then just step a step further past
+<mUp>Wum</mUp>
+is for
+<char name="Wumbus">Wumbus</char>
+</l>
+<l>
+And there you'll find
+<mUp>UM</mUp>
+. And the
+<mUp>Um</mUp>
+is for
+<mUp>Umbus</mUp>
+</l>
+<l>A sort of Cow, with one head and one tail,</l>
+<l>But to milk this great cow you need more than one pail!</l>
+<l>She has ninety-eight teats that give milk quite nicely.</l>
+<l>Perhaps ninety-nine. I forget just precisely.</l>
+<l>And, boy! She is something most people don't see.</l>
+<l>Because most people stop at the Z</l>
+<l>But not me!"</l>
+</stanza>
+<stanza>
+<l>"If you stay home with Zebra,</l>
+<l>You're stuck in a rut.</l>
+<l>But on beyond Zebra,</l>
+<l>You're anything but!</l>
+<l>When you go beyond Zebra,</l>
+<l>Who knows. . .?</l>
+<l>There's no telling</l>
+<l>What wonderful things</l>
+<l>You might find yourself spelling!"</l>
+</stanza>
+<stanza>
+<l>
+"Like
+<mUp>QUAN</mUp>
+is for
+<char name="Quandary">Quandary</char>
+, who lives on a shelf
+</l>
+<l>In a hole in the ocean alone by himself</l>
+<l>And he worries, each day, from the dawn's early light</l>
+<l>And he worries, just worries, far into the night.</l>
+<l>He just stands there and worries. He simply can't stop. . .</l>
+<l>Is his top-side his bottom? Or bottom-side his top?"</l>
+<l>So you see!</l>
+<l>There's no end</l>
+<l>To the things you might know,</l>
+<l>Depending how far beyond Zebra you go!</l>
+</stanza>
+<stanza>
+<l>The places I took him!</l>
+<l>I tried hard to tell</l>
+<l>
+Young
+<char name="Conrad Cornelius o'Donald o'Dell">Conrad Cornelius o'Donald o'Dell</char>
+</l>
+<l>A few brand-new wonderful words he might spell.</l>
+<l>I led him around and I tried hard to show</l>
+<l>There are things beyond Z that most people don't know.</l>
+<l>I took him past Zebra. As far as I could.</l>
+<l>And I think, perhaps, maybe I did him some good. . .</l>
+</stanza>
+<stanza>
+<l>Because, finally, he said:</l>
+<l>"This is really great stuff!</l>
+<l>And I guess the old alphabet</l>
+<l>ISN"T enough!"</l>
+<l>NOW the letters he uses are something to see!</l>
+<l>Most people stop at the Z. . .</l>
+<l>But not HE!</l>
+</stanza>
+</body>
+</book>

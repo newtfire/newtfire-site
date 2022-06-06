@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-07-00125-ENG04.xml"/>
+		<title>Bodhipathapradīpa</title>
+		<author>Atīśa Dīpaṃkaraśrījñāna</author>
+		<unifiedCatalogID>2-07-00125</unifiedCatalogID>
+		<sourceDesc>
+			<bibl>
+				<title>A Lamp for the Path and Commentary</title>
+				<author>Sherburne, Richard</author>
+				<pubInfo>London: George Allen &amp; Unwin</pubInfo>
+				<date>1983</date>
+			</bibl>
+		</sourceDesc>
+		<creation date="Mon Feb 31 4:20:37 2020"/>
+		<processed date="Mon Feb 31 4:20:37 2020" ver="v.1.0" auth="Hackett"/>
+		<processed date="Tue Mar 31 04:19:17 2020" ver="v.1.01" auth="XMLTagEnglish v.1.08"/>
+	</head>
+	<text>
+		<sentence s_id="2-07-00125-ENG04-SID000001" type="Text Title">
+			<phrase phr_id="2-07-00125-ENG04-000001">Atīśa’s Lamp for the Path to Enlightenment</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000002" type="Sentence">
+			<phrase phr_id="2-07-00125-ENG04-000002">I pay homage to the ever-youthful Mañjuśrī!</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000003" type="Verse" s_name="1">
+			<phrase phr_id="2-07-00125-ENG04-000003">I bow in great reverence to all the Conquerors of the three times,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000004">To their Teachings, and the Spiritual Community.</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000005">I shall light a Lamp for the Path to Enlightenment,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000006">At the request of my good disciple Jang-chup-ö (byang chub 'od).</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000004" type="Verse" s_name="2">
+			<phrase phr_id="2-07-00125-ENG04-000007">Since they are Low, Middling, or Great,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000008">Persons should be understood as three:</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000009">The characteristics of these are very clear, and</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000010">I shall note the individual divisions.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000005" type="Verse" s_name="3">
+			<phrase phr_id="2-07-00125-ENG04-000011">Those who seek for their own sake</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000012">The mere pleasures of cyclic existence,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000013">By whatsoever techniques,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000014">They are to be known as low persons.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000006" type="Verse" s_name="4">
+			<phrase phr_id="2-07-00125-ENG04-000015">Whosoever seeks mere their own peace,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000016">[They who] have turned their backs on the pleasures of worldly existence,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000017">And have turned away from ethical transgressions,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000018">These persons are called “middling”.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000007" type="Verse" s_name="5">
+			<phrase phr_id="2-07-00125-ENG04-000019">Whosoever thoroughly wishes</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000020">To extinguish thoroughly all sufferings of others</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000021">[Through inference of such] by way of the suffering</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000022">Which is included in their own continuum, that person is supreme.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000008" type="Verse" s_name="6">
+			<phrase phr_id="2-07-00125-ENG04-000023">For those holy beings whose desire</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000024">Is for the highest of Enlightenments,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000025">I shall explain the right means</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000026">Which were taught to me by my Gurus.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000009" type="Verse" s_name="7">
+			<phrase phr_id="2-07-00125-ENG04-000027">Facing a painted image of the Perfect Buddha,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000028">A holy reliquary and so forth,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000029">Make offerings of flowers and incense</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000030">And whatever objects may be at hand.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000010" type="Verse" s_name="8">
+			<phrase phr_id="2-07-00125-ENG04-000031">Then with the Sevenfold Worship which is expressed</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000032">In the Deeds of Samantabhadra,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000033">And a mind that does not turn back until</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000034">[One] reaches the Heart of Enlightenment,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000011" type="Verse" s_name="9">
+			<phrase phr_id="2-07-00125-ENG04-000035">With great faith in the Three Jewels,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000036">Touching a bent knee to the ground,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000037">And with folded hands</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000038">First go for refuge three times.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000012" type="Verse" s_name="10">
+			<phrase phr_id="2-07-00125-ENG04-000039">Then, because a mind of love for</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000040">All sentient beings is a prerequisite,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000041">One observes transmigrators — without exception —</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000042">Who are suffering because of death and migration and so forth, and</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000043">[Because of] being born in the three bad migrations, etc.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000013" type="Verse" s_name="11">
+			<phrase phr_id="2-07-00125-ENG04-000044">By [seeing] that suffering, [one] suffers;</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000045">And, by reason of [having seen] such suffering of suffering,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000046">He who wishes to liberate transmigrators</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000047">Should generate a Mind of Enlightenment</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000048">That is pledged without ever turning back.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000014" type="Verse" s_name="12">
+			<phrase phr_id="2-07-00125-ENG04-000049">Thus, whatsoever good qualities of generating</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000050">The aspirational Mind [of Enlightenment] (bodhicitta)</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000051">Have been thoroughly explained by Maitreya</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000052">In the Array of Stalks Sūtra.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000015" type="Verse" s_name="13">
+			<phrase phr_id="2-07-00125-ENG04-000053">Read that sūtra or listen to [it from] a Guru, and then</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000054">You will have understood that the good qualities of a perfected Mind of Enlightenment</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000055">Are limitless. Then, for that very reason,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000056">You should generate this [state of] mind again and again.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000016" type="Verse" s_name="14">
+			<phrase phr_id="2-07-00125-ENG04-000057">The merit of this is demonstrated</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000058">In the Sūtra of the Questions of Viradatta;</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000059">In this abbreviated [teaching], [I] will write</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000060">Merely three stanzas on this [sūtra].</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000017" type="Verse" s_name="15">
+			<phrase phr_id="2-07-00125-ENG04-000061">"If whatsoever merit of the Mind of Enlightenment</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000062">Existed as a form,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000063">The realm of space would be completely filled, and</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000064">That [realm] would be exceeded by that [form].</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000018" type="Verse" s_name="16">
+			<phrase phr_id="2-07-00125-ENG04-000065">"If one person were to completely fill with jewels,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000066">Buddhafields — however many equal in number to</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000067">The grains of sand in the Ganges river, and</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000068">Offer all this to the protector of the world (the Buddha), and</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000019" type="Verse" s_name="17">
+			<phrase phr_id="2-07-00125-ENG04-000069">"[Yet] whosoever joins his hands together [in homage],</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000070">And orients their mind towards enlightenment,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000071">This offering is superior,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000072">[For] this [offering] has no limit."</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000020" type="Verse" s_name="18">
+			<phrase phr_id="2-07-00125-ENG04-000073">Having generated the aspirational Mind of Enlightenment,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000074">Then through much hard work, [you] should constantly enhance [it].</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000075">For the sake of remembering this in other lives,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000076">Keep properly, moreover, whatever precepts that were explained.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000021" type="Verse" s_name="19">
+			<phrase phr_id="2-07-00125-ENG04-000077">Without the vow of the engaged Mind of Enlightenment,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000078">There is no increase of the pure aspirations.</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000079">Those who desire to increase their aspiration for complete enlightenment,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000080">Because of that, [they] should definitely take up this [practice].</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000022" type="Verse" s_name="20">
+			<phrase phr_id="2-07-00125-ENG04-000081">[Only one who] has [one of] the other maintained vows</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000082">Of the seven types of Individual Liberation (pratimokṣa) [vows]</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000083">Has the good fortune of [taking] the Bodhisattva vow;</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000084">It is not otherwise.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000023" type="Verse" s_name="21">
+			<phrase phr_id="2-07-00125-ENG04-000085">Regarding what the Tathagata said in conjunction with</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000086">The seven types of Individual Liberation (pratimokṣa) [vows],</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000087">The glorious celibate life is supreme.</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000088">[This] is asserted as [meaning] the vows of a monk.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000024" type="Verse" s_name="22">
+			<phrase phr_id="2-07-00125-ENG04-000089">In accordance with the ritual stated in the</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000090">Ethics Chapter of [Asaṅga’s] Bodhisattva Grounds,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000091">One takes the vow from a good Guru</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000092">Who possesses pure character.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000025" type="Verse" s_name="23">
+			<phrase phr_id="2-07-00125-ENG04-000093">One who is skilled in the rituals of the vows,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000094">And remains in [compliance with] whatever vows he has taken,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000095">And has the compassionate forbearance</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000096">To impart the vows — know him to be the good Guru.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000026" type="Verse" s_name="24">
+			<phrase phr_id="2-07-00125-ENG04-000097">Thus, if through having made effort,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000098">A guru like this is [still] not found,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000099">I will explain well a ritual other than this</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000100">For receiving the vows.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000027" type="Verse" s_name="25">
+			<phrase phr_id="2-07-00125-ENG04-000101">Thus, how did Manjuśrī — in a former life</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000102">When he was Ambarāja,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000103">Generate the Exalted Mind of Enlightenment?</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000104">As it is told in the sūtra [from the Heap of Jewels collection] called</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000105">The Array of Good Qualities of Manjuśrī's Buddha-field,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000106">I write it down here clearly:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000028" type="Verse" s_name="26">
+			<phrase phr_id="2-07-00125-ENG04-000107">"In the presence of the protectors, I generate</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000108">The Mind of Perfect Enlightenment,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000109">And invite all sentient beings as my guests,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000110">I will liberate them all from cyclic existence.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000029" type="Verse" s_name="27">
+			<phrase phr_id="2-07-00125-ENG04-000111">"From now on — having held [in the past]</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000112">Harmful thoughts, and a mind which is angry,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000113">Miserliness and jealousy,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000114">Until I attain supreme enlightenment, I shall not [permit such thoughts to arise again].</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000030" type="Verse" s_name="28">
+			<phrase phr_id="2-07-00125-ENG04-000115">"[I] shall enjoy the celibate life;</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000116">And abandon ethical transgression and desire.</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000117">Through delighting in the ethical vows,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000118">I shall emulate the Buddha.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000031" type="Verse" s_name="29">
+			<phrase phr_id="2-07-00125-ENG04-000119">"I, myself, am not enthusiastic for obtaining enlightenment</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000120">Through the quickest means possible, but rather</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000121">I shall remain until the final end</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000122">For the sake of [even] a single sentient being.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000032" type="Verse" s_name="30">
+			<phrase phr_id="2-07-00125-ENG04-000123">"I shall thoroughly purify the countless</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000124">Inconceivable fields [turning them into Buddha-fields].</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000125">And for all those who hold onto me by name,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000126">I shall remain in the ten directions.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000033" type="Verse" s_name="31">
+			<phrase phr_id="2-07-00125-ENG04-000127">"At all [times] purifying</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000128">The activities of my body and speech,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000129">I will purify my mind as well, and</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000130">Will not engage in non-virtuous actions."</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000034" type="Verse" s_name="32">
+			<phrase phr_id="2-07-00125-ENG04-000131">To purify one's body, speech, and mind</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000132">Means abiding by one's vows concerning the engaged Mind of Enlightenment.</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000133">By being well-trained in the three forms of ethical behavior,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000134">Respect for the three forms of ethical behavior increases.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000035" type="Verse" s_name="33">
+			<phrase phr_id="2-07-00125-ENG04-000135">Hence, through having striven</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000136">In the vows which make up the pure and complete</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000137">Bodhisattva Vow, the accumulations [necessary]</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000138">For complete Enlightenment will be complete.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000036" type="Verse" s_name="34">
+			<phrase phr_id="2-07-00125-ENG04-000139">The cause of the completion of the accumulations —</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000140">Whose nature is merit and wisdom,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000141">Is asserted by the all the Buddhas</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000142">To be the very generation of the clairvoyances (abhijñā).</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000037" type="Verse" s_name="35">
+			<phrase phr_id="2-07-00125-ENG04-000143">Just as a bird whose wings are undeveloped</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000144">Is unable fly up into the sky,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000145">Similarly, without the force of clairvoyance,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000146">[One] is not able to accomplish the aims of others.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000038" type="Verse" s_name="36">
+			<phrase phr_id="2-07-00125-ENG04-000147">What are the merits of each day and night</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000148">Of possessing the clairvoyances?</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000149">One who lacked those clairvoyances,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000150">Would not have it in a hundred lives.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000039" type="Verse" s_name="37">
+			<phrase phr_id="2-07-00125-ENG04-000151">He who wishes to fully perfect</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000152">The accumulations of enlightenment that are quickly realized,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000153">He strives hard; it is not through laziness</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000154">That one accomplishes the clairvoyances.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000040" type="Verse" s_name="38">
+			<phrase phr_id="2-07-00125-ENG04-000155">Since the clairvoyances will not arise</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000156">Without the attainment of calm abiding (śamatha), then</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000157">Because of this, in order to achieve calm abiding,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000158">One should strive again and again.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000041" type="Verse" s_name="39">
+			<phrase phr_id="2-07-00125-ENG04-000159">Although one may strive with incomplete parts</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000160">Of calm abiding, and although one may meditate,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000161">Years — even thousands [of them] —</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000162">Will not bring about the establishment of a meditative stabilization.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000042" type="Verse" s_name="40">
+			<phrase phr_id="2-07-00125-ENG04-000163">Therefore, [when one] is well established in the parts [of calm abiding]</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000164">Which are spoken of in [Bodhibhadra’s] Chapter on the Accumulation of Meditative Stabilizations,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000165">One should fix the mind in virtue</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000166">On any one object of observation.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000043" type="Verse" s_name="41">
+			<phrase phr_id="2-07-00125-ENG04-000167">When a yogi has achieved calm abiding,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000168">The clairvoyances are achieved as well.</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000169">However, without the application of the Perfection of Wisdom</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000170">The obstructions will not be exhausted.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000044" type="Verse" s_name="42">
+			<phrase phr_id="2-07-00125-ENG04-000171">Therefore, in order to abandon — without exception,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000172">The afflictive [obstructions] and the obstructions to omniscience,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000173">The yogi should continually cultivate</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000174">The Perfection of Wisdom together with Skillful Means.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000045" type="Verse" s_name="43">
+			<phrase phr_id="2-07-00125-ENG04-000175">Wisdom without Skillful Means, and</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000176">Skillful Means without Wisdom, as well —</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000177">Either of these is called “bondage.”</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000178">Therefore, neither should be abandoned.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000046" type="Verse" s_name="44">
+			<phrase phr_id="2-07-00125-ENG04-000179">For the sake of abandoning doubts concerning</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000180">What is called “Wisdom” and “Means,”</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000181">I shall clarify the difference</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000182">Between the Means and Wisdom.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000047" type="Verse" s_name="45">
+			<phrase phr_id="2-07-00125-ENG04-000183">The perfections of giving and so forth,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000184">With the exception of the Perfection of Wisdom —</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000185">All these accumulations of virtue</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000186">Are explained by the Conquerors (i.e., Buddhas) as Skillfull Means.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000048" type="Verse" s_name="46">
+			<phrase phr_id="2-07-00125-ENG04-000187">Through the force of cultivating Skillful Means, whosoever</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000188">By themselves cultivates aspects of Wisdom,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000189">They will quickly attain Enlightenment.</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000190">It is not by merely cultivating selflessness.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000049" type="Verse" s_name="47">
+			<phrase phr_id="2-07-00125-ENG04-000191">Knowing the emptiness of inherent existence</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000192">Which is realized without the production of</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000193">Aggregates, elements, and sense spheres</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000194">Is described as "Wisdom."</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000050" type="Verse" s_name="48">
+			<phrase phr_id="2-07-00125-ENG04-000195">The production of an [inherently] existent phenomena is not feasible,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000196">Similarly for a non-existent phenomenon like a flower in the sky.</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000197">Since there are faulty consequences for both</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000198">Neither arise.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000051" type="Verse" s_name="49">
+			<phrase phr_id="2-07-00125-ENG04-000199">A thing is not produced from itself, and</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000200">Nor is it from another, or even both.</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000201">Since it is not causeless,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000202">It is naturally without inherent existence.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000052" type="Verse" s_name="50">
+			<phrase phr_id="2-07-00125-ENG04-000203">Furthermore, if all phenomena</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000204">Are analysed in terms of one or many,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000205">Since an essence is not perceived</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000206">They are ascertained as utterly lacking inherent existence.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000053" type="Verse" s_name="51">
+			<phrase phr_id="2-07-00125-ENG04-000207">The reasonings of [Nāgārjuna’s] Seventy Stanzas on Emptiness</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000208">And also in the Fundamental Treatise on the Middle Way,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000209">Explain [the manner in which] the emptiness of inherent existence</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000210">Of things is established.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000054" type="Verse" s_name="52">
+			<phrase phr_id="2-07-00125-ENG04-000211">Hence, since the scriptures [cited] would be many,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000212">For this [reason, I] have not elaborated [on it], but</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000213">I will thoroughly explain it for the sake of meditation</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000214">Merely in terms of established tenets.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000055" type="Verse" s_name="53">
+			<phrase phr_id="2-07-00125-ENG04-000215">Therefore, since without exception, an inherent existence</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000216">Of any phenomenon is not seen,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000217">Whatever is a meditation on selflessness</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000218">Is a cultivation of the Wisdom [realizing] suchness.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000056" type="Verse" s_name="54">
+			<phrase phr_id="2-07-00125-ENG04-000219">In any and all phenomena, this Wisdom</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000220">Does not see any inherent existence, and</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000221">That same Wisdom is explained through reasoning.</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000222">[You] should cultivate this without conceptuality (i.e., non-conceptually).</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000057" type="Verse" s_name="55">
+			<phrase phr_id="2-07-00125-ENG04-000223">This transient world which arises out from conceptuality</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000224">[Has] a nature which is conceptual.</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000225">Thus, abandoning conceptuality without exception</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000226">Is the supreme Nirvana.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000058" type="Sentence">
+			<phrase phr_id="2-07-00125-ENG04-000227">Moreover, the Transcendent Victor declared:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000059" type="Verse" s_name="56">
+			<phrase phr_id="2-07-00125-ENG04-000228">"Conceptuality is the great ignorance.</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000229">[It] casts one into the ocean of cyclic existence.</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000230">Abiding in a non-conceptual meditative stabilization,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000231">Non-conceptuality manifests clearly like the sky.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000060" type="Sentence">
+			<phrase phr_id="2-07-00125-ENG04-000232">Moreover, it says in the Dhāraṇī of Entry into the Non-conceptual:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000061" type="Verse" s_name="57">
+			<phrase phr_id="2-07-00125-ENG04-000233">"When a son of the Conqueror meditates on</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000234">This true Doctrine non-conceptually,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000235">He will transcend these hard to overcome conceptual thoughts, and</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000236">Will gradually attain the non-conceptual."</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000062" type="Verse" s_name="58">
+			<phrase phr_id="2-07-00125-ENG04-000237">Having ascertained through scripture and reasoning,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000238">The lack of inherent existence and</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000239">Lack of production of all phenomena,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000240">Cultivate [the realization] without conceptuality (i.e., non-conceptually).</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000063" type="Verse" s_name="59">
+			<phrase phr_id="2-07-00125-ENG04-000241">Thus having meditated on Suchness,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000242">And having gradually attained the "Heat" [Path of Preparation] and so on,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000243">Then one attains [the first Bodhisattva Ground,] the "Joyous" and on;</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000244">The Enlightenment of a Buddha [is] not far off.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000064" type="Verse" s_name="60">
+			<phrase phr_id="2-07-00125-ENG04-000245">Through the actions of "Pacification," "Increase," and so forth</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000246">Which are established through the power of Mantra,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000247">And also through the power of the Eight Great Accomplishments,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000248">[Such as] the "Good Vessel", and so forth,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000065" type="Verse" s_name="61">
+			<phrase phr_id="2-07-00125-ENG04-000249">One who wishes to perfect</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000250">The accumulations of enlightenment through bliss</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000251">And if one wants to practice Secret Mantra</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000252">As was spoken of in the Tantras of Action, Performance, and so on,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000066" type="Verse" s_name="62">
+			<phrase phr_id="2-07-00125-ENG04-000253">Then, in order [to obtain] the Preceptor-Initiation,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000254">[You] should please a true Guru</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000255">In all [ways such as] giving service and veneration,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000256">Precious [things], etc., and undergoing hardships, and so forth.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000067" type="Verse" s_name="63">
+			<phrase phr_id="2-07-00125-ENG04-000257">When, through having pleased the Guru</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000258">One receives the complete, perfect Preceptor-Initiation,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000259">Then all [of one's] ethical transgressions have been utterly purified; and</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000260">One becomes one of the fortunate who attains all the accomplishments (siddhis).</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000068" type="Verse" s_name="64">
+			<phrase phr_id="2-07-00125-ENG04-000261">Because it is emphatically forbidden</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000262">In the Great [Kalācakra] Tantra of the Primordial Buddha,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000263">The secret and wisdom initiations</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000264">Should not be taken by one who is leading a celibate life.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000069" type="Verse" s_name="65">
+			<phrase phr_id="2-07-00125-ENG04-000265">If [such a one] were to hold this initiation,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000266">Then since [he] abides in the ascetic practices of the celibate life,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000267">It would be a degeneration of his vows of asceticism</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000268">Because [he] would be practicing that which is prohibited.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000070" type="Verse" s_name="66">
+			<phrase phr_id="2-07-00125-ENG04-000269">When the infractions arise of one who has been defeated</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000270">In his observation of the mode of conduct,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000271">And that [person], by being definite to fall into a bad migration</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000272">Will not, moreover, have the accomplishments (siddhis).</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000071" type="Verse" s_name="67">
+			<phrase phr_id="2-07-00125-ENG04-000273">Having acquired the Preceptor-Initiation,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000274">[One] can listen to all the tantras, explain [them],</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000275">Make burnt offerings, sacrafices, and so on;</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000276">There is no fault for [one who] has knowledge about suchness.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000072" type="Verse" s_name="68">
+			<phrase phr_id="2-07-00125-ENG04-000277">I, the Elder (sthavīra), Dīpaṃkāraśrī,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000278">Having seen this explanation in teachings, the sutras, and so forth,</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000279">Have made this abbreviated explaination of the Path to Enlightenment</phrase>
+			<phrase phr_id="2-07-00125-ENG04-000280">From the request of Jang-chup-ö (byang chub 'od).</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000073" type="Text Colophon">
+			<phrase phr_id="2-07-00125-ENG04-000281">This completes the Lamp for the Enlightenment Path that was composed by the great teacher, Dīpaṃkāraśrījñāna.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000074" type="Sentence">
+			<phrase phr_id="2-07-00125-ENG04-000282">It was translated and edited by the great Indian abbot himself, and by the great editor and translator Ge-way-lo-drö (dge ba'i blo gros).</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-ENG04-SID000075" type="Sentence">
+			<phrase phr_id="2-07-00125-ENG04-000283">The teaching was composed at the To-ling (tho ling) temple in Shang-shung (zhang zhung).</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

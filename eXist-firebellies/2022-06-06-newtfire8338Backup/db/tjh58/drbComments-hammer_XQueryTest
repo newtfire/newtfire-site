@@ -1,0 +1,53 @@
+xquery version "3.1";
+
+<html>
+<head>
+<title>XQuery Exercise Test</title>    
+</head>
+<body>
+    <h1>Hammer XQuery Exercise</h1>
+<!--ebb: Your original code was plotting 5 different tables, one for each draft.That comes out kind of 
+difficult to read because the header is repeated over and over. 
+Basically, you just want ONE table, and have five rows inside it. 
+So, I moved the table element and its top header row up here, so you create just ONE table, not five different ones!
+That means you get each row stacked underneath the others and it comes out easier to read, with just one header row
+at the top.-->
+
+    <table>
+        <tr>
+            <th>Draft</th>
+            <th>Title</th>
+            <th>Date</th>
+            <th>Unique Speaker Count</th>
+            <th>Speech Count</th>
+        </tr>
+{
+let $drafts := collection('/db/starwars/fixed/')//xml
+let $sortOrder := 
+            for $d in $drafts
+            let $date := $d//date/@date ! data()
+            order by $date
+            return $d
+            (:What sort order is doing is using the for loop to look into each individual draft and collect the date data in order to sort it via it's date, the earliest coming first, and latest coming last :)
+    for $sO at $pos in $sortOrder
+        let $sDraft := $sO//metadata/draft ! data()
+        let $sDate := $sO//metadata/date/@date ! data()
+        let $sTitle := $sO//metadata/title ! data()
+        let $spCount := $sO//sp => count()
+        (:let $spCount := $sO//sp/@spk ! data() ! normalize-space() => distinct-values():)
+        let $spkCount := $sO//sp/@spk ! data() ! normalize-space() => distinct-values() => count()
+return 
+   
+        <tr>
+            <td>{$sDraft}</td>
+            <td>{$sTitle}</td>
+            <td>{$sDate}</td>
+            <td>{$spkCount}</td>
+            <td>{$spCount}</td>
+        </tr>
+
+    (:concat("The name of the ", $sDraft," is '",$sTitle ,"', it was completed on ",$sDate,". The amount of distinct speakers that appear are ", $spkCount,", and the ammount of speeches in the draft are ", $spCount,"."):)
+}
+</table>
+</body>
+</html>

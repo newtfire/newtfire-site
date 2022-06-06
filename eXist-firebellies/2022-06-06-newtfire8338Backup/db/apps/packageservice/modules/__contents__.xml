@@ -1,0 +1,51 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/packageservice/modules" version="1" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:45.26Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="test.xql" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:45.263Z" modified="2021-12-30T05:04:45.263Z" filename="test.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="packages.xqm" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:45.27Z" modified="2021-12-30T05:04:45.27Z" filename="packages.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="get-public-url.xql" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:45.382Z" modified="2021-12-30T05:04:45.382Z" filename="get-public-url.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="local-apps-json.xql" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:45.389Z" modified="2021-12-30T05:04:45.389Z" filename="local-apps-json.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="custom-element.xqm" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:45.504Z" modified="2021-12-30T05:04:45.504Z" filename="custom-element.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="remote-packages.xql" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:45.56Z" modified="2021-12-30T05:04:45.56Z" filename="remote-packages.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rename.xql" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:45.699Z" modified="2021-12-30T05:04:45.699Z" filename="rename.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="login-helper.xql" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:45.786Z" modified="2021-12-30T05:04:45.786Z" filename="login-helper.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="install.xql" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:45.95Z" modified="2021-12-30T05:04:45.95Z" filename="install.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="local-apps.xql" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:45.965Z" modified="2021-12-30T05:04:45.965Z" filename="local-apps.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="remote-packages-json.xql" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:46.039Z" modified="2021-12-30T05:04:46.039Z" filename="remote-packages-json.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="local-packages-json.xql" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:46.098Z" modified="2021-12-30T05:04:46.098Z" filename="local-packages-json.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:46.148Z" modified="2021-12-30T05:04:46.148Z" filename="config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="get-icon.xql" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:48.862Z" modified="2021-12-30T05:04:48.862Z" filename="get-icon.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="local-packages.xql" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:48.869Z" modified="2021-12-30T05:04:48.869Z" filename="local-packages.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="apputil.xql" skip="no" owner="packageservice" group="eXide" mode="775" created="2021-12-30T05:04:49.138Z" modified="2021-12-30T05:04:49.138Z" filename="apputil.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

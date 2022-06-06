@@ -1,0 +1,18 @@
+xquery version "3.1";
+let $drafts := collection ('/db/starwars/fixed/')
+(:  :return $drafts:)
+
+let $sortOrder := $drafts
+for $s at $pos in $sortOrder
+
+(:#2 i think this flower can give us the time order from the old to new :)
+(: for $d in $drafts
+let $date := $d//date/@date ! data()
+order by $date:)
+let $date :=$s//date
+let $title :=$s//title
+let $spcount :=$s//sp => count()
+let $spk:=$s//sp/@spk ! normalize-space()=>distinct-values() 
+let $spkC:=$s//sp/@spk ! normalize-space()=>distinct-values() => count()
+
+return concat($pos,"Title",$title,"Date",$date,"spcount",$spcount,"spkC",$spkC)

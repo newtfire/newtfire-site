@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/awn7" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:21:24.508Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Nadeembanksy_ebbComments.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:24.509Z" modified="2021-12-30T05:21:24.509Z" filename="Nadeembanksy_ebbComments.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Nadeembanksy" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:24.646Z" modified="2021-12-30T05:21:24.646Z" filename="Nadeembanksy" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGHW2_ebbComments.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:24.708Z" modified="2021-12-30T05:21:24.708Z" filename="SVGHW2_ebbComments.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svgHW3" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:24.777Z" modified="2021-12-30T05:21:24.777Z" filename="svgHW3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGHW2" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:21:24.839Z" modified="2021-12-30T05:21:24.839Z" filename="SVGHW2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

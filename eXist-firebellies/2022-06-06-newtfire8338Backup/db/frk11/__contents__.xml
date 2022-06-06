@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/frk11" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:43.638Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="koshinskie_SVG2_04_05_19.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:43.71Z" modified="2021-12-30T05:24:43.71Z" filename="koshinskie_SVG2_04_05_19.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg3" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:43.639Z" modified="2021-12-30T05:24:43.639Z" filename="svg3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="koshinskie_SVG2_04_05_19.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:43.779Z" modified="2021-12-30T05:24:43.779Z" filename="koshinskie_SVG2_04_05_19.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mainXQuery.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:44.222Z" modified="2021-12-30T05:24:44.222Z" filename="mainXQuery.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

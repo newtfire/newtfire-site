@@ -1,0 +1,72 @@
+xquery version "3.1";
+
+<html>
+    <head>
+        <title>Star Wars</title>
+    </head>
+    
+    <body>
+        {
+        let $drafts := collection('/db/starwars/fixed/')
+        let $sortOrder := $drafts[1]
+        for $s at $pos in $sortOrder
+        (:  :for $d in $drafts
+        let $date := $d//date/@date ! data()
+        order by $date :)
+        let $date := $s//date/@date ! data()
+        let $title := $s//title ! normalize-space()
+        let $spCount := $s//sp =>count()
+        let $spkDV := $s//sp/@spk ! normalize-space() =>distinct-values()
+        let $spkDVCount := $s//sp/@spk ! normalize-space() =>distinct-values() =>count()
+        let $info := concat($pos,":",$title," ,Date:",$date," ,SpeechCount:",$spCount," ,SpeakerCount:",$spkDVCount)
+        return 
+        
+        <table border="1">
+            <tr>
+                <th>Pos</th> <th>Title</th> <th>Date</th> <th>Speech Count</th> <th>Speakers Count</th>
+            </tr>
+            <tr>
+                <td>1</td> <td>{$drafts[1]//title ! normalize-space()}</td> <td>{$drafts[1]//date/@date ! data()}</td> <td>{$drafts[1]//sp =>count()}</td> <td>{$drafts[1]//sp/@spk ! normalize-space() =>distinct-values() =>count()}</td>
+            </tr>
+            <tr>
+                <td>2</td> <td>{$drafts[2]//title ! normalize-space()}</td> <td>{$drafts[2]//date/@date ! data()}</td> <td>{$drafts[2]//sp =>count()}</td> <td>{$drafts[2]//sp/@spk ! normalize-space() =>distinct-values() =>count()}</td>
+            </tr>
+            <tr>
+                <td>3</td> <td>{$drafts[3]//title ! normalize-space()}</td> <td>{$drafts[3]//date/@date ! data()}</td> <td>{$drafts[3]//sp =>count()}</td> <td>{$drafts[3]//sp/@spk ! normalize-space() =>distinct-values() =>count()}</td>
+            </tr>
+            <tr>
+                <td>4</td> <td>{$drafts[4]//title ! normalize-space()}</td> <td>{$drafts[4]//date/@date ! data()}</td> <td>{$drafts[4]//sp =>count()}</td> <td>{$drafts[4]//sp/@spk ! normalize-space() =>distinct-values() =>count()}</td>
+            </tr>
+            <tr>
+                <td>5</td> <td>{$drafts[5]//title ! normalize-space()}</td> <td>{$drafts[5]//date/@date ! data()}</td> <td>{$drafts[5]//sp =>count()}</td> <td>{$drafts[5]//sp/@spk ! normalize-space() =>distinct-values() =>count()}</td>
+            </tr>
+        </table>
+        }
+    </body>
+</html>
+
+(: 
+ : PART 1
+ : #1 let $drafts := collection('/db/starwars/fixed/')
+ :    return $drafts
+ : 
+ : #2 $sortOrder is returning the drafts in order from oldest to newest based on their dates
+ : 
+ : #3 for $s at $pos in $sortOrder
+ : 
+ : #4 let $date := $s//date/@date ! data()
+ :    let $title := $s//title ! normalize-space()
+ : 
+ : #5 let $spCount :=$s//sp =>count()
+ : 
+ : #6 let $spkDV :=$s//sp/@spk ! normalize-space() =>distinct-values()
+ : 
+ : #7 let $spkDVCount :=$s//sp/@spk ! normalize-space() =>distinct-values() =>count()
+ : 
+ : #8 let $info := concat($pos,":",$title," ,Date:",$date," ,SpeechCount:",$spCount," ,SpeakerCount:",$spkDVCount)
+ : 
+ : #9 I made a "let statement" to return instaed of just returning the concat itself so I didn't comment out my return because it was saved in the let statement above.
+ : 
+ : PART 2
+ :   For part two I originally input values into my table like "{$pos},{$title},ect..." However instead of giving me one table with all the information it was giving me a seperate table for each draft in the for loop. So I simply just input $drafts with a number predicate to specify which draft I wanted to branch into. Then I just branched down into the information I needed using the same code as the let statements above.
+:)

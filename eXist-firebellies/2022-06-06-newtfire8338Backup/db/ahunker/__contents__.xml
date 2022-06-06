@@ -1,0 +1,42 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ahunker" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:16:13.86Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Hunker_March_24_SVG_04.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:13.861Z" modified="2021-12-30T05:16:13.861Z" filename="Hunker_March_24_SVG_04.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:14.708Z" modified="2021-12-30T05:16:14.708Z" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Hamilton_Timeline" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:13.927Z" modified="2021-12-30T05:16:13.927Z" filename="Hamilton_Timeline" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="JS03" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:13.996Z" modified="2021-12-30T05:16:13.996Z" filename="JS03" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG02" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:14.069Z" modified="2021-12-30T05:16:14.069Z" filename="SVG02" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xquery03" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:14.151Z" modified="2021-12-30T05:16:14.151Z" filename="Xquery03" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG04" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:14.213Z" modified="2021-12-30T05:16:14.213Z" filename="SVG04" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG03" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:14.28Z" modified="2021-12-30T05:16:14.28Z" filename="SVG03" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapLocs.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:14.419Z" modified="2021-12-30T05:16:14.419Z" filename="mapLocs.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Hamilton_Placeography" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:14.488Z" modified="2021-12-30T05:16:14.488Z" filename="Hamilton_Placeography" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Hamilton_Placeography.kml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:14.553Z" modified="2021-12-30T05:16:14.553Z" filename="Hamilton_Placeography.kml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG02_In_Class" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:14.616Z" modified="2021-12-30T05:16:14.616Z" filename="SVG02_In_Class" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Placeography.kml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:14.789Z" modified="2021-12-30T05:16:14.789Z" filename="Placeography.kml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

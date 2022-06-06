@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <song name="What do you fight for">
+        <metadata>
+            <sname>What do you fight for</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+        <lyrics>
+           <verse n="1">
+               <line n="1">Everything in this world</line>
+               <line n="2">leads to soul enlightenment</line>
+               <line n="3">There is nothing wasted about our lives</line>
+               <line n="4">The snow falling in spring</line>
+               <line n="5">Moon hangs during the day</line>
+               <line n="6"><i story="nago">One with self and time</i></line>
+           </verse>
+            <prechorus n="1">
+                <line n="1">So what</line>
+                <line n="2">Let's get to the bottom line</line>
+                <line n="3">If so, what do you fight for</line>
+                <line n="4">You're denying your thirst</line>
+                <line n="5"><i story="nago">Now it's time</i></line>
+                <line n="6"><i story="nago">to feast</i></line>
+            </prechorus>
+            <chorus n="1">
+                <line n="1">Break it out!</line>
+                <line n="2">Keep grinding</line>
+                <line n="3">Dive in deep like cold steel</line>
+                <line n="4"><i story="nago">I won't face my doom SAYONARA</i></line>
+                <line n="5">Well done! How dare you!!!</line>
+                <line n="6">Never too late to bend the knee</line>
+                <line n="7">When hell freezes over! SAYONARA</line>
+            </chorus>
+            <verse n="2">
+                <line n="1">Welcome to GNN nightly news</line>
+                <line n="2">D.I.O. distributing A.I. automatas for use</line>
+                <line n="3">In the commercial market nation wide</line>
+                <line n="4">Excitement is sky high</line>
+                <line n="5">Over how this magic device,</line>
+                <line n="6">Highly acclaimed in the medical field</line>
+                <line n="7">And construction industries that we need,</line>
+                <line n="8">To live and breathe will alleviate our crisis</line>
+                <line n="9">And re-shape our daily life is</line>
+            </verse>
+            <prechorus n="2">
+                <line n="1">Let go, can't resist forever</line>
+                <line n="2">If so, what do you fight for</line>
+                <line n="3">The world is starting to reject you</line>
+                <line n="4">Now it's time</line>
+                <line n="5">To feast</line>
+            </prechorus>
+            
+            <bridge n="1">
+                <line n="1">I know the time of darkness will come someday</line>
+                <line n="2">But I will fight it till the day I die</line>
+            </bridge>
+            <prechorus n="1">
+                <line n="1">The world is starting to reject you</line>
+                <line n="2">If so, what do you fight for</line>
+                <line n="3">You must know your place</line>
+                <line n="5">Now it's time</line>
+                <line n="6">To feast</line>
+            </prechorus>
+            <chorus n="2">
+                <line n="1">Break it out!</line>
+                <line n="2">Keep grinding</line>
+                <line n="3">Dive in deep like cold steel</line>
+                <line n="4">I won't face my doom SAYONARA</line>
+                <line n="5">Well done! How dare you!!!</line>
+                <line n="6">Never too late to bend the knee</line>
+                <line n="7">When hell freezes over! SAYONARA</line>
+            </chorus>
+            <bridge n="3">
+                <line n="1">I know the time of darkness will come someday</line>
+                <line n="2">but I will fight it till the day I die</line>
+                <line n="3">Break it out!</line>
+                <line n="4">Break it out!</line>
+                <line n="5">Dive in the deep! Like cold steel</line>
+                <line n="6">I will not face my doom</line>
+                <line n="7">SAYONARA</line>
+            </bridge>
+        </lyrics>
+    </song>
+</xml>

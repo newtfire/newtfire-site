@@ -1,0 +1,94 @@
+    xquery version "3.1";
+  let $drafts := collection('/db/starwars/fixed/')
+  let $sortOrder := 
+            for $d in $drafts
+            let $date := $d//date/@date ! data()
+            let $speeches := $d//sp
+            let $speechCount := count($speeches)
+            let $draftTitle := $d//draft ! normalize-space()
+            let $speaker := $d//sp/@spk ! data()
+            let $distinctSpeaker := distinct-values($speaker)
+            let $speakerCount := count($distinctSpeaker)
+            let $concatString := concat($draftTitle, '&#32;', "was written in", '&#32;', $date, '&#32;', "and has", '&#32;', $speechCount, '&#32;', "speeches, with", '&#32;', $speakerCount, '&#32;', "distinct speakers." )
+            order by $date
+           (: return <h1>{$concatString}</h1> :)
+            return <th>{$draftTitle}</th>
+let $year := 
+            for $d in $drafts
+            let $date := $d//date/@date ! data()
+            let $speeches := $d//sp
+            let $speechCount := count($speeches)
+            let $draftTitle := $d//draft ! normalize-space()
+            let $speaker := $d//sp/@spk ! data()
+            let $distinctSpeaker := distinct-values($speaker)
+            let $speakerCount := count($distinctSpeaker)
+            let $concatString := concat($draftTitle, '&#32;', "was written in", '&#32;', $date, '&#32;', "and has", '&#32;', $speechCount, '&#32;', "speeches, with", '&#32;', $speakerCount, '&#32;', "distinct speakers." )
+            order by $date
+           (: return <h1>{$concatString}</h1> :)
+            return <td>{$date}</td>
+let $speechTable := 
+            for $d in $drafts
+            let $date := $d//date/@date ! data()
+            let $speeches := $d//sp
+            let $speechCount := count($speeches)
+            let $draftTitle := $d//draft ! normalize-space()
+            let $speaker := $d//sp/@spk ! data()
+            let $distinctSpeaker := distinct-values($speaker)
+            let $speakerCount := count($distinctSpeaker)
+            let $concatString := concat($draftTitle, '&#32;', "was written in", '&#32;', $date, '&#32;', "and has", '&#32;', $speechCount, '&#32;', "speeches, with", '&#32;', $speakerCount, '&#32;', "distinct speakers." )
+            order by $date
+           (: return <h1>{$concatString}</h1> :)
+            return <td>{$speechCount}</td>
+            
+let $spCount := 
+for $d in $drafts
+            let $date := $d//date/@date ! data()
+            let $speeches := $d//sp
+            let $speechCount := count($speeches)
+            let $draftTitle := $d//draft ! normalize-space()
+            let $speaker := $d//sp/@spk ! data()
+            let $distinctSpeaker := distinct-values($speaker)
+            let $speakerCount := count($distinctSpeaker)
+            let $concatString := concat($draftTitle, '&#32;', "was written in", '&#32;', $date, '&#32;', "and has", '&#32;', $speechCount, '&#32;', "speeches, with", '&#32;', $speakerCount, '&#32;', "distinct speakers." )
+            order by $date
+           (: return <h1>{$concatString}</h1> :)
+            return <td>{$speakerCount}</td>
+
+(:  return 
+    <result>
+    <title>Star Wars Draft Info</title>
+    {$sortOrder}
+    </result> :)
+    
+return
+   <table>
+       <tr><th>Draft Title</th>{$sortOrder}</tr>
+        <tr><td>Draft Date</td>{$year}</tr>   
+        <tr><td>Speaker Count</td>{$spCount}</tr>
+        <tr><td>Speech Count</td>{$speechTable}</tr>
+        
+       </table>
+   
+   
+
+    
+    
+(: _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- :)
+ (: let $sortOrder := 
+  (: declares variable sortOrder :)
+            for $d in $drafts
+            (: makes a variable within  :)
+            let $date := $d//date/@date ! data()
+            (: creates variable $date which digs down $d to find date elements and returns them as just the text/data without the tags themselves:)
+            order by $date
+            (: orders by variable $date :)
+            return $d
+            :)
+(: <result>
+    <title>Star Wars Draft Info</title>
+    <h1>Rough Draft [First of four major screenplay drafts] Lucasfilm Ltd. was written in 1974-05 and has 824 speeches, with 70 distinct speakers.</h1>
+    <h1>FIRST DRAFT LUCASFILM LIMITED was written in 1974-07 and has 732 speeches, with 69 distinct speakers.</h1>
+    <h1>SECOND DRAFT was written in 1975-01 and has 599 speeches, with 64 distinct speakers.</h1>
+    <h1>Third DraftLucasfilm Limited was written in 1975-08 and has 542 speeches, with 29 distinct speakers.</h1>
+    <h1>Revised Fourth Draft was written in 1976-01 and has 1008 speeches, with 69 distinct speakers.</h1>
+</result> :)

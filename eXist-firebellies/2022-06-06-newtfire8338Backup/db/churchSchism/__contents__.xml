@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/churchSchism" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:02.745Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="WomanLeader.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:02.878Z" modified="2021-12-30T05:24:02.878Z" filename="WomanLeader.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ChuchesHealSplit.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:03.023Z" modified="2021-12-30T05:24:03.023Z" filename="ChuchesHealSplit.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="JudgeDispute.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:03.169Z" modified="2021-12-30T05:24:03.169Z" filename="JudgeDispute.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="EpiscSplit.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:03.446Z" modified="2021-12-30T05:24:03.446Z" filename="EpiscSplit.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DioceseSecession.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:03.566Z" modified="2021-12-30T05:24:03.566Z" filename="DioceseSecession.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ChurchVote" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:02.746Z" modified="2021-12-30T05:24:02.746Z" filename="ChurchVote" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

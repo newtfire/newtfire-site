@@ -1,0 +1,7 @@
+xquery version "3.1";
+declare variable $autoCall := collection('/db/auto');
+<!--this is for the timeline-->
+declare variable $timeSpacer := 10;
+declare variable $dates := $autoCall//entry[built[contains(@when,"19")]] ! string();
+declare variables $years := $dates ! tokenize(., "-")[1] ! xs:integer(.);
+declare variable $minYear := $years => min();

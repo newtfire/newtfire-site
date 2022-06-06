@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/lam289" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:25:18.378Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="pokemon_mcneillxquery2.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:18.859Z" modified="2021-12-30T05:25:18.859Z" filename="pokemon_mcneillxquery2.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_1.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:18.379Z" modified="2021-12-30T05:25:18.379Z" filename="qgis_1.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rocket-example.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:18.445Z" modified="2021-12-30T05:25:18.445Z" filename="rocket-example.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teentitan.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:18.516Z" modified="2021-12-30T05:25:18.516Z" filename="teentitan.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="qgis_1.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:18.651Z" modified="2021-12-30T05:25:18.651Z" filename="qgis_1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pokemon_example.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:18.723Z" modified="2021-12-30T05:25:18.723Z" filename="pokemon_example.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mcneill_xquery2-03-01.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:18.919Z" modified="2021-12-30T05:25:18.919Z" filename="mcneill_xquery2-03-01.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network1.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:18.986Z" modified="2021-12-30T05:25:18.986Z" filename="network1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

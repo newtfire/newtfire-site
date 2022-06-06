@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/pokemonMap/places/cities" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:14.092Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="PalletTown.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14.093Z" modified="2020-08-07T21:14:14.093Z" filename="PalletTown.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="VermilionCity.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14.15Z" modified="2020-08-07T21:14:14.15Z" filename="VermilionCity.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PewterCity.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14.213Z" modified="2020-08-07T21:14:14.213Z" filename="PewterCity.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CeladonCity.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14.273Z" modified="2020-08-07T21:14:14.273Z" filename="CeladonCity.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ViridianCity.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14.395Z" modified="2020-08-07T21:14:14.395Z" filename="ViridianCity.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SaffronCity.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14.452Z" modified="2020-08-07T21:14:14.452Z" filename="SaffronCity.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FuchsiaCity.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14.509Z" modified="2020-08-07T21:14:14.509Z" filename="FuchsiaCity.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CinnabarIsland.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14.574Z" modified="2020-08-07T21:14:14.574Z" filename="CinnabarIsland.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="LavenderTown.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14.633Z" modified="2020-08-07T21:14:14.633Z" filename="LavenderTown.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CeruleanCity.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:14.691Z" modified="2020-08-07T21:14:14.691Z" filename="CeruleanCity.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

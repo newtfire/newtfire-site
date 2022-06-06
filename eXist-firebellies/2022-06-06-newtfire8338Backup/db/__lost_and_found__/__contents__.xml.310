@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/letsrock-queries" version="1" owner="eqt5165" group="dba" mode="775" created="2021-10-04T05:26:45.49Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="letsrock" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="Story-length.html" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-10-15T19:14:10.374Z" modified="2021-10-22T01:42:04.364Z" filename="Story-length.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="LetsRock-1.svg" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-11-16T01:11:56.755Z" modified="2021-11-16T01:11:56.755Z" filename="LetsRock-1.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="LetsRock2FIX.svg" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-11-17T20:45:05.027Z" modified="2021-11-17T20:45:05.027Z" filename="LetsRock2FIX.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg-work-11-12.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-11-12T20:26:42.749Z" modified="2021-11-16T02:08:42.165Z" filename="svg-work-11-12.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Milestone-5a-Story-String.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-10-15T19:04:47.651Z" modified="2021-10-22T01:42:09.777Z" filename="Milestone-5a-Story-String.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg-fix.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-11-17T20:44:46.981Z" modified="2021-11-17T20:45:03.965Z" filename="svg-fix.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

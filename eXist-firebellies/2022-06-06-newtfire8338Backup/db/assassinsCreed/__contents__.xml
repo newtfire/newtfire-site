@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/assassinsCreed" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:19:35.712Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="assassinscreedodyssey.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:36.2Z" modified="2021-12-30T05:19:36.2Z" filename="assassinscreedodyssey.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

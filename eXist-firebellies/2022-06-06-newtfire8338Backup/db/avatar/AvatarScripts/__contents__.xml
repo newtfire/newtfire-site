@@ -1,0 +1,177 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/avatar/AvatarScripts" version="1" owner="ztd5049" group="avatar" mode="775" created="2022-04-09T09:32:16.59Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="The_Siege_of_the_North_Part_2.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:21.233Z" modified="2022-04-19T04:41:29.567Z" filename="The_Siege_of_the_North_Part_2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Southern_Air_Temple.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:21.325Z" modified="2022-04-19T04:41:29.478Z" filename="The_Southern_Air_Temple.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Southern_Raiders.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:21.417Z" modified="2022-04-19T04:41:29.378Z" filename="The_Southern_Raiders.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Storm.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:21.509Z" modified="2022-04-19T04:41:29.286Z" filename="The_Storm.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Swamp.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:21.604Z" modified="2022-04-19T04:41:29.179Z" filename="The_Swamp.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Tales_of_Ba_Sing_Se.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:21.698Z" modified="2022-04-19T04:41:29.09Z" filename="The_Tales_of_Ba_Sing_Se.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Warriors_of_Kyoshi.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:21.786Z" modified="2022-04-19T04:41:28.996Z" filename="The_Warriors_of_Kyoshi.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Waterbending_Master.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:21.873Z" modified="2022-04-19T04:41:28.866Z" filename="The_Waterbending_Master.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Waterbending_Scroll.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:21.963Z" modified="2022-04-19T04:41:34.614Z" filename="The_Waterbending_Scroll.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Western_Air_Temple.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:22.046Z" modified="2022-04-19T04:41:34.502Z" filename="The_Western_Air_Temple.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Winter_Solstice_Part_1.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:22.126Z" modified="2022-04-19T04:41:34.394Z" filename="Winter_Solstice_Part_1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Winter_Solstice_Part_2.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:22.205Z" modified="2022-04-19T04:41:34.251Z" filename="Winter_Solstice_Part_2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Zuko_Alone.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:22.29Z" modified="2022-04-19T04:41:34.137Z" filename="Zuko_Alone.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Appas_Lost_Days.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:16.593Z" modified="2022-04-19T04:41:34.001Z" filename="Appas_Lost_Days.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Avatar_Day.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:16.779Z" modified="2022-04-19T04:41:33.909Z" filename="Avatar_Day.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Bato_of_the_Water_Tribe.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:16.924Z" modified="2022-04-19T04:41:33.803Z" filename="Bato_of_the_Water_Tribe.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Bitter_Work.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:17.054Z" modified="2022-04-19T04:41:33.706Z" filename="Bitter_Work.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="City_of_Walls_and_Secrets.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:17.173Z" modified="2022-04-19T04:41:33.549Z" filename="City_of_Walls_and_Secrets.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Imprisoned.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:17.284Z" modified="2022-04-19T04:41:33.446Z" filename="Imprisoned.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Jet.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:17.396Z" modified="2022-04-19T04:41:33.352Z" filename="Jet.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Lake_Laogai.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:17.508Z" modified="2022-04-19T04:41:33.259Z" filename="Lake_Laogai.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Nightmares_and_Daydreams.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:17.61Z" modified="2022-04-19T04:41:33.154Z" filename="Nightmares_and_Daydreams.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Return_to_Omashu.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:17.71Z" modified="2022-04-19T04:41:33.059Z" filename="Return_to_Omashu.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Sokkas_Master.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:17.823Z" modified="2022-04-19T04:41:32.953Z" filename="Sokkas_Master.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Sozins_Comet_Part_1.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:17.927Z" modified="2022-04-19T04:41:32.86Z" filename="Sozins_Comet_Part_1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Sozins_Comet_Part_2.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:18.022Z" modified="2022-04-19T04:41:32.771Z" filename="Sozins_Comet_Part_2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Avatar_and_the_Fire_Lord.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:18.112Z" modified="2022-04-19T04:41:32.498Z" filename="The_Avatar_and_the_Fire_Lord.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Avatar_Returns.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:18.208Z" modified="2022-04-19T04:41:32.686Z" filename="The_Avatar_Returns.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Avatar_State.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:18.313Z" modified="2022-04-19T04:41:32.587Z" filename="The_Avatar_State.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Awakening.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:18.407Z" modified="2022-04-19T04:41:32.384Z" filename="The_Awakening.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Beach.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:18.508Z" modified="2022-04-19T04:41:32.285Z" filename="The_Beach.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Blind_Bandit.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:18.635Z" modified="2022-04-19T04:41:32.189Z" filename="The_Blind_Bandit.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Blue_Spirit.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:18.737Z" modified="2022-04-19T04:41:32.089Z" filename="The_Blue_Spirit.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Boiling_Rock_Part_1.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:18.833Z" modified="2022-04-19T04:41:31.987Z" filename="The_Boiling_Rock_Part_1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Boiling_Rock_Part_2.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:18.937Z" modified="2022-04-19T04:41:31.892Z" filename="The_Boiling_Rock_Part_2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Boy_in_the_Iceberg.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:19.034Z" modified="2022-04-19T04:41:31.796Z" filename="The_Boy_in_the_Iceberg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Cave_of_Two_Lovers.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:19.138Z" modified="2022-04-19T04:41:31.699Z" filename="The_Cave_of_Two_Lovers.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Chase.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:19.243Z" modified="2022-04-19T04:41:31.602Z" filename="The_Chase.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Crossroads_of_Destiny.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:19.341Z" modified="2022-04-19T04:41:31.504Z" filename="The_Crossroads_of_Destiny.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Day_of_Black_Sun_Part_1.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:19.43Z" modified="2022-04-19T04:41:31.411Z" filename="The_Day_of_Black_Sun_Part_1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Desert.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:19.522Z" modified="2022-04-19T04:41:31.322Z" filename="The_Desert.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Deserter.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:19.617Z" modified="2022-04-19T04:41:31.231Z" filename="The_Deserter.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Drill.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:19.712Z" modified="2022-04-19T04:41:31.137Z" filename="The_Drill.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Earth_King.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:19.803Z" modified="2022-04-19T04:41:31.044Z" filename="The_Earth_King.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Ember_Island_Players.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:19.906Z" modified="2022-04-19T04:41:30.94Z" filename="The_Ember_Island_Players.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Firebending_Masters.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:20.002Z" modified="2022-04-19T04:41:30.843Z" filename="The_Firebending_Masters.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Fortuneteller.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:20.102Z" modified="2022-04-19T04:41:30.727Z" filename="The_Fortuneteller.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Great_Divide.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:20.199Z" modified="2022-04-19T04:41:30.609Z" filename="The_Great_Divide.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Guru.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:20.287Z" modified="2022-04-19T04:41:30.507Z" filename="The_Guru.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Headband.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:20.386Z" modified="2022-04-19T04:41:30.408Z" filename="The_Headband.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_King_of_Omashu.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:20.495Z" modified="2022-04-19T04:41:30.318Z" filename="The_King_of_Omashu.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Library.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:20.585Z" modified="2022-04-19T04:41:30.228Z" filename="The_Library.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Northern_Air_Temple.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:20.675Z" modified="2022-04-19T04:41:30.136Z" filename="The_Northern_Air_Temple.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Painted_Lady.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:20.767Z" modified="2022-04-19T04:41:30.04Z" filename="The_Painted_Lady.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Puppetmaster.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:20.859Z" modified="2022-04-19T04:41:29.945Z" filename="The_Puppetmaster.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Runaway.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:20.954Z" modified="2022-04-19T04:41:29.838Z" filename="The_Runaway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Serpents_Pass.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:21.053Z" modified="2022-04-19T04:41:29.748Z" filename="The_Serpents_Pass.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="The_Siege_of_the_North_Part_1.xml" skip="no" owner="ztd5049" group="ztd5049" mode="644" created="2022-04-09T09:32:21.143Z" modified="2022-04-19T04:41:29.656Z" filename="The_Siege_of_the_North_Part_1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

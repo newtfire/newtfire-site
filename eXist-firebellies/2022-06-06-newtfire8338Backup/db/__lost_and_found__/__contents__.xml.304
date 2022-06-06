@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/kingdomofhearts-queries" version="1" owner="ajm7408" group="dba" mode="775" created="2021-03-28T22:13:37.654Z">
+    <acl entries="2" version="1">
+        <ace index="0" target="GROUP" who="kingdomhearts" access_type="ALLOWED" mode="7"/>
+        <ace index="1" target="GROUP" who="koh2" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="Speeches-vs-Cutscenes.svg" skip="no" owner="ajm7408" group="ajm7408" mode="644" created="2021-04-29T01:06:02.921Z" modified="2021-04-29T01:06:02.921Z" filename="Speeches-vs-Cutscenes.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="parenths-in-speakers-ebb.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-04-01T17:28:17.346Z" modified="2021-04-01T23:24:17.139Z" filename="parenths-in-speakers-ebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="retrieving-nonZeroLength-speakers.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-04-01T23:57:26.635Z" modified="2021-04-01T23:57:26.635Z" filename="retrieving-nonZeroLength-speakers.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KHXQuery.xql" skip="no" owner="sao5303" group="kingdomhearts" mode="775" created="2021-03-30T19:52:17.833Z" modified="2021-04-02T01:31:43.214Z" filename="KHXQuery.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KHXNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-04-04T23:56:54.547Z" modified="2021-04-04T23:56:54.547Z" filename="KHXNetwork.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KHXNetwork.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-04-04T23:30:03.977Z" modified="2021-04-04T23:58:18.967Z" filename="KHXNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KHXSpeakersSVG.xql" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-04-23T16:38:47.368Z" modified="2021-04-23T17:16:59.301Z" filename="KHXSpeakersSVG.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exploring-InBetweenCutScenes.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-04-24T15:45:33.892Z" modified="2021-04-24T17:09:40.422Z" filename="exploring-InBetweenCutScenes.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KHXCutsceneNetwork.xql" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-04-23T16:39:13.807Z" modified="2021-04-24T17:47:09.964Z" filename="KHXCutsceneNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FA2021_KH1.5CutsceneLocationNetwork.xql" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-11-18T21:43:47.006Z" modified="2021-11-18T21:59:05.214Z" filename="FA2021_KH1.5CutsceneLocationNetwork.xql" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KHXBetweenCutsceneNetwork.xql" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-04-23T19:32:32.79Z" modified="2021-04-26T16:42:28.172Z" filename="KHXBetweenCutsceneNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KHXCutsceneNetwork.tsv" skip="no" owner="ajm7408" group="ajm7408" mode="644" created="2021-04-23T18:28:16.789Z" modified="2021-11-18T21:49:54.699Z" filename="KHXCutsceneNetwork.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KHXBetweenCutsceneNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-04-24T17:44:57.774Z" modified="2021-04-26T18:25:06.395Z" filename="KHXBetweenCutsceneNetwork.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FA2021_KH1.5Network.xql" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-11-18T22:00:41.405Z" modified="2021-11-18T22:44:36.225Z" filename="FA2021_KH1.5Network.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FA2021_KH1.5Network.tsv" skip="no" owner="ajm7408" group="ajm7408" mode="644" created="2021-11-18T22:32:02.056Z" modified="2021-11-18T22:44:37.359Z" filename="FA2021_KH1.5Network.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TestSVG.xql" skip="no" owner="ajm7408" group="ajm7408" mode="755" created="2021-04-28T23:33:06.993Z" modified="2021-04-29T01:06:07.415Z" filename="TestSVG.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

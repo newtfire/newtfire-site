@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="ACIP_2-03-01128-ENG01.xml"/>
+		<title>Karmacaṇḍālikādohakoṣagīti-nāma</title>
+        <author>Virūpa</author>
+		<unifiedCatalogID>2-03-01128</unifiedCatalogID>
+		<creation date="Mon Jun 11 22:44:35 2018"/>
+		<processed date="Mon Sep 17 16:59:45 2018" ver="SentenceVerseBoundaryDetection v.0.70"/>
+		<sourceDesc>
+			<bibl>
+				<title>Sahaja: the role of dohā &amp; caryāgīti in the cultural Indo-Tibetan interface</title>
+				<author>Loseries, Andrea</author>
+				<pubPlace>Delhi</pubPlace>
+				<publisher>Buddhist World Press</publisher>
+				<date>2015</date>
+				<biblScope unit="pageRange">53-62</biblScope>
+				<note type="Text Colophon">Initially translated by Andrea Loseries from Tibetan (Q 3172); reformatted by Paul Hackett.</note>
+			</bibl>
+		</sourceDesc>
+	</head>
+	<text>
+		<text_id t_id="2-03-01128-ENG01"/>
+		<sentence s_id="2-03-01128-ENG01-SID000001" type="Text Title">
+			<phrase phr_id="2-03-01128-ENG01-000001">Doha Treasure Song on Caṇḍalīkā</phrase>
+		</sentence>
+		<volume vol_id="1"/>
+		<sentence s_id="2-03-01128-ENG01-SID000002" type="Sentence">
+			<phrase phr_id="2-03-01128-ENG01-000002">Homage to the Lady who fulfills all aspirations!</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-ENG01-SID000003" type="Verse" s_name="1">
+			<phrase phr_id="2-03-01128-ENG01-000004">The fire of Caṇḍalīkā from within</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000005">Makes the nectar drop from the core</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000006">And the staff rise on its own.</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000007">Gone up to the mount of its peak it just stays</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000008">And makes the Natha's nectar drop.</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-ENG01-SID000004" type="Verse" s_name="2">
+			<phrase phr_id="2-03-01128-ENG01-000009">Victory over long [endured] suffering of Samsara!</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000010">Freedom from the fear of falling [prey] to Yama!</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-ENG01-SID000005" type="Verse" s_name="3">
+			<phrase phr_id="2-03-01128-ENG01-000011">The Mala of [all] Buddha's qualities emerges</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000012">[And] Great Bliss arises,</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000013">Spreading all over, all over.</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-ENG01-SID000006" type="Verse" s_name="4">
+			<phrase phr_id="2-03-01128-ENG01-000014">Victory over long [endured] suffering of Samsara!</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000015">Freedom from the fear of falling [prey] to Yama!</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-ENG01-SID000007" type="Verse" s_name="5">
+			<phrase phr_id="2-03-01128-ENG01-000016">The Vajra under control and protected</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000017">Waving burnt both, sun and moon,</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000018">Dissolves into the sphere of the sky.</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-ENG01-SID000008" type="Verse" s_name="6">
+			<phrase phr_id="2-03-01128-ENG01-000019">Gone into the citadel of Great Bliss</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000020">The qualities of the central Buddha of all</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000021">Point towards the realm of Ratnasambhava.</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-ENG01-SID000009" type="Verse" s_name="7">
+			<phrase phr_id="2-03-01128-ENG01-000022">Victory over long [endured] suffering of Samsara!</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000023">Freedom from the fear of falling [prey] to Yama!</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-ENG01-SID000010" type="Sentence" s_name="8">
+			<phrase phr_id="2-03-01128-ENG01-000024">By blocking the wind to cause outflow</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000025">Gone into the realm of clear Ratna,</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000026">Holding out, holding out, by this test</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000027">May I, Virūpa, get accomplished!</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-ENG01-SID000011" type="Sentence" s_name="9">
+			<phrase phr_id="2-03-01128-ENG01-000028">Victory over long [endured] suffering of Saṃsāra!</phrase>
+			<phrase phr_id="2-03-01128-ENG01-000029">Freedom from the fear of falling [prey] to Yama!</phrase>
+		</sentence>
+		<volume vol_id="9999"/>
+		<sentence s_id="2-03-01128-ENG01-SID000012" type="Text Colophon">
+			<phrase phr_id="2-03-01128-ENG01-000030">Karmacaṇḍalīkā Dohākoṣagītī sang by the Acārya Virūpa.</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

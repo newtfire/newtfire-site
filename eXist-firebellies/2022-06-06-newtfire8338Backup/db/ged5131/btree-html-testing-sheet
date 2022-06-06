@@ -1,0 +1,72 @@
+xquery version "3.1"; 
+<html>
+    <head>
+        <title>Table of Behrend Trees</title>
+    </head>
+    <body>
+        <table>
+            (:Wait, how do I make an HTML table? See https://www.w3schools.com/html/html_tables.asp :)
+            (: Tables should have a row at the top with special <th>..</th> cells inside for table headings:)
+            
+            <tr>
+                <th>Name</th> 
+                <th>Scientific Name</th>
+                <th>Description</th>
+            </tr>
+{
+let $btrees := collection('/db/btrees/')/*
+let $entry := $btrees//entry
+for $n in $entry
+let $cname := $entry/cname ! data() 
+let $sname := $entry/sname ! normalize-space()
+let $desc := $entry/desc ! normalize-space()
+return 
+   <tr>
+    <td>
+        <ul>
+       {
+            for $cname in $entry
+        return
+           <li>{$cname}</li>
+       }
+        </ul>
+    </td>
+    <td>
+        <ul>
+       {
+            for $sname in $entry
+        return
+           <li>{$sname}</li>}
+        </ul>
+    </td>
+    <td>
+        <ul>
+       {
+            for $desc in $entry
+        return
+           <li>{$desc}</li>
+       }
+        </ul>
+    </td>
+    </tr>
+}
+   </table>
+</body>
+</html>
+
+(:  :let $autoColl := collection('/db/btrees')/*
+let $entries := $autoColl//entry
+for $e in $entries
+let $cname := $e/cname ! data()
+let $sname := $e/sname ! normalize-space()
+let $desc := $e/desc ! normalize-space()
+return concat($cname,', ', $sname, ': ', $desc)
+
+xquery version "3.1";
+let $autoColl := collection('/db/auto')/*
+let $entries := $autoColl//entry
+for $e in $entries
+let $built := $e/built/@when ! data()
+let $name := $e/name ! normalize-space()
+return concat($built, ': ', $name)
+:)

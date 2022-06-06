@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="supersmashtierlistRNC.rnc" type="application/relax-ng-compact-syntax"?><charList>
+
+        <char id="Mario">Mario <game n="5" tier="S"/>
+                <game n="4" tier="A"/>
+                 <game n="3" tier="C+"/>
+                <game n="2" tier="F"/>
+                <game n="1" tier="B"/>
+        </char>
+
+        <char id="Luigi">Luigi <game n="5" tier="C"/>
+        <game n="4" tier="B"/>
+        <game n="3" tier="E"/>
+        <game n="2" tier="B-"/>
+        <game n="1" tier="C"/>
+    </char>
+        <char id="Peach">Peach<game n="5" tier="S"/>
+        <game n="4" tier="B"/>
+        <game n="3" tier="C-"/>
+        <game n="2" tier="A"/>
+    </char>
+        <char id="Bowser">Bowser<game n="5" tier="B"/>
+        <game n="4" tier="C"/>
+        <game n="3" tier="F"/>
+        <game n="2" tier="F"/>
+    </char>
+        <char id="Yoshi">Yoshi<game n="5" tier="B"/>
+        <game n="4" tier="D"/>
+        <game n="3" tier="D"/>
+        <game n="2" tier="B+"/>
+        <game n="1" tier="A"/>
+    </char>
+        <char id="Rosalina &amp; Luma">Rosalina &amp; Luma<game n="5" tier="C"/>
+        <game n="4" tier="A"/>
+    </char>
+        <char id="Donkey Kong">Donkey Kong<game n="5" tier="D"/>
+        <game n="4" tier="C"/>
+        <game n="3" tier="D"/>
+        <game n="2" tier="C-"/>
+        <game n="1" tier="C"/>
+    </char>
+        <char id="Diddy Kong">Diddy Kong<game n="5" tier="B"/>
+        <game n="4" tier="S"/>
+        <game n="3" tier="A"/>
+    </char>
+        <char id="Link">Link<game n="5" tier="B"/>
+        <game n="4" tier="D"/>
+        <game n="3" tier="A+"/>
+        <game n="2" tier="C-"/>
+        <game n="1" tier="C"/>
+    </char>
+        <char id="Zelda">Zelda<game n="5" tier="B"/>
+        <game n="4" tier="G"/>
+        <game n="3" tier="D"/>
+        <game n="2" tier="D"/>
+    </char>
+        <char id="Sheik">Sheik<game n="5" tier="B"/>
+        <game n="4" tier="A"/>
+        <game n="3" tier="D"/>
+        <game n="2" tier="A"/>
+    </char>
+        <char id="Toon Link">Toon Link<game n="5" tier="C"/>
+        <game n="4" tier="C"/>
+        <game n="3" tier="C+"/>
+    </char>
+        <char id="Samus">Samus<game n="5" tier="B"/>
+        <game n="4" tier="D"/>
+        <game n="3" tier="F"/>
+        <game n="2" tier="B+"/>
+        <game n="1" tier="C"/>
+    </char>
+        <char id="Zero Suit Samus">Zero Suit Samus<game n="5" tier="S"/>
+        <game n="4" tier="A"/>
+        <game n="3" tier="B"/>
+    </char>
+        <char id="Pit">Pit<game n="5" tier="C"/>
+        <game n="4" tier="D"/>
+        <game n="3" tier="C"/>
+    </char>
+        <char id="Palutena">Palutena<game n="5" tier="S"/>
+        <game n="4" tier="E"/>
+    </char>
+        <char id="Marth">Marth<game n="5" tier="C"/>
+        <game n="4" tier="A"/>
+        <game n="3" tier="A-"/>
+        <game n="2" tier="S"/>
+    </char>
+        <char id="Ike">Ike<game n="5" tier="B"/>
+        <game n="4" tier="E"/>
+        <game n="3" tier="D"/>
+    </char>
+        <char id="Robin">Robin<game n="5" tier="C"/>
+        <game n="4" tier="D"/>
+    </char>
+        <char id="Kirby">Kirby<game n="5" tier="D"/>
+        <game n="4" tier="F"/>
+        <game n="3" tier="D"/>
+        <game n="2" tier="F"/>
+                <game n="1" tier="S"/>
+        </char>
+        <char id="King Dedede">King Dedede<game n="5" tier="D"/>
+        <game n="4" tier="G"/>
+        <game n="3" tier="C+"/>
+    </char>
+        <char id="Meta Knight">Meta Knight<game n="5" tier="C"/>
+        <game n="4" tier="B"/>
+        <game n="3" tier="SS"/>
+    </char>
+        <char id="Little Mac">Little Mac<game n="5" tier="F"/>
+        <game n="4" tier="E"/>
+    </char>
+        <char id="Fox">Fox<game n="5" tier="A"/>
+        <game n="4" tier="A"/>
+        <game n="3" tier="C"/>
+        <game n="2" tier="S"/>
+        <game n="1" tier="A"/>
+    </char>
+        <char id="Wolf"> Wolf<game n="5" tier="S"/>
+        <game n="3" tier="C"/>
+    </char>
+        <char id="Pikachu">Pikachu<game n="5" tier="S"/>
+        <game n="4" tier="B"/>
+        <game n="3" tier="B"/>
+        <game n="2" tier="B+"/>
+                <game n="1" tier="S"/>
+    </char>
+        <!-- Charizard, PKMN TRNR and Squirtle/Bulbasaur are the same char -->
+        <char id="Charizard">Charizard<game n="4" tier="E"/>
+    </char>
+        <char id="Pokemon Trainer">Pokemon Trainer<game n="3" tier="E"/>
+    </char>
+        <!-- ^^^these two need reworked somehow^^^ -->
+        <char id="Lucario">Lucario<game n="5" tier="D"/>
+        <game n="4" tier="B"/>
+        <game n="3" tier="C+"/>
+    </char>
+        <char id="Greninja">Greninja<game n="5" tier="A"/>
+        <game n="4" tier="C"/>
+    </char>
+        <char id="Captain Falcon">Captain Falcon<game n="5" tier="B"/>
+        <game n="4" tier="B"/>
+        <game n="3" tier="F"/>
+        <game n="2" tier="A"/>
+        <game n="1" tier="A"/>
+    </char>
+        <char id="Villager">Villager<game n="5" tier="C"/>
+        <game n="4" tier="C"/>
+    </char>
+        <char id="Pikmin &amp; Olimar">Pikmin &amp; Olimar<game n="5" tier="A"/>
+        <game n="4" tier="C"/>
+        <game n="3" tier="A+"/>
+    </char>
+        <char id="Wii Fit Trainer">Wii Fit Trainer<game n="5" tier="B"/>
+        <game n="4" tier="F"/>
+    </char>
+        <char id="Shulk">Shulk<game n="5" tier="S"/>
+        <game n="4" tier="D"/>
+    </char>
+        <char id="Pac-Man">Pac-Man<game n="5" tier="A"/>
+        <game n="4" tier="F"/>
+    </char>
+        <char id="Mega Man">Mega Man<game n="5" tier="B"/>
+        <game n="4" tier="C"/>
+    </char>
+        <char id="Sonic">Sonic<game n="5" tier="B"/>
+        <game n="4" tier="A"/>
+        <game n="3" tier="D"/>
+    </char>
+        <char id="Mii Fighters">Mii Fighters<game n="5" tier="D"/>
+        <game n="4" tier="UnRanked"/>
+    </char>
+
+        <char id="Ness">Ness<game n="5" tier="B"/>
+        <game n="4" tier="C"/>
+        <game n="3" tier="D"/>
+        <game n="2" tier="D"/>
+        <game n="1" tier="C"/>
+    </char>
+        <char id="Falco">Falco<game n="5" tier="C"/>
+        <game n="4" tier="F"/>
+        <game n="3" tier="A-"/>
+        <game n="2" tier="S"/>
+    </char>
+        <char id="Wario">Wario<game n="5" tier="S"/>
+        <game n="4" tier="E"/>
+        <game n="3" tier="B"/>
+    </char>
+        <char id="Lucina">Lucina<game n="5" tier="A"/>
+        <game n="4" tier="B"/>
+    </char>
+        <char id="DarkPit">Dark Pit<game n="5" tier="C"/>
+        <game n="4" tier="D"/>
+    </char>
+        <char id="Dr.Mario">Dr. Mario<game n="5" tier="F"/>
+        <game n="4" tier="F"/>
+        <game n="2" tier="B-"/>
+    </char>
+        <char id="R.O.B.">R.O.B.<game n="5" tier="A"/>
+        <game n="4" tier="D"/>
+        <game n="3" tier="C-"/>
+        <game n="2" tier="C+"/>
+    </char>
+        <char id="Ganondorf">Ganondorf<game n="5" tier="F"/>
+        <game n="4" tier="G"/>
+        <game n="3" tier="F"/>
+    </char>
+        <char id="Mr. Game &amp; Watch">Mr. Game &amp; Watch<game n="5" tier="A"/>
+        <game n="4" tier="E"/>
+        <game n="2" tier="C-"/>
+    </char>
+        <char id="BowserJr.">Bowser Jr.<game n="5" tier="D"/>
+        <game n="4" tier="F"/>
+    </char>
+        <char id="DuckHunt">Duck Hunt<game n="5" tier="B"/>
+        <game n="4" tier="D"/>
+    </char>
+        <char id="Jigglypuff">Jigglypuff<game n="5" tier="D"/>
+        <game n="4" tier="G"/>
+        <game n="3" tier="F"/>
+                <game n="1" tier="B"/>
+    </char>
+
+        <char id="Mewtwo">Mewtwo<game n="5" tier="D"/>
+        <game n="4" tier="A"/>
+        <game n="2" tier="D"/>
+    </char>
+        <char id="Lucas">Lucas<game n="5" tier="C"/>
+        <game n="4" tier="C"/>
+        <game n="3" tier="E"/>
+    </char>
+        <char id="Roy">Roy<game n="5" tier="A"/>
+        <game n="4" tier="E"/>
+        <game n="2" tier="D"/>
+    </char>
+        <char id="Ryu">Ryu<game n="5" tier="B"/>
+        <game n="4" tier="A"/>
+    </char>
+        <char id="Cloud Strife">Cloud Strife<game n="5" tier="B"/>
+        <game n="4" tier="S"/>
+    </char>
+        <char id="Corrin">Corrin<game n="5" tier="C"/>
+        <game n="4" tier="B"/>
+    </char>
+        <char id="Bayonetta">Bayonetta<game n="5" tier="C"/>
+        <game n="4" tier="S"/>
+    </char>
+        <char id="IceClimbers">Ice Climbers<game n="5" tier="D"/>
+        <game n="3" tier="S"/>
+        <game n="2" tier="B+"/>
+    </char>
+        <char id="Young Link">Young Link<game n="5" tier="A"/>
+        <game n="2" tier="C-"/>
+    </char>
+        <char id="Pichu">Pichu<game n="5" tier="C"/>
+        <game n="2" tier="D"/>
+    </char>
+        
+        <char id="Daisy">Daisy <game n="5" tier="S"/> </char>
+        <char id="Piranha Plant"> Piranha Plant <game n="5" tier="D"/>
+    </char>
+        <char id="King K Rool"> King K Rool <game n="5" tier="D"/>
+    </char>
+        <char id=" Ridley">  Ridley<game n="5" tier="C"/>
+    </char>
+        <char id="Dark Samus"> Dark Samus<game n="5" tier="B"/>
+    </char>
+        <char id="Incineroar">Incineroar<game n="5" tier="F"/>
+    </char>
+        <char id="Chrom">Chrom<game n="5" tier="A"/>
+    </char>
+        <char id="Byleth"> Byleth<game n="5" tier="C"/> </char>
+        <char id="Isabelle">  Isabelle<game n="5" tier="D"/>
+    </char>
+        <char id="Inkling">Inkling<game n="5" tier="A"/>
+    </char>
+        <char id=" Min Min"> Min Min<game n="5" tier="B"/> </char>
+        <char id="Ken">Ken<game n="5" tier="B"/>
+    </char>
+        <char id="Simon">Simon<game n="5" tier="D"/>
+    </char>
+        <char id="Richter">Richter<game n="5" tier="D"/>
+    </char>
+        <char id="Joker">Joker<game n="5" tier="S"/>
+    </char>
+        <char id="Hero"> Hero<game n="5" tier="C"/> </char>
+        <char id="Banjo &amp; Kazooie">Banjo &amp; Kazooie<game n="5" tier="D"/>
+    </char>
+        <char id="Terry">Terry<game n="5" tier="B"/>
+    </char>
+        
+        
+        <char id="Kazuya"> Kazuya<game n="5" tier="A"/> </char>
+         <char id="Pyra/Mythra">Pyra/Mythra <game n="5" tier="A"/>
+    </char> 
+        <char id="Sephiroth">Sephiroth<game n="5" tier="A"/>
+    </char>
+         <char id="Steve"> Steve<game n="5" tier="A"/> </char>
+        
+</charList>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2100 7000"><g transform="translate (25,5000)"><line x1="0" y1="0" x2="2100" y2="0" stroke="black" stroke-width="2"/><line x1="0" y1="0" x2="0" y2="-4370" stroke="black" stroke-width="2"/><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="2015" y="-1110">110</text><text x="2055" y="-100">9</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="2030" y2="0" y1="-1100" x2="2030" stroke="green" stroke-width="25"/><line x1="2060" y2="0" y1="-90" x2="2060" stroke="purple" stroke-width="25"/><text x="2045" y="20" style="writing-mode: tb; glyph-orientation-verical:o">The Gates of Atlantis</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1945" y="-1110">110</text><text x="1985" y="-60">5</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1960" y2="0" y1="-1100" x2="1960" stroke="green" stroke-width="25"/><line x1="1990" y2="0" y1="-50" x2="1990" stroke="purple" stroke-width="25"/><text x="1975" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Shadows of Serpents</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1875" y="-520">51</text><text x="1915" y="-50">4</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1890" y2="0" y1="-510" x2="1890" stroke="green" stroke-width="25"/><line x1="1920" y2="0" y1="-40" x2="1920" stroke="purple" stroke-width="25"/><text x="1905" y="20" style="writing-mode: tb; glyph-orientation-verical:o">From the Shadows</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1805" y="-570">56</text><text x="1845" y="-70">6</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1820" y2="0" y1="-560" x2="1820" stroke="green" stroke-width="25"/><line x1="1850" y2="0" y1="-60" x2="1850" stroke="purple" stroke-width="25"/><text x="1835" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Homecoming</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1735" y="-420">41</text><text x="1775" y="-50">4</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1750" y2="0" y1="-410" x2="1750" stroke="green" stroke-width="25"/><line x1="1780" y2="0" y1="-40" x2="1780" stroke="purple" stroke-width="25"/><text x="1765" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Battle of Amphipolis</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1665" y="-1880">187</text><text x="1705" y="-110">10</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1680" y2="0" y1="-1870" x2="1680" stroke="green" stroke-width="25"/><line x1="1710" y2="0" y1="-100" x2="1710" stroke="purple" stroke-width="25"/><text x="1695" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Public Opinion</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1595" y="-430">42</text><text x="1635" y="-80">7</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1610" y2="0" y1="-420" x2="1610" stroke="green" stroke-width="25"/><line x1="1640" y2="0" y1="-70" x2="1640" stroke="purple" stroke-width="25"/><text x="1625" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Uprising</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1525" y="-1390">138</text><text x="1565" y="-100">9</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1540" y2="0" y1="-1380" x2="1540" stroke="green" stroke-width="25"/><line x1="1570" y2="0" y1="-90" x2="1570" stroke="purple" stroke-width="25"/><text x="1555" y="20" style="writing-mode: tb; glyph-orientation-verical:o">The Cultist King</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1455" y="-1130">112</text><text x="1495" y="-50">4</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1470" y2="0" y1="-1120" x2="1470" stroke="green" stroke-width="25"/><line x1="1500" y2="0" y1="-40" x2="1500" stroke="purple" stroke-width="25"/><text x="1485" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Paint It Red</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1385" y="-1350">134</text><text x="1425" y="-120">11</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1400" y2="0" y1="-1340" x2="1400" stroke="green" stroke-width="25"/><line x1="1430" y2="0" y1="-110" x2="1430" stroke="purple" stroke-width="25"/><text x="1415" y="20" style="writing-mode: tb; glyph-orientation-verical:o">The Cult and the Archon</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1315" y="-1690">168</text><text x="1355" y="-160">15</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1330" y2="0" y1="-1680" x2="1330" stroke="green" stroke-width="25"/><line x1="1360" y2="0" y1="-150" x2="1360" stroke="purple" stroke-width="25"/><text x="1345" y="20" style="writing-mode: tb; glyph-orientation-verical:o">The Olympian</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1245" y="-2190">218</text><text x="1285" y="-120">11</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1260" y2="0" y1="-2180" x2="1260" stroke="green" stroke-width="25"/><line x1="1290" y2="0" y1="-110" x2="1290" stroke="purple" stroke-width="25"/><text x="1275" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Home Is Where My Mother Is</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1175" y="-3580">357</text><text x="1215" y="-130">12</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1190" y2="0" y1="-3570" x2="1190" stroke="green" stroke-width="25"/><line x1="1220" y2="0" y1="-120" x2="1220" stroke="purple" stroke-width="25"/><text x="1205" y="20" style="writing-mode: tb; glyph-orientation-verical:o">A Place of Twists and Turns</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1105" y="-480">47</text><text x="1145" y="-60">5</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1120" y2="0" y1="-470" x2="1120" stroke="green" stroke-width="25"/><line x1="1150" y2="0" y1="-50" x2="1150" stroke="purple" stroke-width="25"/><text x="1135" y="20" style="writing-mode: tb; glyph-orientation-verical:o">The Last Riddle</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="1035" y="-2140">213</text><text x="1075" y="-140">13</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="1050" y2="0" y1="-2130" x2="1050" stroke="green" stroke-width="25"/><line x1="1080" y2="0" y1="-130" x2="1080" stroke="purple" stroke-width="25"/><text x="1065" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Paradise Lost</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="965" y="-1120">111</text><text x="1005" y="-60">5</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="980" y2="0" y1="-1110" x2="980" stroke="green" stroke-width="25"/><line x1="1010" y2="0" y1="-50" x2="1010" stroke="purple" stroke-width="25"/><text x="995" y="20" style="writing-mode: tb; glyph-orientation-verical:o">The Reunion</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="895" y="-1510">150</text><text x="935" y="-110">10</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="910" y2="0" y1="-1500" x2="910" stroke="green" stroke-width="25"/><line x1="940" y2="0" y1="-100" x2="940" stroke="purple" stroke-width="25"/><text x="925" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Rising from the Ashes</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="825" y="-640">63</text><text x="865" y="-60">5</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="840" y2="0" y1="-630" x2="840" stroke="green" stroke-width="25"/><line x1="870" y2="0" y1="-50" x2="870" stroke="purple" stroke-width="25"/><text x="855" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Pirate Hospitality</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="755" y="-3050">304</text><text x="795" y="-170">16</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="770" y2="0" y1="-3040" x2="770" stroke="green" stroke-width="25"/><line x1="800" y2="0" y1="-160" x2="800" stroke="purple" stroke-width="25"/><text x="785" y="20" style="writing-mode: tb; glyph-orientation-verical:o">A Prescription for Discovery</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="685" y="-3420">341</text><text x="725" y="-120">11</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="700" y2="0" y1="-3410" x2="700" stroke="green" stroke-width="25"/><line x1="730" y2="0" y1="-110" x2="730" stroke="purple" stroke-width="25"/><text x="715" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Land of the Lawless</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="615" y="-4380">437</text><text x="655" y="-240">23</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="630" y2="0" y1="-4370" x2="630" stroke="green" stroke-width="25"/><line x1="660" y2="0" y1="-230" x2="660" stroke="purple" stroke-width="25"/><text x="645" y="20" style="writing-mode: tb; glyph-orientation-verical:o">The Road to the Symposium</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="545" y="-1800">179</text><text x="585" y="-130">12</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="560" y2="0" y1="-1790" x2="560" stroke="green" stroke-width="25"/><line x1="590" y2="0" y1="-120" x2="590" stroke="purple" stroke-width="25"/><text x="575" y="20" style="writing-mode: tb; glyph-orientation-verical:o">An Old Enemy and a New Ally</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="475" y="-1270">126</text><text x="515" y="-70">6</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="490" y2="0" y1="-1260" x2="490" stroke="green" stroke-width="25"/><line x1="520" y2="0" y1="-60" x2="520" stroke="purple" stroke-width="25"/><text x="505" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Beware the Snakes</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="405" y="-1200">119</text><text x="445" y="-70">6</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="420" y2="0" y1="-1190" x2="420" stroke="green" stroke-width="25"/><line x1="450" y2="0" y1="-60" x2="450" stroke="purple" stroke-width="25"/><text x="435" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Of Visions and Visionaries</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="335" y="-390">38</text><text x="375" y="-40">3</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="350" y2="0" y1="-380" x2="350" stroke="green" stroke-width="25"/><line x1="380" y2="0" y1="-30" x2="380" stroke="purple" stroke-width="25"/><text x="365" y="20" style="writing-mode: tb; glyph-orientation-verical:o">The Wolf and Snake</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="265" y="-3160">315</text><text x="305" y="-170">16</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="280" y2="0" y1="-3150" x2="280" stroke="green" stroke-width="25"/><line x1="310" y2="0" y1="-160" x2="310" stroke="purple" stroke-width="25"/><text x="295" y="20" style="writing-mode: tb; glyph-orientation-verical:o">The Wolf Hunt</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="195" y="-3240">323</text><text x="235" y="-150">14</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="210" y2="0" y1="-3230" x2="210" stroke="green" stroke-width="25"/><line x1="240" y2="0" y1="-140" x2="240" stroke="purple" stroke-width="25"/><text x="225" y="20" style="writing-mode: tb; glyph-orientation-verical:o">A Debt to Pay</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="125" y="-1460">145</text><text x="165" y="-130">12</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="140" y2="0" y1="-1450" x2="140" stroke="green" stroke-width="25"/><line x1="170" y2="0" y1="-120" x2="170" stroke="purple" stroke-width="25"/><text x="155" y="20" style="writing-mode: tb; glyph-orientation-verical:o">Another Day, Another Drachma</text>
+    return
+</g><g>
+    (:this is just the header and colored circles to know which bar is which :)
+    <text x="600" y="-4500"># of Speeches vs # of Distinct Speakers in Assassin's Creed Odyssey</text><circle cy="-4450" cx="600" r="30" stroke="black" stroke-width="2" fill="green"/><circle cy="-4450" cx="830" r="20" stroke="black" stroke-width="2" fill="purple"/><text x="660" y="-4450"> # of speeches</text><text x="900" y="-4450"> # of distinct speakers</text>
+    
+    (:This will be the text to accompany each bar to tell the actual number :)
+    <text x="55" y="-830">82</text><text x="95" y="-120">11</text>
+    
+    
+    (:this will be the actual lines of data:)
+    <line x1="70" y2="0" y1="-820" x2="70" stroke="green" stroke-width="25"/><line x1="100" y2="0" y1="-110" x2="100" stroke="purple" stroke-width="25"/><text x="85" y="20" style="writing-mode: tb; glyph-orientation-verical:o">intro</text>
+    return
+</g></g></svg>

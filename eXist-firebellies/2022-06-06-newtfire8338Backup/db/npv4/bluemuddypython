@@ -1,0 +1,12 @@
+xquery version "3.1";
+declare variable $ThisFileContent := string-join(
+let $blues := collection('/db/blues')
+let $Muddy := $blues[.//artist ! normalize-space() = "Muddy Waters"]
+let $Muddylyrics := $Muddy//lyrics/l/text()
+let $words := $Muddylyrics ! translate(.,'0123456789()!?*.', '') ! normalize-space()
+
+return $words, "&#10;"); 
+
+let $filename := "Muddylyrics.txt"
+let $doc-db-uri := xmldb:store("/db/npv4/", $filename, $ThisFileContent, "text/plain")
+return $doc-db-uri 

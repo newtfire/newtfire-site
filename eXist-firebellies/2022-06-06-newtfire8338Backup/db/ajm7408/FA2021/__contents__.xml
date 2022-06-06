@@ -1,0 +1,54 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ajm7408/FA2021" version="1" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:15.204Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="kh1.5CutscenesTable.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:16.042Z" modified="2021-12-30T05:16:16.042Z" filename="kh1.5CutscenesTable.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="carsTable.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:16.552Z" modified="2021-12-30T05:16:16.552Z" filename="carsTable.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Murry-SVG-Ex2-Timeline.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:15.282Z" modified="2021-12-30T05:16:15.282Z" filename="Murry-SVG-Ex2-Timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FA2021_KH1.5_ExampleDistinct-Values.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:15.507Z" modified="2021-12-30T05:16:15.507Z" filename="FA2021_KH1.5_ExampleDistinct-Values.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DIGIT400_SVG_Exercise3.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:15.582Z" modified="2021-12-30T05:16:15.582Z" filename="DIGIT400_SVG_Exercise3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DIGIT400_SVG_Exercise2.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:15.658Z" modified="2021-12-30T05:16:15.658Z" filename="DIGIT400_SVG_Exercise2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="kh1.5PHPGetCutNums.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:15.754Z" modified="2021-12-30T05:16:15.754Z" filename="kh1.5PHPGetCutNums.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Auto_html.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:15.831Z" modified="2021-12-30T05:16:15.831Z" filename="Auto_html.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Auto_distinct_FLWOR.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:15.972Z" modified="2021-12-30T05:16:15.972Z" filename="Auto_distinct_FLWOR.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FA2021_KH1.5_Where_Statement.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:16.104Z" modified="2021-12-30T05:16:16.104Z" filename="FA2021_KH1.5_Where_Statement.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FA2021_KH1.5_ExampleHTML.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:16.172Z" modified="2021-12-30T05:16:16.172Z" filename="FA2021_KH1.5_ExampleHTML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="kh1.5PHPGetCutScenes.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:16.247Z" modified="2021-12-30T05:16:16.247Z" filename="kh1.5PHPGetCutScenes.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ClasssExample_FLWOR.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:16.318Z" modified="2021-12-30T05:16:16.318Z" filename="ClasssExample_FLWOR.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="kh1.5PHPGetTitle.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:16.406Z" modified="2021-12-30T05:16:16.406Z" filename="kh1.5PHPGetTitle.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="kh1.5PHPGetLocations.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:16.474Z" modified="2021-12-30T05:16:16.474Z" filename="kh1.5PHPGetLocations.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DIGIT400_XQuery_HW1.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:15.205Z" modified="2021-12-30T05:16:15.205Z" filename="DIGIT400_XQuery_HW1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FA2021_KH1.5_ExampleFLWOR.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:15.396Z" modified="2021-12-30T05:16:15.396Z" filename="FA2021_KH1.5_ExampleFLWOR.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

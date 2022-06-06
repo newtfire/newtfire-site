@@ -1,0 +1,16 @@
+xquery version "3.1";
+declare default element namespace "http://www.tei-c.org/ns/1.0";
+let $plays := collection('/db/apps/shakespeare/data/')//TEI
+let $speaker := $plays//speaker
+let $distSpeaker := $speaker => distinct-values()
+(: Works perfectly, it removes any duplicate values from the output :)
+let $speakCount := $distSpeaker => count() 
+(: 966 Values after counting them :)
+for $p at $pos in $plays
+    let $spkCounter := $p//speaker => distinct-values() => count()
+    let $spkTitles := $p//titleStmt/title ! string()
+    let $filePath := $p ! base-uri(.) ! tokenize(., '/')[last()]
+    (: I don't quite understand what the file path is telling it to do nor am I understanding the point of adding in string when finding the titles :)
+    where $spkCounter > 50
+return
+    concat ($filePath, " is ", $spkTitles, ": ", $spkCounter)

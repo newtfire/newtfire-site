@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/scd5363/SVG" version="1" owner="scd5363" group="scd5363" mode="755" created="2022-03-30T17:44:20.965Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Seuss" skip="no" owner="scd5363" group="scd5363" mode="755" created="2022-04-01T17:18:20.134Z" modified="2022-04-18T03:34:14.096Z" filename="Seuss" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Assasins%20Creed" skip="no" owner="scd5363" group="scd5363" mode="755" created="2022-03-30T17:44:32.68Z" modified="2022-03-30T18:32:52.197Z" filename="Assasins Creed" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

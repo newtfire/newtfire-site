@@ -1,0 +1,35 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tec5271" version="1" owner="tec5271" group="dba" mode="755" created="2022-03-16T14:43:04.897Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="USER" who="admin" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="BinaryResource" name="ttt" skip="no" owner="tec5271" group="tec5271" mode="755" created="2022-04-21T13:20:47.188Z" modified="2022-04-21T13:20:47.188Z" filename="ttt" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svgexercise2" skip="no" owner="tec5271" group="tec5271" mode="755" created="2022-03-30T14:45:52.051Z" modified="2022-04-01T13:20:17.792Z" filename="svgexercise2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tyler-Xquerytest" skip="no" owner="tec5271" group="tec5271" mode="755" created="2022-04-13T16:14:58.052Z" modified="2022-04-14T16:38:30.049Z" filename="tyler-Xquerytest" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tyler-xquery4" skip="no" owner="tec5271" group="tec5271" mode="755" created="2022-04-04T14:42:02.327Z" modified="2022-04-04T14:47:40.923Z" filename="tyler-xquery4" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svgexercise3" skip="no" owner="tec5271" group="tec5271" mode="755" created="2022-04-01T13:20:45.758Z" modified="2022-04-18T04:33:55.794Z" filename="svgexercise3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drb-sample-query.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-03-16T17:40:09.211Z" modified="2022-03-16T17:40:09.211Z" filename="drb-sample-query.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drbquery.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-03-16T17:40:49.443Z" modified="2022-03-16T17:40:49.443Z" filename="drbquery.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xpathexercise2.md" skip="no" owner="tec5271" group="tec5271" mode="644" created="2022-03-16T17:45:53.911Z" modified="2022-03-16T17:45:53.911Z" filename="xpathexercise2.md" mimetype="text/markdown">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XPathexercise3.md" skip="no" owner="tec5271" group="tec5271" mode="644" created="2022-03-16T17:45:54.022Z" modified="2022-03-16T17:45:54.022Z" filename="XPathexercise3.md" mimetype="text/markdown">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xpathgettingstarted.md" skip="no" owner="tec5271" group="tec5271" mode="644" created="2022-03-16T17:45:54.116Z" modified="2022-03-16T17:45:54.116Z" filename="xpathgettingstarted.md" mimetype="text/markdown">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/mayan-queries" version="1" owner="mqb5995" group="dba" mode="775" created="2021-10-04T05:28:13.032Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="mayan" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="citations.html" skip="no" owner="mqb5995" group="mqb5995" mode="644" created="2021-11-14T17:26:43.893Z" modified="2021-11-14T20:00:55.285Z" filename="citations.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sitesTemplesTable.html" skip="no" owner="bwm5473" group="bwm5473" mode="644" created="2021-10-15T19:25:28.035Z" modified="2021-10-15T19:26:18.391Z" filename="sitesTemplesTable.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SVGmayanSitesActiveTimeline-ebb.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-11-07T00:09:18.801Z" modified="2021-11-07T00:32:24.577Z" filename="SVGmayanSitesActiveTimeline-ebb.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sitesTemplesTimeline.html" skip="no" owner="mqb5995" group="mqb5995" mode="644" created="2021-10-16T02:47:14.031Z" modified="2021-10-21T00:36:11.995Z" filename="sitesTemplesTimeline.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="godRellies.html" skip="no" owner="admin" group="dba" mode="644" created="2021-10-19T22:58:51.735Z" modified="2021-10-19T22:59:07.229Z" filename="godRellies.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="godRelicRefs.html" skip="no" owner="mqb5995" group="mqb5995" mode="644" created="2021-10-20T01:54:43.233Z" modified="2021-10-22T12:43:45.362Z" filename="godRelicRefs.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="godStructureRefs.html" skip="no" owner="mqb5995" group="mqb5995" mode="644" created="2021-10-20T02:27:55.653Z" modified="2021-10-25T15:33:45.188Z" filename="godStructureRefs.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mayanBubble.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-06T04:58:43.368Z" modified="2021-12-06T05:01:39.731Z" filename="mayanBubble.svg" mimetype="xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="latLongList.html" skip="no" owner="bwm5473" group="bwm5473" mode="644" created="2021-10-20T19:35:28.944Z" modified="2021-10-20T19:35:30.723Z" filename="latLongList.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="godRelationships.html" skip="no" owner="mqb5995" group="mqb5995" mode="644" created="2021-10-23T17:53:46.778Z" modified="2021-10-23T18:04:31.374Z" filename="godRelationships.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SVGmayanSitesActiveTimeline.svg" skip="no" owner="mqb5995" group="mqb5995" mode="644" created="2021-11-05T16:33:45.319Z" modified="2021-11-13T18:56:02.701Z" filename="SVGmayanSitesActiveTimeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sitesStructRelics.html" skip="no" owner="mqb5995" group="mqb5995" mode="644" created="2021-10-25T15:17:04.669Z" modified="2021-11-13T20:12:45.202Z" filename="sitesStructRelics.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mayanMapToKML.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-11-09T16:34:04.327Z" modified="2021-11-09T16:40:09.878Z" filename="mayanMapToKML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TSV_mayan_site_godRelationship2.xql" skip="no" owner="amw6765" group="amw6765" mode="755" created="2021-11-14T20:47:32.712Z" modified="2021-11-14T20:47:32.712Z" filename="TSV_mayan_site_godRelationship2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="charCountsinPopVuh.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-10T11:59:29.687Z" modified="2021-11-10T13:11:37.724Z" filename="charCountsinPopVuh.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGcharRefsinPV.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-10T12:43:11.645Z" modified="2021-11-10T13:58:42.483Z" filename="SVGcharRefsinPV.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_godDepictBubbleGraph.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-10T13:44:22.175Z" modified="2021-11-10T16:20:11.853Z" filename="SVG_godDepictBubbleGraph.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sitesIndex.xql" skip="no" owner="bwm5473" group="bwm5473" mode="755" created="2021-10-15T18:56:02.401Z" modified="2021-10-15T19:25:35.057Z" filename="sitesIndex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_bubblegraph_attempt.svg" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-10T17:27:01.007Z" modified="2021-11-10T17:30:11.512Z" filename="SVG_bubblegraph_attempt.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="charCounts-PopolVuh.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-10-17T22:05:12.47Z" modified="2021-10-17T22:09:13.875Z" filename="charCounts-PopolVuh.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network_godRelationships.tsv" skip="no" owner="amw6765" group="amw6765" mode="644" created="2021-11-14T21:31:33.26Z" modified="2021-11-14T21:53:01.534Z" filename="network_godRelationships.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TSVmayan_site_godRelationship.xql" skip="no" owner="amw6765" group="amw6765" mode="755" created="2021-11-12T20:12:08.022Z" modified="2021-11-14T21:52:59.928Z" filename="TSVmayan_site_godRelationship.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="character_rellies.xql" skip="no" owner="amw6765" group="amw6765" mode="755" created="2021-10-19T22:28:06.898Z" modified="2021-10-19T23:06:52.716Z" filename="character_rellies.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="godRelicRefs.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-20T02:23:36.899Z" modified="2021-10-20T02:24:29.641Z" filename="godRelicRefs.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="godStructureRefs.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-20T02:30:54.29Z" modified="2021-10-20T02:30:54.29Z" filename="godStructureRefs.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_anothaBubGraphAttempt.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-10T17:44:59.538Z" modified="2021-12-06T05:01:23.805Z" filename="SVG_anothaBubGraphAttempt.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="latLongList.xql" skip="no" owner="bwm5473" group="bwm5473" mode="755" created="2021-10-20T19:28:12.619Z" modified="2021-10-20T19:35:27.156Z" filename="latLongList.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_bubblegraph_attempt.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-10T17:37:30.664Z" modified="2021-11-10T20:49:31.278Z" filename="SVG_bubblegraph_attempt.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="god_rellies_updated.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-23T18:03:55.616Z" modified="2021-10-23T18:03:55.616Z" filename="god_rellies_updated.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TSV-PVgodrefs.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-17T17:16:48.181Z" modified="2021-11-17T17:16:48.181Z" filename="TSV-PVgodrefs.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PHPstructureRelicScroll.xql" skip="no" owner="bwm5473" group="bwm5473" mode="755" created="2021-10-29T20:09:23.169Z" modified="2021-10-29T20:20:00.896Z" filename="PHPstructureRelicScroll.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PHP.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-25T19:07:11.271Z" modified="2021-10-31T23:18:45.884Z" filename="PHP.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="popolVuh" skip="no" owner="bwm5473" group="bwm5473" mode="755" created="2021-10-08T21:33:07.248Z" modified="2021-10-08T21:33:32.324Z" filename="popolVuh" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="char_familyTable.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-13T22:07:47.363Z" modified="2021-10-13T22:07:47.363Z" filename="char_familyTable.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="poplVuh.xql" skip="no" owner="bwm5473" group="bwm5473" mode="755" created="2021-10-08T21:33:55.941Z" modified="2021-10-13T22:09:37.661Z" filename="poplVuh.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGmayanSitesActiveTimeline.html" skip="no" owner="mqb5995" group="mqb5995" mode="644" created="2021-11-05T16:34:21.281Z" modified="2021-11-12T17:04:55.611Z" filename="SVGmayanSitesActiveTimeline.html" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sitesTemplesTimeline.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-16T02:50:55.002Z" modified="2021-10-25T15:23:26.772Z" filename="sitesTemplesTimeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PHPgetStuffbyGods.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-27T18:47:28.948Z" modified="2021-11-02T06:01:53.477Z" filename="PHPgetStuffbyGods.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PHPgetStuffResponse.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-10-27T19:03:01.382Z" modified="2021-11-02T06:26:49.468Z" filename="PHPgetStuffResponse.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network_PVgodRefs.tsv" skip="no" owner="mqb5995" group="mqb5995" mode="644" created="2021-11-17T17:12:25.511Z" modified="2021-11-17T20:03:13.842Z" filename="network_PVgodRefs.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TSV_godFamTree.xql" skip="no" owner="mqb5995" group="mqb5995" mode="755" created="2021-11-18T12:48:30.056Z" modified="2021-11-18T12:48:30.056Z" filename="TSV_godFamTree.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

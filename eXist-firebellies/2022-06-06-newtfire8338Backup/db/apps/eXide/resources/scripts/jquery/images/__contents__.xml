@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/resources/scripts/jquery/images" version="1" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.406Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="sort-desc.gif" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.408Z" modified="2021-12-30T05:04:52.408Z" filename="sort-desc.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sort-asc.gif" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.41Z" modified="2021-12-30T05:04:52.41Z" filename="sort-asc.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

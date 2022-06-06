@@ -1,0 +1,12 @@
+xquery version "3.1";
+declare variable $textfile :=
+string-join(
+let $Starwars := collection('/db/starwars/')
+for $s in $Starwars
+let $draft := $s//draft
+let $spk := $s//sp/@spk ! normalize-space() => distinct-values()
+for $x in $spk
+return concat($draft, "&#x9;", "draft", "&#x9;", $x, "&#x9;", "speaker"), "&#10;");
+let $filename := "lilley_starwars_draft_speaker.tsv"
+let $doc-db-uri := xmldb:store("/db/starwars-queries/", $filename, $textfile, "text/plain")
+return $doc-db-uri

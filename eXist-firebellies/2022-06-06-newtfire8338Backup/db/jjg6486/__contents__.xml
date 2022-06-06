@@ -1,0 +1,29 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/jjg6486" version="1" owner="jjg6486" group="dba" mode="755" created="2022-03-16T16:41:47.375Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="USER" who="admin" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="bluesArtistTable.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-03-22T15:15:10.394Z" modified="2022-04-13T20:17:20.778Z" filename="bluesArtistTable.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="starWarsTable.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-13T20:19:13.199Z" modified="2022-04-13T20:19:53.73Z" filename="starWarsTable.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="disney_Origin_And_Beast.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-03-24T18:48:12.712Z" modified="2022-05-08T02:24:28.612Z" filename="disney_Origin_And_Beast.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exercise3.xql" skip="no" owner="jjg6486" group="jjg6486" mode="755" created="2022-03-16T17:40:36.686Z" modified="2022-03-22T15:16:15.304Z" filename="exercise3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XqueryTest.xql" skip="no" owner="jjg6486" group="jjg6486" mode="755" created="2022-04-13T20:13:52.793Z" modified="2022-04-13T20:21:06.383Z" filename="XqueryTest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disney_Origin_And_Beast.xql" skip="no" owner="jjg6486" group="jjg6486" mode="755" created="2022-03-24T18:37:23.646Z" modified="2022-03-24T18:51:46.572Z" filename="disney_Origin_And_Beast.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svgGraph2" skip="no" owner="jjg6486" group="jjg6486" mode="755" created="2022-03-30T15:58:38.605Z" modified="2022-03-30T15:58:48.523Z" filename="svgGraph2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="honorCount2.0.xql" skip="no" owner="jjg6486" group="jjg6486" mode="755" created="2022-04-19T04:21:16.051Z" modified="2022-04-19T04:21:16.051Z" filename="honorCount2.0.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

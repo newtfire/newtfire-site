@@ -1,0 +1,17 @@
+xquery version "3.1";
+xquery version "3.1";
+let $drafts:=collection('/db/starwars/fixed/')
+let $sortOrder := 
+            for $d in $drafts
+            let $date := $d//date/@date ! data()
+            order by $date
+            return $d
+            (:Answer to Question #2: Inside the $sortOrder varible, this varialbe is affecting how the dates are sorted, especially with the order that the dates appear in the document.:)
+for $d in $date
+let $date:= $d//date/@date ! data ()
+for $sortOrder in collection('/db/starwars/fixed/')
+where $date/date>0
+order by $date/title
+return $date/title
+let $titles := $sortOrder[descendant::/db/starwars/fixed/ ! normalize-space() = $d]/db/starwars/fixed/ => count()
+return $titles

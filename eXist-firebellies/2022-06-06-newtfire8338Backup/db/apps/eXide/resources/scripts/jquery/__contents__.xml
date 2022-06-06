@@ -1,0 +1,28 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/resources/scripts/jquery" version="1" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.382Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery.fileupload-process.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.384Z" modified="2021-12-30T05:04:52.384Z" filename="jquery.fileupload-process.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.plugins.min.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.386Z" modified="2021-12-30T05:04:52.386Z" filename="jquery.plugins.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-ui-1.10.3.custom.min.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.39Z" modified="2021-12-30T05:04:52.39Z" filename="jquery-ui-1.10.3.custom.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-1.9.1.min.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.393Z" modified="2021-12-30T05:04:52.393Z" filename="jquery-1.9.1.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.fileupload-ui.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.396Z" modified="2021-12-30T05:04:52.396Z" filename="jquery.fileupload-ui.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.fileupload.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.398Z" modified="2021-12-30T05:04:52.398Z" filename="jquery.fileupload.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.pnotify.min.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.402Z" modified="2021-12-30T05:04:52.402Z" filename="jquery.pnotify.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.event.drag-2.2.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.404Z" modified="2021-12-30T05:04:52.404Z" filename="jquery.event.drag-2.2.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="images" filename="images"/>
+</collection>

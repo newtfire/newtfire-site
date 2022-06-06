@@ -1,0 +1,26 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/fkb5105" version="1" owner="fkb5105" group="dba" mode="755" created="2022-03-16T14:40:36.371Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="USER" who="admin" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="BinaryResource" name="TSV1Felipe.xql" skip="no" owner="fkb5105" group="fkb5105" mode="755" created="2022-04-07T15:39:21.197Z" modified="2022-04-13T18:01:24.659Z" filename="TSV1Felipe.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Felipe-svg-3.svg" skip="no" owner="fkb5105" group="fkb5105" mode="755" created="2022-04-03T23:08:17.079Z" modified="2022-04-03T23:27:52.302Z" filename="Felipe-svg-3.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drb-svg2Comments.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-04-18T04:30:18.037Z" modified="2022-04-18T04:30:18.037Z" filename="drb-svg2Comments.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Felipexql4.xql" skip="no" owner="fkb5105" group="fkb5105" mode="755" created="2022-04-18T15:07:43.223Z" modified="2022-04-18T15:07:43.223Z" filename="Felipexql4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="swCharacters.tsv" skip="no" owner="fkb5105" group="fkb5105" mode="644" created="2022-04-07T15:47:46.293Z" modified="2022-04-07T15:47:46.293Z" filename="swCharacters.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Felipexql6.xql" skip="no" owner="fkb5105" group="fkb5105" mode="755" created="2022-04-07T16:07:24.247Z" modified="2022-04-07T16:07:24.247Z" filename="Felipexql6.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Felipe-XQuery-Test.xql" skip="no" owner="fkb5105" group="fkb5105" mode="755" created="2022-04-12T21:51:43.981Z" modified="2022-04-12T22:56:08.129Z" filename="Felipe-XQuery-Test.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

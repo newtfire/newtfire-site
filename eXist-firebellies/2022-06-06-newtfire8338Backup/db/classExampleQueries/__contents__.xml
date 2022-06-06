@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/classExampleQueries" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:03.689Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="graveyardTester.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:03.69Z" modified="2021-12-30T05:24:03.69Z" filename="graveyardTester.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TimelineForJS.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:04.285Z" modified="2021-12-30T05:24:04.285Z" filename="TimelineForJS.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HaydonLetterPlots.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:04.515Z" modified="2021-12-30T05:24:04.515Z" filename="HaydonLetterPlots.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TimelineForJS.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:04.589Z" modified="2021-12-30T05:24:04.589Z" filename="TimelineForJS.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mitfordColl_SVG.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:03.831Z" modified="2021-12-30T05:24:03.831Z" filename="mitfordColl_SVG.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamiltonSampleQ" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:04.144Z" modified="2021-12-30T05:24:04.144Z" filename="hamiltonSampleQ" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="networkOutput.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:04.444Z" modified="2021-12-30T05:24:04.444Z" filename="networkOutput.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testing_Global_Variables.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:04.67Z" modified="2021-12-30T05:24:04.67Z" filename="testing_Global_Variables.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

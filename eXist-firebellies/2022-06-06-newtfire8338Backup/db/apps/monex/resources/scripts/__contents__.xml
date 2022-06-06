@@ -1,0 +1,90 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/resources/scripts" version="1" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.407Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="dataTables.bootstrap.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.408Z" modified="2021-12-30T05:04:59.408Z" filename="dataTables.bootstrap.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.time.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.41Z" modified="2021-12-30T05:04:59.41Z" filename="jquery.flot.time.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="util.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.413Z" modified="2021-12-30T05:04:59.413Z" filename="util.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="knockout.mapping.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.418Z" modified="2021-12-30T05:04:59.418Z" filename="knockout.mapping.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.navigate.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.42Z" modified="2021-12-30T05:04:59.42Z" filename="jquery.flot.navigate.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adminlte.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.422Z" modified="2021-12-30T05:04:59.422Z" filename="adminlte.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exadmin.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.425Z" modified="2021-12-30T05:04:59.425Z" filename="exadmin.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.427Z" modified="2021-12-30T05:04:59.427Z" filename="jquery.flot.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.min.map" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.429Z" modified="2021-12-30T05:04:59.429Z" filename="jquery.min.map" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="moment.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.432Z" modified="2021-12-30T05:04:59.432Z" filename="moment.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="prism-xquery.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.435Z" modified="2021-12-30T05:04:59.435Z" filename="prism-xquery.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.dataTables.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.437Z" modified="2021-12-30T05:04:59.437Z" filename="jquery.dataTables.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="responsive.bootstrap.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.441Z" modified="2021-12-30T05:04:59.441Z" filename="responsive.bootstrap.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fastclick.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.443Z" modified="2021-12-30T05:04:59.443Z" filename="fastclick.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.445Z" modified="2021-12-30T05:04:59.445Z" filename="jquery.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="prism.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.448Z" modified="2021-12-30T05:04:59.448Z" filename="prism.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ion.rangeSlider.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.452Z" modified="2021-12-30T05:04:59.452Z" filename="ion.rangeSlider.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timerange.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.455Z" modified="2021-12-30T05:04:59.455Z" filename="timerange.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.tooltip.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.457Z" modified="2021-12-30T05:04:59.457Z" filename="jquery.flot.tooltip.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="modernizr.custom.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.459Z" modified="2021-12-30T05:04:59.459Z" filename="modernizr.custom.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="console.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.461Z" modified="2021-12-30T05:04:59.461Z" filename="console.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="details.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.463Z" modified="2021-12-30T05:04:59.463Z" filename="details.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.464Z" modified="2021-12-30T05:04:59.464Z" filename="bootstrap.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dataTables.responsive.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.466Z" modified="2021-12-30T05:04:59.466Z" filename="dataTables.responsive.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.selection.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.468Z" modified="2021-12-30T05:04:59.468Z" filename="jquery.flot.selection.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="knockout-latest.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.469Z" modified="2021-12-30T05:04:59.469Z" filename="knockout-latest.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="daterangepicker.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.471Z" modified="2021-12-30T05:04:59.471Z" filename="daterangepicker.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timeline.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.474Z" modified="2021-12-30T05:04:59.474Z" filename="timeline.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="loadsource.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.475Z" modified="2021-12-30T05:04:59.475Z" filename="loadsource.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

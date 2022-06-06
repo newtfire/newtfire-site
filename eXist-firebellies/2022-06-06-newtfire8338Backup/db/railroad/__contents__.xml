@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/railroad" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:27:15.61Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="carclasstable.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:15.611Z" modified="2021-12-30T05:27:15.611Z" filename="carclasstable.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="companytable.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:15.759Z" modified="2021-12-30T05:27:15.759Z" filename="companytable.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="carloadtable.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:16.027Z" modified="2021-12-30T05:27:16.027Z" filename="carloadtable.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="company-id-list-query.xquery" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:15.676Z" modified="2021-12-30T05:27:15.676Z" filename="company-id-list-query.xquery" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="carloadtable.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:15.929Z" modified="2021-12-30T05:27:15.929Z" filename="carloadtable.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="class-id-list-query.xquery" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:16.125Z" modified="2021-12-30T05:27:16.125Z" filename="class-id-list-query.xquery" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="carloaddetail.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:16.209Z" modified="2021-12-30T05:27:16.209Z" filename="carloaddetail.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

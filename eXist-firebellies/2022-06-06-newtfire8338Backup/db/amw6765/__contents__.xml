@@ -1,0 +1,66 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/amw6765" version="1" owner="amw6765" group="dba" mode="775" created="2021-12-30T05:16:25.183Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="ac_SVG2.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:25.547Z" modified="2021-12-30T05:16:25.547Z" filename="ac_SVG2.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ac_SVG3.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:25.615Z" modified="2021-12-30T05:16:25.615Z" filename="ac_SVG3.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AMW_XQueryTest_REDO.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:26.333Z" modified="2021-12-30T05:16:26.333Z" filename="AMW_XQueryTest_REDO.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_XPath_e3HTML.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:25.184Z" modified="2021-12-30T05:16:25.184Z" filename="AMW_XPath_e3HTML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_Example.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:25.257Z" modified="2021-12-30T05:16:25.257Z" filename="AMW_Example.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_php_exericse1.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:25.324Z" modified="2021-12-30T05:16:25.324Z" filename="AMW_php_exericse1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_3.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:25.467Z" modified="2021-12-30T05:16:25.467Z" filename="SVG_3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_Exercise2_BanksyTimeline.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:25.745Z" modified="2021-12-30T05:16:25.745Z" filename="SVG_Exercise2_BanksyTimeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbComments-AMW_XPath_e3HTML.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:25.908Z" modified="2021-12-30T05:16:25.908Z" filename="ebbComments-AMW_XPath_e3HTML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_XQueryTest_REDO.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:26.059Z" modified="2021-12-30T05:16:26.059Z" filename="AMW_XQueryTest_REDO.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_random_XPath.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:26.135Z" modified="2021-12-30T05:16:26.135Z" filename="AMW_random_XPath.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_XPath_Exercise1.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:26.198Z" modified="2021-12-30T05:16:26.198Z" filename="AMW_XPath_Exercise1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_XPath_Exercise2.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:26.267Z" modified="2021-12-30T05:16:26.267Z" filename="AMW_XPath_Exercise2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_XPath_Exercise4.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:26.401Z" modified="2021-12-30T05:16:26.401Z" filename="AMW_XPath_Exercise4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_XPath_e3.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:26.47Z" modified="2021-12-30T05:16:26.47Z" filename="AMW_XPath_e3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_DIGIT_XQueryTest.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:26.537Z" modified="2021-12-30T05:16:26.537Z" filename="AMW_DIGIT_XQueryTest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_SVG_Exercise3.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:26.602Z" modified="2021-12-30T05:16:26.602Z" filename="AMW_SVG_Exercise3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQueryEx4-ebbcomments.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:26.678Z" modified="2021-12-30T05:16:26.678Z" filename="XQueryEx4-ebbcomments.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_ac_TSV20.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:27.872Z" modified="2021-12-30T05:16:27.872Z" filename="AMW_ac_TSV20.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AMW_ac_TSV2.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:28.014Z" modified="2021-12-30T05:16:28.014Z" filename="AMW_ac_TSV2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_2_Ready.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:28.082Z" modified="2021-12-30T05:16:28.082Z" filename="SVG_2_Ready.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

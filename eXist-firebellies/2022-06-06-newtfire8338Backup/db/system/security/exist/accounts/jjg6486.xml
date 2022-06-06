@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="101"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>f145039e65f2173296f17e9c97274eb7e71c94c2</digestPassword><group name="jjg6486"/><group name="dba"/><group name="avatar"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://axschema.org/namePerson">Julian Giles</metadata><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><name>jjg6486</name></account>

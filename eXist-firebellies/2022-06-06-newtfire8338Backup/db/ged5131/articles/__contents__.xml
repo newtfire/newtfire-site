@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ged5131/articles" version="1" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:47.257Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="article-2003-02-28" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:47.258Z" modified="2021-12-30T05:24:47.258Z" filename="article-2003-02-28" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="article-2002-10-11" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:47.39Z" modified="2021-12-30T05:24:47.39Z" filename="article-2002-10-11" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Scheme/Suess%20Scheme.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="rhyme" type="moral" date="1990"/>
+<title>Oh, the Places You'll Go!</title>
+<body>
+<stanza>
+<l>Congratulations!</l>
+<l>Today is your day.</l>
+<l>You're off to Great Places!</l>
+<l>You're off and away!</l>
+</stanza>
+<stanza>
+<l>You have brains in your head.</l>
+<l>
+You have feet in your
+<rym sch="choose">shoes</rym>
+.
+</l>
+<l>You can steer yourself </l>
+<l>
+any direction you
+<rym sch="shoes">choose</rym>
+.
+</l>
+<l>You're on your own. And you know what you know.</l>
+<l>And YOU are the guy who'll decide where to go.</l>
+</stanza>
+<stanza>
+<l>
+You'll look up and down streets. Look 'em over with
+<rym sch="there">care</rym>
+.
+</l>
+<l>
+About some you will say, "I don't choose to go
+<rym sch="care">there</rym>
+."
+</l>
+<l>
+With your head full of brains and your shoes full of
+<rym sch="street">feet</rym>
+,
+</l>
+<l>
+you're too smart to go down any not-so-good
+<rym sch="feet">street</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>And you may not find any</l>
+<l>
+you'll want to go
+<rym sch="town">down</rym>
+.
+</l>
+<l>In that case, of course,</l>
+<l>
+you'll head straight out of
+<rym sch="down">town</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+It's
+<mUp>opener</mUp>
+there
+</l>
+<l>in the wide open air.</l>
+</stanza>
+<stanza>
+<l>Out there things can happen</l>
+<l>
+and frequently
+<rym sch="you">do</rym>
+</l>
+<l>to people as brainy</l>
+<l>
+and footsy as
+<rym sch="do">you</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>And then things start to happen,</l>
+<l>
+don't worry. Don't
+<rym sch="too">stew</rym>
+.
+</l>
+<l>Just go right along.</l>
+<l>
+You'll start happening
+<rym sch="stew">too</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>OH!</l>
+<l>THE PLACES YOU'LL GO!</l>
+</stanza>
+<stanza>
+<l>You'll be on your way up!</l>
+<l>
+You'll be seeing great
+<rym sch="heights">sights</rym>
+!
+</l>
+<l>You'll join the high fliers</l>
+<l>
+who soar to high
+<rym sch="sights">heights</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+You won't lag behind, because you'll have the
+<rym sch="lead">speed</rym>
+.
+</l>
+<l>
+You'll pass the whole gang and you'll soon take the
+<rym sch="speed">lead</rym>
+.
+</l>
+<l>
+Wherever you fly, you'll be best of the
+<rym sch="rest">best</rym>
+.
+</l>
+<l>
+Wherever you go, you will top all the
+<rym sch="best">rest</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+Except when you
+<rym sch="won't">don't</rym>
+.
+</l>
+<l>
+Because, sometimes, you
+<rym sch="don't">won't</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>I'm sorry to say so</l>
+<l>
+but, sadly, it's
+<rym sch="you">true</rym>
+</l>
+<l>that Bang-ups</l>
+<l>and Hang-ups</l>
+<l>
+can happen to
+<rym sch="true">you</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>You can get all hung up</l>
+<l>
+in a prickle-ly
+<rym sch="lurch">perch</rym>
+.
+</l>
+<l>And your gang will fly on.</l>
+<l>
+You'll be left in a
+<rym sch="perch">Lurch</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>You'll come down from the Lurch</l>
+<l>
+with an unpleasant
+<rym sch="slump">bump</rym>
+.
+</l>
+<l>And the chances are, then,</l>
+<l>
+that you'll be in a
+<rym sch="bump">Slump</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>And when you're in a Slump,</l>
+<l>
+you're not in for much
+<rym sch="done">fun</rym>
+.
+</l>
+<l>Un-slumping yourself</l>
+<l>
+is not easily
+<rym sch="fun">done</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+You will come to a place where the streets are not
+<rym sch="darked">marked</rym>
+.
+</l>
+<l>
+Some windows are lighted. But mostly they're
+<rym sch="marked">
+<mUp>darked</mUp>
+</rym>
+.
+</l>
+<l>
+A place you could sprain both your elbow and
+<rym sch="in">chin</rym>
+!
+</l>
+<l>
+Do you dare to stay out? Do you dare to go
+<rym sch="chin, win">in</rym>
+?
+</l>
+<l>
+How much can you lose? How much can you
+<rym sch="in">win</rym>
+?
+</l>
+</stanza>
+<stanza>
+<l>
+And IF you go in, should you turn left or
+<rym sch="quite">right</rym>
+...
+</l>
+<l>
+or right-and-three-quarters? Or, maybe, not
+<rym sch="right">quite</rym>
+?
+</l>
+<l>
+Or go around back and sneak in from
+<rym sch="find">behind</rym>
+?
+</l>
+<l>
+Simple it's not, I'm afraid you will
+<rym sch="behind, mind">find</rym>
+,
+</l>
+<l>
+for a mind-maker-upper to make up his
+<rym sch="find">mind</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>You can get so confused</l>
+<l>
+that you'll start in to
+<rym sch="pace">race</rym>
+</l>
+<l>
+down long wiggled roads at a break-necking
+<rym sch="race, space">pace</rym>
+</l>
+<l>
+and grind on for miles cross weirdish wild
+<rym sch="pace, place">space</rym>
+,
+</l>
+<l>
+headed, I fear, toward a most useless
+<rym sch="space">place</rym>
+.
+</l>
+<l>The Waiting Place...</l>
+</stanza>
+<stanza>
+<l>...for people just waiting.</l>
+<l>
+Waiting for a
+<rym sch="plain">train</rym>
+to go
+</l>
+<l>
+or a bus to come, or a
+<rym sch="train">plane</rym>
+to go
+</l>
+<l>or the mail to come, or the rain to go</l>
+<l>
+or the phone to ring, or the snow to
+<rym sch="no">snow</rym>
+</l>
+<l>
+or the waiting around for a Yes or
+<rym sch="snow">No</rym>
+</l>
+<l>
+or waiting for their hair to
+<rym sch="snow">grow</rym>
+.
+</l>
+<l>Everyone is just waiting.</l>
+</stanza>
+<stanza>
+<l>
+Waiting for the fish to
+<rym sch="kite">bite</rym>
+</l>
+<l>
+or waiting for the wind to fly a
+<rym sch="bite, night">kite</rym>
+</l>
+<l>
+or waiting around for Friday
+<rym sch="kite">night</rym>
+</l>
+<l>or waiting, perhaps, for their Uncle Jake</l>
+<l>or a pot to boil, or a Better Break</l>
+<l>
+or a string of
+<rym sch="curls">pearls</rym>
+, or a pair of pants
+</l>
+<l>
+or a wig with
+<rym sch="pearls">curls</rym>
+, or Another Chance.
+</l>
+<l>Everyone is just waiting.</l>
+</stanza>
+<stanza>
+<l>NO!</l>
+<l>That's not for you!</l>
+</stanza>
+<stanza>
+<l>Somehow you'll escape</l>
+<l>
+all that waiting and
+<rym sch="playing">staying</rym>
+</l>
+<l>You'll find the bright places</l>
+<l>
+where Boom Bands are
+<rym sch="staying">playing</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>With banner flip-flapping,</l>
+<l>
+once more you'll ride
+<rym sch="sky">high</rym>
+!
+</l>
+<l>
+Ready for anything under the
+<rym sch="high, guy">sky</rym>
+.
+</l>
+<l>
+Ready because you're that kind of a
+<rym sch="sky">guy</rym>
+!
+</l>
+</stanza>
+<stanza>
+<l>
+Oh, the places you'll go! There is fun to be
+<rym sch="won">done</rym>
+!
+</l>
+<l>
+There are points to be scored. There are games to be
+<rym sch="done">won</rym>
+.
+</l>
+<l>
+And the magical things you can do with that
+<rym sch="all">ball</rym>
+</l>
+<l>
+will make you the winning-est winner of
+<rym sch="ball">all</rym>
+.
+</l>
+<l>
+Fame! You'll be as famous as famous can
+<rym sch="TV">be</rym>
+,
+</l>
+<l>
+with the whole wide world watching you win on
+<rym sch="be">TV</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+Except when they
+<rym sch="won't">don't</rym>
+</l>
+<l>
+Because, sometimes they
+<rym sch="don't">won't</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>I'm afraid that some times</l>
+<l>
+you'll play lonely games
+<rym sch="you">too</rym>
+.
+</l>
+<l>Games you can't win</l>
+<l>
+'cause you'll play against
+<rym sch="too">you</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>All Alone!</l>
+<l>
+Whether you like it or
+<rym sch="lot">not</rym>
+,
+</l>
+<l>Alone will be something</l>
+<l>
+you'll be quite a
+<rym sch="not">lot</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+And when you're alone, there's a very good
+<rym sch="pants">chance</rym>
+</l>
+<l>
+you'll meet things that scare you right out of your
+<rym sch="chance">pants</rym>
+.
+</l>
+<l>
+There are some, down the road between hither and
+<rym sch="on">
+<mUp>yon</mUp>
+</rym>
+,
+</l>
+<l>
+that can scare you so much you won't want to go
+<rym sch="yon">on</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>But on you will go</l>
+<l>
+though the weather be
+<rym sch="prowl">foul</rym>
+.
+</l>
+<l>On you will go</l>
+<l>
+though your enemies
+<rym sch="foul, howl">prowl</rym>
+.
+</l>
+<l>On you will go</l>
+<l>
+though the Hakken-Kraks
+<rym sch="prowl">howl</rym>
+.
+</l>
+<l>Onward up many</l>
+<l>
+a frightening
+<rym sch="leak">creek</rym>
+,
+</l>
+<l>though your arms may get sore</l>
+<l>
+and your sneakers may
+<rym sch="creek">leak</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>On and on you will hike,</l>
+<l>
+And I know you'll hike
+<rym sch="are">far</rym>
+</l>
+<l>and face up to your problems</l>
+<l>
+whatever they
+<rym sch="far">are</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>You'll get mixed up, of course,</l>
+<l>
+as you already
+<rym sch="go">know</rym>
+.
+</l>
+<l>You'll get mixed up </l>
+<l>
+with many strange birds as you
+<rym sch="know">go</rym>
+.
+</l>
+<l>So be sure when you step.</l>
+<l>
+Step with care and great
+<rym sch="act">tact</rym>
+</l>
+<l>and remember that Life's </l>
+<l>
+a Great Balancing
+<rym sch="tact">Act</rym>
+.
+</l>
+<l>
+Just never foget to be dexterous and
+<rym sch="left">deft</rym>
+.
+</l>
+<l>
+And never mix up your right footb with your
+<rym sch="deft">left</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+And will you
+<rym sch="indeed">succeed</rym>
+?
+</l>
+<l>
+Yes! You will,
+<rym sch="succeed, guaranteed">indeed</rym>
+!
+</l>
+<l>
+(98 and 3/4 percent
+<rym sch="indeed">guaranteed</rym>
+.)
+</l>
+</stanza>
+<stanza>
+<l>KID, YOU'LL MOVE MOUNTAINS!</l>
+</stanza>
+<stanza>
+<l>So...</l>
+<l>
+be your name Buxbaum or Bixby or
+<rym sch="Shea">Bray</rym>
+</l>
+<l>
+or Mordecai Ali Van Allen O'
+<rym sch="Brey, day">Shea</rym>
+,
+</l>
+<l>You're off the Great Places!</l>
+<l>
+Today is your
+<rym sch="Shea, way">day</rym>
+!
+</l>
+<l>Your mountain is waiting.</l>
+<l>
+So...get on your
+<rym sch="day">way</rym>
+!
+</l>
+</stanza>
+</body>
+</book>

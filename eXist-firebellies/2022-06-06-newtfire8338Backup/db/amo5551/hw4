@@ -1,0 +1,27 @@
+xquery version "3.1";
+<html>
+    <head>
+        <title>Super Smash Bros Characters and Tiers</title>
+    </head>
+    <body>
+        <h1>SSB1</h1>
+        <table>
+            {
+            let $masterlist := collection('/db/smashtiers/')
+            let $ssb1 := $masterlist//char[game[@n="1"]] ! string(@id)
+            let $ssb2 := $masterlist//char[game[@n="2"]] ! string(@id)
+            let $ssb3 := $masterlist//char[game[@n="3"]] ! string(@id)
+            let $ssb4 := $masterlist//char[game[@n="4"]] ! string(@id)
+            let $ssb5 := $masterlist//char[game[@n="5"]] ! string(@id)
+            return
+                <tr>
+                    <td>{$ssb1}</td>
+                    <td>{$ssb2}</td>
+                    <td>{$ssb3}</td>
+                    <td>{$ssb4}</td>
+                    <td>{$ssb5}</td>
+                </tr>
+            }
+        </table>
+    </body>
+</html>

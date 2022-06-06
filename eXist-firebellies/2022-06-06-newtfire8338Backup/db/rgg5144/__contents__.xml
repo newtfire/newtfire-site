@@ -1,0 +1,57 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rgg5144" version="1" owner="rgg5144" group="dba" mode="775" created="2021-12-30T05:27:18.662Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Racheltest.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:18.664Z" modified="2021-12-30T05:27:18.663Z" filename="Racheltest.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="RachelBlues.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:19.494Z" modified="2021-12-30T05:27:19.494Z" filename="RachelBlues.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rachelAC.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:20.772Z" modified="2021-12-30T05:27:20.772Z" filename="rachelAC.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="cytoscape1.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:18.731Z" modified="2021-12-30T05:27:18.731Z" filename="cytoscape1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneySongdata2.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:18.811Z" modified="2021-12-30T05:27:18.811Z" filename="disneySongdata2.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneySongdata.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:18.871Z" modified="2021-12-30T05:27:18.871Z" filename="disneySongdata.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Python1.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:19.754Z" modified="2021-12-30T05:27:19.754Z" filename="Python1.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="python1.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:19.885Z" modified="2021-12-30T05:27:19.885Z" filename="python1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Python3.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:19.947Z" modified="2021-12-30T05:27:19.947Z" filename="Python3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="cytoscape1" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:20.019Z" modified="2021-12-30T05:27:20.019Z" filename="cytoscape1" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="RachelBlues.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:20.08Z" modified="2021-12-30T05:27:20.08Z" filename="RachelBlues.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Python2.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:20.254Z" modified="2021-12-30T05:27:20.254Z" filename="Python2.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Python3.txt" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:20.587Z" modified="2021-12-30T05:27:20.587Z" filename="Python3.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Python2.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:20.665Z" modified="2021-12-30T05:27:20.665Z" filename="Python2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:20.844Z" modified="2021-12-30T05:27:20.844Z" filename="test.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Racheltest" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:30.859Z" modified="2021-12-30T05:27:30.859Z" filename="Racheltest" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg2.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:31.069Z" modified="2021-12-30T05:27:31.069Z" filename="svg2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="RachelBlues" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:31.182Z" modified="2021-12-30T05:27:31.182Z" filename="RachelBlues" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

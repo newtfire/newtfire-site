@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ets5199" version="1" owner="ets5199" group="dba" mode="775" created="2021-03-08T20:28:08.016Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="ets-SVG2%20edited.xql" skip="no" owner="ets5199" group="ets5199" mode="755" created="2021-03-25T21:52:35.223Z" modified="2021-03-25T22:05:05.478Z" filename="ets-SVG2 edited.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQUERY%20TEST.xql" skip="no" owner="ets5199" group="ets5199" mode="755" created="2021-04-07T03:46:59.99Z" modified="2021-04-07T03:46:59.99Z" filename="XQUERY TEST.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DisneyEricQuest.xql" skip="no" owner="ets5199" group="ets5199" mode="755" created="2021-04-09T22:46:56.672Z" modified="2021-04-10T00:09:22.775Z" filename="DisneyEricQuest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DisneyEricQuest.tsv" skip="no" owner="ets5199" group="ets5199" mode="644" created="2021-04-06T00:35:39.361Z" modified="2021-04-12T14:16:37.7Z" filename="DisneyEricQuest.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MyNetworkData.tsv" skip="no" owner="ets5199" group="ets5199" mode="644" created="2021-04-06T00:35:02.047Z" modified="2021-04-06T00:35:02.047Z" filename="MyNetworkData.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ets-SVG2.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-03-24T15:21:28.116Z" modified="2021-03-24T15:42:58.892Z" filename="ets-SVG2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

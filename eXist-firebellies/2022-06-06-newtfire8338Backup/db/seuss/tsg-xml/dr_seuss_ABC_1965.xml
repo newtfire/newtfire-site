@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="rhyme" type="literacy" date="1965"/>
+<title>Dr. Seuss ABC</title>
+<body>
+<stanza>
+<l>
+<adj>BIG</adj>
+A
+</l>
+<l>
+<adj>litte</adj>
+a
+</l>
+<l>What begins with A? </l>
+<l>
+<figOfSp type="alliteration">
+<obj>Aunt Annie's</obj>
+<obj>alligator</obj>
+</figOfSp>
+......A..a..A
+</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+B
+</l>
+<l>
+<adj>litte</adj>
+b
+</l>
+<l>What begins with B?</l>
+<l>
+<figOfSp type="alliteration">
+<obj>Barber</obj>
+<obj>baby bubbles</obj>
+, and a
+<obj>bumblebee</obj>
+</figOfSp>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+C
+</l>
+<l>
+<adj>litte</adj>
+c
+</l>
+<l>What begins with C?</l>
+<l>
+<figOfSp type="alliteration">
+<obj>Camel</obj>
+on the
+<obj>Ceiling</obj>
+</figOfSp>
+</l>
+<l>C....c....C</l>
+</stanza>
+<stanza>
+<l>Big D</l>
+<l>
+<adj>litte</adj>
+d
+</l>
+<l>
+<figOfSp type="alliteration">
+<obj>David Donald Doo</obj>
+<obj>dreamed</obj>
+a
+<obj>dozen doughnuts</obj>
+and a
+<mUp>duck-dog</mUp>
+</figOfSp>
+, too.
+</l>
+</stanza>
+<stanza>
+<l>ABCDE..e..e</l>
+<l>
+<figOfSp type="alliteration">
+<obj>ear</obj>
+<obj>egg</obj>
+<obj>elephant</obj>
+</figOfSp>
+</l>
+<l>e</l>
+<l>e</l>
+<l>E</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+F
+</l>
+<l>
+<adj>litte</adj>
+f
+</l>
+<l>F..f..F</l>
+<l>
+<figOfSp type="alliteration">
+<adj>Four</adj>
+<adj>fluffy</adj>
+<obj>feathers</obj>
+on a
+<mUp>Fiffer-feffer-feff</mUp>
+</figOfSp>
+.
+</l>
+</stanza>
+<stanza>
+<l>ABCDEFG</l>
+<l>
+<figOfSp type="alliteration">
+<obj>Goat</obj>
+<obj>girl</obj>
+<obj>googoo goggles</obj>
+</figOfSp>
+G...g...G
+</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+H,
+</l>
+<l>
+<adj>litte</adj>
+h
+</l>
+<l>
+<figOfSp type="alliteration">
+<obj>Hungry</obj>
+<obj>horse</obj>
+.
+<obj>Hay</obj>
+</figOfSp>
+.
+</l>
+<l>
+<obj>Hen</obj>
+in a
+<obj>hat</obj>
+.
+</l>
+<l>Hooray! Hooray!</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+I
+</l>
+<l>
+<adj>litte</adj>
+i
+</l>
+<l>i....i....i</l>
+<l>
+<mUp>Icabod</mUp>
+is
+<adj>itchy</adj>
+.
+</l>
+<l>So am I</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+J,
+</l>
+<l>
+<adj>litte</adj>
+j
+</l>
+<l>What begins with j?</l>
+<l>
+<figOfSp type="alliteration">
+<obj>Jerry Jordan's</obj>
+<obj>jelly jar</obj>
+and
+<obj>jam</obj>
+</figOfSp>
+began that way.
+</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+K,
+</l>
+<l>
+<adj>litte</adj>
+k,
+</l>
+<l>
+<obj>Kitten</obj>
+.
+<obj>Kangaroo</obj>
+.
+</l>
+<l>
+<action>Kick</action>
+a
+<obj>kettle</obj>
+.
+</l>
+<l>
+<obj>Kite</obj>
+and a
+<obj>
+king's
+<mUp>kerchoo</mUp>
+</obj>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+L
+</l>
+<l>
+<adj>litte</adj>
+l
+</l>
+<l>
+<figOfSp type="alliteration">Little Lola Lopp</figOfSp>
+.
+</l>
+<l>
+<obj>Left leg</obj>
+.
+</l>
+<l>
+<figOfSp type="alliteration">
+<adj>Lazy</adj>
+<obj>lion</obj>
+licks a
+<obj>lollipop</obj>
+</figOfSp>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+M
+</l>
+<l>
+<adj>litte</adj>
+m
+</l>
+<l>
+<figOfSp type="alliteration">
+Many
+<adj>mumbling</adj>
+<obj>mice</obj>
+are making
+<adj>mindnight</adj>
+<obj>music</obj>
+in the
+<adj>moonlight</adj>
+</figOfSp>
+...
+</l>
+<l>
+<adj>mighty</adj>
+nice
+</l>
+</stanza>
+<stanza>
+<l>Big N</l>
+<l>
+<adj>litte</adj>
+n
+</l>
+<l>What begins with those?</l>
+<l>
+<figOfSp type="alliteration">
+<adj>Nine</adj>
+<adj>new</adj>
+<obj>neckties</obj>
+and a
+<obj>nightshirt</obj>
+and a
+<obj>nose</obj>
+</figOfSp>
+.
+</l>
+</stanza>
+<stanza>
+<l>O is very useful. </l>
+<l>You use it when you say:</l>
+<l>
+<figOfSp type="alliteration">
+"
+<obj>Oscar's</obj>
+only
+<obj>ostrich</obj>
+<obj>oiled</obj>
+an
+<adj>orange</adj>
+<obj>owl</obj>
+today
+</figOfSp>
+."
+</l>
+</stanza>
+<stanza>
+<l>ABCDEFGHIJKLMNO.....P</l>
+</stanza>
+<stanza>
+<l>
+<figOfSp type="alliteration">
+<action>Painting</action>
+<adj>pink</adj>
+<obj>pajamas</obj>
+</figOfSp>
+.
+</l>
+<l>
+<obj>Policeman</obj>
+in a
+<obj>pail</obj>
+.
+</l>
+<l>
+<obj>Pete Pepper's</obj>
+<obj>puppy</obj>
+And now
+<obj>Papa</obj>
+' in the
+<obj>pail</obj>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+Q
+</l>
+<l>
+<adj>litte</adj>
+q
+</l>
+<l>What begins with Q?</l>
+<l>
+<figOfSp type="alliteration">
+The
+<adj>quick</adj>
+<obj>
+Queen of
+<place>Quincy</place>
+</obj>
+and her
+<sound>quacking</sound>
+<sound>quacker</sound>
+-oo
+</figOfSp>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+R
+</l>
+<l>
+<adj>litte</adj>
+r
+</l>
+<l>
+<figOfSp type="alliteration">
+<obj>Rosy Robin Ross</obj>
+</figOfSp>
+.
+</l>
+<l>
+<obj>Rosy's</obj>
+going riding on her
+<adj>red</adj>
+<obj>rhinoceros</obj>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+S
+</l>
+<l>
+<adj>litte</adj>
+s
+</l>
+<l>
+<figOfSp type="alliteration">
+<adj>Silly</adj>
+<obj>Sammy</obj>
+<adj>Slick</adj>
+<action>sipped</action>
+<adj>six</adj>
+<obj>sodas</obj>
+and got
+<adj>sick</adj>
+<adj>sick</adj>
+<adj>sick</adj>
+</figOfSp>
+.
+</l>
+</stanza>
+<stanza>
+<l>T.....T</l>
+<l>t.......t </l>
+<l>What begins with T?</l>
+<l>
+<figOfSp type="alliteration">
+<adj>Ten</adj>
+tires
+<obj>turtles</obj>
+on a
+<mUp>tuttle-tuttle</mUp>
+<obj>tree</obj>
+</figOfSp>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+U
+</l>
+<l>
+<adj>litte</adj>
+U
+</l>
+<l>What begins with U?</l>
+<l>
+<figOfSp type="alliteration">
+<obj>Uncle Ubb's</obj>
+<obj>umbrella</obj>
+and his
+<obj>underwear</obj>
+, too
+</figOfSp>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+V
+</l>
+<l>
+<adj>litte</adj>
+v
+</l>
+<l>
+<figOfSp type="alliteration">
+<obj>Vera Violet Vinn</obj>
+is very very very
+<adj>awful</adj>
+in her
+<obj>violin</obj>
+</figOfSp>
+.
+</l>
+</stanza>
+<stanza>
+<l>W..w..W</l>
+<l>
+<figOfSp type="alliteration">
+<obj>Willy Waterloo</obj>
+<action>washes</action>
+<obj>Warren Wiggins</obj>
+who is
+<action>washing</action>
+<obj>Waldo Woo</obj>
+</figOfSp>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+X is Very useful if your name is
+<obj>Nixie Nox</obj>
+It also comes in handy spelling
+<obj>ax</obj>
+and extra
+<obj>fox</obj>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+Y
+</l>
+<l>
+<adj>litte</adj>
+y
+</l>
+<l>
+<figOfSp type="alliteration">
+A
+<action>yawning</action>
+<adj>yellow</adj>
+<obj>yak</obj>
+<adj>Young</adj>
+<obj>Yolanda Yorgenson</obj>
+is
+<action>yelling</action>
+on his back
+</figOfSp>
+.
+</l>
+</stanza>
+<stanza>
+<l>ABCDEFG...HIJKLMNOP...QRSTUV...W..X..Y..and....Z</l>
+</stanza>
+<stanza>
+<l>
+<adj>BIG</adj>
+Z
+</l>
+<l>
+<adj>litte</adj>
+z
+</l>
+<l>What begins with Z?</l>
+</stanza>
+<stanza>
+<l>I do. </l>
+</stanza>
+<stanza>
+<l>I am a </l>
+<l>
+<figOfSp type="alliteration">
+<mUp>Zizzer-Zazzer-Zuzz</mUp>
+</figOfSp>
+</l>
+<l>as you can </l>
+<l>plainly see.</l>
+</stanza>
+</body>
+</book>

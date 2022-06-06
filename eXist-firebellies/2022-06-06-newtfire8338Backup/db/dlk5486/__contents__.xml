@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/dlk5486" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:24.996Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="kellner_SVG3_TreeHeight" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:24.997Z" modified="2021-12-30T05:24:24.997Z" filename="kellner_SVG3_TreeHeight" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="BanksySVG2" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:25.062Z" modified="2021-12-30T05:24:25.062Z" filename="BanksySVG2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="kellner_SVG3.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:25.126Z" modified="2021-12-30T05:24:25.126Z" filename="kellner_SVG3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Master_Tree_Book" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:25.31Z" modified="2021-12-30T05:24:25.31Z" filename="Master_Tree_Book" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="class_date_example" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:25.376Z" modified="2021-12-30T05:24:25.376Z" filename="class_date_example" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Auto-Query" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:25.445Z" modified="2021-12-30T05:24:25.445Z" filename="Auto-Query" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="kellner_SVG3" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:25.512Z" modified="2021-12-30T05:24:25.512Z" filename="kellner_SVG3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

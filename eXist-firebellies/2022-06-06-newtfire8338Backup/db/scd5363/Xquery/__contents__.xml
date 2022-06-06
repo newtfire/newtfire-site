@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/scd5363/Xquery" version="1" owner="scd5363" group="scd5363" mode="755" created="2022-04-04T17:42:47.852Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="XQ2.xquery" skip="no" owner="scd5363" group="scd5363" mode="755" created="2022-04-20T19:28:30.74Z" modified="2022-04-20T19:30:56.778Z" filename="XQ2.xquery" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQ6" skip="no" owner="scd5363" group="scd5363" mode="755" created="2022-04-20T19:32:06.821Z" modified="2022-04-20T19:32:06.821Z" filename="XQ6" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQ6.xquery" skip="no" owner="scd5363" group="scd5363" mode="755" created="2022-04-04T17:42:56.554Z" modified="2022-04-04T17:42:56.554Z" filename="XQ6.xquery" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drb-testComments.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-04-25T16:48:28.029Z" modified="2022-04-25T17:00:10.81Z" filename="drb-testComments.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test" skip="no" owner="scd5363" group="scd5363" mode="755" created="2022-04-12T18:09:35.826Z" modified="2022-04-12T23:55:01.824Z" filename="test" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQ2" skip="no" owner="scd5363" group="scd5363" mode="755" created="2022-04-20T19:30:40.353Z" modified="2022-04-20T19:30:40.353Z" filename="XQ2" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

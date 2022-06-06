@@ -1,0 +1,25 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/starwars-queries" version="1" owner="admin" group="starwars" mode="775" created="2022-03-16T16:59:38.434Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="draftFinal_lengthCount.xql" skip="no" owner="tjh58" group="tjh58" mode="755" created="2022-04-13T20:34:32.683Z" modified="2022-04-26T21:43:05.353Z" filename="draftFinal_lengthCount.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drb-scenePercentsStackedBar.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-04-01T12:21:17.716Z" modified="2022-04-13T17:46:12.067Z" filename="drb-scenePercentsStackedBar.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draftFinal_lengthCount" skip="no" owner="tjh58" group="tjh58" mode="755" created="2022-04-13T17:29:38.054Z" modified="2022-04-13T18:13:44.5Z" filename="draftFinal_lengthCount" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lilley_starwars_draft_speaker.tsv" skip="no" owner="hjl5363" group="hjl5363" mode="644" created="2022-04-06T13:50:17.129Z" modified="2022-04-06T13:50:17.129Z" filename="lilley_starwars_draft_speaker.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ArtwoSpeechs.xql" skip="no" owner="jbg5721" group="jbg5721" mode="755" created="2022-04-27T18:11:49.756Z" modified="2022-04-27T18:11:49.756Z" filename="ArtwoSpeechs.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nlp-DraftTextPulls-starWars.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-04-18T16:58:13.447Z" modified="2022-04-18T17:04:01.801Z" filename="nlp-DraftTextPulls-starWars.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draftsAndCharacters.xql" skip="no" owner="jbg5721" group="jbg5721" mode="755" created="2022-04-04T16:59:27.156Z" modified="2022-04-27T20:36:06.336Z" filename="draftsAndCharacters.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="textBlobs" filename="textBlobs"/>
+</collection>

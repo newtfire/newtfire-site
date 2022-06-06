@@ -1,0 +1,6 @@
+xquery version "3.1";
+let $letsrock := collection('/db/letsrock')/*
+let $song := $letsrock//sname
+for $s in $song
+
+return $song

@@ -1,0 +1,7 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/seuss" version="1" owner="admin" group="seuss" mode="771" created="2022-03-16T16:59:43.553Z">
+    <acl entries="0" version="1"/>
+    <subcollection name="Poems" filename="Poems"/>
+    <subcollection name="Stories" filename="Stories"/>
+    <subcollection name="Xquery" filename="Xquery"/>
+    <subcollection name="tsg-xml" filename="tsg-xml"/>
+</collection>

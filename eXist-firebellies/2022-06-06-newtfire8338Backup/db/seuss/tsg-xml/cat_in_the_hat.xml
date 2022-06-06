@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="rhyme" type="moral" date="1957"/>
+<title>The Cat in the Hat</title>
+<body>
+<stanza>
+<l>The sun did not shine. </l>
+<l>It was too wet to play. </l>
+<l>So we sat in the house </l>
+<l>All that cold, cold, wet day. </l>
+</stanza>
+<stanza>
+<l>I sat there with Sally. </l>
+<l>We sat there, we two. </l>
+<l>And I said, “How I wish </l>
+<l>We had something to do!” </l>
+</stanza>
+<stanza>
+<l>Too wet to go out </l>
+<l>And too cold to play ball. </l>
+<l>So we sat in the house. </l>
+<l>We did nothing at all. </l>
+</stanza>
+<stanza>
+<l>So all we could do was to </l>
+<l>Sit! Sit! Sit! Sit! </l>
+<l>And we did not like it. </l>
+<l>Not one little bit. </l>
+</stanza>
+<stanza>
+<l>And then </l>
+<l>Something went BUMP! </l>
+<l>How that bump made us jump! </l>
+</stanza>
+<stanza>
+<l>We looked! </l>
+<l>Then we saw him step in on the mat! </l>
+<l>We looked! </l>
+<l>And we saw him! </l>
+<l>The Cat in the Hat! </l>
+<l>And he said to us, </l>
+<l>“Why do you sit there like that?” </l>
+</stanza>
+<stanza>
+<l>“I know it is wet </l>
+<l>And the sun is not sunny. </l>
+<l>But we can have </l>
+<l>Lots of good fun that is funny!” </l>
+<l>“I know some good games we could play,” </l>
+<l>Said the cat. </l>
+<l>“I know some new tricks,” </l>
+<l>Said the Cat in the Hat. </l>
+<l>“A lot of good tricks. </l>
+<l>I will show them to you. </l>
+<l>Your mother </l>
+<l>Will not mind at all if I do.” </l>
+</stanza>
+<stanza>
+<l>Then Sally and I </l>
+<l>Did not know what to say. </l>
+<l>Our mother was out of the house </l>
+<l>For the day. </l>
+</stanza>
+<stanza>
+<l>But our fish said, “No! No! </l>
+<l>Make that cat go away! </l>
+<l>Tell that Cat in the Hat </l>
+<l> You do NOT want to play. </l>
+<l>He should not be here. </l>
+<l>He should not be about. </l>
+<l>He should not be here </l>
+<l>When your mother is out!” </l>
+</stanza>
+<stanza>
+<l>“Now! Now! Have no fear. </l>
+<l>Have no fear!” said the cat. </l>
+<l>“My tricks are not bad,” </l>
+<l>Said the Cat in the Hat. </l>
+<l>“Why, we can have </l>
+<l>Lots of good fun, if you wish, </l>
+<l>With a game that I call </l>
+<l> UP-UP-UP with a fish!” </l>
+</stanza>
+<stanza>
+<l>“Put me down!” said the fish. </l>
+<l>“This is no fun at all! </l>
+<l>Put me don!” said the fish. </l>
+<l>“I do NOT wish to fall!” </l>
+</stanza>
+<stanza>
+<l>“Have no fear!” said the cat. </l>
+<l>“I will not let you fall. </l>
+<l>I will hold you up high </l>
+<l>As I stand on a ball. </l>
+<l>With a book on one hand! </l>
+<l>And a cup on my hat! </l>
+<l>But that is not ALL I can do!’ </l>
+<l>Said the cat… </l>
+</stanza>
+<stanza>
+<l>"Look at me!</l>
+<l>Look at me now!" said the cat.</l>
+<l>"With a cup and a cake</l>
+<l>On the top of my hat!</l>
+<l>I can hold up TWO books!</l>
+<l>I can hold up the fish!</l>
+<l>And a little toy ship!</l>
+<l>And some milk on a dish!</l>
+<l>And look!</l>
+<l>I can hop up and down on the ball!</l>
+<l>But that is not all!</l>
+<l>Oh, no.</l>
+<l>That is not all...</l>
+</stanza>
+<stanza>
+<l>"Look at me!</l>
+<l>Look at me!</l>
+<l>Look at me NOW!</l>
+<l>It is fun to have fun</l>
+<l>But you have to know how.</l>
+<l>I can hold up the cup</l>
+<l>And the milk and the cake!</l>
+<l>I can hold up these books!</l>
+<l>And the fish on a rake!</l>
+<l>I can hold the toy ship</l>
+<l>And a little toy man!</l>
+<l>And look! With my tail</l>
+<l>I can hold a red fan!</l>
+<l>I can fan with the fan</l>
+<l>As I hop on the ball!</l>
+<l>But that is not all.</l>
+<l>Oh, no.</l>
+<l>That is not all..."</l>
+</stanza>
+<stanza>
+<l>That is what the cat said...</l>
+<l>Then he fell on his head!</l>
+<l>He came down with a bump</l>
+<l>From up there on the ball.</l>
+<l>And Sally and I,</l>
+<l>We saw ALL the things fall!</l>
+</stanza>
+<stanza>
+<l>And our fish came down, too.</l>
+<l>He fell into a pot!</l>
+<l>He said, "Do I like this?</l>
+<l>Oh, no! I do not.</l>
+<l>This is not a good game,"</l>
+<l>Said our fish as he lit.</l>
+<l>"No, I do not like it,</l>
+<l>Not one little bit!"</l>
+</stanza>
+<stanza>
+<l>"Now look what you did!"</l>
+<l>Said the fish to the cat.</l>
+<l>"Now look at this house!</l>
+<l>Look at this! Look at that!</l>
+<l>You sank our toy ship,</l>
+<l>Sank it deep in the cake.</l>
+<l>You shook up our house</l>
+<l>And you bent our new rake.</l>
+<l>You SHOULD NOT be here</l>
+<l>When our mother is not.</l>
+<l>You get out of this house!"</l>
+<l>Said the fish in the pot.</l>
+</stanza>
+<stanza>
+<l>"But I like to be here.</l>
+<l>Oh, I like it a lot!"</l>
+<l>Said the Cat in the Hat</l>
+<l>To the fish in the pot.</l>
+<l>"I will NOT go away</l>
+<l>I do NOT wish to go!</l>
+<l>And so," said the Cat in the Hat,</l>
+<l>"So so so...</l>
+<l>I will show you</l>
+<l>Another good game that I know!"</l>
+</stanza>
+<stanza>
+<l>And then he ran out.</l>
+<l>And, then, fast as a fox,</l>
+<l>The Cat in the Hat</l>
+<l>Came back in with a box</l>
+</stanza>
+<stanza>
+<l>A big red wood box.</l>
+<l>It was shut with a hook.</l>
+<l>"Now look at this trick,"</l>
+<l>Said the cat.</l>
+<l>"Take a look!"</l>
+</stanza>
+<stanza>
+<l>Then he got up on top</l>
+<l>With a tip of his hat.</l>
+<l>"I call this game FUN-IN-A-BOX,"</l>
+<l>Said the cat.</l>
+<l>"In this box are two things</l>
+<l>I will show to you now.</l>
+<l>You will like these two things,"</l>
+<l>Said the cat with a bow.</l>
+</stanza>
+<stanza>
+<l>"I will pick up the hook.</l>
+<l>You will see something new.</l>
+<l>Two things. And I call them</l>
+<l>Thing One and Thing Two.</l>
+<l>These Things will not bite you.</l>
+<l>They want to have fun."</l>
+<l>Then, out of the box</l>
+<l>Came Thing Two and Thing One!</l>
+<l>And they ran to us fast.</l>
+<l>They said, "How do you do?</l>
+<l>Would you like to shake hands</l>
+<l>With Thing One and Thing Two?"</l>
+</stanza>
+<stanza>
+<l>And Sally and I</l>
+<l>Did not know what to do.</l>
+<l>So we had to shake hands</l>
+<l>With Thing One and Thing Two.</l>
+<l>We shook their two hands.</l>
+<l>But our fish said, "No! NO!</l>
+<l>Those Things should not be</l>
+<l>In this house! Make them go!</l>
+</stanza>
+<stanza>
+<l>"They should not be here</l>
+<l>When your mother is not!</l>
+<l>Put them out! Put them out!"</l>
+<l>Said the fish in the pot.</l>
+</stanza>
+<stanza>
+<l>"Have no fear, little fish,"</l>
+<l>Said the Cat in the Hat.</l>
+<l>"These Things are good Things."</l>
+<l>And he gave them a pat.</l>
+<l>"They are tame. Oh, so tame!</l>
+<l>They have come here to play.</l>
+<l>They will give you some fun</l>
+<l>On this wet, wet, wet day."</l>
+</stanza>
+<stanza>
+<l>"Now, here is a game that they like,"</l>
+<l>Said the cat.</l>
+<l>"They like to fly kites,"</l>
+<l>Said the Cat in the Hat.</l>
+</stanza>
+<stanza>
+<l>"No1 Not in the house!"</l>
+<l>Said the fish in the pot.</l>
+<l>"They should not fly kites</l>
+<l>In a house! They should not.</l>
+<l>Oh, the things they will bump!</l>
+<l>Oh, the things they will hit!</l>
+<l>Oh, I do not like it!</l>
+<l>Not one little bit!"</l>
+</stanza>
+<stanza>
+<l>Then Sally and I</l>
+<l>Saw them run down the hall.</l>
+<l>We saw those two Things</l>
+<l>Bump their kites on the wall!</l>
+<l>Bump! Thump! Thump! Bump!</l>
+<l>Down the wall in the hall.</l>
+</stanza>
+<stanza>
+<l>Thing Two and Thing One!</l>
+<l>They ran up! They ran down!</l>
+<l>On the string of one kite</l>
+<l>We saw Mother's new gown!</l>
+<l>Her gown with the dots</l>
+<l>That are pink, white and red.</l>
+<l>Then we saw one kite bump</l>
+<l>On the head of her bed!</l>
+</stanza>
+<stanza>
+<l>Then those Things ran about</l>
+<l>With big bumps, jumps and kicks</l>
+<l>And with hops and big thumps</l>
+<l>And all kinds of bad tricks.</l>
+<l>And I said,</l>
+<l>"I do NOT like the way that they play!</l>
+<l>If Mother could see this,</l>
+<l>Oh, what would she say!"</l>
+</stanza>
+<stanza>
+<l>Then our fish said, "LOOK! LOOK!"</l>
+<l>And our fish shook with fear.</l>
+<l>"Your mother is on her way home!</l>
+<l>Do you hear?</l>
+<l>Oh, what will she do to us?</l>
+<l>What will she say?</l>
+<l>Oh, she will not like it</l>
+<l>To find us this way!"</l>
+</stanza>
+<stanza>
+<l>"So, DO something! Fast!" said the fish.</l>
+<l>"Do you hear!</l>
+<l>I saw her. Your mother!</l>
+<l>Your mother is near!</l>
+<l>So, as fast as you can,</l>
+<l>Think of something to do!</l>
+<l>You will have to get rid of</l>
+<l>Thing One and Thing Two!"</l>
+</stanza>
+<stanza>
+<l>So, as fast as I could,</l>
+<l>I went after my net.</l>
+<l>And I said, "With my net</l>
+<l>I can get them I bet.</l>
+<l>I bet, with my net,</l>
+<l>I can get those Things yet!"</l>
+</stanza>
+<stanza>
+<l>Then I let down my net.</l>
+<l>It came down with a PLOP!</l>
+<l>And I had them! At last!</l>
+<l>Those two Things had to stop.</l>
+<l>Then I said to the cat,</l>
+<l>"Now you do as I say.</l>
+<l>You pack up those Things</l>
+<l>And you take them away!"</l>
+</stanza>
+<stanza>
+<l>"Oh dear!" said the cat.</l>
+<l>"You did not like our game...</l>
+<l>Oh dear.</l>
+<l>What a shame!</l>
+<l>What a shame!</l>
+<l>What a shame!"</l>
+</stanza>
+<stanza>
+<l>Then he shut up the Things</l>
+<l>In the box with the hook.</l>
+<l>And the cat went away</l>
+<l>With a sad kind of look.</l>
+</stanza>
+<stanza>
+<l>"That is good," said the fish.</l>
+<l>"He has gone away. Yes.</l>
+<l>But your mother will come.</l>
+<l>She will find this big mess!</l>
+<l>And this mess is so big</l>
+<l>And so deep and so tall,</l>
+<l>We can not pick it up.</l>
+<l>There is no way at all!"</l>
+</stanza>
+<stanza>
+<l>And THEN!</l>
+<l>Who was back in the house?</l>
+<l>Why, the cat!</l>
+<l>"Have no fear of this mess,"</l>
+<l>Said the Cat in the Hat.</l>
+<l>"I always pick up all my playthings</l>
+<l>And so..</l>
+<l>I will show you another</l>
+<l>Good trick that I know!"</l>
+</stanza>
+<stanza>
+<l>Then we saw him pick up</l>
+<l>All the things that were down.</l>
+<l>He picked up the cake,</l>
+<l>And the rake, and the gown,</l>
+<l>And the milk, and the strings,</l>
+<l>And the books, and the dish,</l>
+<l>And the fan, and the cup,</l>
+<l>And the ship, and the fish.</l>
+<l>And he put them away.</l>
+<l>Then he said, "That is that."</l>
+<l>And then he was gone</l>
+<l>With a tip of his hat.</l>
+</stanza>
+<stanza>
+<l>Then our mother came in</l>
+<l>And she said to us two,</l>
+<l>"Did you have any fun?</l>
+<l>Tell me. What did you do?"</l>
+</stanza>
+<stanza>
+<l>And Sally and I did not know</l>
+<l>What to say.</l>
+<l>Should we tell her</l>
+<l>The things that went on there that day?</l>
+</stanza>
+<stanza>
+<l>Should we tell her about it?</l>
+<l>Now, what SHOULD we do?</l>
+<l>Well...</l>
+<l>What would YOU do</l>
+<l>If your mother asked YOU?</l>
+</stanza>
+</body>
+</book>

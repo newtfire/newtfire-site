@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../Desktop/Digit%20210/prose.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="rhyme" type="literacy" date="1965"/>
+<title>
+<char name="Fox in socks" type="major">fox</char>
+in socks
+</title>
+<body>
+<stanza>
+<l>
+<char name="Fox in socks" type="major">fox</char>
+</l>
+<l>socks</l>
+<l>box</l>
+<l>
+<char name="Knox">Knox</char>
+</l>
+</stanza>
+<stanza>
+<l>
+<char name="Knox">Knox</char>
+in box.
+</l>
+<l>
+<char name="Fox in socks" type="major">fox</char>
+in socks.
+</l>
+</stanza>
+<stanza>
+<l>
+<char name="Knox">Knox</char>
+on
+<char name="Fox in socks" type="major">fox</char>
+in socks in box.
+</l>
+</stanza>
+<stanza>
+<l>
+socks on
+<char name="Knox">Knox</char>
+and
+<char name="Knox">Knox</char>
+in box.
+</l>
+</stanza>
+<stanza>
+<l>
+<char name="Fox in socks" type="major">fox</char>
+in socks on box on
+<char name="Knox">Knox</char>
+.
+</l>
+</stanza>
+<stanza>
+<l>chicks with bricks come.</l>
+<l>chicks with blocks come.</l>
+<l>chicks with bricks and blocks and clocks come.</l>
+</stanza>
+<stanza>
+<l>
+Look, sir. Look, sir. Mr.
+<char name="Knox">Knox</char>
+, sir.
+</l>
+<l>Let's do tricks with bricks and blocks, sir.</l>
+<l>Let's do tricks with chicks and clocks, sir.</l>
+</stanza>
+<stanza>
+<l>First, I'll make a quick trick brick stack.</l>
+<l>Then I'll make a quick trick block stack.</l>
+</stanza>
+<stanza>
+<l>You can make a quick trick chick stack.</l>
+<l>You can make a quick trick clock stack.</l>
+</stanza>
+<stanza>
+<l>
+And here's a new trick, Mr.
+<char name="Knox">Knox</char>
+....
+</l>
+<l>
+socks on chicks and chicks on
+<char name="Fox in socks" type="major">fox</char>
+.
+</l>
+<l>
+<char name="Fox in socks" type="major">fox</char>
+on clocks on bricks and blocks.
+</l>
+<l>
+bricks and blocks on
+<char name="Knox">Knox</char>
+on box.
+</l>
+</stanza>
+<stanza>
+<l>Now we come to ticks and tocks, sir.</l>
+<l>
+Try to say this Mr.
+<char name="Knox">Knox</char>
+, sir....
+</l>
+</stanza>
+<stanza>
+<l>
+clocks on
+<char name="Fox in socks" type="major">fox</char>
+tick.
+</l>
+<l>
+clocks on
+<char name="Knox">Knox</char>
+tock.
+</l>
+<l>Six sick bricks tick.</l>
+<l>Six sick chicks tock.</l>
+</stanza>
+<stanza>
+<l>Please, sir. I don't like this trick, sir.</l>
+<l>My tongue isn't quick or slick, sir.</l>
+<l>I get all those ticks and clocks, sir, </l>
+<l>mixed up with the chicks and tocks, sir.</l>
+<l>
+I can't do it, Mr.
+<char name="Fox in socks" type="major">fox</char>
+, sir.
+</l>
+</stanza>
+<stanza>
+<l>
+I'm so sorry, Mr.
+<char name="Knox">Knox</char>
+, sir.
+</l>
+</stanza>
+<stanza>
+<l>Here's an easy game to play.</l>
+<l>Here's an easy thing to say....</l>
+</stanza>
+<stanza>
+<l>New socks.</l>
+<l>Two socks.</l>
+<l>Whose socks?</l>
+<l>Sue's socks.</l>
+</stanza>
+<stanza>
+<l>Who sews whose socks?</l>
+<l>Sue sews Sue's socks.</l>
+</stanza>
+<stanza>
+<l>Who sees who sew whose new socks, sir?</l>
+<l>You see Sue sew Sue's new socks, sir.</l>
+</stanza>
+<stanza>
+<l>
+That's not easy, Mr.
+<char name="Fox in socks" type="major">fox</char>
+, sir.
+</l>
+</stanza>
+<stanza>
+<l>Who comes? ...</l>
+<l>Crow comes.</l>
+<l>Slow Joe Crow comes.</l>
+</stanza>
+<stanza>
+<l>Who sews crow's clothes?</l>
+<l>Sue sews crow's clothes.</l>
+<l>Slow Joe Crow sews whose clothes?</l>
+<l>Sue's clothes.</l>
+</stanza>
+<stanza>
+<l>
+Sue sews socks of
+<char name="Fox in socks" type="major">fox</char>
+in socks now.
+</l>
+</stanza>
+<stanza>
+<l>
+Slow Joe Crow sews
+<char name="Knox">Knox</char>
+in box now.
+</l>
+</stanza>
+<stanza>
+<l>Sue sews rose on Slow Joe Crow's clothes.</l>
+<l>
+<char name="Fox in socks" type="major">fox</char>
+sews hose on Slow Joe Crow's nose.
+</l>
+</stanza>
+<stanza>
+<l>Hose goes.</l>
+<l>Rose grows.</l>
+<l>Nose hose goes some.</l>
+<l>Crow's rose grows some.</l>
+</stanza>
+<stanza>
+<l>
+Mr.
+<char name="Fox in socks" type="major">fox</char>
+!
+</l>
+<l>I hate this game, sir.</l>
+<l>This game makes my tongue quite lame, sir.</l>
+</stanza>
+<stanza>
+<l>
+Mr.
+<char name="Knox">Knox</char>
+, sir, what a shame, sir.
+</l>
+</stanza>
+<stanza>
+<l>We'll find something new to do now.</l>
+<l>Here is lots of new blue goo now.</l>
+<l>New goo. Blue goo.</l>
+<l>Gooey. Gooey.</l>
+<l>Blue goo. New goo.</l>
+<l>Gluey. Gluey.</l>
+</stanza>
+<stanza>
+<l>Gooey goo for chewy chewing!</l>
+<l>That's what that Goo-Goose is doing.</l>
+<l>Do you choose to chew goo, too, sir?</l>
+<l>If, sir, you, sir, choose to chew, sir, </l>
+<l>with the Goo-Goose, chew, sir.</l>
+<l>Do, sir.</l>
+</stanza>
+<stanza>
+<l>
+Mr.
+<char name="Fox in socks" type="major">fox</char>
+, sir,
+</l>
+<l>I won't do it.</l>
+<l>I can't say.</l>
+<l>I won't chew it.</l>
+</stanza>
+<stanza>
+<l>Very well, sir.</l>
+<l>Step this way.</l>
+<l>We'll find another game to play.</l>
+</stanza>
+<stanza>
+<l>
+<char name="Bim">Bim</char>
+comes.
+</l>
+<l>
+<char name="Ben">Ben</char>
+comes.
+</l>
+<l>
+<char name="Bim">Bim</char>
+brings
+<char name="Ben">Ben</char>
+broom.
+</l>
+<l>
+<char name="Ben">Ben</char>
+brings
+<char name="Bim">Bim</char>
+broom.
+</l>
+</stanza>
+<stanza>
+<l>
+<char name="Ben">Ben</char>
+<char name="Ben">Ben</char>
+ds
+<char name="Bim">Bim</char>
+'s broom.
+</l>
+<l>
+<char name="Bim">Bim</char>
+<char name="Ben">Ben</char>
+ds
+<char name="Ben">Ben</char>
+'s broom.
+</l>
+<l>
+<char name="Bim">Bim</char>
+'s
+<char name="Ben">Ben</char>
+ds.
+</l>
+<l>
+<char name="Ben">Ben</char>
+'s
+<char name="Ben">Ben</char>
+ds.
+</l>
+<l>
+<char name="Ben">Ben</char>
+'s
+<char name="Ben">Ben</char>
+t broom breaks.
+</l>
+<l>
+<char name="Bim">Bim</char>
+'s
+<char name="Ben">Ben</char>
+t broom breaks.
+</l>
+</stanza>
+<stanza>
+<l>
+<char name="Ben">Ben</char>
+'s band.
+<char name="Bim">Bim</char>
+'s band.
+</l>
+<l>Big bands. Pig bands.</l>
+</stanza>
+<stanza>
+<l>
+<char name="Bim">Bim</char>
+and
+<char name="Ben">Ben</char>
+lead bands with brooms.
+</l>
+<l>
+<char name="Ben">Ben</char>
+'s band bangs and
+<char name="Bim">Bim</char>
+'s band booms.
+</l>
+</stanza>
+<stanza>
+<l>Pig band! Boom band!</l>
+<l>Big band! Broom band!</l>
+<l>My poor mouth can't say that. No, sir.</l>
+<l>My poor mouth is much too slow, sir.</l>
+</stanza>
+<stanza>
+<l>Well then... bring your mouth this way.</l>
+<l>I'll find it something it can say.</l>
+</stanza>
+<stanza>
+<l>Luke Luck likes lakes.</l>
+<l>Luke's duck likes lakes.</l>
+<l>Luke Luck licks lakes.</l>
+<l>Luck's duck licks lakes.</l>
+</stanza>
+<stanza>
+<l>Duck takes licks in lakes Luke Luck likes.</l>
+<l>Luke Luck takes licks in lakes duck likes.</l>
+</stanza>
+<stanza>
+<l>
+I can't blab such
+<mUp>blibber</mUp>
+blubber!
+</l>
+<l>My tongue isn't make of rubber.</l>
+</stanza>
+<stanza>
+<l>
+Mr.
+<char name="Knox">Knox</char>
+. Now come now. Come now.
+</l>
+<l>You don't have to be so dumb now....</l>
+</stanza>
+<stanza>
+<l>
+Try to say this, Mr.
+<char name="Knox">Knox</char>
+, please....
+</l>
+</stanza>
+<stanza>
+<l>Through three cheese trees three free fleas flew.</l>
+<l>While these fleas flew, freezy breeze blew.</l>
+<l>Freezy breeze made these three trees freeze.</l>
+<l>Freezy trees made these trees' cheese freeze.</l>
+<l>That's what made these three free fleas sneeze.</l>
+</stanza>
+<stanza>
+<l>Stop it! Stop it!</l>
+<l>That's enough, sir.</l>
+<l>I can't say such silly stuff, sir.</l>
+</stanza>
+<stanza>
+<l>
+Very well, then, Mr.
+<char name="Knox">Knox</char>
+, sir.
+</l>
+</stanza>
+<stanza>
+<l>Let's have a little talk about tweetle beetles....</l>
+</stanza>
+<stanza>
+<l>What do you know about tweetle beetles? Well...</l>
+</stanza>
+<stanza>
+<l>When tweetle beetles fight, </l>
+<l>it's called a tweetle beetle battle.</l>
+</stanza>
+<stanza>
+<l>And when they battle in a puddle, </l>
+<l>it's a tweetle beetle puddle battle.</l>
+</stanza>
+<stanza>
+<l>AND when tweetle beetles battle with paddles in a puddle, </l>
+<l>they call it a tweetle beetle puddle paddle battle.</l>
+</stanza>
+<stanza>
+<l>AND...</l>
+</stanza>
+<stanza>
+<l>When beetles battle beetles in a puddle paddle battle </l>
+<l>and the beetle battle puddle is a puddle in a bottle...</l>
+<l>...they call this a tweetle beetle bottle puddle paddle battle muddle.</l>
+</stanza>
+<stanza>
+<l>AND...</l>
+</stanza>
+<stanza>
+<l>When beetles fight these battles in a bottle with their paddles </l>
+<l>and the bottle's on a poodle and the poodle's eating noodles...</l>
+<l>...they call this a muddle puddle tweetle poodle beetle noodle </l>
+<l>bottle paddle battle.</l>
+</stanza>
+<stanza>
+<l>AND...</l>
+</stanza>
+<stanza>
+<l>
+Now wait a minute, Mr. socks
+<char name="Fox in socks" type="major">fox</char>
+!
+</l>
+</stanza>
+<stanza>
+<l>
+When a
+<char name="Fox in socks" type="major">fox</char>
+is in the bottle where the tweetle beetles battle
+</l>
+<l>with their paddles in a puddle on a noodle-eating poodle, </l>
+<l>THIS is what they call...</l>
+</stanza>
+<stanza>
+<l>...a tweetle beetle noodle poodle bottled paddled </l>
+<l>
+muddled duddled fuddled wuddled
+<char name="Fox in socks" type="major">fox</char>
+in socks, sir!
+</l>
+</stanza>
+<stanza>
+<l>
+<char name="Fox in socks" type="major">fox</char>
+in socks, our game is done, sir.
+</l>
+<l>Thank you for a lot of fun, sir</l>
+</stanza>
+</body>
+</book>

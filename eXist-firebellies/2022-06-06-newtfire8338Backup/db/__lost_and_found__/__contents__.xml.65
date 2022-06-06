@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/sao5303" version="1" owner="sao5303" group="dba" mode="775" created="2021-03-08T20:27:27.912Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="sortiz-svg_ex3_11-10-21.svg" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-11-10T19:26:15.785Z" modified="2021-11-10T19:26:15.785Z" filename="sortiz-svg_ex3_11-10-21.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="XqueryTest_SVG_Result.svg" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-04-07T03:30:38.268Z" modified="2021-04-07T03:30:38.268Z" filename="XqueryTest_SVG_Result.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SVG3attempt.svg" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-03-26T14:54:35.071Z" modified="2021-04-07T02:39:12.094Z" filename="SVG3attempt.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="acData.svg" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-03-22T06:02:12.849Z" modified="2021-03-22T06:02:12.849Z" filename="acData.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SVGex2attempt.svg" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-03-22T17:23:48.078Z" modified="2021-03-22T17:23:48.078Z" filename="SVGex2attempt.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Sortiz-Xpath5.html" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-10-15T13:40:02.799Z" modified="2021-10-15T13:40:02.799Z" filename="Sortiz-Xpath5.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sortiz-svg_ex2_11-05-21.svg" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-11-05T18:06:12.916Z" modified="2021-11-05T19:28:47.817Z" filename="sortiz-svg_ex2_11-05-21.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exist%204" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-03-14T20:12:00.41Z" modified="2021-03-14T20:12:14.089Z" filename="exist 4" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQueryTEST.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-04-06T13:01:39.608Z" modified="2021-04-07T02:41:25.36Z" filename="XQueryTEST.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exist%205" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-03-15T12:54:03.629Z" modified="2021-03-15T13:01:47.608Z" filename="exist 5" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KHtesting.svg" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-04-01T00:13:33.036Z" modified="2021-04-01T00:13:33.036Z" filename="KHtesting.svg" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQueryTEST_SVG.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-04-07T02:42:26.112Z" modified="2021-04-07T03:30:37.411Z" filename="XQueryTEST_SVG.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xpath_HW-3_10-11-2021.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-10-11T16:17:11.987Z" modified="2021-10-18T03:55:57.03Z" filename="Xpath_HW-3_10-11-2021.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xpath_HW-1_2021-fixed" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-10-19T01:49:43.837Z" modified="2021-10-19T01:49:43.837Z" filename="Xpath_HW-1_2021-fixed" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SvG3%20work.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-03-25T00:29:39.285Z" modified="2021-03-26T14:54:40.314Z" filename="SvG3 work.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xpath_HW-2-FIX_2021" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-10-19T02:18:51.17Z" modified="2021-10-19T03:43:28.569Z" filename="Xpath_HW-2-FIX_2021" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sortiz-Svg_2-11-21.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-11-05T08:39:38.244Z" modified="2021-11-10T20:21:48.661Z" filename="sortiz-Svg_2-11-21.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sortiz-svg_3_11-10-21.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-11-10T19:41:50.449Z" modified="2021-11-10T20:23:50.512Z" filename="sortiz-svg_3_11-10-21.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xpath_HW-2_2021" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-10-08T18:35:15.911Z" modified="2021-10-08T18:35:15.911Z" filename="Xpath_HW-2_2021" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xpath_HW-4_10-13-2021.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-10-13T10:29:27.254Z" modified="2021-10-13T18:48:13.58Z" filename="Xpath_HW-4_10-13-2021.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="NetAnEx1.tsv" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-03-26T16:28:34.574Z" modified="2021-03-29T15:18:07.156Z" filename="NetAnEx1.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="BluesHWToBeFixed.tsv" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-03-29T15:18:53.919Z" modified="2021-03-29T15:18:53.919Z" filename="BluesHWToBeFixed.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="NetAnEx2.xql" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-03-29T15:21:06.507Z" modified="2021-03-29T15:21:06.507Z" filename="NetAnEx2.xql" mimetype="text/text">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pythonHW_1_sampleTEXT.txt" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-04-11T17:19:55.92Z" modified="2021-04-11T17:19:55.92Z" filename="pythonHW_1_sampleTEXT.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="cytoscape-attempt-11-21.tsv" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-11-17T18:52:28.353Z" modified="2021-11-17T18:52:28.353Z" filename="cytoscape-attempt-11-21.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="NetAnEx1.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-03-29T15:20:50.915Z" modified="2021-04-04T23:57:38.264Z" filename="NetAnEx1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svgEX2work" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-03-22T17:25:26.74Z" modified="2021-03-22T17:56:39.337Z" filename="svgEX2work" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tsv-1-ATTEMPT_11-21.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-11-17T18:45:40.518Z" modified="2021-11-17T19:55:55.517Z" filename="tsv-1-ATTEMPT_11-21.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="cytoscape-attempt-2-11-21.tsv" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-11-17T19:55:57.406Z" modified="2021-11-17T19:55:57.406Z" filename="cytoscape-attempt-2-11-21.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pythonHW_1_sampleTEXT_temp.txt" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-04-11T17:23:45.144Z" modified="2021-04-12T17:48:04.759Z" filename="pythonHW_1_sampleTEXT_temp.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pythonHW_1_sampleTEXT_temp_ebb.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-04-12T17:48:16.531Z" modified="2021-04-12T17:48:16.531Z" filename="pythonHW_1_sampleTEXT_temp_ebb.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Grabs_kh-text_python.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-04-12T17:37:28.085Z" modified="2021-04-12T17:48:45.514Z" filename="Grabs_kh-text_python.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xpath_HW-3_10-11-2021" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-10-11T14:21:33.696Z" modified="2021-10-11T16:13:57.664Z" filename="Xpath_HW-3_10-11-2021" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Xpath_HW-5_10-13-2021.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-10-15T13:21:28.228Z" modified="2021-10-15T13:39:59.618Z" filename="Xpath_HW-5_10-13-2021.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pythonHW_1_ALLGAMES_TEXT_temp_ebb.txt" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-04-26T00:02:28.216Z" modified="2021-04-26T00:02:28.216Z" filename="pythonHW_1_ALLGAMES_TEXT_temp_ebb.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="attempt2_ALLGAMES_TEXT_temp_ebb.txt" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-04-26T18:32:42.844Z" modified="2021-04-26T18:32:42.844Z" filename="attempt2_ALLGAMES_TEXT_temp_ebb.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SvGex2FIX.xql" skip="no" owner="sao5303" group="sao5303" mode="644" created="2021-03-23T20:05:50.311Z" modified="2021-03-23T20:05:50.311Z" filename="SvGex2FIX.xql" mimetype="text/text">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="10-11-2021_HTML-inclass.xql" skip="no" owner="sao5303" group="sao5303" mode="755" created="2021-10-11T19:08:20.305Z" modified="2021-10-11T19:08:20.305Z" filename="10-11-2021_HTML-inclass.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="102"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>091d524b9aeb534658d4bf9b40cb5525be5eb79c</digestPassword><group name="tjh58"/><group name="dba"/><group name="starwars"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://axschema.org/namePerson">Thomas Hammer</metadata><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><name>tjh58</name></account>

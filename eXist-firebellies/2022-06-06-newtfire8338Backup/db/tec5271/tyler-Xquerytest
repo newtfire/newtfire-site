@@ -1,0 +1,51 @@
+xquery version "3.1";
+declare variable $ySpacer := 10;
+declare variable $xSpacer := 29.5;
+declare variable $ThisFileContent :=
+
+<svg width= "2000" height= "15000">
+<g transform="translate(30, 600)">
+
+{
+let $drafts := collection('/db/starwars/fixed/')
+(:  :return $drafts:)
+let $sortOrder := $drafts
+(: The $sortOrder variable looks for at the dates numeric values and puts them into ascending order. This means that the first one being listed is the oldest date and the last one is the most recent date.  :)
+for $s at $pos in $sortOrder
+(: for $d in $drafts
+let $date := $d//date/@date ! data()
+order by $date :)
+let $title := $s//title ! normalize-space()
+let $date := $s//date/@date ! data()
+let $spCount := $s//sp => count()
+let $spk := $s//sp/@spk ! normalize-space()=> distinct-values()
+let $spkCount := $s//sp/@spk ! normalize-space() => distinct-values()=> count()
+(: return concat($pos," Title " = $title " Date " = $date" spCount " = $spCount" spkCount = "$spkCount) :)
+return
+(: The $sortOrder variable looks for at the dates numeric values and puts them into ascending order. This means that the first one being listed is the oldest date and the last one is the most recent date.  :)
+<g>
+<line x1="{$pos * $xSpacer}" x2="{$pos * $xSpacer}" y1="0" y2="-{$spCount * $ySpacer}" stroke="orange" stroke-width="15"/>
+<line x1="{$pos * $xSpacer}" x2="{$pos * $xSpacer}" y1="0" y2="-{$spkCount * $ySpacer}" stroke="blue" stroke-width="5"/>
+<line x1="710" x2="700" y1="-400" y2="-400" stroke="orange" stroke-width="10"  />
+<line x1="710" x2="700" y1="-350" y2="-350" stroke="blue" stroke-width="10"  />
+<text x="720" y="-350">Speaker Count</text>
+<text x="720" y="-400">Speech Count</text>
+    <text x="{$pos * $xSpacer}" y="-{$spCount * $ySpacer}" fill="#2d6d86" font-size="14">{$spCount}</text>
+    <text x="{$pos * $xSpacer}" y="-{$spkCount * $ySpacer}" fill="#2d6d86" font-size="14">{$spkCount}</text>
+
+<line x1="5" x2="5" y1="-2000" y2="0" stroke="black" stroke-width="11"/>
+<line x1="0" x2="175" y1="0" y2="0" stroke="black" stroke-width="11"/>
+<text x="350" y="-400">SVG Exercise 2</text>
+<text x="-300" y="0" transform="rotate(90)" fill="white">Speaker and Speech Count</text>
+<text x="50" y="5"  fill="white">Story Number</text>
+<text x="25" y="25"  fill="black">1</text>
+<text x="55" y="25"  fill="black">2</text>
+<text x="85" y="25"  fill="black">3</text>
+<text x="105" y="25"  fill="black">4</text>
+<text x="135" y="25"  fill="black">5</text>
+</g>
+}
+</g>
+</svg>;
+
+$ThisFileContent

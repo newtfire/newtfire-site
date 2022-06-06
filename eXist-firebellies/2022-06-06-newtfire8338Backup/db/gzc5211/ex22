@@ -1,0 +1,12 @@
+xquery version "3.1";
+declare default element namespace "http://www.tei-c.org/ns/1.0";
+let $shakes := collection('/db/apps/shakespeare/data/')
+let $sCount :=$shakes//speaker=>count()
+let $sDv :=$shakes//speaker=>distinct-values()
+let $sDvCount :=$shakes//speaker=>distinct-values()=>count()
+for $s in $shakes
+
+let $sp := $s//speaker=>distinct-values()=>count()
+where $sp > 50
+let $title := $s//titleStmt/title
+return concat($sp, ': ', $title)

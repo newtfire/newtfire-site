@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eqt5165" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:33.3Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="xquery_hw_3.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:33.302Z" modified="2021-12-30T05:24:33.302Z" filename="xquery_hw_3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery_hw_4.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:33.379Z" modified="2021-12-30T05:24:33.379Z" filename="xquery_hw_4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exercise5.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:33.575Z" modified="2021-12-30T05:24:33.575Z" filename="exercise5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery-html-sample-1.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:33.644Z" modified="2021-12-30T05:24:33.644Z" filename="xquery-html-sample-1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

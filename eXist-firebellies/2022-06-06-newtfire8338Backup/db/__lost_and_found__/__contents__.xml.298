@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/jqs6375" version="1" owner="jqs6375" group="dba" mode="775" created="2021-03-12T03:58:01.901Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="XQUERY4" skip="no" owner="jqs6375" group="jqs6375" mode="755" created="2021-03-12T17:45:27.21Z" modified="2021-03-12T18:08:06.769Z" filename="XQUERY4" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery4-corrected-ebb.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-03-22T03:26:30.803Z" modified="2021-03-22T03:26:30.803Z" filename="xquery4-corrected-ebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG%20Xquery2" skip="no" owner="jqs6375" group="jqs6375" mode="755" created="2021-03-22T17:07:20.053Z" modified="2021-03-22T17:08:03.029Z" filename="SVG Xquery2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

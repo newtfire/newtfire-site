@@ -1,0 +1,14 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ajm7408" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:16:14.863Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="acData.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:17.478Z" modified="2021-12-30T05:16:17.478Z" filename="acData.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="xqueryTest.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:15.136Z" modified="2021-12-30T05:16:15.136Z" filename="xqueryTest.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FA2021_KH1.5_ExampleDistinct-Values.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:16:14.864Z" modified="2021-12-30T05:16:14.864Z" filename="FA2021_KH1.5_ExampleDistinct-Values.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="FA2021" filename="FA2021"/>
+    <subcollection name="SP2021" filename="SP2021"/>
+</collection>

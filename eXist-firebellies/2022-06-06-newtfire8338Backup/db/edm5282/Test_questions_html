@@ -1,0 +1,51 @@
+xquery version "3.1";
+declare variable $drafts := collection('/db/starwars/fixed/');
+declare variable $ThisFileContent :=
+<html>
+    <head>
+        <title>Star Wars Test</title>
+    </head>
+<body>
+    <h1>Information Gathered from the Star Wars Drafts Provided</h1>
+  
+     <h2>Dates</h2>
+  <ol> 
+   {  for $d in $drafts
+    let $date := $d//date/@date ! normalize-space()
+      return 
+       <li>{$date}</li>
+   }
+     </ol>
+
+
+  <h2>Titles</h2>
+  <ol> 
+   {  for $d in $drafts
+   let $title := $d//title ! normalize-space()
+    return
+        <li>{$title}</li>
+   }
+     </ol>
+
+ <h2>Speeches</h2>
+  <ol> 
+   { let $sp := $drafts//sp ! normalize-space() => count() => string() => distinct-values()
+    return
+        <li>{$sp}</li>
+   }
+     </ol>
+
+ <h2>Speakers</h2>
+  <ol> 
+   { let $spk := $drafts//sp/@spk ! string() => distinct-values() => count() => string() => distinct-values()
+    return
+        <li>{$spk}</li>
+   }
+     </ol>
+
+   
+</body>
+</html> ;
+$ThisFileContent
+
+

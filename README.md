@@ -1,2 +1,3 @@
 # newtFire-webDev
-for development of the newtFire website at http://newtfire.org
+This repository hosts code for the development of the newtFire website at 
+<https://newtfire.org>.

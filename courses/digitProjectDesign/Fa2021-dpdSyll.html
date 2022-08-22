@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Syllabus: Digital Project Design</title>
+      <meta name="Description" content="Supported by DIGIT at Penn State Erie, The Behrend College" />
+      <meta name="keywords" content="Digital Humanities, Syllabus, XML, TEI, XSLT, XQuery, Schematron, Relax NG, SVG, digital scholarship, digital edition, electronic edition, electronic text, humanities computing, electronic editing, Beshero-Bondar" />
+      <link rel="stylesheet" type="text/css" href="../syllsched.css" /><script type="text/javascript" src="../jumpingDateLinks.js">/**/</script></head>
+   <body>
+      <!--#include virtual="../top.html" -->
+      <h1><span class="banner">DIGIT 400: Digital Project Design</span></h1>
+      <div id="main">
+         <div id="courseInfo">
+            <p><strong>Fall 2021 Syllabus (Schedule)</strong>
+               Classes meet M W F 2:30 - 3:20pm in Kochel 77. Attend class wearing a face mask that covers your mouth and nose. 
+               (Until further notice, face masks are required inside all university buildings, regardless of vaccination status.) 
+               Remember: <em>Your mask protects me, my mask protects you</em>.
+               </p>
+            <h2>Read the <a href="index.html" target="_blank">Course Description</a></h2>
+            <p>This contains a detailed explanation of course policies and the basis for grades.</p>
+            <h2><a id="dateRef">Jump Down to the Schedule</a></h2>
+            <p>This link jumps to the closest day to today's date. Review the schedule as we get started to get a sense of how this course will work on a daily basis.</p>
+            <h2>All the Tools You Need As We Begin:</h2>
+            <p>Download and install the following software on your own personal computer(s) on or
+               before the first day of class. These software tools are available in our campus computing
+               labs, too.
+               </p>
+            <ol>
+               <li><a href="https://www.oxygenxml.com/xml_editor.html" target="_blank">&lt;oXygen/&gt;</a>. 
+                  The DIGIT program has purchased a site license for this software, which
+                  is installed in Kochel 77 and the Lilley Library computers. The license also permits
+                  students enrolled in the
+                  course to install the software on their home computers (for course-related use
+                  only). When installing this on your own computers, <strong>you will need the
+                     license key</strong>, which we have posted on our course Announcements section of
+                  <a href="https://canvas.psu.edu" target="_blank">Canvas</a>.</li>
+               <li>Zoom: <a href="https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version" target="_blank">Make sure your Zoom installation is up-to-date</a>, and you are ready to
+                  connect. (We will use Zoom when we need it for office meetings.) </li>
+                <li>We will use the Slack chat platform for discussion and for asking questions (see <a href="https://slack.com/help/articles/218080037-Getting-started-for-new-members">https://slack.com/help/articles/218080037-Getting-started-for-new-members</a>). 
+                    Download and install the Slack client, configuring your account to use use your Penn State email address (the official address, which looks like xyz123@psu.edu, 
+                    and not an alias based on your name that you may have set up), so you can join our Slack workspace: DIGIT-coders. 
+                    When you receive an invitation to join this workspace you should accept.</li>
+               <li>All students require a good means of secure file transfer (SFTP) for homework
+                  assignments and projects (also available in the campus computer labs). There are
+                  several good options available. We recommend you download and install on your own
+                  computers one (or more) of the following, depending on your platform: (Feel free
+                  to experiment with these and others!) 
+                  <ul>
+                     <li><strong>Windows users:</strong> one of the following FTP clients—the functionality is
+                        similar: 
+                        <ul>
+                           <li><a href="https://filezilla-project.org/download.php?show_all=1" target="_blank">FileZilla</a>
+                              (This is our favorite client because it behaves the same way across platforms.)
+                              </li>
+                           <li><a href="http://winscp.net/eng/download.php" target="_blank">WinSCP</a> (This is one we used for a long time, since the 1990s, but we now use SSH and Filezilla
+                              more frequently.)
+                              </li>
+                           <li><a href="http://www.wm.edu/offices/it/services/software/licensedsoftware/webeditingsftp/sshsecureshell/index.php" target="_blank">SSH Secure Shell Client</a></li>
+                           </ul>
+                        </li>
+                     <li><strong>Mac users:</strong><ul>
+                           <li><a href="https://filezilla-project.org/download.php?show_all=1" target="_blank">FileZilla</a>
+                              (This is our favorite client because it behaves the same way across platforms.)
+                              </li>
+                           <li>or <a href="http://fetchsoftworks.com/fetch/" target="_blank">Fetch</a> (students
+                              may obtain free licenses at <a href="http://fetchsoftworks.com/fetch/free" target="_blank">http://fetchsoftworks.com/fetch/free</a>)
+                              </li>
+                           </ul>
+                        </li>
+                     <li><strong>Linux users:</strong> You probably don’t need to install anything,
+                        but look at how your system handles secure file transfer (SFTP).
+                        <span class="smaller">(FileZilla or other clients designed for Linux
+                           environments.)</span></li>
+                     </ul>
+                  </li>
+               <li>Rusty with coding? Don’t remember anything from DIGIT 110 or 210? Don’t worry! Past students
+                  with very little coding background have designed projects (<a href="https://newtfire.org/courses/studentProjects.html" target="_blank">like these</a>) and even spoken about them at undergraduate conferences! 
+                  You will be getting lots of review in this course while learning new methods. Our goal, as ever, is for you to
+                  learn by building and designing. 
+                  </li>
+               </ol>
+            Class Web Resources:
+            <ul>
+               <li><a href="https://newtfire.org" target="_blank">newtFire:</a> Our project development site, where you will be publishing your projects. 
+                  </li>
+               <li><a href="https://github.com/newtfire/digitProjectDesign-Hub" target="_blank">digitProjectDesign-Hub:
+                     https://github.com/newtfire/digitProjectDesign-Hub</a> Class GitHub Repository and Issues Board
+                  </li>
+               <li><a href="http://canvas.psu.edu" target="_blank">Canvas:
+                     http://canvas.psu.edu</a> To submit homework assignments and exams, read private course announcements, access
+                  Zoom class meetings and video recordings. 
+                  </li>
+               <li><a href="explainFileNames.html" target="_blank">File Conventions for Canvas Homework Assignments</a></li>
+               <li><a href="https://newtfire.org/courses/tutorials/" target="_blank">Explanatory Guides and Exercises: Complete List</a></li>
+               </ul>
+            </div>
+      <div id="schedule">
+    <table><tr><th id="Week1">Week 1</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-08-23">
+            <td>
+                <h4>M 08-23</h4>
+            </td>
+            <td class="topic"><ul><li>Welcome back!</li>
+                     <li><a href="https://www.youtube.com/watch?v=Xe1TZaElTAs">Clay Shirky on Love, Internet Style</a> and <a
+                        href="https://scottfstudio.com/2014/06/20/ise-grand-shrine-linking-generations-through-construction/"
+                        >the Ise Shrine</a> (9 minutes) What does an ancient wooden shrine have to
+                     do with digital projects?</li>
+               <li>Introduction to the course.</li>
+               <li>First homework: XML from past project (due Wednesday!)</li></ul></td>
+            <td class="doBeforeClass">Respond to Dr. B's Poll (see Canvas / Penn State email).</td>
+        </tr>
+        <tr id="d2021-08-25">
+            <td>
+                <h4>W 08-25</h4>
+            </td>
+           <td class="topic"> <ul><li>Review XML structures, <strong>well-formedness</strong> vs. <strong>validity</strong>, elements, attributes, comments, escape characters (<code>&amp;amp;</code>, <code>&amp;lt;</code>, <code>&amp;gt;</code>) and <q>pretty-printing</q> in &lt;oXygen/&gt; (also, how did I make the escape characters appear on this syllabus page?).</li> 
+              <li>How file systems recognize XML documents (File extension, and XML declaration line). Also, what are <strong>namespaces</strong> and why are they important</li>
+              <li>Discuss XML / Project Code Review Exercise. Semester project concepts / parameters.</li>
+              <li>DH Coders Slack and <a href="https://github.com/newtfire/digitProjectDesign-Hub">digitProjectDesign-Hub</a></li>
+           </ul></td>
+            <td class="doBeforeClass"><ul><li>Install oXygen XML Editor and add our license key so we can
+                     all use this during our meeting today.</li>
+            <li><strong>XML / Project Code Review: Exercise 1</strong></li>
+            </ul> </td>
+        </tr>
+        <tr id="d2021-08-27">
+            <td>
+                <h4>F 08-27</h4>
+            </td>
+            <td class="topic">Project <q>stitchwork</q>: <code>@xml:id</code> and special pointer attributes: <ul><li> Introduce <a href="https://mapoflondon.uvic.ca/mdtEncyclopediaLocation_subcategories.htm">Map of Early Modern London, Placeography</a>,</li>
+                  <li><a href="../studentProjects.html">past student projects</a>:  <ul>
+                     <li><a href="http://toscana.newtfire.org">La Lega Toscana Protezione</a> and project <a href="https://github.com/zme1/toscana/blob/master/xml/meetingMinutes/volume1.xml">TEI XML</a></li>
+                     <li><a href="http://teentitans.newtfire.org/episode-issue/episode-1.html">Teen Titans</a></li>
+                     <li><a href="http://bloodborne.newtfire.org/">Bloodborne Lore</a></li></ul></li>
+               </ul> 
+            </td>
+            <td class="doBeforeClass"><strong>XML / Project Code Review: Exercise 2</strong></td>
+        </tr>
+    </table>
+    <table><tr><th id="Week2">Week 2</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-08-30">
+            <td>
+                <h4>M 08-30</h4>
+            </td>
+           <td class="topic"><ul>
+              <li><strong>Validity</strong> in XML and community standards. Schemas for validating XML.
+                  <ul>
+                      <li>Text Encoding Initiative: <a href="https://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/basic_encoding/basic_encoding_tutorial_00.xhtml">Overview of structures provided by the TEI</a>.</li>
+                      <li>How schema validation works with the TEI. (ODD to Relax NG)</li>
+                  </ul>
+              
+              </li>
+               <li>Writing your own Relax NG: <ul>
+                   <li>Start with <a href="https://raw.githubusercontent.com/newtfire/digitProjectDesign-Hub/master/Class-Examples/Relax-NG/apollo13/apollo13.xml">this XML file (transcript from Apollo 13 mission)</a></li> 
+                  <li>Look at <a href="https://github.com/newtfire/digitProjectDesign-Hub/tree/master/Class-Examples/Relax-NG/apollo13">whole directory (Apollo 13) on digitaProjectDesign-Hub</a>
+            </li></ul>  </li>
+            <li>Warming up GitHub again...</li>
+            </ul>
+            
+            </td>
+            <td class="doBeforeClass"><ul><li><strong>XML / Project Code Review: Exercise 3</strong>: 
+                Revise earlier code and add a new source document to your file (see Canvas for details).</li>
+      
+            </ul>
+            
+            </td>
+        </tr>
+        <tr id="d2021-09-01">
+            <td>
+                <h4>W 09-01</h4>
+            </td>
+            <td class="topic">Relax NG: how we think about it / organize it / document it.</td>
+            <td class="doBeforeClass">
+                <ul><li>(Learn/Review): Watch <a href="https://psu.mediaspace.kaltura.com/media/Coding+a+Schema+in+Relax+NG+Compact+Syntax/1_dwk3hl2k">my video on Relax NG and how to write it in oXygen</a></li>
+                    <li>(Learn/Review/Consult): Read <a
+                        href="../tutorials/explainRNG.html">Intro to Relax NG</a> and keep it open to consult while you work on Relax NG Exercise 1</li> 
+                    <li><strong>Relax NG / Code Review Exercise 1</strong>
+                        <ul><li>Make a folder to hold this homework, since it will contain two files. Save the folder using our homework filenaming conventions.</li>
+                            <li>Open <a href="https://raw.githubusercontent.com/newtfire/digitProjectDesign-Hub/master/Class-Examples/Relax-NG/ozyMeta/ozyMeta.xml">this ozyMeta.xml file</a> (open the link, and right-click to save on your computer with your homework, then open in oXygen).</li>
+                            <li>Open a new Relax-NG Compact syntax file in oXygen, and set your editor in tile view so you can see the ozyMeta.xml file next to your schema file. Delete the code in the Relax NG file so you have a blank slate to start with.</li>
+                            <li>Write a Relax NG Schema in Compact Syntax that models the content of this XML file as you study it. (Save the schema in the same directory with your XML file so you can easily find it.)</li>
+                            <li>Associate the schema with the XML file (in oXygen go to Document &gt; Schema &gt; Associate Schema, and browse to locate the schema. Click OK and note the new schema line at the top of your XML file.</li>
+                            <li>Zip (compress) the file directory holding your XML file and the Relax NG schema file, and submit this on Canvas at the upload point for this assignment. </li>
+                        </ul> 
+                    
+                    </li></ul></td>
+        </tr>
+        <tr id="d2021-09-03">
+            <td>
+                <h4>F 09-03</h4>
+            </td>
+            <td class="topic">Reviewing GitHub, Git Bash (Windows) and command line/terminal.</td>
+           <td class="doBeforeClass"><ul>
+               <li><strong>Repair your Relax NG Exercise 1 and resubmit</strong> if you did not achieve the <q>green square</q> of validation on your XML document, or if there were problems with your schema.</li>
+               <li><strong><a href="../tutorials/GitExercise1-dpd.html">git / GitHub Review Exercise 1</a></strong>: 
+               Request to become a collaborator with the class <a href="https://github.com/newtfire/digitProjectDesign-Hub">digitProjectDesign-Hub</a>.</li>
+               <li>If you don’t have Slack installed, install it and set up your profile using this <a href="https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users">Slack Guide for New Users</a> : 
+                   <strong>If you are not already a member</strong>, join the <a href="https://join.slack.com/t/digit-coders/shared_invite/zt-uo9rmfth-UYHmGHWiZ6uCAHoQ6v64LQ">DIGIT-Coders Slack</a> (link expires in 20 days), and set up your profile display name so the class can recognize you.</li>
+           </ul></td>
+        </tr>
+    </table>
+    <table><tr><th id="Week3">Week 3</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-09-06">
+            <td>
+                <h4>M 09-06</h4>
+            </td>
+           <td class="topic"><strong>Labor Day Holiday: No classes.</strong></td>
+            <td class="doBeforeClass">...</td>
+        </tr>
+        <tr id="d2021-09-08">
+            <td>
+                <h4>W 09-08</h4>
+            </td>
+            <td class="topic">
+               <ul>
+                  <li>Metaphors for coding: textiles, food? What are we making / serving / consuming?</li>
+                  <li>Textiles from customized, standard components: Text Encoding Initiatve (TEI) and how it's validated (ODD to Relax-NG XML)</li>
+                  <li>Mixed content: tossed soup or salad? Why attributes do not belong inside your mixed content plates.</li>
+                  <li>Datatypes and where we can apply them</li>
+               </ul>
+            </td>
+            <td class="doBeforeClass">
+               <ul>
+                   <li><strong>Git Exercise 2</strong> (reviewing git commands and git configuration): details on Canvas.</li>
+                  <li><strong>Project Milestone 1:</strong> (by 11:59pm today)
+                      <ul><li>This is an <strong>individual assignment</strong>: Each student posts an idea for the class to consider: a project to be managed within a team of 2-4 students.</li>
+                          <li>Post a proposal for the semester project by opening a new issue on the <a href="https://github.com/newtfire/digitProjectDesign-Hub/issues">digitProjectDesign-Hub</a>.
+                      Each new proposal should get its own issue so we can add comments and continue to elaborate on it in a connected way.</li>
+                          <li>Project proposals should involve XML markup and address a research question that we could study and visualize 
+                              more effectively with computers than with human reading and description alone.</li>
+                          <li>Good project proposals may:
+                              <ul>
+                                  <li>build substantially on a project you launched last year in a DIGIT class</li>
+                                  <li>build on a past project that no one working on any more (not necessarily yours)</li>
+                                  <li>or be a new project</li>
+                              </ul>
+                          </li>
+                          <li>Projects must involve XML with web publication and may also incorporate multimedia dimensions built by team-members.</li>
+                          <li>Please identify a resource which the team can work with to start XML markup. (Provide a link if you can.)</li>
+                          <li>For ideas and resources, see <a href="../studentProjects.html">past projects connected with newtfire.org</a> and our sibling course at the University of Pittsburgh Honors College on  <a href="http://dh.obdurodon.org/course-projects.xhtml">obdurodon.org</a>.</li>
+                      </ul>
+                  </li>
+            </ul>
+            </td>
+        </tr>
+        <tr id="d2021-09-10">
+            <td>
+                <h4>F 09-10</h4>
+            </td>
+           <td class="topic">Project Proposals: discussion. Ways to work with TEI. <!--Issue take-home <strong>Test 1: XML / Relax NG / Git/shell commands</strong>--> </td>
+            <td class="doBeforeClass"><ul><li><strong>Relax NG / Code Review Exercise 2</strong>
+                Write a Relax NG schema for one of the XML documents you created for the XML homework assignments. Make changes to the XML as necessary to meet the following conditions:
+                <ul><li>Your XML must contain more than one attribute.</li>
+                    <li>Some elements should feature more than one attribute.</li>
+                    <li>Your XML should include at least one empty (self-closing) element.</li>
+                    <li>Your XML must include mixed content.</li>
+                    <li>Your schema must define some content using <strong>more than one</strong> datatype.</li>
+                </ul>
+                Upload both your XML and your schema file in a zipped (compressed) directory on Canvas.
+                
+            </li></ul></td>
+        </tr>
+    </table>
+    <table><tr><th id="Week4">Week 4</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-09-13">
+            <td>
+                <h4>M 09-13</h4>
+            </td>
+            <td class="topic"><strong>Form project teams!</strong></td>
+            <td class="doBeforeClass"><ul><li><strong>Project Milestone 2</strong> Respond to at least two project proposals by other students. [Details TBA]</li></ul></td>
+        </tr>
+        <tr id="d2021-09-15">
+            <td>
+                <h4>W 09-15</h4>
+            </td>
+            <td class="topic">
+               <ul>
+                  <li>Project initiation time in class</li>
+               <li>Web presence: beyond GitHub Pages: getting started on newtfire.org</li>
+               </ul>
+            </td>
+           <td class="doBeforeClass">
+             <ul><!--<li> <strong>Test 1: XML / Relax NG / Git/shell commands</strong></li>-->
+              <li><strong>Project Milestone 3</strong>:<ul><li> One team-member launches the project GitHub repo and invites teammates and me to join 
+              (using Settings > Manage settings).</li>
+              <li>Post in the Issues board of your new project repo</li>
+              <li>Establish lines of communication and meeting times/places via Slack and GitHub.</li>
+           </ul>
+              </li></ul></td>
+        </tr>
+        <tr id="d2021-09-17">
+            <td>
+                <h4>F 09-17</h4>
+            </td>
+           <td class="topic">
+              <ul>
+              <li>Hands-on: Work with FileZilla (or other SFTP client) to connect to the Newtfire web server, and set up SSH key access.</li> 
+              
+              <li>What is <code>index.html</code> to a web server? Website addresses and file directories on a remote web server.  
+              </li>
+              <li>Workflow from GitHub to Website: How to customize SFTP (Filezilla) to work with your GitHub repo.</li>
+              
+           </ul>
+           </td>
+           <td class="doBeforeClass"><ul>
+              <li>Install FileZilla (or other SFTP client) if you have not
+                 done so already: we'll use it next class! Follow instructions posted on <a
+                    href="http://canvas.psu.edu">Canvas</a> for setting up SSH keys to access
+                 your personal webspace on Newtfire.</li>
+              <li>Follow our instructions on Canvas to set up SSH keys</li>
+              <li>Review our <a href="../tutorials/explainHTML.html">Introduction to HTML</a>.</li>
+              <li>Complete/post <strong>HTML/CSS Code Review Exercise 1</strong> and push to your GitHub repo and/or the team's GitHub repo in preparation for today's class.</li>
+             </ul>
+           </td>
+        </tr>
+    </table>
+    <table><tr><th id="Week5">Week 5</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-09-20">
+            <td>
+                <h4>M 09-20</h4>
+            </td>
+           <td class="topic"><ul><li>Review Absolute vs. relative links (and file associations).</li>
+              <li>Mindful file management: mirroring directory structures on GitHub and the web server</li>
+              <li>Apache Server Side Includes vs. Github Pages' Ruby Gems</li></ul></td>
+           <td class="doBeforeClass">Complete/push/SFTP <strong>HTML/CSS Exercise 2</strong> to both your GitHub repo and your newtfire web space </td>
+        </tr>
+        <tr id="d2021-09-22">
+            <td>
+                <h4>W 09-22</h4>
+            </td>
+           <td class="topic"><ul><li>Designing websites for navigation: creating standard (repeatable) components.</li>  
+              <li>When to create Server Side Includes for the project.</li>
+              <li>CSS Intensive! <strong><q>Separation of concerns</q></strong> and <strong><q>DRY</q></strong> (Don’t Repeat Yourself).  </li>
+           </ul> </td>
+            <td class="doBeforeClass">
+               <ul>
+                  <li><strong>Reading/discussion</strong>: <a href="https://adamwathan.me/css-utility-classes-and-separation-of-concerns/">CSS Utility Classes and <q>Separation of Concerns</q></a> </li>
+                  <li><strong>HTML / CSS Development Exercise 3 with Includes</strong></li>
+            </ul>
+            </td>
+        </tr>
+        <tr id="d2021-09-24">
+            <td>
+                <h4>F 09-24</h4>
+            </td>
+            <td class="topic">Information modeling with markup: Designing your project around a schema. 
+                Example: <a href="http://banksy.newtfire.org/">Banksy project</a>: analysis, timeline, map from single code source and schema.
+                <ul>
+                    <li><a href="https://github.com/alnopa9/Banksy/blob/master/XML/xml/paintings/barcode_print.xml">XML file in Banksy project</a></li>
+                    <li><a href="https://github.com/alnopa9/Banksy/blob/master/XML/2-banksy_schema.rnc">Relax NG Schema for Banksy project</a></li>
+                </ul>
+               </td>
+           <td class="doBeforeClass">Project work in prep for next milestone. </td>
+        </tr>
+    </table>
+    <table><tr><th id="Week6">Week 6</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-09-27">
+            <td>
+                <h4>M 09-27</h4>
+            </td>
+           <td class="topic"><strong>Relax NG Workshop for projects</strong>: In your project teams, review each other's Relax NG and think of how to refine and combine your ideas for the project.
+               Take notes on your decisions to post on your project repos in markdown. 
+           </td>
+           <td class="doBeforeClass"><strong>Relax NG Exercise 3</strong>
+               <ul><li>Find some information relevant to your project to model in XML for your project.</li>
+                   <li>Concentrate on keeping your information structure clear and easy to access in your XML. Choose element names and attributes to hold information you believe is important to the project.</li>
+                   <li>Decide on information that is not relevant.</li>
+                   <li>Design a Relax NG schema that validates the XML, and is also designed to validate other XML your team might create. </li>
+               
+               </ul>
+               
+               </td>
+        </tr>
+        <tr id="d2021-09-29">
+            <td>
+                <h4>W 09-29</h4>
+            </td>
+            <td class="topic">Project focus: Schema review, project research questions review. Agile project management.<!-- Slack chat and GitHub project management tools for improving communication, completing tasks.
+                Project web work. Project customizations and boilerplate with Server Side Includes (examples). Decide on project website directory names and URLs. 
+                Perspective on web development / production environments <ul>
+             <li>Domains / domain names, hosting, expenses. Cloud services.</li><li>GitHub Ruby Gems demonstration</li></ul>--></td>
+            <td class="doBeforeClass"><strong>Project Milestone 4a</strong>: Refine the previous homework exercise into an efficient, functional schema that could work for your project team. This is for a letter grade. Details on Canvas.
+    
+                
+               <!-- <strong>GitHub Pages / Ruby Gems exercise</strong> [TBD]--></td>
+        </tr>
+        <tr id="d2021-10-01">
+            <td>
+                <h4>F 10-01</h4>
+            </td>
+            <td class="topic"> CSS intensive! Designing for accessibility and variations in web browser displays. Designing (<q>wireframing</q>) page layouts. 
+                Designing for multiple kinds of devices (touchscreen, wide screen): Flex displays, grid layouts.
+                
+         
+               </td>
+            <td class="doBeforeClass"><strong>Project Milestone 4b</strong>: <ul><li>Back end: Schema / planning, aligning code structure to research questions.</li>
+                <li>Establish clear file directory structure on the project GitHub repo, including a distinct directory for website files.</li>
+                <li>Project Documentation: README.md files guiding organization of files in GitHub, documenting project structure</li>
+                <li>Front end: Web / CSS / interface work.</li></ul> 
+               <!--<ul><li><strong>HTML/CSS/SSI Test</strong> (demonstrate CSS separation of concerns, how server-side includes work) </li>
+              <li>GitHub Pages with Ruby Gems continued.</li></ul>--></td>
+        </tr>
+    </table>
+    <table><tr><th id="Week7">Week 7</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-10-04">
+            <td>
+                <h4>M 10-04</h4>
+            </td>
+           <td class="topic">Review XPath, introduce eXist-dB. Review of XPath sequences. 
+               Reaching elements and attributes across your project. Functions that work on sequences.
+         
+           </td>
+            <td class="doBeforeClass"><strong>Project Milestone 4c</strong>: Code new project XML files following the new project schema(s).
+
+               </td>
+        </tr>
+        <tr id="d2021-10-06">
+            <td>
+                <h4>W 10-06</h4>
+            </td>
+            <td class="topic">XPath, with XQuery: variables and FLWOR statements.
+               
+               
+               </td>
+            <td class="doBeforeClass"><strong><a href="../tutorials/XQueryExercise1-DPD.html">XPath/XQuery Exercise 1</a></strong> (working in newtfire eXist-dB).
+             </td>
+        </tr>
+        <tr id="d2021-10-08">
+            <td>
+                <h4>F 10-08</h4>
+            </td>
+            <td class="topic">XQuery FLWOR statements and XPath functions. Understanding <dfn>cardinality</dfn> of XPath functions, 
+                and how to use the simple map (<code>!</code>) vs. the arrow operator (<code>=></code>). Applying XQuery for-loops: Working <q>off the tree</q> with a sequence of distinct values,
+                finding out where each one is coded in a collection using a predicate expression: 
+                <pre>
+                    for $i in $distinct-sequence
+                    let $collectionFilter := $coll//item[child::something = $i]
+                    (: or :)
+                    let $collectionFilter := $coll//item[@something = $i]
+                    (: or :)
+                    let $collectionFilter := $coll//item[descendant::something = $i]
+                </pre>
+                <ul>
+                    <li><dfn>cardinality = 0 or 1</dfn>: XPath functions that work on one node at a time only.</li>
+                    <li><dfn>cardinality = more than 1</dfn>: XPath functions that work over sequences: <code>distinct-values()</code>, <code>count()</code>, and more.</li>
+                </ul>
+                
+               
+               </td>
+            <td class="doBeforeClass"><strong>XPath/XQuery Exercise 2</strong>
+                </td>
+        </tr>
+    </table>
+    <table><tr><th id="Week8">Week 8</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-10-11">
+            <td>
+                <h4>M 10-11</h4>
+            </td>
+            <td class="topic">Writing XQuery to output XML and HTML. HTML refresher. Saving output to eXist-dB.
+
+             </td>
+           <td class="doBeforeClass">
+               <strong>XPath/XQuery Exercise 3</strong></td>
+        </tr>
+        <tr id="d2021-10-13">
+            <td>
+                <h4>W 10-13</h4>
+            </td>
+            <td class="topic"> Strings and Regular Expressions in XPath/XQuery. Functions that work on strings. Regex review.
+                Resources for regex patterns. Regex crosswords and other regex fun. Most useful regex searches in projects?</td>
+           <td class="doBeforeClass"><strong>XPath/XQuery Exercise 4</strong></td>
+        </tr>
+        <tr id="d2021-10-15">
+            <td>
+                <h4>F 10-15</h4>
+            </td>
+            <td class="topic"> <ul><li>XPath refresher, with Schematron</li>
+                <li>Taking good care of your project code. Schematron: XPath-based code validation. Where and why your projects need it. </li>
+            </ul>
+            
+            </td>
+            <td class="doBeforeClass">
+                <ul><li><strong>XPath/XQuery Exercise 5</strong></li>
+                    <li><strong>Project Milestone 5a</strong>: XQuery and Web development for the project</li></ul>
+               
+              </td>
+        </tr>
+    </table>
+    <table><tr><th id="Week9">Week 9</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-10-18">
+            <td>
+                <h4>M 10-18</h4>
+            </td>
+            <td class="topic"><p>Intro to JavaScript, the DOM, and interaction (Part 1: We will return to JS later!)</p>
+                <p>  Web development with component parts. Static vs. dynamic content in projects. 
+                    <strong>Server-side</strong> or <strong>client-side</strong> interaction? 
+                    Timeline/comparison of technologies of interest:</p>
+                <ul><li>Server Side Includes</li> <li>PHP</li><li><q>Frameworks</q> (JS, Ruby, etc.)</li> <li>Saxon-JS</li></ul> 
+                
+                <!--Introducing/Reviewing Schematron: rule contexts and boolean tests. Writing clear messages to your team.--></td>
+            <td class="doBeforeClass"><strong>Project Milestone 5b</strong>: Reflection on project; prep for project Schematron
+               
+
+              </td>
+        </tr>
+        <tr id="d2021-10-20">
+            <td>
+                <h4>W 10-20</h4>
+            </td>
+            <td class="topic">Coordinating JavaScript with CSS on project HTML. Working with variables and <q>for loops</q> in JavaScript. 
+               
+
+               </td>
+            <td class="doBeforeClass"> <strong><a href="../tutorials/JavaScriptExercise1.html">JavaScript Exercise 1</a></strong></td>
+        </tr>
+        <tr id="d2021-10-22">
+            <td>
+                <h4>F 10-22</h4>
+            </td>
+            <td class="topic">More JavaScript applications for projects. PHP configuration with eXist-dB. 
+               
+             </td>
+            <td class="doBeforeClass"><strong><a href="../tutorials/JavaScriptExercise2.html">JavaScript Exercise 2</a></strong>: Configure some HTML with <code>@class</code> attributes to work with JS classList toggle
+               
+               </td>
+        </tr>
+    </table>
+    <table><tr><th id="Week10">Week 10</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-10-25">
+            <td>
+                <h4>M 10-25</h4>
+            </td>
+            <td class="topic"><a href="../tutorials/explainXQueryPHP.html">PHP Configuration for dynamic queries</a>: eXist-dB and newtfire site integration. JavaScript working with form options.
+                </td>
+            <td class="doBeforeClass"><strong>Project Milestone 6</strong> More web development for project site. 
+               </td>
+        </tr>
+        <tr id="d2021-10-27">
+            <td>
+                <h4>W 10-27</h4>
+            </td>
+           <td class="topic">
+             PHP, XQuery, JavaScript.
+            
+           </td>
+           <td class="doBeforeClass"><strong>XQuery-PHP Exercise 1</strong>: With PHP configured on your newtfire website, write an XQuery script to populate a portion of a PHP file that you create. 
+               
+               <!--<ul><li><strong>Network Analysis Exercise 1</strong>: pull data to make a TSV</li>
+              
+              <li>Read and post response to the following projects working with Topic Modeling:
+              <ul>
+                 <li><a href="http://milton.obdurodon.org/milton-svg-sample.xhtml">Milton student topic modeling project</a></li>
+                 <li>Read <a href="http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/">Lisa M. Rhody’s <q>Topic Modeling and Figurative Language</q></a></li>
+                 <li>Nate McDowell’s <a href="https://github.com/nmcdowell00/MALLET_tutorial/blob/master/FirstSteps.md">tutorial on how to try out MALLET on your XML-based project</a></li>
+           </ul>
+              </li></ul>-->
+           </td>
+        </tr>
+        <tr id="d2021-10-29">
+            <td>
+                <h4>F 10-29</h4>
+            </td>
+           <td class="topic">XQuery, PHP, JavaScript continued. Project consultation and review in class.</td>
+           <td class="doBeforeClass"><strong>XQuery-PHP Exercise 1</strong> (due date extended for debugging!)</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week11">Week 11</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-11-01">
+            <td>
+                <h4>M 11-01</h4>
+            </td>
+            <td class="topic">Intro / Review of SVG: XML that makes graphics <ul>
+                <li><a href="https://www.slideshare.net/ebbondar/svg-81556046">Introductory slideshow</a></li>
+                <li>Play with <a href="https://www.w3schools.com/graphics/svg_intro.asp">w3schools SVG Tutorial</a></li>
+            </ul></td>
+            <td class="doBeforeClass">Complete <strong>XQuery-PHP Exercise 2</strong>: design and work out interactive interfaces for your project.
+                
+                <!--<strong>Network Analysis project work</strong>: styling / outputting SVG. Interactive outputs--></td>
+        </tr>
+        <tr id="d2021-11-03">
+            <td>
+                <h4>W 11-03</h4>
+            </td>
+            <td class="topic">XQuery to SVG: Pulling data for visualizing. Hands-on workshop.
+              </td>
+            <td class="doBeforeClass"><ul><li><ul>
+                <li>Work through <a href="https://www.w3schools.com/graphics/svg_intro.asp"
+                    target="_blank">the w3schools SVG tutorial</a> to complete the SVG
+                    basic and SVG shapes pages. Filters, gradients, examples, and reference
+                    are optional.</li>
+                <li><strong><a href="../tutorials/SVGExercise1.html" target="_blank">SVG Exercise 1</a></strong></li>
+            </ul>
+                </li>
+                
+               <li> <strong>Project Milestone 6</strong>: 
+            <ul>
+                <li>Project team works together to determine an interface for the project that optimizes searching and finding information, redirecting to related information, images, etc.</li>
+            <li>New code: team works out bugs in the code, completes more/revises XML markup as needed for the project</li>
+                <li>Images: compile and coordinate images that are useful to connect with your data in the project and for the website</li>
+                <li>The team works out some new CSS styling and JavaScript to complement interactivity on the site.</li>
+            </ul></li></ul>
+            </td>
+        </tr>
+        <tr id="d2021-11-05">
+            <td>
+                <h4>F 11-05</h4>
+            </td>
+            <td class="topic">SVG from XQuery, and delivering outputs to the website. Namespace issues!
+             </td>
+           
+            <td class="doBeforeClass"><ul>
+                <li><strong><a href="../tutorials/SVGExercise2_CDV_Banksy.html">
+                    SVG Exercise 2 (from XQuery)</a></strong>: Plot a clear, simple, legible,
+                    labelled infographic. </li>
+            </ul>
+           </td>
+        </tr>
+    </table>
+    <table><tr><th id="Week12">Week 12</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-11-08">
+            <td>
+                <h4>M 11-08</h4>
+            </td>
+            <td class="topic">Guest lecture by Dr. David J. Birnbaum (University of Pittsburgh) on innovative approaches to SVG visualizations from XML projects.
+               
+           </td>
+            <td class="doBeforeClass">work on XQuery to SVG for projects
+
+           </td>
+        </tr>
+        <tr id="d2021-11-10">
+            <td>
+                <h4>W 11-10</h4>
+            </td>
+           <td class="topic">XQuery to SVG: Experiments: stacked bar, radar?</td>
+            <td class="doBeforeClass">Watch <a href="https://psu.mediaspace.kaltura.com/media/SVG+Gridlines+from+XQuery/1_k6bwnfm8">my recorded video on XQuery to SVG to make hashlines</a> 
+                to help with <strong><a href="../tutorials/SVGExercise3_XQ.html">SVG Exercise 3 (from XQuery)</a></strong>.
+           </td>
+        </tr>
+        <tr id="d2021-11-12">
+            <td>
+                <h4>F 11-12</h4>
+            </td>
+           <td class="topic">JavaScript with SVG! JavaScript, HTML, and CSS working together on a page.
+              </td>
+            <td class="doBeforeClass"><strong>Project Milestone 6</strong>: Interactive dimensions of the project
+            <ul>
+                <li>Project team works together to determine an interface for the project that optimizes searching and finding information, redirecting to related information, images, etc.</li>
+                <li>New code: team works out bugs in the code, completes more/revises XML markup as needed for the project</li>
+                <li>Images: compile and coordinate some images that are useful to connect with your data in the project and for the website</li>
+                <li>The team works out some new CSS styling and JavaScript to complement interactivity on the site.</li>
+                
+            </ul>
+            </td>
+    
+        </tr>
+    </table>
+    <table><tr><th id="Week13">Week 13</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-11-15">
+            <td>
+                <h4>M 11-15</h4>
+            </td>
+           <td class="topic">Network Analysis: Introduction / Review: <ul><li>Thinking about your project data as a network of relationships.</li>
+               <li>Data format preparation for working with Cytoscape network analysis software</li>
+           <li>Reaching into projects for network data: <q>nodes</q> and <q>edges</q></li>
+           </ul>
+               
+               <!--Introduction (or review) of XSLT and Declarative Programming-->
+              
+           </td>
+           <td class="doBeforeClass"><strong>Catch up on assignments / milestone work.</strong> <!--Read <a href="https://newtfire.org/courses/tutorials/explainXSLT.html">Introduction to XSLT</a>, and watch one (or both) of the following orientation videos on how to set up oXygen to write XSLT: <ul>
+              <li><a href="https://psu.mediaspace.kaltura.com/media/Configuring+oXygen+to+write+and+run+XSLT+3.0+%28Mac+version%29/1_mw78kkuz">orientation video (version for Mac)</a></li>
+              <li><a href="https://psu.mediaspace.kaltura.com/media/Configuring+oXygen+to+write+and+run+XSLT+3.0+/1_hzpeibnb">orientation video (version for Windows)</a></li></ul>-->
+              
+             </td>
+        </tr>
+        <tr id="d2021-11-17">
+            <td>
+                <h4>W 11-17</h4>
+            </td>
+           <td class="topic">Working with Network data in Cytoscape. <!--XSLT to transform XML to HTML: Reading one tree to create another. <q>Push processing</q>: efficiently outputting richly mixed content.--></td>
+           <td class="doBeforeClass"><strong>Network Analysis Exercise 1</strong>: Output network data from your project
+               <!--<strong>XSLT Exercise 1</strong>: An Identity Transformation--></td>
+        </tr>
+        <tr id="d2021-11-19">
+            <td>
+                <h4>F 11-19</h4>
+            </td>
+           <td class="topic"><!--<ul><li>XSLT: Modal XSLT: processing the same XML nodes for a table of contents and a reading view</li>
+              <li>Introduce <code>xsl:sort</code> and internal linking in HTML. XML to HTML with CSS. Apply to projects</li>
+           </ul> --></td>
+           <td class="doBeforeClass"><ul>
+               <li><strong>Network Analysis Exercise 2</strong>: processing the network data in Cytoscape; exporting it. </li>
+               <!--<li><strong><strong>XSLT Exercise 2</strong>: outputting a reading view (with CSS)</strong></li>-->
+        
+           </ul></td>
+        </tr>
+    </table>
+         <table>
+            <tr>
+               <th id="thanksgiving"></th>
+               <th><!--<span class="h4"><em>Class topics</em></span>--></th>
+               <th><!--<span class="h4"><em>Do before class</em></span>--></th>
+            </tr>
+            <tr id="d2021-11-22">
+               <td>
+                  <h4>M 11-22 - F 11-26</h4>
+               </td>
+               <td class="topic"><strong>Thanksgiving Holiday</strong></td>
+               <td class="doBeforeClass">Have a peaceful and productive week!</td>
+            </tr>
+         </table>
+    <table><tr><th id="Week14">Week 14</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-11-29">
+            <td>
+                <h4>M 11-29</h4>
+            </td>
+           <td class="topic">Network Analysis Revisited: Fine-tuning networks; embedding interactive network graphs.<!--<ul><li>Review XSLT exercises / Project work with XSLT</li>
+              <li>Introducing Last Unit: Search Query Interfaces / dynamic querying <span class="smaller">Approach TBD: XForms | Saxon-JS | XQuery - PHP</span></li>
+           </ul>--> </td>
+            <td class="doBeforeClass">Work toward last project milestones: Embedding SVG and Network Graphs on websites.
+               
+               <strong>Network Analysis Exercise 3</strong>: continuing to process network analysis data; preparing filtered exports.
+               <!--<strong>XSLT Exercise 3</strong>: Output a sorted table of contents with a reading view in one XSLT (with CSS)-->
+     </td>
+        </tr>
+        <tr id="d2021-12-01">
+            <td>
+                <h4>W 12-01</h4>
+            </td>
+           <td class="topic">Project HTML and CSS: Site design work
+              
+             </td>
+            <td class="doBeforeClass">Work toward last project milestones.</td>
+        </tr>
+        <tr id="d2021-12-03">
+            <td>
+                <h4>F 12-03</h4>
+            </td>
+           <td class="topic">Designing websites for user interaction. Revisiting web acccessibility.</td>
+           <td class="doBeforeClass"><strong>Project Milestone 7</strong>: Embedding visualizations on site
+               <ul>
+                   <li>Goal: XML markup is complete.</li>
+                   <li>Active processing of project data is underway with XQuery / XSLT / Graphing / Mapping / Networking etc.</li>
+                   <li>Images / multimedia work is mostly prepared for site (as relevant)</li>
+                   <li>Check <a class="inline_disabled" href="../tutorials/projectGuide.html" target="_blank" rel="noopener">Project Completion Guidelines</a> for guidance on improving the project website, updating its organization and navigation.</li>
+                   <li>Other goals specific each team</li>
+               </ul>
+           
+           </td>
+        </tr>
+    </table>
+    <table><tr><th id="Week15">Week 15</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2021-12-06">
+            <td>
+                <h4>M 12-06</h4>
+            </td>
+           <td class="topic">Catch-up day. Project work / consultation in class</td>
+           <td class="doBeforeClass">Debug search query interfaces / Prepare for Project Milestone 8 (presentations)</td>
+        </tr>
+        <tr id="d2021-12-08">
+            <td>
+                <h4>W 12-08</h4>
+            </td>
+            <td class="topic">Project work / consultation in class</td>
+            <td class="doBeforeClass">Prepare for Project Milestone 8 (presentations)</td>
+        </tr>
+        <tr id="d2021-12-10">
+            <td>
+                <h4>F 12-10</h4>
+            </td>
+            <td class="topic">Last Day of Classes: <strong>Project Milestone 8</strong>: FA 21 DIGIT Works Presentations</td>
+           <td class="doBeforeClass">Prepare to share your project (nearing completion) with the class</td>
+        </tr>
+    </table>
+         <table>
+            <tr>
+               <th id="finals">Finals Week: (December 13-17)</th>
+               <th><span class="h4"><em>Do before class</em></span></th>
+            </tr>
+            <tr id="d2021-12-13">
+               <td>
+                  <h4>H 12-16</h4>
+               </td>
+               <td class="doBeforeClass"><p><strong>Semester projects due by 11:59pm.</strong></p>
+                  <p>Finish developing projects, and send a post to me on GitHub and Canvas to indicate your team is finished.</p>
+               </td>
+            </tr>
+         </table>
+</div>
+         </div>
+      <hr />
+      </body>
+   </html>

@@ -62,14 +62,12 @@
       <p>CSS statements take this basic form, with a <span class="red">selector</span> followed a
          statement in curly braces <span class="code">{ }</span> containing a <span class="purple"
             >property</span>, and a <span class="green">value</span>: </p>
-      <div class="code">
-         <span class="red">body</span> { <br />
-         <span class="purple">background-color:</span>
-         <span class="green">#CC9966</span>;<br />
-         <span class="purple">color:</span>
-         <span class="green">#70003D</span>;<br />
-         <span class="purple">font-family:</span>
-         <span class="green">arial, helvetica, sans-serif</span>;<br /> } </div>
+      <pre>
+         <span class="red">body</span> { 
+               <span class="purple">background-color:</span><span class="green">#CC9966</span>;
+               <span class="purple">color:</span><span class="green">#70003D</span>;
+               <span class="purple">font-family:</span><span class="green">arial, helvetica, sans-serif</span>;
+            } </pre>
       <p>Notice how each property and value expression is separated by a mandatory semicolon (
             <strong>;</strong> )! You don't have to stack the curly braces as we did, but it's
          conventional to do that because it makes it easy to add new properties and values line by
@@ -106,9 +104,12 @@
          handy rule, we specify that the contents of this element be surrounded by typographic
          (curly) quotation marks so we do not have to find the special characters for those in
          writing the HTML: </p>
-      <div class="code"> title<span class="red">[type = "poem"]</span>: before {<br /> content :
-         "“";<br /> }<br /> title<span class="red">[type = "poem"]</span>: after {<br /> content :
-         "”";<br /> } </div>
+      <pre> title<span class="red">[type = "poem"]</span>: before {
+                  content: "“";
+                            }
+            title<span class="red">[type = "poem"]</span>: after {
+                  content : "”";
+                       } </pre>
       <p>This is an unusual statement for another reason: We can specify what we want to appear
             <span class="code">before</span> and <span class="code">after</span> an element, using
          the syntax we’ve modelled here. </p>

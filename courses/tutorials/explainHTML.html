@@ -61,7 +61,7 @@
          the World Wide Web. </p>
       <h3>Basic Requirements of XHTML</h3>
       <p><strong>Valid XHTML syntax</strong> requires the following basic structure, beginning
-         with a <span class="code">&lt;!DOCTYPE&gt;</span> declaration: </p>
+         with a <code>&lt;!DOCTYPE&gt;</code> declaration: </p>
       <div class="code"> &lt;!DOCTYPE html&gt;<br /> &lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;<br />
          <span class="indent">&lt;head&gt;</span><br />
          <span class="indentMore">&lt;title&gt;A Title Here&lt;/title&gt;</span><br />
@@ -71,15 +71,14 @@
       </div>
       <p><strong>Note:</strong> We will make some modifications to this in the next section to adapt
          it to newtFire’s server environment.</p>
-      <p>The <span class="code">&lt;!DOCTYPE&gt;</span> and namespace declarations tell the web
+      <p>The <code>&lt;!DOCTYPE&gt;</code> and namespace declarations tell the web
          browser what version of HTML you’re working with. &lt;oXygen/&gt; inserts this declaration
          for us when we choose it from the “Framework Template” list: To open a new (X)HTML file with
          the current doctype and namespace declarations in &lt;oXygen/&gt;, open a new file (under <strong>File
             → New ), and enter HTML in the search bar. This will open an HTML document that follows our XHTML syntax rules.</strong>
       </p>
-      <p>You’ll recognize our root element, which is always <span class="code">&lt;html&gt;</span>
-         and must always indicate an XML name space as an attribute: the <span class="code"
-            >xmlns="http://www.w3.org/1999/xhtml"</span> part. Literally, this points from your root
+      <p>You’ll recognize our root element, which is always <code>&lt;html&gt;</code>
+         and must always indicate an XML name space as an attribute: the <code>xmlns="http://www.w3.org/1999/xhtml"</code> part. Literally, this points from your root
          &lt;html&gt; element to the published standards set by the W3 consortium for XHTML. <span
             class="smaller">Note: &lt;oXygen/&gt; comes with up-to-date W3 schemas to validate that
             the code you’re writing is good, strict XHTML, but if you weren’t working in
@@ -87,11 +86,9 @@
             valid, you can always use the <a href="http://validator.w3.org/">W3C Markup Validation
                Service</a>.</span>
       </p>
-      <p>The <span class="code">head</span> element is always required and must contain a <span
-            class="code">title</span> element, but note that this does not display on the browser
+      <p>The <code>head</code> element is always required and must contain a <code>title</code> element, but note that this does not display on the browser
          page (though it often appears in the tabs above the browser window). <strong>The part of
-            your web page that displays in the browser is coded within the <span class="code"
-               >body</span> element.</strong>
+            your web page that displays in the browser is coded within the <code>body</code> element.</strong>
       </p>
       <p>You really don’t need many elements to build a website, so we are introducing a simple
          selection that we find ourselves always using in our pages (including the course pages
@@ -115,8 +112,8 @@
          &lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
             &lt;head&gt; 
                &lt;title&gt;Your page title here &lt;!--to appear in the browser tab, but not on the page--&gt; &lt;/title&gt;
-               <span class="code">
-               &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;</span>
+               <code>
+               &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;</code>
                &lt;link rel="stylesheet" type="text/css" href="explain.css"/&gt;  
            &lt;/head&gt; 
            &lt;body&gt; &lt;!--Code the viewable part of your site here.--&gt;
@@ -133,17 +130,14 @@
       <h4>Headings</h4>
       <p>Heading elements are for title and section headings throughout your page. HTML defines six
          levels of headings, with the idea that the first level is usually the largest and
-         strongest, and others get smaller and smaller. The heading tags are: <span class="code"
-            >&lt;h1&gt;</span>, <span class="code">&lt;h2&gt;</span>, <span class="code"
-            >&lt;h3&gt;</span>, <span class="code">&lt;h4&gt;</span>, <span class="code"
-            >&lt;h5&gt;</span>, and <span class="code">&lt;h6&gt;</span>. The idea is to use these
-         in order, so that you typically only use <span class="code">&lt;h1&gt;</span> once to give
-         the title of the whole page, and then use <span class="code">&lt;h2&gt;</span> for major
-         sections and <span class="code">&lt;h3&gt;</span> for subsections (etc.) Have a look at <a
+         strongest, and others get smaller and smaller. The heading tags are: <code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code>, <code>&lt;h3&gt;</code>, <code>&lt;h4&gt;</code>, <code>&lt;h5&gt;</code>, and <code>&lt;h6&gt;</code>. The idea is to use these
+         in order, so that you typically only use <code>&lt;h1&gt;</code> once to give
+         the title of the whole page, and then use <code>&lt;h2&gt;</code> for major
+         sections and <code>&lt;h3&gt;</code> for subsections (etc.) Have a look at <a
             href="http://www.w3schools.com/html/tryit.asp?filename=tryhtml_headings">this visual
             example from w3schools</a> to see how these six elements typically display in a browser. </p>
       <h4>Paragraphs</h4>
-      <p>Body paragraphs are simply coded with <span class="code">&lt;p&gt;</span> elements. See <a
+      <p>Body paragraphs are simply coded with <code>&lt;p&gt;</code> elements. See <a
             href="http://www.w3schools.com/html/tryit.asp?filename=tryhtml_paragraphs1">w3schools
             visual example</a> of code and browser display. </p>
       <h4>Lists</h4>
@@ -152,7 +146,7 @@
          level part): The wrapper element is either &lt;ol&gt; for an “ordered” (or numbered) list,
          or &lt;ul&gt; for an “unordered” or bulleted list. (Whether your list is numbered or
          bulleted depends entirely on the wrapper element.) Inside that single wrapper we have
-         multiple “items” coded with <span class="code">&lt;li&gt;</span> elements (for “list
+         multiple “items” coded with <code>&lt;li&gt;</code> elements (for “list
          item”). Here’s a sample of coding for an unordered list, followed by an example of its
          visual display in the browser: </p>
       <div class="code"> &lt;ul&gt;<br />
@@ -190,29 +184,27 @@
       <p>Tables are a little more complicated: These are made with three nested elements:</p>
       <ol>
 
-         <li><span class="code">&lt;table&gt;</span>: This is the “wrapper” block-level element on
+         <li><code>&lt;table&gt;</code>: This is the “wrapper” block-level element on
             the outside that defines the table. We can place an attribute called "border" on table
-            to outline it and each of its internal cells: <span class="code">&lt;table
-               border="1"&gt;</span>
+            to outline it and each of its internal cells: <code>&lt;table
+               border="1"&gt;</code>
          </li>
 
-         <li><span class="code">&lt;tr&gt;</span>: Table row elements which define each horizontal
+         <li><code>&lt;tr&gt;</code>: Table row elements which define each horizontal
             row of a table. </li>
 
-         <li><span class="code">&lt;td&gt;</span> or <span class="code">&lt;th&gt;</span>: Inside
+         <li><code>&lt;td&gt;</code> or <code>&lt;th&gt;</code>: Inside
             each table row are individual table cells (called “td” for “table data”). You can
-            designate “heading” cells, which is styled with a little more emphasis, using <span
-               class="code">&lt;th&gt;</span> (or “table header” cell). </li>
+            designate “heading” cells, which is styled with a little more emphasis, using <code>&lt;th&gt;</code> (or “table header” cell). </li>
 
       </ol>
       <p>This may seem odd, but there isn’t an element for wrapping columns in a table. Instead,
-         columns are created by stacking the individual <span class="code">td</span> cells inside
-         their <span class="code">tr</span> rows. If a table row has five cells inside, you have a
+         columns are created by stacking the individual <code>td</code> cells inside
+         their <code>tr</code> rows. If a table row has five cells inside, you have a
          table with five columns. </p>
       <p>Here is a sample of code for an HTML table, outlined with a border, and containing three
-         rows and three columns. In the first row, we’ve designated the table cells to be ( <span
-            class="code">th</span> ) for headings, followed by a couple of rows containing ordinary
-            <span class="code">td</span> cells. </p>
+         rows and three columns. In the first row, we’ve designated the table cells to be ( <code>th</code> ) for headings, followed by a couple of rows containing ordinary
+            <code>td</code> cells. </p>
       <div class="code"> &lt;table border="1"&gt;<br />
          <span class="indent">&lt;tr&gt;</span><br />
          <span class="indentMore">&lt;th&gt;Row 1, left column (heading cell)&lt;/th&gt;</span><br />
@@ -273,22 +265,19 @@
          file in the browser. We use the following in-line elements most frequently in our work: </p>
       <ul>
 
-         <li><strong>Bolding:</strong> Two choices: <span class="code">&lt;b&gt;</span> or <span
-               class="code">&lt;strong&gt;</span>. One of these simply indicates bold, while the
+         <li><strong>Bolding:</strong> Two choices: <code>&lt;b&gt;</code> or <code>&lt;strong&gt;</code>. One of these simply indicates bold, while the
             other is an example of a <strong>semantic</strong> element, which we like to use when we
             want to convey emphasis. </li>
 
-         <li><b><em>Italics:</em></b> Again, two choices (with similar significance): <span
-               class="code">&lt;i&gt;</span> or <span class="code">&lt;em&gt;</span>. The semantic
-            element here is <span class="code">&lt;em&gt;</span>, again to indicate real
-               <em>emphasis</em>. We use the <span class="code">&lt;i&gt;</span> element for titles
+         <li><b><em>Italics:</em></b> Again, two choices (with similar significance): <code>&lt;i&gt;</code> or <code>&lt;em&gt;</code>. The semantic
+            element here is <code>&lt;em&gt;</code>, again to indicate real
+               <em>emphasis</em>. We use the <code>&lt;i&gt;</code> element for titles
             of books, movies, etc, where we would typically italicize a title, as in Mary Shelley’s
             novel, <i>Frankenstein</i>. The output is really the same, but the underlying code can
             carry some meaning behind the presentational display. </li>
 
-         <li><b>Links:</b> Use the “anchor” element <span class="code">&lt;a&gt;</span> to wrap text
-            to make a clickable link, and define the target of the link with the <span class="code"
-               >@href</span> attribute, like this (code view followed by browser display):<br /><br />
+         <li><b>Links:</b> Use the “anchor” element <code>&lt;a&gt;</code> to wrap text
+            to make a clickable link, and define the target of the link with the <code>@href</code> attribute, like this (code view followed by browser display):<br /><br />
             <div class="code"> &lt;p&gt;Here’s some text inside a paragraph with an &lt;a
                href="http://greensburg.pitt.edu"&gt;absolute link to Pitt-Greensburg’s
                homepage&lt;/a&gt;. And then some more text.&lt;/p&gt; </div>
@@ -299,15 +288,14 @@
          </li>
 
          <li><b>Images:</b>
-            <span class="code">&lt;img/&gt;</span> with its required <span class="code">@src</span>
-            and <span class="code">@alt</span> attributes. Image elements are distinct from other
+            <code>&lt;img/&gt;</code> with its required <code>@src</code>
+            and <code>@alt</code> attributes. Image elements are distinct from other
             in-line elements because they are <strong>empty</strong> (or self-closing) elements:
             they contain only attribute content, not textual content. <div class="code"> &lt;img
                src="sandbox.jpg" alt="image of a sandbox"/&gt; </div>
             <p>To make an image display in your web page is a little like coding a link: You have to
-               point to a target using the <span class="code">@src</span> attribute and set its
-               value to indicate a separate image file, and you have to set the <span class="code"
-                  >@alt</span> attribute to some text that serves as a stand-in for the image, a W3C
+               point to a target using the <code>@src</code> attribute and set its
+               value to indicate a separate image file, and you have to set the <code>@alt</code> attribute to some text that serves as a stand-in for the image, a W3C
                requirement in case the image does not display in the browser, as for example in
                braille browsers or browsers with text to speech recognition for the visually
                impaired. The image file might be sitting in the same local directory with your web
@@ -331,22 +319,20 @@
             shortly</a>. Here are the generic elements that we frequently use: </p>
       <ul>
 
-         <li><span class="code">&lt;div&gt;</span>: The <code>div</code> element lets you wrap a portion of your
+         <li><code>&lt;div&gt;</code>: The <code>div</code> element lets you wrap a portion of your
             page in a block-level division, perhaps to style in a particular way or locate in a
-            particular space on your page. We’ve used <span class="code">div</span> elements all
-            over this page to organize it visually. We typically use an <span class="code"
-               >@class</span> attribute to designate particular kinds of divs, to designate divs
-            that hold images, or divs that hold blocks of display code, for example. Example: <span
-               class="code">&lt;div class="inner-box"&gt;</span>
+            particular space on your page. We’ve used <code>div</code> elements all
+            over this page to organize it visually. We typically use an <code>@class</code> attribute to designate particular kinds of divs, to designate divs
+            that hold images, or divs that hold blocks of display code, for example. Example: <code>&lt;div class="inner-box"&gt;</code>
          </li>
 
-         <li><span class="code">&lt;span&gt;</span>: The span element is our in-line generic element
+         <li><code>&lt;span&gt;</code>: The span element is our in-line generic element
             for grabbing and highlighting significant spans of text that we want to stand out,
-            perhaps with color coding. We’ve used the <span class="code">&lt;span&gt;</span> element
+            perhaps with color coding. We’ve used the <code>&lt;span&gt;</code> element
             on this page and on our other guide pages to highlight the code snippets we show you
-            in-line, and again we typically use an <span class="code">@class</span> attribute to
-            classify different kinds of spans. Example: <span class="code">&lt;span
-               class="code-snippet"&gt;</span></li>
+            in-line, and again we typically use an <code>@class</code> attribute to
+            classify different kinds of spans. Example: <code>&lt;span
+               class="code-snippet"&gt;</code></li>
 
       </ul>
       <h3>Editing and Uploading Your XHTML Pages: Working with Server Space</h3>
@@ -400,9 +386,9 @@
       <p>When you learn to write XSLT to transform XML into HTML, you will need to configure some settings and create a template rule that matches on the document node. The stylesheet should start out something like this:</p>
       <pre>
          &lt;?xml version="1.0" encoding="UTF-8"?&gt;
-         &lt;xsl:stylesheet <span class="code">xmlns="http://www.w3.org/1999/xhtml"</span>
+         &lt;xsl:stylesheet <code>xmlns="http://www.w3.org/1999/xhtml"</code>
          xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"&gt;
-         &lt;xsl:output <span class="code">method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes"</span> /&gt;
+         &lt;xsl:output <code>method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes"</code> /&gt;
          &lt;xsl:template match="/"&gt;
          &lt;html&gt;
          &lt;head&gt;

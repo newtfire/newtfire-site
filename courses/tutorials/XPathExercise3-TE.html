@@ -55,7 +55,7 @@
         
         <li>Change the previous XPath expression to remove the <code>string()</code> function, and instead, step to the <code>text()</code> node child of <code>sp</code>. How does this change the results in the return window? (Note: <code>text()</code> is a node in the XML tree, so this is not a function, but a path step from parent to child. Tecnically, <code>text()</code> is a child of the parent element.) </li>
         <li>Now that we have isolated the speeches in the screenplay, write an XPath expression that returns their <code>string-length()</code>. What does this return?</li>
-              <li>Send those results to the <code>max()</code> function to find out the longest length of a stage direction in the <i>Goldeneye</i> script.</li>  
+              <li>Send those results to the <code>max()</code> function to find out the longest length of a speech in the <i>Goldeneye</i> script.</li>  
               <li>The <code>string-length()</code> and <code>max()</code> functions took us off the XML tree to yield calculated results. How can we write XPath to return the XML element <code>sp</code> that has the maximum <code>string-length()</code>? Hint: Try searching for <code>sp</code> elements with a predicate that checks to see if the <code>string-length()</code> <em>is equal to</em> the maximum string-length you found in the previous step.</li>
            
            </ol>    

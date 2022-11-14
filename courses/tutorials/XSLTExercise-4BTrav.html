@@ -101,7 +101,47 @@
         <p>Remember to output span elements for interesting markup in the texts that you can style (later) with CSS.</p>
         <p>Once your documents are all being formatted correctly in HTML, you can add the
             functionality to create the table of contents at the top, using modal XSLT.</p>
-        <h3>Adding the table of contents</h3>
+        <h3 id="toc">Adding the table of contents</h3>
+        <p>For this portion we are outputting an HTML table to show a little preview of information from each file in the collection. It may help to orient yourself to HTML table coding. HTML tables are organized in rows, using <code>&lt;tr&gt;</code> elements, which contain <code>&lt;td&gt;</code> elements (which means <q>table data</q>). You control the columns in an HTML table by the setting the <code>&lt;td&gt;</code> cells in an ordered sequence. Inside a <code>&lt;tr&gt;</code>, the first <code>&lt;td&gt;</code> is set in column 1, the second <code>&lt;td&gt;</code> in column 2, the third in column 3, and so on. The top row conventionally contains headings in <code>&lt;th&gt;</code> cells, which HTML will emphasize by default. Here is a simple HTML table (styled following our newtfire CSS, in which I’ve outlined the borders and given a background color to the table heading cells). Next to it is a view of the HTML code that creates the table structure: </p>
+        
+        <div class="codeContainFlex">
+            <table>
+                <tr>
+                    <th>Heading 1</th>
+                    <th>Heading 2</th>
+                    <th>Heading 3</th>
+                </tr>
+                <tr>
+                    <td>Row 1, cell 1</td>
+                    <td>Row 1, cell 2</td>
+                    <td>Row 1, cell 3</td>
+                </tr>
+                <tr>
+                    <td>Row 2, cell 1</td>
+                    <td>Row 2, cell 2</td>
+                    <td>Row 2, cell 3</td>
+                </tr>
+            </table>
+            <pre>
+         &lt;table&gt;
+          &lt;tr&gt;
+             &lt;th&gt;Heading 1&lt;/th&gt;
+             &lt;th&gt;Heading 2&lt;/th&gt;
+             &lt;th&gt;Heading 3&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+             &lt;td&gt;Row 1, cell 1&lt;/td&gt;
+             &lt;td&gt;Row 1, cell 2&lt;/td&gt;
+             &lt;td&gt;Row 1, cell 3&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+             &lt;td&gt;Row 2, cell 1&lt;/td&gt;
+             &lt;td&gt;Row 2, cell 2&lt;/td&gt;
+             &lt;td&gt;Row 2, cell 3&lt;/td&gt;
+          &lt;/tr&gt;
+       &lt;/table&gt;</pre>
+        </div>
+        
         <p>The template rule for the document node in our solution, revised to output a table of
             contents with all the information we wish to show before the text of the letters, looks like the following:</p>
         
@@ -123,7 +163,7 @@
                 &lt;section id="toc"&gt;
                     &lt;h2&gt;Contents&lt;/h2&gt;
       
-                 &lt;!-- ebb: Let's set up the HTML table here. --&gt;
+                <span class="code">&lt;!-- ebb: Let's set up the HTML table here. --&gt;
                     &lt;table&gt; 
                         &lt;tr&gt;
                             &lt;th&gt;Letter Date and opening&lt;/th&gt;&lt;!--first column table heading--&gt;
@@ -133,7 +173,7 @@
                         &lt;/tr&gt;
                         
                         &lt;!--ebb: Here we use our $travelColl variable pointing into the collection and use modal XSLT: --&gt;
-                       <span class="code">&lt;xsl:apply-templates select="$travelColl//letter" mode="toc"/&gt;</span>
+                      &lt;xsl:apply-templates select="$travelColl//letter" mode="toc"/&gt;</span>
                        
                         
                     &lt;/table&gt;

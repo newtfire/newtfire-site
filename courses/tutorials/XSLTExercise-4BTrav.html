@@ -15,33 +15,35 @@
         <!--#include virtual="top.html" -->
         
         
-        <h1><span class="banner">XSLT Exercise 4: Modal XSLT on a project collection</span></h1>
-        <h3>The input collection on our textEncoding-Hub</h3>
+        <h1><span class="banner">XSLT Exercise 4: Modal XSLT on a Project Collection</span></h1>
+        <img id="elsinore-postcard" src="elsinore-BdTrav.png" alt="Behrend Travel Letters postcard of Elsinore castle"/>
+       
+        <h3>The input collection on our textEncoding-Hub</h3> 	
         <p>For this assignment and the next, you will be working with a digitized XML collection of the Behrend family's travel letters from Europe made in Fall 2021. You will need to access this collection from our <strong>textEncoding-Hub</strong>, and one of our goals is for you to write XSLT to process <strong>a local directory of files</strong> rather than just one at a time as we have been doing up to this point. Here is how to access the directory:</p> 
         <ul><li>Access the directory by updating your local clone of the <a href="https://github.com/newtfire/textEncoding-Hub">textEncoding-Hub</a>.</li>
             <li>Open the textEncoding-Hub locally on your computer, and find it by looking in <strong>Class-Examples</strong> and <strong>XSLT</strong>. Inside it is a directory named <strong><code>behrendTravel2021/</code></strong>. Inside this is a directory called <code>xml-letters/</code> that contains a few XML files that we are working with as a collection, a starter XSLT file to help you begin this assignment, and a <code>web-out/</code> with some sample output and CSS to style it.</li> 
-            <li><strong>Copy the whole <code>WBLastLetters/</code> directory to some other location on your computer</strong> outside of your GitHub directories. (We do not want you to push your homework to the whole class over our textEncoding-Hub, so we just need you to make your own private copy of this directory to work with in the same folder in which you do your homework for this assignment and the next.</li>
+            <li><strong>Copy the whole <code>behrendTravel2021/</code> directory to some other location on your computer</strong> outside of the textEncoding-Hub. (We do not want you to push your homework to the whole class over our textEncoding-Hub, so we just need you to make your own private copy of this directory to work with in the same folder in which you do your homework for this assignment and the next.</li>
             <li><em>Do not rename the file folder or the files inside</em>, because we need to refer to them as a coherent collection.</li></ul> 
-        <p>Please be careful to <strong>copy</strong> rather the move the directory out of GitHub! If you move it out of the directory, the next time you sync our textEncoding-Hub, GitHub will prompt you to commit the change and push it, which will effectively eliminate the WBLastLetters folder. I can easily put it back if that happens, but please alert me ASAP if something goes awry!</p>
+        <p>Please be careful to <strong>copy</strong> rather the move the directory out of GitHub! If you move it out of the directory, the next time you sync our textEncoding-Hub, GitHub will prompt you to commit the change and push it, which will effectively eliminate the behrendTravel2021 folder. I can easily put it back if that happens, but please alert me ASAP if something goes awry!</p>
         <h3>Working with a Collection of Files in XSLT</h3>
-        <p>We can process a whole directory of files using the <code>collection()</code> function in XSLT, so we can represent content from a whole collection of XML files in one or more output HTML files. One useful application for working with a collection is to process several short XML files and unify them on a single HTML page designed to merge their content. For this assignment, we will transform the small collection of XML files and their associated images so that they output on one HTML page, which we will produce with a <dfn>table of contents</dfn>, followed by the full documents, formatted in HTML with numbered lines.</p>
-        <p>Since these documents are all encoded with the same structural elements, we can use the <code>collection()</code> function to reach into them as a group, and output their content one by one based on their XML hierarchy. Really, we are treating the collection itself as part of the hierarchy as we write our XSLT, so we move from the directory down into the document node of each file to do our XSLT processing.</p>
+        <p>We can process a whole directory of files using the <code>collection()</code> function in XSLT, so we can represent content from a whole collection of XML files in one or more output HTML files. One useful application for working with a collection is to process several short XML files and unify them on a single HTML page designed to merge their content. For this assignment, we will transform the small collection of XML files <!--and their associated images -->so that they output on one HTML page, which we will produce with a <dfn>table of contents</dfn>, followed by the full representations of each letter in the collection.</p>
+        <p>Since these documents are all encoded with the same structural elements, we use the <code>collection()</code> function to reach into them as a group, and output their content one by one based on their XML hierarchy. We are actually treating the collection itself as part of the hierarchy as we write our XSLT, so we move from the directory down into the document node of each file to do our XSLT processing.</p>
         <h3>Using Modal XSLT</h3>
-        <p>Besides working with a collection of files, the other interesting new application in this assignment is <strong>modal XSLT</strong>, which lets you process the same nodes in your document in two different ways. How can you output the same element contents to sit as list items in a table of contents at the top of an HTML page, <em>and also</em> as headers positioned throughout the body of your document, below the table of contents? Wouldn’t it be handy to be able to have two completely different template rules that match exactly the same elements: one rule to output the data as list items in the table of contents, and the other to output the same data as headers? You can write two template rules that will match the same nodes (have the same value for their <code>@match</code> attribute), but how do you make sure that the correct template rule is handling the data in the correct place?</p>
+        <p>Besides working with a collection of files, the other interesting new application in this assignment is <strong>modal XSLT</strong>, which lets you <dfn>process the same nodes in your document in two different ways</dfn>. How can you output the same element contents to sit in a table of contents at the top of an HTML page, <em>and also</em> in another section of your document, below the table of contents? Wouldn’t it be handy to be able to have two completely different template rules that match exactly the same elements: one rule to output an element node selectively to preview in a table of contents, and the other to output the same node more fully in <code>section</code> or <code>div</code> elements? You can write two template rules that will match the same nodes (have the same value for their <code>@match</code> attribute), but how do you make sure that the correct template rule is handling the data in the correct place?</p>
         <p>To permit us to write multiple template rules that process the same input nodes in different ways for different purposes, we write <strong>modal XSLT</strong>, and that is what you will be learning to write with this assignment. Modal XSLT allows you to output the same parts of the input XML document in multiple locations and treat them differently each time. That is, it lets you have two different template rules for processing the same elements or other nodes in different ways, and you use the <code>@mode</code> attribute to control how the elements are processed <em>at a particular place</em> in the transformation. Please read the explanation and view the examples in <a href="http://dh.obdurodon.org/modal-xslt.html">Obdurodon’s tutorial on Modal XSLT</a> before proceeding with the assignment, so you can see where and how to set the <code>@mode</code> attribute and how it works to control processing.</p>
         <h3>Overview of the assignment</h3>
         <p>For this assignment you want to produce in one HTML page our collection of letters and documents, and that page needs to have a table of contents at the top. The table of contents should have one entry for each document, which
             produces the information we have encoded in <code>&lt;title&gt;</code> element that is a descendant of the <code>&lt;meta&gt;</code> element in our XML source code, together with the first line. Below the full table of contents you should output a new section that renders the complete text as encoded of all the documents. In the full text, you should wrap <code>&lt;span&gt;</code> elements around any markup of interest (including tagging of unclear passages, as well as persons, places, etc. Preserve some info from your source XML by outputting markup information in the HTML <code>@class</code> attribute.
             To generate the attribute value on @class, we used an Attribute Value Template, which you should review <a href="http://dh.obdurodon.org/avt.xhtml">here</a>.</p>
-        <p>You can see our output at 
-            <a href="WBLastLetters/WBColl-1.html">https://newtfire.org/courses/tutorials/WBColl-1.html</a>, but you don’t have to deal with outputting the images yet or styling unless you want to. For this assignment, just concentrate on outputting the full text and the table of contents at the top. </p>
+        <p>Here is a view of  
+            <a href="behrendTravel2021/web-out/lettersOut.html">our output HTML</a>, but yours does not need to look exactly like ours. For this assignment, just concentrate on outputting the full text and the table of contents at the top. </p>
         <h3>Housekeeping with the stylesheet template and output line: From XML to XHTML</h3>
         <p>To ensure that the output would be in the XHTML namespace, we
             add a default namespace declaration (in <span style="color: purple;">purple</span>
             below). To output the required DOCTYPE declaration, we also created
             <code>&lt;xsl:output&gt;</code> element as the first child of our root
             <code>&lt;xsl:stylesheet&gt;</code> element (in <span style="color:#006400;"
-                >green</span> below), and we needed to include an attribute there to omit the default XML declaration because if we output it that XML line in our XHTML output, it will not produce valid HTML with the w3C and might produce quirky problems with rendering in various web browsers. So, our modified stylesheet template and xsl:output line is this, and you should copy this into your stylesheet: </p>
+                >green</span> below), and we needed to include an attribute there to omit the default XML declaration because if we output it that XML line in our XHTML output, it will not produce valid HTML with the w3C and might produce quirky problems with rendering in various web browsers. So, our modified stylesheet template and xsl:output line is this, and you should locate this in the starter XSLT we provided (or otherwise copy it into a new XSLT file for working with a collection): </p>
         
         <pre>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
          &lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="3.0"
@@ -53,7 +55,7 @@
     &lt;/xsl:stylesheet&gt;</pre>
         
         <h3>How to begin</h3>
-        <p>First of all, file locations will be important in this assignment. Save your XSLT file just inside the WBLastLetters directory that you copied to your local homework file space. The XSLT file should be sitting <dfn>outside</dfn> the <code>images/</code> and <code>xml/</code> directories.</p>
+        <p>First of all, file locations will be important in this assignment. Save your XSLT file just inside the behrendTravel2021/ directory that you copied to your local homework file space. The XSLT file should be sitting <dfn>outside</dfn> the <code>xml-letters/</code> directories.</p>
         <p>Forget about the table of contents for the moment and concentrate now on just outputting the
             full text of the documents. Except for having to pull the contents from a collection of files, this is just like the XML-to-HTML transformations you have
             already written, and you’ll use regular template rules (without a <code>@mode</code>
@@ -61,110 +63,95 @@
         <p><strong>The collection() function:</strong> Here is how we write and run XSLT to process a collection of files. Just ahead of the first template match, after the <code>&lt;xsl:output method&gt;</code> statement, we define a <strong>variable</strong> in XSLT, which simply sets up a convenient shorthand for something complicated that we need to use more than once, so we don’t have to keep retyping it.</p>
         <div class="code">
             <span style="color:#800000;">&lt;xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
-                include-content-type="no" indent="yes"/&gt;</span>
-            <code>&lt;xsl:variable name="WBColl" select="collection('XML/?select=*.xml')"/&gt;</code>
+                include-content-type="no" indent="yes"/&gt;</span><br/>
+            <code>&lt;xsl:variable name="travelColl" as="document-node()+"
+                select="collection('xml-letters/?select=*.xml')"/&gt;</code>
         </div>
-        <p>An <code>xsl:variable</code> works by designating an <code>@name</code> which holds any name you like to refer to it later (we have used "WBColl" here to refer to the Warren Behrend Last Letter collection of files), and with <code>@select</code> it holds anything you wish: a complicated XPath expression or a function, or whatever it is that is easier to store or process in a variable rather than typing it out multiple times. We use variables to help keep our code easy to read! In this case, we are using a variable to define our collection, using the <code>collection()</code> function in the <code>@select</code> attribute. The <code>collection()</code> function is set to <em>designate the directory location of the collection of poems in relation to the stylesheet I am currently writing</em>. My XSLT is saved in the directory immediately above the <code>XML/</code> directory, so I am simply instructing the XSLT parser to take a directory-path step down to it by designating WBColl inside the collection function. Definitely keep the the <code>?select=*.xml</code> because it helps make sure that only XML files are included in the collection, screening out the Relax NG file and hidden files that Mac or Windows operating systems sometimes add to file directories.</p>
-        <p>We will call this variable later in the XSLT file whenever we need it, to show how we are stepping into our collection of documents. That will happen in the first template rule that matches on the root element. Open any one of the input XML files in the XML collection in &lt;oXygen/&gt; and you will see that the transcription contents are all coded within the <code>&lt;body&gt;</code> element, so we can write this stylesheet to look through the whole collection of files and process only the elements below <code>&lt;body&gt;</code>. You call or invoke the variable name for the collection by signalling it first with a dollar sign <code>$</code>, giving the variable name, and then simply step down the descendant axis straight to the <code>&lt;body&gt;</code> element in each file. Here is how the code looks to call or invoke the variable in our first template match:</p>
-        <div class="code">
-           <code>&lt;xsl:apply-templates select="$WBColl//body"/&gt;</code>
+        <p>An <code>xsl:variable</code> works by designating an <code>@name</code> which holds any name you like to refer to it later (we have used "travelColl" here to refer to the 2021 Behrend Travel Letters' collection of files), and with <code>@select</code> it holds anything you wish: a complicated XPath expression or a function, or whatever it is that is easier to store or process in a variable rather than typing it out multiple times. We use variables to help keep our code easy to read! In this case, we are using a variable to define our collection, using the <code>collection()</code> function in the <code>@select</code> attribute. The <code>collection()</code> function is set to <em>designate the directory location of the collection of letters in relation to the stylesheet I am currently writing</em>. My XSLT is saved in the directory immediately above the <code>xml-letters/</code> directory, so I am simply instructing the XSLT parser to take a directory-path step down to that directory. Definitely keep the the <code>?select=*.xml</code> because it helps make sure that only XML files are included in the collection, screening out the Relax NG file and hidden files that Mac or Windows operating systems sometimes add to file directories.</p>
+        <p>We will call this variable later in the XSLT file whenever we need it, to show how we are stepping into our collection of documents. That will happen in the first template rule that matches on the root element. Open any one of the input XML files in the XML collection in &lt;oXygen/&gt; and you will see that the transcription contents are all coded within the <code>&lt;letter&gt;</code> element, so we can write this stylesheet to look through the whole collection of files and process only the elements below <code>&lt;letter&gt;</code>. You call or invoke the variable name for the collection by signalling it first with a dollar sign <code>$</code>, giving the variable name, and then simply step down the descendant axis straight to the <code>&lt;letter&gt;</code> element in each file. Here is how the code looks to call or invoke the variable in our first template match:</p>
+        <div class="code"> 
+            <code>&lt;xsl:apply-templates select="$travelColl//letter"/&gt;</code>
             
         </div>
         <p><strong>Note on running the transformation:</strong> Unlike other transformations we do on single XML files, when we run <em>this</em> XSLT in &lt;oXygen/&gt; it actually doesn’t matter what file we have selected in the XML input, because we have indicated in the stylesheet itself what we are processing, with the <code>collection()</code> function. We can even set a file that is outside of our collection as the input XML file (and we actually ran it successfully with the HTML file of the previous exercise selected). You do need to enter something in the input window, but when you work with the <code>collection()</code> function, your input file is just a dummy or placeholder that &lt;oXygen/&gt; needs to have entered so it can run your XSLT transformation.</p>
         
-        <p>In <a href="WBLastLetters/WBColl-1.html">our HTML
+        <p>In <a href="behrendTravel2021/web-out/lettersOut.html">our HTML
                 output</a> (scroll down past the table of contents, to where the full text of the
-            poems is rendered), the Poem number (and publication info in parentheses) are inside an HTML
-            <code>&lt;h2&gt;</code> element and the stanzas of each poem are held and spaced apart using HTML
-            <code>&lt;p&gt;</code> elements. To make each line of the poems start on a new line,
-            we add an HTML empty <code>&lt;br/&gt;</code> (<q>[line] break</q>) element at the end
-            of each line within the stanza. If you don’t include the <code>&lt;br/&gt;</code>
-            elements, the lines will all wrap together in the browser. We have renumbered the lines in our sample output to make them consecutive from the start to end of a document by using the <code>count()</code> function over the <code>&lt;ln&gt;</code> elements on the <code>preceding::</code> axis. (We used the <code>preceding::</code> axis instead of <code>preceding-sibling::</code>, because we wanted to number lines by counting them consecutively within each file rather than just inside each paragraph. (You can read about the <code>preceding::</code> axis in the Michael Kay book on page 612, or on our <a href="https://newtfire.org/courses/tutorials/explainXPath.html#axes">Follow the XPath Tutorial section of XPath axes</a>.) Here’s a sample of HTML output for
+            letters is rendered), the parts of each letter are held and spaced apart using HTML
+            <code>&lt;p&gt;</code> elements. Here’s a sample of HTML output for
             one of our letter documents:</p>
         <pre>
-        &lt;section class="doc" id="WtoP-Dec17"&gt;
-          &lt;!-- I output the xml:id from the title as an id on an HTML section element to organize my documents on the page. --&gt;
-            &lt;div class="text"&gt;
-               &lt;h2&gt;Letter from Warren Behrend to Mary and Ernst Behrend, 1929-12-17&lt;/h2&gt;
-               
-               
-               &lt;div class="header"&gt;
-                  
-                  &lt;div class="date"&gt;1929-12-17&lt;/div&gt;
-                  
-                  &lt;div class="greeting"&gt;Dear Father &amp; Mother,&lt;/div&gt;
-                  &lt;/div&gt;
-               
-               &lt;p&gt;
-                  &lt;span class="lineNum"&gt;1&lt;/span&gt;  It is raining hard and freezing on
-                  &lt;br/&gt;&lt;span class="lineNum"&gt;2&lt;/span&gt;  the trees; very beautiful indeed, but not
-                  &lt;br/&gt;&lt;span class="lineNum"&gt;3&lt;/span&gt;  so practical for people who would drive
-                  &lt;br/&gt;&lt;span class="lineNum"&gt;4&lt;/span&gt;  thier cars on a night like this. I
-                  &lt;br/&gt;&lt;span class="lineNum"&gt;5&lt;/span&gt;  hope you had nice weather so
-                  &lt;br/&gt;&lt;span class="lineNum"&gt;6&lt;/span&gt;  that you could enjoy driving South
-                  &lt;br/&gt;&lt;span class="lineNum"&gt;7&lt;/span&gt;  in the Duesenburg
-                  &lt;/p&gt;
-                &lt;!-- more of the letter follows here--&gt;
-                 &lt;div class="closer"&gt;
-                  &lt;span class="lineNum"&gt;59&lt;/span&gt;  Much love,
-                  &lt;br/&gt;&lt;span class="lineNum"&gt;60&lt;/span&gt;  Warren.
-                  &lt;/div&gt;
-               &lt;/div&gt;
-         &lt;/section&gt;
+        
+          &lt;!-- I output the xml:id from the letter element as an id on an HTML div element to organize my letters on the page and prepare them for linking. --&gt;
+           &lt;div class="letter" id="Greenwich-1955-07-18"&gt;
+            
+            
+            &lt;p&gt;&lt;span class="placeName"&gt;Departure. On Queen Elizabeth.&lt;/span&gt; At Noon, &lt;span class="date"&gt;July 18, 1955.&lt;/span&gt;&lt;/p&gt;
+            
+            &lt;p&gt;   We got on board about 10
+               &lt;span class="persName"&gt;Harriet&lt;/span&gt; had stayed in &lt;span class="placeName"&gt;Greenwich&lt;/span&gt; over night so went in town with us. . . 
+            &lt;/p&gt;
+           &lt;/div&gt;
       
         </pre>
         <p style="font-size: smaller;"><strong>The fine print:</strong> Don’t worry if your HTML
-            output isn’t wrapped the same way ours is, if it puts the empty line break elements at
-            the beginnings of lines instead of at the ends, or if it serializes (spells out) those
-            empty line break elements as <code>&lt;br&gt;&lt;/br&gt;</code> instead of as
-            <code>&lt;br/&gt;</code>. (You may even choose not to output the line breaks at all!) 
-             You should open your HTML output in &lt;oXygen/&gt; and simply check to make sure that what you’re producing is
+            output isn’t structured exactly the same way ours is. But you should open your HTML output in &lt;oXygen/&gt; and simply check to make sure that what you’re producing is
             valid HTML and renders the text appropriately.</p> 
-        <p style="font-size: smaller;"><strong>More fine print:</strong> If you are outputting <code>&lt;br/&gt;</code> elements, a line break only makes sense
-            between lines: You don’t need a <code>&lt;br/&gt;</code> element at the start of the first line if you are outputting <code>&lt;p&gt;</code> elements to wrap paragraphs in HTML anyway. In our solution we used an
-            <code>&lt;xsl:if&gt;</code> element to check the <code>@n</code> value on the source XML’s <code>ln</code> element, and if it was not equal to 1, we output the
-            <code>&lt;br/&gt;</code> so we wouldn't get an extra blank line at the top of a paragraph. You
-            can look up <code>&lt;xsl:if&gt;</code> at <a
-                href="http://www.w3schools.com/xsl/xsl_if.asp"
-                >http://www.w3schools.com/xsl/xsl_if.asp</a> or by searching for xsl:if on <a href="http://dh.obdurodon.org/xslt-basics-2.xhtml">Obdurodon’s XSLT Advanced Features tutorial</a>, or looking it up in the Michael Kay book so you can perform this
-            check yourself.</p>
+       
         <p>Remember to output span elements for interesting markup in the texts that you can style (later) with CSS.</p>
         <p>Once your documents are all being formatted correctly in HTML, you can add the
             functionality to create the table of contents at the top, using modal XSLT.</p>
         <h3>Adding the table of contents</h3>
         <p>The template rule for the document node in our solution, revised to output a table of
-            contents with all the information we wish to show before the text of the poems, looks like the following:</p>
+            contents with all the information we wish to show before the text of the letters, looks like the following:</p>
         
         <pre>
-             <code>&lt;xsl:variable name="WBColl" select="collection('XML/?select=*.xml')"/&gt;</code>
-            &lt;xsl:template match="/"&gt;
+              &lt;xsl:variable name="travelColl" as="document-node()+"
+        select="collection('xml-letters/?select=*.xml')"/&gt;
+
+    &lt;xsl:template match="/"&gt;
         &lt;html&gt;
             &lt;head&gt;
-                &lt;title&gt;Warren Behrend’s Last Correspondence and Memorial&lt;/title&gt;
-                &lt;link rel="stylesheet" type="text/css" href="style.css"/&gt;
+                &lt;title&gt;Behrend Travel Letters&lt;/title&gt;
+                &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;
+                &lt;!--ebb: The line above helps your HTML scale to fit lots of different devices. --&gt;
+                &lt;link rel="stylesheet" type="text/css" href="webstyle.css"/&gt;
+                
             &lt;/head&gt;
             &lt;body&gt;
-                &lt;h1&gt;Warren Behrend’s Last Correspondence and Memorial&lt;/h1&gt;
-                
+                &lt;h1&gt;The Behrends' Travel Adventures in Europe&lt;/h1&gt;
                 &lt;section id="toc"&gt;
-                    <code>&lt;h2&gt;Contents&lt;/h2&gt;
-                    &lt;ul&gt;
-                        &lt;xsl:apply-templates select="$WBColl//xml" mode="toc"/&gt;
-                    &lt;/ul&gt;</code>
-            &lt;!-- ebb: Here I am outputting the table of contents using the special mode attribute, 
-            Fbecause I will need to output the same xml elements differently when I am outputting the full text below.--&gt;
+                    &lt;h2&gt;Contents&lt;/h2&gt;
+      
+                 &lt;!-- ebb: Let's set up the HTML table here. --&gt;
+                    &lt;table&gt; 
+                        &lt;tr&gt;
+                            &lt;th&gt;Letter Date and opening&lt;/th&gt;&lt;!--first column table heading--&gt;
+                            &lt;th&gt;Places Mentioned&lt;/th&gt;&lt;!--third column table heading--&gt;
+                            &lt;th&gt;People Mentioned&lt;/th&gt;&lt;!--second column table heading--&gt;
+                            
+                        &lt;/tr&gt;
+                        
+                        &lt;!--ebb: Here we use our $travelColl variable pointing into the collection and use modal XSLT: --&gt;
+                       <span class="code">&lt;xsl:apply-templates select="$travelColl//letter" mode="toc"/&gt;</span>
+                       
+                        
+                    &lt;/table&gt;
                 &lt;/section&gt;
-                <code>&lt;section id="fulltext"&gt;
-                    &lt;xsl:apply-templates select="$WBColl//xml"/&gt;
-                &lt;/section&gt;</code>
-            &lt;!--ebb: And here I am selecting the SAME xml elements for processing without the mode attribute. --&gt;
-  
+
+                &lt;section id="fulltext"&gt;
+                    &lt;xsl:apply-templates select="$travelColl//letter"/&gt;
+      
+                &lt;/section&gt;
             &lt;/body&gt;
         &lt;/html&gt;
-    &lt;/xsl:template&gt; 
+    &lt;/xsl:template&gt;  
         </pre>
+        
+        
+
         <p>The highlighted code is what we added to include a table of contents, and the important
-            line is <code>&lt;xsl:apply-templates select="$WBColl//xml" mode="toc"/&gt;</code>. This is
+            line is <code>&lt;xsl:apply-templates select="$travelColl//letter" mode="toc"/&gt;</code>. This is
             going to apply templates to each document <em>with the <code>@mode</code> attribute value
                 set to <q>toc</q>.</em> The value of the <code>@mode</code> attribute is up to you
             (we used <q>toc</q> for <q>table of contents</q>), but whatever you call it, setting the
@@ -172,25 +159,24 @@
             <code>@mode</code> with that same value will fire in response to this
             <code>&lt;xsl:apply-templates&gt;</code> element. Now we have to go write those
             template rules!</p>
-        <p>What this means is that when you process the <code>&lt;meta&gt;</code> and <code>&lt;body&gt;</code> elements to
+        <p>What this means is that if you write ew template rules to process the <code>&lt;date&gt;</code> and <code>&lt;letters&gt;</code> elements to
             output the titles with the full text of the documents, you use <code>&lt;xsl:apply-templates&gt;</code> and
             <code>&lt;xsl:template&gt;</code> elements without any <code>@mode</code> attribute.
             To create the table of contents, though, you can have
             <code>&lt;xsl:apply-templates&gt;</code> and <code>&lt;xsl:template&gt;</code>
             elements that select or match the same elements, but <strong>that specify a mode and apply
-            completely different rules</strong>. A template rule for <code>&lt;meta&gt;</code> elements in
-            table-of-contents mode will start with <code>&lt;xsl:template match="meta"
-                mode="toc"&gt;</code>, and you need to tell it to create an <code>&lt;li&gt;</code>
-            element that contains the text of the <code>&lt;title&gt;</code> element. You can then apply-templates with <code>mode="toc"</code> and write another template rule also with <code>mode="toc"</code> to output the first line of text in each document. The rule for those same elements not in any mode will start with
-            <code>&lt;xsl:template match="$WBColl//body"&gt;</code> (without the <code>@mode</code>
-            attribute). That rule can create a <code>&lt;section&gt;</code> element for each document with an <code>&lt;h2&gt;</code> header to hold the text of the <code>&lt;title&gt;</code> element, and then output the full text of the document using <code>&lt;p&gt;</code> elements, with
-            <code>&lt;br/&gt;</code> elements between the lines. In this way, you can have two
-            sets of rules for the poems, one for the table of contents and one to output the full text, and we use
+            completely different rules</strong>. A template rule for <code>&lt;letter&gt;</code> elements in
+            table-of-contents mode will start with <code>&lt;xsl:template match="letter"
+                mode="toc"&gt;</code>, and you need to tell it to create an <code>&lt;td&gt;</code>
+            element that contains the text of the <code>&lt;date&gt;</code> element. You can then apply-templates with <code>mode="toc"</code>. The rule for those same elements not in any mode will start with
+            <code>&lt;xsl:template match="letter"&gt;</code> (without the <code>@mode</code>
+            attribute). That rule can create a <code>&lt;div&gt;</code> element for each letter, and then output the full text of the document using <code>&lt;p&gt;</code> elements. In this way, you can have two
+            sets of rules for the letters, one for the table of contents and one to output the full text, and we use
             modes to ensure that each is used only in the correct place.</p>
         <p><em>Remember: both the <code>&lt;xsl:apply-templates&gt;</code>, which tells the system
             to process certain nodes, and the <code>&lt;xsl:template&gt;</code> that responds to
             that call and does the processing must agree on their mode values.</em> For the main
-            output of the full text of every poem, neither the
+            output of the full text of every letter, neither the
             <code>&lt;xsl:apply-templates&gt;</code> nor the <code>&lt;xsl:template&gt;</code>
             elements specifies a mode. To output the table of contents, both specify the same
             mode.</p>
@@ -210,7 +196,7 @@
                 inquiry and troubleshooting someone else’s problem often helps us clarify matters for
                 ourselves!</li>
             
-            <li>When you complete this assignment, submit your XSLT file and your output HTML file to Canvas, following our usual homework file-naming conventions. You need not generate CSS for this, because we will ask you to create one for a modified version of this output in <a href="XSLTExercise-WB2.html">the next assignment</a>.</li>
+            <li>When you complete this assignment, submit your XSLT file and your output HTML file to Canvas, following our usual homework file-naming conventions. You need not generate CSS for this, because we will ask you to create one for a modified version of this output in <a href="XSLTExercise-5BTrav.html">the next assignment</a>.</li>
         </ul>
        
     </body>

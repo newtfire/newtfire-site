@@ -143,7 +143,7 @@
         </div>
         
         <p>The template rule for the document node in our solution, revised to output a table of
-            contents with all the information we wish to show before the text of the letters, looks like the following:</p>
+            contents with all the information we wish to show before the text of the letters, looks like this:</p>
         
         <pre>
               &lt;xsl:variable name="travelColl" as="document-node()+"
@@ -172,7 +172,7 @@
                             
                         &lt;/tr&gt;
                         
-                        &lt;!--ebb: Here we use our $travelColl variable pointing into the collection and use modal XSLT: --&gt;
+                        &lt;!--ebb: Here we use our $travelColl variable pointing into the collection AND use modal XSLT set the toc mode for Table of Contents: --&gt;
                       &lt;xsl:apply-templates select="$travelColl//letter" mode="toc"/&gt;</span>
                        
                         
@@ -195,13 +195,15 @@
             going to apply templates to each document <em>with the <code>@mode</code> attribute value
                 set to <q>toc</q>.</em> The value of the <code>@mode</code> attribute is up to you
             (we used <q>toc</q> for <q>table of contents</q>), but whatever you call it, setting the
-            <code>@mode</code> to any value means that only template rules that also specify a
+            <code>@mode</code> to any value means that <strong>only template rules that also specify a
             <code>@mode</code> with that same value will fire in response to this
-            <code>&lt;xsl:apply-templates&gt;</code> element. Now we have to go write those
+            <code>&lt;xsl:apply-templates&gt;</code> element</strong>. Now we have to go write those
             template rules!</p>
-        <p>What this means is that if you write ew template rules to process the <code>&lt;date&gt;</code> and <code>&lt;letters&gt;</code> elements to
-            output the titles with the full text of the documents, you use <code>&lt;xsl:apply-templates&gt;</code> and
-            <code>&lt;xsl:template&gt;</code> elements without any <code>@mode</code> attribute.
+       
+        
+        <p>What this means is that if you write new template rules to process the <code>&lt;letter&gt;</code> elements to
+            output <strong>the full text of the documents</strong>, you use <code>&lt;xsl:apply-templates&gt;</code> and
+            <code>&lt;xsl:template&gt;</code> elements <em>without</em> any <code>@mode</code> attribute.
             To create the table of contents, though, you can have
             <code>&lt;xsl:apply-templates&gt;</code> and <code>&lt;xsl:template&gt;</code>
             elements that select or match the same elements, but <strong>that specify a mode and apply
@@ -209,17 +211,28 @@
             table-of-contents mode will start with <code>&lt;xsl:template match="letter"
                 mode="toc"&gt;</code>, and you need to tell it to create an <code>&lt;td&gt;</code>
             element that contains the text of the <code>&lt;date&gt;</code> element. You can then apply-templates with <code>mode="toc"</code>. The rule for those same elements not in any mode will start with
-            <code>&lt;xsl:template match="letter"&gt;</code> (without the <code>@mode</code>
-            attribute). That rule can create a <code>&lt;div&gt;</code> element for each letter, and then output the full text of the document using <code>&lt;p&gt;</code> elements. In this way, you can have two
+            <code>&lt;xsl:template match="letter"&gt;</code> <strong>(without the <code>@mode</code>)</strong>
+            attribute). That rule can create a <code>&lt;div&gt;</code> element for each letter, and then output <strong>the full text of the document</strong> using <code>&lt;p&gt;</code> elements. In this way, you can have two
             sets of rules for the letters, one for the table of contents and one to output the full text, and we use
             modes to ensure that each is used only in the correct place.</p>
         <p><em>Remember: both the <code>&lt;xsl:apply-templates&gt;</code>, which tells the system
             to process certain nodes, and the <code>&lt;xsl:template&gt;</code> that responds to
-            that call and does the processing must agree on their mode values.</em> For the main
+            that call and does the processing <em>must agree on their mode values</em>.</em> For the main
             output of the full text of every letter, neither the
             <code>&lt;xsl:apply-templates&gt;</code> nor the <code>&lt;xsl:template&gt;</code>
             elements specifies a mode. To output the table of contents, both specify the same
             mode.</p>
+        <h4>A little more guidance for filling out the table of contents</h4>
+        <p>In this assignment, we are inviting you to pull some data from the source files that provide a preview of what people will read about in the letters. We are creating an HTML
+            table that features at least the <code>@xml:id</code> on the <code>letter</code> element as a distinct identifier in the first cell.</p>
+            <p>The 2021 Travel Letters team coded information about places the Behrends visited in <code>&lt;placeName&gt;</code> elements, and they coded references to people in 
+                <code>&lt;persName&gt;</code> elements. To populate the second table cell, we want to reach into each letter and pull out a sorted list of distinct-values of all the <code>&lt;placeName&gt;</code> elements. And to populate the third table cell, we do the same thing with the <code>&lt;persName&gt;</code> elements. This allows our readers to survey all the distinct places and people mentioned in each letter. Here are some XPath hints:</p>
+                
+                <ul>
+                    <li>For the first table cell, at minimum, just output the <code>@xml:id</code> on the <code>letter</code>. But we encourage you to also add the first 80 characters of the text of the letter to provide people a quick view o how the letter begins! To do this, review <a href="https://newtfire.org/courses/tutorials/XPathExercise3-TE.html">our XPath Exercise on string functions</a> and specifically try reaching into the first paragraph of the letter and try  <a href="https://developer.mozilla.org/en-US/docs/Web/XPath/Functions/substring">the XPath substring() function</a> to take the string value, only up to a certain length that you specify.</li>
+                    <li>For the second two cells, the XPath you want to try is a little pipeline. Try applying normalize-space() to each node (use the simple map <code>!</code> operator for this) so you remove extra spaces from individual nodes first. Then use the arrow operator <code>=></code> to operate on the whole sequence of nodes and <code>distinct-values()</code> first, then <code>sort()</code>. Finally bundle these all together tidily with a comma separator by sending it to <code>string-join()</code> like this: <code>string-join(',')</code>.</li>
+                </ul>
+        
         <h3>Completing and checking your work</h3>
         
         <ul>

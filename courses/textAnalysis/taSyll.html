@@ -56,10 +56,8 @@
             
             
             
-            <p><strong>Spring 2022 Syllabus (Schedule)</strong>
-                Classes meet <strong>M W F 1:25 - 2:15pm in Witkowski 109</strong>. Attend class wearing a face mask that covers your mouth and nose. 
-                (Until further notice, face masks are required inside all university buildings, regardless of vaccination status.) 
-                Remember: <em>Your mask protects me, my mask protects you.</em>
+            <p><strong>Spring 2023 Syllabus (Schedule)</strong>
+                Classes meet <strong>M W F 12:20 - 1:10pm in Witkowski 109</strong>.
                </p>
             
             
@@ -99,13 +97,26 @@
                
                
                <li><a href="https://www.oxygenxml.com/xml_editor.html" target="_blank">&lt;oXygen/&gt;</a>. 
-                  The DIGIT program has purchased a site license for this software, which
+                  (You will probably have this installed from DIGIT 100 or 110.) The DIGIT program has purchased a site license for this software, which
                   is installed in Kochel 77, the Lilley Library computers, and Witkowski 109. The license also permits
                   students enrolled in the
                   course to install the software on their home computers (for course-related use
                   only). When installing this on your own computers, <strong>you will need the
                      license key</strong>, which we have posted on our course Announcements section of
                   <a href="https://canvas.psu.edu" target="_blank">Canvas</a>.</li>
+                <li><a href="https://www.laurenceanthony.net/software/antconc/">AntConc</a>: (You may have this installed from DIGIT 100.) 
+                    Free corpus text analysis tool.</li>
+                <li>We will ask you to install Python version 3.8 or
+                    higher on your computer, and install PyCharm Edu to assist in learning and
+                    writing Python code with syntax checking. Follow instructions and links from
+                    Pycharm ( <a
+                        href="https://www.jetbrains.com/help/pycharm/quick-start-guide.html#meet"
+                        >https://www.jetbrains.com/help/pycharm/quick-start-guide.html#meet</a> ) paying attention to what you need for your own computer systems.
+                    Feel free to download and explore Pycharm Edu on your own before we start
+                    working with it together: <a href="https://www.jetbrains.com/pycharm-edu/"
+                        >https://www.jetbrains.com/pycharm-edu/</a>. Also, configure 
+                    Anaconda so it is available to work within Pycharm following this guide: <a href="https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-environment.html">https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-environment.html</a>. (We will provide guidance on this in class.)
+              </li>
                
                <li>Zoom: <a href="https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version" target="_blank">Make sure your Zoom installation is up-to-date</a>, and you are ready to
                   connect. Sometimes we will record portions of class meetings and tutorial sessions for future reference to share over Zoom. Look for these in Canvas Announcements and use the Zoom menu option in Canvas to access these meetings.</li>
@@ -113,7 +124,7 @@
                 <li>We will use GitHub for for sharing code and for project management. Create an account (choose the free options) at the <a href="https://github.com ">https://github.com </a> and install the GitHub client software for your operating system on your own machine on your computer. (We will explain how to use git and GitHub this in our course.)</li>
                 
                 <li>We will use the Slack chat platform for discussion and for asking questions (see <a href="https://slack.com/help/articles/218080037-Getting-started-for-new-members">https://slack.com/help/articles/218080037-Getting-started-for-new-members</a>). Download and install the Slack client, configuring your account to use use your Penn State email address (the official address, which looks like xyz123@psu.edu, and not an alias based on your name that you may have set up), so you can join our Slack workspace: DIGIT-coders. When you receive an invitation to join this workspace you should accept.</li>
-                <li>Later in the semester we will ask you to install local copies of the eXist-db
+                <li>Later in the semester we may ask you to install a local copy of the eXist-db
                         XML database, which you can download from <a href="https://exist-db.org/"
                             >https://exist-db.org/</a>. We will go through the installation process
                         with you when the time comes, since it can be confusing the first time, and
@@ -126,16 +137,7 @@
                         main eXist-db page, scroll down past the FusionDB (which is a different
                         product than eXist-db) nightly builds to reach the eXist-db nightly
                         builds.</li>
-                    <li>Later in the semester, we will ask you to install Python version 3.7 or
-                        higher on your computer, and install PyCharm Edu to assist in learning and
-                        writing Python code with syntax checking. Follow instructions and links from
-                        Pycharm ( <a
-                            href="https://www.jetbrains.com/help/pycharm/quick-start-guide.html#meet"
-                            >https://www.jetbrains.com/help/pycharm/quick-start-guide.html#meet</a> ) paying attention to what you need for your own computer systems.
-                        Feel free to download and explore Pycharm Edu on your own before we start
-                        working with it together: <a href="https://www.jetbrains.com/pycharm-edu/"
-                            >https://www.jetbrains.com/pycharm-edu/</a>. Also, configure Anaconda so it is available to work within Pycharm following this guide: <a href="https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-environment.html">https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-environment.html</a>. As with eXist-dB, we will also go over the installation of this and
-                        setting up a Python environment on your computer. </li>
+                   
                
                <li>No coding experience? Don’t worry! Past students
                   in this course
@@ -181,838 +183,275 @@
             
             </div>
          <!--Schedule div starts below here. -->
-    <div id="schedule">
-    <table>
-        <tr>
-            <th id="Week1">Week 1</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-01-10">
-            <td>
-                <h4>M 1-10</h4>
-            </td>
-            <td class="topic">Welcome! Intro to the course. Intro to document formats.  Working in
-                oXygen XML Editor: <ul><li>Open <a href="https://github.com/newtfire/textAnalysis-Hub/blob/main/sampleWordDoc.docx">a sample Microsoft Word document</a> in the oXygen XML Editor. (Click the "View Raw" button in GitHub to download my sample file, or open one of your own Word documents.)</li>
-                    <li><a href="https://github.com/newtfire/textAnalysis-Hub/issues/1">Slime recipe</a></li>
-                    <!--<li><a href="https://github.com/newtfire/textAnalysis-Hub/issues/2">Bread recipe (for XML Exercise 1)</a></li>-->
-                    <li>Join the DIGIT Coders Slack (if you are not already a member), configure Slack, enable Notifications. (See Canvas Announcements)</li>
-                </ul> 
-            </td>
-            <td class="doBeforeClass">Install oXygen XML Editor on your own computers and add our license key (in Canvas), ideally
-                before the first day of class but by Friday this week at the latest.
-                Instructions and license key posted on Canvas.</td>
-        </tr>
-        <tr id="d2022-01-12">
-            <td>
-                <h4>W 1-12</h4>
-            </td>
-            <td class="topic">Hands-on work with XML, encoding a recipe. <strong>XML Well-formedness</strong> with elements, attributes, comments.
-                How to work with &lt;oXygen/&gt;.
-            </td>
-            <td class="doBeforeClass"><ul>
-                <li>Join our DIGIT Slack group, and introduce yourself to me (dr. b)</li>
-                <li>Get the big picture: Read <a href="http://xml.silmaril.ie/basics.html"
-                    >the whole Section 1: Basics (all the short sections) in the XML
-                    FAQ</a> about what XML is even for. Comment in discussion thread on DIGIT Coders' Slack.</li>
-                
-            </ul></td>
-        </tr>
-        <tr id="d2022-01-14">
-            <td>
-                <h4>F 1-14</h4>
-            </td>
-            <td class="topic"><ul><li>Discussion of the XML recipe homework: XML Comments and Well-formedness, and how to work with &lt;oXygen/&gt;.</li>
-                <li>Introduce XML Exercise 2</li></ul></td>
-            <td class="doBeforeClass">Complete <strong><a href="../tutorials/XMLExercise1-Bread.html"
-                target="_blank">XML Exercise 1</a></strong></td>
-        </tr>
+ <div id="schedule">
+    <table><tr><th id="Week1">Week 1</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-01-09">
+       <td><h4>M 1-09</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-01-11">
+          <td><h4>W 1-11</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-01-13">
+          <td><h4>F 1-13</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
     </table>
-    <table>
-        <tr>
-            <th id="Week2">Week 2</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-01-17">
-            <td>
-                <h4>M 1-17</h4>
-            </td>
-            <td class="topic"><strong>Martin Luther King, Jr. Day</strong>: No classes.</td>
-            <td class="doBeforeClass"></td>
-        </tr>
-        <tr id="d2022-01-19">
-            <td>
-                <h4>W 1-19</h4>
-            </td>
-            <td class="topic"><ul>
-                <li>Discussion of XML recipe code</li>
-                <li>Get started with GitHub and our <a
-                    href="https://github.com/newtfire/textAnalysis-Hub"
-                    >textAnalysis-Hub</a>. Work on <a href="../tutorials/GitExercise1-ta.html">GitHub Exercise 1</a> together, and get ready for <a href="../tutorials/GitExercise2-ta.html">GitHub Exercise 2</a>.</li>
-                
-            </ul></td>
-            <td class="doBeforeClass">XML Exercise 2 due</td>
-        </tr>
-        <tr id="d2022-01-21">
-            <td>
-                <h4>F 1-21</h4>
-            </td>
-            <td class="topic"><ul>
-                <li>GitHub and version controlled file management. Making a branch on the textAnalysis-Hub. Pulling, adding,
-                    committing, and pushing. Introduce <a href="https://slides.com/elisabeshero-bondar/gitshell">Shell and Git Commands slide reference</a>.</li>
-                
-            </ul></td>
-            <td class="doBeforeClass"><ul>
-                <li>Read the git manual 1.1: <a
-                    href="https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control"
-                    >"Getting Started—About Version Control"</a></li>
-                <li>Watch <a
-                    href="https://psu.mediaspace.kaltura.com/media/Introduction+to+the+Bash+Command+LineA++Always+find+your+way+%22home%22+in+the+dark/1_ke1k1pxm"
-                    target="_blank">my video introducing the Bash shell and "home" on your
-                    computers</a> and practice the shell commands I am introducing. </li>
-            </ul>
-                <ul>
-                    <li>Complete <a href="../tutorials/GitExercise1-ta.html">Git Exercise 1</a> and <a href="../tutorials/GitExercise2-ta.html">Git Exercise 2</a>.</li>
-                    <li><strong>For those with previous GitHub/shell experience</strong>: Watch / work with <a
-                        href="https://psu.mediaspace.kaltura.com/media/Editing+your+Bash+Profile+and+Setting+an+Alias+for+%22GitHub%22/1_2iryc3x1"
-                        >Set up a Git Bash Profile (short video how-to)</a>: (this is
-                        convenient for you, and more command line knowledge).</li>
-                </ul></td>
-        </tr>
+    <table><tr><th id="Week2">Week 2</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-01-16">
+       <td><h4>M 1-16</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-01-18">
+          <td><h4>W 1-18</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-01-20">
+          <td><h4>F 1-20</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
     </table>
-    <table>
-        <tr>
-            <th id="Week3">Week 3</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-01-24">
-            <td>
-                <h4>M 1-24</h4>
-            </td>
-            <td class="topic"><ul><li>GitHub: Continue with branching experiment in class. Handling pull requests, merging branches.</li>
-                
-            </ul></td>
-            <td class="doBeforeClass"><ul>
-                <li>Read, study, and practice the commands in <a href="https://slides.com/elisabeshero-bondar/gitshell">Shell and Git Commands slide reference</a> + video tutorials working with these slides:
-                <ol>
-                    <li><a href="https://psu.mediaspace.kaltura.com/media/Shell+Commands+Tutorial/1_2b7x6pbw">Shell Commands for Navigation and Intel</a></li>
-                    <li><a href="https://psu.mediaspace.kaltura.com/media/Git+Commands+Tutorial/1_sjst4z3k">Git Command Tutorial</a></li>
-                </ol>
-                </li>
-                <li>Git/GitHub Exercise 3: Push to your branch on the textAnalysis-Hub, and push to your personal repo.</li>
-            </ul></td>
-        </tr>
-        <tr id="d2022-01-26">
-            <td>
-                <h4>W 1-26</h4>
-            </td>
-            <td class="topic">Intensive discussion of git branching</td>
-            <td class="doBeforeClass"><strong>XML Exercise 3 + GitHub</strong>: push this assignment to your branch of the textAnalysis-Hub repository and issue a pull request assigned to Dr. B (ebeshero).
-            </td>
-        </tr>
-        <tr id="d2022-01-28">
-            <td>
-                <h4>F 1-28</h4>
-            </td>
-            <td class="topic"><ul><li>Introducing up-conversion with Regular Expressions: the dot, the backslash, numbers (<code>\d</code>, repetition indicators, matching on lines, and autotagging.</li>
-                
-                
-                <li>Regular Expressions: thinking algorithmically. Greedy and non-greedy matching. </li>
-                <li><a href="https://choosealicense.com/">Choosing a license</a> for your GitHub repo.</li>
-            </ul></td>
-            <td class="doBeforeClass">Review git branching, catch up on git homeworks if necessary.</td>
-        </tr>
+    <table><tr><th id="Week3">Week 3</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-01-23">
+       <td><h4>M 1-23</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-01-25">
+          <td><h4>W 1-25</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-01-27">
+          <td><h4>F 1-27</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
     </table>
-    <table>
-        <tr>
-            <th id="Week4">Week 4</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-01-31">
-            <td>
-                <h4>M 1-31</h4>
-            </td>
-            <td class="topic"><ul><li>Regular Expressions: Thinking (and writing) in markdown, <strong>algorithmically</strong>. The fine art of <q>Looking Stuff Up</q> in the Regex tutorials: <ul><li><cite class="sub"><a href="../tutorials/explainRegex.html" target="_blank"
-                >Intro to Regular Expressions</a></cite></li> 
-                <li><a href="http://www.regular-expressions.info/quickstart.html"
-                    target="_blank">the Regular Expressions Quick Start</a>.</li>
-            </ul>
-                Character sets, symbols, capturing groups.</li>
-                <li>Initiate Five Days of Command Line GitHub Test.</li>
-               
-            </ul></td>
-            <td class="doBeforeClass">
-                <ul>
-                    <li>(By the end of the day): Five Days of Git: Part 1: Record completion on Canvas as part of GitHub Test</li>
-                    
-                </ul>
+    <table><tr><th id="Week4">Week 4</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-01-30">
+       <td><h4>M 1-30</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-02-01">
+          <td><h4>W 2-01</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-02-03">
+          <td><h4>F 2-03</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+    </table>
+    <table><tr><th id="Week5">Week 5</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-02-06">
+       <td><h4>M 2-06</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-02-08">
+          <td><h4>W 2-08</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-02-10">
+          <td><h4>F 2-10</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+    </table>
+    <table><tr><th id="Week6">Week 6</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-02-13">
+       <td><h4>M 2-13</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-02-15">
+          <td><h4>W 2-15</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-02-17">
+          <td><h4>F 2-17</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+    </table>
+    <table><tr><th id="Week7">Week 7</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-02-20">
+       <td><h4>M 2-20</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-02-22">
+          <td><h4>W 2-22</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-02-24">
+          <td><h4>F 2-24</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+    </table>
+    <table><tr><th id="Week8">Week 8</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-02-27">
+       <td><h4>M 2-27</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-03-01">
+          <td><h4>W 3-01</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-03-03">
+          <td><h4>F 3-03</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+    </table>
+    <table><tr><th id="Week9">Week 9</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-03-06">
+       <td><h4>M 3-06</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-03-08">
+          <td><h4>W 3-08</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-03-10">
+          <td><h4>F 3-10</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+    </table>
+    <table><tr><th id="Week10">Week 10</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-03-13">
+       <td><h4>M 3-13</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-03-15">
+          <td><h4>W 3-15</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-03-17">
+          <td><h4>F 3-17</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+    </table>
+    <table><tr><th id="Week11">Week 11</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-03-20">
+       <td><h4>M 3-20</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-03-22">
+          <td><h4>W 3-22</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-03-24">
+          <td><h4>F 3-24</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+    </table>
+    <table><tr><th id="Week12">Week 12</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-03-27">
+       <td><h4>M 3-27</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-03-29">
+          <td><h4>W 3-29</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-03-31">
+          <td><h4>F 3-31</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+    </table>
+    <table><tr><th id="Week13">Week 13</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-04-03">
+       <td><h4>M 4-03</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-04-05">
+          <td><h4>W 4-05</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-04-07">
+          <td><h4>F 4-07</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+    </table>
+    <table><tr><th id="Week14">Week 14</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-04-10">
+       <td><h4>M 4-10</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-04-12">
+          <td><h4>W 4-12</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-04-14">
+          <td><h4>F 4-14</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+    </table>
+    <table><tr><th id="Week15">Week 15</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-04-17">
+       <td><h4>M 4-17</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-04-19">
+          <td><h4>W 4-19</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-04-21">
+          <td><h4>F 4-21</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+    </table>
+    <table><tr><th id="Week16">Week 16</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-04-24">
+       <td><h4>M 4-24</h4></td>
+       <td class="topic">    </td>
+       <td class="doBeforeClass">....</td>
+    </tr>
+       <tr id="d2023-04-26">
+          <td><h4>W 4-26</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+       <tr id="d2023-04-28">
+          <td><h4>F 4-28</h4></td>
+          <td class="topic">    </td>
+          <td class="doBeforeClass">....</td>
+       </tr>
+    </table>
+    <table><tr><th><span class="h4">Finals Week: May 1 - 5</span></th>
+       <th><span class="h4"><em>To Complete</em></span></th></tr>
+       <tr id="d2022-05-05">
+          <td>
+             <h4>H 5-05</h4>
+          </td>
+          <td><p><strong>Semester projects due by 11:59pm</strong></p>
+             <p>Finish developing projects, and send a post to me on GitHub and Canvas to indicate your team is finished.</p>
+          </td>
+       </tr>
+    </table>
 
-            </td>
-        </tr>
-        <tr id="d2022-02-02">
-            <td>
-                <h4>W 2-02</h4>
-            </td>
-            <td class="topic"><ul>
-                <li>Regex: Greedy and non-greedy matching: When to use <q>dot matches all</q>, and the <q>don't be greedy question mark</q>.</li>
-                <li>Looking ahead: Project ideas for XML and text at scale. Initiate Project Ideas discussion on DIGIT-Coders Slack</li>
-                
-            </ul></td>
-            <td class="doBeforeClass"><ul>
-                <li>Watch Regex Orientation Videos: <ul><li>20+ min. video: <a href="https://psu.mediaspace.kaltura.com/media/Introducing+Regular+Expressions+in+the+oXygen+XML+Editor/1_9pkq11co">Introducing Regular Expressions in the oXygen XML Editor</a></li>
-                    <li><a href="https://psu.mediaspace.kaltura.com/media/How+to+do+your+Regex+Homework+in+oXygen+and+keep+a+record+of+your+Regex+expressions/1_ubu4ma9s">How to do your Regex Homework in oXygen and keep a record of your Regex expressions</a> </li>      
-                    
-                </ul></li>
-                
-                <li>Finish <b><a href="../tutorials/RegexExerciseDates-Movies.html">Regex Exercise 1</a></b> As you work on this, consult our <cite class="sub"><a href="../tutorials/explainRegex.html" target="_blank"
-                    >Intro to Regular Expressions</a></cite> and <a
-                        href="http://www.regular-expressions.info/quickstart.html"
-                        target="_blank">the Regular Expressions Quick Start</a>.</li>
-              
-                <li>Five Days of Git: Part 2: Record completion on Canvas as part of GitHub Test</li>
-            </ul></td>
-        </tr>
-        <tr id="d2022-02-04">
-            <td>
-                <h4>F 2-04</h4>
-            </td>
-            <td class="topic"><ul>
-                <li>Regex problem solving / debugging</li>
-                <li>Project possibilities and what's next! Initiate project proposal process</li>
-                <li>Regex Issues: Debugging and problem solving. Greedy and non-greedy matching. Selecting for what's not there. </li>
-            </ul></td>
-            <td class="doBeforeClass"><ul>
-                <li>Get as far as you can before class on <b><a href="../tutorials/RegexExerciseSonnets.html">Regex Exercise 2: Sonnets</a></b></li>
-                <li>Five Days of Git: Part 3: Record completion on Canvas as part of GitHub Test</li>
-            </ul></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th id="Week5">Week 5</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-02-07">
-            <td>
-                <h4>M 2-07</h4>
-            </td>
-            <td class="topic"> 
-                <ul>
-                    <li>Regex Lookahead. Debugging: Simplifying overcomplicated expressions.</li>
-                <li>Discussion of project ideas</li>
-            </ul> 
-            </td>
-            <td class="doBeforeClass"><ul>
-                <li><b><a href="../tutorials/RegexExerciseDracula.html">Regex Exercise 3: Dracula novel</a></b></li>
-                <li><!--<a href="https://github.com/newtfire/textAnalysis-Hub/issues/5">-->Canvas Discussion of student DH projects<!--</a>--></li>
-  
-                <li>Five Days of Git: Part 4: Record completion on Canvas.</li>
-            </ul></td>
-        </tr>
-        <tr id="d2022-02-09">
-            <td>
-                <h4>W 2-09</h4>
-            </td>
-            <td class="topic">  <ul><li>Regex Debugging, complexities of the Mulan script.</li>
-                <li>Projects discussion, look ahead.</li>
-                
-                
-                </ul></td>
-            <td class="doBeforeClass"><ul>
-                <li><b><a href="../tutorials/RegexExerciseScreenplay.html">Regex Exercise 4: Mulan Screenplay</a></b></li>
-                <li>Discussion of professional and student DH projects</li>
-                <li>Five Days of Git: Part 5: Record completion on Canvas to <strong>finish the GitHub Test</strong>.</li>
-                <li>Canvas Discussion of professional DH projects</li>
-                
-                <li>Begin posting proposal ideas <!--(DECIDE: Slack or textAnalysis-Hub?)--></li>
-                <li>Revisions of problematic regex assignments due if we asked for revisions</li>
-                
-            </ul></td>
-        </tr>
-        <tr id="d2022-02-11">
-            <td>
-                <h4>F 2-11</h4>
-            </td>
-            <td class="topic">
-                <ul>
-                    <li>Launch <strong><!--<a href="../tutorials/RegexExerciseMalteseFalcon.html">-->Take-home Regex Test<!--</a>--></strong> (due W 2/16).</li>
-                    <li>Semester project ideas</li>
-                    <li>Validity for a project: what is a schema? What is schema validation?</li>
-                    <li>Validation for Google Sheets</li>
-                    <li>How to write a Relax NG schema (review for some)</li>
-                    
-                </ul>
-            
-            </td>
-            <td class="doBeforeClass"><p>Read <a href="../tutorials/explainRNG.html">Intro to Relax NG</a></p>
-                
-                <ul>
-                    <li>Post Project ideas</li>
-                    
-                </ul></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th id="Week6">Week 6</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-02-14">
-            <td>
-                <h4>M 2-14</h4>
-            </td>
-            <td class="topic"><ul>
-                <li>Good projects: ideas, sources, teamwork expectations: discussion</li>
-                <li>Relax NG: data types and mixed content</li>
-                <li>Troubleshooting and debugging Relax NG</li>
-            </ul></td>
-            <td class="doBeforeClass"><ul>
-                <li><b><a href="../tutorials/RelaxNGExercise1.html">Relax NG Exercise 1</a></b> for classtime</li>
-                <li>Complete <strong><a href="../tutorials/RegexExerciseMalteseFalcon.html">Take-home Regex Test</a></strong> (by end of the day).</li>
-                <li>Read (and indicate on Canvas that you have read) our <a href="../tutorials/projectInit.html">Requirements for initiating semester projects</a> (by end of the day).</li>
-            </ul></td>
-        </tr>
-        <tr id="d2022-02-16">
-            <td>
-                <h4>W 2-16</h4>
-            </td>
-            <td class="topic"> <ul><li>Relax NG schemas for project management</li>
-                <li>Project ideas</li></ul></td>
-            <td class="doBeforeClass"> <ul>
-                <li><b><a href="../tutorials/RelaxNGExercise2.html">Relax NG exercise 2</a></b> <!--Choose a small text of a different type or genre than last
-                time, perform document analysis, write a schema, and mark up the
-                text according to the schema. Work with attributes, datatypes,
-                and mixed content in your schema.--></li>
-                <li>Post project your project idea(s) by today.</li>
-       
-            </ul></td>
-        </tr>
-        <tr id="d2022-02-18">
-            <td>
-                <h4>F 2-18</h4>
-            </td>
-            <td class="topic"><ul>
-                <li>Relax NG: Common problems (mixed content, repetition indicators). Simplifying your code. Documenting your schemas</li>
-                <li><strong>Form Project Teams</strong> (today or M 2-19): launch GitHub repos: Project Milestone 1</li>
-         
-            </ul></td>
-            <td class="doBeforeClass"><strong>Relax NG Exercise 3</strong></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th id="Week7">Week 7</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-02-21">
-            <td>
-                <h4>M 2-21</h4>
-            </td>
-            <td class="topic"><p>Project Teams</p>
-            <p>HTML review. Relationship to / difference from XML. Setting up docs/ directory for GitHub Pages.</p>
-            </td>
-            <td class="doBeforeClass"><p><strong>Project Milestone 1: </strong>Launch the project GitHub repo and invite your teammates and me to join (using Settings > Manage settings). Launch Slack channel for project and invite teammates and Dr. B. Post in your Slack project thread your available meeting times to help determine a regular meeting time for your group.</p></td>
-        </tr>
-        <tr id="d2022-02-23">
-            <td>
-                <h4>W 2-23</h4>
-            </td>
-            <td class="topic">HTML and CSS review
-                <ul>
-                    
-                    <li>HTML 5 semantic elements</li>
-                    <li>CSS box model</li>
-                    <li>Web browsers and display variations</li>
-                    <li>Positioning and controlling layouts with HTML: flexboxes</li>
-                </ul> 
-                          
-            </td>
-            <td class="doBeforeClass">Complete <b><!--<a href="https://newtfire.github.io/textAnalysis-Hub/htmlGpEx1.html">-->HTML Exercise 1<!--</a>--></b>.  The files go on your webspace: Provide the published web link to your files on Canvas.  </td>
-        </tr>
-        <tr id="d2022-02-25">
-            <td>
-                <h4>F 2-25</h4>
-            </td>
-            <td class="topic"><ul><li>Debugging HTML / CSS issues; resources for Looking Stuff Up. </li>
-                <li>Start XPath  and XQuery in oXygen, and in eXist-dB: simple functions and sequences. Exploring XML through child and descendant axes. Predicate
-                    filters.</li>
-            </ul></td>
-            <td class="doBeforeClass"><ul><li>Complete <b><!--<a href="https://newtfire.github.io/textAnalysis-Hub/htmlGpEx2.html">-->HTML/CSS Exercise 2<!--</a>--></b> <ul>
-                <li>Read about <a href="https://www.w3schools.com/html/html_accessibility.asp">HTML Accessibility</a> and apply what you learn about <dfn>accessible code</dfn> on your HTML code for headings, images (providing alt attributes), links, declaring the language. Try applying title attributes.</li>
-                <li>Read about <a href="https://www.w3schools.com/html/html_responsive.asp">Responsive HTML</a> and try applying what you learn to scaling some elements on your site. </li></ul>
-                The files go on your webspace: Provide the published web link to your files on Canvas. </li>
-                <li>Access <a href="http://exist.newtfire.org">newtfire eXist-dB</a> and find the eXide window.</li>
-            </ul>
-                
-           </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th id="Week8">Week 8</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-02-28">
-            <td>
-                <h4>M 2-28</h4>
-            </td>
-            <td class="topic">XPath predicates <code>[ ]</code> as filters. Awareness of sequences: An XPath sequence can be zero, one, or more results.
-                XPath functions and their <dfn>cardinality</dfn>: can they handle only one node at a time? Or many at once? Introducing the FLWOR</td>
-            <td class="doBeforeClass"><ul><li>Work with our <a href="../tutorials/explainXPath.html"><q>Follow the XPath</q></a> tutorial and work through <strong><a href="../tutorials/XPathExercise1-TA.html">XPath Exercise 1</a></strong></li>
-                <li>Project teams work toward Project Checkpoint 2.</li>
-            </ul></td>
-        </tr>
-        <tr id="d2022-03-02">
-            <td>
-                <h4>W 3-02</h4>
-            </td>
-            <td class="topic"> <ul>
-                <li>XQuery: Writing FLWOR statements and outputting HTML lists and
-                    tables</li>
-                <li>Outputting files and saving them to the eXist-db database for
-                    previewing</li>
-                <li>XQuery online and offline: in eXist and in &lt;oXygen/&gt;</li>
-            </ul></td>
-            <td class="doBeforeClass"><ul>
-                <li>Read and check out some things you can try in our newtFire eXist environment at Michael Kay’s <a href="http://www.stylusstudio.com/xquery-primer.html"><q>Learn XQuery in 10 Minutes</q> tutorial</a> and our <a href="../tutorials/explainXQuery.html">Introduction to XQuery and the eXist XML Database</a>.</li>
-                <li>(Due before class) <strong><a href="../tutorials/XQueryExercise1-TA.html">XQuery Exercise 1: XPath over a collection</a></strong></li>
-               
-            </ul></td>
-        </tr>
-        <tr id="d2022-03-04">
-            <td>
-                <h4>F 3-04</h4>
-            </td>
-            <td class="topic"><ul> <li>What you can count and measure with XPath in XQuery</li>
-                
-                <li>  Saving and Accessing files in the Newtfire eXist-db: set up individual
-                    and team project directories. </li>
-                <li>Test logging in to <a href="http://exist.newtfire.org">newtfire eXist-dB</a></li>
-            </ul></td>
-            <td class="doBeforeClass"><ul><li><strong><a href="../tutorials/XQueryExercise2-TA.html">XQuery Exercise 2: Writing a FLWOR</a></strong></li>
-                <li><strong>Project Checkpoint 2</strong> (due by the end of the day): <ul>
-                    <li>Create a file directory structure for the project GitHub repo(s): Initiate the project website within the docs directory with an index.html page and some CSS. Consult with your team and Dr. B to decide on a place to work on the text files (in its own directory, or in a separate private repo?) and create that space. Create a directory for XML files. Begin populating those file directories (even with placeholder Readme.md files to describe what belongs where).</li>
-                    <li>Assemble the text files you want to work with on the project. As a team, work on document analysis to plan for how you want these to be marked for structure. What XML structure do you want to use to contain meaningful units of text data? Aim for a clear, simple structure that distinguishes the kind of info you want to be able to track.</li>
-                    
-                </ul></li>
-            </ul></td>
-        </tr>
-    </table>
-    <table>
-        <tr id="d2022-03-07">
-            <td>
-                <h4>M 3-07 — F 3-11</h4>
-            </td>
-            <td class="topic"><strong>Spring Break</strong></td>
-            <td class="doBeforeClass">Enjoy this week!</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th id="Week10">Week 9</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-03-14">
-            <td>
-                <h4>M 3-14</h4>
-            </td>
-            <td class="topic"><ul><li>What can we do with <strong>XQuery for loops</strong>: over XML nodes, and <q>off the tree</q> over text values (like distinct-values).</li>
-                <li>XQuery from eXist to Web: Writing HTML output from eXist-dB</li></ul></td>
-            <td class="doBeforeClass"> <b><a href="../tutorials/XQueryExercise3-TA.html">XQuery Ex 3: Querying the Disney Songs</a></b></td>
-        </tr>
-        <tr id="d2022-03-16">
-            <td>
-                <h4>W 3-16</h4>
-            </td>
-            <td class="topic">XQuery to HTML. Working with eXist-dB outputs. </td>
-            <td class="doBeforeClass"><b><a href="../tutorials/XQueryExercise4-TA.html">XQuery Exercise 4: Disney Songs data to HTML</a></b></td>
-        </tr>
-        <tr id="d2022-03-18">
-            <td>
-                <h4>F 3-18</h4>
-            </td>
-            <td class="topic">Project Work / Catch-up day</td>
-            <td class="doBeforeClass"><strong>Project Milestone</strong>: preparing file(s) for your project collection to explore with XQuery</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th id="Week11">Week 10</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-03-21">
-            <td>
-                <h4>M 3-21</h4>
-            </td>
-            <td class="topic">XQuery to HTML. Other output formats to save: 
-                preparing for network analysis: The CSV / TSV file.</td>
-            <td class="doBeforeClass"><strong><a href="../tutorials/XQueryExercise5-TA.html">XQuery Exercise 5</a></strong></td>
-        </tr>
-        <tr id="d2022-03-23">
-            <td>
-                <h4>W 3-23</h4>
-            </td>
-            <td class="topic">Reviewing XQuery so far. Issues with for loops, building files, saving outputs. Prep for Project Milestone(s).</td>
-            <td class="doBeforeClass"></td>
-        </tr>
-        <tr id="d2022-03-25">
-            <td>
-                <h4>F 3-25</h4>
-            </td>
-            <td class="topic"> <p>XML that makes graphics: SVG (Scalable Vector Graphics). Drawing elements,
-                and screen grid coordinates. </p>
-                <p><a href="https://www.slideshare.net/ebbondar/svg-81556046" target="_blank"
-                    >Introductory Slideshow</a>. and <a
-                        href="https://www.w3schools.com/graphics/svg_intro.asp" target="_blank"
-                        >w3Schools SVG Tutorial</a>.</p></td>
-            <td class="doBeforeClass"><ul><li>Projects: Midterm Checkpoint
-                <ul><li>All or most of your texts are prepared in XML and (nearly) ready for XQuery and analysis. Or the work remaining to prepare your texts is easily defined on your GitHub Issues for the project.</li>
-                    <li>Relax NG schema is prepared and associated with your files. The team is has been error-correcting and proofing the text base.</li>
-                    <li>The website is progressing: there is a site menu and more than one page. Some content appears to announce what this project is about and what questions the team is exploring. </li>
-                    <li>Some XQuery over all of some of the team XML is present in the team GitHub repo, and some results of that XQuery are shared, if not on the website, at least in the repo.</li>
-                    
-                </ul>
-            </li></ul></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th id="Week12">Week 11</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-03-28">
-            <td>
-                <h4>M 3-28</h4>
-            </td>
-            <td class="topic">XQuery to SVG: Pulling data for visualizing, and plotting graphs using FLWOR statements. Namespace issues.</td>
-            <td class="doBeforeClass"> <ul>
-                <li>Work through <a href="https://www.w3schools.com/graphics/svg_intro.asp"
-                    target="_blank">the w3schools SVG tutorial</a> to complete the SVG
-                    basic and SVG shapes pages. Filters, gradients, examples, and reference
-                    are optional.</li>
-                <li><strong><a href="../tutorials/SVGExercise1.html" target="_blank">SVG Exercise
-                    1</a></strong></li>
-            </ul></td>
-        </tr>
-        <tr id="d2022-03-30">
-            <td>
-                <h4>W 3-30</h4>
-            </td>
-            <td class="topic">XQuery to SVG: plotting, labelling, scaling, colors.</td>
-            <td class="doBeforeClass"><a href="../tutorials/SVGExercise2-TA.html"><b>SVG Exercise 2 (from XQuery)</b></a>: Plot a clear, simple, legible,
-                labelled graph.</td>
-        </tr>
-        <tr id="d2022-04-01">
-            <td>
-                <h4>F 4-01</h4>
-            </td>
-            <td class="topic">XQuery to SVG development. Introducing Network Analysis via XQuery and TSV files.</td>
-            <td class="doBeforeClass"><ul><li><strong>SVG Exercise 3</strong>: Catch up on previous XQuery exercises if you need to repair them. 
-                Continue with plotting SVG from Assassin's Creed, this time converting your plot to a bar graph: Prepare evenly-spaced side-by-side bars, so the count of actions is next to the count of distinct speakers. Prepare X and Y axes for your graph, and label your counts.</li>
-                <li>Prepare for Network Analysis: <a href="http://cytoscape.org/"
-                    target="_blank">Install Cytoscape on your computer</a>. Begin familiarizing
-                    yourself with the Cytoscape interface, working with Cytoscape session
-                    files (with .cys extension) in the textAnalysis-Hub in Class Examples >> XQuery-NetworkAnalysis. Try opening one of the Cytoscape
-                    session files (.cys) found in one of the project directories there following our tutorial instructions. 
-                </li>
-                <li>Read <a href="http://ebeshero.github.io/thalaba/cytosc.html"
-                    target="_blank"><cite class="sub">An Introduction to Network Analysis
-                        and Cytoscape for XML Coders</cite></a></li></ul></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th id="Week13">Week 12</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-04-04">
-            <td>
-                <h4>M 4-04</h4>
-            </td>
-            <td class="topic">Network Analysis: working with Cytoscape: Importing Data and working with the Network Analyzer and network stats.</td>
-            <td class="doBeforeClass"><a href="../tutorials/NetworkExercise1.html"><b>XQuery to Network Analysis: Exercise 1</b></a> (prepare a TSV for class today)</td>
-        </tr>
-        <tr id="d2022-04-06">
-            <td>
-                <h4>W 4-06</h4>
-            </td>
-            <td class="topic">Network Analysis, continued: Reorganizing and styling network visualizations. Working with output files on your website.</td>
-            <td class="doBeforeClass"><ul><li><a href="../tutorials/NetworkExercise2.html"><b>XQuery to Network Analysis: Exercise 2</b></a>                
-            </li>
-                <li>Get ready for the Python unit: <a
-                    href="https://www.jetbrains.com/pycharm-edu/">Install Jetbrains Pycharm Edu
-                    on your computer</a></li>
-            </ul></td>
-        </tr>
-        <tr id="d2022-04-08">
-            <td>
-                <h4>F 4-08</h4>
-            </td>
-            <td class="topic"><ul><li>Network Analysis in project development</li>
-                <li><strong>Issue <a href="../tutorials/XQuery-Test-TA.html">XQuery Test</a></strong></li>
-            </ul></td>
-            <td class="doBeforeClass"><ul>
-                <li>Make sure  <a
-                    href="https://www.jetbrains.com/pycharm-edu/">Jetbrains Pycharm Edu
-                    on your computer</a></li>
-                <li>Pycharm Edu: Intro to Python tutorials: starting working through Introduction through Variables </li>
-            </ul></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th id="Week14">Week 13</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-04-11">
-            <td>
-                <h4>M 4-11</h4>
-            </td>
-            <td class="topic">Introducing Python for Digital Humanities work: Orientation to Pycharm
-                Edu IDE and tutorial work together</td>
-            <td class="doBeforeClass"><ul>
-                <li><strong>Project Visualization Milestone:</strong> <ul><li>Each team prepares visualizations for the project with SVG and/or Network plots. Store these in the project GitHub repo and the newtfire eXist-dB database and post progress and links to these materials on Canvas</li>
-                    <li>Progress on Project Websites: <ul><li>Work on incorporating places for analysis and visualizations on the site.</li> 
-                        <li>Draft background information about your resources and their origins.</li> 
-                        <li>Write up and post the research questions the team is exploring.</li></ul></li>
-                    
-                </ul>
-                </li>
-            </ul> </td>
-        </tr>
-        <tr id="d2022-04-13">
-            <td>
-                <h4>W 4-13</h4>
-            </td>
-            <td class="topic">Python tutorial review together</td>
-            <td class="doBeforeClass"><ul>
-                <li>Complete Pycharm Edu Community tutorials: Introduction through Strings and submit evidence of completion (via screen capture) on Canvas.</li>
-                
-                
-                <!--  <li>Reading: <a
-                              href="http://www.dansinykin.com/uploads/8/4/0/2/84026824/all_models_are_wrong.pdf"
-                              >Richard Jean So, "All Models are Wrong" (PMLA) + Slack Discussion </a></li>-->
-                <li><strong><a href="../tutorials/XQuery-Test-TA.html">XQuery Test</a> due by 11:59pm</strong></li>
-            </ul></td>
-        </tr>
-        <tr id="d2022-04-15">
-            <td>
-                <h4>F 4-15</h4>
-            </td>
-            <td class="topic">Python: Working with libraries (modules and packages), saving and executing files. Introduce first project-data Python exercise.</td>
-            <td class="doBeforeClass">Pycharm Edu: FINISH the Intro to Python tutorials: Data structures (lists
-                and dictionaries), Functions, classes, and
-                objects, modules and packages, file input and output.
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th id="Week15">Week 14</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-04-18">
-            <td>
-                <h4>M 4-18</h4>
-            </td>
-            <td class="topic">Python NLP work on projects</td>
-            <td class="doBeforeClass"><a href="https://github.com/newtfire/textAnalysis-Hub/blob/main/python-nlp-exercise1.md"><strong>Python / project data exercise 1</strong></a></td>
-        </tr>
-        <tr id="d2022-04-20">
-            <td>
-                <h4>W 4-20</h4>
-            </td>
-            <td class="topic">Python NLP work on projects</td>
-            <td class="doBeforeClass"><ul>
-                <li>Reading/Discussion: <a
-                    href="http://www.dansinykin.com/uploads/8/4/0/2/84026824/all_models_are_wrong.pdf"
-                    >Richard Jean So, "All Models are Wrong" (PMLA) + Slack Discussion </a></li>
-                <li><a href="https://github.com/newtfire/textAnalysis-Hub/blob/main/python-nlp-exercise2.md"><strong>Python / project data exercise 2</strong></a>: output formats: making an SVG graph</li>
-            </ul></td>
-        </tr>
-        <tr id="d2022-04-22">
-            <td>
-                <h4>F 4-22</h4>
-            </td>
-            <td class="topic">Python NLP work on projects</td>
-            <td class="doBeforeClass"><strong>Python Exercise 3 (and Catch-Up):</strong> Pull and save precisely-named and filed text files from your project and process with NLP, continuing to experiment with selections of NLP data (parts of speech, named entities). 
-                File in Canvas and on GitHub repos</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th id="Week16">Week 15</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
-        <tr id="d2022-04-25">
-            <td>
-                <h4>M 4-25</h4>
-            </td>
-            <td class="topic">Putting it all together: Discussion, analysis, documentation, web work. Ethics in public-facing digital data representation. </td>
-            <td class="doBeforeClass"><ul>
-                <li>AI/Text analytics and ethics reading/discussion (Timnit Gebru, etc.)</li>
-                <li><strong>Project Milestone due</strong>: Visualization and Documentation Development</li></ul></td>
-        </tr>
-        <tr id="d2022-04-27">
-            <td>
-                <h4>W 4-27</h4>
-            </td>
-            <td class="topic">Thinking about user experience, range of audiences. Data curation, analytics, and ethics issues</td>
-            <td class="doBeforeClass">Prep for presentations</td>
-        </tr>
-        <tr id="d2022-04-29">
-            <td>
-                <h4>F 4-29</h4>
-            </td>
-            <td class="topic">Last Day! <strong>Teams deliver DIGIT Works presentations</strong></td>
-            <td class="doBeforeClass">Prep for presentations</td>
-        </tr>
-    </table>
-    <table><tr><th><span class="h4">Finals Week: May 2 - 6</span></th>
-        <th><span class="h4"><em>To Complete</em></span></th></tr>
-        <tr id="d2022-05-05">
-            <td>
-                <h4>H 5-05</h4>
-            </td>
-            <td><p><strong>Semester projects due by 11:59pm</strong></p>
-                <p>Finish developing projects, and send a post to me on GitHub and Canvas to indicate your team is finished.</p>
-            </td>
-        </tr>
-    </table>
 </div>
          <!--Schedule div ends above here. -->
          </div>

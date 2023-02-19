@@ -1,0 +1,60 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/bsf15" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:23:55.182Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Java_Ex3ebb.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:55.263Z" modified="2021-12-30T05:23:55.263Z" filename="Java_Ex3ebb.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Java_Ex3.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:55.36Z" modified="2021-12-30T05:23:55.36Z" filename="Java_Ex3.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="filer_svg4.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:55.507Z" modified="2021-12-30T05:23:55.507Z" filename="filer_svg4.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:56.19Z" modified="2021-12-30T05:23:56.19Z" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="updatedtimeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:56.252Z" modified="2021-12-30T05:23:56.252Z" filename="updatedtimeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timelineSVG3.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:56.506Z" modified="2021-12-30T05:23:56.506Z" filename="timelineSVG3.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG4" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:55.183Z" modified="2021-12-30T05:23:55.183Z" filename="SVG4" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamilton_actOne_ref" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:55.437Z" modified="2021-12-30T05:23:55.437Z" filename="hamilton_actOne_ref" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="networkData.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:55.578Z" modified="2021-12-30T05:23:55.578Z" filename="networkData.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MyNetworkData" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:55.728Z" modified="2021-12-30T05:23:55.728Z" filename="MyNetworkData" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamilton_act_two_ref_data.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:55.789Z" modified="2021-12-30T05:23:55.789Z" filename="hamilton_act_two_ref_data.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapLocs.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:55.85Z" modified="2021-12-30T05:23:55.85Z" filename="mapLocs.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Java_Ex_3" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:55.922Z" modified="2021-12-30T05:23:55.922Z" filename="Java_Ex_3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamilton_ref" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:55.99Z" modified="2021-12-30T05:23:55.99Z" filename="hamilton_ref" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Java_Ex_3_WIP" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:56.054Z" modified="2021-12-30T05:23:56.054Z" filename="Java_Ex_3_WIP" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamilton_act_one_ref_data.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:56.123Z" modified="2021-12-30T05:23:56.123Z" filename="hamilton_act_one_ref_data.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamilton_ref_data.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:56.315Z" modified="2021-12-30T05:23:56.315Z" filename="hamilton_ref_data.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Placeography.kml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:56.383Z" modified="2021-12-30T05:23:56.383Z" filename="Placeography.kml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hamilton_actTwo_ref" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:56.445Z" modified="2021-12-30T05:23:56.445Z" filename="hamilton_actTwo_ref" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

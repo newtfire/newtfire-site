@@ -1,0 +1,28 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/piperpoetry" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:26:56.598Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="keywords.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:56.6Z" modified="2021-12-30T05:26:56.6Z" filename="keywords.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="collectionIndex.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:56.721Z" modified="2021-12-30T05:26:56.721Z" filename="collectionIndex.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="collectionIndexNew.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:58.158Z" modified="2021-12-30T05:26:58.158Z" filename="collectionIndexNew.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="piperNetWordtoPoem.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:56.798Z" modified="2021-12-30T05:26:56.798Z" filename="piperNetWordtoPoem.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="piperNetNew.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:56.876Z" modified="2021-12-30T05:26:56.876Z" filename="piperNetNew.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="poetry-master-doc.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:57.96Z" modified="2021-12-30T05:26:57.96Z" filename="poetry-master-doc.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="piperNetPoemNodes.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:58.023Z" modified="2021-12-30T05:26:58.023Z" filename="piperNetPoemNodes.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="piperNet.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:58.088Z" modified="2022-02-27T01:26:07.334Z" filename="piperNet.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="XML" filename="XML"/>
+</collection>

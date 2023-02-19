@@ -1,0 +1,51 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/resources/css/black-tie/images" version="1" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.201Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="ui-icons_ffcf29_256x240.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.203Z" modified="2021-12-30T05:04:52.203Z" filename="ui-icons_ffcf29_256x240.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_bbbbbb_256x240.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.206Z" modified="2021-12-30T05:04:52.206Z" filename="ui-icons_bbbbbb_256x240.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="animated-overlay.gif" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.209Z" modified="2021-12-30T05:04:52.209Z" filename="animated-overlay.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_glass_55_1c1c1c_1x400.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.211Z" modified="2021-12-30T05:04:52.211Z" filename="ui-bg_glass_55_1c1c1c_1x400.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_ffffff_256x240.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.213Z" modified="2021-12-30T05:04:52.213Z" filename="ui-icons_ffffff_256x240.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_highlight-hard_100_f9f9f9_1x100.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.216Z" modified="2021-12-30T05:04:52.216Z" filename="ui-bg_highlight-hard_100_f9f9f9_1x100.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_highlight-hard_40_aaaaaa_1x100.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.218Z" modified="2021-12-30T05:04:52.218Z" filename="ui-bg_highlight-hard_40_aaaaaa_1x100.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_diagonals-thick_8_333333_40x40.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.22Z" modified="2021-12-30T05:04:52.22Z" filename="ui-bg_diagonals-thick_8_333333_40x40.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_ededed_256x240.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.222Z" modified="2021-12-30T05:04:52.222Z" filename="ui-icons_ededed_256x240.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_highlight-soft_50_aaaaaa_1x100.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.225Z" modified="2021-12-30T05:04:52.225Z" filename="ui-bg_highlight-soft_50_aaaaaa_1x100.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_glass_40_111111_1x400.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.228Z" modified="2021-12-30T05:04:52.228Z" filename="ui-bg_glass_40_111111_1x400.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_inset-hard_45_cd0a0a_1x100.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.231Z" modified="2021-12-30T05:04:52.231Z" filename="ui-bg_inset-hard_45_cd0a0a_1x100.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_flat_65_ffffff_40x100.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.233Z" modified="2021-12-30T05:04:52.233Z" filename="ui-bg_flat_65_ffffff_40x100.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-bg_inset-hard_55_ffeb80_1x100.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.237Z" modified="2021-12-30T05:04:52.237Z" filename="ui-bg_inset-hard_55_ffeb80_1x100.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_4ca300_256x240.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.242Z" modified="2021-12-30T05:04:52.242Z" filename="ui-icons_4ca300_256x240.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ui-icons_222222_256x240.png" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:52.244Z" modified="2021-12-30T05:04:52.244Z" filename="ui-icons_222222_256x240.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

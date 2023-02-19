@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/dtd21" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:17:36.863Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="denne_xslt-3.xsl" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:39.322Z" modified="2020-08-07T21:17:39.322Z" filename="denne_xslt-3.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Denne-XSLT2-03-29.xsl" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:39.373Z" modified="2020-08-07T21:17:39.373Z" filename="Denne-XSLT2-03-29.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:39.744Z" modified="2020-08-07T21:17:39.744Z" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG2" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:36.864Z" modified="2020-08-07T21:17:36.864Z" filename="SVG2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MyNetworkData.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:39.248Z" modified="2020-08-07T21:17:39.248Z" filename="MyNetworkData.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="network" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:39.435Z" modified="2020-08-07T21:17:39.435Z" filename="network" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="denne_svg-3_attempt-3.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:39.494Z" modified="2020-08-07T21:17:39.494Z" filename="denne_svg-3_attempt-3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="denne_svg-3_attempt-2.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:39.56Z" modified="2020-08-07T21:17:39.56Z" filename="denne_svg-3_attempt-2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="denne_xslt-3.txt" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:39.685Z" modified="2020-08-07T21:17:39.685Z" filename="denne_xslt-3.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Starter_tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:39.807Z" modified="2020-08-07T21:17:39.807Z" filename="Starter_tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

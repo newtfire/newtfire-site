@@ -1,0 +1,6 @@
+xquery version "3.1";
+declare default element namespace "http://www.tei-c.org/ns/1.0";
+Let $shakes := collection('/db/apps/shakespeare/data/')
+for $s in $shakes
+Let $sCount :=$s//speaker=>Count()
+return $sCount

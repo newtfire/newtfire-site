@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/decameron" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:08.14Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="engDecameronTEI.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:08.142Z" modified="2021-12-30T05:24:08.142Z" filename="engDecameronTEI.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="itDecameron.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:10.698Z" modified="2021-12-30T05:24:10.698Z" filename="itDecameron.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

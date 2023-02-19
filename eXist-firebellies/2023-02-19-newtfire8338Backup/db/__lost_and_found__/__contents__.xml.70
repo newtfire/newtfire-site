@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/stf5123" version="1" owner="stf5123" group="dba" mode="775" created="2021-03-08T20:21:10.087Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="test%20shakes%20file" skip="no" owner="stf5123" group="stf5123" mode="755" created="2021-03-10T18:43:39Z" modified="2021-03-10T18:43:39Z" filename="test shakes file" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery_4.xql" skip="no" owner="stf5123" group="stf5123" mode="755" created="2021-03-12T18:45:38.359Z" modified="2021-03-12T18:45:38.359Z" filename="xquery_4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg3_fassett" skip="no" owner="stf5123" group="stf5123" mode="755" created="2021-03-24T15:05:32.045Z" modified="2021-03-24T18:12:12.288Z" filename="svg3_fassett" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg3_fassett.xql" skip="no" owner="stf5123" group="stf5123" mode="755" created="2021-03-24T17:58:53.999Z" modified="2021-03-24T18:12:17.564Z" filename="svg3_fassett.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimnlp2.txt" skip="no" owner="stf5123" group="stf5123" mode="644" created="2021-04-14T17:08:48.981Z" modified="2021-04-14T17:14:28.428Z" filename="grimnlp2.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimmnlp2.txt" skip="no" owner="stf5123" group="stf5123" mode="644" created="2021-04-14T17:16:36.886Z" modified="2021-04-14T17:17:18.411Z" filename="grimmnlp2.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery5_Fassett" skip="no" owner="stf5123" group="stf5123" mode="755" created="2021-03-18T16:47:25.989Z" modified="2021-03-18T16:47:25.989Z" filename="xquery5_Fassett" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimmnlp3.txt" skip="no" owner="stf5123" group="stf5123" mode="644" created="2021-04-16T18:21:36.675Z" modified="2021-04-16T18:22:37.543Z" filename="grimmnlp3.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimmwhole.txt" skip="no" owner="stf5123" group="stf5123" mode="644" created="2021-04-16T18:23:27.526Z" modified="2021-04-16T18:23:27.526Z" filename="grimmwhole.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimmwhole.xql" skip="no" owner="stf5123" group="stf5123" mode="755" created="2021-04-16T18:23:52.263Z" modified="2021-04-16T18:26:59.758Z" filename="grimmwhole.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grimmtitle.txt" skip="no" owner="stf5123" group="stf5123" mode="644" created="2021-04-17T16:05:49.442Z" modified="2021-04-17T16:05:49.442Z" filename="grimmtitle.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grim_fassett.txt" skip="no" owner="stf5123" group="stf5123" mode="644" created="2021-04-12T14:56:44.792Z" modified="2021-04-12T14:56:44.792Z" filename="grim_fassett.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test2Fassett.xql" skip="no" owner="stf5123" group="stf5123" mode="755" created="2021-04-06T01:41:28.215Z" modified="2021-04-06T01:41:28.215Z" filename="test2Fassett.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="part2.xql" skip="no" owner="stf5123" group="stf5123" mode="755" created="2021-04-06T01:46:22.663Z" modified="2021-04-06T01:46:22.663Z" filename="part2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG2_fassett.svg" skip="no" owner="stf5123" group="stf5123" mode="755" created="2021-03-24T01:25:36.533Z" modified="2021-03-24T01:25:36.533Z" filename="SVG2_fassett.svg" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG2_fassett.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-03-24T14:38:28.939Z" modified="2021-03-24T14:40:06.218Z" filename="SVG2_fassett.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/sxa585/SVG" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:28:01.574Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="SVG_Timeline_Two" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:01.575Z" modified="2021-12-30T05:28:01.575Z" filename="SVG_Timeline_Two" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_3(1)" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:01.656Z" modified="2021-12-30T05:28:01.656Z" filename="SVG_3(1)" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_Timeline" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:01.897Z" modified="2021-12-30T05:28:01.897Z" filename="SVG_Timeline" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_3" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:28:01.978Z" modified="2021-12-30T05:28:01.978Z" filename="SVG_3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

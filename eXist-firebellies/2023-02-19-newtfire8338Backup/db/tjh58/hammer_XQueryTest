@@ -1,0 +1,43 @@
+xquery version "3.1";
+<html>
+<head>
+<title>XQuery Exercise Test</title>    
+</head>
+<body>
+    <h1>Hammer XQuery Exercise</h1>
+{
+let $drafts := collection('/db/starwars/fixed/')//xml
+let $sortOrder := 
+            for $d in $drafts
+            let $date := $d//date/@date ! data()
+            order by $date
+            return $d
+            (:What sort order is doing is using the for loop to look into each individual draft and collect the date data in order to sort it via it's date, the earliest coming first, and latest coming last :)
+    for $sO at $pos in $sortOrder
+        let $sDraft := $sO//metadata/draft ! data()
+        let $sDate := $sO//metadata/date/@date ! data()
+        let $sTitle := $sO//metadata/title ! data()
+        let $spCount := $sO//sp => count()
+        (:let $spCount := $sO//sp/@spk ! data() ! normalize-space() => distinct-values():)
+        let $spkCount := $sO//sp/@spk ! data() ! normalize-space() => distinct-values() => count()
+return 
+    <table>
+        <tr>
+            <th>Draft</th>
+            <th>Title</th>
+            <th>Date</th>
+            <th>Unique Speaker Count</th>
+            <th>Speech Count</th>
+        </tr>
+        <tr>
+            <td>{$sDraft}</td>
+            <td>{$sTitle}</td>
+            <td>{$sDate}</td>
+            <td>{$spkCount}</td>
+            <td>{$spCount}</td>
+        </tr>
+    </table>
+    (:concat("The name of the ", $sDraft," is '",$sTitle ,"', it was completed on ",$sDate,". The amount of distinct speakers that appear are ", $spkCount,", and the ammount of speeches in the draft are ", $spCount,"."):)
+}
+</body>
+</html>

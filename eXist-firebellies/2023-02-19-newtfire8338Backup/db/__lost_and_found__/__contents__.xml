@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/mitford/literary" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:15:51.432Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="OVAGreatFarmHouse.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:51.433Z" modified="2020-08-07T21:15:51.433Z" filename="OVAGreatFarmHouse.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVTheTalkingLady.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:51.514Z" modified="2020-08-07T21:15:51.514Z" filename="OVTheTalkingLady.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVACountryCricket-Match.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:51.589Z" modified="2020-08-07T21:15:51.589Z" filename="OVACountryCricket-Match.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVEllen.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:51.679Z" modified="2020-08-07T21:15:51.679Z" filename="OVEllen.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PublicationHistory_Rienzi.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:51.753Z" modified="2020-08-07T21:15:51.753Z" filename="PublicationHistory_Rienzi.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Charles1.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:52.31Z" modified="2020-08-07T21:15:52.31Z" filename="Charles1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="WatlingtonHill.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:52.609Z" modified="2020-08-07T21:15:52.609Z" filename="WatlingtonHill.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Rienzi_headnote.v2.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:52.701Z" modified="2020-08-07T21:15:52.701Z" filename="Rienzi_headnote.v2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVWalksInTheCountryTHAW.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:52.767Z" modified="2020-08-07T21:15:52.767Z" filename="OVWalksInTheCountryTHAW.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Englefield_House.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:52.821Z" modified="2020-08-07T21:15:52.821Z" filename="Englefield_House.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVTomCordery.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:52.896Z" modified="2020-08-07T21:15:52.896Z" filename="OVTomCordery.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVBramleyMaying.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:52.977Z" modified="2020-08-07T21:15:52.977Z" filename="OVBramleyMaying.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ColmanCmmntInCharlesIms.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:53.051Z" modified="2020-08-07T21:15:53.051Z" filename="ColmanCmmntInCharlesIms.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Foscari.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:53.261Z" modified="2020-08-07T21:15:53.261Z" filename="Foscari.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Charles1_headnote.v.3.0.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:53.549Z" modified="2020-08-07T21:15:53.549Z" filename="Charles1_headnote.v.3.0.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVCousinMary.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:53.638Z" modified="2020-08-07T21:15:53.638Z" filename="OVCousinMary.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PublicationHistoryNote_ChasI.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:53.703Z" modified="2020-08-07T21:15:53.703Z" filename="PublicationHistoryNote_ChasI.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="JulianMelfi.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:53.908Z" modified="2020-08-07T21:15:53.908Z" filename="JulianMelfi.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVOurVillage.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:54.167Z" modified="2020-08-07T21:15:54.167Z" filename="OVOurVillage.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ColmantoCoventGrdnChas1Letter2.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:54.242Z" modified="2020-08-07T21:15:54.242Z" filename="ColmantoCoventGrdnChas1Letter2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVPreface.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:54.305Z" modified="2020-08-07T21:15:54.305Z" filename="OVPreface.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVWalksInTheCountryTHECOWSLIPBALL.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:54.367Z" modified="2020-08-07T21:15:54.367Z" filename="OVWalksInTheCountryTHECOWSLIPBALL.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVLucy.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:54.438Z" modified="2020-08-07T21:15:54.438Z" filename="OVLucy.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Rienzi.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:54.956Z" modified="2020-08-07T21:15:54.956Z" filename="Rienzi.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-1823MRMJournal.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:55.473Z" modified="2020-08-07T21:15:55.473Z" filename="1819-1823MRMJournal.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVWalksInTheCountryFROST.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:55.574Z" modified="2020-08-07T21:15:55.574Z" filename="OVWalksInTheCountryFROST.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVHannah.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:55.644Z" modified="2020-08-07T21:15:55.644Z" filename="OVHannah.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1827Sonnets_REV.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:55.726Z" modified="2020-08-07T21:15:55.726Z" filename="1827Sonnets_REV.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ColmantoMontroseChas1.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:55.806Z" modified="2020-08-07T21:15:55.806Z" filename="ColmantoMontroseChas1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVWalksInTheCountryVIOLETING.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:55.872Z" modified="2020-08-07T21:15:55.872Z" filename="OVWalksInTheCountryVIOLETING.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ColmantoCoventGrdnChas1.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:55.941Z" modified="2020-08-07T21:15:55.941Z" filename="ColmantoCoventGrdnChas1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVModernAntiques.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:56.021Z" modified="2020-08-07T21:15:56.021Z" filename="OVModernAntiques.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1854_Intro_DramaticWorks.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:56.098Z" modified="2020-08-07T21:15:56.098Z" filename="1854_Intro_DramaticWorks.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OVWalksInTheCountryTHEFIRSTPRIMROSE.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:15:56.169Z" modified="2020-08-07T21:15:56.169Z" filename="OVWalksInTheCountryTHEFIRSTPRIMROSE.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

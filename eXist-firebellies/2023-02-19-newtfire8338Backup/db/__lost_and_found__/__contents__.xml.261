@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/dlk5486" version="1" owner="dlk5486" group="dba" mode="7775" created="2021-10-08T13:09:41.281Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Master_Tree_Book" skip="no" owner="dlk5486" group="dba" mode="644" created="2021-10-08T18:34:59.458Z" modified="2021-11-15T20:14:19.922Z" filename="Master_Tree_Book" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="BanksySVG2" skip="no" owner="dlk5486" group="dba" mode="755" created="2021-11-05T18:42:19.046Z" modified="2021-11-05T19:14:28.732Z" filename="BanksySVG2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="kellner_SVG3_TreeHeight" skip="no" owner="dlk5486" group="dba" mode="755" created="2021-11-10T01:23:46.342Z" modified="2021-11-10T02:22:08.742Z" filename="kellner_SVG3_TreeHeight" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="kellner_SVG3.svg" skip="no" owner="dlk5486" group="dba" mode="644" created="2021-11-10T02:33:39.091Z" modified="2021-11-10T02:33:39.091Z" filename="kellner_SVG3.svg" mimetype="text/text">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="class_date_example" skip="no" owner="dlk5486" group="dba" mode="755" created="2021-11-03T18:57:03.758Z" modified="2021-11-03T19:22:01.406Z" filename="class_date_example" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="kellner_SVG3" skip="no" owner="dlk5486" group="dba" mode="755" created="2021-11-10T02:48:02.497Z" modified="2021-11-10T19:29:06.221Z" filename="kellner_SVG3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="kellner_SVG3.xql" skip="no" owner="dlk5486" group="dba" mode="755" created="2021-11-10T20:25:01.382Z" modified="2021-11-12T20:07:40.343Z" filename="kellner_SVG3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Auto-Query" skip="no" owner="dlk5486" group="dba" mode="755" created="2021-10-11T13:43:00.016Z" modified="2021-10-11T13:43:00.016Z" filename="Auto-Query" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

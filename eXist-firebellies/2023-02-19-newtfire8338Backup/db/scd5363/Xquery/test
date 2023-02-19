@@ -1,0 +1,44 @@
+xquery version "3.1";
+<html>
+    <head>
+        <title>Star Wars</title>
+    </head>
+            <body>
+                {
+                let $drafts := collection('/db/starwars/fixed/')
+                let $sortOrder := $drafts
+                for $s at $pos in $sortOrder  
+                    (: this for loop takes element drafts and turns it in to element d :)
+                    (: then it makes date = date from the drafts via element d:)
+                    (: next it orders the dates chronological or by date then it returns the d variable and should get us all of the drafts in order by date:)
+                let $date := $s//date/@date ! data()
+                let $title := $s//title ! normalize-space() 
+                let $spkCount := $s//sp => count()
+                let $spkDiV := $s//sp/@spk ! normalize-space() => distinct-values()
+                let $spkDivCount := $s//sp/@spk ! normalize-space() => distinct-values() =>count()
+                (:concat ($pos," ",$title," ",$date," ", $spkCount," ", $spkDivCount):)
+                return
+                
+                <table border ="1">
+                    <tr>
+                        <th>pos</th>
+                        <th>Title </th>
+                        <th>Date</th>
+                        <th>Speech Count </th>
+                        <th>Speaaker Count</th>
+                    </tr>
+                    <tr>
+                        <th>{$pos}</th>
+                        <th>{$title} </th>
+                        <th>{$date}</th>
+                        <th>{$spkCount} </th>
+                        <th>{$spkDivCount}</th>
+                    </tr>
+                </table>
+                }
+    </body>
+</html>
+        (:  for $d in $drafts
+            let $date := $d//date/@date ! data()
+            order by $date
+            return $d:)

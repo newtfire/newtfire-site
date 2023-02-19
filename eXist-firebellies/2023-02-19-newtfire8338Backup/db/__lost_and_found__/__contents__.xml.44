@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/quantumSatire" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:12.421Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="ClassExTimeLineP1.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:12.809Z" modified="2020-08-07T21:14:12.809Z" filename="ClassExTimeLineP1.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="hallSVGEx5.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:12.931Z" modified="2020-08-07T21:14:12.931Z" filename="hallSVGEx5.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery1" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:12.422Z" modified="2020-08-07T21:14:12.422Z" filename="xquery1" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timelineStarter.xquery" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:12.636Z" modified="2020-08-07T21:14:12.636Z" filename="timelineStarter.xquery" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svgEx3.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:12.718Z" modified="2020-08-07T21:14:12.718Z" filename="svgEx3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery_to_svg.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:12.99Z" modified="2020-08-07T21:14:12.99Z" filename="xquery_to_svg.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hallSVGEx5.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:13.058Z" modified="2020-08-07T21:14:13.058Z" filename="hallSVGEx5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,22 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/config/db" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T04:54:29.839Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="collection.xconf" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T04:54:29.855Z" modified="2021-12-30T05:32:56.452Z" filename="collection.xconf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="apps" filename="apps"/>
+    <subcollection name="blake" filename="blake"/>
+    <subcollection name="blues" filename="blues"/>
+    <subcollection name="fv-spinecoll" filename="fv-spinecoll"/>
+    <subcollection name="hamilton" filename="hamilton"/>
+    <subcollection name="harryPotter" filename="harryPotter"/>
+    <subcollection name="kingdomofhearts" filename="kingdomofhearts"/>
+    <subcollection name="letters" filename="letters"/>
+    <subcollection name="literary" filename="literary"/>
+    <subcollection name="mitford" filename="mitford"/>
+    <subcollection name="Nelson" filename="Nelson"/>
+    <subcollection name="newsAnalysis" filename="newsAnalysis"/>
+    <subcollection name="system" filename="system"/>
+    <subcollection name="tibetan" filename="tibetan"/>
+    <subcollection name="waldenft" filename="waldenft"/>
+    <subcollection name="avatar" filename="avatar"/>
+</collection>

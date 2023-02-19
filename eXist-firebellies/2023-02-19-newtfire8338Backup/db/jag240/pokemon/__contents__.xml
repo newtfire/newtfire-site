@@ -1,0 +1,33 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/jag240/pokemon" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:59.868Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="006.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:00.422Z" modified="2021-12-30T05:25:00.422Z" filename="006.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="008.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:00.581Z" modified="2021-12-30T05:25:00.581Z" filename="008.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="009.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:00.651Z" modified="2021-12-30T05:25:00.651Z" filename="009.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="002.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:59.869Z" modified="2021-12-30T05:24:59.869Z" filename="002.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="003.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:59.979Z" modified="2021-12-30T05:24:59.979Z" filename="003.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="001.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:00.051Z" modified="2021-12-30T05:25:00.051Z" filename="001.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="004.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:00.123Z" modified="2021-12-30T05:25:00.123Z" filename="004.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="010.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:00.193Z" modified="2021-12-30T05:25:00.193Z" filename="010.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="005.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:00.259Z" modified="2021-12-30T05:25:00.259Z" filename="005.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="007.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:00.352Z" modified="2021-12-30T05:25:00.352Z" filename="007.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

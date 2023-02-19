@@ -1,0 +1,14 @@
+xquery version "3.1";
+
+declare variable $textFile := 
+string-join(
+let $avatarEpisodes := collection('/db/avatar/TransformedScripts/')
+
+for $a in $avatarEpisodes
+    let $aTitle := $a//metadata/title ! normalize-space()
+    let $charAction := $a//p/charAction ! normalize-space() => distinct-values()
+
+    for $c in $charAction
+        return 
+        concat("episode", "&#x9;", $aTitle, "&#x9;", "character", "&#x9;", $c), "&#10;");
+$textFile

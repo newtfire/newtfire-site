@@ -1,0 +1,42 @@
+xquery version "3.1";
+declare variable $ThisFileContent :=
+<html>
+    <head><title> Mayan Sites from BC </title></head>
+    
+<body>   
+    <h1>Site</h1>
+    
+    <table>
+        <tr>
+            <th>Site</th> 
+            <th>Year</th>
+        </tr>
+{
+let $index := doc('/db/mayan/sitesIndex.xml/')
+let $site := $index//site
+for $s in $site
+let $dateActive := $s//dateActive
+let $name := $s//name
+where count ($s//dateActive[@lat])> 0 
+let $bc := $dateActive[@yearStart]! string ()
+return 
+    <tr>
+      <td>{$name}</td>
+      <td>
+          <ul>{ 
+              <li>{$bc}</li>
+          }
+          </ul>
+      </td>
+   </tr>
+}
+</table>
+</body>
+
+</html>;
+
+let $filename := "BC.html"
+let $doc-db-uri := xmldb:store("/db/sxa585", $filename, $ThisFileContent, "html")
+return $doc-db-uri 
+(:http://newtfire.org:8338/exist/rest/db/sxa585/BC.html:)  
+

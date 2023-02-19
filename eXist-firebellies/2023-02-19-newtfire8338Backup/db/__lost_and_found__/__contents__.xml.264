@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/dxh405" version="1" owner="dxh405" group="dba" mode="775" created="2021-03-08T20:23:55.708Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="assassinsBarGraphSVG.svg" skip="no" owner="dxh405" group="dxh405" mode="644" created="2021-04-02T17:49:14.967Z" modified="2021-04-02T18:00:24.186Z" filename="assassinsBarGraphSVG.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="xqueryweb.svg" skip="no" owner="dxh405" group="dxh405" mode="644" created="2021-04-23T20:32:38.077Z" modified="2021-04-23T21:09:39.071Z" filename="xqueryweb.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="assassinsBarGraphWEB.svg" skip="no" owner="dxh405" group="dxh405" mode="644" created="2021-04-23T20:52:06.755Z" modified="2021-04-23T21:13:03.209Z" filename="assassinsBarGraphWEB.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="xqueryTestOP.svg" skip="no" owner="dxh405" group="dxh405" mode="644" created="2021-04-05T18:52:24.656Z" modified="2021-04-23T20:32:20.892Z" filename="xqueryTestOP.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dxhSVG2-output.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-03-24T15:02:54.04Z" modified="2021-03-24T15:43:10.069Z" filename="dxhSVG2-output.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Hough_svg_02.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-03-24T14:54:36.54Z" modified="2021-03-24T15:43:12.086Z" filename="Hough_svg_02.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AssassinscreedSVG" skip="no" owner="dxh405" group="dxh405" mode="755" created="2021-04-02T17:41:43.286Z" modified="2021-04-02T18:34:11.415Z" filename="AssassinscreedSVG" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="acNetwork.tsv" skip="no" owner="dxh405" group="dxh405" mode="644" created="2021-03-29T21:16:18.281Z" modified="2021-04-02T18:35:03.64Z" filename="acNetwork.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ACWEB.xql" skip="no" owner="dxh405" group="dxh405" mode="755" created="2021-04-23T20:52:55.296Z" modified="2021-04-23T20:54:16.148Z" filename="ACWEB.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xqueryTestAC.xql" skip="no" owner="dxh405" group="dxh405" mode="755" created="2021-04-05T19:01:13.072Z" modified="2021-04-23T20:56:45.7Z" filename="xqueryTestAC.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="DisneyNetwork" skip="no" owner="dxh405" group="dxh405" mode="755" created="2021-03-29T20:37:47.14Z" modified="2021-03-29T20:37:47.14Z" filename="DisneyNetwork" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="acNetwork" skip="no" owner="dxh405" group="dxh405" mode="755" created="2021-03-29T20:52:56.299Z" modified="2021-03-29T21:16:16.836Z" filename="acNetwork" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

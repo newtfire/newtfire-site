@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/Erica_queries" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:17:32.708Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="elisa-frequency-XMLout" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32.709Z" modified="2020-08-07T21:17:32.709Z" filename="elisa-frequency-XMLout" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_retrieve_1_doc" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32.772Z" modified="2020-08-07T21:17:32.772Z" filename="draft_mez_retrieve_1_doc" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp15" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32.834Z" modified="2020-08-07T21:17:32.834Z" filename="myapp15" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tester-elisa" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32.9Z" modified="2020-08-07T21:17:32.9Z" filename="tester-elisa" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_hello_world" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:32.958Z" modified="2020-08-07T21:17:32.958Z" filename="draft_mez_hello_world" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp13" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.014Z" modified="2020-08-07T21:17:33.014Z" filename="myapp13" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_count_number_paras" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.081Z" modified="2020-08-07T21:17:33.081Z" filename="draft_mez_count_number_paras" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp12-partial" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.151Z" modified="2020-08-07T21:17:33.151Z" filename="myapp12-partial" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp4-text" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.211Z" modified="2020-08-07T21:17:33.211Z" filename="myapp4-text" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="elisa-mod-MissJames" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.281Z" modified="2020-08-07T21:17:33.281Z" filename="elisa-mod-MissJames" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_coll_titleStmt_title_2" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.35Z" modified="2020-08-07T21:17:33.35Z" filename="draft_mez_coll_titleStmt_title_2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp14-json" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.419Z" modified="2020-08-07T21:17:33.419Z" filename="myapp14-json" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp8" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.477Z" modified="2020-08-07T21:17:33.477Z" filename="myapp8" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp6" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.532Z" modified="2020-08-07T21:17:33.532Z" filename="myapp6" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mysecondapp" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.598Z" modified="2020-08-07T21:17:33.598Z" filename="mysecondapp" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_count_letters_query" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.655Z" modified="2020-08-07T21:17:33.655Z" filename="draft_mez_count_letters_query" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp7" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.773Z" modified="2020-08-07T21:17:33.773Z" filename="myapp7" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp9" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.83Z" modified="2020-08-07T21:17:33.83Z" filename="myapp9" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_list_distinct_persNames_12-9-15" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:33.888Z" modified="2020-08-07T21:17:33.888Z" filename="draft_mez_list_distinct_persNames_12-9-15" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Mitford_passages_only" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34.029Z" modified="2020-08-07T21:17:34.029Z" filename="Mitford_passages_only" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_count_Miss_James_instances" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34.083Z" modified="2020-08-07T21:17:34.083Z" filename="draft_mez_count_Miss_James_instances" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="my-first-app" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34.142Z" modified="2020-08-07T21:17:34.142Z" filename="my-first-app" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp11" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34.205Z" modified="2020-08-07T21:17:34.205Z" filename="myapp11" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp10" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34.263Z" modified="2020-08-07T21:17:34.263Z" filename="myapp10" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Mitford-CoCit-Tables" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34.332Z" modified="2020-08-07T21:17:34.332Z" filename="Mitford-CoCit-Tables" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_count_number_persName" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34.409Z" modified="2020-08-07T21:17:34.409Z" filename="draft_mez_count_number_persName" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_count_persNames_opening_and_body" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34.468Z" modified="2020-08-07T21:17:34.468Z" filename="draft_mez_count_persNames_opening_and_body" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="erica_modifying_counts_of_xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34.541Z" modified="2020-08-07T21:17:34.541Z" filename="erica_modifying_counts_of_xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_count_distinct_vals_all_persName" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34.606Z" modified="2020-08-07T21:17:34.606Z" filename="draft_mez_count_distinct_vals_all_persName" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="draft_mez_return_all_persNames" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34.667Z" modified="2020-08-07T21:17:34.667Z" filename="draft_mez_return_all_persNames" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="elisa-pipeUnifierSample" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34.723Z" modified="2020-08-07T21:17:34.723Z" filename="elisa-pipeUnifierSample" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="myapp5" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:17:34.786Z" modified="2020-08-07T21:17:34.786Z" filename="myapp5" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="queries1" filename="queries1"/>
+</collection>

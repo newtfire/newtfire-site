@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eul85" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:36.743Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="eulSVG2-output.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:36.879Z" modified="2021-12-30T05:24:36.879Z" filename="eulSVG2-output.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG3" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:36.744Z" modified="2021-12-30T05:24:36.744Z" filename="SVG3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG3-ebbcomments.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:36.807Z" modified="2021-12-30T05:24:36.807Z" filename="SVG3-ebbcomments.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG-ex2.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:37.005Z" modified="2021-12-30T05:24:37.005Z" filename="SVG-ex2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

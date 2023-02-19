@@ -1,0 +1,36 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/smashtiers-queries" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:27:59.057Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="tier.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:59.407Z" modified="2021-12-30T05:27:59.407Z" filename="tier.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SuperSmashData.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:59.057Z" modified="2021-12-30T05:27:59.057Z" filename="SuperSmashData.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="charByTier.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:59.12Z" modified="2021-12-30T05:27:59.12Z" filename="charByTier.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="networktest.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:59.19Z" modified="2021-12-30T05:27:59.19Z" filename="networktest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tiersforPHP.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:59.257Z" modified="2021-12-30T05:27:59.257Z" filename="tiersforPHP.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SuperSmashData2.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:59.324Z" modified="2021-12-30T05:27:59.324Z" filename="SuperSmashData2.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="characterTierPerGame.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:59.555Z" modified="2021-12-30T05:27:59.555Z" filename="characterTierPerGame.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Network-SmashTiers.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:59.634Z" modified="2021-12-30T05:27:59.634Z" filename="Network-SmashTiers.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tiersforPHPcopy.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:59.714Z" modified="2021-12-30T05:27:59.714Z" filename="tiersforPHPcopy.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="GameList.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:59.792Z" modified="2021-12-30T05:27:59.792Z" filename="GameList.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tiers.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:27:59.868Z" modified="2021-12-30T05:27:59.868Z" filename="tiers.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

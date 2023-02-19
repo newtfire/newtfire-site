@@ -1,0 +1,109 @@
+xquery version "3.1";
+
+<html>
+    <head>
+        <title>Seuss</title>
+    </head>
+    <body style="margin: 0px;">
+        {
+        <div class="box" style="background-color:lightblue; padding-bottom:20px">
+            
+            <h1>
+                Dr. Seuss Book Data Overview
+            </h1>
+            
+            <svg height="200" width="500">
+            <g transform="translate(100,200)">
+                
+                <line x1="0" y1="0" x2="0" y2="-200" style="stroke:black;stroke-width:2" />
+                <line x1="0" y1="0" x2="200" y2="0" style="stroke:black;stroke-width:2" />
+                
+            </g>
+            </svg>
+            
+        </div>
+        }
+        {
+            let $book := collection('/db/luh429/')
+            for $b in $book
+            let $title := $b//title =>data()
+            let $char := $b//char/@name =>distinct-values()
+            let $line := $b//s =>count()
+            let $mUp := $b//mUp =>distinct-values()
+            let $sound := $b//sound =>distinct-values()
+            let $genre := $b//metadata/@genre ! normalize-space()
+            return
+               
+        <div class="box">
+            
+            <h1>
+                {$title}
+            </h1>
+            
+            <h2>
+                Book Type: {$genre}
+            </h2>
+            
+            <hr/>
+            
+            <h2>
+                Characters:
+            </h2>
+            
+            <ul>
+            {
+            for $c in $char
+            return
+                <li>{$c}</li>}
+            </ul>
+            
+            <h2>
+                Character Count: {$char =>count()}
+            </h2>
+            
+            <hr/>
+            
+            <h2>
+                Line Count: {$line}
+            </h2>
+            
+            <hr/>
+            
+            <h2>
+                Made up Words:
+            </h2>
+            
+            <ul>
+            {
+            for $m in $mUp
+            return
+                <li>{$m}</li>}
+            </ul>
+            
+            <h2>
+                Made up Word Count: {$mUp =>count()}
+            </h2>
+            
+            <hr/>
+            
+            <h2>
+                Sounds:
+            </h2>
+            
+            <ul>
+            {
+            for $s in $sound
+            return
+                <li>{$s}</li>}
+            </ul>
+            
+            <h2>
+                Sound Count: {$sound =>count()}
+            </h2>
+            
+            <hr/>
+            
+        </div>
+        }
+    </body>
+</html>

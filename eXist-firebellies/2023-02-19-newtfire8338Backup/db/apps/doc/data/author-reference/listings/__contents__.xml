@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/author-reference/listings" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:55.714Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="structure.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.715Z" modified="2021-12-30T05:04:55.715Z" filename="structure.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="example-xml.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.717Z" modified="2021-12-30T05:04:55.717Z" filename="example-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="info.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.718Z" modified="2021-12-30T05:04:55.718Z" filename="info.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="table.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.719Z" modified="2021-12-30T05:04:55.719Z" filename="table.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="figure.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.721Z" modified="2021-12-30T05:04:55.721Z" filename="figure.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="inlinefigure.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.722Z" modified="2021-12-30T05:04:55.722Z" filename="inlinefigure.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

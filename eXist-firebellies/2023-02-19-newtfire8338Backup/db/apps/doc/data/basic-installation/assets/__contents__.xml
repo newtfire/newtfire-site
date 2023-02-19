@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/basic-installation/assets" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:55.926Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="installer2.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.928Z" modified="2021-12-30T05:04:55.928Z" filename="installer2.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="launch2.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.93Z" modified="2021-12-30T05:04:55.93Z" filename="launch2.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="installer1.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.933Z" modified="2021-12-30T05:04:55.933Z" filename="installer1.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index1.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.936Z" modified="2021-12-30T05:04:55.936Z" filename="index1.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="launch1.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.939Z" modified="2021-12-30T05:04:55.939Z" filename="launch1.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,29 @@
+xquery version "3.1";
+<html>
+    <head><title>Song information List</title></head>
+    <body>
+    <h1>List of song artist, soung count, and title. </h1>
+    
+    <table>
+        <tr><th>Artist</th><th>Song Count</th><th>Titles</th></tr>
+{
+let $blues := collection('/db/blues')
+let $artists := $blues//artist ! normalize-space() => distinct-values() => sort()
+for $a in $artists
+let $titles := $blues[.//artist ! normalize-space() = $a]//title 
+let $titlecount := $titles =>count()
+order by $titlecount descending
+return 
+    <tr> 
+        <td>{$a}</td>
+        <td>{$titlecount}</td>
+        <td><ul>{for $t in $titles
+          return <li>{$t/text()}</li>  
+        }</ul>
+        </td>
+    </tr>
+    
+}
+ </table>
+</body>
+</html>

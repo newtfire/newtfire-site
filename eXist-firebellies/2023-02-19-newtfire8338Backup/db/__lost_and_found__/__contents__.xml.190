@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/config/db/tibetan/CHI" version="1" owner="phackett" group="dba" mode="751" created="2020-11-06T22:34:53.61Z">
+    <acl entries="0" version="1"/>
+</collection>

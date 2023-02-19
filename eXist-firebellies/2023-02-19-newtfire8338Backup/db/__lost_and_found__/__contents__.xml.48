@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/railroad" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:13:14.579Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="carclasstable.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:14.582Z" modified="2020-08-07T21:13:14.582Z" filename="carclasstable.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="companytable.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:14.789Z" modified="2020-08-07T21:13:14.789Z" filename="companytable.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="carloadtable.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:15.126Z" modified="2020-08-07T21:13:15.126Z" filename="carloadtable.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="company-id-list-query.xquery" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:14.639Z" modified="2020-08-07T21:13:14.639Z" filename="company-id-list-query.xquery" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="carloadtable.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:14.937Z" modified="2020-08-07T21:13:14.937Z" filename="carloadtable.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="class-id-list-query.xquery" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:15.206Z" modified="2020-08-07T21:13:15.206Z" filename="class-id-list-query.xquery" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="carloaddetail.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:13:15.282Z" modified="2020-08-07T21:13:15.282Z" filename="carloaddetail.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

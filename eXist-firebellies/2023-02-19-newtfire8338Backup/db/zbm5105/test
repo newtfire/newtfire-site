@@ -1,0 +1,49 @@
+xquery version "3.1";
+<html>
+<head>    
+    <title>Star Wars</title>
+</head>
+<body>
+{
+let $drafts := collection('/db/starwars/fixed/')
+(:  return $drafts:)
+let $sortOrder := $drafts
+for $s at $pos in $sortOrder            
+(: for $d in $drafts
+let $date := $d//date/@date ! data()
+order by $date :)
+let $title := $s//title ! normalize-space()
+let $date := $s//date/@date ! data()
+let $spCount := $s//sp => count()
+let $spk := $s//sp/@spk ! normalize-space()=> distinct-values()  
+let $spkCount := $s//sp/@spk ! normalize-space() => distinct-values()=> count()
+(: return concat($pos," Title ",$title," Date ",$date," spCount ",$spCount," spkCount ",$spkCount) :)
+return
+   
+    <table border="5">
+        <tr>
+            <th><b>Pos</b></th> <th><b>Title</b></th> <th><b>Date</b></th> <th><b>Speeches</b></th> <th><b>Speakers</b></th>
+        </tr>
+        <tr>
+            <th>{$pos}</th> <th>{$title}</th> <th>{$date}</th> <th>{$spCount}</th> <th>{$spkCount}</th>
+        </tr>
+    </table>
+}
+</body>
+</html>
+(: Question1 - let $drafts := collection('/db/starwars/fixed/'):)
+
+(: Question2 - The sort order variable is returning all of the dates of the starwars drafts from the oldest books to the newest books:)
+
+(: Question3 - for $s at $pos in $sortOrder :)
+
+(: Question 4 - let $title := $s//title - let $date := $s//date:)
+
+(: Question 5 - let $sp := $s//sp => count() - return $sp :)
+
+(: Question 6 - let $spk := $s//sp/@spk ! normalize-space()=>distinct-values() - return $spk:)
+
+(: Question 7 - let $spkCount := $s//sp/@spk ! normalize-space()=> distinct-values() => count() - return $spkCount :)
+
+(: Question 8 - return concat($pos," Title ",$title," Date ",$date," spCount ",$spCount," spkCount ",$spkCount) :)
+(: Question 9 -  I comented out the tag for the html to work :)

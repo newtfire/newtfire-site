@@ -1,0 +1,23 @@
+xquery version "3.1";
+<html>
+    <head><title>Years and Cars Manufactured</title></head>
+<body>
+    <h1>Years When Cars Were Manufactured</h1>
+     
+<table>
+    {
+    let $autocoll := collection('/db/auto/')/*
+    let $built := $autocoll//built
+    let $year := $built/@when ! string() => distinct-values() => sort()
+    for $y in $year
+    let $name := $autocoll[.//built/@when= $y]//name/text()
+    return
+        <tr>
+        <td>{$y}</td>
+        <td>{$name}</td>
+    </tr>
+    }
+</table>
+   
+</body>
+</html>

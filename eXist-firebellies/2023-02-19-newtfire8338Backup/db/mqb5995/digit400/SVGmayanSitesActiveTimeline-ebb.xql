@@ -1,0 +1,53 @@
+xquery version "3.1";
+(: ebb: I'm adding the SVG namespace to this to make the output be viewable in the browser as a graphic. So, I'm adding the Q{} for the qualified name to reach into the non-SVG elements in your source. :)
+declare variable $index := doc('/db/mayan/sitesIndex.xml');
+declare variable $sites := $index//Q{}mayanSites/Q{}site;
+declare variable $timelineSpacer := 2;
+declare variable $x-spacer := 20;
+declare variable $dates := $sites//Q{}dateActive/@* ! xs:integer(.);
+
+declare variable $minYear := $dates => min();
+declare variable $maxYear := $dates => max();
+  
+ declare variable $ThisFileContent := 
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="4000">
+   <g transform="translate(30, 30)">
+    <text x="200" y="0">{$minYear}</text>
+        <text x="200" y="{($maxYear - $minYear)}">{$maxYear}</text>
+         <text x="500" y="{($maxYear - $minYear)}">MaxYear - MinYear = {$maxYear - $minYear}</text>
+      <line x1="100" y1="0" x2="100" y2="{($maxYear - $minYear)}" stroke="purple" stroke-width="3"/>  
+      {
+      for $s at $pos in $sites
+      (:ebb: I think you were looking for the $pos variable in the XQuery for-loop, which just generates a number for each turn of the loop. :)
+      let $yearStartPos := $s/Q{}dateActive/@yearStart ! string() ! xs:integer(.) - $minYear
+      let $yearEndPos := $s/Q{}dateActive/@yearEnd ! string() ! xs:integer(.) - $minYear
+      let $siteLineX := 100 + $pos * $x-spacer
+      
+      return 
+  <g class="yeardata">    
+  
+   <circle class="start" cx="100" cy="{$yearStartPos}" r="10" fill="green"/>
+   <line class="yearStartHash" x1="100"  x2="{$siteLineX}" y1="{$yearStartPos}" stroke="purple" stroke-width="2" y2="{$yearStartPos}"/>
+    <line class="yearEndHash" x1="100"  x2="{$siteLineX}" y1="{$yearEndPos}" stroke="orange" y2="{$yearEndPos}" stroke-width="2"/>
+  <line class="startEndConnector" x1="{$siteLineX}" x2="{$siteLineX}" y1="{$yearStartPos}" y2="{$yearEndPos}" stroke-width="2" stroke="red"/> -->
+  <text fill="black" x="50" y="{$yearStartPos + 5}">{$s/Q{}dateActive/@yearStart ! string()}</text>
+  <text fill="black" x="50" y="{$yearEndPos + 5}">{$s/Q{}dateActive/@yearEnd ! string()}</text>
+   <text class="siteName" style="writing-mode: tb;" fill="black" x="{$siteLineX + 10}" y="{$yearStartPos + 50}">{$s/Q{}name ! string()}</text>
+   <circle cx="100" cy="{$yearEndPos}" r="10" fill="blue"/>
+          <!--<text x="100" y="{($y - $minYear) * $timelineSpacer}">{$y}</text>-->
+   
+   
+  </g>
+}
+      
+   </g>
+</svg>;
+
+$ThisFileContent
+(:  :let $filename := "SVGmayanSitesActiveTimeline-ebb.svg"
+let $doc-db-uri := xmldb:store("/db/mayan-queries", $filename, $ThisFileContent)
+return $doc-db-uri :)
+(:  : Output at http://newtfire.org:8338/exist/rest/db/mayan-queries/SVGmayanSitesActiveTimeline-ebb.svg :)
+
+
+

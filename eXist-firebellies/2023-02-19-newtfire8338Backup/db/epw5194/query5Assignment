@@ -1,0 +1,7 @@
+xquery version "3.1";
+let $blues := collection('/db/blues')
+let $titleCount := $blues//metadata/title ! normalize-space() =>distinct-values() 
+    for $b at $pos in $blues 
+    let $title := $blues//metadata/title
+let $artist := $blues//metadata/artist ! normalize-space() =>distinct-values() 
+return concat($titleCount, ':', $artist)

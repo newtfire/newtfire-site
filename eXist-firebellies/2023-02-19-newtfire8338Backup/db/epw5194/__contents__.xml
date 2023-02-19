@@ -1,0 +1,38 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/epw5194" version="1" owner="epw5194" group="dba" mode="755" created="2022-03-16T16:54:01.122Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="USER" who="admin" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="exercise1.svg" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-03-31T01:02:23.215Z" modified="2022-03-31T01:02:23.215Z" filename="exercise1.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query4Attempt2" skip="no" owner="epw5194" group="epw5194" mode="755" created="2022-03-21T04:24:09.675Z" modified="2022-03-21T04:24:09.675Z" filename="query4Attempt2" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query4Assignment" skip="no" owner="epw5194" group="epw5194" mode="755" created="2022-03-17T23:30:25.19Z" modified="2022-03-21T04:24:17.675Z" filename="query4Assignment" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xqueryTest.xql" skip="no" owner="epw5194" group="epw5194" mode="755" created="2022-04-12T15:05:16.755Z" modified="2022-04-14T02:19:33.393Z" filename="xqueryTest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Emily_svg2.xql" skip="no" owner="epw5194" group="epw5194" mode="755" created="2022-04-01T01:37:12.68Z" modified="2022-04-01T17:27:11.574Z" filename="Emily_svg2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query5Assignment" skip="no" owner="epw5194" group="epw5194" mode="755" created="2022-03-24T03:08:48.166Z" modified="2022-03-30T22:22:30.978Z" filename="query5Assignment" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg2Emily-DrBGridLines.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-04-18T05:28:12.68Z" modified="2022-04-18T05:28:12.68Z" filename="svg2Emily-DrBGridLines.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query6Assignment" skip="no" owner="epw5194" group="epw5194" mode="755" created="2022-03-28T19:58:20.148Z" modified="2022-03-28T20:21:34.841Z" filename="query6Assignment" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drbquery.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-03-16T17:41:35.139Z" modified="2022-03-16T17:41:35.139Z" filename="drbquery.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg2Emily" skip="no" owner="epw5194" group="epw5194" mode="755" created="2022-03-31T00:57:42.964Z" modified="2022-04-01T01:34:42.389Z" filename="svg2Emily" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Emily_svg2" skip="no" owner="epw5194" group="epw5194" mode="755" created="2022-04-01T01:35:05.083Z" modified="2022-04-01T01:35:05.083Z" filename="Emily_svg2" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

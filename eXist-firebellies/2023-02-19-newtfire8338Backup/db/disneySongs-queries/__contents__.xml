@@ -1,0 +1,63 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/disneySongs-queries" version="1" owner="wdjacca" group="dba" mode="775" created="2021-12-30T05:24:23.071Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="personography-aladdin.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:23.366Z" modified="2021-12-30T05:24:23.366Z" filename="personography-aladdin.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listofRef.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:23.432Z" modified="2021-12-30T05:24:23.432Z" filename="listofRef.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="masterSongwithMeta.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:23.6Z" modified="2021-12-30T05:24:23.6Z" filename="masterSongwithMeta.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="personography-bnb.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:23.691Z" modified="2021-12-30T05:24:23.691Z" filename="personography-bnb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="masterSongList.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:23.781Z" modified="2021-12-30T05:24:23.78Z" filename="masterSongList.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Personography.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:23.863Z" modified="2021-12-30T05:24:23.863Z" filename="Personography.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="personography-bnb.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:24.358Z" modified="2021-12-30T05:24:24.358Z" filename="personography-bnb.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="personography-aladdin.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:24.527Z" modified="2021-12-30T05:24:24.527Z" filename="personography-aladdin.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="masterSongList.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:23.072Z" modified="2021-12-30T05:24:23.072Z" filename="masterSongList.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="php-bnb_movies.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:23.141Z" modified="2021-12-30T05:24:23.141Z" filename="php-bnb_movies.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="php-bnb-movies.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:23.22Z" modified="2021-12-30T05:24:23.22Z" filename="php-bnb-movies.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Personography.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:23.293Z" modified="2021-12-30T05:24:23.293Z" filename="Personography.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="songcount.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:23.5Z" modified="2021-12-30T05:24:23.5Z" filename="songcount.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="personography-bnb.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:23.93Z" modified="2021-12-30T05:24:23.93Z" filename="personography-bnb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="personography-aladdin.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:24.066Z" modified="2021-12-30T05:24:24.066Z" filename="personography-aladdin.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="php-movie-songs.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:24.138Z" modified="2021-12-30T05:24:24.138Z" filename="php-movie-songs.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="php-aladdin-movies.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:24.207Z" modified="2021-12-30T05:24:24.207Z" filename="php-aladdin-movies.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="php-aladdin_movies.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:24.276Z" modified="2021-12-30T05:24:24.276Z" filename="php-aladdin_movies.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MasterList.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:24.45Z" modified="2021-12-30T05:24:24.45Z" filename="MasterList.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SongListwithMeta.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:24.594Z" modified="2021-12-30T05:24:24.594Z" filename="SongListwithMeta.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

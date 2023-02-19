@@ -1,0 +1,20 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tjh58" version="1" owner="tjh58" group="dba" mode="755" created="2022-03-16T16:42:48.502Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="USER" who="admin" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="BinaryResource" name="drbComments-hammer_XQueryTest" skip="no" owner="admin" group="dba" mode="755" created="2022-05-07T22:36:25.041Z" modified="2022-05-07T22:43:20.907Z" filename="drbComments-hammer_XQueryTest" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hammer_xqueryexercise2" skip="no" owner="tjh58" group="tjh58" mode="755" created="2022-04-06T04:15:59.42Z" modified="2022-04-06T04:15:59.42Z" filename="hammer_xqueryexercise2" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hammer_XQuery4Exercise" skip="no" owner="tjh58" group="tjh58" mode="755" created="2022-04-06T17:31:08.41Z" modified="2022-04-07T05:21:44.15Z" filename="hammer_XQuery4Exercise" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hammer-xquery-exercise2wip.xql" skip="no" owner="tjh58" group="tjh58" mode="755" created="2022-03-16T17:42:23.203Z" modified="2022-03-16T17:42:23.203Z" filename="hammer-xquery-exercise2wip.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hammer_XQueryTest" skip="no" owner="tjh58" group="tjh58" mode="755" created="2022-04-13T00:18:07.269Z" modified="2022-04-13T00:18:07.269Z" filename="hammer_XQueryTest" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

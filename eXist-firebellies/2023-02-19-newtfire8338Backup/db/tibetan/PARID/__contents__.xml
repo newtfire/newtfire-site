@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tibetan/PARID" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:29:29.918Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="2-05-00015-PARID.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:29.919Z" modified="2021-12-30T05:29:29.919Z" filename="2-05-00015-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00002-PARID.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:29.992Z" modified="2021-12-30T05:29:29.992Z" filename="2-07-00002-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-03-01128-PARID.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:30.078Z" modified="2021-12-30T05:29:30.078Z" filename="2-03-01128-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1-04-00032-PARID.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:30.143Z" modified="2021-12-30T05:29:30.143Z" filename="1-04-00032-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00125-PARID.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:30.315Z" modified="2021-12-30T05:29:30.315Z" filename="2-07-00125-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00129-PARID.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:30.414Z" modified="2021-12-30T05:29:30.414Z" filename="2-07-00129-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00001-PARID.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:30.618Z" modified="2021-12-30T05:29:30.618Z" filename="2-07-00001-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-03-00256-PARID.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:30.801Z" modified="2021-12-30T05:29:30.801Z" filename="2-03-00256-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00048-PARID.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:31.166Z" modified="2021-12-30T05:29:31.166Z" filename="2-07-00048-PARID.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

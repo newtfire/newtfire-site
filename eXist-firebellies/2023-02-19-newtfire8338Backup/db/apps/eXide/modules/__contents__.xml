@@ -1,0 +1,75 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/modules" version="1" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.479Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="search.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.481Z" modified="2021-12-30T05:04:53.481Z" filename="search.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="run-test.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.483Z" modified="2021-12-30T05:04:53.483Z" filename="run-test.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="error-handler.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.484Z" modified="2021-12-30T05:04:53.484Z" filename="error-handler.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="upload.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.486Z" modified="2021-12-30T05:04:53.486Z" filename="upload.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="git.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.488Z" modified="2021-12-30T05:04:53.488Z" filename="git.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="store.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.489Z" modified="2021-12-30T05:04:53.489Z" filename="store.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="session.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.491Z" modified="2021-12-30T05:04:53.491Z" filename="session.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="util.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.493Z" modified="2021-12-30T05:04:53.493Z" filename="util.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dbutils.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.495Z" modified="2021-12-30T05:04:53.495Z" filename="dbutils.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="validate-xml.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.497Z" modified="2021-12-30T05:04:53.497Z" filename="validate-xml.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="deployment.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.499Z" modified="2021-12-30T05:04:53.499Z" filename="deployment.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.501Z" modified="2021-12-30T05:04:53.501Z" filename="view.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="debuger.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.503Z" modified="2021-12-30T05:04:53.503Z" filename="debuger.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="compile.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.507Z" modified="2021-12-30T05:04:53.507Z" filename="compile.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="get-template.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.516Z" modified="2021-12-30T05:04:53.516Z" filename="get-template.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="collections.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.52Z" modified="2021-12-30T05:04:53.52Z" filename="collections.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="load.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.527Z" modified="2021-12-30T05:04:53.527Z" filename="load.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="synchronize.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.533Z" modified="2021-12-30T05:04:53.533Z" filename="synchronize.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="outline.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.54Z" modified="2021-12-30T05:04:53.54Z" filename="outline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tmpl.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.545Z" modified="2021-12-30T05:04:53.545Z" filename="tmpl.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.551Z" modified="2021-12-30T05:04:53.551Z" filename="config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="find.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.554Z" modified="2021-12-30T05:04:53.554Z" filename="find.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="apply-config.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.556Z" modified="2021-12-30T05:04:53.556Z" filename="apply-config.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docs.xql" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.559Z" modified="2021-12-30T05:04:53.559Z" filename="docs.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

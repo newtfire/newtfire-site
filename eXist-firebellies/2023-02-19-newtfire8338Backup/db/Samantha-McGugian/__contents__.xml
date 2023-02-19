@@ -1,0 +1,54 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/Samantha-McGugian" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:27:50.735Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="SHAKESFLOWEROutput.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:50.863Z" modified="2021-12-30T05:27:50.863Z" filename="SHAKESFLOWEROutput.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mcguigan_Mar_13_XQuery_2_Output.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:50.997Z" modified="2021-12-30T05:27:50.997Z" filename="mcguigan_Mar_13_XQuery_2_Output.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mcguigan_SVG3.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:52.077Z" modified="2021-12-30T05:27:52.077Z" filename="mcguigan_SVG3.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SVG4.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:52.18Z" modified="2021-12-30T05:27:52.18Z" filename="SVG4.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline.svg" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:52.248Z" modified="2021-12-30T05:27:52.248Z" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="java3.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:52.401Z" modified="2021-12-30T05:27:52.401Z" filename="java3.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapLocs2.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:50.736Z" modified="2021-12-30T05:27:50.736Z" filename="mapLocs2.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MyNetworkData.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:50.801Z" modified="2021-12-30T05:27:50.801Z" filename="MyNetworkData.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="wordColloc.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:50.924Z" modified="2021-12-30T05:27:50.924Z" filename="wordColloc.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="JAVA3.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:51.064Z" modified="2021-12-30T05:27:51.064Z" filename="JAVA3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mynetwork.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:51.165Z" modified="2021-12-30T05:27:51.165Z" filename="mynetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="InClassNestedFLWOR" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:51.321Z" modified="2021-12-30T05:27:51.321Z" filename="InClassNestedFLWOR" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mapLocs.txt" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:51.435Z" modified="2021-12-30T05:27:51.435Z" filename="mapLocs.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="newsColloc.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:51.938Z" modified="2021-12-30T05:27:51.938Z" filename="newsColloc.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="newsAnalysisNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:52.009Z" modified="2021-12-30T05:27:52.009Z" filename="newsAnalysisNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="newsAnalysisnetwork.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:52.315Z" modified="2021-12-30T05:27:52.315Z" filename="newsAnalysisnetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Placeography.kml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:52.47Z" modified="2021-12-30T05:27:52.47Z" filename="Placeography.kml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

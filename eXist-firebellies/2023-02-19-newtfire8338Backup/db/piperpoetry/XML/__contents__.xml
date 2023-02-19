@@ -1,0 +1,42 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/piperpoetry/XML" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:26:56.939Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="liminalDreaming_poem.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:56.94Z" modified="2021-12-30T05:26:56.94Z" filename="liminalDreaming_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="clockface_poem.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:57.005Z" modified="2021-12-30T05:26:57.005Z" filename="clockface_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="red_poem.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:57.068Z" modified="2021-12-30T05:26:57.068Z" filename="red_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="littleStories_poem.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:57.132Z" modified="2021-12-30T05:26:57.132Z" filename="littleStories_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rotten_poem.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:57.202Z" modified="2021-12-30T05:26:57.202Z" filename="rotten_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pulse_poem.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:57.318Z" modified="2021-12-30T05:26:57.318Z" filename="pulse_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="witness_poem.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:57.382Z" modified="2021-12-30T05:26:57.382Z" filename="witness_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lorn_poem.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:57.511Z" modified="2021-12-30T05:26:57.511Z" filename="lorn_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="hollow_poem.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:57.573Z" modified="2021-12-30T05:26:57.573Z" filename="hollow_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="host_poem.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:57.636Z" modified="2021-12-30T05:26:57.636Z" filename="host_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="toACorpse_poem.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:57.702Z" modified="2021-12-30T05:26:57.702Z" filename="toACorpse_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fromACorpse_poem.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:57.765Z" modified="2021-12-30T05:26:57.765Z" filename="fromACorpse_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="virga_poem.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:57.829Z" modified="2021-12-30T05:26:57.829Z" filename="virga_poem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

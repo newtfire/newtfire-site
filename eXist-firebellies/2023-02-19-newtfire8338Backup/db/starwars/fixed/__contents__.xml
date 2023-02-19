@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/starwars/fixed" version="1" owner="jbg5721" group="jbg5721" mode="755" created="2022-04-06T21:17:46.013Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="ANHfinalDraft.xml" skip="no" owner="fkb5105" group="fkb5105" mode="644" created="2022-04-06T21:20:27.94Z" modified="2022-04-06T21:20:27.94Z" filename="ANHfinalDraft.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ANHfirstDraft.xml" skip="no" owner="fkb5105" group="fkb5105" mode="644" created="2022-04-06T21:20:28.204Z" modified="2022-04-06T21:20:28.204Z" filename="ANHfirstDraft.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ANHroughDraft.xml" skip="no" owner="fkb5105" group="fkb5105" mode="644" created="2022-04-06T21:20:28.392Z" modified="2022-04-06T21:20:28.392Z" filename="ANHroughDraft.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ANHsecondDraft.xml" skip="no" owner="fkb5105" group="fkb5105" mode="644" created="2022-04-06T21:20:28.562Z" modified="2022-04-06T21:20:28.562Z" filename="ANHsecondDraft.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ANHthirdDraft.xml" skip="no" owner="fkb5105" group="fkb5105" mode="644" created="2022-04-06T21:20:28.711Z" modified="2022-04-06T21:20:28.711Z" filename="ANHthirdDraft.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="80"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>ada6c79bc59c40860db56fce83fcce98dfd4f8f0</digestPassword><group name="bca5125"/><group name="harrypotter"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://exist-db.org/security/description"/><metadata key="http://axschema.org/namePerson">Bianka Alexander</metadata><name>bca5125</name></account>

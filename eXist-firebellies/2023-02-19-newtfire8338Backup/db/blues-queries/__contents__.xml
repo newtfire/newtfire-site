@@ -1,0 +1,11 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/blues-queries" version="1" owner="mqb5995" group="blues" mode="775" created="2021-12-30T05:23:06.939Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="dba" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="BinaryResource" name="blues-analyzeString-dates.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:06.94Z" modified="2021-12-30T05:23:06.94Z" filename="blues-analyzeString-dates.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bluesDecades-Titles.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:07.045Z" modified="2021-12-30T05:23:07.045Z" filename="bluesDecades-Titles.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

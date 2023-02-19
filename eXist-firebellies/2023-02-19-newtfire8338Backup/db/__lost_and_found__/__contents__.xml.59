@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rParker" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:12:49.443Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="SVG_4_testOutput.svg" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51.901Z" modified="2020-08-07T21:12:51.901Z" filename="SVG_4_testOutput.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tiersLivreExternalLinks_clean.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51.304Z" modified="2020-08-07T21:12:51.304Z" filename="tiersLivreExternalLinks_clean.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nelsonPlacesAndCompanies" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:52.027Z" modified="2020-08-07T21:12:52.027Z" filename="nelsonPlacesAndCompanies" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG_4_query" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51.965Z" modified="2020-08-07T21:12:51.965Z" filename="SVG_4_query" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SchismLocations.txt" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51.832Z" modified="2020-08-07T21:12:51.832Z" filename="SchismLocations.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nelsonGrammar" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51.771Z" modified="2020-08-07T21:12:51.771Z" filename="nelsonGrammar" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nelsonLocRefs" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51.706Z" modified="2020-08-07T21:12:51.706Z" filename="nelsonLocRefs" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nelsonGrammarNounsFirst" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51.644Z" modified="2020-08-07T21:12:51.644Z" filename="nelsonGrammarNounsFirst" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nelsonOrgsArticles" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51.58Z" modified="2020-08-07T21:12:51.58Z" filename="nelsonOrgsArticles" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tiersLivreExternalLinks_query" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:51.449Z" modified="2020-08-07T21:12:51.449Z" filename="tiersLivreExternalLinks_query" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="2017-03-17-classExample-MITFORD.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:12:49.444Z" modified="2020-08-07T21:12:49.444Z" filename="2017-03-17-classExample-MITFORD.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="BlackRockHistSociety" filename="BlackRockHistSociety"/>
+</collection>

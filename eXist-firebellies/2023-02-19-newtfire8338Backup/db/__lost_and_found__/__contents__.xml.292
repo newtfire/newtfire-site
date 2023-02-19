@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ice5017" version="1" owner="ice5017" group="dba" mode="775" created="2021-03-08T20:20:19.425Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="xqueryTestICE.svg" skip="no" owner="ice5017" group="ice5017" mode="644" created="2021-04-07T16:28:49.689Z" modified="2021-04-07T18:06:51.8Z" filename="xqueryTestICE.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="acDiologue.txt" skip="no" owner="ice5017" group="ice5017" mode="644" created="2021-04-14T21:16:01.405Z" modified="2021-04-14T22:03:59.54Z" filename="acDiologue.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xqlDio" skip="no" owner="ice5017" group="ice5017" mode="755" created="2021-04-14T22:04:25.672Z" modified="2021-04-14T22:04:25.672Z" filename="xqlDio" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xqlTestEsterline.xql" skip="no" owner="ice5017" group="ice5017" mode="755" created="2021-04-07T18:02:07.004Z" modified="2021-04-07T18:09:19.966Z" filename="xqlTestEsterline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="acnetwork" skip="no" owner="ice5017" group="ice5017" mode="755" created="2021-04-02T20:43:41.898Z" modified="2021-04-03T03:45:50.651Z" filename="acnetwork" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

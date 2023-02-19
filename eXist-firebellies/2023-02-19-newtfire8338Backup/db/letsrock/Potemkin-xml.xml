@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <song name="Armor-clad Faith">
+        <metadata>
+            <sname>Armor-clad Faith</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+        <lyrics>
+            <oneoff n="1">
+                <line n="1"><i story="pot">Armor-clad Faith!</i></line>
+            </oneoff>
+            <verse n="1">
+                <line n="1">Noise fills the burning sky</line>
+                <line n="2">They struggle to testify</line>
+                <line n="3">Justice brings more corpses</line>
+                <line n="4">A disappointing verdict torches</line>
+                <line n="5">They smile for their last stand</line>
+                <line n="6">It cuts through something so bland</line>
+                <line n="7">Every single breath you take is a</line>
+                <line n="8">COUNT. DOWN. TO. YOUR. DEATH.</line>
+            </verse>
+            <oneoff n="2">
+                <line n="1">Nirvana</line>
+            </oneoff>
+            <chorus n="1">
+                <line n="1">Discord presides</line>
+                <line n="2">In Society</line>
+                <line n="3">Your Society</line>
+                <line n="4">Vantage - Creeps into</line>
+                <line n="5">Society - Your society</line>
+                <line n="6"><i story="pot">I'm a fool</i></line>
+                <line n="7"><i story="pot">I know nothing</i></line>
+                <line n="8"><i story="pot">I may sound like a silly clown</i></line>
+                <line n="9"><i story="pot">But I won't turn my back on life</i></line>
+                <line n="10">One day, all will rot away</line>
+                <line n="11"><parentheses>(But)</parentheses> All. I. Do. Is. Embrace, the, wounded,
+                    soul!</line>
+            </chorus>
+            <oneoff n="3">
+                <line n="1">Armor-clad Faith!</line>
+            </oneoff>
+            <verse n="2">
+                <line n="1"><i story="pot">Cruel Inequality</i></line>
+                <line n="2"><parentheses>(Paves way for our future)</parentheses></line>
+                <line n="3">A black and grey system</line>
+                <line n="4">Always dressed to impress</line>
+            </verse>
+            <verse n="3">
+                <line n="1">People drown in delusion</line>
+                <line n="2">Without reaching out for truth</line>
+                <line n="3"><parentheses>(With)</parentheses> thorned shield in the hand the
+                    troops</line>
+                <line n="4">MARCH TO OPPRESS THE YOUTH!</line>
+            </verse>
+            <oneoff n="4">
+                <line n="1">Nirvana</line>
+            </oneoff>
+            <chorus n="2">
+                <line n="1">Discord - Presides</line>
+                <line n="2">In society - Your society</line>
+                <line n="3">Vantege - Creeps into</line>
+                <line n="4">Society - Your society</line>
+                <line n="5">I'm a fool, I know nothing</line>
+                <line n="6">I take the role of a silly clown</line>
+                <line n="7">But I won't turn my back on life</line>
+                <line n="8">One day, all will rot away</line>
+                <line n="9"><parentheses>(But)</parentheses> All. I. Do. Is. Embrace, the, wounded,
+                    soul!</line>
+            </chorus>
+            <chorus n="3">
+                <line n="1">Discord - Presides</line>
+                <line n="2">In society - Your society</line>
+                <line n="3">Vantage - Creeps into</line>
+                <line n="4">Society - Your society</line>
+                <line n="5">I'm a fool, I know nothing</line>
+                <line n="6">I take the role of a silly clown</line>
+                <line n="7">But I won't turn my back on life</line>
+                <line n="8">I'm a fool, maybe I'm worthless</line>
+                <line n="9"><i story="pot">But this world created my faith</i></line>
+                <line n="10">So all I can do is stay hopeful and pray</line>
+            </chorus>
+            
+        </lyrics>
+
+        
+    </song>
+</xml>

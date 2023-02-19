@@ -1,0 +1,102 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eXide/src" version="1" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.383Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="snippet-helper.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.384Z" modified="2021-12-30T05:04:53.384Z" filename="snippet-helper.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="splitter.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.386Z" modified="2021-12-30T05:04:53.386Z" filename="splitter.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="events.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.388Z" modified="2021-12-30T05:04:53.388Z" filename="events.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dnd.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.39Z" modified="2021-12-30T05:04:53.39Z" filename="dnd.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="popup.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.392Z" modified="2021-12-30T05:04:53.392Z" filename="popup.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="util.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.394Z" modified="2021-12-30T05:04:53.394Z" filename="util.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="javascript-helper.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.395Z" modified="2021-12-30T05:04:53.395Z" filename="javascript-helper.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ace-modes.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.397Z" modified="2021-12-30T05:04:53.397Z" filename="ace-modes.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="less-helper.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.399Z" modified="2021-12-30T05:04:53.399Z" filename="less-helper.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xml-helper.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.401Z" modified="2021-12-30T05:04:53.401Z" filename="xml-helper.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="resources.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.403Z" modified="2021-12-30T05:04:53.403Z" filename="resources.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery-utils.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.405Z" modified="2021-12-30T05:04:53.405Z" filename="xquery-utils.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="templates.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.407Z" modified="2021-12-30T05:04:53.407Z" filename="templates.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="css-helper.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.413Z" modified="2021-12-30T05:04:53.413Z" filename="css-helper.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="history.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.415Z" modified="2021-12-30T05:04:53.415Z" filename="history.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="debuger.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.417Z" modified="2021-12-30T05:04:53.417Z" filename="debuger.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="help.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.418Z" modified="2021-12-30T05:04:53.418Z" filename="help.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="outline.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.42Z" modified="2021-12-30T05:04:53.42Z" filename="outline.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="menu.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.422Z" modified="2021-12-30T05:04:53.422Z" filename="menu.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="directory.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.426Z" modified="2021-12-30T05:04:53.426Z" filename="directory.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="layout.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.427Z" modified="2021-12-30T05:04:53.427Z" filename="layout.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="eXide.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.428Z" modified="2021-12-30T05:04:53.428Z" filename="eXide.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="editor.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.43Z" modified="2021-12-30T05:04:53.43Z" filename="editor.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="codevalidator.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.434Z" modified="2021-12-30T05:04:53.434Z" filename="codevalidator.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery-helper.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.436Z" modified="2021-12-30T05:04:53.436Z" filename="xquery-helper.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="commands.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.439Z" modified="2021-12-30T05:04:53.439Z" filename="commands.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="preferences.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.44Z" modified="2021-12-30T05:04:53.44Z" filename="preferences.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="visitor.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.442Z" modified="2021-12-30T05:04:53.442Z" filename="visitor.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="snippets.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.443Z" modified="2021-12-30T05:04:53.443Z" filename="snippets.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="deployment.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.446Z" modified="2021-12-30T05:04:53.446Z" filename="deployment.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="find.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.449Z" modified="2021-12-30T05:04:53.449Z" filename="find.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="quickfix.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.451Z" modified="2021-12-30T05:04:53.451Z" filename="quickfix.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mode-helper.js" skip="no" owner="eXide" group="monex" mode="775" created="2021-12-30T05:04:53.454Z" modified="2021-12-30T05:04:53.454Z" filename="mode-helper.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

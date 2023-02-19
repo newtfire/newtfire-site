@@ -1,0 +1,22 @@
+xquery version "3.1";
+<html>
+    <head><title>Disney Song Title Lengths</title>
+    </head>
+<body>
+    <h1>Order of Disney Songs by the longest to shortest title lengths and their position in the collection</h1>
+<ul>
+{
+let $disneySongs := collection('/db/disneySongs/')//xml
+let $songLengthsAll :=
+                 for $d in $disneySongs
+                 let $length := $d//title ! string-length()
+                 return $length for $d at $pos in $disneySongs
+    let $title := $d//metadata/title
+    let $titleCount := $d//title => count()
+     
+   
+return $titleCount
+}
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+xquery version "3.1";
+
+let $avatar := collection('/db/avatar/AvatarScripts')/root
+
+let $distinctSpk := $avatar//speech/@speaker ! string() => distinct-values() => sort()
+
+for $d at $pos in $avatar
+    let $distSpkCount := $d//speech/@speaker => distinct-values() => count()
+    let $spkCount := $d//speech
+    let $title := $d//metadata/title ! string()
+    let $date := $d//metadata/date
+    let $episode := $d//metadata/title/@episode ! number()
+    order by $episode
+
+return concat($title, " has ", $distSpkCount, " distinct speakers ", $episode)

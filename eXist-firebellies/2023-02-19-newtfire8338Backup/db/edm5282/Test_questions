@@ -1,0 +1,10 @@
+xquery version "3.1";
+
+let $drafts := collection('/db/starwars/fixed/')
+ for $d in $drafts
+    let $date := $d//date/@date ! normalize-space()
+    let $title := $d//title ! normalize-space()
+let $sp := $drafts//sp ! normalize-space() => count() => string() => distinct-values()
+let $spk := $drafts//sp/@spk ! string() => distinct-values() => count() => string() => distinct-values()
+return  concat ($title, " | ", $date , " | ", $sp, " | ", $spk )
+

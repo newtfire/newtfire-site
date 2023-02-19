@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-07-00125-RUS01.xml"/>
+		<title>Bodhipathapradīpa</title>
+		<author>Atīśa Dīpaṃkaraśrījñāna</author>
+		<unifiedCatalogID>2-07-00125</unifiedCatalogID>
+		<sourceDesc>
+			<bibl>
+				<title>Светоч на пути к Пробуждению</title>
+				<author>Кугявичюса, А.</author>
+				<pubInfo>_БОЛЬШОЕ РУКОВОДСТВО К ЭТАПАМ ПУТИ ПРОБУЖДЕНИЯ (Ламрим-ченмо)_  (St. Petersberg: Narthang), vol. 2, p.133-146</pubInfo>
+				<date>1996-2000</date>
+			</bibl>
+		</sourceDesc>
+		<creation date="Mon Feb 31 4:20:37 2020"/>
+		<processed date="Mon Feb 31 4:20:37 2020" ver="v.1.0" auth="Hackett"/>
+		<processed date="Tue Mar 31 04:19:18 2020" ver="v.1.01" auth="XMLTagEnglish v.1.08"/>
+	</head>
+	<text>
+		<sentence s_id="2-07-00125-RUS01-SID000001" type="Text Title">
+			<phrase phr_id="2-07-00125-RUS01-000001">Светоч на пути к Пробуждению</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000002" type="Sentence">
+			<phrase phr_id="2-07-00125-RUS01-000002">Поклоняюсь Бодхисаттве Манджушри—Вечно Юному!</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000003" type="Verse" s_name="1">
+			<phrase phr_id="2-07-00125-RUS01-000003">С почтением великим поклоняюсь</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000004">всем Буддам трех времен,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000005">их Дхарме, как и Сангхе.</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000006">Сей светоч на Пути к Пробуждению зажечь</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000007">Чангчубод—прекрасный ученик—побудил меня.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000004" type="Verse" s_name="2">
+			<phrase phr_id="2-07-00125-RUS01-000008">Нужно знать о трех</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000009">[ступенях роста] личности—</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000010">низшей, средней, высшей.</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000011">Ясно опишу характеристики</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000012">их и отличия.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000005" type="Verse" s_name="3">
+			<phrase phr_id="2-07-00125-RUS01-000013">Того, кто всячески заботится</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000014">лишь о собственном благополучии</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000015">в сансаре, следует считать</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000016">низшей личностью. А тот,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000006" type="Verse" s_name="4">
+			<phrase phr_id="2-07-00125-RUS01-000017">кто отворачивается от счастья</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000018">сансары и, отбросив зло, радеет</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000019">лишь о собственной нирване,—</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000020">средняя личность. Кто</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000007" type="Verse" s_name="5">
+			<phrase phr_id="2-07-00125-RUS01-000021">всецело, искренне желает</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000022">покончить со всеми страданиями других,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000023">мучительно [их ощущая], как свои,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000024">тот—личность высшая.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000008" type="Verse" s_name="6">
+			<phrase phr_id="2-07-00125-RUS01-000025">Тем превосходным людям,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000026">кто желает Пробуждения Наивысшего,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000027">я изложу здесь метод правильный,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000028">которому меня учили Гуру.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000009" type="Verse" s_name="7">
+			<phrase phr_id="2-07-00125-RUS01-000029">Перед изображеньем Совершенного</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000030">Будды и других [святых] иль пред</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000031">священной ступой подношение</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000032">соверши цветами, благовониями</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000033">и прочими доступными дарами.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000010" type="Verse" s_name="8">
+			<phrase phr_id="2-07-00125-RUS01-000034">Соверши и семеричный [ритуал],</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000035">что описан в [«Пожелании] деяний добрых».</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000036">Тогда, благоговея пред Тремя</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000037">Драгоценностями, думая,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000038">что не оставишь их до самого</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000011" type="Verse" s_name="9">
+			<phrase phr_id="2-07-00125-RUS01-000039">достижения Сердца Пробуждения,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000040">опустив на землю [правое] колено</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000041">и соединив ладони, сначала трижды</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000042">обратись к Прибежищу, затем,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000012" type="Verse" s_name="10">
+			<phrase phr_id="2-07-00125-RUS01-000043">поскольку чувство сострадания</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000044">преддверием к практике должно служить,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000045">обозревай рожденье в трех дурных уделах,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000046">смерть и прочие страдания существ.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000013" type="Verse" s_name="11">
+			<phrase phr_id="2-07-00125-RUS01-000047">Мучительно их сопереживая и желая</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000048">избавить от страдания и его причины</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000049">всех существ, ты Устремленность</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000050">к Пробужденью порождай,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000051">клянясь не отступить [от цели].</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000014" type="Verse" s_name="12">
+			<phrase phr_id="2-07-00125-RUS01-000052">Достоинства такого порождения</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000053">Вдохновенной Устремленности</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000054">прекрасно изложены Майтреей</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000055">в «Сутре устройства древа».</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000015" type="Verse" s_name="13">
+			<phrase phr_id="2-07-00125-RUS01-000056">Читая эту сутру или слушая [из уст]</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000057">Учителя, познай неисчислимые достоинства</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000058">Стремленья совершенно пробудиться</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000059">и, чтобы укрепить его, ты многократно,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000060">как прежде, порождай ту Устремленность.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000016" type="Verse" s_name="14">
+			<phrase phr_id="2-07-00125-RUS01-000061">Заслуги [порождения] ее</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000062">хорошо показаны в «Сутре</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000063">вопросов Вирадатты». Вкратце опишу их</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000064">тремя строфами из той [сутры].</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000017" type="Verse" s_name="15">
+			<phrase phr_id="2-07-00125-RUS01-000065">«Если заслуги Бодхичитты</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000066">были бы материальны,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000067">они заполнили и переполнили бы</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000068">все пространство.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000018" type="Verse" s_name="16">
+			<phrase phr_id="2-07-00125-RUS01-000069">[К примеру], некий человек</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000070">заполнил драгоценностями все</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000071">Земли Будд, бесчисленные,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000072">как песчинки Ганга, и поднес</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000073">их Покровителям Вселенной.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000019" type="Verse" s_name="17">
+			<phrase phr_id="2-07-00125-RUS01-000074">Другой же человек, соединив ладони,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000075">устремился к Пробуждению... Его</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000076">подношение гораздо выше первого—</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000077">оно бескрайне.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000020" type="Verse" s_name="18">
+			<phrase phr_id="2-07-00125-RUS01-000078">Породив Устремленность Вдохновенную,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000079">многостарательно усиливай ее,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000080">а чтобы сохранить ее и в прочих жизнях,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000081">исполняй, что требуется ею.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000021" type="Verse" s_name="19">
+			<phrase phr_id="2-07-00125-RUS01-000082">Стремленье искреннее не усиливается, пока</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000083">не принят лично Устремленности Практической обет.</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000084">Поэтому со рвением прими его, если желаешь</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000085">к Пробужденью Совершенному стремление усилить.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000022" type="Verse" s_name="20">
+			<phrase phr_id="2-07-00125-RUS01-000086">Принимать обет Бодхисаттвы</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000087">не может, кто не соблюдает постоянно</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000088">другой обет—[хотя б] один</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000089">из семи [обетов] Пратимокши96.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000023" type="Verse" s_name="21">
+			<phrase phr_id="2-07-00125-RUS01-000090">Из сих семи [обетов]—высший,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000091">как Татхагата указал,—</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000092">славный Чистый образ жизни,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000093">то есть—обет монаха, бхикшу.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000024" type="Verse" s_name="22">
+			<phrase phr_id="2-07-00125-RUS01-000094">При помощи описанного</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000095">в «Ступенях Бодхисаттв»—</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000096">в «Главе о нравственности»—ритуала</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000097">прими обет Бодхисаттвы</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000098">у хорошего, достойного Учителя.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000025" type="Verse" s_name="23">
+			<phrase phr_id="2-07-00125-RUS01-000099">Знай, что хорош тот Гуру,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000100">кто знает ритуал [принятия] обета,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000101">соблюдает сам его, к тому же</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000102">обладает терпением и состраданием,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000103">чтоб привести [других] к обету.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000026" type="Verse" s_name="24">
+			<phrase phr_id="2-07-00125-RUS01-000104">Тем, кто Учителя такого не находит,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000105">хотя старается найти,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000106">я изложу другой достойный</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000107">ритуал принятия обета.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000027" type="Verse" s_name="25">
+			<phrase phr_id="2-07-00125-RUS01-000108">Рассказывают в «Сутре украшения</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000109">Земли Будды Манджушри»</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000110">о том, как Он, когда был Амбараджей,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000111">Бодхичитту породил таким же способом,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000112">какой здесь ясно опишу:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000028" type="Verse" s_name="26">
+			<phrase phr_id="2-07-00125-RUS01-000113">«Пред Покровителями</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000114">порождаю Устремленность</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000115">к Пробужденью совершенному,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000116">о всех заботясь существах,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000117">освобожу их от сансары!</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000029" type="Verse" s_name="27">
+			<phrase phr_id="2-07-00125-RUS01-000118">С этого мгновения</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000119">до достижения Пробуждения</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000120">я злонамеренности, скупости</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000121">и зависти не допущу!</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000030" type="Verse" s_name="28">
+			<phrase phr_id="2-07-00125-RUS01-000122">Буду чисто жить,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000123">избегать проступков, низменных желаний</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000124">и, соблюдая радостно обеты</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000125">нравственности,—Будде подражать!</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000031" type="Verse" s_name="29">
+			<phrase phr_id="2-07-00125-RUS01-000126">Быстрым способом достичь</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000127">Пробужденья [для себя лишь] не стремлюсь,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000128">а буду даже ради единственного существа</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000129">в сансаре пребывать до самого ее конца!</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000032" type="Verse" s_name="30">
+			<phrase phr_id="2-07-00125-RUS01-000130">Буду очищать неисчислимые,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000131">мыслью неохватные миры!</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000132">[Новым] именем ... [назвав себя сейчас],</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000133">да буду [впредь под ним] известен</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000134">в десяти сторонах [света]!</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000033" type="Verse" s_name="31">
+			<phrase phr_id="2-07-00125-RUS01-000135">Я буду очищать</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000136">все действия тела, и речь,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000137">и деяния ума.</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000138">Не буду неблагого совершать!»</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000034" type="Verse" s_name="32">
+			<phrase phr_id="2-07-00125-RUS01-000139">Соблюдая обет—сущность</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000140">Устремленности Практической,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000141">источник очищенья тела, речи и ума,—</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000142">троякую нравственность</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000143">хорошенько практикуй,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000144">так увеличивая преданность свою.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000035" type="Verse" s_name="33">
+			<phrase phr_id="2-07-00125-RUS01-000145">Итак, благодаря старанию</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000146">чисто, совершенно исполнять</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000147">требования обета Бодхисаттвы,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000148">пополняется Собрание [заслуг]</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000149">для Пробуждения совершенного.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000036" type="Verse" s_name="34">
+			<phrase phr_id="2-07-00125-RUS01-000150">Все Будды утверждают, что</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000151">причина завершения накоплений</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000152">заслуг и Осознаний—</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000153">это зарождение сверхспособностей.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000037" type="Verse" s_name="35">
+			<phrase phr_id="2-07-00125-RUS01-000154">Как птица, не расправив крыльев,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000155">взлететь не может, так и</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000156">без сверхобычных сил нельзя</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000157">Благо для существ осуществлять.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000038" type="Verse" s_name="36">
+			<phrase phr_id="2-07-00125-RUS01-000158">Кто сверхобычные способности</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000159">[имеет], за сутки [обретает]</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000160">тьмы заслуг, какие и за сотню жизней</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000161">без них не обрести.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000039" type="Verse" s_name="37">
+			<phrase phr_id="2-07-00125-RUS01-000162">Тот, кто желает быстро завершить</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000163">накопления, чтоб совершенно пробудиться,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000164">усердствует весьма для обретенья этих</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000165">способностей, ибо лентяю их не обрести.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000040" type="Verse" s_name="38">
+			<phrase phr_id="2-07-00125-RUS01-000166">Без достижения Безмятежности</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000167">сверхобычные способности не появляются.</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000168">Поэтому старайся неустанно</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000169">Безмятежность реализовать.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000041" type="Verse" s_name="39">
+			<phrase phr_id="2-07-00125-RUS01-000170">Кто нарушает предварительные</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000171">этапы Безмятежности, тот,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000172">сколько бы ни созерцал,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000173">не осуществит самадхи и через тысячу лет.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000042" type="Verse" s_name="40">
+			<phrase phr_id="2-07-00125-RUS01-000174">Поэтому, кто утвердился на этапах этих,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000175">описанных в «Главе собрания самадхи»,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000176">[сможет] на любом благом объекте</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000177">свой ум сосредоточить.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000043" type="Verse" s_name="41">
+			<phrase phr_id="2-07-00125-RUS01-000178">Когда осуществляется йога Безмятежности,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000179">реализуются и сверхобычные способности.</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000180">Однако, не сочетая их</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000181">с запредельной мудростью,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000182">от скверны не избавишься.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000044" type="Verse" s_name="42">
+			<phrase phr_id="2-07-00125-RUS01-000183">Поэтому, чтоб полностью избавиться</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000184">от скверны клеш и скверны, что препятствует</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000185">Всезнанью, нужно постоянно культивировать</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000186">йогу запредельной мудрости</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000187">в сочетании с методом.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000045" type="Verse" s_name="43">
+			<phrase phr_id="2-07-00125-RUS01-000188">Рек [Будда], что мудрость</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000189">без метода, как и метод</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000190">без мудрости,—оковы. Поэтому</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000191">всегда их сочетай.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000046" type="Verse" s_name="44">
+			<phrase phr_id="2-07-00125-RUS01-000192">Чтобы сомнений не осталось,—</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000193">что мудрость есть</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000194">и что такое метод,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000195">суть их различий ясно объясню.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000047" type="Verse" s_name="45">
+			<phrase phr_id="2-07-00125-RUS01-000196">Методом Победители называют</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000197">все накопление заслуг:</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000198">парамиту даяния и прочее,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000199">за исключением запредельной мудрости.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000048" type="Verse" s_name="46">
+			<phrase phr_id="2-07-00125-RUS01-000200">Тот быстро достигает Пробужденья,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000201">кто, подлинно освоив метод,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000202">культивирует и мудрость, а не тот,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000203">кто созерцает лишь бессамостность.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000049" type="Verse" s_name="47">
+			<phrase phr_id="2-07-00125-RUS01-000204">Осознавание отсутствия самобытия</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000205">в «совокупностях» и «базах» [сознания]</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000206">и постижение их нерожденности</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000207">определяется как мудрость.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000050" type="Verse" s_name="48">
+			<phrase phr_id="2-07-00125-RUS01-000208">Рождение существующего невозможно.</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000209">Несуществующему же родиться—труднее, чем цветку</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000210">на небе. Поскольку сразу быть обоими—нелепо,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000211">то им одновременно вместе не возникнуть.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000051" type="Verse" s_name="49">
+			<phrase phr_id="2-07-00125-RUS01-000212">Вещь не рождается ни от себя,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000213">ни от чего-нибудь другого, ни от обоих</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000214">вместе, а также без причин не возникает,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000215">значит она не обладает самобытием.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000052" type="Verse" s_name="50">
+			<phrase phr_id="2-07-00125-RUS01-000216">И хоть все явления исследуй,—</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000217">по одному иль вместе, собственной</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000218">их сущности не обнаружишь.</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000219">Так ясно, что они не-самосущи.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000053" type="Verse" s_name="51">
+			<phrase phr_id="2-07-00125-RUS01-000220">Доводы «Семидесяти [строф]</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000221">о Пустоте», «Основ срединности»</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000222">и прочих [сочинений] тоже убеждают,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000223">что вещи самобытием не обладают.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000054" type="Verse" s_name="52">
+			<phrase phr_id="2-07-00125-RUS01-000224">Так и не буду больше [говорить</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000225">об этом], иначе сочинение [мое] излишне</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000226">длинным станет. Изложены здесь только</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000227">доказанные тезисы как темы созерцания.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000055" type="Verse" s_name="53">
+			<phrase phr_id="2-07-00125-RUS01-000228">Когда созерцаешь бессамостность,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000229">зная, что все явления не обладают</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000230">самобытием, то это и является</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000231">культивированием мудрости.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000056" type="Verse" s_name="54">
+			<phrase phr_id="2-07-00125-RUS01-000232">Именно эту мудрость, не узревающую</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000233">в явлениях самобытия,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000234">истинной зовут. Ее осваивай</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000235">без мыслетворчества.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000057" type="Verse" s_name="55">
+			<phrase phr_id="2-07-00125-RUS01-000236">Ведь от него—Круговорот,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000237">сущность которого—и есть мыслетворение.</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000238">А избавленье полное от мыслетворчества,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000239">или фантазий,—Нирвана высшая, Уход от горя.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000058" type="Sentence">
+			<phrase phr_id="2-07-00125-RUS01-000240">Вот что сказал Победоносный:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000059" type="Verse" s_name="56">
+			<phrase phr_id="2-07-00125-RUS01-000241">«Фантазирование—великое заблуждение. Оно</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000242">бросает в океан сансары. А состояние самадхи</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000243">без фантазий чисто, как [безоблачное] небо.»</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000060" type="Sentence">
+			<phrase phr_id="2-07-00125-RUS01-000244">И в «Дхарани вхождения в нефантазирование»:</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000061" type="Verse" s_name="57">
+			<phrase phr_id="2-07-00125-RUS01-000245">«Когда Сын Победителей вникает, не [цепляясь за] фантазии,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000246">в Учение святое, он выходит из труднопроходимых [дебрей]</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000247">фантазирования и достигает мысли без фантазий.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000062" type="Verse" s_name="58">
+			<phrase phr_id="2-07-00125-RUS01-000248">Итак, при помощи Слова и рассуждения</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000249">убедившись в отсутствии самобытия явлений,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000250">что лишены возникновения,—</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000251">созерцайте же без мыслетворчества.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000063" type="Verse" s_name="59">
+			<phrase phr_id="2-07-00125-RUS01-000252">Созерцая таким образом Реальность,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000253">постепенно достигают «Тепла» и прочих [степеней],</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000254">затем же—«Весьма Радостной» и следующих</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000255">[стадий Арья Бодхисаттвы], от которых</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000256">уже недалеко до Пробужденья Будды.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000064" type="Verse" s_name="60">
+			<phrase phr_id="2-07-00125-RUS01-000257">Считается, что «умиротворяющий»,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000258">«умножающий» и другие ритуалы, осуществляемые</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000259">в Мантре, а также «удивительный сосуд» и</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000260">остальные из восьми великих сиддхи, и другие</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000065" type="Verse" s_name="61">
+			<phrase phr_id="2-07-00125-RUS01-000261">силы легко завершают накопления</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000262">для Пробужденья. В крия, чарья и других</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000263">тантрах говорится, что тот, кто хочет</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000264">заниматься сокровенной Мантрой,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000066" type="Verse" s_name="62">
+			<phrase phr_id="2-07-00125-RUS01-000265">посвящение «ачарьи» [должен получить],</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000266">а ради этого необходимо ввериться Учителю</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000267">святому, радуя его служением, дарами драгоценными,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000268">исполненьем указаний и по-другому.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000067" type="Verse" s_name="63">
+			<phrase phr_id="2-07-00125-RUS01-000269">Когда, так порадовав Учителя,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000270">получают [от него] полное посвящение</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000271">«ачарьи»,—очищаются от всей греховной скверны</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000272">и обретают счастье осуществленья сиддхи.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000068" type="Verse" s_name="64">
+			<phrase phr_id="2-07-00125-RUS01-000273">[Принявшему] целомудрия [обет]</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000274">не следует получать посвященья «тайного» и</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000275">«мудрости», ибо «Великая тантра изначального</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000276">Будды» решительно запрещает это.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000069" type="Verse" s_name="65">
+			<phrase phr_id="2-07-00125-RUS01-000277">Если практикующий аскезу</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000278">целомудрия получает эти посвящения,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000279">он нарушает обет этой аскезы,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000280">ибо совершает запрещенное.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000070" type="Verse" s_name="66">
+			<phrase phr_id="2-07-00125-RUS01-000281">Подвизающийся таким образом</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000282">паденье разрушительное допускает.</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000283">Оно ведет в дурную участь несомненно,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000284">невозможным делая и продвиженье в практике.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000071" type="Verse" s_name="67">
+			<phrase phr_id="2-07-00125-RUS01-000285">Посвящение «ачарьи» получив, [можно]</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000286">слушать, проповедовать все тантры, совершать</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000287">«сжигаемое подношение», подношение обычное и прочее:</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000288">в познании всего этого нет дурного.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000072" type="Verse" s_name="68">
+			<phrase phr_id="2-07-00125-RUS01-000289">Старейшина Дипанкарашри, узрев</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000290">[такой порядок] в сутрах и других</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000291">Источниках, по просьбе Чжангчубода,</phrase>
+			<phrase phr_id="2-07-00125-RUS01-000292">вкратце объяснил Путь Пробуждения.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000073" type="Text Colophon">
+			<phrase phr_id="2-07-00125-RUS01-000293">«Светоч на пути к Пробуждению», составленный великим ачарьей Дипанкарашриджняной, закончен.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000074" type="Sentence">
+			<phrase phr_id="2-07-00125-RUS01-000294">Переведен и отредактирован этим же великим индийским наставником, а также переводчиком-корректировщиком Гевэлодоем.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-RUS01-SID000075" type="Sentence">
+			<phrase phr_id="2-07-00125-RUS01-000295">Сочинен же этот текст в шаншунском храме Тхолинг.</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

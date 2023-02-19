@@ -1,0 +1,65 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/hjl5363" version="1" owner="hjl5363" group="dba" mode="755" created="2022-03-16T16:46:25.062Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="USER" who="admin" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="BinaryResource" name="hjl5363_python_ex2" skip="no" owner="hjl5363" group="hjl5363" mode="755" created="2022-04-22T02:42:10.843Z" modified="2022-04-22T02:42:10.843Z" filename="hjl5363_python_ex2" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ANHfinalDraft-Lilley.txt" skip="no" owner="hjl5363" group="hjl5363" mode="644" created="2022-04-22T02:33:14.221Z" modified="2022-04-22T02:45:14.323Z" filename="ANHfinalDraft-Lilley.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hjl5363_svg_2" skip="no" owner="hjl5363" group="hjl5363" mode="644" created="2022-04-13T18:03:35.343Z" modified="2022-04-13T18:03:35.343Z" filename="hjl5363_svg_2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hjl5363_svg_2.xql" skip="no" owner="hjl5363" group="hjl5363" mode="644" created="2022-04-13T18:03:35.425Z" modified="2022-04-13T18:03:35.425Z" filename="hjl5363_svg_2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hjl5363_xquery-4.xql" skip="no" owner="hjl5363" group="hjl5363" mode="644" created="2022-04-13T18:03:35.856Z" modified="2022-04-13T18:03:35.856Z" filename="hjl5363_xquery-4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lilley_xquery_test.xql" skip="no" owner="hjl5363" group="hjl5363" mode="755" created="2022-04-14T02:40:28.326Z" modified="2022-05-07T22:58:59.975Z" filename="lilley_xquery_test.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drbComments_hjl5363_svg_3.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-05-08T03:40:47.012Z" modified="2022-05-08T03:40:47.012Z" filename="drbComments_hjl5363_svg_3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hjl5363_xquery-2" skip="no" owner="hjl5363" group="hjl5363" mode="755" created="2022-04-24T00:33:50.07Z" modified="2022-04-24T00:54:56.638Z" filename="hjl5363_xquery-2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hjl5363_xquery-2.xql" skip="no" owner="hjl5363" group="hjl5363" mode="755" created="2022-04-24T00:57:42.865Z" modified="2022-04-24T00:57:42.865Z" filename="hjl5363_xquery-2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hjl5363_xquery-3.xql" skip="no" owner="hjl5363" group="hjl5363" mode="755" created="2022-04-24T01:03:09.257Z" modified="2022-04-24T18:10:17.931Z" filename="hjl5363_xquery-3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hjl5363_xquery-1.xql" skip="no" owner="hjl5363" group="hjl5363" mode="644" created="2022-04-13T18:03:35.519Z" modified="2022-04-13T21:54:42.572Z" filename="hjl5363_xquery-1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hjl5363_xquery_5.xql" skip="no" owner="hjl5363" group="hjl5363" mode="755" created="2022-04-24T18:19:35.576Z" modified="2022-04-24T18:46:05.208Z" filename="hjl5363_xquery_5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hjl5363_svg_3.xql" skip="no" owner="hjl5363" group="hjl5363" mode="755" created="2022-04-24T21:03:36.266Z" modified="2022-04-24T21:38:26.881Z" filename="hjl5363_svg_3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hjl5363_network_1" skip="no" owner="hjl5363" group="hjl5363" mode="755" created="2022-04-25T00:55:36.199Z" modified="2022-04-25T00:55:36.199Z" filename="hjl5363_network_1" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hjl5363_network_1.xql" skip="no" owner="hjl5363" group="hjl5363" mode="755" created="2022-04-25T02:29:15.722Z" modified="2022-04-25T02:42:48.917Z" filename="hjl5363_network_1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hjl5363_network_1.tsv" skip="no" owner="hjl5363" group="hjl5363" mode="755" created="2022-04-25T02:45:35.716Z" modified="2022-04-25T02:45:35.716Z" filename="hjl5363_network_1.tsv" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lilley_xquery_test" skip="no" owner="hjl5363" group="hjl5363" mode="755" created="2022-04-14T01:09:36.703Z" modified="2022-04-14T02:31:17.398Z" filename="lilley_xquery_test" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG2-drbcomments.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-04-18T05:00:00.469Z" modified="2022-04-18T05:00:00.469Z" filename="SVG2-drbcomments.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lilley_04_06_network_2" skip="no" owner="hjl5363" group="hjl5363" mode="755" created="2022-04-06T13:44:43.691Z" modified="2022-04-06T13:50:20.245Z" filename="lilley_04_06_network_2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery-ex4.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-03-19T22:47:12.361Z" modified="2022-03-19T22:47:12.361Z" filename="xquery-ex4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

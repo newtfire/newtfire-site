@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="rhyme" type="literacy" date="1960"/>
+<title>Green Eggs and Ham</title>
+<body>
+<stanza>
+<l>
+I am
+<char name="Sam">Sam</char>
+</l>
+<l>
+<char name="Sam">Sam</char>
+I am
+</l>
+</stanza>
+<stanza>
+<l>
+That
+<char name="Sam">Sam</char>
+-I-am
+</l>
+<l>
+That
+<char name="Sam">Sam</char>
+-I-am!
+</l>
+<l>I do not like </l>
+<l>
+that
+<char name="Sam">Sam</char>
+-I-am
+</l>
+</stanza>
+<stanza>
+<l>Do you like</l>
+<l>
+<adj>green</adj>
+<obj>eggs</obj>
+and
+<obj>ham</obj>
+</l>
+</stanza>
+<stanza>
+<l>I do not like them,</l>
+<l>
+<char name="Sam">Sam</char>
+-I-am.
+</l>
+<l>I do not like </l>
+<l>
+<adj>green</adj>
+<obj>eggs</obj>
+and
+<obj>ham</obj>
+.
+</l>
+</stanza>
+<stanza>
+<l>Would you like them</l>
+<l>
+Here or t
+<adj>here</adj>
+?
+</l>
+</stanza>
+<stanza>
+<l>I would not like them </l>
+<l>
+<adj>here</adj>
+or
+<adj>there</adj>
+.
+</l>
+<l>I would not like them </l>
+<l>
+<adj>anywhere</adj>
+.
+</l>
+<l>I do not like </l>
+<l>
+<adj>green</adj>
+<obj>eggs</obj>
+and
+<obj>ham</obj>
+.
+</l>
+<l>I do not like them,</l>
+<l>
+<char name="Sam">Sam</char>
+-I-am
+</l>
+</stanza>
+<stanza>
+<l>Would you like them </l>
+<l>
+in a
+<place>house</place>
+?
+</l>
+<l>Would you like them </l>
+<l>
+with a
+<obj>mouse</obj>
+?
+</l>
+</stanza>
+<stanza>
+<l>I do not like them </l>
+<l>
+in a
+<place>house</place>
+.
+</l>
+<l>I do not like them </l>
+<l>
+with a
+<obj>mouse</obj>
+.
+</l>
+<l>I do not like them </l>
+<l>
+<adj>here</adj>
+or
+<adj>there</adj>
+.
+</l>
+<l>I do not like them </l>
+<l>
+<adj>anywhere</adj>
+.
+</l>
+<l>
+I do not like
+<adj>green</adj>
+<obj>eggs</obj>
+and
+<obj>ham</obj>
+.
+</l>
+<l>
+I do not like them,
+<char name="Sam">Sam</char>
+-I-am.
+</l>
+</stanza>
+<stanza>
+<l>Would you eat them </l>
+<l>
+in a
+<place>box</place>
+?
+</l>
+<l>Would you eat them </l>
+<l>
+with a
+<obj>fox</obj>
+?
+</l>
+</stanza>
+<stanza>
+<l>
+Not in a
+<place>box</place>
+.
+</l>
+<l>
+Not with a
+<obj>fox</obj>
+.
+</l>
+<l>
+Not in a
+<place>house</place>
+.
+</l>
+<l>
+Not with a
+<obj>mouse</obj>
+.
+</l>
+<l>
+I would not eat them
+<adj>here</adj>
+or
+<adj>there</adj>
+.
+</l>
+<l>
+I would not eat them
+<adj>anywhere</adj>
+.
+</l>
+<l>
+I would not eat
+<adj>green</adj>
+<obj>eggs</obj>
+and
+<obj>ham</obj>
+.
+</l>
+<l>
+I do not like them,
+<char name="Sam">Sam</char>
+-I-am.
+</l>
+</stanza>
+<stanza>
+<l>Would you? Could you?</l>
+<l>
+in a
+<place>car</place>
+?
+</l>
+<l>Eat them! Eat them! </l>
+<l>
+<adj>Here</adj>
+they are.
+</l>
+</stanza>
+<stanza>
+<l>I would not ,</l>
+<l>could not,</l>
+<l>
+in a
+<place>car</place>
+</l>
+</stanza>
+<stanza>
+<l>You may like them.</l>
+<l>You will see.</l>
+<l>You may like them </l>
+<l>
+in a
+<place>tree</place>
+?
+</l>
+<l>
+d not in a
+<place>tree</place>
+.
+</l>
+<l>
+I would not, could not in a
+<place>tree</place>
+.
+</l>
+<l>
+Not in a
+<place>car</place>
+! You let me be.
+</l>
+</stanza>
+<stanza>
+<l>
+I do not like them in a
+<place>box</place>
+.
+</l>
+<l>
+I do not like them with a
+<obj>fox</obj>
+</l>
+<l>
+I do not like them in a
+<place>house</place>
+</l>
+<l>
+I do mot like them with a
+<obj>mouse</obj>
+</l>
+<l>
+I do not like them
+<adj>here</adj>
+or
+<adj>there</adj>
+.
+</l>
+<l>
+I do not like them
+<adj>anywhere</adj>
+.
+</l>
+<l>
+I do not like
+<adj>green</adj>
+<obj>eggs</obj>
+and
+<obj>ham</obj>
+.
+</l>
+<l>
+I do not like them,
+<char name="Sam">Sam</char>
+-I-am.
+</l>
+</stanza>
+<stanza>
+<l>
+A
+<place>train</place>
+! A
+<place>train</place>
+!
+</l>
+<l>
+A
+<place>train</place>
+! A
+<place>train</place>
+!
+</l>
+<l>Could you, would you </l>
+<l>
+on a
+<place>train</place>
+?
+</l>
+</stanza>
+<stanza>
+<l>
+Not on a
+<place>train</place>
+! Not in a
+<place>tree</place>
+!
+</l>
+<l>
+Not in a
+<place>car</place>
+!
+<char name="Sam">Sam</char>
+! Let me be!
+</l>
+<l>
+I would not, could not, in a
+<place>box</place>
+.
+</l>
+<l>
+I could not, would not, with a
+<obj>fox</obj>
+.
+</l>
+<l>
+I will not eat them with a
+<obj>mouse</obj>
+</l>
+<l>
+I will not eat them in a
+<place>house</place>
+.
+</l>
+<l>
+I will not eat them
+<adj>here</adj>
+or
+<adj>there</adj>
+.
+</l>
+<l>
+I will not eat them
+<adj>anywhere</adj>
+.
+</l>
+<l>
+I do not like them,
+<char name="Sam">Sam</char>
+-I-am.
+</l>
+</stanza>
+<stanza>
+<l>Say!</l>
+<l>
+In the
+<adj>dark</adj>
+?
+</l>
+<l>
+Here in the
+<adj>dark</adj>
+!
+</l>
+<l>
+Would you, could you, in the
+<adj>dark</adj>
+?
+</l>
+</stanza>
+<stanza>
+<l>I would not, could not,</l>
+<l>
+in the
+<adj>dark</adj>
+.
+</l>
+</stanza>
+<stanza>
+<l>Would you, could you,</l>
+<l>
+in the
+<obj>rain</obj>
+?
+</l>
+</stanza>
+<stanza>
+<l>
+I would not, could not, in the
+<obj>rain</obj>
+.
+</l>
+<l>
+Not in the
+<adj>dark</adj>
+. Not on a
+<place>train</place>
+,
+</l>
+<l>
+Not in a
+<place>car</place>
+, Not in a
+<place>tree</place>
+.
+</l>
+<l>
+I do not like them,
+<char name="Sam">Sam</char>
+, you see.
+</l>
+<l>
+Not in a
+<place>house</place>
+. Not in a
+<place>box</place>
+.
+</l>
+<l>
+Not with a
+<obj>mouse</obj>
+. Not with a
+<obj>fox</obj>
+.
+</l>
+<l>
+I will not eat them
+<adj>here</adj>
+or
+<adj>there</adj>
+.
+</l>
+<l>
+I do not like them
+<adj>anywhere</adj>
+!
+</l>
+</stanza>
+<stanza>
+<l>You do not like</l>
+<l>
+<adj>green</adj>
+<obj>eggs</obj>
+and
+<obj>ham</obj>
+?
+</l>
+</stanza>
+<stanza>
+<l>I do not</l>
+<l>like them,</l>
+<l>
+<char name="Sam">Sam</char>
+-I-am.
+</l>
+</stanza>
+<stanza>
+<l>Could you, would you,</l>
+<l>
+with a
+<obj>goat</obj>
+?
+</l>
+</stanza>
+<stanza>
+<l>I would not,</l>
+<l>could not. </l>
+<l>
+with a
+<obj>goat</obj>
+!
+</l>
+</stanza>
+<stanza>
+<l>Would you, could you,</l>
+<l>
+on a
+<obj>boat</obj>
+?
+</l>
+</stanza>
+<stanza>
+<l>
+I could not, would not, on a
+<obj>boat</obj>
+.
+</l>
+<l>
+I will not, will not, with a
+<obj>goat</obj>
+.
+</l>
+<l>
+I will not eat them in the
+<obj>rain</obj>
+.
+</l>
+<l>
+I will not eat them on a
+<place>train</place>
+.
+</l>
+<l>
+Not in the
+<adj>dark</adj>
+! Not in a
+<place>tree</place>
+!
+</l>
+<l>
+Not in a
+<place>car</place>
+! You let me be!
+</l>
+<l>
+I do not like them in a
+<place>box</place>
+.
+</l>
+<l>
+I do not like them with a
+<obj>fox</obj>
+.
+</l>
+<l>
+I will not eat them in a
+<place>house</place>
+.
+</l>
+<l>
+I do not like them with a
+<obj>mouse</obj>
+.
+</l>
+<l>
+I do not like them
+<adj>here</adj>
+or
+<adj>there</adj>
+.
+</l>
+<l>
+I do not like them
+<adj>ANYWHERE</adj>
+!
+</l>
+</stanza>
+<stanza>
+<l>I do not like</l>
+<l>
+<adj>green</adj>
+<obj>eggs</obj>
+</l>
+<l>
+and
+<obj>ham</obj>
+!
+</l>
+</stanza>
+<stanza>
+<l>I do not like them, </l>
+<l>
+<char name="Sam">Sam</char>
+-I-am.
+</l>
+</stanza>
+<stanza>
+<l>You do not like them. </l>
+<l>SO you say.</l>
+<l>Try them! Try them! </l>
+<l>And you may. </l>
+<l>Try them and you may I say.</l>
+</stanza>
+<stanza>
+<l>
+<char name="Sam">Sam</char>
+!
+</l>
+<l>If you will let me be, </l>
+<l>I will try them.</l>
+<l>You will see. </l>
+</stanza>
+<stanza>
+<l>Say! </l>
+<l>
+I like
+<adj>green</adj>
+<obj>eggs</obj>
+and
+<obj>ham</obj>
+!
+</l>
+<l>
+I do!! I like them,
+<char name="Sam">Sam</char>
+-I-am!
+</l>
+<l>
+And I would eat them in a
+<obj>boat</obj>
+!
+</l>
+<l>
+And I would eat them with a
+<obj>goat</obj>
+...
+</l>
+<l>
+And I will eat them in the
+<obj>rain</obj>
+.
+</l>
+<l>
+And in the
+<adj>dark</adj>
+. And on a
+<place>train</place>
+.
+</l>
+<l>
+And in a
+<place>car</place>
+. And in a
+<place>tree</place>
+.
+</l>
+<l>They are so good so good you see!</l>
+</stanza>
+<stanza>
+<l>
+So I will eat them in a
+<place>box</place>
+.
+</l>
+<l>
+And I will eat them with a
+<obj>fox</obj>
+.
+</l>
+<l>
+And I will eat them in a
+<place>house</place>
+.
+</l>
+<l>
+And I will eat them with a
+<obj>mouse</obj>
+.
+</l>
+<l>
+And I will eat them
+<adj>here</adj>
+and
+<adj>there</adj>
+.
+</l>
+<l>Say! I will eat them ANYWHERE!</l>
+</stanza>
+<stanza>
+<l>I do so like </l>
+<l>
+<adj>green</adj>
+<obj>eggs</obj>
+and
+<obj>ham</obj>
+!
+</l>
+<l>Thank you! </l>
+<l>Thank you, </l>
+<l>
+<char name="Sam">Sam</char>
+-I-am
+</l>
+</stanza>
+</body>
+</book>

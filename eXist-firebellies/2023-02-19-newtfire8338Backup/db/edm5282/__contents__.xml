@@ -1,0 +1,44 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/edm5282" version="1" owner="edm5282" group="dba" mode="755" created="2022-03-16T16:46:39.277Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="USER" who="admin" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="bluesArtistTable.html" skip="no" owner="edm5282" group="edm5282" mode="644" created="2022-03-23T14:15:41.889Z" modified="2022-03-28T04:02:51.884Z" filename="bluesArtistTable.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="scriptCountwithDateAndEpisode" skip="no" owner="edm5282" group="edm5282" mode="755" created="2022-04-28T23:25:23.102Z" modified="2022-04-28T23:25:23.102Z" filename="scriptCountwithDateAndEpisode" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ex5" skip="no" owner="edm5282" group="edm5282" mode="755" created="2022-03-23T14:18:13.657Z" modified="2022-03-23T14:18:13.657Z" filename="ex5" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ex4_save_test" skip="no" owner="edm5282" group="edm5282" mode="755" created="2022-03-16T17:50:54.998Z" modified="2022-03-23T14:29:45.041Z" filename="ex4_save_test" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ex6" skip="no" owner="edm5282" group="edm5282" mode="755" created="2022-03-25T14:48:00.717Z" modified="2022-03-25T14:48:09.6Z" filename="ex6" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg3" skip="no" owner="edm5282" group="edm5282" mode="755" created="2022-04-01T14:59:07.549Z" modified="2022-04-18T04:11:40.256Z" filename="svg3" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVG3-ebb.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-04-18T04:12:34.39Z" modified="2022-04-18T04:17:49.188Z" filename="SVG3-ebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nae1" skip="no" owner="edm5282" group="edm5282" mode="755" created="2022-04-06T15:52:16.759Z" modified="2022-04-06T15:52:16.759Z" filename="nae1" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="svg2" skip="no" owner="edm5282" group="edm5282" mode="755" created="2022-03-30T15:02:55.239Z" modified="2022-03-30T15:02:55.239Z" filename="svg2" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="naeAvatar" skip="no" owner="edm5282" group="edm5282" mode="755" created="2022-04-07T00:06:00.252Z" modified="2022-04-07T00:06:42.651Z" filename="naeAvatar" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="naeAvatar2" skip="no" owner="edm5282" group="edm5282" mode="755" created="2022-04-07T00:07:43.657Z" modified="2022-04-07T00:07:43.657Z" filename="naeAvatar2" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Test_questions" skip="no" owner="edm5282" group="edm5282" mode="755" created="2022-04-19T03:45:37.537Z" modified="2022-04-19T03:45:37.537Z" filename="Test_questions" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Test_questions_html" skip="no" owner="edm5282" group="edm5282" mode="755" created="2022-04-19T03:46:04.988Z" modified="2022-04-19T03:46:04.988Z" filename="Test_questions_html" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

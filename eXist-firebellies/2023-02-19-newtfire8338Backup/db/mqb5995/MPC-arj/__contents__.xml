@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/mqb5995/MPC-arj" version="1" owner="admin" group="dba" mode="775" created="2021-12-30T05:26:23.859Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="mathPractCompStrings.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:23.86Z" modified="2021-12-30T05:26:23.86Z" filename="mathPractCompStrings.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mathPractCompSeed.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:24.042Z" modified="2021-12-30T05:26:24.042Z" filename="mathPractCompSeed.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mathPractCompTSVgen.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:24.105Z" modified="2021-12-30T05:26:24.105Z" filename="mathPractCompTSVgen.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

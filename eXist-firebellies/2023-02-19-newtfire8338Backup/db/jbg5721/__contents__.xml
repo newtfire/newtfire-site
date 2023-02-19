@@ -1,0 +1,38 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/jbg5721" version="1" owner="jbg5721" group="dba" mode="755" created="2022-03-16T14:37:40.81Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="USER" who="admin" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="BinaryResource" name="GardinerSV3.xql" skip="no" owner="jbg5721" group="jbg5721" mode="755" created="2022-04-01T03:35:58.321Z" modified="2022-04-01T03:35:58.321Z" filename="GardinerSV3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drbComments-GardinerXQtest.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-05-07T22:18:11.024Z" modified="2022-05-07T22:25:06.828Z" filename="drbComments-GardinerXQtest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="gardinerXQ6.xql" skip="no" owner="jbg5721" group="jbg5721" mode="755" created="2022-03-25T03:14:51.645Z" modified="2022-03-25T03:14:51.645Z" filename="gardinerXQ6.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="GardinerTSV1.xql" skip="no" owner="jbg5721" group="jbg5721" mode="755" created="2022-04-03T23:37:02.962Z" modified="2022-04-04T16:58:29.554Z" filename="GardinerTSV1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="GardinerSVG2" skip="no" owner="jbg5721" group="jbg5721" mode="755" created="2022-03-30T02:33:57.17Z" modified="2022-03-30T03:25:28.382Z" filename="GardinerSVG2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="starwarsSetting.txt" skip="no" owner="jbg5721" group="jbg5721" mode="644" created="2022-04-19T00:30:35.584Z" modified="2022-04-19T00:30:35.584Z" filename="starwarsSetting.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="starwarsSettings.xql" skip="no" owner="jbg5721" group="jbg5721" mode="755" created="2022-04-19T00:38:04.004Z" modified="2022-04-19T00:38:04.004Z" filename="starwarsSettings.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="gardinerxq4.xql" skip="no" owner="jbg5721" group="jbg5721" mode="755" created="2022-03-16T17:44:00.457Z" modified="2022-03-16T17:44:00.457Z" filename="gardinerxq4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="starWarsCharacters.tsv" skip="no" owner="jbg5721" group="jbg5721" mode="644" created="2022-04-04T17:23:27.582Z" modified="2022-04-27T20:45:43.033Z" filename="starWarsCharacters.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drb-gardinerxq5.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-03-20T22:46:36.221Z" modified="2022-03-20T22:50:54.638Z" filename="drb-gardinerxq5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="GardinerXQtest.xql" skip="no" owner="jbg5721" group="jbg5721" mode="755" created="2022-04-12T00:32:49.358Z" modified="2022-04-12T00:52:50.577Z" filename="GardinerXQtest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

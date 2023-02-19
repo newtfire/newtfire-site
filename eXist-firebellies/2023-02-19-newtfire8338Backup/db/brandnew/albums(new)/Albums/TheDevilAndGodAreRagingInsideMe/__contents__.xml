@@ -1,0 +1,36 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/brandnew/albums(new)/Albums/TheDevilAndGodAreRagingInsideMe" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:23:52.588Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="degausser.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:52.589Z" modified="2021-12-30T05:23:52.589Z" filename="degausser.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="youWontKnow.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:52.654Z" modified="2021-12-30T05:23:52.654Z" filename="youWontKnow.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="notTheSun.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:52.717Z" modified="2021-12-30T05:23:52.717Z" filename="notTheSun.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jesusChrist.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:52.779Z" modified="2021-12-30T05:23:52.779Z" filename="jesusChrist.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sowingSeasonYeah.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:52.905Z" modified="2021-12-30T05:23:52.905Z" filename="sowingSeasonYeah.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="millstone.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:52.968Z" modified="2021-12-30T05:23:52.968Z" filename="millstone.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="theArchersBowsHaveBroken.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:53.032Z" modified="2021-12-30T05:23:53.032Z" filename="theArchersBowsHaveBroken.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="luca.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:53.105Z" modified="2021-12-30T05:23:53.105Z" filename="luca.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="welcomeToBangkok.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:53.166Z" modified="2021-12-30T05:23:53.166Z" filename="welcomeToBangkok.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="untitled.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:53.228Z" modified="2021-12-30T05:23:53.228Z" filename="untitled.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="handcuffs.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:53.289Z" modified="2021-12-30T05:23:53.289Z" filename="handcuffs.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

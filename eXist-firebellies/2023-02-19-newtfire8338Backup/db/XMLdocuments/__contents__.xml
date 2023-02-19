@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/XMLdocuments" version="1" owner="hjl5363" group="hjl5363" mode="755" created="2022-04-25T00:49:59.425Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="ANHroughDraft.xml" skip="no" owner="hjl5363" group="hjl5363" mode="644" created="2022-04-25T00:49:59.427Z" modified="2022-04-25T00:49:59.427Z" filename="ANHroughDraft.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ANHsecondDraft.xml" skip="no" owner="hjl5363" group="hjl5363" mode="644" created="2022-04-25T00:49:59.926Z" modified="2022-04-25T00:49:59.926Z" filename="ANHsecondDraft.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ANHfinalDraft.xml" skip="no" owner="hjl5363" group="hjl5363" mode="644" created="2022-04-25T00:50:00.283Z" modified="2022-04-25T00:50:00.283Z" filename="ANHfinalDraft.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ANHfirstDraft.xml" skip="no" owner="hjl5363" group="hjl5363" mode="644" created="2022-04-25T00:50:01.016Z" modified="2022-04-25T00:50:01.016Z" filename="ANHfirstDraft.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="anewschema.rnc" skip="no" owner="hjl5363" group="hjl5363" mode="644" created="2022-04-25T00:50:00.886Z" modified="2022-04-25T00:50:00.886Z" filename="anewschema.rnc" mimetype="application/relax-ng-compact-syntax">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="rhyme" type="moral" date="1940"/>
+<title>Horton Hatches the Egg</title>
+<body>
+<stanza>
+<l>
+Sighed
+<char name="Mayzie"> Mayzie </char>
+, a lazy bird hatching an egg:
+</l>
+<l> "I'm tired and I'm bored</l>
+<l> And I've kinks in my leg</l>
+<l> From sitting, just sitting here day after day.</l>
+<l> It's work! How I hate it!</l>
+<l> I'd much rather play!</l>
+<l>
+I'd take a vacation, fly off for a
+<rym sch="mixed">rest</rym>
+</l>
+<l>
+If I could find someone to stay on my
+<rym sch="mixed">nest!</rym>
+</l>
+<l> If I could find someone, I'd fly away-free..."</l>
+</stanza>
+<stanza>
+<l>
+Then
+<char name="Horton">Horton</char>
+, the Elephant, passed by her tree.
+</l>
+<l>
+"Hello!" called the lazy bird, smiling her
+<rym sch="mixed"> best,</rym>
+</l>
+<l>
+"You've nothing to do and I do need a
+<rym sch="mixed"> rest </rym>
+</l>
+<l>
+Would you like to sit on the egg in my
+<rym sch="mixed"> nest?" </rym>
+</l>
+</stanza>
+<stanza>
+<l> The elephant laughed.</l>
+<l>
+"Why, of all silly
+<rym sch="mixed"> things!</rym>
+</l>
+<l>
+I haven't feathers and I haven't
+<rym sch="mixed"> wings.</rym>
+</l>
+<l>
+Me on your egg? Why, that doesn't make
+<rym sch="mixed"> sense...</rym>
+</l>
+<l>
+Your egg is so small, ma'am, and I'm so
+<rym sch="mixed"> immense!"</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+"Tut, tut," answered
+<char name="Mayzie"> Mayzie </char>
+. "I know you're not small
+</l>
+<l> But I'm sure you can do it. No trouble at all.</l>
+<l>
+Just sit on it softly. You're gentle and
+<rym sch="mixed"> kind.</rym>
+</l>
+<l>
+Come, be a good fellow. I know you won't
+<rym sch="mixed">mind."</rym>
+</l>
+</stanza>
+<stanza>
+<l> "I can't," said the elephant</l>
+<l>
+"PL-E-E-ASE!" begged the
+<rym sch="mixed"> bird.</rym>
+</l>
+<l>
+"I won't be gone long, sir. I give you my
+<rym sch="mixed"> word.</rym>
+</l>
+<l>
+I'll hurry right back. Why, I'll never be
+<rym sch="mixed">missed...."</rym>
+</l>
+</stanza>
+<stanza>
+<l> "Very well," said the elephant, "since you insist...</l>
+<l> You want a vacation. Go fly off and take it.</l>
+<l> I'll sit on your egg and I'll try not to break it.</l>
+<l> I'll stay and be faithful. I mean what I say."</l>
+<l>
+<mUp>"Toodle-oo!"</mUp>
+sang out
+<char name="Mayzie"> Mayzie </char>
+and fluttered away.
+</l>
+</stanza>
+<stanza>
+<l>
+"H-m-m-m..the first thing to do," murmured
+<char name="Horton">Horton</char>
+,
+</l>
+<l> "Let's see...</l>
+<l> The first thing to do is to prop up this tree</l>
+<l> And make it much stronger. That has to be done</l>
+<l> Before I get on it. I must weigh a ton."</l>
+</stanza>
+<stanza>
+<l> Then carefully,</l>
+<l> Tenderly,</l>
+<l>Gently he crept</l>
+<l> Up the trunk to the nest where the little egg slept.</l>
+</stanza>
+<stanza>
+<l>
+Then
+<char name="Horton">Horton</char>
+the elephant smiled. "Now that's that..."
+</l>
+<l> And he sat</l>
+<l> And he sat</l>
+<l> And he sat</l>
+<l> And he sat....</l>
+</stanza>
+<stanza>
+<l> And he sat all that day</l>
+<l> And he kept the egg warm...</l>
+<l> And he sat all that night</l>
+<l> Through a terrible storm.</l>
+<l>
+It poured and it
+<rym sch="mixed"> lightninged!</rym>
+</l>
+<l>
+It thundered! It
+<rym sch="mixed"> rumbled!</rym>
+</l>
+<l> "This isn't much fun,"</l>
+<l> The poor elephant grumbled.</l>
+<l> "I wish she'd come back</l>
+<l>
+'Cause I'm cold and I'm
+<rym sch="mixed"> wet.</rym>
+</l>
+<l>
+I hope that that
+<char name="Mayzie"> Mayzie </char>
+bird doesn't
+<rym sch="mixed"> forget."</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+But
+<char name="Mayzie"> Mayzie </char>
+, by this time, was far beyond
+<rym sch="mixed">reach,</rym>
+</l>
+<l>
+Enjoying the sunshine way off in the Palm
+<rym sch="mixed">Beach,</rym>
+</l>
+<l>
+And having such fun, such a wonderful
+<rym sch="mixed"> rest,</rym>
+</l>
+<l>
+Decided she'd never go back to her
+<rym sch="mixed">nest!</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+So
+<char name="Horton">Horton</char>
+kept sitting there, day after day.
+</l>
+<l> And soon it was Autumn. The leaves blew away.</l>
+<l> And then came the Winter...the snow and the sleet!</l>
+<l> And icicles hung</l>
+<l> From his trunk and his feet.</l>
+</stanza>
+<stanza>
+<l>
+But
+<char name="Horton">Horton</char>
+kept sitting, and said with a sneeze,
+</l>
+<l> "I'll stay on this egg and I won't let it freeze.</l>
+<l> I meant what I said</l>
+<l> And I said what I meant...</l>
+<l> An elephant's faithful</l>
+<l> One hundred per cent!"</l>
+</stanza>
+<stanza>
+<l>
+So poor
+<char name="Horton">Horton</char>
+sat there
+</l>
+<l> The whole winter through...</l>
+<l> And then came the springtime</l>
+<l> With troubles anew!</l>
+<l> His friends gathered round</l>
+<l> And they shouted with glee.</l>
+</stanza>
+<stanza>
+<l>
+"Look!
+<char name="Horton">Horton</char>
+the Elephant's
+</l>
+<l>Up in a tree!"</l>
+<l>They taunted, they teased him,</l>
+<l> They yelled, "How Absurd!"</l>
+<l>
+"Old
+<char name="Horton">Horton</char>
+the Elephant
+</l>
+<l> Thinks he's a bird!"</l>
+</stanza>
+<stanza>
+<l> They Laughed the they Laughed, Then they all ran away.</l>
+<l>
+And
+<char name="Horton">Horton</char>
+was lonely. He wanted to play
+</l>
+<l> but he sat on the egg and continued to say</l>
+<l> "I meant what I said</l>
+<l> And I said what I meant...</l>
+<l> An elephant's faithful</l>
+<l> One hundred per cent!</l>
+</stanza>
+<stanza>
+<l> "No matter What happens,</l>
+<l> This egg must be tended!"</l>
+<l>
+But poor
+<char name="Horton">Horton</char>
+'s troubles
+</l>
+<l> Were far, far from ended</l>
+<l>
+For, while
+<char name="Horton">Horton</char>
+sat there
+</l>
+<l> So faithful, so kind,</l>
+<l> Three hunters came sneaking</l>
+<l> Up softly behind!</l>
+</stanza>
+<stanza>
+<l> He heard the men's footsteps!</l>
+<l>He turned with a start!</l>
+<l> Three rifles were aiming</l>
+<l> Right straight at his heart!</l>
+</stanza>
+<stanza>
+<l> Did he run?</l>
+<l> He did not!</l>
+<l>
+<char name="Horton">Horton</char>
+STAYED ON THAT NEST!
+</l>
+<l> He held his head high</l>
+<l> And he threw out his chest</l>
+<l> And he looked at the hunters</l>
+<l> As much as to say:</l>
+<l> "Shoot if you must</l>
+<l> But I won't run away!</l>
+<l> I meant what I said</l>
+<l> And I said what I meant...</l>
+<l> An elephant's faithful</l>
+<l> One hundred per cent!"</l>
+</stanza>
+<stanza>
+<l> But the men didn't shoot!</l>
+<l>
+Much to
+<char name="Horton">Horton</char>
+'s surprise
+</l>
+<l> They dropped their three guns</l>
+<l> And they stared with wide eyes!</l>
+<l> "look!" they all shouted,"Can such a thing be?</l>
+<l> An elephant sitting on top of a tree..."</l>
+</stanza>
+<stanza>
+<l> "It's strange! It's amazing! It's wonderful! New!</l>
+<l> Don't shoot him. We'll catch him. That's just what we'll do!</l>
+<l>
+Let's take him alive. Why, he's terribly
+<rym sch="mixed">funny!</rym>
+</l>
+<l>
+We'll sell him back to a circus, for
+<rym sch="mixed">money!"</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+And the first thing he knew, they had built a big
+<rym sch="mixed">wagon</rym>
+</l>
+<l>
+With ropes on the front for the pullers to drag
+<rym sch="mixed"> on.</rym>
+</l>
+<l> They dug up his tree and they put it inside,</l>
+<l>
+With
+<char name="Horton">Horton</char>
+so sad that he practically cried.
+</l>
+<l>
+"we're off!" the men shouted. And off they all
+<rym sch="mixed"> went</rym>
+</l>
+<l>
+With
+<char name="Horton">Horton</char>
+unhappy, one hundred per
+<rym sch="mixed">cent.</rym>
+</l>
+</stanza>
+<stanza>
+<l> Up out of the jungle! Up into the sky!</l>
+<l> Up over the mountains ten thousand feet high!</l>
+<l> Then down, down the mountains</l>
+<l> And down to the sea</l>
+<l> Went the cart with the elephant,</l>
+<l> Egg, nest and tree...</l>
+</stanza>
+<stanza>
+<l> Then out of the wagon</l>
+<l>And onto a ship!</l>
+<l> Out over the ocean...</l>
+<l> And ooh, what a trip!</l>
+<l> Rolling and tossing and splashed with the spray!</l>
+<l>
+And
+<char name="Horton">Horton</char>
+said, day after day after day,
+</l>
+<l> "I meant what I said</l>
+<l> And I said what I meant...</l>
+<l> But oh, am I seasick!</l>
+<l> One hundred per cent!"</l>
+</stanza>
+<stanza>
+<l>
+After bobbing around for two weeks like a
+<rym sch="mixed"> cork,</rym>
+</l>
+<l>
+They landed at last in the town of
+<rym sch="mixed"> New York.</rym>
+</l>
+<l> "All ashore!" the men shouted,</l>
+<l> And down with a lurch</l>
+<l>
+Went
+<char name="Horton">Horton</char>
+the Elephant
+</l>
+<l> Still on his perch,</l>
+<l> Tied onto a board that could just scarcely hold him...</l>
+<l> Bump!</l>
+<l>
+<char name="Horton">Horton</char>
+landed!
+</l>
+<l> And then the men sold him!</l>
+</stanza>
+<stanza>
+<l> Sold to a circus! Then week after week</l>
+<l> They showed him to people at ten cents a peek.They took him to Boston, to Kalamazoo,</l>
+<l> Chicago, Weehawken and Washington, too;</l>
+<l>
+To Dayton, Ohio;
+<rym sch="mixed">St. Paul, Minnesota;</rym>
+</l>
+<l>
+To Wichita, Kansas; to
+<rym sch="mixed">Drake, North Dakota.</rym>
+</l>
+<l> And everywhere thousands of folks flocked to see</l>
+<l> And laugh at the elephant up in a tree.</l>
+<l>
+Poor
+<char name="Horton">Horton</char>
+grew sadder the farther he
+<rym sch="mixed"> went,</rym>
+</l>
+<l>
+But he said as he sat in the hot noisy
+<rym sch="mixed"> tent:</rym>
+</l>
+<l>
+"I meant what I said, and I said what I
+<rym sch="mixed"> meant...</rym>
+</l>
+<l>
+An elephant's faithful-one hundred per
+<rym sch="mixed"> cent!"</rym>
+</l>
+</stanza>
+<stanza>
+<l> Then...one day</l>
+<l>
+The circus show happened to
+<rym sch="mixed">reach</rym>
+</l>
+<l>
+A town way down south, not so far from Palm
+<rym sch="mixed"> Beach.</rym>
+</l>
+<l> And, dawdling along way up high in the sky,</l>
+<l> Who (of all people!) should chance to fly by</l>
+<l>
+But that old good-for-nothing bird, runaway
+<char name="Mayzie"> Mayzie </char>
+!
+</l>
+<l> Still on vacation and still just as lazy.</l>
+<l>
+And, spying the flags and the tents just
+<rym sch="mixed"> below,</rym>
+</l>
+<l>
+She sang out, "What fun! Why, I'll go to the
+<rym sch="mixed">show!"</rym>
+</l>
+</stanza>
+<stanza>
+<l> And she swooped from the clouds</l>
+<l> Through an open tent door...</l>
+<l>
+"Good gracious!" gasped
+<char name="Mayzie"> Mayzie </char>
+,
+</l>
+<l> "I've seen you before!"</l>
+</stanza>
+<stanza>
+<l>
+Poor
+<char name="Horton">Horton</char>
+looked up with his face white as
+<rym sch="mixed">chalk!</rym>
+</l>
+<l>
+He started to speak, but before he could
+<rym sch="mixed">talk...</rym>
+</l>
+</stanza>
+<stanza>
+<l> There rang out the noisiest ear-splitting squeaks</l>
+<l> From the egg that he'd sat on for fifty-one weeks!</l>
+<l>
+A thumping! A Bumping! A wild alive
+<rym sch="mixed">scratching!</rym>
+</l>
+<l>
+"My egg!" Shouted
+<char name="Horton">Horton</char>
+. "My egg! Why, it's
+<rym sch="mixed">hatching!"</rym>
+</l>
+</stanza>
+<stanza>
+<l> "But it's Mine!" screamed the bird, when she heard the egg crack.</l>
+<l> (the work was all done. Now she wanted it back.)</l>
+<l> "It's my egg!" she sputtered. "You stole it from me!</l>
+<l> Get off of my nest and get out of my tree!"</l>
+</stanza>
+<stanza>
+<l>
+Poor
+<char name="Horton">Horton</char>
+backed down
+</l>
+<l> With a sad, heavy heart...</l>
+</stanza>
+<stanza>
+<l> But at that very instant, the egg burst apart!</l>
+<l>
+And out of the pieces of red and white
+<rym sch="mixed"> shell,</rym>
+</l>
+<l>
+From the egg that he'd sat on so long and so
+<rym sch="mixed"> well,</rym>
+</l>
+<l>
+<char name="Horton">Horton</char>
+the Elephant saw something whizz!
+</l>
+<l> It had Ears</l>
+<l> And a Tail</l>
+<l>And a trunk just like his!</l>
+</stanza>
+<stanza>
+<l> And the people came shouting, "what's all this about...?"</l>
+<l> They looked! And they stared with their eyes popping out!</l>
+<l> Then they cheered and they cheered and they cheered more and more.</l>
+<l> They'd never seen anything like it before!</l>
+<l> "My goodness! My gracious!" they shouted. "My Word!</l>
+<l> It's something brand new!</l>
+<l> It's an elephant-bird!!</l>
+</stanza>
+<stanza>
+<l>
+And it should be, it should be, it should be like
+<rym sch="mixed">that!</rym>
+</l>
+<l>
+Because
+<char name="Horton">Horton</char>
+was faithful! He sat and he
+<rym sch="mixed"> sat!</rym>
+</l>
+<l> He meant what he said</l>
+<l> And he said what he meant..."</l>
+</stanza>
+<stanza>
+<l> ...And they sent him home</l>
+<l> Happy,</l>
+<l> One hundred per cent!</l>
+</stanza>
+</body>
+</book>

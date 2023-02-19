@@ -1,0 +1,55 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ged5131" version="1" owner="ged5131" group="dba" mode="775" created="2021-12-30T05:24:47.035Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="dill-SVG-EX3-timelineForArticles.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:47.854Z" modified="2021-12-30T05:24:47.854Z" filename="dill-SVG-EX3-timelineForArticles.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dill-SVG-EX2-timeline.svg" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:48.064Z" modified="2021-12-30T05:24:48.064Z" filename="dill-SVG-EX2-timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="articleTimeline.html" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:48.354Z" modified="2021-12-30T05:24:48.354Z" filename="articleTimeline.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dill-SVG-Ex2-DIGIT400.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:47.036Z" modified="2021-12-30T05:24:47.036Z" filename="dill-SVG-Ex2-DIGIT400.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dill-article-displayPHP.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:47.122Z" modified="2021-12-30T05:24:47.122Z" filename="dill-article-displayPHP.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dill-XQueryPHP-REDO.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:47.189Z" modified="2021-12-30T05:24:47.189Z" filename="dill-XQueryPHP-REDO.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dill-NETWORK-EX1.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:47.457Z" modified="2021-12-30T05:24:47.457Z" filename="dill-NETWORK-EX1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dill-SVG-EX3-DIGIT400.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:47.523Z" modified="2021-12-30T05:24:47.523Z" filename="dill-SVG-EX3-DIGIT400.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dill-XPath-XQuery-Ex2-DIGIT400.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:47.659Z" modified="2021-12-30T05:24:47.659Z" filename="dill-XPath-XQuery-Ex2-DIGIT400.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dill-XPathXQuery-Ex3-DIGIT400" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:47.728Z" modified="2021-12-30T05:24:47.728Z" filename="dill-XPathXQuery-Ex3-DIGIT400" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dill-XPathXQuery-Ex5-DIGIT400" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:47.792Z" modified="2021-12-30T05:24:47.792Z" filename="dill-XPathXQuery-Ex5-DIGIT400" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="originNetwork.tsv" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:47.931Z" modified="2021-12-30T05:24:47.931Z" filename="originNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="btree-html-testing-sheet" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:47.994Z" modified="2021-12-30T05:24:47.994Z" filename="btree-html-testing-sheet" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="btrees-html.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:48.144Z" modified="2021-12-30T05:24:48.144Z" filename="btrees-html.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dilll-btrees-art-timeline.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:48.217Z" modified="2021-12-30T05:24:48.217Z" filename="dilll-btrees-art-timeline.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dill-XPathXQuery-Ex4-DIGIT400.xql" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:48.285Z" modified="2021-12-30T05:24:48.285Z" filename="dill-XPathXQuery-Ex4-DIGIT400.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dill-XQueryPHP-REDO" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:24:48.424Z" modified="2021-12-30T05:24:48.424Z" filename="dill-XQueryPHP-REDO" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="articles" filename="articles"/>
+</collection>

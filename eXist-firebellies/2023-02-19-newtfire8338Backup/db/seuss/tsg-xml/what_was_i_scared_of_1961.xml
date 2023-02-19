@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><!--  need to add (adj, object, rhyme, action?) and associate schema  --><book>
+<metadata genre="rhyme" type="moral" date="1961"> </metadata>
+<title>What Was I Scared Of?</title>
+<body>
+<stanza rhyme="ABCB">
+<l>Well...</l>
+<l>I was walking in the night</l>
+<l>
+And I saw nothing
+<rym sch="a">scary</rym>
+.
+</l>
+<l>For I have never been afraid</l>
+<l>
+Of anything. Not
+<rym sch="a">very</rym>
+.
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>
+Then I was
+<adj>deep</adj>
+within the woods
+</l>
+<l>
+When, suddenly, I spied
+<rym sch="b">them</rym>
+.
+</l>
+<l>
+I saw a pair of
+<adj>pale</adj>
+<adj>green</adj>
+<obj>pants</obj>
+</l>
+<l>
+With nobody inside
+<rym sch="b">them</rym>
+!
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>I wasn't scared. But, yet, I stopped</l>
+<l>
+What could those
+<obj>pants</obj>
+be there
+<rym sch="c">for</rym>
+?
+</l>
+<l>
+What could a pair of
+<obj>pants</obj>
+at night
+</l>
+<l>
+Be standing in the air
+<rym sch="c">for</rym>
+?
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>
+And then they moved? Those
+<adj>empty</adj>
+<obj>pants</obj>
+!
+</l>
+<l>
+They kind of started
+<rym sch="d">jumping</rym>
+.
+</l>
+<l>And then my heart, I must admit,</l>
+<l>
+It kind of started
+<rym sch="d">thumping</rym>
+.
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>So I got out. I got out fast</l>
+<l>
+As fast as I could go,
+<rym sch="e">sir</rym>
+.
+</l>
+<l>I wasn't scared. But pants like that</l>
+<l>
+I did not care for. No,
+<rym sch="e">sir</rym>
+.
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>After that a week went by.</l>
+<l>
+Then one
+<adj>dark</adj>
+night in
+<rym sch="f">
+<mUp>Grin-itch</mUp>
+</rym>
+</l>
+<l>(I had to do an errand there</l>
+<l>
+And fetch some
+<adj>Grin-itch</adj>
+<rym sch="f">spinach</rym>
+)
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>Well, I had fetched the spinach.</l>
+<l>
+I was starting back through
+<rym sch="g">town</rym>
+</l>
+<l>
+When those
+<obj>pants</obj>
+raced around a corner
+</l>
+<l>
+And they almost knocked me
+<rym sch="g">down</rym>
+!
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>
+I lost my
+<adj>Grin-itch </adj>
+spinach
+</l>
+<l>
+But I didn't even
+<rym sch="h">care</rym>
+.
+</l>
+<l>I ran for home! Believe me,</l>
+<l>
+I had really had a
+<rym sch="h">scare</rym>
+!
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>
+Now,
+<obj>bicycles</obj>
+were never made
+</l>
+<l>
+For
+<adj>pale</adj>
+<adj>green</adj>
+<obj>pants</obj>
+to
+<rym sch="i">ride 'em</rym>
+,
+</l>
+<l>
+Especially
+<adj>spooky</adj>
+<adj>pale</adj>
+<adj>green</adj>
+<obj>pants</obj>
+</l>
+<l>
+With nobody
+<rym sch="i">inside 'em!</rym>
+</l>
+</stanza>
+<stanza>
+<l>And the NEXT night, I was fishing</l>
+<l>
+For
+<mUp>Doubt-trout</mUp>
+on Roover
+<rym sch="j">River</rym>
+</l>
+<l>
+When those
+<obj>pants</obj>
+came rowing toward me!
+</l>
+<l>
+Well, I started in to
+<rym sch="j">shiver</rym>
+.
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>And by now I was SO frightened</l>
+<l>
+That, I'll tell you, but I hate
+<rym sch="k">to</rym>
+.
+</l>
+<l>I screamed and rowed away and lost</l>
+<l>
+my hook and line and bait,
+<rym sch="k">too</rym>
+!
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>I ran and found a Brickle bush</l>
+<l>
+I hid myself
+<rym sch="l">away</rym>
+.
+</l>
+<l>
+I got
+<obj>brickles</obj>
+in my
+<obj>britches</obj>
+</l>
+<l>
+But I stayed there
+<rym sch="l">anyway</rym>
+.
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>I stayed all night. The next night, too</l>
+<l>
+I'd be there still, no
+<rym sch="m">doubt</rym>
+,
+</l>
+<l>But I had to do an errand</l>
+<l>
+So, the next night, I went
+<rym sch="m">out</rym>
+.
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>I had to do an errand,</l>
+<l>
+Had to pick a peck of
+<rym sch="n">
+<mUp>Snide</mUp>
+</rym>
+</l>
+<l>
+In a
+<adj>dark</adj>
+and
+<adj>gloomy</adj>
+Snide-field
+</l>
+<l>
+That was almost nine miles
+<rym sch="n">wide</rym>
+.
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>
+I said, "I do not fear those
+<obj>pants</obj>
+</l>
+<l>
+With nobody inside
+<rym sch="o">them</rym>
+."
+</l>
+<l>I said, and said, and said those words.</l>
+<l>
+I said them. But I lied
+<rym sch="o">them</rym>
+.
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>Then I reached inside a Snide bush</l>
+<l>
+And the next thing that I
+<rym sch="p">knew</rym>
+,
+</l>
+<l>I felt my hand touch someone!</l>
+<l>
+And I'll bet that you know
+<rym sch="p">who</rym>
+.
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>And there I was! Caught in the Snide!</l>
+<l>
+And in that
+<adj>dreadful</adj>
+<rym sch="q">place</rym>
+</l>
+<l>
+Those
+<adj>spooky</adj>
+,
+<adj>empty</adj>
+<obj>pants</obj>
+and I
+</l>
+<l>
+were standing face to
+<rym sch="q">face</rym>
+!
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>I yelled for help. I screamed. I shrieked.</l>
+<l>
+I howled. I yowled. I
+<rym sch="r">cried</rym>
+,
+</l>
+<l>
+"OH, SAVE ME FROM THESE
+<adj>PALE</adj>
+</l>
+<l>
+<adj>GREEN</adj>
+<obj>PANTS</obj>
+WITH NOBODY
+<rym sch="r">INSIDE</rym>
+!"
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>But then a strange thing happened.</l>
+<l>
+Why, those
+<obj>pants</obj>
+began to
+<rym sch="s">cry</rym>
+!
+</l>
+<l>Those pants began to tremble.</l>
+<l>
+They were just as scared as
+<rym sch="s">I</rym>
+!
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>I never heard such whimpering</l>
+<l>
+And I began to
+<rym sch="t">see</rym>
+</l>
+<l>That I was just as strange to them</l>
+<l>
+As they were strange to
+<rym sch="t">me</rym>
+!
+</l>
+</stanza>
+<stanza rhyme="ABCDB">
+<l>So...</l>
+<l>I put my arm around their waist</l>
+<l>
+And sat right down beside
+<rym sch="u">them</rym>
+.
+</l>
+<l>I calmed them down.</l>
+<l>
+Poor
+<adj>empty</adj>
+<obj>pants</obj>
+</l>
+<l>
+With nobody inside
+<rym sch="u">them</rym>
+.
+</l>
+</stanza>
+<stanza rhyme="ABCB">
+<l>And now, we meet quite often,</l>
+<l>
+Those
+<adj>empty</adj>
+<obj>pants </obj>
+and
+<rym sch="v">I</rym>
+,
+</l>
+<l>And we never shake or tremble,</l>
+<l>
+We both smile and we say "
+<rym sch="v">Hi</rym>
+!"
+</l>
+</stanza>
+</body>
+</book>

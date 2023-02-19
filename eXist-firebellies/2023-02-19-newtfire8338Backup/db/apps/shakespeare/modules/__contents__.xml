@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shakespeare/modules" version="1" owner="admin" group="dba" mode="755" created="2022-02-25T03:11:03.799Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="config.xqm" skip="no" owner="admin" group="dba" mode="644" created="2022-02-25T03:11:03.801Z" modified="2022-02-25T03:11:03.801Z" filename="config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="demo.xql" skip="no" owner="admin" group="dba" mode="644" created="2022-02-25T03:11:04.332Z" modified="2022-02-25T03:11:04.332Z" filename="demo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="get-epub.xql" skip="no" owner="admin" group="dba" mode="644" created="2022-02-25T03:11:04.591Z" modified="2022-02-25T03:11:04.591Z" filename="get-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="app.xql" skip="no" owner="admin" group="dba" mode="644" created="2022-02-25T03:11:04.859Z" modified="2022-02-25T03:11:04.859Z" filename="app.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tei2html.xql" skip="no" owner="admin" group="dba" mode="644" created="2022-02-25T03:11:05.018Z" modified="2022-02-25T03:11:05.018Z" filename="tei2html.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tei2fo.xql" skip="no" owner="admin" group="dba" mode="644" created="2022-02-25T03:11:05.133Z" modified="2022-02-25T03:11:05.133Z" filename="tei2fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="epub.xql" skip="no" owner="admin" group="dba" mode="644" created="2022-02-25T03:11:05.46Z" modified="2022-02-25T03:11:05.46Z" filename="epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test.xql" skip="no" owner="admin" group="dba" mode="644" created="2022-02-25T03:11:05.738Z" modified="2022-02-25T03:11:05.738Z" filename="test.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.xql" skip="no" owner="admin" group="dba" mode="644" created="2022-02-25T03:11:05.826Z" modified="2022-02-25T03:11:05.826Z" filename="view.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

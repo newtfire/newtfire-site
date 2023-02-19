@@ -1,0 +1,26 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/zbm5105" version="1" owner="zbm5105" group="dba" mode="755" created="2022-03-14T17:56:09.187Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="USER" who="admin" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="BinaryResource" name="xquery%20test" skip="no" owner="zbm5105" group="zbm5105" mode="755" created="2022-04-12T20:45:18.062Z" modified="2022-05-07T23:23:14.354Z" filename="xquery test" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drb-comments-xquerytest.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-05-07T23:24:07.084Z" modified="2022-05-07T23:32:32.811Z" filename="drb-comments-xquerytest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test" skip="no" owner="zbm5105" group="zbm5105" mode="755" created="2022-04-13T03:09:45.621Z" modified="2022-04-13T23:57:36.853Z" filename="test" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery3" skip="no" owner="zbm5105" group="zbm5105" mode="755" created="2022-03-14T17:56:28.548Z" modified="2022-03-14T17:56:28.548Z" filename="xquery3" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="projectsvg.xql" skip="no" owner="zbm5105" group="zbm5105" mode="755" created="2022-04-19T18:34:09.44Z" modified="2022-04-27T17:51:16.558Z" filename="projectsvg.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery4.xql" skip="no" owner="zbm5105" group="zbm5105" mode="755" created="2022-03-16T17:43:31.237Z" modified="2022-03-16T17:43:31.237Z" filename="xquery4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="project%20svg" skip="no" owner="zbm5105" group="zbm5105" mode="755" created="2022-04-19T02:22:02.915Z" modified="2022-04-19T02:33:47.267Z" filename="project svg" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

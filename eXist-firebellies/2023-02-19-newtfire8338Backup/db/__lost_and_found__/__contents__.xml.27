@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/output" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:42.734Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="AnnotationToolAusten.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:42.735Z" modified="2020-08-07T21:14:42.735Z" filename="AnnotationToolAusten.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AnnotationTool.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:42.793Z" modified="2020-08-07T21:14:42.793Z" filename="AnnotationTool.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AnnotationToolByron.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:42.853Z" modified="2020-08-07T21:14:42.853Z" filename="AnnotationToolByron.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AnnotationToolNapoleon.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:42.921Z" modified="2020-08-07T21:14:42.921Z" filename="AnnotationToolNapoleon.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AnnotationToolScott_Wal.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.029Z" modified="2020-08-07T21:14:43.029Z" filename="AnnotationToolScott_Wal.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="MissJames_TableOutput.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.094Z" modified="2020-08-07T21:14:43.094Z" filename="MissJames_TableOutput.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tester.html" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:14:43.157Z" modified="2020-08-07T21:14:43.157Z" filename="tester.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

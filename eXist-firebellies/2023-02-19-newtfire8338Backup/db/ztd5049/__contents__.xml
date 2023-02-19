@@ -1,0 +1,29 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ztd5049" version="1" owner="ztd5049" group="dba" mode="755" created="2022-03-16T16:40:46.897Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="USER" who="admin" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="BinaryResource" name="drbComments-XQueryTestZTD.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-05-07T21:03:41.804Z" modified="2022-05-07T21:58:46.675Z" filename="drbComments-XQueryTestZTD.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQueryTestZTD.xql" skip="no" owner="ztd5049" group="ztd5049" mode="755" created="2022-04-13T04:27:49.942Z" modified="2022-04-14T02:53:19.573Z" filename="XQueryTestZTD.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQueryExercise2ZTD.xql" skip="no" owner="ztd5049" group="ztd5049" mode="755" created="2022-03-28T03:07:53.63Z" modified="2022-03-28T05:31:43.358Z" filename="XQueryExercise2ZTD.xql" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQueryExercise3ZTD.xql" skip="no" owner="ztd5049" group="ztd5049" mode="755" created="2022-03-28T06:18:55.344Z" modified="2022-03-28T19:11:07.126Z" filename="XQueryExercise3ZTD.xql" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CharSpeakerCountSVG.xql" skip="no" owner="ztd5049" group="ztd5049" mode="755" created="2022-04-18T09:40:28.172Z" modified="2022-04-18T09:52:28.041Z" filename="CharSpeakerCountSVG.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SVGExercise2.xql" skip="no" owner="ztd5049" group="ztd5049" mode="755" created="2022-03-30T08:59:25.13Z" modified="2022-03-30T13:16:18.617Z" filename="SVGExercise2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQueryExercise1ZTD.xql" skip="no" owner="ztd5049" group="ztd5049" mode="755" created="2022-03-28T05:30:13.827Z" modified="2022-03-29T22:40:25.689Z" filename="XQueryExercise1ZTD.xql" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQueryExercise4ZTD.xql" skip="no" owner="ztd5049" group="ztd5049" mode="755" created="2022-03-28T19:11:49.505Z" modified="2022-03-28T22:29:11.637Z" filename="XQueryExercise4ZTD.xql" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

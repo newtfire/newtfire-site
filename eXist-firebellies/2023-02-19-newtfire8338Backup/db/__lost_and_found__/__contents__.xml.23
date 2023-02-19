@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/nrm5383" version="1" owner="nrm5383" group="dba" mode="775" created="2021-03-08T20:26:45.441Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="fairyTales.xml" skip="no" owner="nrm5383" group="nrm5383" mode="644" created="2021-03-31T16:19:30.856Z" modified="2021-03-31T16:19:30.856Z" filename="fairyTales.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquery5.xql" skip="no" owner="nrm5383" group="nrm5383" mode="755" created="2021-04-07T00:33:55.748Z" modified="2021-04-07T00:33:55.748Z" filename="xquery5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xquerytest.xql" skip="no" owner="nrm5383" group="nrm5383" mode="755" created="2021-03-31T16:41:34.202Z" modified="2021-04-07T01:06:13.14Z" filename="xquerytest.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

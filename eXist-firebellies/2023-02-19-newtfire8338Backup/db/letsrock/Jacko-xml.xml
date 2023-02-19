@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+<song name="Perfection Can't Please Me">
+<metadata>
+<sname>Perfection Can't Please Me</sname>
+<author>Daisuke Ishiwatari</author>
+</metadata>
+
+<lyrics>
+<chorus n="1">
+<line n="1"><parentheses>(Piping hot)</parentheses> Popping like popcorn</line>
+<line n="2"><parentheses>(It's all mine)</parentheses> Can you hear the bells ding dong</line>
+<line n="3"><parentheses>(This is it)</parentheses> <parentheses>(This is it)</parentheses></line>
+</chorus>
+
+<verse n="1">
+<line n="1"><i story="jKO">If I could just see your heart, how small the world</i></line>
+<line n="2"><i story="jKO">It’s not that I don't want to know</i></line>
+<line n="3">Walking and stopping</line>
+<line n="4">Have a meaning, I guess so</line>
+<line n="5">What can I say, how many miles is life</line>
+<line n="6"><i story="jKO">Grab lots of snacks, and wear new shoes</i></line>
+<line n="7">How far can I go</line>
+<line n="8"><i story="jKO">I just want to feel like that everyday</i></line>
+</verse>
+
+<chorus n="2">
+<line n="1"><parentheses>(Piping hot)</parentheses> Popping like popcorn</line>
+<line n="2"><parentheses>(It's all mine)</parentheses> Can you hear the bells ding dong (Pick up every last one)</line>
+<line n="3"><parentheses>(This is it)</parentheses> <parentheses>(This is it)</parentheses> Ooh woah</line>
+<line n="4"><parentheses>(Let’s not)</parentheses> pretend I don't hear me</line>
+<line n="5"><parentheses>(Try to)</parentheses> move on without looking back</line>
+<line n="6">'Cause I realized it</line>
+<line n="7">Perfection can't please me</line>
+</chorus>
+
+<verse n="2">
+<line n="1">I didn't know that I could see the sky with my eyes closed,</line>
+<line n="2">And a moon to talk to</line>
+<line n="3">The world will spread everywhere,</line>
+<line n="4">If I want it to</line>
+<line n="5">Tell me more, how many miles is life</line>
+<line n="6"><i story="jKO">In the rainy streets, and having no umbrella</i></line>
+<line n="7"><i story="jKO">A time to be joyful</i></line>
+<line n="8">I just want to feel like that everyday</line>
+</verse>
+
+<chorus n="3">
+<line n="1"><parentheses>(Piping hot)</parentheses> Popping like popcorn</line>
+<line n="2"><parentheses>(It's all mine)</parentheses> Watch my soul bang bang (Pick up every last one)</line>
+<line n="3"><parentheses>(This is it)</parentheses> <parentheses>(This is it)</parentheses> Ooh woah</line>
+<line n="4"><parentheses>(Let's not)</parentheses> pretend I don’t hear me</line>
+<line n="5"><parentheses>(Try to)</parentheses> move on without looking back</line>
+<line n="6">'Cause I realized it</line>
+<line n="7">Perfection can't please me</line>
+</chorus>
+
+<bridge n="1">
+<line n="1">How many miles is life</line>
+<line n="2">Grab lots of snacks, and wear new shoes</line>
+<line n="3">How far can I go</line>
+<line n="4">I just want to feel like that everyday</line>
+</bridge>
+
+<chorus n="4">
+<line n="1"><parentheses>(Piping hot)</parentheses> Popping like popcorn</line>
+<line n="2"><parentheses>(It's all mine)</parentheses> Watch my soul bang bang <parentheses>(Pick up every last one)</parentheses></line>
+<line n="3"><parentheses>(This is it)</parentheses> <parentheses>(This is it)</parentheses> Ooh yeah</line>
+<line n="4"><parentheses>(Let's not)</parentheses> pretend I don't hear me</line>
+<line n="5"><parentheses>(Try to)</parentheses> move on without looking back</line>
+<line n="6"><parentheses>(Piping hot)</parentheses> Cry and laugh</line>
+<line n="7"><parentheses>(It's all mine)</parentheses> Let you want those days</line>
+<line n="8">I guess it's not all fun and games</line>
+<line n="9">This journey is my own</line>
+<line n="10">I'm sorry if I bothered you</line>
+<line n="11">'Cause I realized it</line>
+<line n="12">Perfection can't please me</line>
+</chorus>
+
+</lyrics>
+</song>
+</xml>

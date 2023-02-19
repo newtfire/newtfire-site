@@ -1,0 +1,72 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/2021-Dig400-Examples" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:16:11.299Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="carsTable.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:12.858Z" modified="2021-12-30T05:16:12.858Z" filename="carsTable.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SuperSmashData.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:11.3Z" modified="2021-12-30T05:16:11.3Z" filename="SuperSmashData.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mayanGods-WhereCountAltName.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:11.366Z" modified="2021-12-30T05:16:11.366Z" filename="mayanGods-WhereCountAltName.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="NETWORK-SmashTiersStart.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:11.436Z" modified="2021-12-30T05:16:11.436Z" filename="NETWORK-SmashTiersStart.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="auto-CLASSFilteringNumbers.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:11.51Z" modified="2021-12-30T05:16:11.51Z" filename="auto-CLASSFilteringNumbers.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="autoFLWOR-to-HTML.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:11.58Z" modified="2021-12-30T05:16:11.58Z" filename="autoFLWOR-to-HTML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="autoFLWOR-to-HTML-SavingOutput.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:11.654Z" modified="2021-12-30T05:16:11.654Z" filename="autoFLWOR-to-HTML-SavingOutput.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="auto-FilteringNumbers.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:11.724Z" modified="2021-12-30T05:16:11.724Z" filename="auto-FilteringNumbers.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="autoFLWOR.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:11.805Z" modified="2021-12-30T05:16:11.805Z" filename="autoFLWOR.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="letsrock-distinctValues-inClass.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:11.874Z" modified="2021-12-30T05:16:11.874Z" filename="letsrock-distinctValues-inClass.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="autoPHPGetCars.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:11.936Z" modified="2021-12-30T05:16:11.936Z" filename="autoPHPGetCars.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="auto-BAD-FLWOR-forLearning.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:12.003Z" modified="2021-12-30T05:16:12.003Z" filename="auto-BAD-FLWOR-forLearning.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mayanGrandchildren.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:12.07Z" modified="2021-12-30T05:16:12.07Z" filename="mayanGrandchildren.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="NETWORK-SmashTiers.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:12.208Z" modified="2021-12-30T05:16:12.208Z" filename="NETWORK-SmashTiers.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="letsrock-distinctValues.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:12.275Z" modified="2021-12-30T05:16:12.275Z" filename="letsrock-distinctValues.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="btrees-STATIC-scrollJS.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:12.342Z" modified="2021-12-30T05:16:12.342Z" filename="btrees-STATIC-scrollJS.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bubblePlotSVGfinished.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:12.423Z" modified="2021-12-30T05:16:12.423Z" filename="bubblePlotSVGfinished.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="btrees-DYN-PHP-scrollJS.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:12.514Z" modified="2021-12-30T05:16:12.514Z" filename="btrees-DYN-PHP-scrollJS.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySVGstarter.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:12.586Z" modified="2021-12-30T05:16:12.586Z" filename="banksySVGstarter.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="mayanGodNamesContainBlood.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:12.655Z" modified="2021-12-30T05:16:12.655Z" filename="mayanGodNamesContainBlood.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksySVGAfterClass1.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:12.782Z" modified="2021-12-30T05:16:12.782Z" filename="banksySVGAfterClass1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bubblePlotSVGstarter.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:12.924Z" modified="2021-12-30T05:16:12.924Z" filename="bubblePlotSVGstarter.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="autoPHPGetYears.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:13.006Z" modified="2021-12-30T05:16:13.006Z" filename="autoPHPGetYears.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,24 @@
+xquery version "3.1";
+let $disneySongs := collection('/db/disneySongs/')
+	let $sCount := $disneySongs
+	let $sLengthsALL := 
+	                    for $d in $disneySongs
+	                    let $length := $d//song ! normalize-space() ! string-length()
+	                    return $length
+	let $maxSLength := $sLengthsALL => max()
+	let $minSLength := $sLengthsALL => min ()
+	for $d in $disneySongs
+	    let $title := $d//metadata/title
+	    let $cLine := $d//ln => count()
+	    let $sString := $d//song ! normalize-space()
+	    let $sSL := $sString ! string-length()
+	    order by $sSL descending
+	   
+let $sTitles := $disneySongs//title
+let $hMsongs := $sTitles=>distinct-values()=>count()
+let $author := $disneySongs//author=>distinct-values()=>count()
+
+ return 
+<tr>
+    <td>{$sTitles}</td><td>{$hMsongs}</td><td>{$author}</td>
+</tr>

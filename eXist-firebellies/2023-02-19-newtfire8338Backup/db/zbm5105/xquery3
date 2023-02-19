@@ -1,0 +1,8 @@
+xquery version "3.1";
+let $disneySongs := collection('/db/disneySongs/')//xml
+let $songCount := $disneySongs
+for $d in $disneySongs
+    let $title := $d//metadata/title
+    let $lineCount := count($d//ln)
+    let $songStrings := $d//song ! string()
+return $songStrings

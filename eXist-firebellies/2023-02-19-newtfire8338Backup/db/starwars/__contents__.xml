@@ -1,0 +1,4 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/starwars" version="1" owner="admin" group="starwars" mode="775" created="2022-03-16T16:59:32.302Z">
+    <acl entries="0" version="1"/>
+    <subcollection name="fixed" filename="fixed"/>
+</collection>

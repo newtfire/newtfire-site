@@ -464,8 +464,6 @@
                      href="http://www.regular-expressions.info/quickstart.html"
                      target="_blank">the Regular Expressions Quick Start</a>.
                </li>
-            
-            
             </ul>    
         
              <!--<ul>
@@ -508,7 +506,7 @@
           </ul></td>
           <td class="doBeforeClass"><ul>
              <li>Regex Exercise 4</li>
-             <li><strong>Project Milestone 3</strong> due: 
+             <li><strong>Project Milestone 2</strong> due: 
                 <ul>
                    <li>Create a file directory structure for the project GitHub repo(s): Initiate the project website within the docs directory with an index.html page and some CSS. Consult with your team and Dr. B to decide on a place to work on the text files (in its own directory, or in a separate private repo?) and create that space. Create a directory for XML files. Begin populating those file directories (even with placeholder Readme.md files to describe what belongs where).</li>
                    <li>Assemble the text files you want to work with on the project. As a team, work on document analysis to plan for how you want these to be marked for structure. What XML structure do you want to use to contain meaningful units of text data? Aim for a clear, simple structure that distinguishes the kind of info you want to be able to track.</li>
@@ -527,168 +525,214 @@
     </table>
     <table><tr><th id="Week10">Week 9</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-03-13">
        <td><h4>M 3-13</h4></td>
-       <td class="topic">HTML and CSS review
-          <ul>
-             
-             <li>HTML 5 semantic elements</li>
-             <li>CSS box model</li>
-             <li>Web browsers and display variations</li>
-             <li>Positioning and controlling layouts with HTML: flexboxes</li>
-          </ul> </td>
-       <td class="doBeforeClass">Complete <b><!--<a href="https://newtfire.github.io/textAnalysis-Hub/htmlGpEx1.html">-->HTML Exercise 1<!--</a>--></b>.  The files go on your webspace: Provide the published web link to your files on Canvas. </td>
+       <td class="topic"><ul>
+          <li>Launch <a href="../tutorials/RegexExerciseMalteseFalcon.html">Take-home Regex Test</a> (due next Monday)</li>
+          <li>Start XPath  and XQuery in oXygen, and in eXist-dB: simple functions and sequences. Exploring XML through child and descendant axes. Predicate
+             filters.</li>
+          <li>Start XPath Orientation Exercise together</li>
+          <li>Access <a href="http://exist.newtfire.org">newtfire eXist-dB</a> and find the eXide window.</li>
+       </ul>
+          
+          <!-- Was an HTML / CSS review in previous semesters. Not necessary now? -->
+          
+       </td>
+       <td class="doBeforeClass"><!--Complete <b><!-\-<a href="https://newtfire.github.io/textAnalysis-Hub/htmlGpEx1.html">-\->HTML Exercise 1<!-\-</a>-\-></b>.  
+          The files go on your webspace: Provide the published web link to your files on Canvas. --></td>
     </tr>
        <tr id="d2023-03-15">
           <td><h4>W 3-15</h4></td>
-          <td class="topic"><ul><li>Debugging HTML / CSS issues: console Log in the browser, resources for Looking Stuff Up. </li>
-             <li>Start XPath  and XQuery in oXygen, and in eXist-dB: simple functions and sequences. Exploring XML through child and descendant axes. Predicate
-                filters.</li>
+          <td class="topic">
+             <ul>
+                <li>XPath predicates <code>[ ]</code> as filters.</li>
+                <li>Awareness of sequences: An XPath sequence can be zero, one, or more results (either XML nodes or information about them)</li>
+                <li>XQuery and writing a FLWOR over a sequence</li>
+             
+             <!--<li>Debugging HTML / CSS issues: console Log in the browser, resources for Looking Stuff Up. </li>-->
+           
           </ul></td>
           <td class="doBeforeClass"><ul>
-             <li>Complete <!--<a href="https://newtfire.github.io/textAnalysis-Hub/htmlGpEx2.html">-->HTML/CSS Exercise 2
+             <li>Work with our <a href="../tutorials/explainXPath.html"><q>Follow the XPath</q></a> tutorial 
+                and work through <strong><a href="../tutorials/XPathExercise1-TA.html">XPath Orientation Exercise</a></strong></li>
+         <!--    <li>Complete <!-\-<a href="https://newtfire.github.io/textAnalysis-Hub/htmlGpEx2.html">-\->HTML/CSS Exercise 2
                 <ul>
                    <li>Read about <a href="https://www.w3schools.com/html/html_accessibility.asp">HTML Accessibility</a> and apply what you learn about <dfn>accessible code</dfn> on your HTML code for headings, images (providing alt attributes), links, declaring the language. Try applying title attributes.</li>
                    <li>Read about <a href="https://www.w3schools.com/html/html_responsive.asp">Responsive HTML</a> and try applying what you learn to scaling some elements on your site. </li></ul>
                 The files go on your webspace: Provide the published web link to your files on Canvas. 
-             </li>
-             <li>Access <a href="http://exist.newtfire.org">newtfire eXist-dB</a> and find the eXide window.</li>
-             <li>End of the day: <strong><!--<a href="../tutorials/RegexExerciseMalteseFalcon.html">-->Take-home Regex Test<!--</a>--></strong>.</li>
+             </li>-->
+            
+          
           </ul></td>
        </tr>
        <tr id="d2023-03-17">
           <td><h4>F 3-17</h4></td>
-          <td class="topic">XPath predicates <code>[ ]</code> as filters. Awareness of sequences: An XPath sequence can be zero, one, or more results.
-             XPath functions and their <dfn>cardinality</dfn>: can they handle only one node at a time? Or many at once? Introducing the FLWOR</td>
-          <td class="doBeforeClass"><ul>
-             <li>Work with our <a href="../tutorials/explainXPath.html"><q>Follow the XPath</q></a> tutorial and work through <strong><a href="../tutorials/XPathExercise1-TA.html">XPath Orientation Exercise</a></strong></li>
-            <li>End of the day: <strong>Project Milestone 3</strong> due</li>
-            
+          <td class="topic"><ul>
+             <li>XQuery: Writing FLWOR statements and outputting HTML lists and
+                tables</li>
+             <li>Outputting files and saving them to the eXist-db database for
+                previewing</li>
+             <li>XQuery online and offline: in eXist and in &lt;oXygen/&gt;</li>
           </ul></td>
+          <td class="doBeforeClass">
+             <ul>
+                <li>Read and check out some things you can try in our newtFire eXist environment at Michael Kay’s <a href="http://www.stylusstudio.com/xquery-primer.html"><q>Learn XQuery in 10 Minutes</q> tutorial</a> and our <a href="../tutorials/explainXQuery.html">Introduction to XQuery and the eXist XML Database</a>.</li>
+                <li>(Due before class) <strong><a href="../tutorials/XQueryExercise1-TA.html">XQuery Exercise 1: XPath over a collection</a></strong></li>
+                <li>End of the day: <strong>Project Milestone 3</strong> due</li>
+             </ul> 
+        </td>
        </tr>
     </table>
     <table><tr><th id="Week11">Week 10</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-03-20">
        <td><h4>M 3-20</h4></td>
-       <td class="topic"><ul>
-          <li>XQuery: Writing FLWOR statements and outputting HTML lists and
-             tables</li>
-          <li>Outputting files and saving them to the eXist-db database for
-             previewing</li>
-          <li>XQuery online and offline: in eXist and in &lt;oXygen/&gt;</li>
-       </ul></td>
-       <td class="doBeforeClass"><ul>
-          <li>Read and check out some things you can try in our newtFire eXist environment at Michael Kay’s <a href="http://www.stylusstudio.com/xquery-primer.html"><q>Learn XQuery in 10 Minutes</q> tutorial</a> and our <a href="../tutorials/explainXQuery.html">Introduction to XQuery and the eXist XML Database</a>.</li>
-          <li>(Due before class) <strong><a href="../tutorials/XQueryExercise1-TA.html">XQuery Exercise 1: XPath over a collection</a></strong></li>
-          
-       </ul></td>
-    </tr>
-       <tr id="d2023-03-22">
-          <td><h4>W 3-22</h4></td>
-          <td class="topic"><ul> <li>What you can count and measure with XPath in XQuery</li>
+       <td class="topic">
+          <ul> <li>What you can count and measure with XPath in XQuery</li>
              <li>  Saving and Accessing files in the Newtfire eXist-db: set up individual
                 and team project directories. </li>
              <li>Test logging in to <a href="http://exist.newtfire.org">newtfire eXist-dB</a></li>
-          </ul></td>
-          <td class="doBeforeClass"><ul>
-             <li><strong><a href="../tutorials/XQueryExercise2-TA.html">XQuery Exercise 2: Writing a FLWOR</a></strong></li>
           </ul>
+          
+       </td>
+       <td class="doBeforeClass">
+          
+         <ul>
+            <li><strong><a href="../tutorials/XQueryExercise2-TA.html">XQuery Exercise 2: Writing a FLWOR</a></strong></li>
+            <li>End of the day: <strong><a href="../tutorials/RegexExerciseMalteseFalcon.html">Take-home Regex Test</a></strong>.</li>
+         </ul>
+       </td>
+    </tr>
+       <tr id="d2023-03-22">
+          <td><h4>W 3-22</h4></td>
+          <td class="topic"><ul>
+             <li><strong>XQuery <code>for</code> statements</strong>: singling out each member of a sequence of XML nodes, as well as values <q>off the tree</q>.</li>
+             <li>XQuery from eXist to Web: Writing HTML output from eXist-dB</li>
+          </ul>
+             
+          </td>
+          <td class="doBeforeClass">
+             <ul>
+                <li><!--<a href="../tutorials/XQueryExercise3-TA.html">-->XQuery Ex 3<!--: Querying the Disney Songs </a>--></li>
+             </ul>
+   
           </td>
        </tr>
        <tr id="d2023-03-24">
           <td><h4>F 3-24</h4></td>
-          <td class="topic"><ul>
-             <li><strong>XQuery <code>for</code> statements</strong>: singling out each member of a sequence of XML nodes, as well as values <q>off the tree</q>.</li>
-             <li>XQuery from eXist to Web: Writing HTML output from eXist-dB</li>
-          </ul></td>
+          <td class="topic">XQuery to HTML. Working with eXist-dB outputs.</td>
           <td class="doBeforeClass"><ul>
-             <li><!--<a href="../tutorials/XQueryExercise3-TA.html">-->XQuery Ex 3<!--: Querying the Disney Songs </a>--></li>
-             <li>End of the day: <strong>Project Milestone 4</strong> due: preparing file(s) for your project collection to explore with XQuery</li>
+             <li><!--<a href="../tutorials/XQueryExercise4-TA.html">-->XQuery Exercise 4: Storing data in HTML<!--</a>--></li>
+             <li>End of the day: <strong>Project Milestone 4</strong> due: exploring project files with XQuery</li>
           </ul></td>
        </tr>
     </table>
     <table><tr><th id="Week12">Week 11</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-03-27">
        <td><h4>M 3-27</h4></td>
-       <td class="topic">XQuery to HTML. Working with eXist-dB outputs.</td>
-       <td class="doBeforeClass"><!--<a href="../tutorials/XQueryExercise4-TA.html">-->XQuery Exercise 4: Storing data in HTML<!--</a>--></td>
+       <td class="topic">XQuery prep for NLP and Network Analysis: Other output formats to save: 
+          the CSV / TSV file.</td>
+       <td class="doBeforeClass"><ul><li><a href="../tutorials/XQueryExercise5-TA.html">XQuery Exercise 5</a></li>
+          <li><strong>Extra Credit Opportunity:</strong> Attend the World-Wide Climate Justice Teach-In from 5:30 - 8pm in Reed Bldg., or come at least at 7pm for the Technology panel (where Dr. B is presenting).</li>
+       </ul></td>
     </tr>
        <tr id="d2023-03-29">
           <td><h4>W 3-29</h4></td>
-          <td class="topic">XQuery prep for NLP and Network Analysis: Other output formats to save: 
-             the CSV / TSV file.</td>
-          <td class="doBeforeClass"><ul><li><a href="../tutorials/XQueryExercise5-TA.html">XQuery Exercise 5</a></li>
-          <li><strong>Extra Credit Opportunity:</strong> Attend the World-Wide Climate Justice Teach-In from 5:30 - 8pm in Reed Bldg., or come at least at 7pm for the Technology panel (where Dr. B is presenting).</li>
-          </ul></td>
+          <td class="topic">Introducing Network Analysis via XQuery and TSV files.</td>
+          <td class="doBeforeClass"> <ul><li>Prepare for Network Analysis from XML data: 
+             <!--via Python: [TBD] reading and Python code starter. --> 
+             <a href="http://cytoscape.org/"
+             target="_blank">Install Cytoscape on your computer</a>. Begin familiarizing
+             yourself with the Cytoscape interface, working with Cytoscape session
+             files (with .cys extension) in the textAnalysis-Hub in Class Examples >> XQuery-NetworkAnalysis. Try opening one of the Cytoscape
+             session files (.cys) found in one of the project directories there following our tutorial instructions. -->
+          </li>
+            <li>Read <a href="http://ebeshero.github.io/thalaba/cytosc.html"
+             target="_blank"><cite class="sub">An Introduction to Network Analysis
+                and Cytoscape for XML Coders</cite></a></li>
+          </ul>
+             
+          </td>
        </tr>
        <tr id="d2023-03-31">
           <td><h4>F 3-31</h4></td>
-          <td class="topic">Project Work / Catch-up Day</td>
-          <td class="doBeforeClass"><strong>Project Milestone 5</strong> due: <ul><li>All or most of your texts are prepared in XML and (nearly) ready for XQuery and NLP analysis. Or the work remaining to prepare your texts is easily defined on your GitHub Issues for the project.</li>
+          <td class="topic">Network analysis: orientation to network statistics. Reading in data and working with network visualization parameters</td>
+          <td class="doBeforeClass">
+             <ul><li><strong>XQuery to Network Analysis: Exercise 1</strong> prepare a TSV for class today</li>
+             
+            <li><strong>Project Milestone 5</strong> due: <ul><li>All or most of your texts are prepared in XML and (nearly) ready for XQuery and NLP analysis. Or the work remaining to prepare your texts is easily defined on your GitHub Issues for the project.</li>
              <li>Relax NG schema is prepared and associated with your files. The team is has been error-correcting and proofing the text base.</li>
              <li>The website is progressing: there is a site menu and more than one page. Some content appears to announce what this project is about and what questions the team is exploring. </li>
-             <li>Some XQuery over all of some of the team XML is present in the team GitHub repo, and some results of that XQuery are shared, if not on the website, at least in the repo.</li></ul></td>
+             <li>Some XQuery over all of some of the team XML is present in the team GitHub repo, and some results of that XQuery are shared, if not on the website, at least in the repo.</li></ul></li></ul>
+          </td>
        </tr>
     </table>
     <table><tr><th id="Week13">Week 12</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-04-03">
        <td><h4>M 4-03</h4></td>
-       <td class="topic"><p>XML that makes graphics: SVG (Scalable Vector Graphics). Drawing elements,
-          and screen grid coordinates.</p>
-          <ul><li><a href="https://www.slideshare.net/ebbondar/svg-81556046" target="_blank">
-             Introductory Slideshow</a></li>
-             <li><a href="https://www.w3schools.com/graphics/svg_intro.asp" target="_blank"
-                >w3Schools SVG Tutorial</a></li>
-       </ul></td>
-       <td class="doBeforeClass">Project NLP Exercise [TBD]</td>
+       <td class="topic">Network Analysis, continued: Selecting/querying the network, creating sub-networks.
+          Working with output files on your website.
+         </td>
+       <td class="doBeforeClass">XQuery to Network Analysis: Exercise 2: prepare a network visualization</td>
     </tr>
        <tr id="d2023-04-05">
           <td><h4>W 4-05</h4></td>
-          <td class="topic">XQuery to SVG: Pulling data for visualizing, and plotting graphs using FLWOR statements. Namespace issues.</td>
-          <td class="doBeforeClass"><ul>
+          <td class="topic"> <p>XML that makes graphics: SVG (Scalable Vector Graphics). Drawing elements,
+             and screen grid coordinates.</p>
+             <ul><li><a href="https://www.slideshare.net/ebbondar/svg-81556046" target="_blank">
+                Introductory Slideshow</a></li>
+                <li><a href="https://www.w3schools.com/graphics/svg_intro.asp" target="_blank"
+                   >w3Schools SVG Tutorial</a></li>
+             </ul>
+ \
+             
+            </td>
+          <td class="doBeforeClass">XQuery to Network Analysis: Refining the visualization, outputting SVG </td>
+       </tr>
+       <tr id="d2023-04-07">
+          <td><h4>F 4-07</h4></td>
+          <td class="topic"> Write XQuery to output SVG: Pulling data for visualizing, and plotting graphs using FLWOR statements. Namespace issues.
+            Writing variables for plotting, labelling, scaling, colors.</td>
+          <td class="doBeforeClass">  <ul>
              <li>Work through <a href="https://www.w3schools.com/graphics/svg_intro.asp"
                 target="_blank">the w3schools SVG tutorial</a> to complete the SVG
                 basic and SVG shapes pages. Filters, gradients, examples, and reference
                 are optional.</li>
              <li><strong><a href="../tutorials/SVGExercise1.html" target="_blank">SVG Exercise
                 1</a></strong></li>
-          </ul></td>
-       </tr>
-       <tr id="d2023-04-07">
-          <td><h4>F 4-07</h4></td>
-          <td class="topic">XQuery to SVG: plotting, labelling, scaling, colors.</td>
-          <td class="doBeforeClass"><a href="../tutorials/SVGExercise2-TA.html"><b>SVG Exercise 2 (from XQuery)</b></a>: Plot a clear, simple, legible,
-             labelled graph.</td>
+             <li><strong>Project Milestone 4</strong> (due end of day)</li>
+          </ul>
+             </td>
        </tr>
     </table>
     <table><tr><th id="Week14">Week 13</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-04-10">
        <td><h4>M 4-10</h4></td>
-       <td class="topic">XQuery to SVG development. Introducing Network Analysis via XQuery and TSV files.</td>
-       <td class="doBeforeClass"><ul><li><strong>SVG Exercise 3</strong>: Catch up on previous XQuery exercises if you need to repair them. 
-          Continue with plotting SVG from the previous exercise, this time converting your plot to a bar graph: Prepare evenly-spaced side-by-side bars, so the count of actions is next to the count of distinct speakers. Prepare X and Y axes for your graph, and label your counts.</li>
-          <li>Prepare for Network Analysis from XML data via Python: [TBD] reading and Python code starter.  <!--<a href="http://cytoscape.org/"
-             target="_blank">Install Cytoscape on your computer</a>. Begin familiarizing
-             yourself with the Cytoscape interface, working with Cytoscape session
-             files (with .cys extension) in the textAnalysis-Hub in Class Examples >> XQuery-NetworkAnalysis. Try opening one of the Cytoscape
-             session files (.cys) found in one of the project directories there following our tutorial instructions. -->
-          </li>
-         <!-- <li>Read <a href="http://ebeshero.github.io/thalaba/cytosc.html"
-             target="_blank"><cite class="sub">An Introduction to Network Analysis
-                and Cytoscape for XML Coders</cite></a></li>-->
-       </ul>
+       <td class="topic">
+          <ul>
+             <li>XQuery to SVG Development</li>
+             <li>Launch take-home XQuery test</li>
+       
+       </ul></td>
+       <td class="doBeforeClass"><a href="../tutorials/SVGExercise2-TA.html"><b>SVG Exercise 2 (from XQuery)</b></a>: Plot a clear, simple, legible,
+          labelled graph.
+   
        </td>
     </tr>
        <tr id="d2023-04-12">
           <td><h4>W 4-12</h4></td>
-          <td class="topic">Network analysis: orientation to network statistics. Reading in data and working with network visualization parameters</td>
-          <td class="doBeforeClass">XQuery to Network Analysis: Exercise 1: prepare a TSV for class today</td>
+          <td class="topic"><strong>Catch-up / Project Workday</strong></td>
+          <td class="doBeforeClass"> </td>
        </tr>
        <tr id="d2023-04-14">
           <td><h4>F 4-14</h4></td>
-          <td class="topic">Network Analysis, continued: Querying the network and highlighting interesting information. Plotting data to look for shortest paths between points, 
-             Working with output files on your website.</td>
-          <td class="doBeforeClass">XQuery to Network Analysis: Exercise 2</td>
+          <td class="topic">XQuery to SVG: exploring possibilities with project data</td>
+          <td class="doBeforeClass"><ul>
+  
+             <li><strong>SVG Exercise 3</strong><!--: Catch up on previous XQuery exercises if you need to repair them. 
+                Continue with plotting SVG from the previous exercise, this time converting your plot to a bar graph: Prepare evenly-spaced side-by-side bars, so the count of actions is next to the count of distinct speakers. Prepare X and Y axes for your graph, and label your counts.--></li>
+             <li><strong>Project Milestone 5</strong> (due end of day)</li>
+             
+          </ul></td>
        </tr>
     </table>
     <table><tr><th id="Week15">Week 14</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr><tr id="d2023-04-17">
        <td><h4>M 4-17</h4></td>
-       <td class="topic">XQuery to Python: Pulling data from XML for NLP and/or machine learning on projects. Training data</td>
-       <td class="doBeforeClass">....</td>
+       <td class="topic">XQuery and Python: Project applications</td>
+       <td class="doBeforeClass"><strong>XQuery test due</strong></td>
     </tr>
        <tr id="d2023-04-19">
           <td><h4>W 4-19</h4></td>
@@ -697,7 +741,7 @@
        </tr>
        <tr id="d2023-04-21">
           <td><h4>F 4-21</h4></td>
-          <td class="topic">Project NLP / Machine Learning workday</td>
+          <td class="topic">Project NLP / Machine Learning</td>
           <td class="doBeforeClass"><ul><li>XQuery to Python NLP Exercise 2</li>
              <li><strong>Project Milestone 6</strong> due: Visualization and Documentation Development</li>
           </ul></td>

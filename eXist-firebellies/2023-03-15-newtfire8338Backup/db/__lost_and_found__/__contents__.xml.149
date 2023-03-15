@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shakespeare/resources/scripts" version="1" owner="admin" group="dba" mode="755" created="2021-03-01T18:07:15.563Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="demo.js" skip="no" owner="admin" group="dba" mode="644" created="2021-03-01T18:07:15.625Z" modified="2021-03-01T18:07:15.625Z" filename="demo.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.scrollExtend.min.js" skip="no" owner="admin" group="dba" mode="644" created="2021-03-01T18:07:15.688Z" modified="2021-03-01T18:07:15.688Z" filename="jquery.scrollExtend.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

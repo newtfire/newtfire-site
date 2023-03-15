@@ -1,0 +1,249 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/mitford/letters" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:26:04.594Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="1823-10-01-Haydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:07.877Z" modified="2021-12-30T05:26:07.877Z" filename="1823-10-01-Haydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1820-11-04_Haydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:07.948Z" modified="2021-12-30T05:26:07.948Z" filename="1820-11-04_Haydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1820-08-24_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.017Z" modified="2021-12-30T05:26:08.017Z" filename="1820-08-24_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-01-12_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.092Z" modified="2021-12-30T05:26:08.092Z" filename="1819-01-12_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821_11_23_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.181Z" modified="2021-12-30T05:26:08.181Z" filename="1821_11_23_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-04-08_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.25Z" modified="2021-12-30T05:26:08.25Z" filename="1819-04-08_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1820-10-02-Haydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.317Z" modified="2021-12-30T05:26:08.317Z" filename="1820-10-02-Haydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1820-09-09-Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.383Z" modified="2021-12-30T05:26:08.383Z" filename="1820-09-09-Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-02-13_Haydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.455Z" modified="2021-12-30T05:26:08.455Z" filename="1819-02-13_Haydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-07-05-MWebb.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.523Z" modified="2021-12-30T05:26:08.523Z" filename="1819-07-05-MWebb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-04-04-Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.602Z" modified="2021-12-30T05:26:08.602Z" filename="1821-04-04-Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-07-01_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.67Z" modified="2021-12-30T05:26:08.67Z" filename="1821-07-01_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-07-31-Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.743Z" modified="2021-12-30T05:26:08.743Z" filename="1821-07-31-Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1823-03-25_Haydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.811Z" modified="2021-12-30T05:26:08.811Z" filename="1823-03-25_Haydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-02-18_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.88Z" modified="2021-12-30T05:26:08.88Z" filename="1819-02-18_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-12-10-f392-MrsMitford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:08.946Z" modified="2021-12-30T05:26:08.946Z" filename="1819-12-10-f392-MrsMitford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1824-06-13-TNTalfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.012Z" modified="2021-12-30T05:26:09.012Z" filename="1824-06-13-TNTalfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-12-09_MWebb.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.075Z" modified="2021-12-30T05:26:09.075Z" filename="1819-12-09_MWebb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1825-07-29_Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.153Z" modified="2021-12-30T05:26:09.153Z" filename="1825-07-29_Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1823-04-26_Macready.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.225Z" modified="2021-12-30T05:26:09.225Z" filename="1823-04-26_Macready.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-02-08_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.297Z" modified="2021-12-30T05:26:09.297Z" filename="1821-02-08_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1822-08-13-Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.371Z" modified="2021-12-30T05:26:09.371Z" filename="1822-08-13-Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-01-09-Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.44Z" modified="2021-12-30T05:26:09.44Z" filename="1819-01-09-Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-11-06-Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.509Z" modified="2021-12-30T05:26:09.509Z" filename="1821-11-06-Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-03-13_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.577Z" modified="2021-12-30T05:26:09.577Z" filename="1819-03-13_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-02-10_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.645Z" modified="2021-12-30T05:26:09.645Z" filename="1819-02-10_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-02-27_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.718Z" modified="2021-12-30T05:26:09.718Z" filename="1819-02-27_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-10-28-Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.789Z" modified="2021-12-30T05:26:09.789Z" filename="1821-10-28-Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-04-20_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.858Z" modified="2021-12-30T05:26:09.858Z" filename="1821-04-20_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-04-18-BRHaydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:09.928Z" modified="2021-12-30T05:26:09.928Z" filename="1821-04-18-BRHaydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1820-01-30-Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:10.003Z" modified="2021-12-30T05:26:10.003Z" filename="1820-01-30-Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1822-07-23-Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:10.077Z" modified="2021-12-30T05:26:10.077Z" filename="1822-07-23-Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1825-08-12Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:10.142Z" modified="2021-12-30T05:26:10.142Z" filename="1825-08-12Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-11-22-Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:10.203Z" modified="2021-12-30T05:26:10.203Z" filename="1821-11-22-Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1824-02-09_BRHaydon_mjk.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:10.274Z" modified="2021-12-30T05:26:10.274Z" filename="1824-02-09_BRHaydon_mjk.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1823-08-24-Haydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:10.342Z" modified="2021-12-30T05:26:10.341Z" filename="1823-08-24-Haydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-12-23_MWebb.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:10.412Z" modified="2021-12-30T05:26:10.412Z" filename="1819-12-23_MWebb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1823-06-14_Haydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:10.478Z" modified="2021-12-30T05:26:10.478Z" filename="1823-06-14_Haydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-05-02-BRHaydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:04.595Z" modified="2021-12-30T05:26:04.595Z" filename="1821-05-02-BRHaydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-09-12_WElford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:04.674Z" modified="2021-12-30T05:26:04.674Z" filename="1819-09-12_WElford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-08-08-f378-BRHaydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:04.747Z" modified="2021-12-30T05:26:04.747Z" filename="1819-08-08-f378-BRHaydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1823-05-13_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:04.815Z" modified="2021-12-30T05:26:04.815Z" filename="1823-05-13_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-11-16-Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:04.882Z" modified="2021-12-30T05:26:04.882Z" filename="1821-11-16-Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-12-xa_Webb.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:04.947Z" modified="2021-12-30T05:26:04.947Z" filename="1819-12-xa_Webb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1823-04-25-WElford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.021Z" modified="2021-12-30T05:26:05.021Z" filename="1823-04-25-WElford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-03-02-MWebb.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.096Z" modified="2021-12-30T05:26:05.096Z" filename="1819-03-02-MWebb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1820-11-11-SirWilliamElford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.172Z" modified="2021-12-30T05:26:05.172Z" filename="1820-11-11-SirWilliamElford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1820-11-04Unknown.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.242Z" modified="2021-12-30T05:26:05.242Z" filename="1820-11-04Unknown.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-05-30_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.31Z" modified="2021-12-30T05:26:05.31Z" filename="1819-05-30_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-05-16_MWebb.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.38Z" modified="2021-12-30T05:26:05.38Z" filename="1819-05-16_MWebb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1823-01-13_WElford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.446Z" modified="2021-12-30T05:26:05.446Z" filename="1823-01-13_WElford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821Nov12_13.Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.512Z" modified="2021-12-30T05:26:05.512Z" filename="1821Nov12_13.Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-06-29-Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.578Z" modified="2021-12-30T05:26:05.578Z" filename="1819-06-29-Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1822-08-31_Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.649Z" modified="2021-12-30T05:26:05.649Z" filename="1822-08-31_Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1818-01-12_WElford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.718Z" modified="2021-12-30T05:26:05.718Z" filename="1818-01-12_WElford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1820-09-01_Haydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.787Z" modified="2021-12-30T05:26:05.787Z" filename="1820-09-01_Haydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-01-10-MaryWebb.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.853Z" modified="2021-12-30T05:26:05.853Z" filename="1819-01-10-MaryWebb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-07-28-f377-Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.926Z" modified="2021-12-30T05:26:05.926Z" filename="1819-07-28-f377-Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1823-04-09-Hamilton.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:05.991Z" modified="2021-12-30T05:26:05.991Z" filename="1823-04-09-Hamilton.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1820-06-29_Haydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:06.07Z" modified="2021-12-30T05:26:06.07Z" filename="1820-06-29_Haydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-10-31-BRHaydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:06.139Z" modified="2021-12-30T05:26:06.139Z" filename="1821-10-31-BRHaydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1823-02-28_WElford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:06.208Z" modified="2021-12-30T05:26:06.208Z" filename="1823-02-28_WElford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-05-14_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:06.278Z" modified="2021-12-30T05:26:06.278Z" filename="1819-05-14_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-01-29_Webb.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:06.346Z" modified="2021-12-30T05:26:06.346Z" filename="1821-01-29_Webb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1820-03-20-WElford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:06.415Z" modified="2021-12-30T05:26:06.415Z" filename="1820-03-20-WElford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-03-10-BRHaydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:06.48Z" modified="2021-12-30T05:26:06.48Z" filename="1821-03-10-BRHaydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1820-09-30-Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:06.545Z" modified="2021-12-30T05:26:06.545Z" filename="1820-09-30-Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-10-22_Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:06.679Z" modified="2021-12-30T05:26:06.679Z" filename="1821-10-22_Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1820-09-14_BRHaydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:06.749Z" modified="2021-12-30T05:26:06.749Z" filename="1820-09-14_BRHaydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-02-09-BRHaydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:06.813Z" modified="2021-12-30T05:26:06.813Z" filename="1821-02-09-BRHaydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1825-06-29-Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:06.879Z" modified="2021-12-30T05:26:06.879Z" filename="1825-06-29-Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1822-05-19-Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:07.007Z" modified="2021-12-30T05:26:07.007Z" filename="1822-05-19-Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1825-05-11-Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:07.077Z" modified="2021-12-30T05:26:07.077Z" filename="1825-05-11-Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1823-10-1-Haydon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:07.147Z" modified="2021-12-30T05:26:07.147Z" filename="1823-10-1-Haydon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-06-08-Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:07.218Z" modified="2021-12-30T05:26:07.218Z" filename="1819-06-08-Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1823-08-21_Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:07.282Z" modified="2021-12-30T05:26:07.282Z" filename="1823-08-21_Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="18211122Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:07.429Z" modified="2021-12-30T05:26:07.429Z" filename="18211122Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1822-03-02-Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:07.494Z" modified="2021-12-30T05:26:07.494Z" filename="1822-03-02-Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1819-04-19-MWebb.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:07.569Z" modified="2021-12-30T05:26:07.569Z" filename="1819-04-19-MWebb.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1823-04-03-G-Mitford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:07.645Z" modified="2021-12-30T05:26:07.645Z" filename="1823-04-03-G-Mitford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-06-21_Talfourd.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:07.716Z" modified="2021-12-30T05:26:07.716Z" filename="1821-06-21_Talfourd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1821-03-22-Elford.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:07.796Z" modified="2021-12-30T05:26:07.796Z" filename="1821-03-22-Elford.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

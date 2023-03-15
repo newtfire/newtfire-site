@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group xmlns="http://exist-db.org/Configuration" id="150"><manager name="admin"/><metadata key="http://exist-db.org/security/description">Star Wars group Sp 23</metadata><name>starwars23</name></group>

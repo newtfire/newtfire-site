@@ -1,0 +1,33 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/ulysses/ulysses" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:29:35.985Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Proteus.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:35.986Z" modified="2021-12-30T05:29:35.986Z" filename="Proteus.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Eaumus(Finished).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:36.115Z" modified="2021-12-30T05:29:36.115Z" filename="Eaumus(Finished).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Nestor.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:36.196Z" modified="2021-12-30T05:29:36.195Z" filename="Nestor.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="penelope.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:36.387Z" modified="2021-12-30T05:29:36.387Z" filename="penelope.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Telemachus(Finished).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:36.472Z" modified="2021-12-30T05:29:36.472Z" filename="Telemachus(Finished).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Cyclops.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:36.602Z" modified="2021-12-30T05:29:36.602Z" filename="Cyclops.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Ithaca.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:36.752Z" modified="2021-12-30T05:29:36.752Z" filename="Ithaca.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Calypso.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:36.842Z" modified="2021-12-30T05:29:36.842Z" filename="Calypso.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Wandering_Rocks.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:36.957Z" modified="2021-12-30T05:29:36.957Z" filename="Wandering_Rocks.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Lotus_Eaters.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:37.047Z" modified="2021-12-30T05:29:37.047Z" filename="Lotus_Eaters.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

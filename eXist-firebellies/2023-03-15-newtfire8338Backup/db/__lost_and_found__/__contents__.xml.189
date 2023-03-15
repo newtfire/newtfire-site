@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/grimm-queries" version="1" owner="admin" group="dba" mode="775" created="2021-03-28T22:12:07.722Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="grimm" access_type="ALLOWED" mode="7"/>
+    </acl>
+</collection>

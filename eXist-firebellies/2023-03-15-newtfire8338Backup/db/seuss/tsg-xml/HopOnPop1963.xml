@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="rhyme" type="literacy" date="1963"/>
+<title>
+Hop on
+<char name="Pop">Pop</char>
+? by Dr. Seuss
+</title>
+<body>
+<stanza>
+<l>
+UP
+<char name="Pup">PUP</char>
+<char name="Pup">Pup</char>
+is up.
+</l>
+<l>
+CUP
+<char name="Pup">PUP</char>
+<char name="Pup">Pup</char>
+in cup.
+</l>
+<l>
+<char name="Pup">PUP</char>
+CUP Cup on
+<char name="Pup">pup</char>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+<char name="Mouse">MOUSE</char>
+HOUSE
+<char name="Mouse">Mouse</char>
+on house.
+</l>
+<l>
+HOUSE
+<char name="Mouse">MOUSE</char>
+House on
+<char name="Mouse">mouse</char>
+.
+</l>
+</stanza>
+<stanza>
+<l>ALL TALL We all are tall.</l>
+<l>ALL SMALL We all are small.</l>
+<l>ALL BALL We all play ball.</l>
+<l>BALL WALL Up on a wall.</l>
+<l>ALL FALL Fall off the wall.</l>
+</stanza>
+<stanza>
+<l>DAY PLAY We play all day.</l>
+<l>NIGHT FIGHT We fight all night.</l>
+</stanza>
+<stanza>
+<l>HE ME He is after me.</l>
+<l>
+HIM
+<char name="Jim">JIM</char>
+<char name="Jim">Jim</char>
+is after him.
+</l>
+</stanza>
+<stanza>
+<l>SEE BEE We see a bee.</l>
+<l>SEE BEE THREE Now we see three.</l>
+<l>THREE TREE Three fish in a tree.</l>
+<l>Fish in a tree? How can that be?</l>
+</stanza>
+<stanza>
+<l>
+<char name="Red">RED</char>
+<char name="Red">RED</char>
+They call me
+<char name="Red">Red</char>
+.
+</l>
+<l>
+<char name="Red">RED</char>
+BED I am in bed.
+</l>
+<l>
+<char name="Red">RED</char>
+<char name="Ned">NED</char>
+<char name="Ted">TED</char>
+and
+<char name="Ed"> ED </char>
+in BED
+</l>
+</stanza>
+<stanza>
+<l>
+<char name="Pat">PAT</char>
+<char name="Pat">PAT</char>
+they call him
+<char name="Pat">Pat</char>
+.
+</l>
+<l>
+<char name="Pat">PAT</char>
+SAT
+<char name="Pat">Pat</char>
+sat on hat.
+</l>
+<l>
+<char name="Pat">PAT</char>
+CAT
+<char name="Pat">Pat</char>
+sat on cat.
+</l>
+<l>
+<char name="Pat">PAT</char>
+BAT
+<char name="Pat">Pat</char>
+sat on bat.
+</l>
+<l>
+NO
+<char name="Pat">PAT</char>
+NO Don't sit on that.
+</l>
+</stanza>
+<stanza>
+<l>
+SAD
+<char name="Dad">DAD</char>
+BAD HAD
+<char name="Dad">Dad</char>
+is sad.
+</l>
+<l>Very, very sad.</l>
+<l>
+He had a bad day. What a day
+<char name="Dad">Dad</char>
+had!
+</l>
+</stanza>
+<stanza>
+<l>THING THING What is that thing?</l>
+<l>THING SING That thing can sing!</l>
+<l>SONG LONG A long, long song.</l>
+<l>Good-by, Thing. You sing too long.</l>
+</stanza>
+<stanza>
+<l>WALK WALK We like to walk.</l>
+<l>WALK TALK We like to talk.</l>
+</stanza>
+<stanza>
+<l>
+HOP
+<char name="Pop">POP</char>
+We like to hop.
+</l>
+<l>
+We like to hop on top of
+<char name="Pop">Pop</char>
+.
+</l>
+<l>
+STOP You must not hop on
+<char name="Pop">Pop</char>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+<char name="Mr. Brown">Mr. BROWN</char>
+Mrs.
+<char name="Mr. Brown">BROWN</char>
+</l>
+<l>
+<char name="Mr. Brown">Mr. Brown</char>
+upside down.
+</l>
+<l>
+<char name="Pup">Pup</char>
+up.
+<char name="Mr. Brown">Brown</char>
+down.
+</l>
+<l>
+<char name="Pup">Pup</char>
+is down. Where is Brown?
+</l>
+<l>WHERE IS BROWN? THERE IS BROWN!</l>
+<l>
+<char name="Mr. Brown">Mr. Brown</char>
+is out of town.
+</l>
+<l>
+BACK BLACK
+<char name="Mr. Brown">Brown</char>
+came back.
+</l>
+<l>
+<char name="Mr. Brown">Brown</char>
+came back with
+<char name="Mr. Black">Mr. Black</char>
+.
+</l>
+<l>SNACK SNACK Eat a snack.</l>
+<l>
+Eat a snack with
+<char name="Mr. Brown">Brown</char>
+and
+<char name="Mr. Black">Black</char>
+.
+</l>
+</stanza>
+<stanza>
+<l>JUMP BUMP He jumped. He bumped.</l>
+<l>FAST PAST He went past fast.</l>
+</stanza>
+<stanza>
+<l>WENT TENT SENT He went into the tent.</l>
+<l>I sent him out of the tent.</l>
+</stanza>
+<stanza>
+<l>WET GET Two dogs get wet.</l>
+<l>HELP YELP They yelp for help.</l>
+</stanza>
+<stanza>
+<l>
+HILL
+<char name="Will">WILL</char>
+<char name="Will">Will</char>
+went up hill.
+</l>
+<l>
+<char name="Will">WILL</char>
+HILL STILL
+<char name="Will">Will</char>
+is up hill still.
+</l>
+</stanza>
+<stanza>
+<l>FATHER MOTHER SISTER BROTHER</l>
+<l>That one is my other brother.</l>
+<l>My brothers read a little bit.</l>
+<l>Little words like If and it.</l>
+<l>My father can read big words, too.</l>
+<l>Like CONSTANTINOPLE and TIMBUKTU</l>
+</stanza>
+<stanza>
+<l>SAY SAY What does this say?</l>
+<l>
+<mUp>seehemewe</mUp>
+</l>
+<l>
+<char name="Pat">pat</char>
+<char name="Pup">pup</char>
+<char name="Pop">pop</char>
+</l>
+<l>
+<mUp>hethreetreebee</mUp>
+</l>
+<l>
+<mUp>tophopstop</mUp>
+</l>
+<l>Ask me tomorrow but not today.</l>
+</stanza>
+</body>
+</book>

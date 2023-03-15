@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/backup/assets" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:55.682Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Backup.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.683Z" modified="2021-12-30T05:04:55.683Z" filename="Backup.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="backup1.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.686Z" modified="2021-12-30T05:04:55.686Z" filename="backup1.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exportgui.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.687Z" modified="2021-12-30T05:04:55.687Z" filename="exportgui.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="backup3.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.689Z" modified="2021-12-30T05:04:55.689Z" filename="backup3.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jconsole.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.691Z" modified="2021-12-30T05:04:55.691Z" filename="jconsole.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

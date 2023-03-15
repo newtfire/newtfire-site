@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-07-00002-ENG07.xml"/>
+        <title>Yuktiṣaṣṭikākārikā-nāma</title>
+        <author>Nāgārjuna</author>
+		<unifiedCatalogID>2-07-00002</unifiedCatalogID>
+		<sourceDesc>
+			<bibl>
+				<title>Sixty Stanzas of Reasoning by Nagarjuna</title>
+				<author>Thupten Jinpa</author>
+				<pubInfo>Institute of Tibetan Classics</pubInfo>
+				<date>2007</date>
+			</bibl>
+		</sourceDesc>
+		<creation date="Tue Feb 25 15:50:24 2020"/>
+		<processed date="Tue Feb 25 15:50:24 2020" ver="v.1.0" auth="Hackett"/>
+		<processed date="Wed Mar 25 15:50:02 2020" ver="v.1.01" auth="XMLTagEnglish v.1.07"/>
+	</head>
+	<text>
+		<sentence s_id="2-07-00002-ENG07-SID000001" type="Text Title">
+			<phrase phr_id="2-07-00002-ENG07-000001">Sixty Stanzas of Reasoning</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000002" type="Sentence">
+			<phrase phr_id="2-07-00002-ENG07-000002">Homage to the youthful Manjushri.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000003" type="Verse" s_name="Homage">
+			<phrase phr_id="2-07-00002-ENG07-000003">Homage to the great Sage</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000004">Who taught dependent origination,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000005">The means by which are eliminated</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000006">Arising and destruction.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000004" type="Verse" s_name="1">
+			<phrase phr_id="2-07-00002-ENG07-000007">Those whose mind has transcended</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000008">Existence and non-existence and abides no more [in them],</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000009">They’ve realized the meaning of conditioned existence,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000010">The profound absence of objectification.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000005" type="Verse" s_name="2">
+			<phrase phr_id="2-07-00002-ENG07-000011">First non-existence, the source of all faults,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000012">Had already been undone;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000013">Now listen to the reasoning</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000014">That undoes existence itself as well.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000006" type="Verse" s_name="3">
+			<phrase phr_id="2-07-00002-ENG07-000015">If things were truly existent,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000016">As imagined by the childish,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000017">What is the reason they’re not accepted</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000018">As liberated with no entity [of existence at all]?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000007" type="Verse" s_name="4">
+			<phrase phr_id="2-07-00002-ENG07-000019">One is not freed by existence;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000020">One does not transcend samsara through non-existence;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000021">It’s through understanding existence and non-existence</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000022">That the great beings are liberated.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000008" type="Verse" s_name="5">
+			<phrase phr_id="2-07-00002-ENG07-000023">Those who do not see ultimate reality</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000024">Grasp at samsara and nirvana;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000025">But those who see ultimate reality possess</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000026">No pretentions of world and its’ transcendence.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000009" type="Verse" s_name="6">
+			<phrase phr_id="2-07-00002-ENG07-000027">Both samsara and nirvana,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000028">Neither of these two exists;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000029">The thorough understanding of cyclic existence-</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000030">This is referred to as “nirvana.”</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000010" type="Verse" s_name="7">
+			<phrase phr_id="2-07-00002-ENG07-000031">Just as cessation is imputed</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000032">On the disintegration of an arisen entity;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000033">So too the sublime ones accept</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000034">Cessation that is illusion-like.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000011" type="Verse" s_name="8">
+			<phrase phr_id="2-07-00002-ENG07-000035">Things cease due to utter destruction,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000036">But not due to understanding their conditioned nature;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000037">To whom will this be evident?</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000038">How can “destruction” be possible?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000012" type="Verse" s_name="9">
+			<phrase phr_id="2-07-00002-ENG07-000039">If [grasping at] aggregates do not cease,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000040">Even if afflictions are extinct one’ll not transcend;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000041">However when they come to cease,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000042">At that instant one attains freedom.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000013" type="Verse" s_name="10">
+			<phrase phr_id="2-07-00002-ENG07-000043">When the perfect gnosis sees</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000044">That things come from ignorance as condition,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000045">Nothing will then be objectified,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000046">Either in terms of arising or destruction.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000014" type="Verse" s_name="11">
+			<phrase phr_id="2-07-00002-ENG07-000047">This is transcendence of sorrow</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000048">In this very life and one’s task is complete;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000049">If, after the knowledge of truth,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000050">Differentiations occur here,</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000015" type="Verse" s_name="12">
+			<phrase phr_id="2-07-00002-ENG07-000051">And even with respect to most subtle things</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000052">One imputes originations,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000053">Such an utterly unskilled person does not see</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000054">The meaning of conditioned origination.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000016" type="Verse" s_name="13">
+			<phrase phr_id="2-07-00002-ENG07-000055">If samsara comes to an end</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000056">For a monk whose afflictions are extinguished,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000057">Why have the perfectly awakened Buddhas</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000058">Not explained that [samsara] has beginning?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000017" type="Verse" s_name="14">
+			<phrase phr_id="2-07-00002-ENG07-000059">If there were a beginning, then certainly</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000060">There too would be clinging in the form of dogmas;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000061">That which is dependently originated,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000062">How can there be its beginning or end?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000018" type="Verse" s_name="15">
+			<phrase phr_id="2-07-00002-ENG07-000063">That which has arisen before,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000064">How can it cease again later on?</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000065">Devoid of the limits of beginning and end,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000066">The world appears like an illusion.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000019" type="Verse" s_name="16">
+			<phrase phr_id="2-07-00002-ENG07-000067">When one views the arising of illusions</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000068">Or the dissolution of the illusions,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000069">One who recognizes illusions is not confused;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000070">Those who do not thoroughly crave.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000020" type="Verse" s_name="17">
+			<phrase phr_id="2-07-00002-ENG07-000071">Those who sees with their mind</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000072">That existence is like a mirage and an illusion,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000073">They will not be corrupted</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000074">By views [grasping at] beginning and end.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000021" type="Verse" s_name="18">
+			<phrase phr_id="2-07-00002-ENG07-000075">Those who imputes arising and disintegration</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000076">With relation to conditioned things,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000077">They do not understand well the movement</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000078">Of the wheel of dependent origination.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000022" type="Verse" s_name="19">
+			<phrase phr_id="2-07-00002-ENG07-000079">That which has originated due to “this” and “that,”</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000080">That has not done so as its own being;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000081">And that which has not arisen as its own being,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000082">How can it be called “arisen”?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000023" type="Verse" s_name="20">
+			<phrase phr_id="2-07-00002-ENG07-000083">The tranquility derived from extinction of cause,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000084">This is understood to be a cessation;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000085">That which is not extinguished through its intrinsic nature,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000086">How can that be called an “extinguishment”?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000024" type="Verse" s_name="21">
+			<phrase phr_id="2-07-00002-ENG07-000087">Since there is nothing that arises,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000088">There is nothing that disintegrates;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000089">Yet the paths of arising and disintegration</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000090">Were taught [by the Buddha] for a purpose.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000025" type="Verse" s_name="22">
+			<phrase phr_id="2-07-00002-ENG07-000091">By understanding arising, disintegration is understood;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000092">By understanding disintegration, impermanence is understood;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000093">By understanding how to engage with impermanence,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000094">The sublime dharma is understood as well.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000026" type="Verse" s_name="23">
+			<phrase phr_id="2-07-00002-ENG07-000095">Those who understand the dependent origination</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000096">To be utterly devoid of arising and disintegration,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000097">Those who have such knowledge will cross</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000098">The ocean of samsara of dogmatic views.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000027" type="Verse" s_name="24">
+			<phrase phr_id="2-07-00002-ENG07-000099">Ordinary beings who hold at entities,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000100">Who, due to distortions of existence and non-existence,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000101">Are therefore under the domination of faults of afflictions –</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000102">They’re being fooled by their own minds.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000028" type="Verse" s_name="25">
+			<phrase phr_id="2-07-00002-ENG07-000103">Those who’re learned with respect to the facts,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000104">They see that things are impermanent,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000105">Deceptive, mere shells, empty and selfless;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000106">They see them as utterly isolated.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000029" type="Verse" s_name="26">
+			<phrase phr_id="2-07-00002-ENG07-000107">Devoid of locus, there is nothing to objectify;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000108">Rootless, they have no fixed abode;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000109">They arise totally from the cause of ignorance,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000110">Utterly devoid of beginning, middle and end.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000030" type="Verse" s_name="27">
+			<phrase phr_id="2-07-00002-ENG07-000111">Like a plantain tree they have no essence;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000112">They resemble the city of Gandharvas;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000113">Thus this dreadful world, a city of ignorance,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000114">Appears like a magical illusion.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000031" type="Verse" s_name="28">
+			<phrase phr_id="2-07-00002-ENG07-000115">Brahma and so on that appear</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000116">So real to the beings of this world,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000117">They’re said to be false to the Noble Ones;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000118">Other than that, what more is left?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000032" type="Verse" s_name="29">
+			<phrase phr_id="2-07-00002-ENG07-000119">The world blinded by ignorance</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000120">Follow after the current of desire;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000121">The wise, who’re excellent, are free of craving;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000122">How can these two be equal at all?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000033" type="Verse" s_name="30">
+			<phrase phr_id="2-07-00002-ENG07-000123">To those searching for ultimate reality,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000124">First one should say that everything exists;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000125">Later when they understand the meaning</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000126">And are free of attachment, then teach the absence.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000034" type="Verse" s_name="31">
+			<phrase phr_id="2-07-00002-ENG07-000127">With no understanding of the meaning of absence,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000128">But engaging only in mere studies</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000129">And failing to engage in meritorious acts-</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000130">Such base people are lost.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000035" type="Verse" s_name="32">
+			<phrase phr_id="2-07-00002-ENG07-000131">The karma and their results,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000132">And the realms of rebirth are explained;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000133">Full knowledge of their natures,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000134">And their absence of origination are taught.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000036" type="Verse" s_name="33">
+			<phrase phr_id="2-07-00002-ENG07-000135">Just as the Buddhas have spoken of</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000136">“I” and “mine” for a practical purpose;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000137">Likewise they spoke too of “aggregates,”</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000138">“Elements” and “sense-fields” for practical reasons.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000037" type="Verse" s_name="34">
+			<phrase phr_id="2-07-00002-ENG07-000139">Such things spoken of as the “great elements”,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000140">These are fully absorbed into consciousness;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000141">Since they are dissolved by understanding them,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000142">Are they not falsely imputed?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000038" type="Verse" s_name="35">
+			<phrase phr_id="2-07-00002-ENG07-000143">Inasmuch as the Conquerors have stated</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000144">Nirvana is the sole truth,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000145">What learned person would imagine</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000146">That the rest is not false?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000039" type="Verse" s_name="36">
+			<phrase phr_id="2-07-00002-ENG07-000147">As long as the mind remains wavering,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000148">So long it remains within Mara’s sphere;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000149">If this is so then why is it not reasonable</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000150">That this [dependent origination] is free of fault?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000040" type="Verse" s_name="37">
+			<phrase phr_id="2-07-00002-ENG07-000151">Since the Buddhas have stated</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000152">That the world is conditioned by ignorance,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000153">So why is it not reasonable [to assert]</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000154">That this world is [a result of] conceptualization?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000041" type="Verse" s_name="38">
+			<phrase phr_id="2-07-00002-ENG07-000155">Since it comes to an end</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000156">When ignorance ceases;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000157">Why does it not become clear then</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000158">That it was conjured by ignorance?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000042" type="Verse" s_name="39">
+			<phrase phr_id="2-07-00002-ENG07-000159">That which comes into being from a cause</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000160">And does not endure without conditions,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000161">It disappears as well when conditions are absent-</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000162">How can this be understood to exist?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000043" type="Verse" s_name="40">
+			<phrase phr_id="2-07-00002-ENG07-000163">If the proponents of existence</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000164">Abide by clinging to real entities,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000165">There is nothing to be surprised of;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000166">For they live by such a path.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000044" type="Verse" s_name="41">
+			<phrase phr_id="2-07-00002-ENG07-000167">Deplorable are those who abide</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000168">By grasping at real entities with contention,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000169">While, on the basis of the Buddha’s path,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000170">They speak about impermanence of all things.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000045" type="Verse" s_name="42">
+			<phrase phr_id="2-07-00002-ENG07-000171">If nothing is observed</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000172">Through examination of “this” or “that,”</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000173">What learned person would assert</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000174">That this or that contention is true?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000046" type="Verse" s_name="43">
+			<phrase phr_id="2-07-00002-ENG07-000175">Those who cling to a self</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000176">Or to the world as unconditioned,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000177">They are captivated by the views</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000178">About arising, permanence, impermanence, and so on.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000047" type="Verse" s_name="44">
+			<phrase phr_id="2-07-00002-ENG07-000179">Those who assert the conditioned things</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000180">As being established in terms of ultimate reality,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000181">Why wouldn’t the faults of permanence and so on</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000182">Not arise within their minds?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000048" type="Verse" s_name="45">
+			<phrase phr_id="2-07-00002-ENG07-000183">Those who accept the conditioned things</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000184">As being neither true nor false,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000185">Just like the moon in the water,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000186">They are not carried away by dogmatic views.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000049" type="Verse" s_name="46">
+			<phrase phr_id="2-07-00002-ENG07-000187">If one has the thesis of real entities,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000188">Awful and vicious views arise,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000189">Which give birth to attachment and aversion;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000190">From this contentions ensue.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000050" type="Verse" s_name="47">
+			<phrase phr_id="2-07-00002-ENG07-000191">This is the cause of all dogmatic views;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000192">Without it no afflictions will arise;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000193">So if this is understood thoroughly,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000194">All views and afflictions will cease.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000051" type="Verse" s_name="48">
+			<phrase phr_id="2-07-00002-ENG07-000195">“Who understands this?” one might wonder;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000196">It’s those who see dependent origination.</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000197">The supreme knower of reality has taught</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000198">That dependent arising is unborn.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000052" type="Verse" s_name="49">
+			<phrase phr_id="2-07-00002-ENG07-000199">For those who are suppressed by false knowledge</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000200">And grasp the untrue to be true,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000201">In them arises from attachment</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000202">A series of grasping and contentions.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000053" type="Verse" s_name="50">
+			<phrase phr_id="2-07-00002-ENG07-000203">Those who are great beings,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000204">They have neither thesis nor contention;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000205">For those who have no thesis,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000206">How can there be opposing thesis?</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000054" type="Verse" s_name="51">
+			<phrase phr_id="2-07-00002-ENG07-000207">Having found a locus one is caught</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000208">By the twisting snake of afflictions;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000209">Those whose minds have no locus,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000210">They will not be caught [by this snake].</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000055" type="Verse" s_name="52">
+			<phrase phr_id="2-07-00002-ENG07-000211">In those whose minds possess a locus,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000212">Why would the grave poison of afflictions not arise?</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000213">As for those who abide in between,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000214">They too will be caught by the snake of afflictions.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000056" type="Verse" s_name="53">
+			<phrase phr_id="2-07-00002-ENG07-000215">Just as the child that thinks it to be real</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000216">Feels attached to a reflection of form;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000217">Likewise, because the worldly beings are ignorant,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000218">They are trapped in the cage of objects.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000057" type="Verse" s_name="54">
+			<phrase phr_id="2-07-00002-ENG07-000219">The great beings see with their wisdom eye</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000220">All things like reflections of forms;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000221">They do not become stuck</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000222">In the mire of so-called objects.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000058" type="Verse" s_name="55">
+			<phrase phr_id="2-07-00002-ENG07-000223">The childish are attached to forms;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000224">The moderate attains detachment;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000225">By knowing the nature of forms,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000226">Those of supreme intellect are free.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000059" type="Verse" s_name="56">
+			<phrase phr_id="2-07-00002-ENG07-000227">One becomes attached [to something]</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000228">By thinking of it as pleasant;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000229">By turning away from it</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000230">One becomes devoid of attachment.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000060" type="Verse" s_name="57">
+			<phrase phr_id="2-07-00002-ENG07-000231">The faults of mental afflictions that torment</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000232">Due to false knowledge do not arise</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000233">To those who understand the meaning</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000234">Of conceptualizations of real and unreal entities.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000061" type="Verse" s_name="58">
+			<phrase phr_id="2-07-00002-ENG07-000235">If one possesses a locus,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000236">One becomes attached or detached;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000237">But the great beings who’re devoid of locus,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000238">They have neither attachment nor detachment.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000062" type="Verse" s_name="59">
+			<phrase phr_id="2-07-00002-ENG07-000239">Those who do not waver, even with their fluctuating mind,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000240">In such terms as “This is utterly absent,”</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000241">They’ll cross the unbearable ocean of samsara</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000242">Agitated by the monster of afflictions.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000063" type="Verse" s_name="60">
+			<phrase phr_id="2-07-00002-ENG07-000243">Through this virtue may all beings</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000244">Gather accumulations of merit and wisdom;</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000245">May they attain the two sublime Buddha bodies,</phrase>
+			<phrase phr_id="2-07-00002-ENG07-000246">Which arise from merit and wisdom.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000064" type="Text Colophon">
+			<phrase phr_id="2-07-00002-ENG07-000247">This completes “Sixty Stanzas of Reasoning” composed by master Nagarjuna himself.</phrase>
+		</sentence>
+		<sentence s_id="2-07-00002-ENG07-SID000065" type="Sentence">
+			<phrase phr_id="2-07-00002-ENG07-000248">The Indian abbot Muditashri and the Tibetan translator Patsap Nyima Drak standardized it with further revisions.</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

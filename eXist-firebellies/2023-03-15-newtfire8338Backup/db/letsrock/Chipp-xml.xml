@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <song name="Play the Hero ">
+        <metadata>
+            <sname>Play the Hero</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+        <lyrics>
+            <verse n="1">
+                <line n="1">I stopped counting so long ago</line>
+                <line n="2">Enemies kept coming after me</line>
+                <line n="3"><i story="chipp">Skill and knowledge, yeah, you've got it all</i></line>
+                <line n="4"><i story="chipp">If you ask me then it's all a game of chance</i></line>
+                <line n="5"><i story="chipp">Don't overthink it</i></line>
+            </verse>
+            <prechorus n="1">
+                <line n="1">Life never goes the way that you want, that's how it is</line>
+                <line n="2">No matter what life throws at you, take it all</line>
+            </prechorus>
+            <chorus n="1">
+                <line n="1">Whoa-oh!</line>
+                <line n="2">Fight like a tiger, walk in the park!</line>
+                <line n="3">Play the hero 'till I die!</line>
+                <line n="4">Fly like an eagle, soar through the sky!</line>
+                <line n="5">Be free 'till you die!</line>
+            </chorus>
+            <verse n="2">
+                <line n="1"><i story="chipp">I don't believe in any miracles</i></line>
+                <line n="2"><i story="chipp">I'll risk a loss any day</i></line>
+                <line n="3">Gambling's only for fools, take nothing for granted</line>
+                <line n="4"><i story="chipp">If you don't seize the chance, it's over for you</i></line>
+            </verse>
+            <prechorus n="2">
+                <line n="1">Life never goes the way you want, that's how it is</line>
+                <line n="2">No matter what happens, face it all head-on!</line>
+            </prechorus>
+            <chorus n="2">
+                <line n="1">Whoa-oh!</line>
+                <line n="2">Fight like a tiger, walk in the park!</line>
+                <line n="3">Play the hero 'till I die!</line>
+                <line n="4">Fly like an eagle, soar through the sky!</line>
+                <line n="5">Be free 'till you die!</line>
+            </chorus>
+            <prechorus n="3">
+                <line n="1"><i story="chipp">Life is about swimming against the harshest waves</i></line>
+                <line n="2"><i story="chipp">The moment you give in you'll get wiped out!</i></line>
+            </prechorus>
+            <chorus n="3">
+                <line n="1">Whoa-oh!</line>
+                <line n="2">Fight like a tiger, walk in the park!</line>
+                <line n="3">Play the hero 'till I die!</line>
+                <line n="4">Fly like an eagle, soar through the sky!</line>
+                <line n="5">Be free 'till you die!</line>
+                <line n="6">Fight like a tiger! (fight like a tiger!)</line>
+                <line n="7">Fight like a tiger!</line>
+                <line n="8">Fly like an eagle, soar through the sky!</line>
+                <line n="9">Be free!</line>
+                <line n="10">'Till I die!</line>
+            </chorus>
+        </lyrics>
+
+    </song>
+</xml>

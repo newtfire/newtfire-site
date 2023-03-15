@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/auto-queries" version="1" owner="mxb1244" group="dba" mode="775" created="2021-10-04T05:29:47.502Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="auto" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="timeline.svg" skip="no" owner="san5281" group="san5281" mode="644" created="2021-11-16T04:37:46.648Z" modified="2021-11-16T09:41:29.607Z" filename="timeline.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="carTimeline.svg" skip="no" owner="san5281" group="san5281" mode="644" created="2021-12-06T20:13:53.772Z" modified="2021-12-06T20:21:48.338Z" filename="carTimeline.svg" mimetype="xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cartables.html" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T20:45:21.019Z" modified="2021-11-03T19:40:07.969Z" filename="cartables.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="carYears.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-10-27T17:24:17.897Z" modified="2021-10-27T17:27:38.001Z" filename="carYears.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="carTable.xql" skip="no" owner="mxb1244" group="mxb1244" mode="755" created="2021-10-25T20:23:55.137Z" modified="2021-11-03T19:45:25.901Z" filename="carTable.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="1930sengine.xql" skip="no" owner="san5281" group="san5281" mode="755" created="2021-10-15T19:25:59.189Z" modified="2021-11-16T09:37:34.11Z" filename="1930sengine.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="snaqvi_php.php" skip="no" owner="san5281" group="san5281" mode="644" created="2021-10-27T19:06:36.057Z" modified="2021-10-29T19:41:23.569Z" filename="snaqvi_php.php" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="carTable-ebb.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-10-25T20:29:56.182Z" modified="2021-10-25T20:43:22.641Z" filename="carTable-ebb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="carTimelines" skip="no" owner="san5281" group="san5281" mode="755" created="2021-11-03T18:55:09.811Z" modified="2021-11-03T18:56:00.062Z" filename="carTimelines" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="carTimelines.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-11-09T15:22:56.695Z" modified="2021-11-09T15:22:56.695Z" filename="carTimelines.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="carTypes.xql" skip="no" owner="san5281" group="san5281" mode="755" created="2021-10-29T20:01:38.021Z" modified="2021-11-03T19:02:22.135Z" filename="carTypes.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

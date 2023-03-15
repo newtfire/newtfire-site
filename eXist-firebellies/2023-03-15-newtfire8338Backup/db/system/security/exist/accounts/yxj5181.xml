@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="94"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>4fd5a757b324ce7269d10f27e1dd1be75f86c4e9</digestPassword><group name="yxj5181"/><group name="dba"/><group name="dh-group"/><group name="stardew"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://axschema.org/namePerson">Yuying Jin</metadata><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><name>yxj5181</name></account>

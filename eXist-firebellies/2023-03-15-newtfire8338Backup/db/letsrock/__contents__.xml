@@ -1,0 +1,76 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/letsrock" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:25:19.082Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Smell_of_the_game-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:19.084Z" modified="2021-12-30T05:25:19.084Z" filename="Smell_of_the_game-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Sol-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:19.152Z" modified="2021-12-30T05:25:19.152Z" filename="Sol-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="home.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:19.213Z" modified="2021-12-30T05:25:19.213Z" filename="home.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="about.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:19.279Z" modified="2021-12-30T05:25:19.279Z" filename="about.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Leo-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:19.342Z" modified="2021-12-30T05:25:19.342Z" filename="Leo-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Ky-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:19.407Z" modified="2021-12-30T05:25:19.407Z" filename="Ky-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Gio-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:19.526Z" modified="2021-12-30T05:25:19.526Z" filename="Gio-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Potemkin-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:19.599Z" modified="2021-12-30T05:25:19.599Z" filename="Potemkin-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="songlist.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:19.728Z" modified="2021-12-30T05:25:19.728Z" filename="songlist.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Zato-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:19.921Z" modified="2021-12-30T05:25:19.921Z" filename="Zato-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Goldlewis-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:19.986Z" modified="2021-12-30T05:25:19.986Z" filename="Goldlewis-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Jacko-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:20.051Z" modified="2021-12-30T05:25:20.051Z" filename="Jacko-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Faust-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:20.113Z" modified="2021-12-30T05:25:20.113Z" filename="Faust-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Nago-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:20.18Z" modified="2021-12-30T05:25:20.18Z" filename="Nago-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="characterlist.html" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:20.245Z" modified="2021-12-30T05:25:20.245Z" filename="characterlist.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Anji-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:20.308Z" modified="2021-12-30T05:25:20.308Z" filename="Anji-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Ram-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:20.37Z" modified="2021-12-30T05:25:20.37Z" filename="Ram-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Ino-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:20.432Z" modified="2021-12-30T05:25:20.432Z" filename="Ino-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Chipp-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:20.618Z" modified="2021-12-30T05:25:20.618Z" filename="Chipp-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Axl-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:20.679Z" modified="2021-12-30T05:25:20.679Z" filename="Axl-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="May-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:20.831Z" modified="2021-12-30T05:25:20.831Z" filename="May-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Millia-xml.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:20.9Z" modified="2021-12-30T05:25:20.9Z" filename="Millia-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lyricstoseparatehtml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:19.663Z" modified="2021-12-30T05:25:19.663Z" filename="lyricstoseparatehtml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="image.png" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:20.744Z" modified="2021-12-30T05:25:20.744Z" filename="image.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="characters" filename="characters"/>
+</collection>

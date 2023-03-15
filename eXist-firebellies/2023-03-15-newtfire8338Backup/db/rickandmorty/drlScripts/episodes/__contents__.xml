@@ -1,0 +1,99 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/rickandmorty/drlScripts/episodes" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:27:37.75Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="s01_e01.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:37.751Z" modified="2021-12-30T05:27:37.751Z" filename="s01_e01.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s01_e03.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:37.844Z" modified="2021-12-30T05:27:37.844Z" filename="s01_e03.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s01_e02.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:37.933Z" modified="2021-12-30T05:27:37.933Z" filename="s01_e02.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s01_e06.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:38.019Z" modified="2021-12-30T05:27:38.019Z" filename="s01_e06.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s01_e07.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:38.088Z" modified="2021-12-30T05:27:38.088Z" filename="s01_e07.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s01_e05.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:38.161Z" modified="2021-12-30T05:27:38.161Z" filename="s01_e05.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s01_e11.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:38.238Z" modified="2021-12-30T05:27:38.238Z" filename="s01_e11.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s01_e10.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:38.328Z" modified="2021-12-30T05:27:38.328Z" filename="s01_e10.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s01_e04.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:38.414Z" modified="2021-12-30T05:27:38.414Z" filename="s01_e04.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s03_e06.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:38.508Z" modified="2021-12-30T05:27:38.508Z" filename="s03_e06.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s02_e03.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:38.582Z" modified="2021-12-30T05:27:38.582Z" filename="s02_e03.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s02_e02.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:38.67Z" modified="2021-12-30T05:27:38.67Z" filename="s02_e02.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s03_e07.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:38.751Z" modified="2021-12-30T05:27:38.751Z" filename="s03_e07.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s03_e05.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:38.836Z" modified="2021-12-30T05:27:38.836Z" filename="s03_e05.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s02_e01.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:38.921Z" modified="2021-12-30T05:27:38.921Z" filename="s02_e01.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="somethingRickedThisWayComes_s01_e09.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:39.009Z" modified="2021-12-30T05:27:39.009Z" filename="somethingRickedThisWayComes_s01_e09.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s03_e04.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:39.083Z" modified="2021-12-30T05:27:39.083Z" filename="s03_e04.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s03_e10.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:39.148Z" modified="2021-12-30T05:27:39.148Z" filename="s03_e10.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s02_e05.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:39.228Z" modified="2021-12-30T05:27:39.228Z" filename="s02_e05.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s02_e10.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:39.308Z" modified="2021-12-30T05:27:39.308Z" filename="s02_e10.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s02_e04.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:39.378Z" modified="2021-12-30T05:27:39.378Z" filename="s02_e04.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s03_e01.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:39.507Z" modified="2021-12-30T05:27:39.507Z" filename="s03_e01.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s03_e03.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:39.597Z" modified="2021-12-30T05:27:39.597Z" filename="s03_e03.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s03_e02.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:39.681Z" modified="2021-12-30T05:27:39.681Z" filename="s03_e02.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="theAbcsOfBeth_s03_e09.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:39.83Z" modified="2021-12-30T05:27:39.83Z" filename="theAbcsOfBeth_s03_e09.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s02_e08.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:39.907Z" modified="2021-12-30T05:27:39.907Z" filename="s02_e08.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s03_e09.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:39.979Z" modified="2021-12-30T05:27:39.979Z" filename="s03_e09.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="theRickshankRedemption_s03_e01.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:40.066Z" modified="2021-12-30T05:27:40.066Z" filename="theRickshankRedemption_s03_e01.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="totalRickall_s02_e04.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:40.191Z" modified="2021-12-30T05:27:40.191Z" filename="totalRickall_s02_e04.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s03_e08.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:40.266Z" modified="2021-12-30T05:27:40.266Z" filename="s03_e08.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s01_e09.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:40.347Z" modified="2021-12-30T05:27:40.347Z" filename="s01_e09.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="theWhirlyDirlyConspiracy_s03_e05.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:27:40.428Z" modified="2021-12-30T05:27:40.428Z" filename="theWhirlyDirlyConspiracy_s03_e05.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

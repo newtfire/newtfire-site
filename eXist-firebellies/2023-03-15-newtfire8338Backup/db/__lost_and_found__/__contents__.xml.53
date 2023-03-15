@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/tibetan/BOD" version="1" owner="phackett" group="dba" mode="751" created="2020-09-10T17:17:54.843Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="2-03-00256-D1445.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T17:28:39.442Z" modified="2020-09-10T17:28:39.442Z" filename="2-03-00256-D1445.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-03-01128-D2344.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T17:28:39.502Z" modified="2020-09-10T17:28:39.502Z" filename="2-03-01128-D2344.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1-04-00032-H620.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T18:19:23.35Z" modified="2020-09-10T18:19:23.35Z" filename="1-04-00032-H620.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00001-D3824.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T18:19:23.4Z" modified="2020-09-10T18:19:23.4Z" filename="2-07-00001-D3824.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00002-D3825.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T18:19:23.495Z" modified="2020-09-10T18:19:23.495Z" filename="2-07-00002-D3825.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00048-D3871.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T18:19:23.533Z" modified="2020-09-10T18:19:23.533Z" filename="2-07-00048-D3871.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00125-D3947.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T18:19:23.679Z" modified="2020-09-11T19:18:28.251Z" filename="2-07-00125-D3947.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-07-00129-D3951.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-10T18:19:23.716Z" modified="2020-09-10T18:19:23.716Z" filename="2-07-00129-D3951.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2-05-00015-D1123.xml" skip="no" owner="phackett" group="dba" mode="640" created="2020-09-11T13:15:36.324Z" modified="2020-09-11T13:15:36.324Z" filename="2-05-00015-D1123.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

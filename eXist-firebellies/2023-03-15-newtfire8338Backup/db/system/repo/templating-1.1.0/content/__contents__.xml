@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/repo/templating-1.1.0/content" version="1" owner="admin" group="dba" mode="755" created="2023-02-28T02:12:27.134Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="lib.xqm" skip="no" owner="admin" group="dba" mode="755" created="2023-02-28T02:12:27.146Z" modified="2023-02-28T02:12:27.146Z" filename="lib.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="templates.xqm" skip="no" owner="admin" group="dba" mode="755" created="2023-02-28T02:12:27.136Z" modified="2023-02-28T02:12:27.136Z" filename="templates.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <song name="The Kiss of Death">
+        <metadata>
+            <sname>The Kiss of Death</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+        <lyrics>
+            <verse n="1">
+                <line n="1">It's not a big deal</line>
+                <line n="2">We can handle it</line>
+                <line n="3"><i story="goldlewis">I don't have to think about it</i></line>
+                <line n="4">What we need to do is clear</line>
+                <line n="5">Don't you think?</line>
+                <line n="6"><i story="goldlewis">I don't know any other answers than yes</i></line>
+                <line n="7"><i story="goldlewis">And I don't need to know</i></line>
+            </verse>
+            <prechorus n="1">
+                <line n="1">Now it's your turn</line>
+                <line n="2">Cat got your tongue</line>
+                <line n="3">I'm <parentheses>(ready)</parentheses> for <parentheses>(this work that I do)</parentheses></line>
+            </prechorus>
+            <chorus n="1">
+                <line n="1"><i story="goldlewis">Bark and bark</i></line>
+                <line n="2">It's a vacant urge</line>
+                <line n="3">The only myth that no one knows</line>
+                <line n="4">Bark and bark</line>
+                <line n="5">Keep going, it's the last sound you'll ever hear</line>
+                <line n="6"><parentheses>(Words can't cut it)</parentheses></line>
+                <line n="7">The Kiss of Death</line>
+            </chorus>
+            <verse n="2">
+                <line n="1">I'm sorry 'bout that!</line>
+                <line n="2">You thought this through</line>
+                <line n="3">I don't have to think about it</line>
+                <line n="4">Because they don't believe</line>
+                <line n="5">What about you?</line>
+                <line n="6"><i story="goldlewis">When I'm ordered to, I do anything</i></line>
+                <line n="7">I want to keep it that way</line>
+            </verse>
+            <prechorus n="2">
+                <line n="1">Now it's your turn</line>
+                <line n="2">Cat got your tongue</line>
+                <line n="3">I'm <parentheses>(ready)</parentheses> for <parentheses>(this work that I do)</parentheses></line>
+            </prechorus>
+            <chorus n="2">
+                <line n="1">Bark and bark</line>
+                <line n="2">It's a vacant urge</line>
+                <line n="3">The only myth that no one knows</line>
+                <line n="4">Bark and bark</line>
+                <line n="5">Keep going, it's the last sound you'll ever hear</line>
+                <line n="6"><parentheses>(Words can't cut it)</parentheses></line>
+                <line n="7">The Kiss of Death</line>
+            </chorus>
+            <verse n="3">
+                <line n="1">Bark and bark</line>
+                <line n="2">It's a vacant urge</line>
+                <line n="3">Bark and bark</line>
+                <line n="4">Words that please no one</line>
+            </verse>
+            <oneoff n="1"><line n="1">Bark!</line></oneoff>
+            <chorus n="3">
+                <line n="1">Bark and bark</line>
+                <line n="2">It's a vacant urge</line>
+                <line n="3">The only myth that no one knows</line>
+                <line n="4">Bark and bark</line>
+                <line n="5">Keep going, it's the last sound you'll ever hear</line>
+                <line n="6">Can we start all over?</line>
+            </chorus>
+            <oneoff n="2"><line n="1">Deal</line></oneoff>
+        </lyrics>        
+    </song>
+</xml>

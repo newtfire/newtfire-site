@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/modules" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:51.628Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="local-applications.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:51.629Z" modified="2021-12-30T05:04:51.629Z" filename="local-applications.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="getCurrentUser.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:51.633Z" modified="2021-12-30T05:04:51.633Z" filename="getCurrentUser.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="getVersion.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:51.637Z" modified="2021-12-30T05:04:51.637Z" filename="getVersion.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dashboard.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:51.641Z" modified="2021-12-30T05:04:51.641Z" filename="dashboard.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dummy.xql" skip="no" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:51.646Z" modified="2021-12-30T05:04:51.646Z" filename="dummy.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dashboard.xqm" skip="no" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:51.649Z" modified="2021-12-30T05:04:51.649Z" filename="dashboard.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="93"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>bab93167a9d7f9c7cfffb0a8b26b1d58e90265ea</digestPassword><group name="apv5182"/><group name="smashtiers"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><metadata key="http://axschema.org/namePerson">Anthony Vangeli</metadata><name>apv5182</name></account>

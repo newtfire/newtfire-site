@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Scheme/Suess%20Scheme.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="rhyme" type="literacy" date="1960"/>
+<title>One Fish Two Fish Red Fish Blue Fish</title>
+<body>
+<stanza>
+<l>One fish </l>
+<l>Two fish </l>
+<l>Red fish </l>
+<l>Blue fish. </l>
+</stanza>
+<stanza>
+<l>Black fish </l>
+<l>Blue fish </l>
+<l>Old fish </l>
+<l>New fish. </l>
+</stanza>
+<stanza>
+<l>
+This one has a little
+<rym sch="car">star.</rym>
+</l>
+<l>
+This one has a little
+<rym sch="star">car.</rym>
+</l>
+<l>Say! What a lot </l>
+<l>Of fish there are. </l>
+</stanza>
+<stanza>
+<l>Yes. Some are red. And some are blue. </l>
+<l>Some are old. And some are new. </l>
+</stanza>
+<stanza>
+<l>Some are sad. </l>
+<l>
+And some are
+<rym sch="bad">glad</rym>
+.
+</l>
+<l>
+And some are very, very
+<rym sch="glad">bad</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>Why are they </l>
+<l>
+<rym sch="sad,glad,bad,dad">Sad and glad and bad?</rym>
+</l>
+<l>I do not know. </l>
+<l>
+Go ask your
+<rym sch="bad">dad</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>Some are thin. </l>
+<l>And some are fat. </l>
+<l>
+The
+<rym sch="hat">fat</rym>
+one has
+</l>
+<l>
+A yellow
+<rym sch="fat">hat</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+From there to here, from here to
+<rym sch="everywhere">there</rym>
+,
+</l>
+<l>Funny things </l>
+<l>
+Are
+<rym sch="there">everywhere</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>Here are some </l>
+<l>Who like to run. </l>
+<l>
+They
+<rym sch="fun">run</rym>
+for
+<rym sch="run">fun </rym>
+</l>
+<l>
+In the hot, hot
+<rym sch="fun">sun</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>Oh me! Oh my! </l>
+<l>
+Oh me! Oh
+<rym sch="by">my</rym>
+!
+</l>
+<l>What a lot </l>
+<l>
+Of funny things go
+<rym sch="my">by</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>Some have two feet </l>
+<l>And some have four. </l>
+<l>Some have six feet </l>
+</stanza>
+<stanza>
+<l>And some have more. </l>
+<l>Where do they come from? I can't say. </l>
+<l>But I bet they have come a long, long way. </l>
+</stanza>
+<stanza>
+<l>We see them come. </l>
+<l>We see them go. </l>
+<l>Some are fast. </l>
+<l>
+And some are
+<rym sch="low">slow</rym>
+.
+</l>
+<l>Some are high </l>
+<l>
+And some are
+<rym sch="slow">low</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>Not one of them </l>
+<l>Is like another. </l>
+<l>Don't ask us why. </l>
+<l>Go ask your mother. </l>
+</stanza>
+<stanza>
+<l>Say! </l>
+<l>Look at his fingers! </l>
+<l>
+One, two,
+<rym sch="see">three</rym>
+...
+</l>
+<l>How many fingers </l>
+<l>
+Do I
+<rym sch="three">see</rym>
+?
+</l>
+</stanza>
+<stanza>
+<l>One, two, three, four, </l>
+<l>Five, six, seven, </l>
+<l>Eight, nine, ten. </l>
+<l>He has eleven! </l>
+</stanza>
+<stanza>
+<l>Eleven! </l>
+<l>
+This is something
+<rym sch="too">new</rym>
+.
+</l>
+<l>I wish I had </l>
+<l>
+Eleven,
+<rym sch="new">too</rym>
+!
+</l>
+</stanza>
+</body>
+</book>

@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/Nelson/Old_grammarXML" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:26:29.426Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="1888-08-09-ChTimes.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:29.427Z" modified="2021-12-30T05:26:29.427Z" filename="1888-08-09-ChTimes.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1888-08-04-ChTimes.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:29.568Z" modified="2021-12-30T05:26:29.568Z" filename="1888-08-04-ChTimes.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1888-08-02-ChTimes.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:29.642Z" modified="2021-12-30T05:26:29.642Z" filename="1888-08-02-ChTimes.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1888-07-30-ChTimes.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:29.741Z" modified="2021-12-30T05:26:29.741Z" filename="1888-07-30-ChTimes.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

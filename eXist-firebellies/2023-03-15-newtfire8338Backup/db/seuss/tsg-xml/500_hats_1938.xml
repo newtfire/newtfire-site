@@ -1,0 +1,1696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Dr_Seuss/fileStructure/drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata date="1938" genre="prose" type="literacy"/>
+<title>
+The 500
+<obj>Hats</obj>
+of
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+</title>
+<body>
+<p>
+<s>
+IN THE beginning,
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+didn’t have five hundred hats.
+</s>
+<s>He had only one hat.</s>
+<s>
+It was an old one that had belonged to his
+<char name="Bartholomew Cubbins">father</char>
+and his
+<char name="Bartholomew Cubbins">father</char>
+’s
+<char name="Bartholomew Cubbins">father</char>
+before him.
+</s>
+<s>
+It was probably the oldest and the plainest
+<obj>hat</obj>
+in the whole Kingdom of Didd, where
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+lived.
+</s>
+<s>
+But
+<char name="Bartholomew Cubbins">Bartholomew</char>
+liked it—especially because of the feather that always pointed straight up in the air.
+</s>
+</p>
+<p>
+<s>
+The Kingdom of Didd was ruled by
+<char name="King Derwin">King Derwin</char>
+.
+</s>
+<s>His palace stood high on the top of the mountain.</s>
+<s>From his balcony, he looked down over the houses of all his subjects—first, over the spires of the noblemen’s castles, across the broad roofs of the rich men’s mansions, then over the little houses of the townsfolk, to the huts of the farmers far off in the fields.</s>
+</p>
+<p>
+<s>
+It was a mighty view and it made
+<char name="King Derwin">King Derwin</char>
+feel mighty important.
+</s>
+</p>
+<p>
+<s>Far off in the fields, on the edge of a cranberry bog, stood the hut of the Cubbins family.</s>
+<s>
+From the small door
+<char name="Bartholomew Cubbins">Bartholomew</char>
+looked across the huts of the farmers to the houses of the townsfolk, then to the rich men’s mansions and the noblemen’s castles, up to the great towering palace of the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>
+It was exactly the same view that
+<char name="King Derwin">King Derwin</char>
+saw from his balcony, but
+<char name="Bartholomew Cubbins">Bartholomew</char>
+saw it backward.
+</s>
+</p>
+<p>
+<s>
+It was a mighty view, but it made
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+feel mighty small.
+</s>
+</p>
+<p>
+<s>
+Just after sunrise one Saturday mornin
+<char name="Bartholomew Cubbins">Bartholomew</char>
+started for town.
+</s>
+<s>He felt very happy.</s>
+<s>A pleasant breeze whistled through the feather in his hat.</s>
+<s>In his right hand he carried a basket of cranberries to sell at the market.</s>
+<s>He was anxious to sell them quickly and bring the money back home to his parents.</s>
+</p>
+<p>
+<s>He walked faster and faster till he got to the gates of the town.</s>
+</p>
+<p>
+<s>The sound of silver trumpets rang through the air.</s>
+<s>Hoof beats clattered on the cobbled streets.</s>
+</p>
+<p>
+<s>
+“Clear the way! Clear the way! Make way for the
+<char name="King Derwin">King</char>
+!”
+</s>
+</p>
+<p>
+<s>All the people rushed for the pavements.</s>
+<s>They drove their carts right up over the kerbstones.</s>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+clutched his basket tighter.
+</s>
+</p>
+<p>
+<s>Around the corner dashed fifty trumpeters on yellow-robed horses.</s>
+<s>
+Behind them on crimson-robed horses came the
+<char name="King Derwin">King</char>
+’s Own Guards.
+</s>
+</p>
+<p>
+<s>
+“Hats off to the
+<char name="King Derwin">King</char>
+!” shouted the
+<char name="Captain">Captain</char>
+of the
+<char name="King Derwin">King</char>
+’s Own Guards.
+</s>
+</p>
+<p>
+<s>
+On came the
+<char name="King Derwin">King</char>
+’s carriage — white and gold and purple.
+</s>
+<s>It rumbled like thunder through the narrow street.</s>
+</p>
+<p>
+<s>
+It swept pas
+<char name="Bartholomew Cubbins">Bartholomew</char>
+.
+</s>
+<s>Then suddenly its mighty brakes shrieked.</s>
+<s>It lurched—and then it stopped.</s>
+<s>The whole procession stood still.</s>
+</p>
+<p>
+<s>Bartholomew could hardly believe what he saw.</s>
+<s>
+Through the side window of the carriage, the
+<char name="King Derwin">King</char>
+himself was staring back—straight back at him
+<char name="Bartholomew Cubbins">Bartholomew</char>
+began to tremble.
+</s>
+</p>
+<p>
+<s>
+“Back up!” the
+<char name="King Derwin">King</char>
+commanded the Royal Coachman.
+</s>
+</p>
+<p>
+<s>The Royal Coachman shouted to the royal horses.</s>
+<s>
+The
+<char name="King Derwin">King</char>
+’s Own Guards shouted to their crimsonrobed horses.
+</s>
+<s>The trumpeters shouted to their yellow-robed horses.</s>
+<s>
+Very slowly the whole procession backed down the street, until the
+<char name="King Derwin">King</char>
+’s carriage stopped right in front o
+<char name="Bartholomew Cubbins">Bartholomew</char>
+.
+</s>
+</p>
+<p>
+<s>
+The
+<char name="King Derwin">King</char>
+leaned from his carriage window and fixed his eyes directly on
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+.
+</s>
+<s>“Well...? Well...?” he demanded.</s>
+</p>
+<p>
+<s>Bartholomew shook with fright.</s>
+<s>“I ought to say something,” he thought to himself.</s>
+<s>But he could think of nothing to say.</s>
+</p>
+<p>
+<s>
+“Well?” demanded the
+<char name="King Derwin">King</char>
+again.
+</s>
+<s>
+“Do you or do you not take off your
+<obj>hat</obj>
+before your
+<char name="King Derwin">King</char>
+?”
+</s>
+</p>
+<p>
+<s>
+“Yes, indeed, Sire,” answere
+<char name="Bartholomew Cubbins">Bartholomew</char>
+, feeling greatly relieved.
+</s>
+<s>
+“I do take off my
+<obj>hat</obj>
+before my
+<char name="King Derwin">King</char>
+."
+</s>
+</p>
+<p>
+<s>
+“Then take it off this very instant,” commanded the
+<char name="King Derwin">King</char>
+more loudly than before.
+</s>
+</p>
+<p>
+<s>
+“But, Sire, my
+<obj>hat</obj>
+is off,” answere
+<char name="Bartholomew Cubbins">Bartholomew</char>
+.
+</s>
+</p>
+<p>
+<s>
+“Such impudence!” shouted the
+<char name="King Derwin">King</char>
+, shaking an angry finger.
+</s>
+<s>
+“How dare you stand there and tell me your
+<obj>hat</obj>
+is off!”
+</s>
+</p>
+<p>
+<s>
+“I don’t like to say you are wrong, Sire,” said
+<char name="Bartholomew Cubbins">Bartholomew</char>
+very politely, “but you see my
+<obj>hat</obj>
+is off."
+</s>
+<s>
+And he showed the
+<char name="King Derwin">King</char>
+the
+<obj>hat</obj>
+in his hand.
+</s>
+</p>
+<p>
+<s>
+“If that’s your
+<obj>hat</obj>
+in your hand,” demanded the
+<char name="King Derwin">King</char>
+, “what’s that on your head?”
+</s>
+</p>
+<p>
+<s>
+“On my head?” gaspe
+<char name="Bartholomew Cubbins">Bartholomew</char>
+.
+</s>
+<s>There did seem to be something on his head.</s>
+<s>He reached up his hand and touched a hat!</s>
+</p>
+<p>
+<s>
+The face of
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+turned very red.
+</s>
+<s>"It’s a hat, Sire,” he stammered, “but it can’t be mine.</s>
+<s>Someone behind me must have put it on my head."</s>
+</p>
+<p>
+<s>
+“I don’t care how it got there,” said the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>“You take it off."</s>
+<s>
+And the
+<char name="King Derwin">King</char>
+sat back in his carriage.
+</s>
+</p>
+<p>
+<s>Bartholomew quickly snatched off the hat.</s>
+<s>He stared at it in astonishment.</s>
+<s>It was exactly the same as his own hat—the same size, the same colour.</s>
+<s>And it had exactly the same feather.</s>
+</p>
+<p>
+<s>
+"By the Crown of my Fathers!” roared the
+<char name="King Derwin">King</char>
+, again leaning out of the carriage window.
+</s>
+<s>“Did I or did I not command you to take off your hat?”</s>
+</p>
+<p>
+<s>“You did, Sire.... I took it off ...I took it off twice."</s>
+</p>
+<p>
+<s>
+“Nonsense! There is still a
+<obj>hat</obj>
+upon your head."
+</s>
+</p>
+<p>
+<s>
+“Another hat?” Agai
+<char name="Bartholomew Cubbins">Bartholomew</char>
+reached up his hand and touched a hat.
+</s>
+</p>
+<p>
+<s>
+“Come, come, what is the meaning of all this?” demanded the
+<char name="King Derwin">King</char>
+, his face purple with rage.
+</s>
+</p>
+<p>
+<s>
+“I don’t know, Sire,” answere
+<char name="Bartholomew Cubbins">Bartholomew</char>
+.
+</s>
+<s>“It never happened to me before."</s>
+</p>
+<p>
+<s>
+The
+<char name="King Derwin">King</char>
+was now shaking with such fury that the carriage rocked on its wheels and the Royal Coachman could hardly sit in his seat.
+</s>
+<s>
+“Arrest this impudent trickster,” shouted the
+<char name="King Derwin">King</char>
+to the
+<char name="Captain">Captain</char>
+of the
+<char name="King Derwin">King</char>
+’s Own Guards.
+</s>
+<s>“We’ll teach him to take off his hat."</s>
+</p>
+<p>
+<s>The Royal Coachman cracked his long whip.</s>
+<s>
+The
+<char name="King Derwin">King</char>
+’s carriage swung forward up the street toward the palace.
+</s>
+</p>
+<p>
+<s>
+But the
+<char name="Captain">Captain</char>
+of the
+<char name="King Derwin">King</char>
+’s Own Guards leaned down from his big brass saddle and grabbed
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+by his shirt.
+</s>
+<s>
+Away flew
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s basket! The cranberries bounced over the cobblestones and rolled down into the gutter.
+</s>
+</p>
+<p>
+<s>
+With a jangling of spurs and a clatter of horseshoes, the
+<char name="Captain">Captain</char>
+and
+<char name="Bartholomew Cubbins">Bartholomew</char>
+sped up the winding street toward the palace.
+</s>
+<s>
+Out of the narrow streets, on up the hill
+<char name="Bartholomew Cubbins">Bartholomew</char>
+clung to the
+<char name="Captain">Captain</char>
+’s broad back.
+</s>
+<s>On and on they galloped, past the bright gardens of the wealthy merchants.</s>
+<s>Higher and higher up the mountain, on past the walls of the noblemen’s castles....</s>
+</p>
+<p>
+<s>
+<sound>Flupp</sound>
+!....the sharp wind whisked of
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s hat.
+</s>
+<s>
+<sound>Flupp</sound>
+<sound>Flupp</sound>
+....two more flew off.
+</s>
+<s>
+<sound>Flupp</sound>
+<sound>Flupp</sound>
+<sound>Flupp</sound>
+flew another ...and another.
+</s>
+<s>
+“... 4 ...5 ..- 6 ...7 ...
+<char name="Bartholomew Cubbins">Bartholomew</char>
+kept counting as the
+<obj>hats</obj>
+came faster and faster.
+</s>
+<s>
+Lords and ladies stared from the windows of their turrets, wondering what the strange stream of
+<obj>hats</obj>
+could mean.
+</s>
+</p>
+<p>
+<s>Over the palace drawbridge they sped—through the great gates, and into the courtyard.</s>
+<s>
+The
+<char name="Captain">Captain</char>
+pulled in his reins.
+</s>
+</p>
+<p>
+<s>
+“His Majesty waits in the Throne Room,” said a guard, saluting the
+<char name="Captain">Captain</char>
+.
+</s>
+<s>
+“The Throne Room!” The
+<char name="Captain">Captain</char>
+dropped
+<char name="Bartholomew Cubbins">Bartholomew</char>
+to the ground.
+</s>
+<s>“I’d certainly hate to be in your shoes,” he said, shaking his head sadly.</s>
+</p>
+<p>
+<s>
+For a moment
+<char name="Bartholomew Cubbins">Bartholomew</char>
+was terribly frightened.
+</s>
+<s>
+“Still,” he thought to himself, “the
+<char name="King Derwin">King</char>
+can do nothing dreadful to punish me, because I really haven’t done anything wrong.
+</s>
+<s>It would be cowardly to feel afraid."</s>
+</p>
+<p>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+threw back his shoulders and marched straight ahead into the palace.
+</s>
+<s>“Follow the black carpet,” said the guard at the door.</s>
+<s>
+All through the long hallway
+<char name="Bartholomew Cubbins">Bartholomew</char>
+could hear the muttering of voices behind heavy doors.
+</s>
+<s>“He won’t take off his hat?” “No, he won’t take off his hat."</s>
+</p>
+<p>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+walked on till he stood in the very middle of the Throne Room.
+</s>
+<s>
+The
+<char name="King Derwin">King</char>
+, in a long scarlet robe, was sitting on his throne.
+</s>
+<s>
+Beside him stood
+<char name="Sir Alaric">Sir Alaric</char>
+, Keeper of the
+<char name="King Derwin">King</char>
+’s Records.
+</s>
+<s>He wore in his belt, instead of a sword, a long silver ruler.</s>
+<s>Lords and noblemen of the court stood solemn and silent.</s>
+</p>
+<p>
+<s>
+The
+<char name="King Derwin">King</char>
+looked down a
+<char name="Bartholomew Cubbins">Bartholomew</char>
+severely.
+</s>
+<s>“Young man, I’ll give you one more chance.</s>
+<s>
+Will you take off your
+<obj>hat</obj>
+for your
+<char name="King Derwin">King</char>
+?”
+</s>
+</p>
+<p>
+<s>
+“Your Majesty,” said
+<char name="Bartholomew Cubbins">Bartholomew</char>
+as politely as he possibly could, “I will—but I’m afraid it won’t do any good.
+</s>
+<s>” And he took off his hat— and it didn’t do any good.</s>
+<s>
+Another
+<obj>hat</obj>
+sat on
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s head.
+</s>
+<s>
+He took off
+<obj>hat</obj>
+after
+<obj>hat</obj>
+after
+<obj>hat</obj>
+after
+<obj>hat</obj>
+until he was standing in the middle of a great pile of hats.
+</s>
+</p>
+<p>
+<s>The lords and noblemen were so astonished they couldn’t even speak.</s>
+<s>Such a thing had never happened in the Throne Room before.</s>
+</p>
+<p>
+<s>
+“Heavens!” said
+<char name="Sir Alaric">Sir Alaric</char>
+, Keeper of the Records, blinking behind his triangular spectacles.
+</s>
+<s>“He’s taken off 45!”</s>
+</p>
+<p>
+<s>
+“And there were 3 more down in the town,” said the
+<char name="King Derwin">King</char>
+.
+</s>
+</p>
+<p>
+<s>
+“And you must add on 87 more that blew off my head as we galloped up the hill,” said
+<char name="Bartholomew Cubbins">Bartholomew</char>
+, trying to be helpful.
+</s>
+</p>
+<p>
+<s>
+“One hundred and thirty-five hats! Most unusual,” said
+<char name="Sir Alaric">Sir Alaric</char>
+, writing it down on a long scroll.
+</s>
+</p>
+<p>
+<s>
+“Come, come,” said the
+<char name="King Derwin">King</char>
+impatiently.
+</s>
+<s>
+“
+<char name="Sir Alaric">Sir Alaric</char>
+, what do you make of all this nonsense?”
+</s>
+</p>
+<p>
+<s>
+“Very serious nonsense, Your Majesty,” answered
+<char name="Sir Alaric">Sir Alaric</char>
+.
+</s>
+<s>“I advise you to call in an expert on hats."</s>
+</p>
+<p>
+<s>
+“Excellent,” agreed the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>
+“Ho, Guard! Fetch in
+<char name="Sir Snipps">Sir Snipps</char>
+, maker of
+<obj>hats</obj>
+for all the fine lords."
+</s>
+</p>
+<p>
+<s>
+Into the Throne Room marched the smallest man, wearing the tallest
+<obj>hat</obj>
+that
+<char name="Bartholomew Cubbins">Bartholomew</char>
+had ever seen.
+</s>
+<s>
+It was
+<char name="Sir Snipps">Sir Snipps</char>
+.
+</s>
+<s>Instead of a sword, he wore at his side a large pair of scissors.</s>
+</p>
+<p>
+<s>
+“Take a look at this boy’s hat,” commanded the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>
+<char name="Sir Snipps">Sir Snipps</char>
+looked at
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+’
+<obj>hat</obj>
+and sniffed in disgust.
+</s>
+<s>
+Then he turned to the
+<char name="King Derwin">King</char>
+and bowed stiffly.
+</s>
+<s>
+“Your Majesty, I,
+<char name="Sir Snipps">Sir Snipps</char>
+, am the maker of
+<obj>hats</obj>
+for all the fine lords.
+</s>
+<s>
+I make
+<obj>hats</obj>
+of cloth of gold, fine silks and gems and ostrich plumes.
+</s>
+<s>
+You ask me what I think of this hat? Pooh! It is the most ordinary
+<obj>hat</obj>
+I ever set eyes on."
+</s>
+</p>
+<p>
+<s>
+“In that case,” said the
+<char name="King Derwin">King</char>
+, “it should be very simple for you to take it off."
+</s>
+</p>
+<p>
+<s>
+“Simple, indeed,” mumbled
+<char name="Sir Snipps">Sir Snipps</char>
+haughtily, and, standing on his tiptoes, he pushed his pudgy thumb at
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s
+<obj>hat</obj>
+and knocked it to the floor.
+</s>
+<s>
+Immediately another appeared oo
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s head.
+</s>
+</p>
+<p>
+<s>
+“Screebees!” screamed
+<char name="Sir Snipps">Sir Snipps</char>
+, leaping in the air higher than he is tall.
+</s>
+<s>Then he turned and ran shrieking out of the Throne Room.</s>
+</p>
+<p>
+<s>
+“Dear me!” said the
+<char name="King Derwin">King</char>
+, looking very puzzled.
+</s>
+<s>
+“If
+<char name="Sir Snipps">Snipps </char>
+can’t do it, this must be more than an ordinary hat."
+</s>
+</p>
+<p>
+<s>
+“One hundred and thirty-six,” wrote
+<char name="Sir Alaric">Sir Alaric</char>
+wrinkling his brow.
+</s>
+<s>“Your Majesty, I advise that you call in your Wise Men."</s>
+</p>
+<p>
+<s>
+“A fine idea!” said the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>
+“Ho, Guard! bring me
+<char name="Nadd">Nadd</char>
+.
+</s>
+<s>
+<char name="Nadd">Nadd</char>
+knows about everything in all my kingdom."
+</s>
+</p>
+<p>
+<s>In came an old, old man.</s>
+<s>
+He looked at the
+<obj>hat</obj>
+on
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s head, and he looked at the pile of
+<obj>hats</obj>
+on the floor.
+</s>
+</p>
+<p>
+<s>
+“
+<char name="Nadd">Nadd</char>
+, my Wise Man, can you take off his hat?” asked the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>
+<char name="Nadd">Nadd</char>
+shook his head solemnly—solemnly no.
+</s>
+</p>
+<p>
+<s>
+“Then fetch me
+<char name="the Father of Nadd">the Father of Nadd</char>
+,” commanded the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>“He knows about everything in all my kingdom and in all the-world beyond."</s>
+</p>
+<p>
+<s>In came an even older man.</s>
+<s>
+But when he looked a
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s hats,
+<char name="the Father of Nadd">the Father of Nadd</char>
+merely locked his fingers across his beard and said nothing.
+</s>
+</p>
+<p>
+<s>
+‘Then bring me
+<char name="the Father of the Father of Nadd">the Father of the Father of Nadd</char>
+!” ordered the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>“He knows about everything in all my kingdom, in all the world beyond, and in all other worlds that may happen to be."</s>
+</p>
+<p>
+<s>Then came the oldest man of them all.</s>
+<s>
+But he just looked at
+<char name="Bartholomew Cubbins">Bartholomew</char>
+and nibbled nervously at the end of his beard.
+</s>
+</p>
+<p>
+<s>
+“Does this mean there is no one in my whole kingdom who can take off this boy’s hat?” bellowed the
+<char name="King Derwin">King</char>
+in a terrifying voice.
+</s>
+</p>
+<p>
+<s>A small voice came up through the balcony window.</s>
+<s>
+“What’s the matter,
+<char name="King Derwin">Uncle Derwin</char>
+?” To
+<char name="Bartholomew Cubbins">Bartholomew</char>
+, it sounded like the voice of a boy.
+</s>
+</p>
+<p>
+<s>
+The
+<char name="King Derwin">King</char>
+stepped out on the balcony and leaned over the marble railing.
+</s>
+<s>
+“There’s a boy in here ... just about your age,” the
+<char name="King Derwin">King</char>
+said.
+</s>
+<s>“He won’t take off his hat."</s>
+</p>
+<p>
+<s>
+Bartholomew tiptoed up behind the
+<char name="King Derwin">King</char>
+and looked down.
+</s>
+<s>There stood a boy with a big lace collar—a very proud little boy with his nose in the air.</s>
+<s>
+It was the
+<char name="Grand Duke Wilfred">Grand Duke Wilfred</char>
+, nephew of the
+<char name="King Derwin">King</char>
+.
+</s>
+</p>
+<p>
+<s>
+“You send him down here,” said the
+<char name="Grand Duke Wilfred">Grand Duke Wilfred</char>
+.
+</s>
+<s>"I'll fix him."</s>
+</p>
+<p>
+<s>
+The
+<char name="King Derwin">King</char>
+thought for a minute.
+</s>
+<s>He pushed back his crown and scratched his head.</s>
+<s>“Well... Maybe you can.</s>
+<s>There’s no harm in trying."</s>
+</p>
+<p>
+<s>
+“Take him to the
+<char name="Grand Duke Wilfred">Grand Duke Wilfred</char>
+!” commanded the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>
+And two of the
+<char name="King Derwin">King</char>
+’s Own Guards le
+<char name="Bartholomew Cubbins">Bartholomew</char>
+out of the Throne Room.
+</s>
+</p>
+<p>
+<s>
+“Pooh!” said the
+<char name="Grand Duke Wilfred">Grand Duke Wilfred</char>
+, looking at
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s
+<obj>hat</obj>
+and laughing meanly.
+</s>
+<s>
+“That
+<obj>hat</obj>
+won’t come off? You stand over there.
+</s>
+<s>” He pointed to a corner where the wall curved out.</s>
+<s>“I need a little target practice with my bow and arrow."</s>
+</p>
+<p>
+<s>
+When
+<char name="Bartholomew Cubbins">Bartholomew</char>
+saw that the
+<char name="Grand Duke Wilfred">Grand Duke Wilfred</char>
+had only a child’s bow he didn’t feel frightened.
+</s>
+<s>
+He spoke up proudly, “I can shoot with my
+<char name="Bartholomew Cubbins">father</char>
+’s big bow."
+</s>
+</p>
+<p>
+<s>
+“My bow’s quite big enough for shooting hats—especially
+<obj>hats</obj>
+like yours,” answered
+<char name="Grand Duke Wilfred">Wilfred</char>
+.
+</s>
+<s>And he let fly an arrow.</s>
+<s>
+<sound>zZZ</sound>
+! ... it grazed
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s forehead and nipped off his hat.
+</s>
+<s>Away it blew, and over the parapet.</s>
+<s>
+But another
+<obj>hat</obj>
+appeared on his head.
+</s>
+<s>
+<sound>zzZ</sound>
+! ...
+<sound>zzZ</sound>
+!...
+<sound>zzZ</sound>
+!... the arrows flew ... till the Grand Duke’s whole bagful of arrows was gone.
+</s>
+<s>
+And still a
+<obj>hat</obj>
+sat upon
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s head.
+</s>
+</p>
+<p>
+<s>
+“It’s not fair,” cried the
+<char name="Grand Duke Wilfred">Grand Duke</char>
+.
+</s>
+<s>“It’s not fair!” He threw down his bow and stamped upon it.</s>
+</p>
+<p>
+<s>
+“One hundred and fifty-four hats!” gulped
+<char name="Sir Alaric">Sir Alaric</char>
+.
+</s>
+</p>
+<p>
+<s>
+“These
+<obj>hats</obj>
+are driving me mad!” The
+<char name="King Derwin">King</char>
+’s voice rang out through all the palace.
+</s>
+<s>“Why waste time with a child’s bow and arrow.</s>
+<s>
+Fetch me the mightiest bow and arrow in all my realm—fetch the
+<char name="Yeoman of the Bowmen">Yeoman of the Bowmen</char>
+!”
+</s>
+</p>
+<p>
+<s>
+“
+<char name="Yeoman of the Bowmen">Yeoman of the Bowmen</char>
+,” echoed all the lords and noblemen of the court.
+</s>
+</p>
+<p>
+<s>A gigantic man strode out across the terrace.</s>
+<s>His bow was as big as the branch of a tree.</s>
+<s>
+The arrow was twice as long as
+<char name="Bartholomew Cubbins">Bartholomew</char>
+, and thicker than his wrist.
+</s>
+</p>
+<p>
+<s>
+“
+<char name="Yeoman of the Bowmen">Yeoman of the Bowmen</char>
+,” said the
+<char name="King Derwin">King</char>
+, “shoot off this boy’s hat... and make it stay off!”
+</s>
+</p>
+<p>
+<s>Bartholomew was trembling so hard that he could scarcely stand straight.</s>
+<s>
+The
+<char name="Yeoman of the Bowmen">Yeoman</char>
+bent back his mighty bow.
+</s>
+</p>
+<p>
+<s>
+<sound>G—r—r—zibb</sound>
+!... Like a mad giant hornet the arrow tore through the air towards
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+.
+</s>
+</p>
+<p>
+<s>
+<sound>G—r—r—zapp</sound>
+!... The sharp arrow-head bit through his
+<obj>hat</obj>
+and carried it off—on and on for a full half mile.
+</s>
+</p>
+<p>
+<s>
+<sound>G~r—r—zopp</sound>
+! ... It plunked to a stop in the heart of an oak tree.
+</s>
+<s>
+Yet there on
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s head sat another hat.
+</s>
+</p>
+<p>
+<s>
+The face of the
+<char name="Yeoman of the Bowmen">Yeoman of the Bowmen</char>
+went as white as the palace walls.
+</s>
+<s>“It’s black magic!” he shrieked.</s>
+</p>
+<p>
+<s>
+“Black magic, that’s just what it is,” sighed the
+<char name="King Derwin">King</char>
+with relief.
+</s>
+<s>“I should have thought of that before.</s>
+<s>That makes things simple.</s>
+<s>
+Back to the Throne Room! Call my
+<char name="magicians">magicians</char>
+!’’
+</s>
+</p>
+<p>
+<s>In the whole Throne Room there wasn’t a sound as loud as a breath.</s>
+<s>But from the spiral stairs that led down from the southwest tower came the shuffling of slow, padded feet.</s>
+<s>
+The
+<char name="magicians">magicians</char>
+were coming! Low and slow, they were chanting words that were strange ...
+</s>
+</p>
+<p>
+<s>“Dig a hole five furlongs deep, Down to where the night makes creep, Mix and mould the mystic mud, Malber, Bather, Tidder, Tudd."</s>
+</p>
+<p>
+<s>
+In came seven black-gowned
+<char name="magicians">magicians</char>
+, and beside each one stalked a lean black cat.
+</s>
+<s>
+They circled around
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+muttering deep and mysterious sounds.
+</s>
+</p>
+<p>
+<s>
+“Stop this useless muttering,” ordered the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>“I want a chant that will charm away this boy’s hat."</s>
+</p>
+<p>
+<s>
+The
+<char name="magicians">magicians</char>
+huddled over
+<char name="Bartholomew Cubbins">Bartholomew</char>
+and chanted.
+</s>
+</p>
+<p>
+<s>
+“
+<mUp>Winkibus</mUp>
+<mUp>Tinkibus</mUp>
+<mUp>Fotiches</mUp>
+<mUp>Klay</mUp>
+,
+<obj>hat</obj>
+on this demon’s head, Fly far away! Howl, men, howl away, Howl away, howl away,
+<mUp>Yowl</mUp>
+, cats,
+<mUp>yowl</mUp>
+away,
+<mUp>Yowl</mUp>
+away,
+<mUp>yowl</mUp>
+away!
+<obj>hat</obj>
+on this demon’s head, Step away, creep away, leap away,
+<mUp>gleap</mUp>
+away, Never come back!”
+</s>
+</p>
+<p>
+<s>
+“A mighty good chant,” said the
+<char name="King Derwin">King</char>
+, looking very pleased.
+</s>
+<s>“Are you sure it will work?”</s>
+</p>
+<p>
+<s>
+All the
+<char name="magicians">magicians</char>
+nodded together.
+</s>
+</p>
+<p>
+<s>
+“But,” said the
+<char name="King Derwin">King</char>
+, looking puzzled, “there still seems to be a
+<obj>hat</obj>
+upon his head.
+</s>
+<s>How long will it take for the charm to work?”</s>
+</p>
+<p>
+<s>“Be calm, oh.</s>
+<s>
+Sire, and have no fears,” chanted the
+<char name="magicians">magicians</char>
+.
+</s>
+</p>
+<p>
+<s>“Our charm will work in ten short years."</s>
+</p>
+<p>
+<s>
+“Ten years’” gasped the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>“Away, fools!” he shouted.</s>
+<s>“Out of my sight! I can’t wait ten years to get rid of his hat.</s>
+<s>Oh, dear, what can I do ... what CAN I do?”</s>
+</p>
+<p>
+<s>
+“If I were
+<char name="King Derwin">King</char>
+,” whispered the
+<char name="Grand Duke Wilfred">Grand Duke Wilfred</char>
+, “I’d chop off his head."
+</s>
+</p>
+<p>
+<s>
+“A dreadful thought,” said the
+<char name="King Derwin">King</char>
+, biting his lip.
+</s>
+<s>“But I’m afraid I’ll have to."</s>
+</p>
+<p>
+<s>
+“Young man,” he said to
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+, and he pointed to a small door at the end of the room, “march down those steps to the dungeon and tell the
+<char name="Executioner">executioner</char>
+to chop off your head."
+</s>
+</p>
+<p>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s heart sank into his boots, but he did as the
+<char name="King Derwin">King</char>
+commanded.
+</s>
+<s>“I must take off my hat,” he said to himself as he started down the long black stairway.</s>
+<s>“This is my last chance."</s>
+<s>
+One
+<obj>hat</obj>
+after another he tore from his head “... 156... 157 ...158 ...” It grew colder and damper.
+</s>
+<s>“... 217 ...218 ...219 ...” Down ... down ...down.</s>
+<s>
+“... 231 ... 232 ... 233...” It seemed t
+<char name="Bartholomew Cubbins">Bartholomew</char>
+he must be in the very heart of the mountain.
+</s>
+</p>
+<p>
+<s>“Who’s there?” said a voice from the blackness.</s>
+</p>
+<p>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+turned a corner and stepped into the dungeon.
+</s>
+</p>
+<p>
+<s>
+The
+<char name="Executioner">executioner</char>
+was whistling and swinging his axe idly, because at the moment he had nothing to do.
+</s>
+<s>In spite of his business, he really seemed to be a very pleasant man.</s>
+</p>
+<p>
+<s>
+“The
+<char name="King Derwin">King</char>
+says you must chop off my head,” said
+<char name="Bartholomew Cubbins">Bartholomew</char>
+.
+</s>
+</p>
+<p>
+<s>
+“Oh, I’d hate to,” said the
+<char name="Executioner">executioner</char>
+, looking at him with a friendly smile.
+</s>
+<s>“You seem such a nice boy."</s>
+</p>
+<p>
+<s>
+“Well ... the
+<char name="King Derwin">King</char>
+says you have to,” said
+<char name="Bartholomew Cubbins">Bartholomew</char>
+, “so please get it over with."
+</s>
+</p>
+<p>
+<s>
+“All right,” sighed the
+<char name="Executioner">executioner</char>
+, “but first you’ve got to take off your hat."
+</s>
+</p>
+<p>
+<s>
+“Why?” asked
+<char name="Bartholomew Cubbins">Bartholomew</char>
+.
+</s>
+</p>
+<p>
+<s>
+“I don’t know,” said the
+<char name="Executioner">executioner</char>
+, “but it’s one of the rules.
+</s>
+<s>
+I can’t execute anyone with his
+<obj>hat</obj>
+on."
+</s>
+</p>
+<p>
+<s>
+“All right,” said
+<char name="Bartholomew Cubbins">Bartholomew</char>
+, “you take it off for me."
+</s>
+</p>
+<p>
+<s>
+The
+<char name="Executioner">executioner</char>
+leaned across the chopping block and flipped of
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s hat.
+</s>
+</p>
+<p>
+<s>
+“What’s this?” he gasped, blinking through the holes in his mask, as another
+<obj>hat</obj>
+sat on
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s head.
+</s>
+<s>He flipped this one off ...then another and another.</s>
+</p>
+<p>
+<s>
+“Fiddlesticks!” grunted the
+<char name="Executioner">executioner</char>
+, throwing his axe on the floor.
+</s>
+<s>“I can’t execute you at all."</s>
+<s>
+And he shook hands with
+<char name="Bartholomew Cubbins">Bartholomew</char>
+and sent him back upstairs to the
+<char name="King Derwin">King</char>
+.
+</s>
+</p>
+<p>
+<s>
+The
+<char name="King Derwin">King</char>
+had been taking a nap on the throne.
+</s>
+<s>
+“What are you doing back here?” he said to
+<char name="Bartholomew Cubbins">Bartholomew</char>
+, angry at being awakened.
+</s>
+</p>
+<p>
+<s>
+“I’m sorry, Your Majesty,” explained
+<char name="Bartholomew Cubbins">Bartholomew</char>
+.
+</s>
+<s>
+“My head can’t come off with my
+<obj>hat</obj>
+on.... It’s against the rules."
+</s>
+</p>
+<p>
+<s>
+“So it can’t,” said the
+<char name="King Derwin">King</char>
+, leaning back wearily.
+</s>
+<s>
+“Now how many
+<obj>hats</obj>
+does that make altogether?”
+</s>
+</p>
+<p>
+<s>
+“The
+<char name="Executioner">executioner</char>
+knocked off 13 ...and I left 178 more on the dungeon steps,” answered
+<char name="Bartholomew Cubbins">Bartholomew</char>
+.
+</s>
+</p>
+<p>
+<s>
+“Three hundred and forty-six hats,” mumbled
+<char name="Sir Alaric">Sir Alaric</char>
+from behind his scroll.
+</s>
+</p>
+<p>
+<s>
+“
+<char name="King Derwin">Uncle Derwin</char>
+,” yawned the
+<char name="Grand Duke Wilfred">Grand Duke Wilfred</char>
+, “I suppose I’ll have to do away with him.
+</s>
+<s>Send him up to the highest turret and I, in person, will push him off."</s>
+</p>
+<p>
+<s>
+“
+<char name="Grand Duke Wilfred">Wilfred</char>
+! I’m surprised at you,” said the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>“But I guess it’s a good idea."</s>
+</p>
+<p>
+<s>
+So the
+<char name="King Derwin">King</char>
+and the Grand Duke led
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+toward the highest turret.
+</s>
+</p>
+<p>
+<s>Up and up and up the turret stairs he climbed behind them.</s>
+</p>
+<p>
+<s>
+“This is my last—my very last chance,” though
+<char name="Bartholomew Cubbins">Bartholomew</char>
+.
+</s>
+<s>He snatched off his hat.</s>
+<s>“Three hundred and forty-seven!” He snatched off another.</s>
+<s>He pulled and he tore and he flung them behind him.</s>
+<s>“... 398 ..</s>
+<s>399 ...” His arms ached from pulling off hats.</s>
+<s>
+But still the
+<obj>hats</obj>
+came.
+</s>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+climbed on.
+</s>
+</p>
+<p>
+<s>
+“... 448 ... 449... 450 ...” counted
+<char name="Sir Alaric">Sir Alaric</char>
+, puffing up the stairs behind him.
+</s>
+</p>
+<p>
+<s>
+Suddenly
+<char name="Sir Alaric">Sir Alaric</char>
+stopped.
+</s>
+<s>He looked.</s>
+<s>He took off his triangular spectacles and wiped them on his sleeve.</s>
+<s>And then he looked again.</s>
+<s>
+The
+<obj>hats</obj>
+began to change!
+<obj>hat</obj>
+451 had, not one, but two feathers!
+<obj>hat</obj>
+452 had three ... and 453 also had three and a little red jewel! Each new
+<obj>hat</obj>
+was fancier than the
+<obj>hat</obj>
+just before.
+</s>
+</p>
+<p>
+<s>
+“Your Majesty! Your Majesty!” cried out
+<char name="Sir Alaric">Sir Alaric</char>
+.
+</s>
+<s>
+But the
+<char name="King Derwin">King</char>
+and the
+<char name="Grand Duke Wilfred">Grand Duke</char>
+were far up where they couldn’t hear.
+</s>
+<s>They had akeady reached the top of the highest turret.</s>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+was following just behind.
+</s>
+</p>
+<p>
+<s>
+“Step right out here and get out on that wall,” snapped the
+<char name="Grand Duke Wilfred">Grand Duke Wilfred</char>
+.
+</s>
+<s>“I can’t wait to push you off."</s>
+</p>
+<p>
+<s>
+But when
+<char name="Bartholomew Cubbins">Bartholomew</char>
+stepped up on the wall they gasped in amazement.
+</s>
+<s>
+He was wearing the most beautiful
+<obj>hat</obj>
+that had ever been seen in the Kingdom of Didd .
+</s>
+<s>
+It had a ruby larger than any the
+<char name="King Derwin">King</char>
+himself had ever owned.
+</s>
+<s>It had ostrich plumes, and cockatoo plumes, and mockingbird plumes, and paradise plumes.</s>
+<s>
+Beside such a
+<obj>hat</obj>
+even the
+<char name="King Derwin">King</char>
+’s Crown seemed like nothing.
+</s>
+</p>
+<p>
+<s>
+The
+<char name="Grand Duke Wilfred">Grand Duke Wilfred</char>
+took a quick step forward.
+</s>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+thought his end had come at last.
+</s>
+</p>
+<p>
+<s>
+“Wait!” shouted the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>He could not take his eyes off the magnificent hat.</s>
+</p>
+<p>
+<s>
+“I won’t wait,” the
+<char name="Grand Duke Wilfred">Grand Duke</char>
+talked back to the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>
+“I’m going to push him off now! That new big
+<obj>hat</obj>
+makes me madder than ever.
+</s>
+<s>
+” And he flung out his arms to push
+<char name="Bartholomew Cubbins">Bartholomew</char>
+off.
+</s>
+</p>
+<p>
+<s>
+But the
+<char name="King Derwin">King</char>
+was quicker than
+<char name="Grand Duke Wilfred">Wilfred</char>
+.
+</s>
+<s>He grabbed him by the back of his fine lace collar.</s>
+<s>
+“This is to teach you,” His Majesty said sternly, “that Grand Dukes never talk back to their
+<char name="King Derwin">King</char>
+.
+</s>
+<s>
+” And he turned the
+<char name="Grand Duke Wilfred">Grand Duke Wilfred</char>
+over his knee and spanked him soundly, right on the seat of his royal silk pants.
+</s>
+</p>
+<p>
+<s>
+“And now,” smiled the
+<char name="King Derwin">King</char>
+, lifting
+<char name="Bartholomew Cubbins">Bartholomew</char>
+down from the wall, “it would be nice if you’d sell me that wonderful hat!”
+</s>
+</p>
+<p>
+<s>
+“... 498 ... -499 ...” broke in the tired voice of
+<char name="Sir Alaric">Sir Alaric</char>
+, who had just arrived at the top of the steps, “and that ...” he pointed to the
+<obj>hat</obj>
+on
+<char name="Bartholomew Cubbins">Bartholomew</char>
+’s head, “makes exactly 500!”
+</s>
+</p>
+<p>
+<s>
+“Five Hundred!” exclaimed the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>“Will you sell it for 500 pieces of gold?”</s>
+</p>
+<p>
+<s>
+“Anything you say, Sire,” answered
+<char name="Bartholomew Cubbins">Bartholomew</char>
+.
+</s>
+<s>“You see ...I’ve never sold one before.”</s>
+</p>
+<p>
+<s>
+The
+<char name="King Derwin">King</char>
+’s hands trembled with joy as he reached for the hat.
+</s>
+</p>
+<p>
+<s>
+Slowly, slowly
+<char name="Bartholomew Cubbins">Bartholomew</char>
+felt the weight of the great
+<obj>hat</obj>
+lifting from his head.
+</s>
+<s>He held his breath.... Then suddenly he felt the cool evening breezes blow through his hair.</s>
+<s>His face broke into a happy smile.</s>
+<s>
+The head of
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+was bare!
+</s>
+</p>
+<p>
+<s>
+“Look, Your Majesty! Look!” he shouted to the
+<char name="King Derwin">King</char>
+.
+</s>
+</p>
+<p>
+<s>
+“No! You look at me,” answered the
+<char name="King Derwin">King</char>
+.
+</s>
+<s>
+And he put the great
+<obj>hat</obj>
+on right over his crown.
+</s>
+</p>
+<p>
+<s>
+Arm in arm, the
+<char name="King Derwin">King</char>
+and
+<char name="Bartholomew Cubbins">Bartholomew</char>
+went down to the counting room to count out the gold.
+</s>
+<s>
+Then the
+<char name="King Derwin">King</char>
+sent
+<char name="Bartholomew Cubbins">Bartholomew</char>
+home to his parents ...no basket on his arm, no
+<obj>hat</obj>
+on his head, but with five hundred pieces of gold in a bag.
+</s>
+</p>
+<p>
+<s>
+And the
+<char name="King Derwin">King</char>
+commanded that the
+<obj>hat</obj>
+he had bought, and all the other hats, too, be kept forever in a great crystal case by the side of his throne.
+</s>
+</p>
+<p>
+<s>
+But neither
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+, nor
+<char name="King Derwin">King Derwin</char>
+himself, nor anyone else in the Kingdom of Didd could ever explain how the strange thing had happened.
+</s>
+<s>They only could say it just “happened to happen” and was not very likely to happen again.</s>
+</p>
+</body>
+</book>

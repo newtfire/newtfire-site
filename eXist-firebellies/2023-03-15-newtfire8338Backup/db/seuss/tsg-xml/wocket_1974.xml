@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><!--  need to add (asj, object, mUp?, action?) and associate schema  --><book>
+<metadata date="1974" genre="prose" type="literacy"/>
+<title>There's a Wocket in my Pocket</title>
+<body>
+<stanza>
+<l>Did you</l>
+<l>ever have the feeling</l>
+<l>
+there's a
+<rym sch="a">
+<mUp>WASKET</mUp>
+</rym>
+in your
+<rym sch="a">
+<obj>BASKET</obj>
+</rym>
+?
+</l>
+</stanza>
+<stanza>
+<l>
+Or a
+<rym sch="a">
+<mUp>NUREAU</mUp>
+</rym>
+in your
+<rym sch="a">
+<obj>BUREAU</obj>
+</rym>
+?
+</l>
+<l>
+Or a
+<rym sch="b">
+<mUp>WOSET</mUp>
+</rym>
+in your
+<rym sch="b">
+<obj>CLOSET</obj>
+</rym>
+?
+</l>
+<l>
+Sometimes I feel quite
+<rym sch="c">CERTAIN</rym>
+there's a
+<rym sch="c">
+<mUp>JERTAIN</mUp>
+</rym>
+in the
+<rym sch="c">
+<obj>CURTAIN</obj>
+</rym>
+.
+</l>
+<l>
+Sometimes I have the feeling there's a
+<rym sch="d">
+<mUp>ZLOCK</mUp>
+</rym>
+behind the
+<rym sch="d">
+<obj>CLOCK</obj>
+</rym>
+.
+</l>
+<l>
+And that
+<rym sch="e">
+<mUp>ZELF</mUp>
+</rym>
+up on that
+<rym sch="e">
+<obj>SHELF</obj>
+</rym>
+! I have talked to him
+<rym sch="e">myself</rym>
+.
+</l>
+<l>
+That's the kind of house I live in. There's a
+<rym sch="f">
+<mUp>NINK</mUp>
+</rym>
+in the
+<rym sch="f">
+<obj>SINK</obj>
+</rym>
+.
+</l>
+<l>
+And a
+<rym sch="g">
+<mUp>ZAMP</mUp>
+</rym>
+in the
+<rym sch="g">
+<obj>LAMP</obj>
+</rym>
+. And they're rather nice...I
+<rym sch="f">think</rym>
+.
+</l>
+<l>
+Some of them are very friendly. Like the
+<rym sch="h">
+<mUp>YOT</mUp>
+</rym>
+in the
+<rym sch="h">
+<obj>POT</obj>
+</rym>
+.
+</l>
+<l>
+But that
+<rym sch="i">
+<mUp>YOTTLE</mUp>
+</rym>
+in the
+<rym sch="i">
+<obj>BOTTLE</obj>
+</rym>
+, Some are friendly. Some are
+<rym sch="h">NOT</rym>
+.
+</l>
+<l>
+I like the
+<rym sch="j">
+<mUp>ZABLE</mUp>
+</rym>
+on the
+<rym sch="j">
+<obj>TABLE</obj>
+</rym>
+. And the
+<rym sch="k">GHAIR</rym>
+under the
+<rym sch="k">CHAIR</rym>
+.
+</l>
+<l>
+But that
+<rym sch="l">
+<mUp>BOFA</mUp>
+</rym>
+on the
+<rym sch="l">
+<obj>SOFA</obj>
+</rym>
+...Well, I wish he wasn't
+<rym sch="k">there</rym>
+.
+</l>
+<l>
+All those
+<rym sch="m">
+<mUp>NUPBOARDS</mUp>
+</rym>
+in the
+<rym sch="m">
+<obj>CUPBOARDS</obj>
+</rym>
+, they're good fun to have about.
+</l>
+</stanza>
+<stanza>
+<l>But that</l>
+<l>
+<rym sch="a">
+<mUp>NOOTH GRUSH</mUp>
+</rym>
+</l>
+<l>on my</l>
+<l>
+<rym sch="a">
+<obj>TOOTHBRUSH</obj>
+</rym>
+... him I could do without!
+</l>
+<l>
+The only one I'm really scared of is that
+<rym sch="b">
+<mUp>VUG</mUp>
+</rym>
+under the
+<rym sch="b">
+<obj>RUG</obj>
+</rym>
+.
+</l>
+<l>
+And that
+<rym sch="c">
+<mUp>QUIMNEY</mUp>
+</rym>
+up the
+<rym sch="c">
+<obj>CHIMNEY</obj>
+</rym>
+... I don't like him. Not at all.
+</l>
+<l>
+And it makes me sort of nervous when the
+<rym sch="d">
+<mUp>ZALL</mUp>
+</rym>
+scoots down the
+<rym sch="d">
+<obj>HALL</obj>
+</rym>
+.
+</l>
+<l>
+But the
+<rym sch="e">
+<mUp>YEPS</mUp>
+</rym>
+on the
+<rym sch="e">
+<obj>STEPS</obj>
+</rym>
+They're great fun to have
+<rym sch="f">around</rym>
+. And so are the many, many friends that I have
+<rym sch="f">found</rym>
+. Like the
+<rym sch="g">
+<mUp>TELLAR</mUp>
+</rym>
+and the
+<rym sch="g">
+<mUp>NELLAR</mUp>
+</rym>
+and the
+<rym sch="g">
+<mUp>GELLAR</mUp>
+</rym>
+and the
+<rym sch="g">
+<mUp>DELLAR</mUp>
+</rym>
+and the
+<rym sch="g">
+<mUp>BELLAR</mUp>
+</rym>
+and the
+<rym sch="g">
+<mUp>WELLAR</mUp>
+</rym>
+and the
+<rym sch="g">
+<mUp>WELLAR</mUp>
+</rym>
+in the
+<rym sch="g">
+<obj>CELLAR</obj>
+</rym>
+.
+</l>
+<l>
+And the
+<rym sch="h">
+<mUp>GEELING</mUp>
+</rym>
+on the
+<rym sch="h">
+<obj>CEILING</obj>
+</rym>
+...
+</l>
+<l>
+...And the
+<rym sch="i">
+<mUp>ZOWER</mUp>
+</rym>
+in my
+<rym sch="i">
+<obj>SHOWER</obj>
+</rym>
+...
+</l>
+<l>
+And the
+<rym sch="j">
+<mUp>ZILLOW</mUp>
+</rym>
+on my
+<rym sch="j">
+<obj>PILLOW</obj>
+</rym>
+. I don't care if you believe
+<rym sch="k">it</rym>
+. That's the kind of house I live in. And I hope we never leave
+<rym sch="k">it</rym>
+.?
+</l>
+</stanza>
+</body>
+</book>

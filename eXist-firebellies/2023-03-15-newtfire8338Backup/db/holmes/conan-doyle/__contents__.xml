@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/holmes/conan-doyle" version="1" owner="wdjacca" group="wdjacca" mode="755" created="2022-03-23T20:12:08.364Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="SilverBlaze-Gutenberg.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2022-03-23T20:12:08.546Z" modified="2022-03-23T20:12:08.546Z" filename="SilverBlaze-Gutenberg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CrookedMan-Gutenberg.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2022-03-23T20:12:08.769Z" modified="2022-03-23T20:12:08.769Z" filename="CrookedMan-Gutenberg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TheProblemofThorBridge-Gutenberg.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2022-03-23T20:12:08.906Z" modified="2022-03-23T20:12:08.906Z" filename="TheProblemofThorBridge-Gutenberg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ScandalinBohemia-Gutenberg.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2022-03-23T20:12:09.049Z" modified="2022-03-23T20:12:09.049Z" filename="ScandalinBohemia-Gutenberg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="MusgraveRitual-Gutenberg.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2022-03-23T20:12:09.157Z" modified="2022-03-23T20:12:09.157Z" filename="MusgraveRitual-Gutenberg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name=".DS_Store" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2022-03-23T20:12:08.365Z" modified="2022-03-23T20:12:08.365Z" filename=".DS_Store" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

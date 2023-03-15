@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+<song name="Trigger">
+<metadata>
+<sname>Trigger</sname>
+<author>Daisuke Ishiwatari</author>
+</metadata>
+    
+<lyrics>
+
+<verse n="1">
+<line n="1">Goodbye.</line>
+<line n="2">Never will I see 'em again</line>
+<line n="3">Nor would they want me to</line>
+<line n="4">Stop beating around the bush.</line>
+<line n="5">OK. I'm OK!!</line>
+<line n="6">But I guess that's just me</line>
+<line n="7"><i story="gio">Nobody is to blame for my fate</i></line>
+</verse>
+
+<chorus n="1">
+<line n="1">I do I, don't be fake.</line>
+<line n="2">Keep it real.</line>
+<line n="3">Keep it real.</line>
+<line n="4">I do I, get a good vibe.</line>
+<line n="5">Keep it real.</line>
+<line n="6">Keep it real.</line>
+</chorus>
+
+<verse n="2">
+<line n="1">Don't get me wrong,</line>
+<line n="2">I'm not going to hate myself.</line>
+<line n="3">There's not point in holdin' a grudge about something</line>
+</verse>
+
+<verse n="3">
+<line n="1">All of my choices.</line>
+<line n="2">I could've quit.</line>
+<line n="3"><i story="gio">I'm just a cold metal.</i></line>
+</verse>
+
+<chorus n="2">
+<line n="1">I do I, don't be fake.</line>
+<line n="2">Keep it real.</line>
+<line n="3">Keep it real.</line>
+<line n="4">I do I, get a good vibe.</line>
+<line n="5">Keep it real.</line>
+<line n="6">Keep it real.</line>
+</chorus>
+
+<chorus n="3">
+<line n="1"><i story="gio">I wanna just be a trigger with a brutish impulse,</i></line>
+<line n="2">Trigger</line>
+<line n="3">The Silent Preacher</line>
+<line n="4">Watch out. Keep your hands off. Don't make a big deal out of me.</line>
+<line n="5">Trigger.</line>
+<line n="6"><i story="gio">Don't be curious about me</i></line>
+<line n="7"><i story="gio">I don't want you to get hurt.</i></line>
+<line n="8">Watch out. Keep your hands off. Don't make a big deal out of me.</line>
+</chorus>
+
+<bridge n="1">
+<line n="1">Never mind.</line>
+<line n="2">I'm dirty...</line>
+<line n="3">Splash splash splash.</line>
+</bridge>
+
+<verse n="4">
+<line n="1">Goodbye.</line>
+<line n="2">Never will I see 'em again</line>
+<line n="3">Nor would they want me to</line>
+<line n="4">Stop beating around the bush.</line>
+<line n="5">OK.</line>
+<line n="6">I'm OK!!</line>
+<line n="7">But I guess that's just me</line>
+<line n="8">Nobody is to blame for my fate</line>
+</verse>
+
+<chorus n="4">
+<line n="1">I do I, don't be fake.</line>
+<line n="2">Keep it real.</line>
+<line n="3">Keep it real.</line>
+<line n="4">I do I, get a good vibe.</line>
+<line n="5">You know, some beasts don't live in herds</line>
+<line n="6">Just like that</line>
+<line n="7">I don't need your sympathy</line>
+</chorus>
+
+<verse n="5">
+<line n="1">Trigger with a brutish impulse.</line>
+<line n="2">Trigger</line>
+<line n="3">The Silent Preacher</line>
+<line n="4">Watch out. Keep your hands off. Don't make a big deal out of me.</line>
+<line n="5">Trigger.</line>
+<line n="6">Don't be curious about me.</line>
+<line n="7">I don't want you to get hurt. Watch out. Keep your hands off. Don't make a big deal out of me.</line>
+</verse>
+
+</lyrics>
+</song>
+</xml>

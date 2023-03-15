@@ -1,0 +1,36 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/resources/fonts" version="1" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.151Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="glyphicons-halflings-regular.svg" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.168Z" modified="2021-12-30T05:04:59.168Z" filename="glyphicons-halflings-regular.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fontawesome-webfont.svg" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.187Z" modified="2021-12-30T05:04:59.187Z" filename="fontawesome-webfont.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fontawesome-webfont.ttf" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.152Z" modified="2021-12-30T05:04:59.152Z" filename="fontawesome-webfont.ttf" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fontawesome-webfont.woff2" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.156Z" modified="2021-12-30T05:04:59.156Z" filename="fontawesome-webfont.woff2" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glyphicons-halflings-regular.woff2" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.159Z" modified="2021-12-30T05:04:59.159Z" filename="glyphicons-halflings-regular.woff2" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FontAwesome.otf" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.161Z" modified="2021-12-30T05:04:59.161Z" filename="FontAwesome.otf" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fontawesome-webfont.woff" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.165Z" modified="2021-12-30T05:04:59.165Z" filename="fontawesome-webfont.woff" mimetype="application/font-woff">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glyphicons-halflings-regular.woff" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.181Z" modified="2021-12-30T05:04:59.181Z" filename="glyphicons-halflings-regular.woff" mimetype="application/font-woff">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glyphicons-halflings-regular.eot" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.185Z" modified="2021-12-30T05:04:59.185Z" filename="glyphicons-halflings-regular.eot" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fontawesome-webfont.eot" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.243Z" modified="2021-12-30T05:04:59.243Z" filename="fontawesome-webfont.eot" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glyphicons-halflings-regular.ttf" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.363Z" modified="2021-12-30T05:04:59.363Z" filename="glyphicons-halflings-regular.ttf" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

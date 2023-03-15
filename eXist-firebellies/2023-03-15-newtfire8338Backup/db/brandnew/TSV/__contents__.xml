@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/brandnew/TSV" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:23:37.11Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="brandNewUniquePartsTSV.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:37.111Z" modified="2021-12-30T05:23:37.111Z" filename="brandNewUniquePartsTSV.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="brandNewSharedTempo.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:37.239Z" modified="2021-12-30T05:23:37.239Z" filename="brandNewSharedTempo.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

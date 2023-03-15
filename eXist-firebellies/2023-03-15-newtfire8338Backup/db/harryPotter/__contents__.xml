@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/harryPotter" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:56.835Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="HP-OrderofthePhoenix.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:56.836Z" modified="2021-12-30T05:24:56.836Z" filename="HP-OrderofthePhoenix.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HP-PrisonerofAzkaban.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:57.215Z" modified="2021-12-30T05:24:57.215Z" filename="HP-PrisonerofAzkaban.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HP-ChamberOfSecrets.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:57.571Z" modified="2021-12-30T05:24:57.571Z" filename="HP-ChamberOfSecrets.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HP-deathlyhallows-1.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:57.892Z" modified="2021-12-30T05:24:57.892Z" filename="HP-deathlyhallows-1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HP-deathlyhallows-2.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:58.121Z" modified="2021-12-30T05:24:58.121Z" filename="HP-deathlyhallows-2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HP-SorcerersStone.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:58.306Z" modified="2021-12-30T05:24:58.306Z" filename="HP-SorcerersStone.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HP-TheHalfBloodPrince.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:58.531Z" modified="2021-12-30T05:24:58.531Z" filename="HP-TheHalfBloodPrince.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HP-GobletofFire.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:58.682Z" modified="2021-12-30T05:24:58.682Z" filename="HP-GobletofFire.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

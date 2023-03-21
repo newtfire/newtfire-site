@@ -1,6 +1,5 @@
 
-<!DOCTYPE html
-  SYSTEM "about:legacy-compat">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
    
    	
@@ -63,14 +62,14 @@
          <p>(If you were to return <code>$d</code> at this point, you would return each of the 93 XML files in this collection.)</p>
       <p>Let's start by building up a FLWOR that looks for information about each song: </p>     
 
-      <ol><li>Working with <code>$d</code>, write and return variables to retrieve `<code>&lt;title&gt;</code> element of each song. Record your FLWOR statement in your homework file.</li> 
+      <ol><li>Working with <code>$d</code>, write and return variables to retrieve <code>&lt;title&gt;</code> element of each song. Record your FLWOR statement in your homework file.</li> 
    <li>Write and return a variable for the count of lines in each song. (Use the <code>count()</code> function.) </li>
-   <li>What if you wanted to measure the length of the songs a little differently, based on literally how much text they have? Let's try out the <code>string-length()</code> function. Remember how <code>string()</code> looks down the tree from any element to return all the <code>text()</code> nodes inside? <code>string-length()</code> does the same thing, but returns a numerical count of the text characters (letters and punctuation marks). Try making a variable that captures the <code>string-length()</code> of the entire <code>&lt;song&gt;</code> element.</li>
+   <li>What if you wanted to measure the length of the songs a little differently, based on literally how much text they have? Let’s try out the <code>string-length()</code> function. Remember how <code>string()</code> looks down the tree from any element to return all the <code>text()</code> nodes inside? <code>string-length()</code> does the same thing, but returns a numerical count of the text characters (letters and punctuation marks). Try making a variable that captures the <code>string-length()</code> of the entire <code>&lt;song&gt;</code> element.</li>
    <li>Write an <code>order by</code> statement to organize your results in descending order, from highest to lowest string-length. </li>
-   <li>Now, build up your return to use the <code>concat()</code> function so that it bundles together each song title with its line count and its string length. Add some <code>"text"</code> strings inside to make it readable!</li>
+          <li>Now, build up your return to <em>concatenate</em> the info we retrieved: bundle together each song title with its line count and its string length. (We can use the XPath <code>concat()</code> function, or its convenient shorthand, like this (if you were using these variable names: <code>($title || ' string separator ' || $length)</code>  Make it more readable by returning strings instead of element nodes for those titles.</li>
    <li>Okay, what if you want to return only the song information about the longest or the shortest song in the list? For this we will need to write some new variables to use the <code>max()</code> function, and the <code>min()</code> function. Write variables to store and return the <code>max()</code> and <code>min()</code> string-length values.
    <ul><li>This was more complicated than we realized at first! The issue is knowing when the for loop gets in the way. Our variable that returns a <code>string-length()</code> does so in context with <code>$d</code>, which is <em>just one song</em> at a time. So if we take the <code>max()</code> function inside the for loop, it will always return the current value (it is always one <code>string-length()</code> value at a time).</li>
-       <li>So, what can we do? Fortunately there is a way we can use the information we gather, file by file, in a for loop <em>outside</em> the for loop, and that involves writing a <code>let</code> statement in a new way to store the return of a for loop! Here is how to construct it: You will want need to add a variable above a for loop, whose function is to store <strong>the whole sequence</strong> that the for loop returns, like so: 
+       <li>So, what can we do? Fortunately there is a way we can use the information we gather, file by file, in a variable that stores the results of our   for loop. That involves writing a <code>let</code> statement in a new way to store the return of a for loop! Here is how to construct it: You will want need to add a variable above a for loop, whose function is to store <strong>the whole sequence</strong> that the for loop returns, like so: 
        <pre>
        let $songLengthsAll :=
                  for $d in $disneySongs

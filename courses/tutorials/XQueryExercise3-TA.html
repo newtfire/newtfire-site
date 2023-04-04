@@ -56,7 +56,7 @@
 </pre>
       <p>Let us begin by querying the database to return information about each individual song:</p> 
          <pre>
-         let $disneySongs := collection('/db/disneySongs/')//*
+         let $disneySongs := collection('/db/disneySongs/')/*
          for $d in $disneySongs
          </pre>
          <p>(If you were to return <code>$d</code> at this point, you would return each of the 93 XML files in this collection.)</p>

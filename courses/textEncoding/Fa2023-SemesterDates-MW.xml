@@ -1,82 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">   
-   <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>Syllabus: Text Encoding</title>
-      <meta name="Description" content="Supported by DIGIT at Penn State Erie, The Behrend College" />
-      <meta name="keywords" content="Digital Humanities, Syllabus, XML, TEI, XSLT, XQuery, Schematron, Relax NG, SVG, digital scholarship, digital edition, electronic edition, electronic text, humanities computing, electronic editing, Beshero-Bondar" />
-      <link rel="stylesheet" type="text/css" href="../syllsched.css" /><script type="text/javascript" src="../jumpingDateLinks.js">/**/</script></head>
-   <body>
-      <!--#include virtual="../top.html" -->
-      <h1><span class="banner">DIGIT 110: Text Encoding</span></h1>
-      <div id="main">
-         <div id="courseInfo">
-            <p><strong>Fall 2023 Syllabus (Schedule)</strong></p>
-            <h2>Read the <a href="index.html" target="_blank">Course Description</a></h2>
-            <p style="font-size:smaller; font-style:italic;">The Course Description page contains a
-               detailed explanation of course policies and the basis for grades.</p>
-            <a class="button" id="dateRef">Jump Down to the Schedule</a>
-            <p style="font-size:smaller; font-style:italic;">The button jumps to the closest day to
-               today's date. Review the schedule as we get started to get a sense of how this course
-               will work on a daily basis.</p>
-            <h2>Tools and Resources</h2>
-            <p>Download and install the following software on your own personal computer(s) as we
-               start the course. These software tools are also available in our campus computing
-               labs. </p>
-            <ol>
-               <li><a href="https://www.oxygenxml.com/xml_editor.html" target="_blank"
-                     >&lt;oXygen/&gt;</a>. The DIGIT program has purchased a site license for this
-                  software, which is installed in Kochel 77 and the Lilley Library computers. The
-                  license also permits students enrolled in the course to install the software on
-                  their home computers (for course-related use only). When installing this on your
-                  own computers, <strong>you will need the license key</strong>, which we have
-                  posted on our course Announcements section of <a href="https://canvas.psu.edu"
-                     target="_blank">Canvas</a>.</li>
-               <li>Zoom: <a
-                     href="https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version"
-                     target="_blank">Make sure your Zoom installation is up-to-date</a>, and you are
-                  ready to connect. (We will use Zoom when we need it for office/project
-                  meetings.)</li>
-               <li>Slack: <a
-                     href="https://slack.com/help/articles/218080037-Getting-started-for-new-members"
-                     >https://slack.com/help/articles/218080037-Getting-started-for-new-members</a>).
-                  Download and install the Slack chat client, configuring your account to use use
-                  your Penn State email address (the official address, which looks like
-                  xyz123@psu.edu, and not an alias based on your name that you may have set up), so
-                  you can join our Slack workspace: DIGIT-coders. When you receive an invitation to
-                  join this workspace you should accept.</li>
-            </ol> Resources for class: <ul>
-               <li><a href="https://newtfire.org" target="_blank">newtFire:</a> My collection of
-                  teaching resources and student projects. <ul>
-                     <li><a href="https://newtfire.org/courses/tutorials/" target="_blank"
-                           >Explanatory Guides and Exercises: Complete List</a></li>
-                  </ul>
-               </li>
-               <li><a href="https://github.com/newtfire/textEncoding-Hub" target="_blank"
-                     >textEncoding-Hub: https://github.com/newtfire/textEncoding-Hub</a> Class
-                  GitHub Repository and Issues Board </li>
-               <li><a href="https://canvas.psu.edu/" target="_blank">Canvas:
-                     https://canvas.psu.edu</a> To submit homework assignments and exams, read
-                  private course announcements, access Zoom class meetings and video recordings. <ul>
-                     <li><a href="explainFileNames.html" target="_blank">File Conventions for Canvas
-                           Homework Assignments</a></li>
-                  </ul>
-               </li>
-               <li>No coding experience? Don’t worry! Past students in this course who never saw
-                  anything like markup or XML code have designed projects (<a
-                     href="https://newtfire.org/courses/studentProjects.html" target="_blank">like
-                     these</a>) and have even spoken about them at professional conferences! You
-                  will learn to develop your own digital tools and how to manage digital projects as
-                  teamwork.  </li>
-            </ul></div>
-         
-         <div id="schedule">
-            <h2>Schedule</h2>
-            <p>This schedule is subject to revision. Stay alert for updates and announcements of significant changes posted on Canvas.</p>
-            
-                     <table>
+<?xml version="1.0" encoding="UTF-8"?><xml>
+    <table>
         <tr>
             <th id="Week1">Week 1</th>
             <th>
@@ -104,13 +27,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-08-25">
-            <td>
-                <h4>F 08-25</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -140,13 +57,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-09-01">
-            <td>
-                <h4>F 09-01</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -176,13 +87,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-09-08">
-            <td>
-                <h4>F 09-08</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -212,13 +117,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-09-15">
-            <td>
-                <h4>F 09-15</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -248,13 +147,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-09-22">
-            <td>
-                <h4>F 09-22</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -284,13 +177,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-09-29">
-            <td>
-                <h4>F 09-29</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -320,13 +207,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-10-06">
-            <td>
-                <h4>F 10-06</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -356,13 +237,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-10-13">
-            <td>
-                <h4>F 10-13</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -392,13 +267,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-10-20">
-            <td>
-                <h4>F 10-20</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -428,13 +297,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-10-27">
-            <td>
-                <h4>F 10-27</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -464,13 +327,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-11-03">
-            <td>
-                <h4>F 11-03</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -500,13 +357,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-11-10">
-            <td>
-                <h4>F 11-10</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -536,13 +387,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-11-17">
-            <td>
-                <h4>F 11-17</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -572,13 +417,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-11-24">
-            <td>
-                <h4>F 11-24</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -608,13 +447,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-12-01">
-            <td>
-                <h4>F 12-01</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -644,13 +477,7 @@
             <td class="topic">...</td>
             <td class="doBeforeClass">...</td>
         </tr>
-        <tr id="d2023-12-08">
-            <td>
-                <h4>F 12-08</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
+        
     </table>
     <table>
         <tr>
@@ -666,15 +493,8 @@
                 </span>
             </th>
         </tr>
-    </table>
-             <table>
-                 
         <tr>
             <td>2023-12-11 Finals</td>
         </tr>
     </table>
-            </div>
-         </div>
-      <hr />
-      </body>
-   </html>
+</xml>

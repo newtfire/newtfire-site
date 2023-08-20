@@ -22,7 +22,7 @@ version="3.0">
         </table>
     </xsl:template>
  
- <xsl:template match="td[not(* | text())]">
+<xsl:template match="td[not(* | text())]">
      
      <td class="{@class}"><xsl:text>...</xsl:text></td>
  </xsl:template>

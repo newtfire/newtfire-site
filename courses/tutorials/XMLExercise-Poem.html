@@ -58,7 +58,7 @@
                     Schwartz</a> as posted on poets.org. </p>
 
 
-            <h3>Coding the letter in &lt;oXygen/&gt;</h3>
+            <h3>Coding the poem in &lt;oXygen/&gt;</h3>
             <ul>
                 <li>First, highlight and copy the text of the document that is relevant for
                     representing the poem.</li>
@@ -67,8 +67,19 @@
                     looks like a piece of paper with a folded corner (or go to File and New...),
                     type <code>XML</code> in the filter window, and click the <code>Create</code>
                     button to launch a new XML document.</li>
-                <li>Paste in the text you intend to mark up, and begin marking it to apply
-                        <dfn>elements</dfn> and add <dfn>attributes</dfn>.</li>
+                <li>Paste in the text you intend to mark up, and begin marking it
+                        <dfn>elements</dfn> and add <dfn>attributes</dfn>. Remember to wrap a <strong>root element</strong> to wrap the entire document and create
+                a well-formed tree structure.</li>
+                <li>Try highlighting text that you want to tag, and using CTRL + E (Windows) or Command +
+                    E (Mac) to fill in a tag name. The oXygen editor will then insert the start and the
+                    end tag of an element where you want to wrap it around some text.</li>
+                <li>Remember that line breaks in the text <em>are not preserved in XML</em>. Mark up the
+                    structure of the document accordingly! Use the <q>Format and Indent</q> button
+                    (which we call <q>pretty print</q> feature in oXygen to look at the structure you
+                    are creating. Here is a screen capture showing you where to find the <q>Format and
+                        Indent</q> button. (Note: I have set up my oXygen Editor in dark mode, so your colors will likely look a little different than my image.)
+                    <img src="oxygen-prettyprint.png" class="screenCap" alt="the oXygen XML Editor's pretty-print button"/></li>
+            
                 <li>Tips: Watch the color of the square in the upper right corner: if it is green,
                     your code is well-formed, but if it turns <q>angry red</q>, you will know there
                     is an error, perhaps <dfn>tangled tags</dfn> or a missing angle bracket, or a
@@ -83,42 +94,42 @@
 
         </section>
         <section title="suggestions">
-            <h3>Suggestions for XML markup of a source text</h3>
-            <p>Remember that a well-formed XML tree requires a single root element, wrapping the
-                entire document.</p>
-            <p>Try highlighting text that you want to tag, and using CTRL + E (Windows) or Command +
-                E (Mac) to fill in a tag name. The oXygen editor will then insert the start and the
-                end tag of an element where you want to wrap it around some text.</p>
-            <p>Remember that line breaks in the text <em>are not preserved in XML</em>. Mark up the
-                structure of the document accordingly! Use the <q>Format and Indent</q> button
-                (which we call <q>pretty print</q> feature in oXygen to look at the structure you
-                are creating. Here is a screen capture showing you where to find the <q>Format and
-                    Indent</q> button. (Note: I have set up my oXygen Editor in dark mode, so your colors will likely look a little different than my image.)</p>
-            <img src="oxygen-prettyprint.png" class="screenCap" alt="the oXygen XML Editor's pretty-print button"/>
-
-            <h4>Tips: </h4>
-            <ul>
-                <li>Try not to code element and attributes that copy the same words and phrases in
-                    the text. think of categories, standard units, or simple identifiers you can
-                    supply so that your markup <em>adds new value</em> to the text. </li>
-                <li>Try to use elements and attribute names that you imagine <em>repeating</em> if
-                    you were coding many letters in a project. Think about how to keep the coding
-                    manageable and not too complicated for others to continue.</li>
-                <li>Consider adding elements (perhaps a note with your own text inside) to annotate
-                    the document or represent some of the contextual information available with the
-                    text. How could you write markup to clearly distinguish your voice from the
-                    poem?</li>
-            </ul>
-
-            <p>There is no single way to do this exercise, but we want you to think about how you
+            <h3>Challenges and suggestions for this assignment</h3>
+            <p>There is no single way to do this exercise, but I want you to think about how you
                 nest levels of information (elements within elements), and the relationship between
                 elements and attributes in XML.</p>
+            <ul>
+                
+                <li>Avoid coding element and attributes that just copy the same words and phrases in
+                    the text. Think of categories and standard units, or simple identifiers you can
+                    supply so that your markup <em>adds new value</em> to the text. </li>
+                <li>How will you name your elements and attributes?  Imagine <em>repeating</em> whatever element and attribute names you use, if
+                    you were coding several poems like this one in a project. Think about how to keep the coding
+                    manageable and not too complicated for others to continue.</li>
+                <li>In poems, the way words are organized in lines, and in groups of lines is meaningful, in a way that they are not in paragraphs. Your markup should capture the line and line-group structure.
+                Try creating a nested structure with your markup to hold groups of lines together.
+                </li>
+                <li>What kinds of information or metadata could you store about the lines in attributes? For example, when the lines are indented, could you apply an attribute to hold information about meaningful formatting on the screen, even if that doesn't 
+                    literally <q>work</q> when you pretty-print the document in oXygen?</li>
+                <li>Try some markup of interesting images / concepts inside the lines. There's so much you <em>could</em> mark here, and we encourage you to do that <em>efficiently</em>! Short element names are easiest to type and can capture important categories, instead of re-using the words in the poem.
+                    
+               <em>Try to keep this under control!</em>: apply just a few general element names (like, two or three at most) that you could use for related kinds of patterns instaed of trying to give a new name to each one.
+                Can you use attributes to help categorize a few interesting features of the poem?
+                </li>
+                
+                <li>Try applying a little markup to <em>annotate</em>, or include your own notes on something in the poem. Consider adding elements (perhaps a note with your own text inside) to annotate
+                    the document or store some extra contextual information about the words and phrases. 
+                    How could you write markup to clearly distinguish your voice from the
+                    poem? (Hint: attributes can help with this: you could indicate yourself with your initials as a value.)</li>
+            </ul>
+
+           
         </section>
         <section title="submitting_assignment">
             <h3>When, where, and how to submit the assignment</h3>
             <p>Check and make sure you saved your file following <a href="explainFileNames.html">our
                     homework file naming rules</a>, including giving it a <code>.xml</code> file
-                extension. Submit your XML file on Canvas on Assignments (for XML Exercise 1) before
+                extension. Submit your XML file on Canvas under Assignments for this exercise, before
                 our next class. </p>
         </section>
     </body>

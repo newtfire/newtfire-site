@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Syllabus: Digital Project Design</title>
+      <meta name="Description" content="Supported by DIGIT at Penn State Erie, The Behrend College" />
+      <meta name="keywords" content="Digital Humanities, Syllabus, XML, TEI, XSLT, XQuery, Schematron, Relax NG, SVG, digital scholarship, digital edition, electronic edition, electronic text, humanities computing, electronic editing, Beshero-Bondar" />
+      <link rel="stylesheet" type="text/css" href="../syllsched.css" /><script type="text/javascript" src="../jumpingDateLinks.js">/**/</script></head>
+   <body>
+      <!--#include virtual="../top.html" -->
+      <h1><span class="banner">DIGIT 400: Digital Project Design</span></h1>
+      <div id="main">
+         <div id="courseInfo">
+            <p><strong>Fall 2022 Syllabus (Schedule)</strong>
+               Classes meet M W F 2:30 - 3:20pm in Kochel 77.</p>
+            <h2>Read the <a href="index.html" target="_blank">Course Description</a></h2>
+             <p style="font-size:smaller; font-style:italic;">This contains a detailed explanation of course policies and the basis for grades.</p>
+              <a class="button" id="dateRef">Jump Down to the Schedule</a>
+                 <p style="font-size:smaller; font-style:italic;">The button jumps to the closest day to today's date. Review the schedule as we get
+                     started to get a sense of how this course will work on a daily basis.</p>
+             <h2>Tools and Resources</h2>
+             <p>Download and install the following software on your own personal computer(s) as we start the course. 
+                 These software tools are also available in our campus computing labs.
+             </p>
+             <ol>
+                 <li><a href="https://www.oxygenxml.com/xml_editor.html" target="_blank">&lt;oXygen/&gt;</a>. 
+                     The DIGIT program has purchased a site license for this software, which
+                     is installed in Kochel 77 and the Lilley Library computers. The license also permits
+                     students enrolled in the
+                     course to install the software on their home computers (for course-related use
+                     only). When installing this on your own computers, <strong>you will need the
+                         license key</strong>, which we have posted on our course Announcements section of
+                     <a href="https://canvas.psu.edu" target="_blank">Canvas</a>.</li>
+                 <li>Zoom: <a href="https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version" target="_blank">Make sure your Zoom installation is up-to-date</a>, and you are ready to
+                     connect. (We will use Zoom when we need it for office/project meetings.)</li>
+                 <li>Slack:  <a href="https://slack.com/help/articles/218080037-Getting-started-for-new-members">https://slack.com/help/articles/218080037-Getting-started-for-new-members</a>). 
+                     Download and install the Slack chat client, configuring your account to use use your Penn State email address (the official address, which looks like xyz123@psu.edu, 
+                     and not an alias based on your name that you may have set up), so you can join our Slack workspace: DIGIT-coders. 
+                     When you receive an invitation to join this workspace you should accept.</li>
+                 <li>Be prepared to install other software as announced as we experiment with website infrastructures in this class</li>
+             </ol>
+             Resources for class:
+             <ul>
+                 <li><a href="https://newtfire.org" target="_blank">newtFire:</a> My collection of teaching resources and student projects.
+                     <ul>
+                         <li><a href="https://newtfire.org/courses/tutorials/" target="_blank">Explanatory Guides and Exercises: Complete List</a></li>
+                     </ul>
+                 </li>
+                 <li><a href="https://github.com/newtfire/textEncoding-Hub" target="_blank">textEncoding-Hub:
+                     https://github.com/newtfire/textEncoding-Hub</a> Class GitHub Repository and Issues Board
+                 </li>
+                 <li><a href="https://canvas.psu.edu/" target="_blank">Canvas:
+                     https://canvas.psu.edu</a> To submit homework assignments and exams, read private course announcements, access
+                     Zoom class meetings and video recordings. 
+                     <ul><li><a href="explainFileNames.html" target="_blank">File Conventions for Canvas Homework Assignments</a></li></ul>
+                 </li>
+                 
+                 <li>Rusty with coding? Don’t remember much from DIGIT 110 or 210? Don’t worry!  You will be getting lots of review in this course while learning new methods. Past students
+                     with very little coding background have designed projects (<a href="https://newtfire.org/courses/studentProjects.html" target="_blank">like these</a>) and even spoken about them at undergraduate conferences! 
+                     Our goal, as ever, is for you to learn by building and designing. 
+                 </li>
+                 
+             </ul>
+             
+             
+             
+             
+             
+             
+             
+         
+            </div>
+      <div id="schedule">
+    <table><tr><th id="Week1">Week 1</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-08-22">
+            <td>
+                <h4>M 08-22</h4>
+            </td>
+            <td class="topic">
+                            <ul>
+                                <li>Welcome back!</li>
+                                <li><a href="https://www.youtube.com/watch?v=Xe1TZaElTAs">Clay
+                                        Shirky on Love, Internet Style</a> and <a
+                                        href="https://scottfstudio.com/2014/06/20/ise-grand-shrine-linking-generations-through-construction/"
+                                        >the Ise Shrine</a> (9 minutes) What does an ancient wooden
+                                    shrine have to do with digital projects?</li>
+                                <li>Introduction to the course.</li>
+                                <li>Code review: XML and regular expressions in oXygen.</li>
+                            </ul>
+                        </td>
+            <td class="doBeforeClass">Respond to Dr. B's Poll (see Canvas / Penn State email).</td>
+        </tr>
+
+        <tr id="d2022-08-24">
+            <td>
+                <h4>W 08-24</h4>
+            </td>
+            <td class="topic">Introducing a new potential Digital Humanities project: <a href="https://anamericandilemma21c.org/article/theethosofthenegrointhenewworld_5dab91077ab7a61909d0ec04">An American Dilemma</a>, with special guest, Dr. Emily Masghati (Behrend: History)</td>
+            <td class="doBeforeClass">Code Review Ex 1: Regex to well-formed XML</td>
+        </tr>
+
+        <tr id="d2022-08-26">
+            <td>
+                <h4>F 08-26</h4>
+            </td>
+            <td class="topic">Document analysis and data modeling for An American Dilemma. Problems
+                            with the source interface. Code review</td>
+            <td class="doBeforeClass">Reading and discussion from <a href="https://anamericandilemma21c.org/article/theethosofthenegrointhenewworld_5dab91077ab7a61909d0ec04">An American Dilemma</a></td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week2">Week 2</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-08-29">
+            <td>
+                <h4>M 08-29</h4>
+            </td>
+            <td class="topic">
+                            <ul><li>Discussion: robust vs. brittle. Sustainability in code.</li> 
+                            <li>Code review: git and GitHub. Updating GitHub portfolios </li>
+                            </ul>
+                        </td>
+            <td class="doBeforeClass">Code Review Ex: Regex for An American Dilemma</td>
+        </tr>
+
+        <tr id="d2022-08-31">
+            <td>
+                <h4>W 08-31</h4>
+            </td>
+            <td class="topic">GitHub Pages, static sites, templating. Personal and Team project options.</td>
+            <td class="doBeforeClass">Code review: Revisiting old HTML and CSS. Accessibility and User Experience Readings [TBA]</td>
+        </tr>
+
+        <tr id="d2022-09-02">
+            <td>
+                <h4>F 09-02</h4>
+            </td>
+            <td class="topic">Introducing Ruby/Jekyll for GitHub Pages </td>
+            <td class="doBeforeClass">Website Architectures: Exercise 1: Choose a past project to redo with Ruby/Jekyll + components (installation, setup)</td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week3">Week 3</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-09-05">
+            <td>
+                <h4>M 09-05</h4>
+            </td>
+            <td class="topic"><strong>Labor Day Holiday: No classes.</strong></td>
+            <td class="doBeforeClass">...</td>
+         
+        </tr>
+
+        <tr id="d2022-09-07">
+            <td>
+                <h4>W 09-07</h4>
+            </td>
+            <td class="topic">Ruby/Jekyll workshop</td>
+            <td class="doBeforeClass">Website Architectures: Exercise 2: Developing components with Ruby/Jekyll </td>
+           
+           <!-- <td class="topic">Introducing Model-View-Control architecture</td>
+            <td class="doBeforeClass">Reading / Discussion: <a href="http://dev.obdurodon.org/djb/mvc/">Model-view-controller and digital editions</a></td>
+     -->   </tr>
+
+        <tr id="d2022-09-09">
+            <td>
+                <h4>F 09-09</h4>
+            </td>
+            <td class="topic"><i>[Class cancelled: Dr. B is travelling to England for the TEI Conference.]</i></td>
+            <td class="doBeforeClass">Website Architectures (WA): Personal project milestone: Complete stage of work on revamping personal website with Ruby/Jekyll </td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week4">Week 4</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-09-12">
+            <td>
+                <h4>M 09-12</h4>
+            </td>
+            <td class="topic"><p><i>[Dr. B is in England for the TEI Conference]</i></p><p>Guest instructors: Mia Borgia and Alan Bickel from Larson Texts on life after DIGIT and on Model View Controller web architecture: Part 1</p></td>
+            <td class="doBeforeClass">Readings/Discussion: TBD</td>
+        </tr>
+
+        <tr id="d2022-09-14">
+            <td>
+                <h4>W 09-14</h4>
+            </td>
+            <td class="topic"><p><i>[Dr. B is in England for the TEI Conference]</i></p> <p>Guest instructors: Mia Borgia and Alan Bickel from Larson Texts on life after DIGIT and on Model View Controller web architecture: Part 2</p></td>
+            <td class="doBeforeClass">Discussion/Response to guest presentations; work on Project milestone</td>
+        </tr>
+
+        <tr id="d2022-09-16">
+            <td>
+                <h4>F 09-16</h4>
+            </td>
+            <td class="topic"><i>[Dr. B is in England for the TEI Conference]</i> </td>
+            <td class="doBeforeClass">
+                <strong>Discussion of guest instructors</strong>
+                <strong>Project Milestone 2</strong></td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week5">Week 5</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-09-19">
+            <td>
+                <h4>M 09-19</h4>
+            </td>
+            <td class="topic">Discussion of guest instructors. Continued work with Ruby/Jekyll portfolio sites. Preparation for the Behrend Career Fair.
+                
+               </td>
+            <td class="doBeforeClass">
+                
+                </td>
+        </tr>
+
+        <tr id="d2022-09-21">
+            <td>
+                <h4>W 09-21</h4>
+            </td>
+            <td class="topic">Class Cancelled for Behrend Career Fair.
+                
+                Metadata and staticSearch</td>
+            <td class="doBeforeClass">Due by end of day: Discussion post on Slack re Career Fair
+                
+                WA Exercise: get started with staticSearch</td>
+        </tr>
+
+        <tr id="d2022-09-23">
+            <td>
+                <h4>F 09-23</h4>
+            </td>
+            <td class="topic">Workshopping Ruby/Jekyll sites. JavaScript for simple interactions
+                
+                Faceted searching, stemming in staticSearch</td>
+            <td class="doBeforeClass"></td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week6">Week 6</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-09-26">
+            <td>
+                <h4>M 09-26</h4>
+            </td>
+            <td class="topic">Guest speaker: Claire Tolbert (Larson Texts) discusses résumés. Résumé workshop</td>
+            <td class="doBeforeClass"><ul><li>Print a copy of your résumé to bring to class for the workshop.</li>
+                <li><strong>Project Milestone 3</strong> (end of the day)</li></ul>
+                
+            </td>
+        </tr>
+
+        <tr id="d2022-09-28">
+            <td>
+                <h4>W 09-28</h4>
+            </td>
+            <td class="topic">Guest speaker: Claire Tolbert (Larson Texts) discusses interviews! </td>
+            <td class="doBeforeClass">Revise your print résumé to create two different versions for two different job postings.</td>
+        </tr>
+
+        <tr id="d2022-09-30">
+            <td>
+                <h4>F 09-30</h4>
+            </td>
+            <td class="topic"> Introducing staticSearch Generator: <ul>
+                <li>How does a search interface work? 
+                    Explore search interfaces, results match highlighting from <a href="https://github.com/projectEndings/staticSearch/blob/main/README.md">example Static Search sites</a>. </li>
+                <li> discussion/selection of projects to organize for Static Search.</li></ul> </td>
+            <td class="doBeforeClass">Read and annotate with Hypothes.is: <a href="https://endings.uvic.ca/staticSearch/docs/">Project Endings staticSearch Generator: Parts 1 - 6</a> 
+                
+            </td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week7">Week 7</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-10-03">
+            <td>
+                <h4>M 10-03</h4>
+            </td>
+            <td class="topic">How Static Search works: build process. Configuring your computer (ant, environment PATH variables) to build Static Search indexing</td>
+            <td class="doBeforeClass"><a href="https://endings.uvic.ca/staticSearch/docs/">Project Endings staticSearch Generator: Parts 7-8</a></td>
+        </tr>
+
+        <tr id="d2022-10-05">
+            <td>
+                <h4>W 10-05</h4>
+            </td>
+            <td class="topic">Configuring a Static Search build</td>
+            <td class="doBeforeClass">Static Search work</td>
+        </tr>
+
+        <tr id="d2022-10-07">
+            <td>
+                <h4>F 10-07</h4>
+            </td>
+            <td class="topic"></td>
+            <td class="doBeforeClass"></td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week8">Week 8</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-10-10">
+            <td>
+                <h4>M 10-10</h4>
+            </td>
+            <td class="topic"><ul><li>Discussion / decision on project sites for staticSearch. </li>
+            <li>Configuring a site: working on a config file</li>
+            </ul>
+                
+                </td>
+            <td class="doBeforeClass"><strong>Project Milestone 4</strong></td>
+        </tr>
+
+        <tr id="d2022-10-12">
+            <td>
+                <h4>W 10-12</h4>
+            </td>
+            <td class="topic">Config files and HTML preparation; XSLT or XQuery to update <code>&lt;meta&gt;</code> elements</td>
+            <td class="doBeforeClass">Start experimenting with a config.xml file for staticSearch</td>
+        </tr>
+
+        <tr id="d2022-10-14">
+            <td>
+                <h4>F 10-14</h4>
+            </td>
+            <td class="topic">staticSearch configuration</td>
+            <td class="doBeforeClass"><strong>Project Milestone 5</strong></td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week9">Week 9</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-10-17">
+            <td>
+                <h4>M 10-17</h4>
+            </td>
+            <td class="topic">Designing a search page for your project site</td>
+            <td class="doBeforeClass">staticSearch configuration; HTML + CSS design work on search interface page</td>
+        </tr>
+
+        <tr id="d2022-10-19">
+            <td>
+                <h4>W 10-19</h4>
+            </td>
+            <td class="topic">Static Search efforts
+                <!--HTML and CSS in context with JavaScript--></td>
+            <td class="doBeforeClass">WA: HTML, CSS + JS Exercise 3</td>
+        </tr>
+
+        <tr id="d2022-10-21">
+            <td>
+                <h4>F 10-21</h4>
+            </td>
+            <td class="topic"><i>[Dr. B is away guest-speaking at Pitt. Class via Zoom]</i></td>
+            <td class="doBeforeClass"><strong>Project Milestone 6</strong></td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week10">Week 10</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-10-24">
+            <td>
+                <h4>M 10-24</h4>
+            </td>
+            <td class="topic">Static Search efforts <!--JavaScript and the MVC model--></td>
+            <td class="doBeforeClass"><!--WA: HTML, CSS + JS Exercise 4 --></td>
+        </tr>
+
+        <tr id="d2022-10-26">
+            <td>
+                <h4>W 10-26</h4>
+            </td>
+            <td class="topic">Accessibility Matters: User Experience Design (UXD) in a web architecture context</td>
+            <td class="doBeforeClass"></td>
+        </tr>
+
+        <tr id="d2022-10-28">
+            <td>
+                <h4>F 10-28</h4>
+            </td>
+            <td class="topic">Static Search efforts on projects<!--Accessibility of Interfaces: Project UXD Review Workshop--></td>
+            <td class="doBeforeClass"><strong>Project Milestone 7</strong></td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week11">Week 11</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-10-31">
+            <td>
+                <h4>M 10-31</h4>
+            </td>
+            <td class="topic">Behrend 75 project introduction<!--Introducing Saxon JS (parsing / transforming XML in the browser)--></td>
+            <td class="doBeforeClass"></td>
+        </tr>
+
+        <tr id="d2022-11-02">
+            <td>
+                <h4>W 11-02</h4>
+            </td>
+            <td class="topic">Behrend 75 team work: front end, middle, backend<!--Saxon JS, continued--></td>
+            <td class="doBeforeClass">project development</td>
+        </tr>
+
+        <tr id="d2022-11-04">
+            <td>
+                <h4>F 11-04</h4>
+            </td>
+            <td class="topic">Behrend 75 work<!--Documenting your architecture: XML, JS, HTML, CSS--> </td>
+            <td class="doBeforeClass"></td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week12">Week 12</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-11-07">
+            <td>
+                <h4>M 11-07</h4>
+            </td>
+            <td class="topic">Introduction to JavaScript<!--Documentation Best Practices--></td>
+            <td class="doBeforeClass"><strong>Behrend 75 Project Milestone 1</strong><!--Reading/Discussion on Documentation for digital projects [TBD]--></td>
+        </tr>
+
+        <tr id="d2022-11-09">
+            <td>
+                <h4>W 11-09</h4>
+            </td>
+            <td class="topic">Vanilla JavaScript and separation of concerns<!--Documentation and Development Workshop--></td>
+            <td class="doBeforeClass">JavaScript Exercise 1<!--WA: Documentation Exercise--></td>
+        </tr>
+
+        <tr id="d2022-11-11">
+            <td>
+                <h4>F 11-11</h4>
+            </td>
+            <td class="topic">JavaScript continued: JavaScript events and methods</td>
+            <td class="doBeforeClass">JavaScript Exercise 2</td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week13">Week 13</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-11-14">
+            <td>
+                <h4>M 11-14</h4>
+            </td>
+            <td class="topic">Web Servers / Services continued</td>
+            <td class="doBeforeClass"><strong>Behrend 75 Project Milestone 2</strong></td>
+        </tr>
+
+        <tr id="d2022-11-16">
+            <td>
+                <h4>W 11-16</h4>
+            </td>
+            <td class="topic">Visualizing Data: statically and dynamically</td>
+            <td class="doBeforeClass">Code Exercise: XSLT or XQuery to SVG</td>
+        </tr>
+
+        <tr id="d2022-11-18">
+            <td>
+                <h4>F 11-18</h4>
+            </td>
+            <td class="topic">SVG work in your projects: data visualizaton, interface navigation, ornamentation</td>
+            <td class="doBeforeClass"><strong>Project Milestone 10</strong></td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week14">Week 14: Thanksgiving</th><th><!-- --></th><th><!-- --></th></tr>
+        <tr id="d2022-11-21">
+            <td>
+                <h4>Sun 11-20 - Sat 11-26</h4>
+            </td>
+            <td class="topic"><strong>Thanksgiving Holiday</strong></td>
+            <td class="doBeforeClass">Have a peaceful and productive week!</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week15">Week 15</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-11-28">
+            <td>
+                <h4>M 11-28</h4>
+            </td>
+            <td class="topic">SVG in Projects</td>
+            <td class="doBeforeClass">Exercise: Animating SVG on Hover</td>
+        </tr>
+
+        <tr id="d2022-11-30">
+            <td>
+                <h4>W 11-30</h4>
+            </td>
+            <td class="topic">SVG production in Projects</td>
+            <td class="doBeforeClass">Exercise: Links in SVG; Documenting SVG production</td>
+        </tr>
+
+        <tr id="d2022-12-02">
+            <td>
+                <h4>F 12-02</h4>
+            </td>
+            <td class="topic">Project Development in Teams</td>
+            <td class="doBeforeClass"><strong>Project Milestone 11</strong></td>
+        </tr>
+
+    </table>
+    <table><tr><th id="Week16">Week 16</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+        <tr id="d2022-12-05">
+            <td>
+                <h4>M 12-05</h4>
+            </td>
+            <td class="topic">Project Development in Teams</td>
+            <td class="doBeforeClass">Prepare for presentations</td>
+        </tr>
+
+        <tr id="d2022-12-07">
+            <td>
+                <h4>W 12-07</h4>
+            </td>
+            <td class="topic">Project Development in Teams</td>
+            <td class="doBeforeClass">Prepare for Presentations</td>
+        </tr>
+
+        <tr id="d2022-12-09">
+            <td>
+                <h4>F 12-09</h4>
+            </td>
+            <td class="topic"><strong>Last day. Project Presentations</strong></td>
+            <td class="doBeforeClass"><strong>Project Milestone 12</strong>: Prepare to share and discuss your project work with the class / DIGIT Works.</td>
+        </tr>
+    </table>
+    <table><tr><th id="Week17">Finals Week: 12-12 - 12-16</th><!--<th><span class="h4"><em>Class topics</em></span></th>--><th><span class="h4"><em>Do before class</em></span></th></tr>
+
+        <tr id="d2022-12-12">
+            <td>
+                <h4>H 12-15</h4>
+            </td>
+            <!--<td class="topic">...</td>-->
+            <td class="doBeforeClass">	
+                <p><strong>Semester projects due by 11:59pm.</strong></p>
+                
+               <p> Finish developing projects, and send a post to me on GitHub and Canvas to indicate your team is finished.</p></td>
+        </tr>
+    </table>
+</div>
+         </div>
+      <hr />
+      </body>
+   </html>

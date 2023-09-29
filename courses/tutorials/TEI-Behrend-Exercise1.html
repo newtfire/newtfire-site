@@ -11,91 +11,183 @@
         <h1><span class="banner">TEI Exercise 1: Analyzing Documents with TEI</span></h1>
         <section title="objectives">
             <h3>Introducing the TEI with the Behrends</h3>
-            <p>This is the first of a series of homework assignments to introduce you to the XML-based language of the Text Encoding Initiative (TEI). We will be working with a sampling of documents curated at the Penn State Behrend College library just to get started. Specifically, they are a series of calendar sheets from the year 1909 on which Mary Behrend (who called herself <q>Molly</q>), drew pictures and wrote notes to her husband Ernst Behrend. We will work with a sampling of these images to get us started on learning how TEI can help us model the data on documents.</p>
-            <p>We are not displaying the complete series of calendar sheets here, but just enough to get started looking at them and thinking about the questions they raise. Who were the people mentioned or written to on these sheets? What can we tell about their lives? What motivated the drawings and messages on these sheets in the early months of 1909?</p>
-          
-            
-         <figure>        
-             <img src="TEI-images/mary-behrend-calendar-1909/IMG_2041.jpg" alt="Mary Behrend calendar 30 January 1909"/>
-         </figure>
-            <figure>        
-                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2042.jpg" alt="Mary Behrend calendar 16 February 1909"/>
-            </figure>
-            <figure>        
-                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2046.jpg" alt="Mary Behrend calendar 17 February 1909"/>
-            </figure>
-            <figure>        
-                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2048.jpg" alt="Mary Behrend calendar 8 March 1909"/>
-            </figure>
-            <figure>        
-                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2049.jpg" alt="Mary Behrend calendar 11 March 1909"/>
-            </figure>
-            <figure>        
-                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2050.jpg" alt="Mary Behrend calendar 12 March 1909"/>
-            </figure>
-            <figure>        
-                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2052.jpg" alt="Mary Behrend calendar 17 March 1909"/>
-            </figure>
-                
-               
-                
+            <p>This is the first of a series of homework assignments to introduce you to the
+                XML-based language of the Text Encoding Initiative (TEI). We will be working with a
+                sampling of documents curated at the Penn State Behrend College library just to get
+                started. Specifically, they are a series of calendar sheets from the year 1909 on
+                which Mary Behrend (who called herself <q>Molly</q>), drew pictures and wrote notes
+                to her husband Ernst Behrend. We will work with a sampling of these images to get us
+                started on learning how TEI can help us model the data on documents.</p>
+            <p>We are not displaying the complete series of calendar sheets here, but just enough to
+                get started looking at them and thinking about the questions they raise. Can you
+                read some of the drawings and messages on these sheets?</p>
 
-<p>The archivist and I found these calendar sheets (and many more from 1909) inside a baby album showing pictures of the Behrend children, one of whom. Moritz Warren Behrend, was born in 1909. Here is a picture of the album.</p>
-            <figure>        
-                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2040.jpg" alt="Mary Behrend calendar 30 January 1909"/>
-                
+
+            <figure class="mbtei">
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2041.jpg"
+                    alt="Mary Behrend calendar 30 January 1909" />
             </figure>
-            
-            <p>You may have ideas on how you could model these documents in your own XML, but our goal with this assignment is to learn about the TEI, which provides a shared international language for encoding culturally significant documents to represent their meaningful content. <a href="https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html">The TEI Guidelines</a> are a large reference guide and also a schema for working with a <em>controlled vocabulary</em> in XML, so working with the TEI means doing a lot of looking up code in the Guidelines to see what best fits a project we are working on. It also means working with a new kind of file format that we can open in the oXygen XML Editor. oXygen also gives us guidance with what code is <em>valid</em> in TEI, and when we work with the TEI in oXygen, it can provide little windows into the Guidelines definitions for elements as well as steer us toward appropriate attributes. You will need to be reading and researching the Guidelines to gain experience with the TEI. So, that is what we will begin doing with this assignment.</p>
-            
-           
+            <figure class="mbtei">
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2042.jpg"
+                    alt="Mary Behrend calendar 16 February 1909" />
+            </figure>
+            <figure class="mbtei">
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2046.jpg"
+                    alt="Mary Behrend calendar 17 February 1909" />
+            </figure>
+            <figure class="mbtei">
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2048.jpg"
+                    alt="Mary Behrend calendar 8 March 1909" />
+            </figure>
+            <figure class="mbtei">
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2049.jpg"
+                    alt="Mary Behrend calendar 11 March 1909" />
+            </figure>
+            <figure class="mbtei">
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2050.jpg"
+                    alt="Mary Behrend calendar 12 March 1909" />
+            </figure>
+            <figure class="mbtei">
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2052.jpg"
+                    alt="Mary Behrend calendar 17 March 1909" />
+            </figure>
+
+
+
+
+            <p>The archivist and I found these calendar sheets (and many more from 1909) inside a
+                family album showing pictures of the Behrend children, one of whom. Moritz Warren
+                Behrend, was born in 1909. Here is a picture of the album.</p>
+            <figure class="mbtei">
+                <img src="TEI-images/mary-behrend-calendar-1909/IMG_2040.jpg"
+                    alt="Mary Behrend calendar 30 January 1909" />
+            </figure>
+
+            <p>Our goal with this assignment is to learn about the TEI, which provides a shared
+                international language for encoding culturally significant documents to represent
+                their meaningful content. <a
+                    href="https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html">The TEI
+                    Guidelines</a> are a large reference guide and also a schema for working with a
+                    <em>controlled vocabulary</em> in XML, so working with the TEI means doing a lot
+                of looking up code in the Guidelines to see what best fits a project we are working
+                on. Sometimes this is not as convenient as making up your own XML markup system, but
+                sometimes you can learn from the community that developed the Guidelines to observe
+                things about documents that you may not have thought of coding before.</p>
+            <p>You will need to be reading and researching the Guidelines to code with the TEI. So,
+                that is what we will begin doing with this assignment. Coding in TEI also means
+                working with a new kind of file format that we can open in the oXygen XML Editor.
+                oXygen gives us guidance with what code is <em>valid</em> in TEI, and when we work
+                with the TEI in oXygen, it can suggest attributes to put on a TEI element and
+                provide little pop-up windows into the Guidelines to explain how an element may be
+                used. </p>
+
             <p>Our objectives are to:</p>
             <ul>
-                <li>Study this selection of Mary Behrend’s 1909 calendar sheets to observe what kinds of data and metadata they hold.</li>
-                <li>Research the Guidelines seeking elements and attributes to apply if you were going to markup the full collection of calendar sheets completely.</li>
+                <li>Study this selection of Mary Behrend’s 1909 calendar sheets to observe what
+                    kinds of data and metadata they hold.</li>
+                <li>Research the Guidelines seeking elements and attributes to apply if you were
+                    going to markup the full collection of calendar sheets completely.</li>
             </ul>
-            <p>For this first exercise, you do <em>not</em> need to completely mark up all the sheets I am showing here in my photos. Instead, you will research the TEI Guidelines to see what elements and attributes will help you to model these documents in a TEI file.</p>
+            <p>For this first exercise, you do <em>not</em> need to completely mark up all the
+                sheets I am showing here in my photos. Instead, you will research the TEI Guidelines
+                to see what elements and attributes will help you to model these documents in a TEI
+                file.</p>
         </section>
         <section title="resources">
             <h3>How to begin</h3>
             <ul>
-                <li>It will help to learn more about the Behrends and especially Mary Behrend. Start by reading this <a href="https://behrendblog.com/2014/03/03/women-in-history-month-meet-mary-behrend/">background information on the Behrend Blog from 2014</a>. </li>
-                <li>Then come back here and study the photos of calendar sheets I've posted on this assignment. Take notes on what you're seeing: the form of the pages, the different kinds of printing and handwriting and drawing, the different inks for writing. What features could you be capturing in markup that models these documents?</li>
-                <li>Now, begin researching <a href="https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html">the TEI Guidelines</a> to find relevant sections for coding the survey. Specifically, take notes on what markup from the TEI you think would be helpful from the following resources in the Guidelines:
-                <ul>
-                    <li><a href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#CONAen/html/">Chapter 3: Elements Available in All TEI Documents</a>: Use the Table of Contents to help you find specific kinds of things, like say, graphics! (Definitely not everything will be relevant in this chapter, but some things will be very helpful.)</li>
-                    <li><a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html">Chapter 4: Default Text Structure</a>: Look at this chapter to think about how to organize in one TEI file a document in multiple sheets with dates on it.  What code makes sense to apply from this chapter?</li>
-                    <li>How would you encode the handwriting on these pages as distinct from, yet connected to the printed parts of the calendar sheets? This chapter may help: <a href="https://tei-c.org/release/doc/tei-p5-doc/en/html/MS.html">Chapter 10: Manuscript Description</a>. 
-                        <ul>
-                            <li>Try looking in the <a href="https://tei-c.org/release/doc/tei-p5-doc/en/html/MS.html#msph">section on Physical Description</a> </li>
-                            <li>and continue with the following sections through Hand Descriptions and <a href="https://tei-c.org/release/doc/tei-p5-doc/en/html/MS.html#msphwr">10.7.2.1 (Writing)</a> (which has some information on representing typescript, too.) </li>
-                            
-                        </ul>
+                <li>It will help to learn more about the Behrends and especially Mary Behrend. Start
+                    by reading this <a
+                        href="https://behrendblog.com/2014/03/03/women-in-history-month-meet-mary-behrend/"
+                        >background information on the Behrend Blog from 2014</a>. </li>
+                <li>Then come back here and study the photos of calendar sheets I've posted on this
+                    assignment. Take notes on what you're seeing: the form of the pages, the
+                    different kinds of printing and handwriting and drawing, the different inks for
+                    writing. What features could you be capturing in markup that models these
+                    documents?</li>
+                <li>Now, begin researching <a
+                        href="https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html">the TEI
+                        Guidelines</a> to find relevant sections for coding the documents.
+                    Specifically, take notes on what markup from the TEI you think would be helpful
+                    from the following resources in the Guidelines: <ul>
+                        <li><a
+                                href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#CONAen/html/"
+                                >Chapter 3: Elements Available in All TEI Documents</a>: Use the
+                            Table of Contents to help you find specific kinds of things, like say,
+                            graphics! (Definitely not everything will be relevant in this chapter,
+                            but some things will be very helpful.)</li>
+                        <li><a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html"
+                                >Chapter 4: Default Text Structure</a>: Look at this chapter to
+                            think about how to organize in one TEI file a document in multiple
+                            sheets with dates on it. What code makes sense to apply from this
+                            chapter?</li>
+                        <li>How would you encode the handwriting on these pages as distinct from,
+                            yet connected to the printed parts of the calendar sheets? This chapter
+                            may help: <a
+                                href="https://tei-c.org/release/doc/tei-p5-doc/en/html/MS.html"
+                                >Chapter 10: Manuscript Description</a>. <ul>
+                                <li>Try looking in the <a
+                                        href="https://tei-c.org/release/doc/tei-p5-doc/en/html/MS.html#msph"
+                                        >section on Physical Description</a>
+                                </li>
+                                <li>and continue with the following sections through Hand
+                                    Descriptions and <a
+                                        href="https://tei-c.org/release/doc/tei-p5-doc/en/html/MS.html#msphwr"
+                                        >10.7.2.1 (Writing)</a> (which has some information on
+                                    representing typescript, too.) </li>
+
+                            </ul>
+                        </li>
+                    </ul>
                 </li>
             </ul>
-   
-                </li>
-            </ul>
-            
+
         </section>
         <section title="your-first-TEI">
-            <h3>Time to write your first TEI!</h3>
-            <p>Let’s see what it’s like to write some TEI after you have done a bit of research on TEI document structures and the elements you would like to try.</p>
-            <p>Open new TEI document in the oXygen XML Editor. Do this by going to File >> New, and typing in TEI to bring up many options for TEI documents. Look for the 
-                folder <strong>TEI</strong> or <strong>TEI P5</strong>, and select <strong>All</strong> (the first entry inside it), as I'm showing in my screen capture: </p>
-            <figure>
-                <img src="TEI-images/tei-all-oxygen.png" alt="selecting TEI ALL in oXygen XML Editor"/>
+            <h3>Try coding some TEI</h3>
+
+
+            <p> Choose two or three calendar sheets at most to focus on for this exercise. 
+                The handwriting on these pages is difficult to read, so do not attempt to transcribe
+                (copy) it all out in this homework! 
+                You may find it easier to describe the artwork.
+                <strong>Try to identify the different parts of the page:</strong> picture, different colors of
+                handwriting, printed text from the calendar. Can you find some TEI elements to store
+                information about these different features on the pages? <strong>See if you can represent
+                some of the contents or some metadata from one or two calendar sheets using TEI
+                markup.</strong></p>
+            <p>Open new TEI document in the oXygen XML Editor. Do this by going to File >> New, and
+                typing in TEI to bring up many options for TEI documents. Look for the folder
+                    <strong>TEI</strong> or <strong>TEI P5</strong>, and select <strong>All</strong>
+                (the first entry inside it), as I'm showing in my screen capture: </p>
+            <figure class="mbtei">
+                <img src="TEI-images/tei-all-oxygen.png"
+                    alt="selecting TEI ALL in oXygen XML Editor" />
             </figure>
-            <p>TEI All includes the entire TEI schema, so it will let us explore our options for modeling documents as we are getting started.
-                Notice when you open a TEI All document in oXygen, you will see it has two big outer elements (children of the root element <code>TEI</code>), the <code>teiHeader</code> and <code>text</code>.</p>
-           <p> The <code>teiHeader</code> holds metadata about the document, including who is editing it, where the physical document is found, and much more. We will concentrate on 
-                encoding the <code>teiHeader</code> in a later homework assignment.</p>
-            <p>For this exercise, we can concentrate on the <code>text</code> element which, in TEI, is where we model the contents of the document and the information it is sharing with us. You do not need to fully represent a transcription of every calendar sheet here, but instead, see if you can block out some valid TEI in the <code>text</code> that can represent a series of calendar sheets. See if you can represent as much of the contents of one or two calendar sheets here following a system you come up with in your exploration of the TEI. There will be a number of different ways you can adapt the TEI for this challenge, so many approaches are valid, and we will be interested in comparing notes when we look at the code you submitted together in Monday’s class. </p>
-            <p>Submit your TEI file (saved with a <code>.xml</code> file extension) on Canvas at this upload point for this assignment.</p>
+            <p>TEI All includes the entire TEI schema, so it will let us explore our options for
+                modeling documents as we are getting started. Notice when you open a TEI All
+                document in oXygen, you will see it has two big outer elements (children of the root
+                element <code>TEI</code>), the <code>teiHeader</code> and <code>text</code>.</p>
+            <ul>
+                <li>The <code>teiHeader</code> holds metadata, including a descriptive title, who
+                    created the original documents (Mary Behrend), who is preparing the digital code
+                    in TEI (that's you), where the original source document can be found,
+                    information about the materials used to create the source, and more.</li>
+                <li>The <code>text</code> element in TEI is where we represent the contents of the
+                    documents in meaningful markup.</li>
+                <li><strong>Google TEI P5 yourElement</strong> (e.g. Google for TEI P5 sourceDesc) to quickly find TEI a element's <q>specs page</q>.  
+                    This helpful page posts an element’s definition, shows examples of use, and indicates what attributes it takes, how it nests (what elements contain it), and what elements are allowed inside.</li>
+            </ul>
+
+            <p>You may have trouble setting elements you want to use in the TEI in a way that
+                doesn't raise an error. If that happens, try to see what is causing the error, and
+                explain what you're trying to do in an XML comment. There will be a number of
+                different ways to adapt the TEI for , so we will be interested in comparing notes
+                when we look at the code you submitted together in Monday’s class. Submit your TEI
+                file (saved with a <code>.xml</code> file extension) on Canvas at this upload point
+                for this assignment.</p>
         </section>
-        
-        
-   <!--     <section title="research_planning">
+        <!--     <section title="research_planning">
             <h3>Plotting strategy: Identify markup from the TEI to use</h3>
             <p>TEI projects are best begun with a round of debate and discussion and comparing notes, so in that spirit, complete this first TEI exercise by writing a post on <a href="https://github.com/newtfire/textEncoding-Hub/issues/19">our textEncoding-Hub Issue for this assignment</a>. In the post, describe what you think is important to mark in the survey, and link to passages in the TEI Guidelines defining elements and attributes that we should use in this project. You may comment on how you would want to approach the markup of the survey and the handwriting whether or not you find good matches for what you wish to do in the TEI Guidelines. Raise questions and respond to each other about passages in the Guidelines that you are not certain about but seem relevant to our task. </p>
          <p>Continue after our next class <a href="TEI-AJC-Exercise2.html">TEI Exercise 2</a>, when we begin experimenting with writing TEI code.</p>

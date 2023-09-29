@@ -60,6 +60,7 @@ q {quotes:'“' '”' '‘' '’';
 
 div.flexContain{display:flex; flex-direction:row;}
 figure {width:10%}
+figure.mbtei {width:40%}
 figure img {max-width:1000px; width:100%}
 figcaption {font-style:italic; font-size:.8em;}
 

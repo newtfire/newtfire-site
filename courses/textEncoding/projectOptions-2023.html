@@ -10,7 +10,7 @@
     </head>
     <body>
         <!--#include virtual="../top.html" -->
-        <h1><span class="banner">Fall 2022 Semester Project</span></h1>
+        <h1><span class="banner">Fall 2023 Semester Project</span></h1>
         <section title="overview">
             <h3>Semester project overview</h3>
             <p>Your task is to collaborate on a team to create a small <dfn>digital edition</dfn> that represents a source document (or
@@ -25,8 +25,8 @@
             <section title="options">
 
              <div class="imageAlt">
-                 <img src="../tutorials/TEI-images/harlemRen/newNegAnth-poemSong.png"
-                        alt="page Alain Locke's New Negro Anthology featuring musical notation and song lyrics" width="600" />
+                 <img src="../tutorials/TEI-images/cbml/billy-bunny-001-ajaxferrell.png"
+                     title="Billy Bunny tempted by fresh vegetables: panel 2 from first issue, 1954" alt="Billy Bunny tempted by fresh vegetables: panel 2 from first issue, 1954" width="600" />
                 </div>
 
                 <ul>
@@ -40,7 +40,7 @@
                         </ul>
                     </li>
                     <li>Document structure (one or more of the following): <ul>
-                            <li>line-groups and lines in poems or music lyrics, for example</li>
+                            <li>cartoon panels, line-groups and lines in poems, or music lyrics, for example</li>
                             <li>sections and subsections, paragraphs, perhaps sentences</li>
                             <li>questions and answers on a survey form</li>
                             <li>layout of pages, pagination</li>
@@ -93,16 +93,20 @@
                <li><b>A. Behrend Archives Options for the 75th Anniversary of Penn State Erie, The Behrend College<br/>
                    (Visit Lilley Library 13 to inspect these in person)</b>
                  <ol>
-                     <li>The founding of Penn State Erie (1940s and 50s): letters and notes<br/>
-                         Let's compile a list of people and organizations to reference and highight in these documents.<br/>
-                         Which people, businesses, other organizations were involved? What events, technologies, courses of study, etc. were of interest to them? 
+                     <li>The Founding of Penn State Behrend (1940s and 50s): letters and notes<br/>
+                         Build on last fall’s <a href="https://spookybeetle.github.io/foundingOfPSB/">The Founding of Penn State Behrend project</a> launched by Will Stiller, Milo Witcher, and Jaxon Abele [GitHub: <a href="https://github.com/spookybeetle/foundingOfPSB">https://github.com/spookybeetle/foundingOfPSB</a>].
+                       <ul><li>  We can encode more documents, revise the original project method, and continue compiling a list of people and organizations to reference and highight</li>
+                         <li>Which people, businesses, other organizations were involved? What events, technologies, courses of study, etc. were of interest to them?</li>
+                           <li>Should the project be done in TEI?</li></ul>
                          <img src="../tutorials/TEI-images/behrend-college/1955-06-13-IKochel-to-MBehrend-p1.jpg" alt="letter from Irvin Kochel to Mary Behrend, June 13, 1955: page 1 of 2" width="600"/>
             
                      </li>
                     
               
-                     <li>A selection of Mary and Ernst Behrend’s (mostly typewritten) travel letters from Europe, 1950s (multiple projects possible):<br/>
-                         When and where did they travel, and what did they experience?  
+                     <li>A fresh selection of Mary and Ernst Behrend’s (mostly typewritten) travel letters from Europe, 1950s (multiple projects possible):
+                        <ul><li> When and where did they travel, and what did they experience? </li>
+                            <li>Build on / remake previous projects including <a href="https://fkb5105.github.io/Letters-from-Europe-FA2022/">Letters from Europe (last year)</a></li>
+                        </ul> 
                      <img src="../tutorials/TEI-images/travel-letters/IMG_2109.jpg" alt="Behrend travel letter volume" width="600"/>
                          <img src="../tutorials/TEI-images/travel-letters/IMG_2111.jpg" alt="from Behrend travel letter 1950s" width="600"/>
                      </li>
@@ -112,22 +116,41 @@
                </li>
                <li><b>B. Online facsimile options</b> 
                 <ol>
-                    <li>Harlem Renaissance Anthology: Joint project with Framingham State U.<br/>
+                  <!--  <li>Harlem Renaissance Anthology: Joint project with Framingham State U.<br/>
                         We need a team interested in African American poetry and possibly music.<br/>
                         We'll help customize a schema and transform portions of <a href="https://archive.org/details/newnegrointerpre00unse/page/n7/mode/2up"><i>The New Negro</i> anthology</a>
                         edited by Alain Locke 1925) on the Internet Archive (<a href="https://archive.org/details/newnegrointerpre00unse/page/152/mode/2up">example passage with music here</a>) to make a web edition.<br/>
                         We have a text transcript already, but we need to help clean it up for coding. A little <a href="https://music-encoding.org/#">music encoding</a> of short pieces (like <a href="https://archive.org/details/newnegrointerpre00unse/page/264/mode/2up">this story + tune of Br'er Rabbit</a>) and output to .midi or .wav sound files is possible.
-                    </li>
+                    </li>-->
                    
                  
-                    <li>Picture book: encoding text and images, tracking motifs: <a href="https://www.gutenberg.org/files/27424/27424-h/27424-h.htm">Hilaire Belloc, illustrated <i>Cautionary Tales for Children</i></a></li>
+               <li>Cartoon options (multiple teams): 
+                   <ul> <li>First, make a selection (consulting with Dr. B) about a historic comic book to curate</li>
+                       <li>We'll work with <a href="https://dcl.ils.indiana.edu/cbml/">CBML, a customized subset of the TEI for Comic Book Markup Language</a></li>
+                       <li>Caution: Historic comics often reflect outdated cultural values that would be offensive in our time. As digital curators, make your project selection with thinking about what you find important to markup closely and with care.</li>
+                   <li>Resources to find historic comics:
+                       <ul><li><a href="https://digitalcomicmuseum.com/">Digital Comic Museum</a></li>
+                           <li><a href="https://archive.org/details/comics">Internet Archive collection of Comic Books and Graphic Novels</a></li>
+                   </ul>
+                   </li>
+                   </ul>
+               
+               </li>
+                   <li>History of Science Fiction: Quark Magazine (1970s): Choose an issue of <i>Quark Magazine</i> to curate in an XML project
+                   
+                   <ul>
+                       <li>Find <i>Quark Magazine</i> by scrolling through <a href="http://www.luminist.org/archives/SF/">Luminist's alphabetized collection</a></li>
+                       <li>Other publications are okay, too, but <i>Quark</i> is famous for pulling some leading lights of science fiction together!</li>
+                   </ul>
+                   
+                   </li>
                    
                     <li>Picture book: encoding text and images, tracking motifs (late-breaking option): <a href="https://www.gutenberg.org/files/19002/19002-h/19002-h.htm"><i>Alice's Adventures Underground</i>, illustrated by the author (Lewis Carroll)</a>
                     This is Lewis Carroll's earliest form of the Alice in Wonderland novel, and the illustrations were made by him.
                     </li>
                         
                         
-                    <li>Picture book: encoding text and images, tracking motifs (late breaking option): <a href="https://archive.org/details/marygilbertorpee0000na/mode/2up"><i>Mary Gilbert, or, A peep at the elephant : with elegant engravings</i>, published 1833</a>
+                    <li>Picture book: encoding text and images, tracking motifs: <a href="https://archive.org/details/marygilbertorpee0000na/mode/2up"><i>Mary Gilbert, or, A peep at the elephant : with elegant engravings</i>, published 1833</a>
                      A children's book from 1833 about a child's encounter with an elephant, with discussion of large animals.
                     </li>
                     

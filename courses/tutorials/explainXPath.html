@@ -439,7 +439,7 @@
             the first or fifth paragraph or div element, using [1] or [5]. But what if you don’t
             have an exact position, but know you want to return, say, the first 10 of a particular
             element? Here’s where we can use the <code>position()</code> function. <br /><br />
-            <code>//div[@type="poem"][position() &lt; 10]</code>
+            <code>//div[@type="poem"][position() &lt;= 10]</code>
             <br /><br /> This retrieves the first 10 <code>&lt;div
                type="poem"&gt;</code> elements in an XML collection of poems chunked in divs. The
             predicate expressions work to filter by grabbing all the appropriate “poem” divs whose

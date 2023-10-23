@@ -439,17 +439,22 @@
             the first or fifth paragraph or div element, using [1] or [5]. But what if you don’t
             have an exact position, but know you want to return, say, the first 10 of a particular
             element? Here’s where we can use the <code>position()</code> function. <br /><br />
-            <code>//div[@type="poem"][position() &lt;= 10]</code>
+            <code>//div[@type="poem"][position() le 10]</code>
             <br /><br /> This retrieves the first 10 <code>&lt;div
                type="poem"&gt;</code> elements in an XML collection of poems chunked in divs. The
             predicate expressions work to filter by grabbing all the appropriate “poem” divs whose
-            position is 10 or under. <b>Note that nothing goes inside the parentheses for <span
-                  class="poem">position()</span>.</b> Context functions like this keep the
-            parentheses open. (Basically, <code>position()</code> and <span
-               class="code">last()</span> are written differently from the mathematical functions
-            like count(), where we indicate a particular thing to be counted inside the
-            parentheses.) </p>
-
+            position is <em>less than or equal to</em> 10. Notice:</p>
+         <ul>
+            <li>You can retrieve positions or other number values 
+               greater than, equal to, less than, etc. with the <a href="#comparison">value comparison operators</a> listed below.</li>
+            <li> <b>Nothing goes inside the parentheses for <span
+               class="poem">position()</span>.</b> Context functions like this keep the
+               parentheses open. (Basically, <code>position()</code> and <span
+                  class="code">last()</span> are written differently from the mathematical functions
+               like count(), where we indicate a sequence of things to be counted inside the
+               parentheses.) </li>
+         </ul>
+  
          <p> Here’s another useful positional function: <code>last()</code><br /><br />
             As you might expect, <code>last()</code> returns the last of a thing you’ve
             designated. This is another positional function frequently used in predicates. So, where

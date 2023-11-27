@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
    
-   
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
       <link rel="stylesheet" type="text/css" href="explain.css" />
@@ -65,8 +64,12 @@
         <p>The table of contents should be output with modal XSLT as an HTML table with three columns (that is, three HTML <code>&lt;td&gt;</code> elements nested inside an HTML <code>&lt;tr&gt;</code> (table row) when processing each chapter. Each cell of the table should contain: </p>
          <ul>
             <li>Text from each chapter <code>&lt;heading&gt;</code> element. <strong>Link to this text to chapter headings in the reading view html</strong>.</li>
-            <li>To preview locations mentioned in each chapter, output a string-joined list of sorted, distinct-values of <code>&lt;location&gt;</code> elements</li>
+            <li>To preview locations mentioned in each chapter, output a string-joined list of sorted, distinct-values of <code>&lt;location&gt;</code> elements.</li>
             <li>To preview technologies mentioned in each chapter, output a  string-joined list of sorted, distinct-values of <code>&lt;tech&gt;</code> elements.</li>
+            <li>Advice: We recommend simplifying your output of the locations and technologies a bit by applying the XPath <code>string-join()</code> function to separate each value with a comma. 
+               But you may output the distinct locations and techologies as an HTML bulleted or ordered list if you wish. We recommend looking up the s<code>string-join()</code> function and any other functions you need to review in
+               <a href="http://dh.obdurodon.org/functions.xhtml">The XPath Functions We Use Most</a>.
+            </li>
          </ul>
       </section>
       

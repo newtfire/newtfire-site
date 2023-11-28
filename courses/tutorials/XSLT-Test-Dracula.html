@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-   
+
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
       <link rel="stylesheet" type="text/css" href="explain.css" />
@@ -11,90 +11,140 @@
       </style>
       <title>XSLT Test: Dracula</title>
    </head>
-   
-   
-   
+
+
+
    <body>
       <!--#include virtual="top.html" -->
-      		
-     
       <h1><span class="banner">XPath / XSLT Test: Transforming Dracula</span></h1>
-     
-    <section id="overview"> 
-       
-       <div id="banner"><img id="dracula" src="../tutorials/dracula.gif" alt="dracula graphic"/>	 <h3>Overview</h3> </div>
-       <p>Your task is to transform our XML file representing Bram Stoker’s novel <i>Dracula</i> into an information-rich table of contents and HTML reading-view of the novel. Begin by right-clicking on the following files, saving them to your workspace, and opening them in &lt;oXygen/&gt; to study the code.</p>
-      
-       <ol><li>The <strong><a href="Dracula.xml">source XML file for <i>Dracula</i></a></strong>.  <span class="smaller">Don’t be concerned about the red schema warning on the file: you are just missing the Relax NG schema. If you want the file with its schema, you can pull  the directory of files in in locally from the textEncoding-Hub where it is in Class Examples > XSLT > XSLT-Test-Files.</span> </li>
-          <li>A <strong><a href="https://raw.githubusercontent.com/newtfire/textEncoding-Hub/master/Class-Examples/XSLT/XSLT-Test-Files/dracula-XSLT-Test-START.xsl">starter XSLT file for this exam</a></strong> (with the <code>&lt;xsl:stylesheet&gt;</code> and <code>&lt;xsl:output&gt;</code> elements prepared for processing to HTML).</li>
-       </ol>
-       <p>To give you an idea of the desired output, here is a <a href="https://raw.githubusercontent.com/newtfire/textEncoding-Hub/master/Class-Examples/XSLT/XSLT-Test-Files/Dracula-linked.html">view of the HTML code for our target output</a> as posted on the textEncoding-Hub. And here is <a href="Dracula-linked.html">a display view of that code on the web browser without any CSS</a>. You are expected to prepare XSLT to output HTML like this, and provide your own CSS styling for it.</p>    
- 
-<p>Open the XML file in &lt;oXygen/&gt; and study its code, and take some notes about where you can find the information destined for the target output in HTML.</p>
+      <section id="overview">
 
-    </section>
-      
+         <div id="banner">
+            <img id="dracula" src="../tutorials/dracula.gif" alt="dracula graphic" />
+            <h3>Overview</h3>
+         </div>
+         <p>Your task is to transform our XML file representing Bram Stoker’s novel <i>Dracula</i>
+            into an information-rich table of contents and HTML reading-view of the novel. Begin by
+            right-clicking on the following files, saving them to your workspace, and opening them
+            in &lt;oXygen/&gt; to study the code.</p>
 
-     
+         <ol>
+            <li>The <strong><a href="Dracula.xml">source XML file for <i>Dracula</i></a></strong>.
+                  <span class="smaller">Don’t be concerned about the red schema warning on the file:
+                  you are just missing the Relax NG schema. If you want the file with its schema,
+                  you can pull the directory of files in in locally from the textEncoding-Hub where
+                  it is in Class Examples > XSLT > XSLT-Test-Files.</span>
+            </li>
+            <li>A <strong><a
+                     href="https://raw.githubusercontent.com/newtfire/textEncoding-Hub/master/Class-Examples/XSLT/XSLT-Test-Files/dracula-XSLT-Test-START.xsl"
+                     >starter XSLT file for this exam</a></strong> (with the
+                  <code>&lt;xsl:stylesheet&gt;</code> and <code>&lt;xsl:output&gt;</code> elements
+               prepared for processing to HTML).</li>
+         </ol>
+         <p>To give you an idea of the desired output, here is a <a
+               href="https://raw.githubusercontent.com/newtfire/textEncoding-Hub/master/Class-Examples/XSLT/XSLT-Test-Files/Dracula-linked.html"
+               >view of the HTML code for our target output</a> as posted on the textEncoding-Hub.
+            And here is <a href="Dracula-linked.html">a display view of that code on the web browser
+               without any CSS</a>. You are expected to prepare XSLT to output HTML like this, and
+            provide your own CSS styling for it.</p>
+
+         <p>Open the XML file in &lt;oXygen/&gt; and study its code, and take some notes about where
+            you can find the information destined for the target output in HTML.</p>
+
+      </section>
       <section id="goals">
-        <h3>Specific tasks</h3>
-         <p>This test requires you to write modal XSLT to process the same <code>&lt;chapter&gt;</code> element nodes from the source XML in two different ways:</p>
-         <ol><li>one way: to output just the chapter headings in a table of contents,</li>
-         <li>and the other way, to output the full chapters in a styled HTML reading view.</li>
+         <h3>Specific tasks</h3>
+         <p>This test requires you to write modal XSLT to process the same
+               <code>&lt;chapter&gt;</code> element nodes from the source XML in two different
+            ways:</p>
+         <ol>
+            <li>one way: to output just the chapter headings in a table of contents,</li>
+            <li>and the other way, to output the full chapters in a styled HTML reading view.</li>
          </ol>
          <h4>Reading View</h4>
- <p>Preparing the reading view involves processing richly mixed content without needing to target it selectively. Here is what you should capture from the Dracula XML markup:</p>  
+         <p>Preparing the reading view involves processing richly mixed content without needing to
+            target it selectively. Here is what you should capture from the Dracula XML markup:</p>
          <ul>
-            <li>Transform the <code>&lt;title&gt;</code> element into an HTML <code>&lt;h1&gt;</code> element.</li>
-            <li>Apply templates to process the <code>&lt;chapter&gt;</code> elements, and transform the chapter <code>&lt;heading&gt;</code> elements into HTML <code>&lt;h2&gt;</code> elements with <code>@id</code> attributes (to use as the targets of linking from the table of contents).</li>
-            <li>Process the <code>&lt;p&gt;</code> elements from the XML into HTML <code>&lt;p&gt;</code> elements (which may seem odd, but the HTML version is actually different from the XML because the HTML is coded in an XHTML namespace).</li>
-            <li>Within the paragraphs, the Dracula team has marked the following, and you may wish to capture it in HTML <code>span</code> elements with <code>@class</code> attributes (remembering our little tutorial on <a href="../tutorials/explainHTMLSpanClass.html">Using &lt;span&gt; and @class to style your HTML</a>): Transform each the following to output for styling to feature them in the HTML:
-            <ul>
-               <li><code>&lt;location&gt;</code></li>
-               <li><code>&lt;tech&gt;</code></li>
-               <li><code>&lt;date&gt;</code></li>
-               <li><code>&lt;time&gt;</code></li>      
-            </ul> 
+            <li>Transform the <code>&lt;title&gt;</code> element into an HTML
+                  <code>&lt;h1&gt;</code> element.</li>
+            <li>Apply templates to process the <code>&lt;chapter&gt;</code> elements, and transform
+               the chapter <code>&lt;heading&gt;</code> elements into HTML <code>&lt;h2&gt;</code>
+               elements with <code>@id</code> attributes (to use as the targets of linking from the
+               table of contents).</li>
+            <li>Process the <code>&lt;p&gt;</code> elements from the XML into HTML
+                  <code>&lt;p&gt;</code> elements (which may seem odd, but the HTML version is
+               actually different from the XML because the HTML is coded in an XHTML
+               namespace).</li>
+            <li>Within the paragraphs, the Dracula team has marked the following, and you may wish
+               to capture it in HTML <code>span</code> elements with <code>@class</code> attributes
+               (remembering our little tutorial on <a href="../tutorials/explainHTMLSpanClass.html"
+                  >Using &lt;span&gt; and @class to style your HTML</a>): Transform each the
+               following to output for styling to feature them in the HTML: <ul>
+                  <li><code>&lt;location&gt;</code></li>
+                  <li><code>&lt;tech&gt;</code></li>
+                  <li><code>&lt;date&gt;</code></li>
+                  <li><code>&lt;time&gt;</code></li>
+               </ul>
             </li>
-            
+
          </ul>
-         
-         
-<h4>Table of Contents</h4>   
-        <p>The table of contents should be output with modal XSLT as an HTML table with three columns (that is, three HTML <code>&lt;td&gt;</code> elements nested inside an HTML <code>&lt;tr&gt;</code> (table row) when processing each chapter. Each cell of the table should contain: </p>
+
+
+         <h4>Table of Contents</h4>
+         <p>The table of contents should be output with modal XSLT as an HTML table with three
+            columns (that is, three HTML <code>&lt;td&gt;</code> elements nested inside an HTML
+               <code>&lt;tr&gt;</code> (table row) when processing each chapter. Each cell of the
+            table should contain: </p>
          <ul>
-            <li>Text from each chapter <code>&lt;heading&gt;</code> element. <strong>Link to this text to chapter headings in the reading view html</strong>.</li>
-            <li>To preview locations mentioned in each chapter, output a string-joined list of sorted, distinct-values of <code>&lt;location&gt;</code> elements.</li>
-            <li>To preview technologies mentioned in each chapter, output a  string-joined list of sorted, distinct-values of <code>&lt;tech&gt;</code> elements.</li>
-            <li>Advice: We recommend simplifying your output of the locations and technologies a bit by applying the XPath <code>string-join()</code> function to separate each value with a comma. 
-               But you may output the distinct locations and techologies as an HTML bulleted or ordered list if you wish. We recommend looking up the s<code>string-join()</code> function and any other functions you need to review in
-               <a href="http://dh.obdurodon.org/functions.xhtml">The XPath Functions We Use Most</a>.
-            </li>
+            <li>Text from each chapter <code>&lt;heading&gt;</code> element. <strong>Link to this
+                  text to chapter headings in the reading view html</strong>.</li>
+            <li>To preview locations mentioned in each chapter, output a string-joined list of
+               sorted, distinct-values of <code>&lt;location&gt;</code> elements.</li>
+            <li>To preview technologies mentioned in each chapter, output a string-joined list of
+               sorted, distinct-values of <code>&lt;tech&gt;</code> elements.</li>
+            <li>Advice: We recommend simplifying your output of the locations and technologies a bit
+               by applying the XPath <code>string-join()</code> function to separate each value with
+               a comma. But you may output the distinct locations and techologies as an HTML
+               bulleted or ordered list if you wish. We recommend looking up the
+                  <code>string-join()</code> function and any other functions you need to review in
+                  <a href="http://dh.obdurodon.org/functions.xhtml">The XPath Functions We Use
+                  Most</a>. </li>
          </ul>
       </section>
-      
       <section id="completing">
          <h3>Completing and checking your work</h3>
          <ul>
-            <li><strong>Write a CSS file to style your HTML</strong>, and be sure the CSS link line in the XSLT file is correctly referring to your CSS file, so the output HTML has its CSS link properly associated.</li>
-            <li>Remember! It is a good idea to run your transformation every time you write some new XSLT code so you can see what you are doing. You will be looking at your results in the Output window as you write and test your template rules each time you press the blue <q>Run-to-End</q> button. Eye-balling those results is not really enough because the Output window does not check for well-formedness or validation against a schema. Be sure to save those results, either by setting an output location in the appropriate place in the selection boxes, or by right-clicking on the output window and selecting <q>Save as</q>. <strong><em>Always, always</em> open the saved output file in &lt;oXygen/&gt; and check to make sure that it checks out as valid and well-formed.</strong> Your new output should open up as well-formed and valid HTML, with a green square in &lt;oXygen&gt;.</li>
-     
-            <li>When you complete this assignment, submit the following: 
-               <ul>
+            <li><strong>Write a CSS file to style your HTML</strong>, and be sure the CSS link line
+               in the XSLT file is correctly referring to your CSS file, so the output HTML has its
+               CSS link properly associated.</li>
+            <li>Remember! It is a good idea to run your transformation every time you write some new
+               XSLT code so you can see what you are doing. You will be looking at your results in
+               the Output window as you write and test your template rules each time you press the
+               blue <q>Run-to-End</q> button. Eye-balling those results is not really enough because
+               the Output window does not check for well-formedness or validation against a schema.
+               Be sure to save those results, either by setting an output location in the
+               appropriate place in the selection boxes, or by right-clicking on the output window
+               and selecting <q>Save as</q>. <strong><em>Always, always</em> open the saved output
+                  file in &lt;oXygen/&gt; and check to make sure that it checks out as valid and
+                  well-formed.</strong> Your new output should open up as well-formed and valid
+               HTML, with a green square in &lt;oXygen&gt;.</li>
+
+            <li>When you complete this assignment, submit the following: <ul>
                   <li>Your completed XSLT file</li>
                   <li>Your output HTML file</li>
                   <li>Your CSS file</li>
-                  <li>You may bundle these files in a zipped directory to submit on Canvas, or submit them separately. All parts of the assignment must be present for full credit.</li>
+                  <li>You may bundle these files in a zipped directory to submit on Canvas, or
+                     submit them separately. All parts of the assignment must be present for full
+                     credit.</li>
                </ul>
-               
-</li>
+            </li>
          </ul>
-         
-         
+
+
       </section>
    </body>
-   
-   
-   
-   
+
+
+
+
 </html>

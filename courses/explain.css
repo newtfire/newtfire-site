@@ -24,15 +24,13 @@ div.boilerplate img {position: relative; top:7px; right: -2px }
 div.image {background-color:#B4D6B4; float:left; width:40%}
 div.wideImage {float:left; width:100%; padding:25px}
 div.explan{background-color:#3F4F3F; float:right; width:60%; padding:15px;}
-
-.imageAlt {float:right; width:35%; margin-left: auto;
-    margin-right: auto; padding:15px;}
     
 .showCaseAlt {width: 80%; max-width:500px}
 
-section.showCaseHeader {display:flex; /*flex-direction:row;*/ /*justify-content:space-between;*/}
-div.showCaseHeader{flex:2}
+section.showCaseHeader {display:flex; width:90%;/*flex-direction:row;*/ /*justify-content:space-between;*/}
+div.showCase{flex:3}
 div.showCaseImg {flex:1;}
+img.showCaseAlt {padding:0; width:100%; max-width:400px; min-width:150px;}
 
 
 div.explanAlt{background-color:#B4D6B4; float:left; width:65%; padding:15px;}

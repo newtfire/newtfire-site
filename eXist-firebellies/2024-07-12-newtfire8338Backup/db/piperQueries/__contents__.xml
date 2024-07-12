@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/piperQueries" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:26:58.227Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="PiperNetNew" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:58.228Z" modified="2021-12-30T05:26:58.228Z" filename="PiperNetNew" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PiperNetNew.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:58.29Z" modified="2021-12-30T05:26:58.29Z" filename="PiperNetNew.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PiperNetWordtoPoem.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:58.403Z" modified="2021-12-30T05:26:58.403Z" filename="PiperNetWordtoPoem.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PiperNetPoemLabel.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:58.477Z" modified="2021-12-30T05:26:58.477Z" filename="PiperNetPoemLabel.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="piperIndex.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:58.55Z" modified="2021-12-30T05:26:58.55Z" filename="piperIndex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="piperNet.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:58.721Z" modified="2021-12-30T05:26:58.721Z" filename="piperNet.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="scraper.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:58.792Z" modified="2021-12-30T05:26:58.792Z" filename="scraper.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sampleSmashTiersQuery.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:58.857Z" modified="2021-12-30T05:26:58.857Z" filename="sampleSmashTiersQuery.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/disneySongs/BeautyAndTheBeast" version="1" owner="wdjacca" group="wdjacca" mode="755" created="2021-12-16T17:39:45.373Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="BeautyAndTheBeast-animated.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:48.827Z" modified="2021-12-16T17:39:48.827Z" filename="BeautyAndTheBeast-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="IfICantLoveHer(Reprise).xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:48.754Z" modified="2021-12-16T17:39:48.754Z" filename="IfICantLoveHer(Reprise).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ALittleThought.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:48.682Z" modified="2021-12-16T17:39:48.682Z" filename="ALittleThought.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ListenwithOurHearts.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:48.603Z" modified="2021-12-16T17:39:48.603Z" filename="ListenwithOurHearts.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Aria-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:48.527Z" modified="2021-12-16T17:39:48.527Z" filename="Aria-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Home(Reprise).xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:48.433Z" modified="2021-12-16T17:39:48.433Z" filename="Home(Reprise).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Belle(Reprise)-animated.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:48.357Z" modified="2021-12-16T17:39:48.357Z" filename="Belle(Reprise)-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="NoMatterWhat(Reprise).xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:48.278Z" modified="2021-12-16T17:39:48.278Z" filename="NoMatterWhat(Reprise).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Stories.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:48.191Z" modified="2021-12-16T17:39:48.191Z" filename="Stories.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DaysInTheSun-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:48.104Z" modified="2021-12-16T17:39:48.104Z" filename="DaysInTheSun-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HowDoesAMomentLastForever(Montmartre)-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:48.015Z" modified="2021-12-16T17:39:48.015Z" filename="HowDoesAMomentLastForever(Montmartre)-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Belle(Reprise)-Broadway.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:47.94Z" modified="2021-12-16T17:39:47.94Z" filename="Belle(Reprise)-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeautyandtheBeast-Broadway.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:47.868Z" modified="2021-12-16T17:39:47.868Z" filename="BeautyandtheBeast-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Gaston-animated.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:47.793Z" modified="2021-12-16T17:39:47.793Z" filename="Gaston-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HowDoesAMomentLastForever(MusicBox)-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:47.687Z" modified="2021-12-16T17:39:47.687Z" filename="HowDoesAMomentLastForever(MusicBox)-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Belle-Broadway.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:47.611Z" modified="2021-12-16T17:39:47.611Z" filename="Belle-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Gaston(Reprise)-Broadway.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:47.536Z" modified="2021-12-16T17:39:47.536Z" filename="Gaston(Reprise)-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HowLongMustThisGoOn.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:47.463Z" modified="2021-12-16T17:39:47.463Z" filename="HowLongMustThisGoOn.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AsLongAsThere'sChristmas.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:47.39Z" modified="2021-12-16T17:39:47.39Z" filename="AsLongAsThere'sChristmas.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HumanAgain-Broadway.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:47.314Z" modified="2021-12-16T17:39:47.314Z" filename="HumanAgain-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Transformation.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:47.24Z" modified="2021-12-16T17:39:47.24Z" filename="Transformation.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SomethingThere-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:47.17Z" modified="2021-12-16T17:39:47.17Z" filename="SomethingThere-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Home.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:47.093Z" modified="2021-12-16T17:39:47.093Z" filename="Home.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Gaston-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:47.004Z" modified="2021-12-16T17:39:47.004Z" filename="Gaston-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Belle(Reprise)-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:46.929Z" modified="2021-12-16T17:39:46.929Z" filename="Belle(Reprise)-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Gaston-Broadway.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:46.852Z" modified="2021-12-16T17:39:46.852Z" filename="Gaston-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Belle-animated.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:46.777Z" modified="2021-12-16T17:39:46.777Z" filename="Belle-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Gaston(Reprise)-animated.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:46.705Z" modified="2021-12-16T17:39:46.705Z" filename="Gaston(Reprise)-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AChangeInMe.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:46.598Z" modified="2021-12-16T17:39:46.598Z" filename="AChangeInMe.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HumanAgain-animated.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:46.523Z" modified="2021-12-16T17:39:46.523Z" filename="HumanAgain-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeautyAndTheBeast(Finale)-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:46.451Z" modified="2021-12-16T17:39:46.451Z" filename="BeautyAndTheBeast(Finale)-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Belle-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:46.375Z" modified="2021-12-16T17:39:46.375Z" filename="Belle-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SomethingThere-animated.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:46.302Z" modified="2021-12-16T17:39:46.302Z" filename="SomethingThere-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TheMobSong-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:46.183Z" modified="2021-12-16T17:39:46.183Z" filename="TheMobSong-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DontFallInLove.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:46.073Z" modified="2021-12-16T17:39:46.073Z" filename="DontFallInLove.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeautyAndTheBeast-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:45.996Z" modified="2021-12-16T17:39:45.996Z" filename="BeautyAndTheBeast-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="MaisonDeLunes.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:45.846Z" modified="2021-12-16T17:39:45.846Z" filename="MaisonDeLunes.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="NoMatterWhat.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:45.771Z" modified="2021-12-16T17:39:45.771Z" filename="NoMatterWhat.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SomethingThere-Broadway.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:45.692Z" modified="2021-12-16T17:39:45.692Z" filename="SomethingThere-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CutAboveRest.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:45.566Z" modified="2021-12-16T17:39:45.566Z" filename="CutAboveRest.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HowDoesAMomentLastForever-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:45.49Z" modified="2021-12-16T17:39:45.49Z" filename="HowDoesAMomentLastForever-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Me.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:45.376Z" modified="2021-12-16T17:39:45.376Z" filename="Me.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeOurGuest-Broadway.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:49.485Z" modified="2021-12-16T17:39:49.485Z" filename="BeOurGuest-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeOurGuest-animated.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:48.903Z" modified="2021-12-16T17:39:48.903Z" filename="BeOurGuest-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TheMobSong-animated.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:48.982Z" modified="2021-12-16T17:39:48.982Z" filename="TheMobSong-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeOurGuest-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:49.059Z" modified="2021-12-16T17:39:49.059Z" filename="BeOurGuest-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="IfICantLoveHer.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:49.138Z" modified="2021-12-16T17:39:49.138Z" filename="IfICantLoveHer.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AsLongAsThere'sChristmas(reprise).xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:49.215Z" modified="2021-12-16T17:39:49.215Z" filename="AsLongAsThere'sChristmas(reprise).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Evermore-live.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:49.294Z" modified="2021-12-16T17:39:49.294Z" filename="Evermore-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TheMobSong-Broadway.xml" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:49.408Z" modified="2021-12-16T17:39:49.408Z" filename="TheMobSong-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name=".DS_Store" skip="no" owner="wdjacca" group="wdjacca" mode="644" created="2021-12-16T17:39:45.921Z" modified="2021-12-16T17:39:45.921Z" filename=".DS_Store" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

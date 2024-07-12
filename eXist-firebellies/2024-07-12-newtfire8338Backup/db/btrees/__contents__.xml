@@ -1,0 +1,8 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/btrees" version="1" owner="ged5131" group="dba" mode="775" created="2021-12-30T05:23:56.567Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="btrees_tree_book.xml" skip="no" owner="admin" group="dba" mode="775" created="2021-12-30T05:23:57.927Z" modified="2021-12-30T05:23:57.927Z" filename="btrees_tree_book.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="articles" filename="articles"/>
+    <subcollection name="networks" filename="networks"/>
+</collection>

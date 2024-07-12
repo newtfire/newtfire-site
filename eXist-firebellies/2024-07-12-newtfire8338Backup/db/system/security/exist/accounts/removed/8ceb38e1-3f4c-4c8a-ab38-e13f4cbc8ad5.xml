@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="73"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>a283fa527e4723b2e95ad5969d7e2e067b7475a2</digestPassword><group name="ets5199"/><group name="dh-group"/><group name="loz"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><metadata key="http://axschema.org/namePerson">Eric Sandbloom</metadata><name>ets5199</name></account>

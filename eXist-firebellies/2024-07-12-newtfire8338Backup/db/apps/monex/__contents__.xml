@@ -1,0 +1,91 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex" version="1" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:58.975Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="expath-pkg.xml" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:58.977Z" modified="2021-12-30T05:04:58.977Z" filename="expath-pkg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="field.html" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:58.978Z" modified="2021-12-30T05:04:58.978Z" filename="field.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="exist.xml" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:58.98Z" modified="2021-12-30T05:04:58.98Z" filename="exist.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="collection.html" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:58.988Z" modified="2021-12-30T05:04:58.988Z" filename="collection.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline-cache-lock.xml" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:58.991Z" modified="2021-12-30T05:04:58.991Z" filename="timeline-cache-lock.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="remotes.html" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:58.992Z" modified="2021-12-30T05:04:58.992Z" filename="remotes.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="index-keys.html" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:58.999Z" modified="2021-12-30T05:04:58.999Z" filename="index-keys.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="profiling.html" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.006Z" modified="2021-12-30T05:04:59.006Z" filename="profiling.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="facet.html" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.011Z" modified="2021-12-30T05:04:59.011Z" filename="facet.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="indexes.html" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.015Z" modified="2021-12-30T05:04:59.015Z" filename="indexes.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cxan.xml" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.018Z" modified="2021-12-30T05:04:59.018Z" filename="cxan.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="instances.xml" skip="no" owner="admin" group="dba" mode="660" created="2021-12-30T05:04:59.022Z" modified="2021-12-30T05:04:59.022Z" filename="instances.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="notifications.xml" skip="no" owner="admin" group="dba" mode="660" created="2021-12-30T05:04:59.023Z" modified="2021-12-30T05:04:59.023Z" filename="notifications.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timelines.html" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.026Z" modified="2021-12-30T05:04:59.026Z" filename="timelines.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="login.html" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.035Z" modified="2021-12-30T05:04:59.035Z" filename="login.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="index.html" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.038Z" modified="2021-12-30T05:04:59.038Z" filename="index.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="collection.xconf" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.053Z" modified="2021-12-30T05:04:59.053Z" filename="collection.xconf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="console.html" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.054Z" modified="2021-12-30T05:04:59.054Z" filename="console.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="error-page.html" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.057Z" modified="2021-12-30T05:04:59.057Z" filename="error-page.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="repo.xml" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.74Z" modified="2021-12-30T05:04:59.74Z" filename="repo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="README.md" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:58.981Z" modified="2021-12-30T05:04:58.981Z" filename="README.md" mimetype="text/markdown">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="details.html" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:58.986Z" modified="2021-12-30T05:04:58.986Z" filename="details.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="LICENSE" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.001Z" modified="2021-12-30T05:04:59.001Z" filename="LICENSE" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="icon.png" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.004Z" modified="2021-12-30T05:04:59.004Z" filename="icon.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="controller.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.012Z" modified="2021-12-30T05:04:59.012Z" filename="controller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pre-install.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.03Z" modified="2021-12-30T05:04:59.03Z" filename="pre-install.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="post-install.xql" skip="no" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.033Z" modified="2021-12-30T05:04:59.033Z" filename="post-install.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="indexes-test" filename="indexes-test"/>
+    <subcollection name="resources" filename="resources"/>
+    <subcollection name=".exist" filename=".exist"/>
+    <subcollection name="content" filename="content"/>
+    <subcollection name="templates" filename="templates"/>
+    <subcollection name="modules" filename="modules"/>
+    <subcollection name="data" filename="data"/>
+</collection>

@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="prose" type="moral" date="1949"/>
+<title>Bartholomew and the Oobleck</title>
+<body>
+<p>
+<s>
+They still talk about it in the
+<place>Kingdom of Didd</place>
+as TheYear-the-King-Got-Angry-with-the-Sky.
+</s>
+<s>
+And they still talk about the
+<char n="3">page boy</char>
+,
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+. If it hadn't been for
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+, that
+<char name="King">King</char>
+and the Sky would have wrecked that little
+<place>Kingdom</place>
+.
+</s>
+</p>
+<p>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+had seen the
+<char name="King">King</char>
+get angry many, many times before.
+</s>
+<s>
+But that year when His
+<char name="King">Majesty</char>
+started
+<sound>growling</sound>
+at the sky,
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+just didn't know what to make of it.
+</s>
+</p>
+<p>
+<s>
+Yet all that year, the old
+<char name="King">King</char>
+did it.
+</s>
+<s>
+All year long he stared up into the air above his
+<place>kingdom</place>
+,
+<sound>muttering</sound>
+and
+<sound>sputtering</sound>
+through his royal whiskers, "
+<sound>Humph</sound>
+! The things that come down from my sky!"
+</s>
+</p>
+<p>
+<s>
+All spring when the rain came down, he
+<sound>growled</sound>
+at that. . . . . .
+</s>
+</p>
+<p>
+<s>
+All summer when the sunshine came down, he
+<sound>growled</sound>
+at that. . .. . .
+</s>
+</p>
+<p>
+<s>
+All autumn when the fog came down, he
+<sound>growled</sound>
+at that. . .. . .
+</s>
+</p>
+<p>
+<s>And that winter when the snow came down, he started shouting!</s>
+<s>
+This snow! This fog! This sunshine! This rain!
+<sound>GAHH</sound>
+! These four things that come down from my sky!
+</s>
+</p>
+<p>
+<s>
+But,
+<char name="King">King Derwin</char>
+,
+<char name="Bartholomew Cubbins">Bartholomew</char>
+tried to calm him.
+</s>
+<s>You've always had these same four things come down.</s>
+</p>
+<p>
+<s>
+That's just the trouble! bellowed the
+<char name="King">King</char>
+.
+</s>
+<s>Every year the same four things! I'm mighty tired of those old things! I want something NEW to come down!</s>
+</p>
+<p>
+<s>
+Something new come down. . .?
+<char name="Bartholomew Cubbins">Bartholomew</char>
+<sound>gasped</sound>
+.
+</s>
+<s>
+That's impossible, Your
+<char name="King">Majesty</char>
+. You just can't have it.
+</s>
+</p>
+<p>
+<s>
+Boy, don't you dare tell me what I can or cannot have! Remember,
+<char name="Bartholomew Cubbins">Bartholomew</char>
+, I am
+<char name="King">King</char>
+!
+</s>
+</p>
+<p>
+<s>
+I know, Sire, said
+<char name="Bartholomew Cubbins">Bartholomew</char>
+.
+</s>
+<s>You rule all the land. And you rule all the people. But even kings can't rule the sky.</s>
+</p>
+<p>
+<s>Can't, eh?</s>
+<s>
+His
+<char name="King">Majesty</char>
+flew into a terrible rage.
+</s>
+<s>
+Well, maybe other kings can't do it, but maybe I'm on king who can! You mark my words,
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+, I will have something new come down!
+</s>
+</p>
+<p>
+<s>But how to get something new to come down. . .?</s>
+<s>That was rather hard to think up.</s>
+<s>
+And for many days the old
+<char name="King">King</char>
+stomped around, trying to figure out some way to do it.
+</s>
+</p>
+<p>
+<s>
+Then, finally, late one night, when all the lords and ladies of the palace were fast asleep. . . just as the
+<char name="King">King</char>
+was buttoning his royal nightshirt. . . he suddenly stopped still.
+</s>
+<s>A strange wild light began to shine in his gray-green eyes.</s>
+</p>
+<p>
+<s>Why, of course!</s>
+<s>He began laughing.</s>
+<s>
+They can do it for me!
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+, blow my secret whistle! Quick! Call my royal
+<char name="magicians">magicians</char>
+!
+</s>
+</p>
+<p>
+<s>
+Your
+<char name="magicians">magicians</char>
+, Your
+<char name="King">Majesty</char>
+?
+</s>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+shivered.
+</s>
+<s>
+Oh, no, Your
+<char name="King">Majesty</char>
+! Don't call them!
+</s>
+</p>
+<p>
+<s>
+You hold your tongue,
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+! You do as I command you. Blow my secret whistle!
+</s>
+</p>
+<p>
+<s>
+Yes, Sire,
+<char name="Bartholomew Cubbins">Bartholomew</char>
+bowed.
+</s>
+<s>
+But, Your
+<char name="King">Majesty</char>
+, I still think that you may be very sorry.
+</s>
+</p>
+<p>
+<s>
+He took the
+<char name="King">King</char>
+'s secret whistle from its secret hook.
+</s>
+<s>
+He blew a long, low blast down the
+<char name="King">King's</char>
+back secret stairway.
+</s>
+</p>
+<p>
+<s>And a moment later he heard them coming!</s>
+<s>
+Up from their musty hole beneath the dungeon, up the empty midnight tunnel to the royal bedchamber tower, came the
+<char name="magicians">magicians</char>
+on their padded, shuffling feet.
+</s>
+<s>Up and right into the room they came chanting:</s>
+</p>
+<stanza>
+<l>
+<figOfSp type="consonance">
+Shuffle, duffle, muzzle,
+<rym sch="a">muff</rym>
+.
+</figOfSp>
+</l>
+<l>
+<figOfSp type="consonance">
+Fista, wista, mista-
+<rym sch="a">cuff</rym>
+.
+</figOfSp>
+</l>
+<l>
+We are men of groans and
+<rym sch="b">howls</rym>
+,
+</l>
+<l>
+Mystic men who eat boiled
+<rym sch="b">owls</rym>
+.
+</l>
+<l>
+Tell us what you wish, oh
+<rym sch="c">
+<char name="King">King</char>
+</rym>
+.
+</l>
+<l>
+Our magic can do
+<rym sch="c">anything</rym>
+.
+</l>
+</stanza>
+<p>
+<s>
+I wish, spoke the
+<char name="King">King</char>
+, to have you make something fall from my skies that no other
+<place>kingdom</place>
+has ever had before. What can you do? What will you make?
+</s>
+</p>
+<p>
+<s>For a moment they stood thinking, blinking their creaky eyes. Then they spoke a word. . . one word. . . Oobleck.</s>
+</p>
+<p>
+<s>
+Oobleck. . .? asked the
+<char name="King">King</char>
+.
+</s>
+<s>What will it look like?</s>
+</p>
+<stanza>
+<l>Won't look like rain.</l>
+<l>Won't look like snow.</l>
+<l>Won't look like fog.</l>
+<l>That's all we know.</l>
+<l>We just can't tell you any more.</l>
+<l>We've never made oobleck before.</l>
+</stanza>
+<p>
+<s>They bowed. They started toward the door.</s>
+</p>
+<stanza>
+<l>
+We go now to our
+<rym sch="a">secret cave</rym>
+</l>
+<l>
+On Mystic Mountain
+<rym sch="a">
+<mUp>Neeka-tave</mUp>
+</rym>
+.
+</l>
+<l>There, all night long, we'll work for you</l>
+<l>And you'll have oobleck when we're through!</l>
+</stanza>
+<p>
+<s>
+They'll do something crazy! whispered
+<char name="Bartholomew Cubbins">Bartholomew</char>
+.
+</s>
+<s>
+Call them back, Your
+<char name="King">Majesty</char>
+! Stop them!
+</s>
+</p>
+<p>
+<s>
+Stop them? Not for a ton of diamonds! chuckled the
+<char name="King">King</char>
+.
+</s>
+<s>Why I'll be the mightiest man that ever lived! Just think of it! Tomorrow I'm going to have OOBLECK!</s>
+</p>
+<p>
+<s>
+It took
+<char name="Bartholomew Cubbins">Bartholomew</char>
+a long time to get the excited
+<char name="King">King</char>
+to sleep that night.
+</s>
+<s>
+But there was no sleep for
+<char name="Bartholomew Cubbins">Bartholomew</char>
+, the page boy.
+</s>
+<s>
+All night long he stood in the
+<char name="King">King</char>
+'s window, staring out at the Mystic Mountain Neekatave.
+</s>
+<s>
+Somewhere up there,
+<char name="Bartholomew Cubbins">Bartholomew</char>
+knew, the
+<char name="King">magicians</char>
+were working their terrible magic.
+</s>
+</p>
+<p>
+<s>
+All night the
+<char name="magicians">magicians</char>
+did.
+</s>
+<s>
+All night they walked circles round their magic fire, making magic
+<sound>mumbling</sound>
+with their clucking tongues:
+</s>
+</p>
+<stanza>
+<l>
+Oh, snow and rain are not
+<rym sch="a">enough</rym>
+!
+</l>
+<l>
+Oh, we must make some brand-new
+<rym sch="a">stuff</rym>
+!
+</l>
+<l>
+So feed the fire with
+<adj>wet</adj>
+mouse
+<rym sch="b">hair</rym>
+,
+</l>
+<l>
+Burn an onion. Burn a
+<rym sch="b">chair</rym>
+.
+</l>
+<l>
+Burn a whisker from your
+<rym sch="c">chin</rym>
+</l>
+<l>
+And burn a long sour lizard
+<rym sch="c">skin</rym>
+.
+</l>
+<l>
+Burn yellow twigs and burn red
+<rym sch="d">rust</rym>
+</l>
+<l>
+And burn a stocking full of
+<rym sch="d">dust</rym>
+.
+</l>
+<l>
+Make magic smoke,green, thick and
+<rym sch="e">hot</rym>
+!
+</l>
+<l>
+(It sure smells dreadful, does it
+<rym sch="e">not</rym>
+?)
+</l>
+<l>
+That means the smoke is now just
+<rym sch="f">right</rym>
+</l>
+<l>
+So, quick! Before the day gets
+<rym sch="f">light</rym>
+,
+</l>
+<l>
+Go, magic smoke! Go high!Go
+<rym sch="g">high</rym>
+!
+</l>
+<l>
+Go rise into the
+<place>kingdom</place>
+'s
+<rym sch="g">sky</rym>
+!
+</l>
+<l>
+Go make the oobleck tumble
+<rym sch="h">down</rym>
+</l>
+<l>
+On every street, in every
+<rym sch="h">town</rym>
+!
+</l>
+<l>
+Go make the wondrous oobleck
+<rym sch="i">fall</rym>
+!
+</l>
+<l>
+Oh, bring down oobleck on us
+<rym sch="i">all</rym>
+!
+</l>
+</stanza>
+<p>
+<s>
+Dawn was just breaking and
+<char name="Bartholomew Cubbins">Bartholomew</char>
+was still standing. . . trembling, watching at the bedchamber window.
+</s>
+<s>
+But now, as the sun rose,
+<char name="Bartholomew Cubbins">Bartholomew</char>
+smiled.
+</s>
+<s>
+Those silly
+<char name="magicians">magicians</char>
+hadn't done a thing!
+</s>
+</p>
+<p>
+<s>
+Then, suddenly,
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+stopped smiling.
+</s>
+</p>
+<p>
+<s>Was he seeing things. . .?</s>
+<s>No!</s>
+<s>There was something strange up there in the sky!</s>
+</p>
+<p>
+<s>
+At first it seemed like a
+<adj>little greenish</adj>
+cloud. . . just a wisp of
+<adj>greenish</adj>
+steam.
+</s>
+<s>
+But now it was coming lower, closer, down toward the fields and farms and house of the sleeping little
+<place>kingdom</place>
+.
+</s>
+</p>
+<p>
+<s>It was swirling around the topmost turrets of the palace.</s>
+<s>
+Tiny little
+<adj>greenish</adj>
+specks were
+<adj>shimmering</adj>
+in the air right over his head.
+</s>
+<s>
+Queer little
+<adj>greenish</adj>
+blobs, just about the size of grape seed!
+</s>
+</p>
+<p>
+<s>He stretched out his hand.</s>
+<s>He started to catch one.</s>
+<s>Then he pulled his hand back!</s>
+<s>There was something frightening about those blobs.</s>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+slammed the window shut.
+</s>
+</p>
+<p>
+<s>
+Wake up, Your
+<char name="King">Majesty</char>
+! he shouted.
+</s>
+<s>Your oobleck! It's falling!</s>
+</p>
+<p>
+<s>
+The
+<char name="King">King</char>
+sprang out of his royal bed sheets.
+</s>
+</p>
+<p>
+<s>By my royal whiskers, it is! he cried.</s>
+<s>Oh, that beautiful oobleck! And it's mine! All mine!</s>
+</p>
+<p>
+<s>
+I don't like the looks of those blobs, Sire, said
+<char name="Bartholomew Cubbins">Bartholomew</char>
+</s>
+<s>
+They're coming down now as big as
+<adj>greenish</adj>
+peanuts.
+</s>
+</p>
+<p>
+<s>
+The
+<adj>bigger</adj>
+the better! laughed the
+<char name="King">King</char>
+.
+</s>
+<s>
+Oh, what a day! I'm going to make it a holiday! I want every man, woman and child in my
+<place>kingdom</place>
+to go out and dance in my glorious oobleck!
+</s>
+</p>
+<p>
+<s>
+Out in that stuff. . .? asked
+<char name="Bartholomew Cubbins">Bartholomew</char>
+</s>
+<s>Do you really think it's safe, Sire?</s>
+</p>
+<p>
+<s>
+Stop asking
+<adj>foolish</adj>
+questions! snapped the
+<char name="King">King</char>
+.
+</s>
+<s>
+Boy, you run to my royal bell tower. Wake my
+<char name="Royal Bell Ringer">royal bell ringer</char>
+. Tell him to ring the great holiday bell!
+</s>
+</p>
+<p>
+<s>
+For a moment
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+didn't move.
+</s>
+</p>
+<p>
+<s>
+Run! barked the
+<char name="King">King</char>
+.
+</s>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+ran.
+</s>
+</p>
+<p>
+<s>
+Across the sleeping
+<place>palace</place>
+,
+<char name="Bartholomew Cubbins">Bartholomew</char>
+ran.
+</s>
+<s>
+Then up the ladder of the high
+<place>bell tower</place>
+he climbed to the bell ringer's little cubbyhole in the belfry.
+</s>
+</p>
+<p>
+<s>Ring your bell! he called.</s>
+<s>
+His
+<char name="King">Majesty</char>
+the
+<char name="King">King</char>
+proclaims today a holiday!
+</s>
+</p>
+<p>
+<s>The old man crawled out of his cot.</s>
+<s>He grabbed the bell rope.</s>
+<s>
+What's the holiday for,
+<char name="Bartholomew Cubbins">Bartholomew</char>
+</s>
+</p>
+<p>
+<s>
+You'll find out soon enough! said
+<char name="Bartholomew Cubbins">Bartholomew</char>
+</s>
+</p>
+<p>
+<s>The bell ringer yanked the rope.</s>
+<s>Nothing happened.</s>
+<s>
+He yanked it
+<adj>harder</adj>
+.
+</s>
+<s>Still nothing happened.</s>
+</p>
+<p>
+<s>
+Heh. . .? What's wrong with my bell? he
+<sound>murmured</sound>
+.
+</s>
+<s>I'd better take a look outside.</s>
+</p>
+<p>
+<s>He poked his head out through the little trap door.</s>
+</p>
+<p>
+<s>
+Merciful gracious! he
+<sound>gulped</sound>
+.
+</s>
+<s>
+What is THAT? All over my bell like
+<adj>greenish</adj>
+molasses!
+</s>
+</p>
+<p>
+<s>
+Not only you bell!
+<char name="Bartholomew Cubbins">Bartholomew</char>
+cried.
+</s>
+<s>
+Look at that poor robin down there in that tree! She's stuck to her nest! She can't move a wing! That oobleck's
+<adj>gooey</adj>
+! It's
+<adj>gummy</adj>
+! It's like glue!
+</s>
+</p>
+<p>
+<s>Oooh!</s>
+<s>The bell ringer wrung his hands.</s>
+<s>If that green stuff sticks up robins, it'll stick up people, too!</s>
+</p>
+<p>
+<s>
+Someone's got to warn the people! cried
+<char name="Bartholomew Cubbins">Bartholomew</char>
+</s>
+<s>
+Got to wake 'em and warn 'em to stay inside their
+<place>houses</place>
+! I'll tell the
+<char name="Royal Trumpeter">royal trumpeter</char>
+! he shouted.
+</s>
+<s>He turned and slid like lightning down the bell tower ladder.</s>
+</p>
+<p>
+<s>
+To the
+<char name="Royal Trumpeter">trumpeter's</char>
+tower raced
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+, and on up the steps four stars at a time.
+</s>
+</p>
+<p>
+<s>
+As he ran he could hear the
+<mUp>Plop</mUp>
+!
+<mUp>Plop</mUp>
+! of the oobleck on the windowpanes.
+</s>
+<s>
+It was pelting against the
+<place>palace</place>
+walls as big as
+<adj>greenish</adj>
+cup-cakes now!
+</s>
+</p>
+<p>
+<s>
+He yanked the covers off the
+<adj>snoring</adj>
+<char name="Royal Trumpeter">trumpeter</char>
+.
+</s>
+<s>He shoved his cold trumpet right into his sleepy hands.</s>
+</p>
+<p>
+<s>Get up! Warn the people! Blow the alarm!</s>
+</p>
+<p>
+<s>
+Alarm. . .? yawned the
+<char name="Royal Trumpeter">trumpeter</char>
+.
+</s>
+<s>Then his eyes saw the oobleck.</s>
+<s>
+Those green things,
+<char name="Bartholomew Cubbins">Bartholomew</char>
+Where'd they come from?
+</s>
+</p>
+<p>
+<s>
+The
+<char name="King">King</char>
+. . . panted
+<char name="Bartholomew Cubbins">Bartholomew</char>
+</s>
+<s>
+His
+<char name="King">royal magicians</char>
+made them!
+</s>
+</p>
+<p>
+<s>
+The
+<char name="Royal Trumpeter">royal trumpeter</char>
+leapt from his bed.
+</s>
+<s>
+That
+<char name="King">King</char>
+of ours should be ashamed!
+</s>
+<s>He jabbed his trumpet out of the window.</s>
+<s>
+I'll blow, he shouted, the loudest alarm that's ever been heard in the
+<char name="King">King</char>
+dom of Didd!
+</s>
+</p>
+<p>
+<s>
+But all the
+<char name="Royal Trumpeter">royal trumpeter</char>
+blew was a
+<mUp>GLUGG</mUp>
+!
+</s>
+</p>
+<p>
+<s>
+My horn! he
+<sound>gulped</sound>
+.
+</s>
+<s>One of those green things flew inside it!</s>
+</p>
+<p>
+<s>He tried to blow it out. He couldn't blow it out.</s>
+</p>
+<p>
+<s>He tried to shake it out.</s>
+<s>He couldn't shake it out.</s>
+</p>
+<p>
+<s>I'll get it somehow! he yelled.</s>
+<s>I'll pull it out!</s>
+</p>
+<p>
+<s>
+No! shouted
+<char name="Bartholomew Cubbins">Bartholomew</char>
+</s>
+<s>Don't you touch it!</s>
+</p>
+<p>
+<s>
+The
+<char name="Royal Trumpeter">trumpeter's</char>
+hand was already in it.
+</s>
+<s>His fingers grabbed hold of the lump of oobleck.</s>
+<s>
+<figOfSp type="simile">
+He could feel it
+<mUp>squiggle</mUp>
+around in his fist like a slippery potato dumpling made of rubber.
+</figOfSp>
+</s>
+</p>
+<p>
+<s>He pulled with all his might.</s>
+<s>The oobleck began to stretch.</s>
+<s>Then, Gloing! the oobleck snapped back inside the trumpet.</s>
+<s>It yanked his arm back with it right up to the elbow.</s>
+</p>
+<p>
+<s>I can't wiggle a finger! the trumpeter wailed.</s>
+<s>
+Oh,
+<char name="Bartholomew Cubbins">Bartholomew</char>
+what'll I do?
+</s>
+</p>
+<p>
+<s>
+I don't know. And I hate to leave you stuck to your horn. But if you can't warn the people of the
+<place>kingdom</place>
+, I've got to find someone who can!
+</s>
+</p>
+<p>
+<s>
+Out of the room and down the stairs raced
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+. . .
+</s>
+</p>
+<p>
+<s>. . .down to the chamber of the Captain of the Guards.</s>
+<s>The Captain was humming in front of his mirror, combing the ends of his moustache.</s>
+</p>
+<p>
+<s>
+Captain! DO something! shouted
+<char name="Bartholomew Cubbins">Bartholomew</char>
+</s>
+</p>
+<p>
+<s>
+Do something? Why? smiled the
+<char name="Captian">Captain</char>
+.
+</s>
+<s>What's wrong?</s>
+</p>
+<p>
+<s>
+<char name="Captian">Captain</char>
+! Haven't you seen the dreadful
+<mUp>oobleck</mUp>
+? It's coming down now as big as
+<adj>greenish</adj>
+baseballs!
+</s>
+</p>
+<p>
+<s>
+Oh, that stuff, laughed the
+<char name="Captian">Captain</char>
+.
+</s>
+<s>What's so dreadful about that, lad? You know, I think it's rather pretty.</s>
+</p>
+<p>
+<s>
+Captain! pleaded
+<char name="Bartholomew Cubbins">Bartholomew</char>
+</s>
+<s>It's dangerous!</s>
+</p>
+<p>
+<s>
+Nonsense! snorted the
+<char name="Captian">Captain</char>
+.
+</s>
+<s>
+Lad, are you trying to frighten me?
+<char name="Captian">Captains</char>
+, my boy, are afraid of nothing. That stuff's harmless. I'll show you. I'll eat some.
+</s>
+</p>
+<p>
+<s>
+Eat some. . .? gasped
+<char name="Bartholomew Cubbins">Bartholomew</char>
+</s>
+<s>Oh, no!</s>
+</p>
+<p>
+<s>
+But before
+<char name="Bartholomew Cubbins">Bartholomew</char>
+could stop him, the Captain was leaning out his window, scooping up some oobleck on the end of his sword.
+</s>
+</p>
+<p>
+<s>Don't, Captain! DON'T!</s>
+</p>
+<p>
+<s>The Captain did!</s>
+<s>
+By the time
+<char name="Bartholomew Cubbins">Bartholomew</char>
+dragged him back inside the room, his mouth was glued tight shut with oobleck.
+</s>
+<s>He tried to speak, but no words came out.</s>
+<s>All the noble Captain of the Guards could do was blow a lot of little sticky greenish bubbles.</s>
+</p>
+<p>
+<s>
+Forgive me for leaving you,
+<char name="Captian">Captain</char>
+, said
+<char name="Bartholomew Cubbins">Bartholomew</char>
+</s>
+<s>
+But a
+<char name="Captian">captain</char>
+full of bubbles is no help at all.
+</s>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+stretched the poor man out. He left him there on his chamber floor.
+</s>
+</p>
+<p>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+went tearing through the zigzag palace hallways.
+</s>
+<s>
+I'll get the
+<char name="King">King</char>
+'s horse! I'll ride through the country! I'll warn the people of the
+<place>kingdom</place>
+myself!
+</s>
+</p>
+<p>
+<s>
+He pushed open the door that led out to the
+<place>Royal Stables</place>
+.
+</s>
+</p>
+<p>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+stopped.
+</s>
+<s>He could go no farther.</s>
+<s>The awful oobleck was plumping down as big as greenish footballs now!</s>
+</p>
+<p>
+<s>
+Too late to warn the people of the
+<place>kingdom</place>
+!
+</s>
+<s>There were farmers in the fields, getting stuck to hoes and plows.</s>
+<s>Goats were getting stuck to ducks.</s>
+<s>Geese were getting stuck to cows.</s>
+</p>
+<p>
+<s>
+Outside the
+<place>palace</place>
+it was piling up, great
+<adj>greenish</adj>
+tons of oobleck, deeper and deeper on every roof in the land.
+</s>
+</p>
+<p>
+<s>
+There was nothing
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+could do out there.
+</s>
+<s>
+Shaking his head
+<adj>sadly</adj>
+, he stepped back inside.
+</s>
+</p>
+<p>
+<s>But inside, a moment later, it was just as bad as out!</s>
+</p>
+<p>
+<s>
+With an angry roar, the oobleck was suddenly hitting the
+<place>palace</place>
+harder.
+</s>
+<s>
+It was battering and
+<adj>spattering</adj>
+against the walls as big as
+<adj>greenish</adj>
+buckets full of
+<adj>gooey</adj>
+asparagus soup!
+</s>
+</p>
+<p>
+<s>
+Like
+<figOfSp type="simile">
+a sinking sailboat, the whole
+<place>palace</place>
+was springing leaks.
+</figOfSp>
+</s>
+<s>The oobleck was ripping the windows right off their hinges.</s>
+</p>
+<p>
+<s>It was dripping through the ceilings.</s>
+<s>It was rolling down the chimneys.</s>
+<s>It was coming in everywhere. . . even through the keyholes!</s>
+</p>
+<p>
+<s>From every bedroom in the palace came the howls of lords and ladies.</s>
+<s>Frightened, in their nightgowns, they came jumping to their doors.</s>
+</p>
+<p>
+<s>
+Go back to your beds! Get under your blankets!
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+went crying through the halls.
+</s>
+</p>
+<p>
+<s>But nobody paid the slightest attention.</s>
+<s>Everyone in the palace started rushing madly about.</s>
+</p>
+<p>
+<s>
+The
+<char name="Royal Cook">Royal Cook</char>
+rushed down to the royal kitchen.
+</s>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+saw him trapped there, stuck to three stew pots, a tea cup, and a cat!
+</s>
+</p>
+<p>
+<s>
+The
+<char name="Royal Laundress">Royal Laundress</char>
+rushed outside to save her laundry.
+</s>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+saw her, stuck tight to the clothesline, between two woolen stockings and the
+<char name="King">King</char>
+'s best Sunday blouse!
+</s>
+</p>
+<p>
+<s>
+He saw the
+<char name="Royal Fiddlers">Royal Fiddlers</char>
+.
+</s>
+<s>
+They were stuck to their
+<char name="Royal Fiddlers">royal fiddles!</char>
+</s>
+</p>
+<p>
+<s>
+Everywhere
+<char name="Bartholomew Cubbins">Bartholomew</char>
+ran, he saw someone stuck to something!
+</s>
+<s>They were stuck up by the dozens!</s>
+<s>
+Every last friend he had in the world was
+<adj>flopping</adj>
+and
+<adj>floundering</adj>
+, all hopelessly caught in the goo.
+</s>
+</p>
+<p>
+<s>
+Then, suddenly midst the hubbub,
+<char name="Bartholomew Cubbins">Bartholomew</char>
+gasped, The
+<char name="King">King</char>
+!
+</s>
+<s>
+Where was the
+<char name="King">King</char>
+?
+</s>
+<s>He'd forgotten all about him!</s>
+</p>
+<p>
+<s>
+It was in the throne room that
+<char name="Bartholomew Cubbins">Bartholomew</char>
+found him.
+</s>
+<s>
+There he sat. . . Old
+<char name="King">King Derwin</char>
+, proud and mighty ruler of the
+<place>Kingdom</place>
+of Didd, trembling, shaking, helpless as a baby.
+</s>
+</p>
+<p>
+<s>His royal crown was stuck to his royal head.</s>
+<s>The seat of his royal pants were stuck to his royal throne.</s>
+<s>Oobleck was dripping from his royal eyebrows. It was oozing into his royal ears.</s>
+</p>
+<p>
+<s>
+Fetch my
+<char name="magicians">magicians</char>
+,
+<char name="Bartholomew Cubbins">Bartholomew</char>
+he commanded.
+</s>
+<s>Make them say some magic words! Make them stop the oobleck falling!</s>
+</p>
+<p>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+shrugged his shoulders.
+</s>
+<s>
+I can't fetch them, Your
+<char name="King">Majesty</char>
+. Their cave on Mountain Neeka-tave is buried deep in oobleck.
+</s>
+</p>
+<p>
+<s>
+Then I must think of some magic words! groaned the
+<char name="King">King</char>
+.
+</s>
+<s>
+Oh, what are those words my
+<char name="magicians">magicians</char>
+say. . ..? Shuffle. . . duffle. . . muzzle. . . muff. . . That's all I can remember and they don't do any good! The oobleck keeps on falling harder!
+</s>
+</p>
+<p>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+could hold his tongue no longer.
+</s>
+</p>
+<p>
+<s>
+And it's going to keep on falling, he shouted, until your whole
+<adj>great marble</adj>
+<place>palace</place>
+tumbles down! So don't waste your time saying
+<adj>foolish</adj>
+magic words. YOU ought to be saying some plain simple words!
+</s>
+</p>
+<p>
+<s>Simple words. . .? What do you mean, boy?</s>
+</p>
+<p>
+<s>
+I mean, said
+<char name="Bartholomew Cubbins">Bartholomew</char>
+this is all your fault! Now, the least you can do is say the simple words, 'I'm sorry'.
+</s>
+</p>
+<p>
+<s>
+No one had ever talked to the
+<char name="King">King</char>
+like this before.
+</s>
+</p>
+<p>
+<s>
+What! he bellowed. ME. . . ME say I'm sorry!
+<char name="King">Kings</char>
+never say 'I'm sorry!' And I am the mightiest king in all the world!
+</s>
+</p>
+<p>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew</char>
+looked the
+<char name="King">King</char>
+square in the eye.
+</s>
+</p>
+<p>
+<s>You may be a mighty king, he said.</s>
+<s>But you're sitting in oobleck up to your chin. And so is everyone else in your land. And if you won't even say you're sorry, you're no sort of a king at all!</s>
+</p>
+<p>
+<s>
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+turned his back.
+</s>
+<s>He started for the throne room door.</s>
+</p>
+<p>
+<s>
+But then
+<char name="Bartholomew Cubbins">Bartholomew</char>
+heard a great, deep sob.
+</s>
+<s>
+The old
+<char name="King">King</char>
+was crying! Come back
+<char name="Bartholomew Cubbins">Bartholomew Cubbins</char>
+! You're right! It is all my fault! And I am sorry! Oh,
+<char name="Bartholomew Cubbins">Bartholomew</char>
+I'm
+<adj>awfully</adj>
+,
+<adj>awfully</adj>
+sorry!
+</s>
+</p>
+<p>
+<s>
+And the moment the
+<char name="King">King</char>
+spoke those words, something happened. . .
+</s>
+</p>
+<p>
+<s>Maybe there was something magic in those simple words, 'I'm sorry'.</s>
+</p>
+<p>
+<s>Maybe there was something magic in those simple words, 'It's all my fault'.</s>
+</p>
+<p>
+<s>Maybe there was, and maybe there wasn't.</s>
+<s>
+But they say that as soon as the old
+<char name="King">King</char>
+spoke them, the sun began to shine and fight its way through the storm. They say that the falling oobleck blobs grew smaller and smaller and smaller.
+</s>
+</p>
+<p>
+<s>
+They say that all the oobleck that was stuck on all the people and on all the animals of the
+<place> Kingdom of Didd</place>
+just simply,
+<adj>quietly</adj>
+melted away.
+</s>
+</p>
+<p>
+<s>
+And then, they say,
+<char name="Bartholomew Cubbins">Bartholomew</char>
+took the old
+<char name="King">King</char>
+by the sleeve. . .
+</s>
+</p>
+<p>
+<s>. . . and led him up the steps of the high bell tower.</s>
+<s>
+He put the bell rope into His
+<char name="King">Majesty's</char>
+royal hands and the
+<char name="King">King</char>
+himself rang the holiday bell.
+</s>
+</p>
+<p>
+<s>
+Then the
+<char name="King">King</char>
+proclaimed a brand-new national holiday. . . in honor of the four perfect things that come down from the sky.
+</s>
+</p>
+<p>
+<s>
+The
+<char name="King">King</char>
+now knew that these four old-fashioned things. . . the rain, the sunshine, the fog and the snow. . . were good enough for any king in all the world, especially for him, old
+<char name="King">King Derwin</char>
+of
+<place>Didd</place>
+.
+</s>
+</p>
+</body>
+</book>

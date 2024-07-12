@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/piperQueries" version="1" owner="pub81" group="dba" mode="775" created="2021-09-30T14:04:29.715Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="PiperNetNew.xql" skip="no" owner="pub81" group="pub81" mode="755" created="2021-11-30T14:01:28.808Z" modified="2021-11-30T14:01:36.442Z" filename="PiperNetNew.xql" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PiperNetNew" skip="no" owner="pub81" group="pub81" mode="755" created="2021-11-30T14:03:34.887Z" modified="2021-11-30T14:08:04.904Z" filename="PiperNetNew" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PiperNetPoemLabel.xql" skip="no" owner="pub81" group="pub81" mode="755" created="2021-11-30T14:51:15.346Z" modified="2021-11-30T15:37:13.874Z" filename="PiperNetPoemLabel.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PiperNetWordtoPoem.xql" skip="no" owner="pub81" group="pub81" mode="755" created="2021-11-30T22:36:25.057Z" modified="2021-11-30T22:38:11.242Z" filename="PiperNetWordtoPoem.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sampleSmashTiersQuery.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-11-16T14:53:03.27Z" modified="2021-11-16T14:53:03.27Z" filename="sampleSmashTiersQuery.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="scraper.xql" skip="no" owner="pub81" group="pub81" mode="755" created="2021-10-05T14:20:36.156Z" modified="2021-10-05T14:26:10.767Z" filename="scraper.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="piperIndex.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-11-16T15:13:04.964Z" modified="2021-11-16T17:53:41.187Z" filename="piperIndex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="piperNet.xql" skip="no" owner="admin" group="dba" mode="755" created="2021-11-16T14:53:43.847Z" modified="2021-11-18T16:35:44.551Z" filename="piperNet.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

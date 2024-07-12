@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-03-01128-PARID.xml"/>
+		<unifiedCatalogID>2-03-01128</unifiedCatalogID>
+		<creation date="Wed Jun 20 9:38:8 118"/>
+		<processed date="Wed Jun 20 9:38:8 118" ver="v.1.0" auth="Hackett"/>
+		<processed date="Wed Mar  4 15:27:54 2020" ver="v.1.01" auth="Add_witness_nums_PARID v.0.1"/>
+		<processed date="Sun May 31 08:51:28 2020" ver="v.2.00" auth="Hackett"/>
+        <processed date="Wed Jun 03 09:33:08 2020" ver="v.2.01" auth="Hackett"/>
+	</head>
+	<text>
+		<body>
+			<div type="Inventory" id="">
+				<list alignment="Witness">
+					<witness type="Text" col="1" lang="BOD" id="2-03-01128-D2344"/>
+					<witness type="Text" col="2" lang="ENG" id="2-03-01128-ENG01"/>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-01128-CLU000001">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="BOD" id="2-03-01128-D2344-DIV000001">
+						<sentence type="Text Title" id="2-03-01128-D2344-SID000001"/>
+						<sentence type="Text Title" id="2-03-01128-D2344-SID000002"/>
+					</div>
+					<div type="Group" col="2" lang="ENG" id="2-03-01128-ENG01-DIV000001">
+						<sentence type="Text Title" id="2-03-01128-ENG01-SID000001"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-01128-CLU000002">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="BOD" id="2-03-01128-D2344-DIV000002">
+						<sentence type="Homage" id="2-03-01128-D2344-SID000003"/>
+					</div>
+					<div type="Group" col="2" lang="ENG" id="2-03-01128-ENG01-DIV000002">
+						<sentence type="Homage" id="2-03-01128-ENG01-SID000002"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-01128-CLU000003">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="BOD" id="2-03-01128-D2344-DIV000003">
+						<sentence type="Verse" id="2-03-01128-D2344-SID000004"/>
+					</div>
+					<div type="Group" col="2" lang="ENG" id="2-03-01128-ENG01-DIV000003">
+						<sentence type="Verse" id="2-03-01128-ENG01-SID000003"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-01128-CLU000004">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="BOD" id="2-03-01128-D2344-DIV000004">
+						<sentence type="Verse" id="2-03-01128-D2344-SID000005"/>
+					</div>
+					<div type="Group" col="2" lang="ENG" id="2-03-01128-ENG01-DIV000004">
+						<sentence type="Verse" id="2-03-01128-ENG01-SID000004"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-01128-CLU000005">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="BOD" id="2-03-01128-D2344-DIV000005">
+						<sentence type="Verse" id="2-03-01128-D2344-SID000006"/>
+					</div>
+					<div type="Group" col="2" lang="ENG" id="2-03-01128-ENG01-DIV000005">
+						<sentence type="Verse" id="2-03-01128-ENG01-SID000005"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-01128-CLU000006">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="BOD" id="2-03-01128-D2344-DIV000006">
+						<sentence type="Verse" id="2-03-01128-D2344-SID000007"/>
+					</div>
+					<div type="Group" col="2" lang="ENG" id="2-03-01128-ENG01-DIV000006">
+						<sentence type="Verse" id="2-03-01128-ENG01-SID000006"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-01128-CLU000007">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="BOD" id="2-03-01128-D2344-DIV000007">
+						<sentence type="Verse" id="2-03-01128-D2344-SID000008"/>
+					</div>
+					<div type="Group" col="2" lang="ENG" id="2-03-01128-ENG01-DIV000007">
+						<sentence type="Verse" id="2-03-01128-ENG01-SID000007"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-01128-CLU000008">
+				<list alignment="Sentence">
+					<div type="Group" col="1" lang="BOD" id="2-03-01128-D2344-DIV000008">
+						<sentence type="Sentence" id="2-03-01128-D2344-SID000009"/>
+					</div>
+					<div type="Group" col="2" lang="ENG" id="2-03-01128-ENG01-DIV000008">
+						<sentence type="Sentence" id="2-03-01128-ENG01-SID000008"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-01128-CLU000009">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="BOD" id="2-03-01128-D2344-DIV000009">
+						<sentence type="Verse" id="2-03-01128-D2344-SID000010"/>
+					</div>
+					<div type="Group" col="2" lang="ENG" id="2-03-01128-ENG01-DIV000009">
+						<sentence type="Verse" id="2-03-01128-ENG01-SID000009"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-01128-CLU000010">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="BOD" id="2-03-01128-D2344-DIV000010">
+						<sentence type="Verse" id="2-03-01128-D2344-SID000011"/>
+					</div>
+					<div type="Group" col="2" lang="ENG" id="2-03-01128-ENG01-DIV000010">
+						<sentence type="Verse" id="2-03-01128-ENG01-SID000010"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-01128-CLU000011">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="BOD" id="2-03-01128-D2344-DIV000011">
+						<sentence type="Verse" id="2-03-01128-D2344-SID000012"/>
+					</div>
+					<div type="Group" col="2" lang="ENG" id="2-03-01128-ENG01-DIV000011">
+						<sentence type="Verse" id="2-03-01128-ENG01-SID000011"/>
+					</div>
+				</list>
+			</div>
+			<div type="Cluster" id="2-03-01128-CLU000012">
+				<list alignment="Verse">
+					<div type="Group" col="1" lang="BOD" id="2-03-01128-D2344-DIV000012">
+						<sentence type="Sentence" id="2-03-01128-D2344-SID000013"/>
+					</div>
+					<div type="Group" col="2" lang="ENG" id="2-03-01128-ENG01-DIV000012">
+						<sentence type="Sentence" id="2-03-01128-ENG01-SID000012"/>
+					</div>
+				</list>
+			</div>
+		</body>
+	</text>
+</bcrdCorpus>

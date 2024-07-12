@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/00-students-00/gak5275" version="1" owner="gak5275" group="gak5275" mode="755" created="2023-03-20T16:38:24.854Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="kupfer3-20xq2.xq" skip="no" owner="gak5275" group="gak5275" mode="755" created="2023-03-20T16:38:51.087Z" modified="2023-03-20T16:38:51.087Z" filename="kupfer3-20xq2.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="kupfer3-22xq3.xq" skip="no" owner="gak5275" group="gak5275" mode="755" created="2023-03-20T16:43:34.28Z" modified="2023-03-24T04:47:25.874Z" filename="kupfer3-22xq3.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="kupfer3-24xq4.xq" skip="no" owner="gak5275" group="gak5275" mode="755" created="2023-03-24T04:47:54.364Z" modified="2023-03-24T05:56:20.821Z" filename="kupfer3-24xq4.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="kupfer3-24xq4-2.xq" skip="no" owner="gak5275" group="gak5275" mode="755" created="2023-03-24T05:43:12.605Z" modified="2023-03-24T06:28:07.49Z" filename="kupfer3-24xq4-2.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

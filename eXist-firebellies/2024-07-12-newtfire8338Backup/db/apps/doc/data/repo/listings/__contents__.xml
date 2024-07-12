@@ -1,0 +1,39 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/repo/listings" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:55.772Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="listing-7.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.776Z" modified="2021-12-30T05:04:55.776Z" filename="listing-7.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-3.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.781Z" modified="2021-12-30T05:04:55.781Z" filename="listing-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-8.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.782Z" modified="2021-12-30T05:04:55.782Z" filename="listing-8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-2.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.783Z" modified="2021-12-30T05:04:55.783Z" filename="listing-2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-9.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.784Z" modified="2021-12-30T05:04:55.784Z" filename="listing-9.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-11.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.784Z" modified="2021-12-30T05:04:55.784Z" filename="listing-11.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-4.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.785Z" modified="2021-12-30T05:04:55.785Z" filename="listing-4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listing-1.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.786Z" modified="2021-12-30T05:04:55.786Z" filename="listing-1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-5.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.773Z" modified="2021-12-30T05:04:55.773Z" filename="listing-5.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-10.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.777Z" modified="2021-12-30T05:04:55.777Z" filename="listing-10.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-14.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.779Z" modified="2021-12-30T05:04:55.779Z" filename="listing-14.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="listing-6.txt" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.787Z" modified="2021-12-30T05:04:55.787Z" filename="listing-6.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

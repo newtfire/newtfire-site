@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/banksy/XQuery" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:19:49.849Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="timeline.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50.451Z" modified="2020-08-07T21:19:50.451Z" filename="timeline.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="imageVerification.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:49.85Z" modified="2020-08-07T21:19:49.85Z" filename="imageVerification.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyYearMediumNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:49.929Z" modified="2020-08-07T21:19:49.929Z" filename="banksyYearMediumNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:49.997Z" modified="2020-08-07T21:19:49.997Z" filename="banksyNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyNetwork.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50.065Z" modified="2020-08-07T21:19:50.065Z" filename="banksyNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyYearMediumNetwork.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50.135Z" modified="2020-08-07T21:19:50.135Z" filename="banksyYearMediumNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyErrors.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50.201Z" modified="2020-08-07T21:19:50.201Z" filename="banksyErrors.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyCountriesNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50.327Z" modified="2020-08-07T21:19:50.327Z" filename="banksyCountriesNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timeline_eaches.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50.382Z" modified="2020-08-07T21:19:50.382Z" filename="timeline_eaches.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyNameMediumNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50.518Z" modified="2020-08-07T21:19:50.518Z" filename="banksyNameMediumNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyTimeline.tsv" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50.585Z" modified="2020-08-07T21:19:50.585Z" filename="banksyTimeline.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyNameMediumNetwork.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50.644Z" modified="2020-08-07T21:19:50.644Z" filename="banksyNameMediumNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyCountriesNetwork.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50.701Z" modified="2020-08-07T21:19:50.701Z" filename="banksyCountriesNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyNamesByYear.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50.777Z" modified="2020-08-07T21:19:50.777Z" filename="banksyNamesByYear.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="banksyKML.xql" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:19:50.843Z" modified="2020-08-07T21:19:50.843Z" filename="banksyKML.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

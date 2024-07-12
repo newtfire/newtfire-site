@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/00-students-00/yxj5181" version="1" owner="yxj5181" group="dh-group" mode="775" created="2023-03-13T05:04:28.414Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="XQuerySample2-drb.xql" skip="no" owner="yxj5181" group="yxj5181" mode="664" created="2023-03-13T05:04:28.928Z" modified="2023-03-13T05:04:28.928Z" filename="XQuerySample2-drb.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drb-SVG-btreesExample.xql" skip="no" owner="yxj5181" group="yxj5181" mode="664" created="2023-03-13T05:04:28.847Z" modified="2023-03-13T05:04:28.847Z" filename="drb-SVG-btreesExample.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuerySample1" skip="no" owner="yxj5181" group="yxj5181" mode="664" created="2023-03-13T05:04:28.68Z" modified="2023-03-13T05:04:28.68Z" filename="XQuerySample1" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drb-btreesExample.xql" skip="no" owner="yxj5181" group="yxj5181" mode="664" created="2023-03-13T05:04:28.608Z" modified="2023-03-13T05:04:28.608Z" filename="drb-btreesExample.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="btree.xql" skip="no" owner="yxj5181" group="yxj5181" mode="664" created="2023-03-13T05:04:28.527Z" modified="2023-03-13T05:04:28.527Z" filename="btree.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="XQuerySample2.xql" skip="no" owner="yxj5181" group="yxj5181" mode="664" created="2023-03-13T05:04:29.003Z" modified="2023-03-13T05:04:29.003Z" filename="XQuerySample2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drb-btreeDeDup.xql" skip="no" owner="yxj5181" group="yxj5181" mode="664" created="2023-03-13T05:04:28.416Z" modified="2023-03-13T05:04:28.416Z" filename="drb-btreeDeDup.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

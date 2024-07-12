@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/development-starter/assets" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:56.409Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="new-application-completed.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:56.41Z" modified="2021-12-30T05:04:56.41Z" filename="new-application-completed.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="new-application-screen.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:56.413Z" modified="2021-12-30T05:04:56.413Z" filename="new-application-screen.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="new-application-home.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:56.416Z" modified="2021-12-30T05:04:56.416Z" filename="new-application-home.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="new-application-run.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:56.419Z" modified="2021-12-30T05:04:56.419Z" filename="new-application-run.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sync-dialog.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:56.421Z" modified="2021-12-30T05:04:56.421Z" filename="sync-dialog.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Templating.png" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:56.424Z" modified="2021-12-30T05:04:56.424Z" filename="Templating.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

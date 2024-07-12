@@ -1,0 +1,36 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/brandnew/XML/Albums/DejaEntendu" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:23:41.29Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="playCrackTheSky.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:41.291Z" modified="2021-12-30T05:23:41.291Z" filename="playCrackTheSky.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="theBoyWhoBlockedHisOwnShot.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:41.356Z" modified="2021-12-30T05:23:41.356Z" filename="theBoyWhoBlockedHisOwnShot.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jawsThemeSwimming.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:41.421Z" modified="2021-12-30T05:23:41.421Z" filename="jawsThemeSwimming.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="meVsMaradonaVsElvis.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:41.481Z" modified="2021-12-30T05:23:41.481Z" filename="meVsMaradonaVsElvis.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tautou.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:41.543Z" modified="2021-12-30T05:23:41.543Z" filename="tautou.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="goodToKnowThatIfIEverNeedAttentionAllIHaveToDoIsDie.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:41.606Z" modified="2021-12-30T05:23:41.606Z" filename="goodToKnowThatIfIEverNeedAttentionAllIHaveToDoIsDie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="iWillPlayMyGameBeneathTheSpinLight.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:41.739Z" modified="2021-12-30T05:23:41.739Z" filename="iWillPlayMyGameBeneathTheSpinLight.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sicTransitGloriaGloryFades.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:41.809Z" modified="2021-12-30T05:23:41.809Z" filename="sicTransitGloriaGloryFades.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="okayIBelieveYouButMyTommyGunDont.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:41.913Z" modified="2021-12-30T05:23:41.913Z" filename="okayIBelieveYouButMyTommyGunDont.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="guernica.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:41.973Z" modified="2021-12-30T05:23:41.973Z" filename="guernica.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="theQuietThingsThatNoOneEverKnows.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:23:42.035Z" modified="2021-12-30T05:23:42.035Z" filename="theQuietThingsThatNoOneEverKnows.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

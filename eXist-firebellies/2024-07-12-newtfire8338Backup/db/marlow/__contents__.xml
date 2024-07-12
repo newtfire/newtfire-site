@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/marlow" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:25:28.598Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="EMED-2Tam-3.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:28.599Z" modified="2021-12-30T05:25:28.599Z" filename="EMED-2Tam-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="EMED-DrFaust-3.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:33.052Z" modified="2021-12-30T05:25:33.052Z" filename="EMED-DrFaust-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="EMED-Dido-3.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:36.873Z" modified="2021-12-30T05:25:36.873Z" filename="EMED-Dido-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="EMED-MP-3.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:40.36Z" modified="2021-12-30T05:25:40.36Z" filename="EMED-MP-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="EMED-JoM-3.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:45.785Z" modified="2021-12-30T05:25:45.785Z" filename="EMED-JoM-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="EMED-1Tam-3.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:51.048Z" modified="2021-12-30T05:25:51.048Z" filename="EMED-1Tam-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="EMED-Ed2-3.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:56.775Z" modified="2021-12-30T05:25:56.775Z" filename="EMED-Ed2-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

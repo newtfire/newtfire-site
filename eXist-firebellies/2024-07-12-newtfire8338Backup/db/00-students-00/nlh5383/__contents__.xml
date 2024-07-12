@@ -1,0 +1,37 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/00-students-00/nlh5383" version="1" owner="nlh5383" group="nlh5383" mode="755" created="2023-03-23T22:10:36.736Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="exercise_2.xql" skip="no" owner="nlh5383" group="nlh5383" mode="755" created="2023-03-23T22:11:47.493Z" modified="2023-03-23T22:11:47.493Z" filename="exercise_2.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="person-file-net.tsv" skip="no" owner="admin" group="dba" mode="644" created="2023-04-30T22:55:22.574Z" modified="2023-04-30T22:55:22.574Z" filename="person-file-net.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="person-file-net.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-04-30T22:53:41.963Z" modified="2023-04-30T22:55:32.3Z" filename="person-file-net.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exercise_3.xql" skip="no" owner="nlh5383" group="nlh5383" mode="755" created="2023-03-23T22:30:46.084Z" modified="2023-03-23T22:52:14.697Z" filename="exercise_3.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ent-file-net.tsv" skip="no" owner="admin" group="dba" mode="644" created="2023-04-30T23:28:35.692Z" modified="2023-04-30T23:39:51.698Z" filename="ent-file-net.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="entity-file-net.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-04-30T22:58:49.372Z" modified="2023-05-01T00:56:27.261Z" filename="entity-file-net.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="entity3-file-net.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-05-02T19:23:06.635Z" modified="2023-05-02T19:33:30.747Z" filename="entity3-file-net.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ent3-file-net.tsv" skip="no" owner="admin" group="dba" mode="644" created="2023-05-02T19:33:50.453Z" modified="2023-05-02T19:33:50.453Z" filename="ent3-file-net.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exercise_4.xql" skip="no" owner="nlh5383" group="nlh5383" mode="755" created="2023-03-27T16:22:47.924Z" modified="2023-03-27T16:22:47.924Z" filename="exercise_4.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ent2-file-net.tsv" skip="no" owner="admin" group="dba" mode="644" created="2023-05-01T00:52:04.429Z" modified="2023-05-02T19:36:06.922Z" filename="ent2-file-net.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="exercise_5.xql" skip="no" owner="nlh5383" group="nlh5383" mode="755" created="2023-03-27T18:48:30.518Z" modified="2023-03-27T18:48:30.518Z" filename="exercise_5.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="myOutput" filename="myOutput"/>
+</collection>

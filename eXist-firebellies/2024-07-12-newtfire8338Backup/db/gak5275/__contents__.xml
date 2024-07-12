@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/gak5275" version="1" owner="gak5275" group="gak5275" mode="755" created="2023-03-17T00:51:48.853Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="kupfer3-17xq1.xq" skip="no" owner="gak5275" group="gak5275" mode="755" created="2023-03-17T00:52:38.04Z" modified="2023-03-20T16:37:53.503Z" filename="kupfer3-17xq1.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

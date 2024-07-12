@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/00-students-00/nlh5383/myOutput" version="1" owner="nlh5383" group="nlh5383" mode="755" created="2023-03-27T18:46:52.353Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="bluesArtistTable.html" skip="no" owner="nlh5383" group="nlh5383" mode="644" created="2023-03-27T18:51:15.27Z" modified="2023-03-30T16:50:26.483Z" filename="bluesArtistTable.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

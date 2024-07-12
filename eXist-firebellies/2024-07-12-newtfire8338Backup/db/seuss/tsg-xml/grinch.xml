@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="rhyme" type="moral" date="1957"/>
+<title>How the Grinch Stole Christmas</title>
+<body>
+<stanza>
+<l>Every Who Down in Who-ville Liked Christmas a lot...</l>
+</stanza>
+<stanza>
+<l>
+But the
+<char name="Grinch">Grinch</char>
+,
+</l>
+<l>Who lived just north of Who-ville,</l>
+<l>Did NOT!</l>
+</stanza>
+<stanza>
+<l>
+The
+<char name="Grinch">Grinch</char>
+hated Christmas! The whole Christmas
+<rym sch="mixed"> season!</rym>
+</l>
+<l>
+Now, please don't ask why. No one quite knows the
+<rym sch="mixed">reason.</rym>
+</l>
+<l>
+It could be his head wasn't screwed on just
+<rym sch="mixed"> right.</rym>
+</l>
+<l>
+It could be, perhaps, that his shoes were too
+<rym sch="mixed">tight.</rym>
+</l>
+<l>
+But I think that the most likely reason of
+<rym sch="mixed">all,</rym>
+</l>
+<l>
+May have been that his heart was two sizes too
+<rym sch="mixed">small.</rym>
+</l>
+</stanza>
+<stanza>
+<l>But,</l>
+<l>
+Whatever the
+<rym sch="mixed">reason,</rym>
+</l>
+<l>
+His heart or his
+<rym sch="mixed">shoes,</rym>
+</l>
+<l>
+He stood there on Christmas Eve, hating the
+<char name="Whos">Whos</char>
+,
+</l>
+<l>
+Staring down from his cave with a sour,
+<char name="Grinch">Grinch</char>
+y frown,
+</l>
+<l>
+At the warm lighted windows below in their
+<rym sch="mixed">town.</rym>
+</l>
+<l>
+For he knew every Who down in Who-ville
+<rym sch="mixed">beneath,</rym>
+</l>
+<l>
+Was busy now, hanging a mistletoe
+<rym sch="mixed">wreath.</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+"And they're hanging their stockings!" he snarled with a
+<rym sch="mixed">sneer,</rym>
+</l>
+<l>
+"Tomorrow is Christmas! It's practically
+<rym sch="mixed">here!"</rym>
+</l>
+<l>
+Then he growled, with his
+<char name="Grinch">Grinch</char>
+fingers nervously
+<rym sch="mixed">drumming,</rym>
+</l>
+<l>
+"I MUST find some way to stop Christmas from
+<rym sch="mixed">coming!"</rym>
+</l>
+</stanza>
+<stanza>
+<l>For,</l>
+<l>Tomorrow, he knew...</l>
+</stanza>
+<stanza>
+<l>...All the Who girls and boys,</l>
+<l>Would wake bright and early. They'd rush for their toys!</l>
+<l>
+And then! Oh, the noise!
+<rym sch="mixed">Oh, the Noise! Noise! Noise! Noise!</rym>
+</l>
+<l>
+That's one thing he hated!
+<rym sch="mixed">The NOISE! NOISE! NOISE! NOISE!</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+Then the
+<char name="Whos">Whos</char>
+, young and old, would sit down to a
+<rym sch="mixed">feast.</rym>
+</l>
+<l>
+And they'd feast! And they'd
+<rym sch="mixed">feast!</rym>
+</l>
+<l>
+And they'd FEAST! FEAST! FEAST!
+<rym sch="mixed">FEAST!</rym>
+</l>
+<l>
+They would feast on Who-pudding, and rare Who-roast
+<rym sch="mixed">beast.</rym>
+</l>
+<l>
+Which was something the
+<char name="Grinch">Grinch</char>
+couldn't stand in the
+<rym sch="mixed">least!</rym>
+</l>
+</stanza>
+<stanza>
+<l>And THEN</l>
+<l>They'd do something</l>
+<l>He liked least of all!</l>
+<l>Every Who down in Who-ville,the tall and the small,</l>
+<l>
+Would stand close together, with Christmas bells
+<rym sch="mixed"> ringing.</rym>
+</l>
+<l>
+They'd stand hand-in-hand. And the
+<char name="Whos">Whos</char>
+would start
+<rym sch="mixed">singing!</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+They'd sing! And they'd
+<rym sch="mixed">sing!</rym>
+</l>
+<l>
+AND they'd SING! SING! SING!
+<rym sch="mixed">SING!</rym>
+</l>
+<l>
+And the more the
+<char name="Grinch">Grinch</char>
+thought of this Who-Christmas-
+<rym sch="mixed">Sing,</rym>
+</l>
+<l>
+The more the
+<char name="Grinch">Grinch</char>
+thought, "I must stop this whole
+<rym sch="mixed">thing!"</rym>
+</l>
+<l>"Why, for fifty-three years I've put up with it now!"</l>
+<l>"I MUST stop this Christmas from coming!</l>
+<l>...But HOW?"</l>
+</stanza>
+<stanza>
+<l>Then he got an idea!</l>
+<l>An awful idea!</l>
+<l>
+THE
+<char name="Grinch">Grinch</char>
+</l>
+<l>GOT A WONDERFUL, AWFUL IDEA!</l>
+</stanza>
+<stanza>
+<l>
+"I know just what to do!" The
+<char name="Grinch">Grinch</char>
+laughed in his
+<rym sch="mixed">throat.</rym>
+</l>
+<l>
+And he made a quick Santy Claus hat and a
+<rym sch="mixed">coat.</rym>
+</l>
+<l>
+And he chuckled, and clucked, "What a great
+<char name="Grinch">Grinch</char>
+y
+<rym sch="mixed">trick!"</rym>
+</l>
+<l>
+"With this coat and this hat, I look just like Saint
+<rym sch="mixed">Nick!"</rym>
+</l>
+</stanza>
+<stanza>
+<l>"All I need is a reindeer..."</l>
+<l>
+The
+<char name="Grinch">Grinch</char>
+looked
+<rym sch="mixed">around.</rym>
+</l>
+<l>
+But, since reindeer are scarce, there was none to be
+<rym sch="mixed">found.</rym>
+</l>
+<l>
+Did that stop the old
+<char name="Grinch">Grinch</char>
+...?
+</l>
+<l>
+No! The
+<char name="Grinch">Grinch</char>
+simply
+<rym sch="mixed"> said,</rym>
+</l>
+<l>
+"If I can't find a reindeer, I'll make one
+<rym sch="mixed"> instead!"</rym>
+</l>
+<l>
+So he called his dog,
+<char name="Max">Max</char>
+. Then he took some red
+<rym sch="mixed">thread,</rym>
+</l>
+<l>
+And he tied a big horn on the top of his
+<rym sch="mixed">head.</rym>
+</l>
+</stanza>
+<stanza>
+<l>THEN</l>
+<l>
+He loaded some
+<rym sch="mixed"> bags</rym>
+</l>
+<l>
+And some old empty
+<rym sch="mixed">sacks,</rym>
+</l>
+<l>On a ramshackle sleigh</l>
+<l>
+And he hitched up old
+<char name="Max">Max</char>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+Then the
+<char name="Grinch">Grinch</char>
+said, "Giddap!"
+</l>
+<l>And the sleigh started down</l>
+<l>
+Toward the homes where the
+<char name="Whos">Whos</char>
+</l>
+<l>Lay a-snooze in their town.</l>
+</stanza>
+<stanza>
+<l>
+All their windows were dark. Quiet snow filled the
+<rym sch="mixed">air.</rym>
+</l>
+<l>
+All the
+<char name="Whos">Whos</char>
+were all dreaming sweet dreams without
+<rym sch="mixed">care.</rym>
+</l>
+<l>
+When he came to the first little house on the
+<rym sch="mixed">vsquare.</rym>
+</l>
+<l>
+"This is stop number one," the old
+<char name="Grinch">Grinch</char>
+y Claus hissed
+</l>
+<l>And he climbed to the roof, empty bags in his fist.</l>
+</stanza>
+<stanza>
+<l>Then he slid down the chimney. A rather tight pinch.</l>
+<l>
+But, if Santa could do it, then so could the
+<char name="Grinch">Grinch</char>
+.
+</l>
+<l>He got stuck only once, for a moment or two.</l>
+<l>Then he stuck his head out of the fireplace flue.</l>
+<l>Where the little Who stockings all hung in a row.</l>
+<l>"These stockings," he grinned, "are the first things to go!"</l>
+</stanza>
+<stanza>
+<l>
+Then he slithered and slunk, with a smile most
+<rym sch="mixed">unpleasant,</rym>
+</l>
+<l>
+Around the whole room, and he took every
+<rym sch="mixed">present!</rym>
+</l>
+<l>
+Pop guns! And bicycles! Roller skates!
+<rym sch="mixed">Drums!</rym>
+</l>
+<l>
+Checkerboards! Tricycles! Popcorn! And
+<rym sch="mixed">plums!</rym>
+</l>
+<l>
+And he stuffed them in bags. Then the
+<char name="Grinch">Grinch</char>
+, very
+<rym sch="mixed"> nimbly,</rym>
+</l>
+<l>
+Stuffed all the bags, one by one, up the
+<rym sch="mixed">chimbley!</rym>
+</l>
+</stanza>
+<stanza>
+<l>Then he slunk to the icebox.</l>
+<l>
+He took the
+<char name="Whos">Whos</char>
+' feast!
+</l>
+<l>He took the Who-pudding!</l>
+<l>He took the roast beast!</l>
+<l>
+He cleaned out that icebox as quick as a
+<rym sch="mixed">flash.</rym>
+</l>
+<l>
+Why, that
+<char name="Grinch">Grinch</char>
+even took their last can of
+<rym sch="mixed">Who-hash!</rym>
+</l>
+</stanza>
+<stanza>
+<l>Then he stuffed all the food up the chimney with glee.</l>
+<l>
+"And NOW!" grinned the
+<char name="Grinch">Grinch</char>
+,
+</l>
+<l>"I will stuff up the tree!"</l>
+</stanza>
+<stanza>
+<l>
+And the
+<char name="Grinch">Grinch</char>
+grabbed the tree, and he started to
+<rym sch="mixed">shove,</rym>
+</l>
+<l>
+When he heard a small sound like the coo of a
+<rym sch="mixed">dove.</rym>
+</l>
+<l>
+He turned around fast, and he saw a small
+<rym sch="mixed">Who!</rym>
+</l>
+<l>
+Little
+<char name="Cindy-Lou">Cindy-Lou Who</char>
+, who was not more than
+<rym sch="mixed">two.</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+The
+<char name="Grinch">Grinch</char>
+had been caught by this tiny Who
+<rym sch="mixed">daughter,</rym>
+</l>
+<l>
+Who'd got out of bed for a cup of cold
+<rym sch="mixed">water.</rym>
+</l>
+<l>
+She stared at the
+<char name="Grinch">Grinch</char>
+and said, "Santy Claus, why,
+</l>
+<l>"Why are you taking our Christmas tree? WHY?"Cindy </l>
+</stanza>
+<stanza>
+<l>
+But, you know, that old
+<char name="Grinch">Grinch</char>
+was so smart and so
+<rym sch="mixed">slick,</rym>
+</l>
+<l>
+He thought up a lie, and he thought it up
+<rym sch="mixed">quick!</rym>
+</l>
+<l>
+"Why, my sweet little tot," the fake Santy Claus
+<rym sch="mixed">lied,</rym>
+</l>
+<l>
+"There's a light on this tree that won't light on one
+<rym sch="mixed">side."</rym>
+</l>
+<l>
+"So I'm taking it home to my workshop, my
+<rym sch="mixed">dear."</rym>
+</l>
+<l>
+"I'll fix it up there. Then I'll bring it back
+<rym sch="mixed">here."</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+And his fib fooled the child. Then he patted her
+<rym sch="mixed">head,</rym>
+</l>
+<l>
+And he got her a drink and he sent her to
+<rym sch="mixed">bed.</rym>
+</l>
+<l>
+And when
+<char name="Cindy-Lou">Cindy-Lou Who</char>
+went to bed with her
+<rym sch="mixed">cup,</rym>
+</l>
+<l>
+HE went to the chimney and stuffed the tree
+<rym sch="mixed">up!</rym>
+</l>
+</stanza>
+<stanza>
+<l>Then the last thing he took</l>
+<l>
+Was the log for their
+<rym sch="mixed">fire!</rym>
+</l>
+<l>
+Then he went up the chimney, himself, the old
+<rym sch="mixed">liar.</rym>
+</l>
+<l>
+On their walls he left nothing but hooks and some
+<rym sch="mixed"> wire.</rym>
+</l>
+</stanza>
+<stanza>
+<l>And the one speck of food</l>
+<l>
+That he left in the
+<rym sch="mixed">house,</rym>
+</l>
+<l>
+Was a crumb that was even too small for a
+<rym sch="mixed">mouse.</rym>
+</l>
+</stanza>
+<stanza>
+<l>THEN</l>
+<l>He did the same thing</l>
+<l>
+To the other
+<char name="Whos">Whos</char>
+' houses
+</l>
+</stanza>
+<stanza>
+<l>Leaving crumbs</l>
+<l>Much too small</l>
+<l>
+For the other
+<char name="Whos">Whos</char>
+' mouses!
+</l>
+</stanza>
+<stanza>
+<l>It was quarter past dawn...</l>
+<l>
+All the
+<char name="Whos">Whos</char>
+, still a-bed,
+</l>
+<l>
+All the
+<char name="Whos">Whos</char>
+, still asnooze
+</l>
+<l>When he packed up his sled,</l>
+<l>
+Packed it up with their presents
+<rym sch="mixed">! The ribbons! The wrappings!</rym>
+</l>
+<l>
+The tags! And the tinsel
+<rym sch="mixed">! The trimmings! The trappings!</rym>
+</l>
+</stanza>
+<stanza>
+<l>Three thousand feet up! Up the side of Mt. Crumpit,</l>
+<l>He rode with his load to the tiptop to dump it!</l>
+<l>
+"PoohPooh to the
+<char name="Whos">Whos</char>
+!" he was
+<char name="Grinch">Grinch</char>
+ishly
+<rym sch="mixed">humming.</rym>
+</l>
+<l>
+"They're finding out now that no Christmas is
+<rym sch="mixed">coming!"</rym>
+</l>
+<l>
+"They're just waking up! I know just what they'll
+<rym sch="mixed">do!"</rym>
+</l>
+<l>
+"Their mouths will hang open a minute or
+<rym sch="mixed">two</rym>
+</l>
+<l>
+Then the
+<char name="Whos">Whos</char>
+down in Who-ville will all cry
+<rym sch="mixed"> BooHoo!"</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+"That's a noise," grinned the
+<char name="Grinch">Grinch</char>
+,
+</l>
+<l>"That I simply MUST hear!"</l>
+<l>
+So he paused. And the
+<char name="Grinch">Grinch</char>
+put his hand to his ear.
+</l>
+<l>
+And he did hear a sound rising over the
+<rym sch="mixed">snow.</rym>
+</l>
+<l>
+It started in low. Then it started to
+<rym sch="mixed">grow...</rym>
+</l>
+</stanza>
+<stanza>
+<l>But the sound wasn't sad!</l>
+<l>Why, this sound sounded merry!</l>
+<l>It couldn't be so!</l>
+<l>But it WAS merry! VERY!</l>
+</stanza>
+<stanza>
+<l>He stared down at Who-ville!</l>
+<l>
+The
+<char name="Grinch">Grinch</char>
+popped his eyes!
+</l>
+<l>Then he shook!</l>
+<l>What he saw was a shocking surprise!</l>
+</stanza>
+<stanza>
+<l>
+Every Who down in Who-ville, the tall and the
+<rym sch="mixed">small,</rym>
+</l>
+<l>
+Was singing! Without any presents at
+<rym sch="mixed">all!</rym>
+</l>
+</stanza>
+<stanza>
+<l>He HADN'T stopped Christmas from coming!</l>
+<l>IT CAME!</l>
+<l>Somehow or other, it came just the same!</l>
+</stanza>
+<stanza>
+<l>
+And the
+<char name="Grinch">Grinch</char>
+, with his
+<char name="Grinch">Grinch</char>
+-feet ice-cold in the snow,
+</l>
+<l>Stood puzzling and puzzling: "How could it be so?"</l>
+<l>
+"It came with out ribbons! It came without
+<rym sch="mixed">tags!"</rym>
+</l>
+<l>
+"It came without packages, boxes or
+<rym sch="mixed"> bags!"</rym>
+</l>
+<l>
+And he puzzled three hours, till his puzzler was
+<rym sch="mixed"> sore.</rym>
+</l>
+<l>
+Then the
+<char name="Grinch">Grinch</char>
+thought of something he hadn't
+<rym sch="mixed">before!</rym>
+</l>
+<l>
+"Maybe Christmas," he thought, "doesn't come from a
+<rym sch="mixed">store."</rym>
+</l>
+<l>
+"Maybe Christmas...perhaps...means a little bit
+<rym sch="mixed">more!"</rym>
+</l>
+</stanza>
+<stanza>
+<l>And what happened then...?</l>
+<l>Well...in Who-ville they say,</l>
+<l>
+That the
+<char name="Grinch">Grinch</char>
+'s small heart
+</l>
+<l>Grew three sizes that day!</l>
+<l>
+And the minute his heart didn't feel quite so
+<rym sch="mixed"> tight,</rym>
+</l>
+<l>
+He whizzed with his load through the bright morning
+<rym sch="mixed">light,</rym>
+</l>
+<l>
+And he brought back the toys! And the food for the
+<rym sch="mixed">feast!</rym>
+</l>
+<l>And he...</l>
+</stanza>
+<stanza>
+<l>...HE HIMSELF...!</l>
+<l>
+The
+<char name="Grinch">Grinch</char>
+carved the roast beast!
+</l>
+</stanza>
+</body>
+</book>

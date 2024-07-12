@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!-- Lucene index is configured below -->
+        <lucene>
+            <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
+            <analyzer id="ws" class="org.apache.lucene.analysis.WhitespaceAnalyzer"/>
+            <text qname="xml"/>
+            <text qname="ent"/>
+        </lucene>
+        <ngram qname="xml"/>
+        <ngram qname="ent"/>
+        <create qname="@n" type="xs:string"/>
+        <create qname="xml ! base-uri() ! tokenize(., '/')[last()] ! substring-before(., '.xml')" type="xs:string"/>
+    </index>
+</collection>

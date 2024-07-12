@@ -1,0 +1,42 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/teentitans/season1" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:29:23.158Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="s1_episode-7.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:23.159Z" modified="2021-12-30T05:29:23.159Z" filename="s1_episode-7.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-6.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:23.333Z" modified="2021-12-30T05:29:23.333Z" filename="s1_episode-6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-4.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:23.44Z" modified="2021-12-30T05:29:23.44Z" filename="s1_episode-4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-5.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:23.55Z" modified="2021-12-30T05:29:23.55Z" filename="s1_episode-5.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-1.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:23.656Z" modified="2021-12-30T05:29:23.656Z" filename="s1_episode-1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-2.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:23.768Z" modified="2021-12-30T05:29:23.768Z" filename="s1_episode-2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-3.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:23.923Z" modified="2021-12-30T05:29:23.923Z" filename="s1_episode-3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-12.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:24.026Z" modified="2021-12-30T05:29:24.026Z" filename="s1_episode-12.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-13.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:24.135Z" modified="2021-12-30T05:29:24.135Z" filename="s1_episode-13.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-11.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:24.263Z" modified="2021-12-30T05:29:24.263Z" filename="s1_episode-11.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-10.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:24.374Z" modified="2021-12-30T05:29:24.374Z" filename="s1_episode-10.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-8.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:24.551Z" modified="2021-12-30T05:29:24.551Z" filename="s1_episode-8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="s1_episode-9.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:29:24.661Z" modified="2021-12-30T05:29:24.661Z" filename="s1_episode-9.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

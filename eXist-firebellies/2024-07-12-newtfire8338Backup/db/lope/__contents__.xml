@@ -1,0 +1,31 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/lope" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:25:21.469Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Lope_persons_for_tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:21.47Z" modified="2021-12-30T05:25:21.47Z" filename="Lope_persons_for_tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lope_emo_network.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:21.533Z" modified="2021-12-30T05:25:21.533Z" filename="lope_emo_network.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lope_emo_distEmos.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:21.663Z" modified="2021-12-30T05:25:21.663Z" filename="lope_emo_distEmos.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lopePersonsOutput.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:21.898Z" modified="2021-12-30T05:25:21.898Z" filename="lopePersonsOutput.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lope_emo_cardinality_err.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:22.844Z" modified="2021-12-30T05:25:22.844Z" filename="lope_emo_cardinality_err.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Lope_persons_for_tsv.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:22.98Z" modified="2021-12-30T05:25:22.98Z" filename="Lope_persons_for_tsv.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lopeEmoNetwork2.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:24.259Z" modified="2021-12-30T05:25:24.259Z" filename="lopeEmoNetwork2.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="violence_list.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:24.383Z" modified="2021-12-30T05:25:24.383Z" filename="violence_list.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lopeEmoNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:24.508Z" modified="2021-12-30T05:25:24.508Z" filename="lopeEmoNetwork.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="plays" filename="plays"/>
+</collection>

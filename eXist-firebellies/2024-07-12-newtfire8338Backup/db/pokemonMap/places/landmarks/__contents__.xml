@@ -1,0 +1,45 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/pokemonMap/places/landmarks" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:26:58.995Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="CeladonGameCorner.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:58.996Z" modified="2021-12-30T05:26:58.996Z" filename="CeladonGameCorner.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CeruleanCave.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:59.058Z" modified="2021-12-30T05:26:59.058Z" filename="CeruleanCave.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="KantoPowerPlant.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:59.119Z" modified="2021-12-30T05:26:59.119Z" filename="KantoPowerPlant.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PokemonMansion.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:59.179Z" modified="2021-12-30T05:26:59.179Z" filename="PokemonMansion.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="VictoryRoad.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:59.243Z" modified="2021-12-30T05:26:59.243Z" filename="VictoryRoad.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="IndigoPlateau.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:59.371Z" modified="2021-12-30T05:26:59.371Z" filename="IndigoPlateau.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DiglettsCave.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:59.435Z" modified="2021-12-30T05:26:59.435Z" filename="DiglettsCave.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="MtMoon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:59.498Z" modified="2021-12-30T05:26:59.498Z" filename="MtMoon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PokemonTower.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:59.56Z" modified="2021-12-30T05:26:59.56Z" filename="PokemonTower.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SilphCo.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:59.623Z" modified="2021-12-30T05:26:59.623Z" filename="SilphCo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SeafoamIsland.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:59.704Z" modified="2021-12-30T05:26:59.704Z" filename="SeafoamIsland.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ViridianForest.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:59.766Z" modified="2021-12-30T05:26:59.766Z" filename="ViridianForest.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="RockTunnel.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:59.827Z" modified="2021-12-30T05:26:59.827Z" filename="RockTunnel.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SafariZone.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:59.888Z" modified="2021-12-30T05:26:59.888Z" filename="SafariZone.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

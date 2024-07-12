@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/mayan" version="1" owner="mqb5995" group="dba" mode="775" created="2021-10-04T04:58:14.103Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="mayan" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="PV_characterIndex.xml" skip="no" owner="mqb5995" group="mayan" mode="7776" created="2021-10-04T19:18:43.539Z" modified="2021-11-17T20:01:20.616Z" filename="PV_characterIndex.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="popolVuh.xml" skip="no" owner="mqb5995" group="mayan" mode="7776" created="2021-10-06T18:52:26.995Z" modified="2021-12-06T04:21:20.34Z" filename="popolVuh.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sitesIndex.xml" skip="no" owner="mqb5995" group="mayan" mode="6774" created="2021-10-15T15:02:15.672Z" modified="2021-11-17T20:01:29.978Z" filename="sitesIndex.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

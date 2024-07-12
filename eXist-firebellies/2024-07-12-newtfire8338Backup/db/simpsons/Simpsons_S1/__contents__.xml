@@ -1,0 +1,48 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/simpsons/Simpsons_S1" version="1" owner="admin" group="dba" mode="755" created="2023-04-17T12:44:09.115Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Season_1_Episode_4_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:09.117Z" modified="2023-04-17T12:44:09.117Z" filename="Season_1_Episode_4_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_1_Episode_8_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:09.198Z" modified="2023-04-17T12:44:09.198Z" filename="Season_1_Episode_8_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_1_Episode_9_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:09.39Z" modified="2023-04-17T12:44:09.39Z" filename="Season_1_Episode_9_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_1_Episode_5_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:09.478Z" modified="2023-04-17T12:44:09.478Z" filename="Season_1_Episode_5_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_1_Episode_10_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:09.564Z" modified="2023-04-17T12:44:09.564Z" filename="Season_1_Episode_10_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_1_Episode10_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:09.661Z" modified="2023-04-17T12:44:09.661Z" filename="Season_1_Episode10_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_1_Episode_2_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:09.751Z" modified="2023-04-17T12:44:09.751Z" filename="Season_1_Episode_2_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_1_Episode_3_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:09.835Z" modified="2023-04-17T12:44:09.835Z" filename="Season_1_Episode_3_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_1_Episode_11_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:09.918Z" modified="2023-04-17T12:44:09.918Z" filename="Season_1_Episode_11_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_1_Episode_12_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:10Z" modified="2023-04-17T12:44:10Z" filename="Season_1_Episode_12_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_1_Episode_1_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:10.079Z" modified="2023-04-17T12:44:10.079Z" filename="Season_1_Episode_1_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_1_Episode_13_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:10.163Z" modified="2023-04-17T12:44:10.163Z" filename="Season_1_Episode_13_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_1_Episode_6_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:10.242Z" modified="2023-04-17T12:44:10.242Z" filename="Season_1_Episode_6_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_1_Episode_7_.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:10.319Z" modified="2023-04-17T12:44:10.319Z" filename="Season_1_Episode_7_.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name=".DS_Store" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T12:44:09.295Z" modified="2023-04-17T12:44:09.295Z" filename=".DS_Store" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

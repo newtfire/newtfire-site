@@ -1,0 +1,66 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/simpsons/Simpsons_S30" version="1" owner="admin" group="dba" mode="755" created="2023-04-17T13:08:07.278Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Season_30_Episode_07-Werking_Mom.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:07.355Z" modified="2023-04-17T13:08:07.355Z" filename="Season_30_Episode_07-Werking_Mom.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_21-D'oh_Canada.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:07.438Z" modified="2023-04-17T13:08:07.438Z" filename="Season_30_Episode_21-D'oh_Canada.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_20-I'm_Just_a_Girl_Who_Can't_Say_D'oh.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:07.514Z" modified="2023-04-17T13:08:07.514Z" filename="Season_30_Episode_20-I'm_Just_a_Girl_Who_Can't_Say_D'oh.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_05-Baby_You_Can't_Drive_My_Car.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:07.584Z" modified="2023-04-17T13:08:07.584Z" filename="Season_30_Episode_05-Baby_You_Can't_Drive_My_Car.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_23-Crystal_Blue-Haired_Persuasion.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:07.657Z" modified="2023-04-17T13:08:07.657Z" filename="Season_30_Episode_23-Crystal_Blue-Haired_Persuasion.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_04-Treehouse_of_Horror_XXIX.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:07.735Z" modified="2023-04-17T13:08:07.735Z" filename="Season_30_Episode_04-Treehouse_of_Horror_XXIX.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_09-Daddicus_Finch.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:07.806Z" modified="2023-04-17T13:08:07.806Z" filename="Season_30_Episode_09-Daddicus_Finch.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_11-Mad_About_the_Toy.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:07.883Z" modified="2023-04-17T13:08:07.883Z" filename="Season_30_Episode_11-Mad_About_the_Toy.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_17-E_My_Sports.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:07.954Z" modified="2023-04-17T13:08:07.954Z" filename="Season_30_Episode_17-E_My_Sports.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_19-Girl's_in_the_Band.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:08.026Z" modified="2023-04-17T13:08:08.026Z" filename="Season_30_Episode_19-Girl's_in_the_Band.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_02-Heartbreak_Hotel.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:08.104Z" modified="2023-04-17T13:08:08.104Z" filename="Season_30_Episode_02-Heartbreak_Hotel.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_06-From_Russia_Without_Love.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:08.178Z" modified="2023-04-17T13:08:08.178Z" filename="Season_30_Episode_06-From_Russia_Without_Love.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_08-Krusty_the_Clown.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:08.246Z" modified="2023-04-17T13:08:08.246Z" filename="Season_30_Episode_08-Krusty_the_Clown.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_16-I_Want_You_(She's_So_Heavy).xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:08.344Z" modified="2023-04-17T13:08:08.344Z" filename="Season_30_Episode_16-I_Want_You_(She's_So_Heavy).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_14-The_Clown_Stays_in_the_Picture.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:08.424Z" modified="2023-04-17T13:08:08.424Z" filename="Season_30_Episode_14-The_Clown_Stays_in_the_Picture.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_18-Bart_vs._Itchy_&amp;_Scratchy.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:08.504Z" modified="2023-04-17T13:08:08.504Z" filename="Season_30_Episode_18-Bart_vs._Itchy_&amp;26;_Scratchy.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_03-My_Way_or_the_Highway_to_Heaven.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:08.575Z" modified="2023-04-17T13:08:08.575Z" filename="Season_30_Episode_03-My_Way_or_the_Highway_to_Heaven.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_15-101_Mitigations.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:08.643Z" modified="2023-04-17T13:08:08.643Z" filename="Season_30_Episode_15-101_Mitigations.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_13-I'm_Dancing_as_Fat_as_I_Can.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:08.742Z" modified="2023-04-17T13:08:08.742Z" filename="Season_30_Episode_13-I'm_Dancing_as_Fat_as_I_Can.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_10-'Tis_the_30th_Season.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:08.876Z" modified="2023-04-17T13:08:08.876Z" filename="Season_30_Episode_10-'Tis_the_30th_Season.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_30_Episode_12-The_Girl_on_the_Bus.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:07.279Z" modified="2023-04-17T13:08:07.279Z" filename="Season_30_Episode_12-The_Girl_on_the_Bus.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

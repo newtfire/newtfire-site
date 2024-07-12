@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-05-00015-ENG01_Choepel-Roerich.xml"/>
+		<title>Kāyatraya-stotra</title>
+		<author>Nāgārjuna</author>
+		<unifiedCatalogID>2-05-00015</unifiedCatalogID>
+		<creation date="Mon Aug  7 08:55:00 2017"/>
+		<processed date="Mon Aug  7 08:55:00 2017" ver="AbbyyFineReader v.11" auth="Hackett"/>
+		<sourceDesc>
+			<bibl>
+				<title>The Blue Annals</title>
+				<author>Roerich, George</author>
+				<author>[Gedun Choepel]</author>
+				<pubPlace>Calcutta</pubPlace>
+				<publisher>Asiatic Society of Bengal</publisher>
+				<date>1949</date>
+				<biblScope unit="page">2</biblScope>
+				<note type="Colophon">Initially translated by Gedun Choepel and George Roerich from Sanskrit; edited and reformatted by Paul Hackett.</note>
+			</bibl>
+		</sourceDesc>
+	</head>
+	<text>
+		<text_id t_id="2-05-00015-ENG01"/>
+		<sentence s_id="2-05-00015-ENG01-SID000001" type="Text Title">
+			<phrase phr_id="2-05-00015-ENG01-000001">Trikāyastava</phrase>
+		</sentence>
+		<volume vol_id="1"/>
+		<sentence s_id="2-05-00015-ENG01-SID000002" type="Sentence">
+			<phrase phr_id="2-05-00015-ENG01-000002"><page p_id="2"/>Homage to the Buddha!</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-ENG01-SID000003" type="Verse" s_name="1">
+			<phrase phr_id="2-05-00015-ENG01-000003">Which is neither one, nor many, the foundation of great and excellent benefit to itself and others,</phrase>
+			<phrase phr_id="2-05-00015-ENG01-000004">Which is neither non-existent, nor existent, equal to Heaven, of equal flavour, of unconceivable nature,</phrase>
+			<phrase phr_id="2-05-00015-ENG01-000005">Stainless, immutable, peaceful, matchless, all-pervading, unmanifested,</phrase>
+			<phrase phr_id="2-05-00015-ENG01-000006">I salute that, which is to be intuited, the incomparable Spiritual Body (Dharma-kāya) of the Jinas! [1]</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-ENG01-SID000004" type="Verse" s_name="2">
+			<phrase phr_id="2-05-00015-ENG01-000007">Which is transcendental, inconceivable, consisting of a hundred well-achieved results, magnificent,</phrase>
+			<phrase phr_id="2-05-00015-ENG01-000008">Which causes the source of joy of wise men to spread in the midst of a resplendent assembly,</phrase>
+			<phrase phr_id="2-05-00015-ENG01-000009">Manifested in all the Worlds of the Buddhas, eternal, lofty, the Voice of the Good Law,</phrase>
+			<phrase phr_id="2-05-00015-ENG01-000010">I salute this Body of Glory (Sambhoga-kāya), dwelling in the great Realm of the Doctrine! [2]</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-ENG01-SID000005" type="Verse" s_name="3">
+			<phrase phr_id="2-05-00015-ENG01-000011">Which to some shines like the lustre of fire in order to liberate all living beings,</phrase>
+			<phrase phr_id="2-05-00015-ENG01-000012">Which, serene, manifested to some the Wheel of the Doctrine of Supreme Enlightenment,</phrase>
+			<phrase phr_id="2-05-00015-ENG01-000013">Which, having destroyed the perils of the Three Worlds, manifested itself by various means, and in various forms,</phrase>
+			<phrase phr_id="2-05-00015-ENG01-000014">I salute this Manifested Body (Nirmāṇa-kāya) of Saints of great purpose, pervading the Ten Directions! [3]</phrase>
+		</sentence>
+		<sentence s_id="2-05-00015-ENG01-SID000006" type="Verse" s_name="4">
+			<phrase phr_id="2-05-00015-ENG01-000015">Emancipated from the laws of the Three Worlds, equal to Heaven, containing all existences,</phrase>
+			<phrase phr_id="2-05-00015-ENG01-000016">Pure, serene, profound, which is understood by yogins, endowed with the highest serenity,</phrase>
+			<phrase phr_id="2-05-00015-ENG01-000017">Difficult of perception, hard to be investigated, of the highest benefit to one's self and others, all-pervading, causeless,</phrase>
+			<phrase phr_id="2-05-00015-ENG01-000018">I salute the Body of the Jinas, blissful, matchless, undifferentiated, of one form! [4]</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="112"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>b0d4cf3501eff53a5eb6721b9c29b39f81a5fa62</digestPassword><group name="nqw5120"/><group name="dba"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://axschema.org/namePerson">Nicholas Wright</metadata><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><name>nqw5120</name></account>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <song name="Rock Parade">
+        <metadata>
+            <sname>Rock Parade</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+<lyrics> 
+    
+    <verse n="1">  
+        <line n="1">Countless footsteps</line>
+        <line n="2">And two small ones that I haven't forgotten</line>
+        <line n="3">Sweets and loud music</line>
+        <line n="4">A night of light where no child sleeps</line>
+        <line n="5">the night that will give me a lifetime of happiness</line>
+        <line n="6"><i story="anji">Words I want to turn into facts</i></line>
+  </verse>
+    
+    <chorus n="1">
+    <line n="1">Battle Cry</line>
+    <line n="2"><parentheses>(battle cry)</parentheses></line>
+    <line n="3">All the sounds and light seemed to be</line>
+    <line n="4">blessing us. ROCK PARADE</line>
+    </chorus>
+    
+    <chorus n="2">
+        <line n="1">Battle Cry</line>
+        <line n="2"><parentheses>(battle cry)</parentheses></line>
+        <line n="3">On my last night with you, the trickster</line>
+        <line n="4">was born. ROCK PARADE</line>
+    </chorus>
+    
+    <verse n="2">
+        <line n="1">Now it's just a few footsteps</line>
+        <line n="2">Only two small ones are left</line>
+        <line n="3">Darkness and silence</line>
+        <line n="4">Dark dawn where even adults sleep</line>
+        <line n="5">the night that was lonely enough to last a lifetime</line>
+        <line n="6">Words I need to turn into facts</line>
+    </verse>
+    
+    <chorus n="3">
+        <line n="1">Battle Cry</line>
+        <line n="2"><parentheses>(battle cry)</parentheses></line>
+        <line n="3">All the sounds and light seemed to be</line>
+        <line n="4">blessing us. ROCK PARADE</line>
+    </chorus>
+    
+    <chorus n="4">
+        <line n="1">Battle Cry</line>
+        <line n="2"><parentheses>(battle cry)</parentheses></line>
+        <line n="3">On my last night with you, the trickster</line>
+        <line n="4">was born. ROCK PARADE</line>
+    </chorus>
+    
+    <verse n="3"> 
+        <line n="1">The music that's finished never ends in my head</line>
+        <line n="2">The promise I made to you</line>
+        <line n="3"><parentheses>(The promise I made to you)</parentheses></line>
+        <line n="4">Now a single footstep carries two hearts</line>
+        <line n="5">I'm still chasing one</line>
+        <line n="6"><parentheses>(I'm still chasing one)</parentheses></line>
+    </verse>
+    
+    <bridge n="1">
+    <line n="1">Keep trying to reach the other side of the unreachable goal</line>
+    <line n="2">Words I want to turn into facts</line>
+</bridge>
+    
+    <chorus n="5">
+        <line n="1">Battle Cry</line>
+        <line n="2"><parentheses>(battle cry)</parentheses></line>
+        <line n="3">All the sounds and light seemed to be</line>
+        <line n="4">blessing us. ROCK PARADE</line>
+</chorus>
+    
+    <chorus n="6">
+        <line n="1">Battle Cry</line>
+        <line n="2"><parentheses>(battle cry)</parentheses></line>
+        <line n="3">On my last night with you, the trickster was born.</line>
+        <line n="4">was born. ROCK PARADE</line>
+</chorus>
+    
+</lyrics>
+</song>
+</xml>

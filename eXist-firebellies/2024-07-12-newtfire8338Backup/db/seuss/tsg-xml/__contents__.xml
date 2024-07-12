@@ -1,0 +1,69 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/seuss/tsg-xml" version="1" owner="epw5194" group="epw5194" mode="755" created="2022-04-07T18:50:29.433Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="bartholomew_oobleck1949.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:29.435Z" modified="2022-04-25T16:42:16.502Z" filename="bartholomew_oobleck1949.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="yertle_1958.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:29.533Z" modified="2022-04-25T15:09:36.272Z" filename="yertle_1958.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="horton_hatches_the_egg_1940.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:29.615Z" modified="2022-04-25T14:59:16.976Z" filename="horton_hatches_the_egg_1940.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="wocket_1974.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:29.698Z" modified="2022-04-25T15:09:03.859Z" filename="wocket_1974.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="grinch.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:29.782Z" modified="2022-04-25T14:57:44.829Z" filename="grinch.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="too_many_daves_1961.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:29.863Z" modified="2022-04-25T15:07:49.575Z" filename="too_many_daves_1961.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="one_fish_two_fish_1960.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:29.944Z" modified="2022-04-25T15:04:39.774Z" filename="one_fish_two_fish_1960.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="On_Beyond_Zebra1955.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:30.029Z" modified="2022-04-25T15:03:47.318Z" filename="On_Beyond_Zebra1955.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="green_eggs_ham_1960.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:30.195Z" modified="2022-04-25T14:56:57.123Z" filename="green_eggs_ham_1960.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Thidwick1948.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:30.275Z" modified="2022-04-25T15:06:26.061Z" filename="Thidwick1948.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="what_was_i_scared_of_1961.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:30.363Z" modified="2022-04-25T15:08:27.689Z" filename="what_was_i_scared_of_1961.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="oh_the_places_you'll_go.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:30.45Z" modified="2022-04-25T15:03:14.242Z" filename="oh_the_places_you'll_go.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HopOnPop1963.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:30.614Z" modified="2022-04-25T14:58:33.024Z" filename="HopOnPop1963.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dr_seuss_ABC_1965.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:30.747Z" modified="2022-04-25T14:57:01.206Z" filename="dr_seuss_ABC_1965.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="butter_battle_1984.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:30.828Z" modified="2022-04-25T14:52:02.258Z" filename="butter_battle_1984.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TheLorax1971.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:30.995Z" modified="2022-04-25T15:05:26.332Z" filename="TheLorax1971.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FoxinSox1965.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:31.137Z" modified="2022-04-25T14:56:59.9Z" filename="FoxinSox1965.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="500_hats_1938.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:31.255Z" modified="2022-04-25T14:48:17.427Z" filename="500_hats_1938.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cat_in_the_hat.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:31.345Z" modified="2022-04-25T14:57:02.616Z" filename="cat_in_the_hat.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="horton_who_1954.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:31.441Z" modified="2022-04-25T14:59:59.326Z" filename="horton_who_1954.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cat_comes_back.xml" skip="no" owner="epw5194" group="epw5194" mode="644" created="2022-04-07T18:50:31.635Z" modified="2022-04-25T14:57:03.656Z" filename="cat_comes_back.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MyNetworkData.tsv" skip="no" owner="scd5363" group="scd5363" mode="644" created="2022-04-20T19:04:30.074Z" modified="2022-04-20T19:04:30.074Z" filename="MyNetworkData.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

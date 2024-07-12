@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><!--  need to add (adj, object, rhyme, action?) and associate schema  --><book>
+<metadata genre="rhyme" type="moral" date="1958"/>
+<title>Yertle the Turtle</title>
+<body>
+<stanza rhyme="AABBCC">
+<l>
+On the
+<adj>far-away</adj>
+<place>island</place>
+of
+<rym sch="a">Sala-ma-Sond</rym>
+,
+</l>
+<l>
+<char name="Yertle the Turtle">Yertle the Turtle</char>
+was
+<rym sch="a">
+<char name="Yertle the Turtle">king of the pond</char>
+</rym>
+.
+</l>
+<l>
+A
+<adj>nice</adj>
+<adj>little</adj>
+<place>pond</place>
+. It was
+<adj>clean</adj>
+. It was
+<rym sch="b">
+<adj>neat</adj>
+</rym>
+.
+</l>
+<l>
+The
+<obj>water</obj>
+was
+<adj>warm</adj>
+. There was
+<adj>plenty</adj>
+to
+<rym sch="b">eat</rym>
+.
+</l>
+<l>
+The
+<char name="Turtles">turtles</char>
+had everything
+<char name="Turtles">turtles</char>
+might
+<rym sch="c">need</rym>
+.
+</l>
+<l>
+And they were all
+<adj>happy</adj>
+.
+<adj>Quite</adj>
+<adj>happy</adj>
+<rym sch="c">indeed</rym>
+.
+</l>
+</stanza>
+<stanza rhyme="AABBCCDDEE">
+<l>
+They were... untill
+<char name="Yertle the Turtle">Yertle</char>
+, the
+<rym sch="a">
+<char name="Yertle the Turtle">king of them all</char>
+</rym>
+,
+</l>
+<l>
+<action>Decided</action>
+the
+<obj>kingdom</obj>
+he ruled was
+<rym sch="a">
+<adj>too small</adj>
+</rym>
+.
+</l>
+<l>
+"I'm ruler", said
+<char name="Yertle the Turtle">Yertle</char>
+, "of all that I
+<rym sch="b">see</rym>
+.
+</l>
+<l>
+But I don't
+<action>see</action>
+enough. That's the trouble with
+<rym sch="b">me</rym>
+.
+</l>
+<l>
+With this
+<obj>stone</obj>
+for a
+<obj>throne</obj>
+, I
+<action>look</action>
+<adj>down</adj>
+on my
+<rym sch="c">pond</rym>
+</l>
+<l>
+But I cannot
+<action>look</action>
+<adj>down</adj>
+on the
+<place>places</place>
+<rym sch="c">
+<adj>beyond</adj>
+</rym>
+.
+</l>
+<l>
+This
+<obj>throne</obj>
+that I
+<action>sit on</action>
+is
+<rym sch="d">
+<adj>too, too low down</adj>
+</rym>
+.
+</l>
+<l>
+It ought to be
+<adj>higher</adj>
+!" he said with a
+<rym sch="d">frown</rym>
+.
+</l>
+<l>
+"If I could
+<action>sit</action>
+<adj>high</adj>
+, how much
+<adj>greater</adj>
+I'd
+<rym sch="e">be</rym>
+!
+</l>
+<l>
+What a
+<char name="Yertle the Turtle">king</char>
+! I'd be ruler of all that I
+<rym sch="e">see</rym>
+!"
+</l>
+</stanza>
+<stanza rhyme="AABBCCDD">
+<l>
+So
+<char name="Yertle the Turtle">Yertle</char>
+, the
+<char name="Yertle the Turtle">Turtle King</char>
+,
+<action>lifted</action>
+his
+<rym sch="a">hand</rym>
+</l>
+<l>
+And
+<char name="Yertle the Turtle">Yertle</char>
+,
+<char name="Yertle the Turtle">the Turtle King</char>
+, gave a
+<rym sch="a">command</rym>
+.
+</l>
+<l>
+He ordered
+<char name="Turtles">nine turtles</char>
+to swim to his
+<rym sch="b">stone</rym>
+</l>
+<l>
+And, using these
+<char name="Turtles">turtles</char>
+, he built a new
+<rym sch="b">throne</rym>
+.
+</l>
+<l>
+He made each
+<char name="Turtles">turtle</char>
+<action>stand</action>
+on another one's
+<rym sch="c">back</rym>
+</l>
+<l>
+And he
+<action>piled</action>
+them all up in a
+<char name="Turtles">nine-turtle</char>
+<rym sch="c">stack</rym>
+.
+</l>
+<l>
+And then
+<char name="Yertle the Turtle">Yertle</char>
+<action>climbed up</action>
+. He sat down on the
+<rym sch="d">pile</rym>
+.
+</l>
+<l>
+What a
+<adj>wonderful</adj>
+view! He could see 'most a
+<rym sch="d">mile</rym>
+!
+</l>
+</stanza>
+<stanza rhyme="AABBCC">
+<l>
+"All mine!"
+<char name="Yertle the Turtle">Yertle </char>
+cried. "Oh, the things I now
+<rym sch="a">rule</rym>
+!
+</l>
+<l>
+I'm
+<char name="Yertle the Turtle">the king of a cow</char>
+! And I'm the king of a
+<rym sch="a">mule</rym>
+!
+</l>
+<l>
+I'm
+<char name="Yertle the Turtle">the king of a house</char>
+! And, what's more, beyond
+<rym sch="b">that</rym>
+</l>
+<l>
+I'm
+<char name="Yertle the Turtle">the king of a blueberry bush</char>
+and a
+<rym sch="b">cat</rym>
+!
+</l>
+<l>
+I'm
+<char name="Yertle the Turtle">Yertle the Turtle</char>
+! Oh,
+<adj>marvelous</adj>
+<rym sch="c">me</rym>
+!
+</l>
+<l>
+For I am
+<char name="Yertle the Turtle">the ruler of all that</char>
+I
+<rym sch="c">see</rym>
+!"
+</l>
+</stanza>
+<stanza rhyme="AAABCCDDEE">
+<l>
+And all through the morning, he sat up there
+<rym sch="a"> high</rym>
+</l>
+<l>
+<action>Saying</action>
+over and over, "A
+<char name="Yertle the Turtle">great king</char>
+am
+<rym sch="a">I</rym>
+!"
+</l>
+<l>
+Until 'long about noon. Then he heard a faint
+<rym sch="a">sigh</rym>
+.
+</l>
+<l>
+"What's that?"
+<action>snapped</action>
+the
+<char name="Yertle the Turtle">king</char>
+</l>
+<l>
+And he looked down the
+<rym sch="b">stack</rym>
+.
+</l>
+<l>
+And he saw, at the bottom, a turtle named
+<rym sch="b">
+<char name="Mack">Mack.</char>
+</rym>
+</l>
+<l>
+Just a part of his
+<obj>throne</obj>
+. And this plain little
+<rym sch="c">turtle</rym>
+</l>
+<l>
+Looked up and he said, "Beg your pardon,
+<rym sch="c">
+<char name="Yertle the Turtle">King Yertle</char>
+</rym>
+.
+</l>
+<l>
+I've pains in my back and my shoulders and
+<rym sch="d">knees</rym>
+.
+</l>
+<l>
+How long must we stand here, Your Majesty,
+<rym sch="d">please</rym>
+?"
+</l>
+</stanza>
+<stanza rhyme="AA">
+<l>
+"SILENCE!" the
+<char name="Yertle the Turtle">King of the Turtles</char>
+<action>barked</action>
+<rym sch="a">back</rym>
+.
+</l>
+<l>
+"I'm king, and you're only a turtle named
+<rym sch="a">
+<char name="Mack">Mack</char>
+</rym>
+."
+</l>
+</stanza>
+<stanza rhyme="AABBCC">
+<l>
+"You
+<action>stay</action>
+in your place while I
+<action>sit</action>
+here and
+<rym sch="a">rule</rym>
+.
+</l>
+<l>
+I'm
+<char name="Yertle the Turtle">the king of a cow</char>
+! And I'm the
+<rym sch="a">
+<char name="Yertle the Turtle">king of a mule</char>
+</rym>
+!
+</l>
+<l>
+I'm the
+<char name="Yertle the Turtle">king of a house</char>
+! And a
+<obj>bush</obj>
+! And a
+<rym sch="b">cat</rym>
+!
+</l>
+<l>
+But that isn't all. I'll do better than
+<rym sch="b">that</rym>
+!
+</l>
+<l>
+My
+<obj>throne</obj>
+shall be
+<adj>higher</adj>
+!" his
+<adj>royal</adj>
+<obj>voice</obj>
+<rym sch="c">thundered</rym>
+,
+</l>
+<l>
+"So
+<action>pile</action>
+up more
+<char name="Turtles">turtles</char>
+! I want 'bout two
+<rym sch="c">hundred</rym>
+!"
+</l>
+</stanza>
+<stanza rhyme="AAABBCC">
+<l>
+"Turtles! More
+<char name="Turtles">turtles</char>
+!" he
+<action>bellowed</action>
+and
+<rym sch="a">brayed</rym>
+.
+</l>
+<l>
+And the
+<char name="Turtles">turtles</char>
+'way down in the
+<place>pond</place>
+were
+<rym sch="a">afraid</rym>
+.
+</l>
+<l>
+They
+<action>trembled</action>
+. They
+<action>shook</action>
+. But they
+<action>came</action>
+. They
+<rym sch="a">obeyed</rym>
+.
+</l>
+<l>
+&gt;From all over the
+<place>pond</place>
+, they came
+<action>swimming</action>
+by
+<rym sch="b">dozens</rym>
+.
+</l>
+<l>
+Whole families of
+<char name="Turtles">turtles</char>
+, with uncles and
+<rym sch="b">cousins</rym>
+.
+</l>
+<l>
+And all of them stepped on the head of
+<adj>poor</adj>
+<rym sch="c">
+<char name="Mack">Mack</char>
+</rym>
+.
+</l>
+<l>
+One after another, they climbed up the
+<rym sch="c">stack</rym>
+</l>
+</stanza>
+<stanza rhyme="AABBCCDD">
+<l>
+Then
+<char name="Yertle the Turtle">Yertle the Turtle</char>
+was
+<action>perched</action>
+up so
+<rym sch="a">
+<adj>high</adj>
+</rym>
+,
+</l>
+<l>
+He could see fourty miles from his
+<obj>throne</obj>
+in the
+<rym sch="a">sky</rym>
+!
+</l>
+<l>
+<sound>"Hooray!"</sound>
+shouted
+<char name="Yertle the Turtle">Yertle</char>
+. "I'm the
+<char name="Yertle the Turtle">
+king of the
+<rym sch="b">trees</rym>
+</char>
+!
+</l>
+<l>
+I'm
+<char name="Yertle the Turtle">king of the birds</char>
+! And I'm
+<char name="Yertle the Turtle">
+king of the
+<rym sch="b">bees</rym>
+</char>
+!
+</l>
+<l>
+I'm
+<char name="Yertle the Turtle">king of the butterflies</char>
+!
+<char name="Yertle the Turtle">King</char>
+of the
+<rym sch="c">air</rym>
+!
+</l>
+<l>
+Ah, me! What a
+<obj>throne</obj>
+! What a
+<adj>wonderful</adj>
+<rym sch="c">chair</rym>
+!
+</l>
+<l>
+I'm
+<char name="Yertle the Turtle">Yertle the Turtle</char>
+! Oh,
+<adj>marvelous</adj>
+<rym sch="d">me</rym>
+!
+</l>
+<l>
+For I am the ruler of all that I
+<rym sch="d">see</rym>
+!"
+</l>
+</stanza>
+<stanza rhyme="AABBCCDD">
+<l>
+Then again, from below, in the
+<adj>great heavy</adj>
+<rym sch="a">stack</rym>
+,
+</l>
+<l>
+Came a
+<sound>groan</sound>
+from that
+<adj>plain little</adj>
+turtle named
+<rym sch="a">
+<char name="Mack">Mack</char>
+</rym>
+.
+</l>
+<l>
+"
+<char name="Yertle the Turtle">Your Majesty</char>
+, please... I don't like to
+<rym sch="b">complain</rym>
+,
+</l>
+<l>
+But
+<adj>down here below</adj>
+, we are
+<action>feeling</action>
+<adj>great</adj>
+<rym sch="b">pain</rym>
+.
+</l>
+<l>
+I know,
+<adj>up on top</adj>
+you are
+<action>seeing</action>
+<adj>great</adj>
+<rym sch="c">sights</rym>
+,
+</l>
+<l>
+But
+<adj>down here at the bottom</adj>
+we, too, should have
+<rym sch="c">rights</rym>
+.
+</l>
+<l>
+We
+<char name="Turtles">turtles</char>
+can't stand it. Our
+<obj>shells</obj>
+will all
+<rym sch="d">crack</rym>
+!
+</l>
+<l>
+Besides, we need
+<obj>food</obj>
+. We are
+<adj>starving</adj>
+!"
+<action>groaned</action>
+<rym sch="d">
+<char name="Mack">Mack</char>
+</rym>
+.
+</l>
+</stanza>
+<stanza rhyme="AABB">
+<l>
+"You
+<action>hush</action>
+up your mouth!" howled the
+<adj>mighty</adj>
+<char name="Yertle the Turtle">
+King
+<rym sch="a">Yertle</rym>
+</char>
+.
+</l>
+<l>
+"You've no right to talk to the
+<char name="Yertle the Turtle">
+world's highest
+<rym sch="a">turtle</rym>
+</char>
+.
+</l>
+<l>
+I
+<action>rule</action>
+from the
+<place>clouds</place>
+!
+<place>Over land</place>
+!
+<place>
+Over
+<rym sch="b">sea</rym>
+</place>
+!
+</l>
+<l>
+There's nothing, no, NOTHING, that's
+<adj>higher</adj>
+than
+<rym sch="b">me</rym>
+!"
+</l>
+</stanza>
+<stanza rhyme="AAABBCCDD">
+<l>
+But, while he was shouting, he
+<action>saw</action>
+with
+<rym sch="a">suprise</rym>
+</l>
+<l>
+That the moon of the evening was starting to
+<rym sch="a">rise</rym>
+</l>
+<l>
+Up over his head in the
+<adj>darkening</adj>
+<rym sch="a">skies</rym>
+.
+</l>
+<l>
+"What's THAT?" snorted
+<char name="Yertle the Turtle">Yertle</char>
+. "Say, what IS that
+<rym sch="b">thing</rym>
+</l>
+<l>
+That dares to be higher than
+<char name="Yertle the Turtle">
+Yertle the
+<rym sch="b">King</rym>
+</char>
+?
+</l>
+<l>
+I shall not allow it! I'll go higher
+<rym sch="c">still</rym>
+!
+</l>
+<l>
+I'll build my
+<obj>throne</obj>
+higher! I can and I
+<rym sch="c">will</rym>
+!
+</l>
+<l>
+I'll call some more
+<char name="Turtles">turtles</char>
+. I'll
+<action>stack</action>
+'em to
+<rym sch="d">heaven</rym>
+!
+</l>
+<l>
+I need 'bout five thousand, six hundred and
+<rym sch="d">seven</rym>
+!"
+</l>
+</stanza>
+<stanza rhyme="AABBCCDED">
+<l>
+But, as
+<char name="Yertle the Turtle">Yertle, the Turtle King</char>
+,
+<action>lifted</action>
+his
+<rym sch="a">hand</rym>
+</l>
+<l>
+And
+<action>started to order</action>
+and give the
+<rym sch="a">command</rym>
+,
+</l>
+<l>
+That
+<adj>plain little</adj>
+<char name="Turtles">turtle</char>
+below in the
+<rym sch="b">stack</rym>
+,
+</l>
+<l>
+That
+<adj>plain little</adj>
+<char name="Turtles">turtle</char>
+whose name was just
+<char name="Mack">
+<rym sch="b">Mack</rym>
+</char>
+,
+</l>
+<l>
+Decided he'd taken enough. And he
+<rym sch="c">had</rym>
+.
+</l>
+<l>
+And that
+<adj>plain little</adj>
+lad got a bit
+<rym sch="c">mad</rym>
+.
+</l>
+<l>
+And that
+<adj>plain little</adj>
+<char name="Mack">Mack</char>
+did a plain little
+<rym sch="d">thing</rym>
+.
+</l>
+<l>He burped!</l>
+<l>
+And his burp shook the throne of the
+<char name="Yertle the Turtle">
+<rym sch="d">king</rym>
+</char>
+!
+</l>
+</stanza>
+<stanza rhyme="AABBCC">
+<l>
+And
+<char name="Yertle the Turtle">Yertle the Turtle</char>
+, the king of the
+<rym sch="a">trees</rym>
+,
+</l>
+<l>
+The
+<char name="Yertle the Turtle">king</char>
+of the
+<obj>air</obj>
+and the
+<char name="Turtles">birds</char>
+and the
+<char name="Turtles">
+<rym sch="a">bees</rym>
+</char>
+,
+</l>
+<l>
+The king of a house and a
+<char name="Turtles">cow</char>
+and a
+<char name="Turtles">
+<rym sch="b">mule</rym>
+</char>
+...
+</l>
+<l>
+Well, that was the end of the
+<char name="Yertle the Turtle">Turtle King's</char>
+<rym sch="b">rule</rym>
+!
+</l>
+<l>
+For
+<char name="Yertle the Turtle">Yertle</char>
+, the
+<char name="Yertle the Turtle">King</char>
+of all
+<mUp>
+<rym sch="c">Sala-ma-Sond</rym>
+</mUp>
+,
+</l>
+<l>
+Fell off his
+<obj>high throne</obj>
+and fell
+<sound>Plunk</sound>
+! in the
+<rym sch="c">pond</rym>
+!
+</l>
+</stanza>
+<stanza rhyme="AAAA">
+<l>
+And today the
+<adj>great</adj>
+<char name="Yertle the Turtle">Yertle</char>
+, that
+<adj>Marvelous</adj>
+<rym sch="a">he</rym>
+,
+</l>
+<l>
+Is
+<char name="Yertle the Turtle">King</char>
+of the
+<obj>Mud</obj>
+. That is all he can
+<rym sch="a">see</rym>
+.
+</l>
+<l>
+And the
+<char name="Turtles">turtles</char>
+, of course... all the
+<char name="Turtles">turtles</char>
+are
+<rym sch="a">free</rym>
+</l>
+<l>
+As
+<char name="Turtles">turtles</char>
+and, maybe, all
+<char name="Turtles">creatures</char>
+should
+<rym sch="a">be</rym>
+.
+</l>
+</stanza>
+</body>
+</book>

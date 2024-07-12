@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/mayan" version="1" owner="mqb5995" group="dba" mode="775" created="2021-12-30T05:25:59.922Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="PV_characterIndex.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:25:59.923Z" modified="2021-12-30T05:25:59.923Z" filename="PV_characterIndex.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sitesIndex.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:00.003Z" modified="2021-12-30T05:26:00.003Z" filename="sitesIndex.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="popolVuh.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:26:00.309Z" modified="2021-12-30T05:26:00.309Z" filename="popolVuh.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

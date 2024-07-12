@@ -1,0 +1,11 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/repo/templating-1.1.0" version="1" owner="admin" group="dba" mode="755" created="2023-02-28T02:12:27.127Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="expath-pkg.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-02-28T02:12:27.131Z" modified="2023-02-28T02:12:27.131Z" filename="expath-pkg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="repo.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-02-28T02:12:27.174Z" modified="2023-02-28T02:12:27.174Z" filename="repo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="content" filename="content"/>
+    <subcollection name="test" filename="test"/>
+</collection>

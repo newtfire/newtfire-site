@@ -1,0 +1,13 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/00-students-00" version="1" owner="admin" group="dba" mode="755" created="2023-03-13T01:50:58.39Z">
+    <acl entries="0" version="1"/>
+    <subcollection name="yxj5181" filename="yxj5181"/>
+    <subcollection name="hadleigh" filename="hadleigh"/>
+    <subcollection name="savannah" filename="savannah"/>
+    <subcollection name="gak5275" filename="gak5275"/>
+    <subcollection name="nlh5383" filename="nlh5383"/>
+    <subcollection name="sampleStudent" filename="sampleStudent"/>
+    <subcollection name="wxs5242" filename="wxs5242"/>
+    <subcollection name="jax" filename="jax"/>
+    <subcollection name="Milo" filename="Milo"/>
+    <subcollection name="tza13" filename="tza13"/>
+</collection>

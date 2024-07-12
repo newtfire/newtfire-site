@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-03-00256-SKT01.xml"/>
+		<title>Śrīcakrasaṃvarasādhana</title>
+		<author>Kṛṣṇa Paṇḍitā</author>
+		<unifiedCatalogID>2-03-00256</unifiedCatalogID>
+		<creation date="Wed Jun 20 20:40:33 118"/>
+		<processed date="Wed Jun 20 20:40:33 118" ver="v.1.0" auth="Hackett"/>
+		<processed date="Tue Oct 15 18:34:19 2019" ver="v.1.01" auth="Fix_non-sequential_PHRID v.0.1"/>
+		<sourceDesc>
+			<bibl>
+				<title>″Kṛṣṇācarya's Śrīcakrasaṃvarasādhana -- Critical Edition with Notes″</title>
+				<author>杉木 恒彦 [ SUGIKI Tsunehiko ]</author>
+				<author>Li Xuezhu [李学竹]</author>
+				<author>Ye Shaoyong [葉少勇]</author>
+                <pubInfo>智山学報 [Chizan gakuhō = Journal of Chisan Studies ] 49: 45-62</pubInfo>
+				<journaltitle>智山学報 [Chizan gakuhō = Journal of Chisan Studies ]</journaltitle>
+				<date>2000</date>
+				<biblScope unit="volume">49</biblScope>
+				<biblScope unit="pageRange">45-62</biblScope>
+			</bibl>
+		</sourceDesc>
+	</head>
+	<text>
+		<text_id t_id="2-03-00256-SKT01"/>
+		<sentence s_id="2-03-00256-SKT01-SID000001" type="Text Title" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000001">śrīcakrasaṃvarasādhana</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000002" type="Homage" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000002">oṃ namo buddhāya</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000003" type="Verse" s_name="1">
+			<phrase phr_id="2-03-00256-SKT01-000003">natvā pretāsanasthaṃ trinayanam abhitovaktram āraktagātrīṃ vārāhīṃ mūladorbhyāṃ sapadi vidalitaṃ nāganātḥaṃ parābhyām</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000004">śeṣaiḥ khaṭvāṅgapāśau narakam ajaśiro vāmadorbhiś caturbhiḥ savyaiḥ karttṛtriśūlaṃ paraśuḍamarukaṃ bibhrataṃ herukākhyam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000004" type="Verse" s_name="2">
+			<phrase phr_id="2-03-00256-SKT01-000005">tatsādhanam ahaṃ vaksye gopitaṃ mlecchabhāṣayā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000006">cakrasaṃvaraguhyārthaṃ siddhimantrasamuccayam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000005" type="Verse" s_name="3">
+			<phrase phr_id="2-03-00256-SKT01-000007">hṛdīndubījabhāvyūhair āhṛtān sugatān puraḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000008">sampūjya sarvapūjābhiḥ paṭhed ratnatrayādikām</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000006" type="Verse" s_name="4">
+			<phrase phr_id="2-03-00256-SKT01-000009">vibhāvya sakalaṃ śūnyaṃ viśvābjasūryavajrahūṃ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000010">nirgatya[= nirgamayya] ḍākinīvṛndaiḥ kuryāt kīlādikaṃ sudhīḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000007" type="Verse" s_name="5">
+			<phrase phr_id="2-03-00256-SKT01-000011">khadhātau cintayed dhīmāṃś caturbhūtavibhāvanām</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000012">sarvabhūtasamājena yato viśvāśrayo bhavet</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000008" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000013">tasyāyaṃ kramaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000009" type="Verse" s_name="6">
+			<phrase phr_id="2-03-00256-SKT01-000014">goṣṭhotpalikā caiva śeṣāśuṣkaśirāstrataḥ[= -śiro'strataḥ]</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000015">mahāśaṅkhamayaṃ kuryād abhedyaṃ kacchapasya tu</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000010" type="Verse" s_name="7">
+			<phrase phr_id="2-03-00256-SKT01-000016">caturbhujaṃ caturvaktraṃ yāval lakṣabhujaṃ tathā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000017">sitadehamahākrodhaṃ vajraghaṇṭāṅgaliṅgitam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000011" type="Verse" s_name="8">
+			<phrase phr_id="2-03-00256-SKT01-000018">kapālamālinaṃ vīraṃ bhasmagātrānulepanam</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000019">īṣaddaṃṣṭrākarālāsyaṃ mahāpretakṛtāsanam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000012" type="Verse" s_name="9">
+			<phrase phr_id="2-03-00256-SKT01-000020">jinaraśmimahāmeghaṃ visphurantaṃ samantataḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000021">ṣaṇmudrālaṃkṛtaṃ dehaṃ jaṭāmakuṭamaulinam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000013" type="Verse" s_name="10">
+			<phrase phr_id="2-03-00256-SKT01-000022">asitaṃ dakṣiṇaṃ vaktraṃ vāmaṃ raktaṃ bhayānakam</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000023">mūlamukhaṃ mahāśvetaṃ paścimaṃ kanakojjvalam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000014" type="Verse" s_name="11">
+			<phrase phr_id="2-03-00256-SKT01-000024">kālamṛtyujayaṃ caiva aṅge khaṭvāṅgayojitam</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000025">kapālaṃ cārghapātraṃ ca vaktre astraniyojitam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000015" type="Verse" s_name="12">
+			<phrase phr_id="2-03-00256-SKT01-000026">tasya prajñā mahāghorā khaṇḍamaṇḍitamekhalā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000027">kapālaṃ tv antrasaṃpūrṇaṃ tadvarṇāyudhadhāriṇī</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000016" type="Verse" s_name="13">
+			<phrase phr_id="2-03-00256-SKT01-000028">girigahvarakuñjeṣu mahodadhitaṭeṣu vā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000029">ādisiddhiśmaśāne ca tatra maṇḍalam ālikhet</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000017" type="Verse" s_name="14">
+			<phrase phr_id="2-03-00256-SKT01-000030">saṃpuṭaṃ saṃpuṭībhāvaṃ vajraśṛṅkhalam ucyate</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000031">vajreṇa bhedayet padmaṃ picchakavad bhrāmayet tataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000018" type="Verse" s_name="15">
+			<phrase phr_id="2-03-00256-SKT01-000032">ākarṣayed aṅkuśenaiva kṣobhaṇe muṣalena tu</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000033">grasane vajram evākhyaṃ vidhinā sphārayet tataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000019" type="Verse" s_name="16">
+			<phrase phr_id="2-03-00256-SKT01-000034">āvedhaśara[= -śareṇa] saṃyojya dravībhūtaṃ savidyayā[= saha vidyayā]</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000035">manthyamanthānasaṃyogād dharmakāyaṃ yathā tathā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000020" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000036">sarvabuddhāḥ samājena codayāmāsu[= codayāmāsur] māṃ laghu</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000021" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000037">oṃ mahāsukhavajrasattva jaḥ hūṃ vaṃ hoḥ suratas tvaṃ dṛśya ho</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000038">iti</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000022" type="Verse" s_name="17">
+			<phrase phr_id="2-03-00256-SKT01-000039">saṃcoditamātre tu-m api[=&gt; tu mayi] lokadhātusukhaprade</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000040">nijamantrāt svayaṃ bhūyād yathodayavidhikramaiḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000023" type="Verse" s_name="18">
+			<phrase phr_id="2-03-00256-SKT01-000041">aṃhūṃbhyāṃ tato vajrī utthito dravamūrtitaḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000042">nīlavarṇo mahāghoro raktajvālābhamaṇḍalaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000024" type="Verse" s_name="19">
+			<phrase phr_id="2-03-00256-SKT01-000043">caturvaktro mahābhīmo dviṣaḍbhujavirājitaḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000044">umāpatiṃ samākramya divaseśvaraviṣṭaraḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000025" type="Verse" s_name="20">
+			<phrase phr_id="2-03-00256-SKT01-000045">mūlamukhaṃ mahākṛṣṇaṃ dakṣiṇaṃ kundasannibham</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000046">vāmaṃ raktaṃ mahābhīmaṃ paścimaṃ kanakojjvalam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000026" type="Verse" s_name="21">
+			<phrase phr_id="2-03-00256-SKT01-000047">pūrvāyudhasamāyuktas trinetrais tu virājitaḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000048">pratyālīdhapadasthas tu saroṣahasitānanaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000027" type="Verse" s_name="22">
+			<phrase phr_id="2-03-00256-SKT01-000049">tasya prajñā vārāhī raktavarṇā mahojjvalā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000050">dvibhujaikānanā divyā vajranārakapālinī</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000028" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000051">bhagavataś caturmukhād adhiṣṭhānam</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000052">oṃ sumbha nisumbha huṃ hūṃ phaṭ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000053">oṃ gṛhna 2 huṃ hūṃ phaṭ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000054">oṃ gṛhnāpaya 2 huṃ hūṃ phaṭ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000055">oṃ ānaya ho bhagavan[=&gt; bhagabāṃ] vidyārāja huṃ hūṃ phaṭ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000056">vilomataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000029" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000057">oṃ dharmadhātusvabhāvātmako 'ham</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000058">iti sevā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000030" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000059">oṃ ha</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000060">vajrasattvo hṛdaye</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000031" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000061">oṃ nama[=&gt; namaḥ] hi</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000062">vairocanaḥ śirasi</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000032" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000063">oṃ svāhā hu</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000064">padmanarteśvaraḥ śikhāyām</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000033" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000065">oṃ vauṣaṭ he</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000066">śrīherukaḥ kakṣadvaye</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000034" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000067">oṃ hūṃ hūṃ ho</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000068">vajrasūryaś cakṣurdvaye</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000035" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000069">oṃ phaṭ haṃ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000070">hayagrīvaḥ sarvāṅgeṣu</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000071">astram</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000036" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000072">oṃ vaṃ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000073">vajravārāhī nābhau</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000037" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000074">oṃ hāṃ yoṃ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000075">yāminī hṛdaye</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000038" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000076">oṃ hrīṃ moṃ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000077">mohinī lalāṭe</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000039" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000078">oṃ hreṃ hrīṃ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000079">saṃcāriṇī śirasi</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000040" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000080">oṃ hūṃ hūṃ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000081">saṃtrāsinī śikhāyām</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000041" type="Sentence" s_name="24">
+			<phrase phr_id="2-03-00256-SKT01-000082">oṃ phaṭ phaṭ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000083">devyāḥ sarvāṅgeṣu</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000084">ity upasādhanam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000042" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000085">hṛdi hūṃkāreṇa candrasthaṃ cittavajram</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000043" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000086">oṃ hrīḥ ha ha hūṃ hūṃ phaṭ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000087">vāgvajraṃ kaṇṭhe</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000044" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000088">oṃ śrīvajra-he-he-ru-ru-kaṃ hūṃ hūṃ phaṭ dākinījālasamvaraṃ svāhā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000089">lalāṭe kāyavajram</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000045" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000090">oṃ sarvabuddhaḍākinīye vajravarṇanīye hūṃ hūṃ phaṭ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000091">devyā hṛdaye</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000046" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000092">oṃ caurī hūṃ hūṃ phaṭ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000093">kaṇṭhe</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000047" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000094">oṃ vajravairocanīye svāhā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000095">lalāṭe</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000048" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000096">śirasi oṃkāraṃ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000049" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000097">hṛdaye hūṃkāraṃ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000050" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000098">kiñjalke āḥkāraṃ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000051" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000099">kaṭibandhe svākāram</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000052" type="Sentence" s_name="25">
+			<phrase phr_id="2-03-00256-SKT01-000100">ūruyugme hākāram</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000101">iti sādhanam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000053" type="Verse" s_name="26">
+			<phrase phr_id="2-03-00256-SKT01-000102">jñānasamayasambhūtas tato vajrī ihocyate</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000103">abhiṣekapadaṃ dhyātvā paścāt pūjāṃ samārabhet</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000054" type="Verse" s_name="27">
+			<phrase phr_id="2-03-00256-SKT01-000104">mantraṃ saṃyojya dvau liṅge[= dvayor liṅgayoḥ]</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000105">akāram nyasya naranāsikāyāṃ vaṃkāraṃ saṃyojya tathā liṅgavaraṭake</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000106">yoginīṃ manthayed dhīmān śuddhakāyo nirāmayaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000055" type="Sentence" s_name="28">
+			<phrase phr_id="2-03-00256-SKT01-000107">ity ādiyogo nāma samādḥiḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000056" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000108">oṃ sarvatathāgatānurāgavajrasvabhāvātmako 'ham</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000057" type="Verse" s_name="29">
+			<phrase phr_id="2-03-00256-SKT01-000109">hṛdbījabhābhir ākṛṣya sugatān</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000110">nikṣipya bhruvor madhye avadhūtapadaṃ tathā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000058" type="Verse" s_name="30">
+			<phrase phr_id="2-03-00256-SKT01-000111">ādisvareṇa saṃyuktaṃ dhyātvā jvalati tatkṣaṇāt</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000112">alātacakrārūḍhaṃ bhramantaṃ ḍākinīnāṃ tathā[= alātacakrārūdhā bhramantī ḍākinī tathā]</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000059" type="Verse" s_name="31">
+			<phrase phr_id="2-03-00256-SKT01-000113">jvālāmālārṇavacakraṃ sarvatomukham</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000114">caturvaktraṃ vīreśaṃ vīraḍākinīparivṛtam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000060" type="Verse" s_name="32">
+			<phrase phr_id="2-03-00256-SKT01-000115">bheditās tattvabhedena nāḍīmārgeṣu sarvataḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000116">vibhajya svecchayā mantrī viparītāni yojayet</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000061" type="Verse" s_name="33">
+			<phrase phr_id="2-03-00256-SKT01-000117">prasādhayet prayogārthaṃ mahāsuratamaṇḍalam</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000118">sarvottareṣu ḍākinyo bhuvanāni vijṛmbhayanti</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000062" type="Sentence" s_name="34">
+			<phrase phr_id="2-03-00256-SKT01-000119">pūrve sitanīlābhā ḍākinī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000120">uttare maraktagaurābhā lāmā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000121">paścime raktagaurābhā khaṇḍarohā tu dākinī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000122">ḍakṣiṇe sitapītābhā rūpinī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000123">sarvā etāḥ śavopari karttṛkapālahastā jvaladūrdḥvakeśāḥ sarvālaṃkārabhūṣitā nṛtyamānasthitās trinetrā ekavaktrāḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000124">kapāleṣu hastiśṛgālamanujago[= -gāvo] vidhinā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000125">vidiśena tu catvāraḥ pañcānūnakaroṭakāḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000126">buddhabimbopaśobhitāḥ śekhareṇa samanvitāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000063" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000127">pullīramalaye śirasi khaṇḍakapālinaḥ pracaṇḍā nakhadantāvahā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000064" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000128">jālandhare śikhāyāṃ mahākaṅkāla-caṇḍākṣī keśaromāvahā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000065" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000129">oḍyāyane dakṣiṇakarṇe kaṅkāla-prabhāvatī tvaṅmalāvahā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000066" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000130">arbude pṛṣṭhavaṃśe tu vikaṭadaṃṣṭriṇamāhānāsā piśitāvahā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000067" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000131">pūrvādidikṣu vilomataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000068" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000132">godāvaryāṃ vāmakarṇe surāvairiṇa-vīramatī naharuṃ vahati sarvadā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000069" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000133">rāmeśvare bhrūmadhye amitābhakharvarī asthimālāvahā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000070" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000134">devīkoṭe cakṣurdvaye vajraprabham laṅkeśvarī bukkaṃ vahati</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000071" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000135">mālave bāhumūle vajradeha-drumacchāyā hṛnmaṇḍajāvahā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000072" type="Sentence" s_name="35">
+			<phrase phr_id="2-03-00256-SKT01-000136">aiśānyādau</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000137">vidikṣu</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000138">cittacakrasya khecaryaḥ samāpattyā vyavasthitāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000073" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000139">kāmarūpe tathā kakṣau aṅkulika-airāvatī cakṣur vahati sā nityam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000074" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000140">oḍre stanayugale vajrajaṭila-mahābhairavā pittāvahā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000075" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000141">nābhau triśakunau mahāvīravāyuvegā phupphusāvahā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000076" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000142">kosale nāsikāyāṃ vajrahūṃkāra-surābhakṣī antramālāvahā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000077" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000143">pūrvādidikṣu</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000078" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000144">kaliṅge mukhe subhadra-śyāmādevī pārśvatantusamākhyātā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000079" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000145">laṃpāke kaṇṭhe vajrabhadra-subhadrā udaraṃ vahati gardabhī</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000080" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000146">kāñcīhṛdaye maḥābhairava-hayakarṇā viṣṭhāvahā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000081" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000147">himālaye meḍhre virūpākṣa-khagānanā sīmantamadhyagā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000082" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000148">pūrvavad vidikṣu</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000083" type="Sentence" s_name="36">
+			<phrase phr_id="2-03-00256-SKT01-000149">vākcakrasya bhūcaryaḥ samāpattyā vyavasthitāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000084" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000150">pretādhivāsinīliṅge mahābala-cakravegā śleṣmaṃ[= śleṣmānaṃ] vahati sarvadā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000085" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000151">gṛhadevatāgude tu ratnavajra-khaṇḍarohā pūyaṃ vahati nityaśaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000086" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000152">ūrusaurāṣṭre tu hayagrīva-śauṇḍinī raktavahā prakīrtitā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000087" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000153">jaṅghadvaye tu suvarṇadvīpe ākāśagarbha-cakravarmiṇī prasvedavahā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000088" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000154">pūrvādidikṣu</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000089" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000155">aṅgulyāṃ nagare mārāri-suvīrā medāvahā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000090" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000156">pādapṛṣṭhe tu sindhudeśe padmanarteśvara-mahābalā aśru vahati nityam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000091" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000157">aṅguṣṭhe tu marau vairocana-cakravartinī kheṭāvahā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000092" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000158">jānau kulatāyāṃ vajrasattva-mahāvīryā bālasiṃhānavāhinī</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000093" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000159">pūrvavad vidikṣu</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000094" type="Sentence" s_name="37">
+			<phrase phr_id="2-03-00256-SKT01-000160">kāyacakrasya pātālavāsinyaḥ samāpattyā vyavasthitāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000095" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000161">pūrvadvāre kākāsyā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000096" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000162">uttare ulūkāsyā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000097" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000163">paścime śvānāsyā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000098" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000164">śūkarāsyā dakṣiṇe</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000099" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000165">ḍākinyādivarṇacihnānvitāḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000166">śavārūḍhā jvaladīptāḥ sarvā vikṛtānanāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000100" type="Sentence" s_name="38">
+			<phrase phr_id="2-03-00256-SKT01-000167">anulomavilomena dūtayaḥ saṃvyavasthitāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000101" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000168">pāvake yamadāḍhī ca</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000102" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000169">naiṛte yamadūtī ca</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000103" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000170">vāyavye yamadaṃṣṭriṇī ca</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000104" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000171">aiśānyāṃ yamamathanī caiva</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000105" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000172">dvau dvau varṇau manoharau</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000106" type="Sentence" s_name="39">
+			<phrase phr_id="2-03-00256-SKT01-000173">pūrvavac chavārūḍhāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000107" type="Sentence" s_name="40">
+			<phrase phr_id="2-03-00256-SKT01-000174">śrīherukādayo vīrā vajraghaṇṭāliṅganakarāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000108" type="Sentence" s_name="41">
+			<phrase phr_id="2-03-00256-SKT01-000175">sarvadevyaḥ karttṛkapālahastāḥ śṛṅgārādirasānvitāḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000176">śavārūḍhā jvaladīptāḥ sūryasthās tāṇḍavānvitāḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000177">trinetrā daṃṣṭrākarālāḥ kapālamālāvibhūṣitāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000109" type="Sentence" s_name="42">
+			<phrase phr_id="2-03-00256-SKT01-000178">anekaraśmiharāvahā bhrukuṭītaraṅgakuṭilakarākṣadṛṣṭāḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000179">kākāsyādayaḥ samākhyātā vyāghrājināmbaradhāriṇyaḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000180">kaṇṭhikācūḍakeyūraṃ vajrasūtraṃ ca kuṇḍalam</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000181">kaṇṭhālaṃkṛtaśiromālāṃ pādayor ghurghurās tathā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000182">pratyālīḍhapadasthāś ca</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000110" type="Verse" s_name="43">
+			<phrase phr_id="2-03-00256-SKT01-000183">caturviṃśaty[= -viṃśatir] ūrdhvavīrāḥ śrīherukasyāṅgasaṃbhavāḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000184">caturviṃśati[= -viṃśatir] ḍākinyo vārāhyāṃ garbhasaṃbhavāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000111" type="Verse" s_name="44">
+			<phrase phr_id="2-03-00256-SKT01-000185">jñānasamayasaṃbhūtas tato vajrī ihocyate</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000186">abhiṣekapadaṃ dhyātvā paścāt pūjāṃ samārabhet</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000112" type="Sentence" s_name="45">
+			<phrase phr_id="2-03-00256-SKT01-000187">iti pūrvavat sarvaṃ kartavyam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000113" type="Sentence" s_name="46">
+			<phrase phr_id="2-03-00256-SKT01-000188">idānīṃ saptatriṃśad bodhipākṣikā dharmā devatāyogena sthāpanīyāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000114" type="Sentence" s_name="47">
+			<phrase phr_id="2-03-00256-SKT01-000189">kāyānusmṛtyupasthānaṃ ḍākinī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000190">vedanānusmṛtyupasthānaṃ lāmā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000191">dharmānusmṛtyupasthānaṃ khaṇḍarohā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000192">cittānusmṛtyupasthānaṃ rūpiṇī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000193">chanda-ṛddhyutpādaḥ pracaṇḍā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000194">vīrya-ṛddhyutpādaś caṇḍākṣī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000195">mīmāmsā-ṛddhyutpādaḥ prabhāvatī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000196">citta-ṛddhyutpādo mahānāsā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000197">śraddhendriyaṃ vīramatī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000198">vīryendriyaṃ kharvarī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000199">smṛtīndriyaṃ laṅkeśvarī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000200">samādhīndriyaṃ drumacchāyā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000201">prajñendriyam airāvatī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000202">śraddhābalaṃ mahābhairavā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000203">vīryabalaṃ vāyuvegā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000204">smṛtibalaṃ surābhakṣī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000205">samādhibalaṃ śyāmādevī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000206">prajñābalaṃ subhadrā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000207">samādhisaṃbodhyaṅgaṃ hayakarṇā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000208">vīryasaṃbodhyaṅgaṃ khagānanā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000209">prītisaṃbodhyaṅgaṃ cakravegā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000210">praśrabdhisaṃbodhyaṅgaṃ khaṇḍarohā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000211">dharmapravicayasaṃbodhyaṅgaṃ śauṇḍinī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000212">smṛtisaṃbodhyaṅgaṃ cakravarmiṇī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000213">upekṣāsaṃbodhyaṅgaṃ suvīrā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000214">samyagdṛṣṭir maḥābalā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000215">samyaksaṃkalpaś cakravartinī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000216">saṃyagvāg mahāvīryā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000217">samyakkarmāntaḥ kākāsyā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000218">samyagājīva ulūkāsyā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000219">samyagvyāyāmaḥ śvānāsyā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000220">samyaksmṛtiḥ śūkarāsyā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000221">[samyaksamādhir bhagavān śrīherukaḥ]</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000222">anutpannānāṃ kuśalānāṃ dharmāṇām [utpādanaṃ yamadāḍhī]</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000223">[utpannānāṃ kuśalānāṃ dharmāṇāṃ saṃrakṣaṇaṃ yamadūtī]</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000224">[utpannānām akuśalānāṃ dharmāṇāṃ] prahāṇaṃ yamadaṃṣṭriṇī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000225">anutpannānām akuśalānāṃ dharmānām anutpādanaṃ yamamathanī ceti</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000226">ity āha bhagavān vajrī saptatriṃśadbodhipākṣikadharmāṇāṃ devatāviśuddhim</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000115" type="Verse" s_name="48">
+			<phrase phr_id="2-03-00256-SKT01-000227">svahṛnmadhyagataṃ padmam aṣṭapatraṃ sakarṇikam</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000228">tasya madhye sthitā nāḍī tailavahnisvarūpikā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000116" type="Verse" s_name="49">
+			<phrase phr_id="2-03-00256-SKT01-000229">kadalīpuṣpasaṃkāśaṃ lambamānā tv adhomukhī</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000230">tasya madhye sthito vīraḥ sarṣapasthūlamātrakaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000117" type="Verse" s_name="50">
+			<phrase phr_id="2-03-00256-SKT01-000231">hūṃkāro 'nāhato bījaṃ sravantaṃ[= sravat] tuṣārasannibham</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000232">vasanta iti vikhyāto dehināṃ hṛdi nandanaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000118" type="Verse" s_name="51">
+			<phrase phr_id="2-03-00256-SKT01-000233">vaḍavānalarūpā tu vārāhī tilakā matā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000234">karmamārutanirdhūtā jvalantī nābhimaṇḍale</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000119" type="Verse" s_name="52">
+			<phrase phr_id="2-03-00256-SKT01-000235">vasantaṃ prāpya saṃtuṣṭā samāpattyā vyavasthitā</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000236">eṣa śrīheruko vīro vasantatilakā matā</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000120" type="Verse" s_name="53">
+			<phrase phr_id="2-03-00256-SKT01-000237">śūnyatārūpam ādāya saṃsthitā sacarācare</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000238">kāyavākcittabhedena trividhadvāranirgame</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000121" type="Verse" s_name="54">
+			<phrase phr_id="2-03-00256-SKT01-000239">gatyāgati karoty eṣa sarvadehavyavasthitaḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000240">nābhāv akārarūpeṇa hrasvas tu prakīrtitaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000122" type="Verse" s_name="55">
+			<phrase phr_id="2-03-00256-SKT01-000241">hṛdaye 'pi hūṃkāro dīrghamātradvayaḥ smṛtaḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000242">kaṇṭhe oṃkārarūpeṇa trimātrapluta ucyate</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000123" type="Verse" s_name="56">
+			<phrase phr_id="2-03-00256-SKT01-000243">lalāṭe tu hamkāro 'sau nādo bindur anāhataḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000244">pṛthivyādimahābhūtaṃ catuścakraprabhedataḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000124" type="Verse" s_name="57">
+			<phrase phr_id="2-03-00256-SKT01-000245">catuḥsandhyām adhiṣṭhāya catuḥpadma[=&gt; -kṣaṇa] samudbhavaḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000246">caturānandarūpeṇa caturyogaparāyaṇaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000125" type="Verse" s_name="58">
+			<phrase phr_id="2-03-00256-SKT01-000247">paramānandarūpeṇa kriyākārakabhāvataḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000248">śrīvajrasattvarūpeṇa krīḍatīha yathāsukham</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000126" type="Verse" s_name="59">
+			<phrase phr_id="2-03-00256-SKT01-000249">dalānāṃ catuṣkeṣu caturdikṣu vyavasthitāh</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000250">catasro bhūtanāḍyas tu tailavahnisvarūpam āśritāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000127" type="Verse" s_name="60">
+			<phrase phr_id="2-03-00256-SKT01-000251">vidikṣu vyavasthitā nāḍyaś catasras tadgatā api</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000252">pañcāmṛtavahās tās tu tatpūjārūpatāṃ gatāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000128" type="Verse" s_name="61">
+			<phrase phr_id="2-03-00256-SKT01-000253">catuḥpūjeti vikhyātās tadrūpā eva bhāvataḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000254">iti dehasya hṛnmadhye aṣṭa nāḍyo vyavasthitāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000129" type="Verse" s_name="62">
+			<phrase phr_id="2-03-00256-SKT01-000255">aparāḥ kāyavākcittabhedena caturviṃśatiḥ samudāhṛtāḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000256">pīṭhādibhedam āśritya sthāne sthāne samāśritāḥ</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000257">kākāsyādi yathā pūrvāḥ pātanyādi viśuddhikāḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000130" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000258">ity āha bhagavān vajrī mudraṇahetum</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000131" type="Verse" s_name="63">
+			<phrase phr_id="2-03-00256-SKT01-000259">daśadravyaṃ vicintyādau akārajakaroṭake</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000260">jvalanaṃ tāpanaṃ kuryād anilānalamaṇḍalam</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000132" type="Verse" s_name="64">
+			<phrase phr_id="2-03-00256-SKT01-000261">ādyakṣarasaṃyuktaṃ dhyātvā jvalati tatkṣaṇāt</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000262">viparītākṣarasaṃyogaṃ tantramantraṃ vibhāvayet</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000133" type="Verse" s_name="65">
+			<phrase phr_id="2-03-00256-SKT01-000263">oṃkāradīpitaṃ sarvaṃ tritattvaṃ samudāhṛtam</phrase>
+			<phrase phr_id="2-03-00256-SKT01-000264">evaṃ bhāvayed devi, dravyasiddhiphalapradaḥ</phrase>
+		</sentence>
+		<sentence s_id="2-03-00256-SKT01-SID000134" type="Sentence" s_name="">
+			<phrase phr_id="2-03-00256-SKT01-000265">anena yogasiddhiḥ syāt pratyayaḥ pravartate</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

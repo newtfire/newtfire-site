@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Scheme/Suess%20Scheme.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="rhyme" type="literacy" date="1961"/>
+<title>Too Many Daves</title>
+<body>
+<stanza>
+<l>
+Did I ever tell you that
+<char type="Mother" n="1"> Mrs. McCave</char>
+</l>
+<l>
+Had twenty-three sons and she named them all
+<char type="son" n="2">Dave</char>
+?
+</l>
+</stanza>
+<stanza>
+<l> Well, she did. And that wasn't a smart thing to do.</l>
+<l>
+<rym sch="ese">You see, when she wants one and calls out, "Yoo-Hoo!</rym>
+</l>
+<l>
+Come into the house,
+<char type="son" n="2">Dave</char>
+!" she doesn't get one.
+</l>
+<l>
+All twenty-three
+<char type="son" n="2">Daves</char>
+of hers come on the run!
+</l>
+</stanza>
+<stanza>
+<l> This makes things quite difficult at the McCaves'</l>
+<l>
+As you can imagine, with so many
+<char type="son" n="2">Daves</char>
+.
+</l>
+<l> And often she wishes that, when they were born,</l>
+<l>
+She had named one of them
+<char type="son" n="3">Bodkin Van Horn</char>
+</l>
+<l>
+And one of them
+<char type="son" n="4">Hoos-Foos</char>
+. And one of them
+<char type="son" n="5">Snimm</char>
+.
+</l>
+<l>
+And one of them
+<char type="son" n="6">Hot-Shot</char>
+. And one
+<char type="son" n="7">Sunny Jim</char>
+.
+</l>
+<l>
+And one of them
+<char type="son" n="8">Shadrack</char>
+. And one of them
+<char type="son" n="9">Blinkey</char>
+.
+</l>
+<l>
+And one of them
+<char type="son" n="10">Stuffy</char>
+. And one of them
+<char type="son" n="11">Stinkey</char>
+.
+</l>
+<l>
+Another one
+<char type="son" n="12">Putt-Putt</char>
+. Another one
+<char type="son" n="13">Moon Face</char>
+.
+</l>
+<l>
+Another one
+<char type="son" n="14">Marvin O'Gravel Balloon Face</char>
+.
+</l>
+<l>
+And one of them
+<char type="son" n="15">Ziggy</char>
+. And one
+<char type="son" n="16">Soggy Muff</char>
+.
+</l>
+<l>
+One
+<char type="son" n="17">Buffalo Bill</char>
+. And one
+<char type="son" n="18">Biffalo Buff</char>
+.
+</l>
+<l>
+And one of them
+<char type="son" n="19">Sneepy</char>
+. And one
+<char type="son" n="20">Weepy Weed</char>
+.
+</l>
+<l>
+And one
+<char type="son" n="21">Paris Garters</char>
+. And one
+<char type="son" n="22">Harris Tweed</char>
+.
+</l>
+<l>
+And one of them
+<char type="son" n="23">Sir Michael Carmichael Zutt</char>
+</l>
+<l>
+And one of them
+<char type="son" n="24">Oliver Boliver Butt</char>
+</l>
+<l>
+And one of them
+<char type="son" n="25">Zanzibar Buck-Buck McFate</char>
+. . .
+</l>
+<l> But she didn't do it. And now it's too late.</l>
+</stanza>
+</body>
+</book>

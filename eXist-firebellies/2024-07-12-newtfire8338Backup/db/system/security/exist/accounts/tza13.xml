@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="114"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>7fbddee561f376282cc0b10c045d11e26a04ae85</digestPassword><group name="tza13"/><group name="aigame"/><group name="dba"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://axschema.org/namePerson">Tyler Akam</metadata><metadata key="http://exist-db.org/security/description">DIGIT student Sp 23</metadata><name>tza13</name></account>

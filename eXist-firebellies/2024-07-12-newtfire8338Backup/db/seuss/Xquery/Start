@@ -1,0 +1,38 @@
+xquery version "3.1";
+declare variable $Seuss := collection('/db/seuss');
+(:declare variable $Places := collection('/db/seuss/oh_the_places_you'll_go');:)
+declare variable $FoxBox := collection('/db/seuss/FoxinSox1965.xml');
+declare variable $Fish := collection('/db/seuss/one_fish_two_fish_1960.xml');
+declare variable $Dave := collection('/db/seuss/too_many_daves_1961');
+declare variable $ThisFile := 
+<html>
+    <head><title>Suess</title></head>
+            <body>
+                <table> 
+                    <tr>
+                        <th>Books</th>
+                        <th>Count of Books</th>
+                    </tr>
+                    
+                {
+                let $FoxBox := collection('/db/seuss/FoxinSox1965')
+                let $stanza := $FoxBox//metadata/title/body/stanza  ! normalize-space()=> distinct-values() => sort()
+                let $d := $FoxBox//metadata/title
+                let $dTitles := $FoxBox[.//stanza ! normalize-space() = $d]//title ! normalize-space() => distinct-values() => sort() => string-join(', ')
+                let $stanzaSortByCount :=
+                    for $d in $stanza
+                    let $dTitles := $FoxBox [descendant::metadata/title = $d]//metadata/title => count()
+                
+                    return $FoxBox 
+                return
+                    <tr>
+                      <td>{$d}</td>
+                      <td>{$dTitles}</td> 
+                      <td>{$stanza}</td>
+                    </tr>
+                }
+             </table>
+        </body>     
+   </html>;
+  $ThisFile
+            

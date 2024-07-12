@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="61"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>197d269ae2ddcb898e6898ec79d44045613f89f2</digestPassword><group name="wdjacca"/><group name="holmes"/><group name="disneysongs"/><group name="dba"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><metadata key="http://axschema.org/namePerson">Jackie Chan</metadata><name>wdjacca</name></account>

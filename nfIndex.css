@@ -96,7 +96,8 @@ ul.top {list-style-type:disc; }
 ul.top li {padding:.3em;}
 ul.body {list-style-type: none; display:flex;  justify-content:space-around; align-items:flex-start; flex-direction:row; flex-wrap: wrap;}
 
-ul.body li {padding-left: 10px; padding-right:10px; display:flex; justify-content:space-around; align-items:center; flex-direction:column; font-weight:bold;}
+ul.body li {padding-left: 10px; padding-right:10px;
+font-weight:bold;}
 ul.body li a {display:flex; justify-content:space-around; align-items:center; flex-direction:column; flex-wrap: wrap;}
 
 ul.body li ul  {list-style-type:circle; display:flex; justify-content:space-between; align-items:flex-start; flex-direction:row; flex-wrap: wrap;}

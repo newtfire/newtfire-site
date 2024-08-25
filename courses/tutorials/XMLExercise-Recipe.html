@@ -6,11 +6,11 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <link rel="stylesheet" type="text/css" href="explain.css" />
-        <title>XML Exercise 1</title>
+        <title>XML Exercise: Recipe</title>
     </head>
     <body>
         <!--#include virtual="top.html" -->
-        <h1><span class="banner">XML Exercise 1</span></h1>
+        <h1><span class="banner">XML Exercise: A Recipe from Another Time</span></h1>
         <section title="preliminaries">
             <h3>Before you begin</h3>
             <p>Before beginning this assignment, you should prepare your workspace: Where 
@@ -50,30 +50,35 @@
         <section title="scenario">
             <h3>Scenario</h3>
             <p>First, read this recipe for <a
-                href="http://cookit.e2bn.org/historycookbook/1496-shrewsberry-shrewsbury-cakes.html"
-                    >Shrewsbury cakes</a> from the <i>History Cookbook</i>, and pretend you are filing it with hundreds of other
-                recipes that you need to fit a set purpose, such as running an authentic historical tavern at a place like <a href="https://www.colonialwilliamsburg.org/">Colonial Williamsburg</a>. 
-                You will need to keep track of kinds and quantities of ingredients required. XML is
-                written to store information, and when we apply it to a situation with numbers and
+                href="https://rarecooking.com/2014/09/02/shrewsbury-cakes/"
+                    >Shrewsbury cakes</a> from the <i>Cooking in the Archives</i>.
+                Now, imagine you are collecting recipes like this to mark all of them in similar XML, and your 
+                XML will help build a digital archive to help chefs at an authentic historical tavern 
+                at a place like <a href="https://www.colonialwilliamsburg.org/">Colonial Williamsburg</a>. 
+                You will need to keep track of kinds and quantities of ingredients required.</p>
+            <p> XML is written to store information, and when we apply it to a situation with numbers and
                 units, like with coding recipes, the code we write can help make computerized
-                calculations, and help optimize searching across a collection for particular kinds
+                calculations, and optimize searching across a collection for particular kinds
                 of ingredients. Your code might be designed to help categorize ingredients by what
-                part of the grocery store they can be found in. The challenge of the assignment is
-                to write code that helps categorize ingredients, mark necessary equipment, and
-                stages for processing, but the system you develop is up to you.</p>
+                part of the grocery store they can be found in. And it might help food historians 
+                to translate the historic language of food preparation into modern terms. 
+                The challenge of the assignment is to write code that helps categorize ingredients, mark necessary equipment, and
+                stages in making the cakes in historic and contemporary terms. The way you approach this with XML is up to you.</p>
         </section>
         <section title="step_by_step">
             <h3>Coding the document in &lt;oXygen/&gt;</h3>
             <ul>
-                <li>First, highlight and copy the text of just the recipe (the list of ingredients
-                    and method), and ignore the rest of the page.</li>
+                <li>First, highlight and copy the text of the section titled <strong>The Recipe</strong>. 
+                   Optional: You may also include the paragraph above that section to keep the source information.</li>
 
                 <li>Open a new XML document in &lt;oXygen/&gt;. Click on the icon at top left that
                     looks like a piece of paper with a folded corner (or go to File and New...),
                     type <code>XML</code> in the filter window, and click the <code>Create</code>
                     button to launch a new XML document.</li>
-                <li>Paste in the recipe, and begin marking it to apply <dfn>elements</dfn> and add
-                        <dfn>attributes</dfn>.</li>
+                <li>Paste in the recipe, and begin marking it in XML. Make sure your XML is well-formed (with a root element) and apply <dfn>elements</dfn> and add
+                        <dfn>attributes</dfn> in a way that helps systematically label and track information. 
+                    </li>
+                
                 <li>Tips: Watch the color of the square in the upper right corner: if it is green,
                     your code is well-formed, but if it turns <q>angry red</q>, you will know there
                     is an error, perhaps <dfn>tangled tags</dfn> or a missing angle bracket, or a
@@ -98,10 +103,12 @@
                     <strong>not preserved</strong> in XML, and so one of the first things we mark
                 are the structural <q>pieces</q>. What are the important parts of this recipe that
                 you need to distinguish from other parts? Use XML markup to <q>tag</q> those. Then,
-                what is the important information that you can label with markup? Try not to write
+                what is the important information that you can label with markup?</p>
+            <p>Try not to write
                 markup that copies the same words and phrases in the text: think of categories and
                 standard units you can supply so that your markup <em>adds new value</em> to the
-                text.</p>
+                text. Your markup could organize into categories and steps, quantities and units. Can you write code that traces
+                ingredients and how they are mentioned in the historic and modern recipes?</p>
          <!--   <p> Sidenote: If you are looking for some ideas for your code, you might take a look at
                     <a href="http://forkthecookbook.com/">Fork the Cookbook</a>, a GitHub-based
                 recipe center that has worked out a system for contributors to store volumes and

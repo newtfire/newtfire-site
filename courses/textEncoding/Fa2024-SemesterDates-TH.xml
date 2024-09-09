@@ -255,9 +255,10 @@
             <td class="doBeforeClass">...</td>
         </tr>
     </table>
-    <table><tr><th id="Week17">Week 17</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+    <table>
         <tr>
-            <td>2024-12-17 Finals</td>
+            <td>H 12-19</td>
+            <td><strong>Final assignment: due by 11:59pm</strong></td>
         </tr>
     </table>
 </xml>

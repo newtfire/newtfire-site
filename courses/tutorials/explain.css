@@ -163,3 +163,7 @@ div#bannerImage {float:left}
 div#bannerImage img {width:150px}
 }
 img#elsinore-postcard{ width:40%; max-width:800px;}
+/*  for XSLT 4 Modal with options version C */
+div.flex {display:flex;}
+img#comic{ width:80%; max-width:600px;}
+img#leaving-paris {width: 100%; max-width:800px;}

@@ -32,42 +32,85 @@
             <ol>
                 <li><strong><a href="#cbmlProcessing">Spiderman CBML option</a></strong>: Work on this if your team project involves namespaced TEI/CBML code.</li>
                 <li><strong><a href="#letterProcessing">Behrend Travel Letters option</a></strong>: Work on this if your project involves your own (non-namespaced) XML code.</li>
-                <li><strong>Drama option</strong>: Adapt both options above. Work with the starter code for Behrend Travel letters (because your code is not in a namespace), but adapt the structure for the CBML output (because you may wish to make a directory of characters and what scenes they appear in.)</li>
             </ol>
         </section>
         <section id="cbmlProcessing">
             <h3>Processing a collection of Spiderman CBML Files</h3>
-            <p>First take some time to study the CBML code for this project.</p>
+            <h4>Accessing the Input collection</h4>
+            <p><strong>Download the zipped directory for <a href="spiderman.zip">the Spiderman CBML collection</a></strong>, prepared by students in the Fall 2024 Text Encoding class.</p>
+            <h5>Find our class updates on these files in textEncoding-Hub</h5>
+            <p>To view these files with edits / updates from class, find them on the textEncoding-Hub:</p>
+            <ul><li>Begin by updating (using <code>git pull</code>) your local clone of the <a href="https://github.com/newtfire/textEncoding-Hub">textEncoding-Hub</a>.</li>
+                <li>Open the textEncoding-Hub locally on your computer, and find it by looking in <strong>Class-Examples</strong> and <strong>XSLT</strong>. Inside it is a directory named <strong><code>spiderman/</code></strong>. Inside this is a directory called <code>cbml-spidey/</code> that contains a few XML files that we are working with as a collection, a starter XSLT file to help you begin this assignment, and a <code>web-out/</code> with some sample output and CSS to style it.</li> 
+                <li><strong>Copy the whole <code></code> directory to some other location on your computer</strong> outside of the textEncoding-Hub. (We do not want you to push your homework to the whole class over our textEncoding-Hub, so we just need you to make your own private copy of this directory to work with in the same folder in which you do your homework for this assignment and the next.</li>
+                <li><em>Do not rename the file folder or the files inside</em>, because we need to refer to them as a coherent collection.</li></ul> 
+            
+            <h4>Document analysis: Plotting what we're processing</h4>
+            <p>Take some time to study the CBML code for this project. For this assignment, 
+                you will be preparing a reading view of the CBML, as well as table of contents listing each page, and the characters to be found on it. 
+                Familiarize yourself with how these are encoded in the document.</p>
+            <p>For the XSLT: notice that we have provided you with two different starter files. You should probably start with the simpler of the two, and then come back later to try out the other one.  Just keep these files in the same location with respect to the input XML and web-output folders: </p>
+            <ul>
+                <li>Simpler XSLT starter file (start here): <code>CBMLcollectionToHTML-Starter.xsl</code></li>
+                <li>A little more advanced (uses more variables and specialized XSLT features): <code>characterIndex-CBMLcollectionToHTML-Starter.xsl</code></li>
+            </ul> 
+            
+                <p>Now, go on to read the <strong><a href="#collection">Working with a Collection of Files in XSLT</a></strong>.
+            </p>
+           
+            
+            
+            
             
         </section>
         <section id="letterProcessing">
             <h3>Processing a collection of XML letters</h3>
-            <p>First take some time to study the XML code for this project.</p>
+            <h4>Accessing the Input collection</h4>
+            <p><strong>Download the zipped directory for <a href="behrendTravel2024.zip">the Behrend Travel Letters collection</a></strong>, prepared by students in the Fall 2024 Text Encoding class.</p>
+            <h5>Find our class updates on these files in textEncoding-Hub</h5>
+            <p>To view these files with edits / updates from class, find them on the textEncoding-Hub:</p>
+            <ul><li>Begin by updating (using <code>git pull</code>) your local clone of the <a href="https://github.com/newtfire/textEncoding-Hub">textEncoding-Hub</a>.</li>
+                <li>Open the textEncoding-Hub locally on your computer, and find it by looking in <strong>Class-Examples</strong> and <strong>XSLT</strong>. Inside it is a directory named <strong><code>behrendTravel2024/</code></strong>. Inside this is a directory called <code>letters-xml/</code> that contains a few XML files that we are working with as a collection, a starter XSLT file to help you begin this assignment, and a <code>web-out/</code> with some sample output and CSS to style it.</li> 
+                <li><strong>Copy the whole <code></code> directory to some other location on your computer</strong> outside of the textEncoding-Hub. (We do not want you to push your homework to the whole class over our textEncoding-Hub, so we just need you to make your own private copy of this directory to work with in the same folder in which you do your homework for this assignment and the next.</li>
+                <li><em>Do not rename the file folder or the files inside</em>, because we need to refer to them as a coherent collection.</li></ul> 
             
+            <h4>Document analysis: Plotting what we're processing</h4>
+            <p>First take some time to study the XML code for this project. For this assignment, 
+                you will be preparing a reading view of the letters, as well as table of contents listing each letter, and the cpersons and locations to be found in it. 
+                Familiarize yourself with how these are encoded in the document.</p>
+            <p>For the XSLT: notice that we have provided you with a starter file that we encourage you to use and develop. Just keep it in the same location with respect to the input XML and web-output folders: <code>collectionToHTML-Starter.xsl</code>.</p>
+           
+            <p> Now, go on to read the <strong><a href="#collection">Working with a Collection of Files in XSLT</a></strong>.
+            </p>
         </section>
+     
         
-        
-        
-       
-        <h3>The input collection on our textEncoding-Hub</h3> 	
-        <p>For this assignment and the next, you will be working with a digitized XML collection of the Behrend family's travel letters from Europe made in Fall 2021. You will need to access this collection from our <strong>textEncoding-Hub</strong>, and one of our goals is for you to write XSLT to process <strong>a local directory of files</strong> rather than just one at a time as we have been doing up to this point. Here is how to access the directory:</p> 
-        <ul><li>Access the directory by updating your local clone of the <a href="https://github.com/newtfire/textEncoding-Hub">textEncoding-Hub</a>.</li>
-            <li>Open the textEncoding-Hub locally on your computer, and find it by looking in <strong>Class-Examples</strong> and <strong>XSLT</strong>. Inside it is a directory named <strong><code>behrendTravel2021/</code></strong>. Inside this is a directory called <code>xml-letters/</code> that contains a few XML files that we are working with as a collection, a starter XSLT file to help you begin this assignment, and a <code>web-out/</code> with some sample output and CSS to style it.</li> 
-            <li><strong>Copy the whole <code>behrendTravel2021/</code> directory to some other location on your computer</strong> outside of the textEncoding-Hub. (We do not want you to push your homework to the whole class over our textEncoding-Hub, so we just need you to make your own private copy of this directory to work with in the same folder in which you do your homework for this assignment and the next.</li>
-            <li><em>Do not rename the file folder or the files inside</em>, because we need to refer to them as a coherent collection.</li></ul> 
-        <p>Please be careful to <strong>copy</strong> rather the move the directory out of GitHub! If you move it out of the directory, the next time you sync our textEncoding-Hub, GitHub will prompt you to commit the change and push it, which will effectively eliminate the behrendTravel2021 folder. I can easily put it back if that happens, but please alert me ASAP if something goes awry!</p>
-        <h3>Working with a Collection of Files in XSLT</h3>
+       <section id="collection"> <h3>Working with a Collection of Files in XSLT</h3>
         <p>We can process a whole directory of files using the <code>collection()</code> function in XSLT, so we can represent content from a whole collection of XML files in one or more output HTML files. One useful application for working with a collection is to process several short XML files and unify them on a single HTML page designed to merge their content. For this assignment, we will transform the small collection of XML files <!--and their associated images -->so that they output on one HTML page, which we will produce with a <dfn>table of contents</dfn>, followed by the full representations of each letter in the collection.</p>
         <p>Since these documents are all encoded with the same structural elements, we use the <code>collection()</code> function to reach into them as a group, and output their content one by one based on their XML hierarchy. We are actually treating the collection itself as part of the hierarchy as we write our XSLT, so we move from the directory down into the document node of each file to do our XSLT processing.</p>
-        <h3>Using Modal XSLT</h3>
-        <p>Besides working with a collection of files, the other interesting new application in this assignment is <strong>modal XSLT</strong>, which lets you <dfn>process the same nodes in your document in two different ways</dfn>. How can you output the same element contents to sit in a table of contents at the top of an HTML page, <em>and also</em> in another section of your document, below the table of contents? Wouldn’t it be handy to be able to have two completely different template rules that match exactly the same elements: one rule to output an element node selectively to preview in a table of contents, and the other to output the same node more fully in <code>section</code> or <code>div</code> elements? You can write two template rules that will match the same nodes (have the same value for their <code>@match</code> attribute), but how do you make sure that the correct template rule is handling the data in the correct place?</p>
-        <p>To permit us to write multiple template rules that process the same input nodes in different ways for different purposes, we write <strong>modal XSLT</strong>, and that is what you will be learning to write with this assignment. Modal XSLT allows you to output the same parts of the input XML document in multiple locations and treat them differently each time. That is, it lets you have two different template rules for processing the same elements or other nodes in different ways, and you use the <code>@mode</code> attribute to control how the elements are processed <em>at a particular place</em> in the transformation. Please read the explanation and view the examples in <a href="http://dh.obdurodon.org/modal-xslt.html">Obdurodon’s tutorial on Modal XSLT</a> before proceeding with the assignment, so you can see where and how to set the <code>@mode</code> attribute and how it works to control processing.</p>
+           <p>We access the collection in the XSLT file using an <strong>xsl:variable</strong>, which looks like this (for the Spiderman collection):</p>
+           
+               <pre class="code">&lt;xsl:variable name="comicColl" as="document-node()+"
+                   select="collection('cbml-spidey/?select=*.xml')"/&gt;</pre>
+           <p>The variable has a name (stored in <code>@select</code> attribute, and the <code>collection()</code> value is stored in the <code>@select</code> attribute.</p>
+       </section>
+        <section><h3>Using Modal XSLT</h3>
+            <p>Besides working with a collection of files and an <code>xsl:variable</code>, the other interesting new application in this assignment is <strong>modal XSLT</strong>, which lets you <dfn>process the same nodes in your document in two different ways</dfn>. How can you output the same element contents to sit in a table of contents at the top of an HTML page, <em>and also</em> in another section of your document, below the table of contents? Wouldn’t it be handy to be able to have two completely different template rules that match exactly the same elements: one rule to output an element node selectively to preview in a table of contents, and the other to output the same node more fully in <code>section</code> or <code>div</code> elements? You can write two template rules that will match the same nodes (have the same value for their <code>@match</code> attribute), but how do you make sure that the correct template rule is handling the data in the correct place?</p>
+        <p>To permit us to write multiple template rules that process the same input nodes in different ways for different purposes, we write <strong>modal XSLT</strong>, and that is what you will be learning to write with this assignment. Modal XSLT allows you to output the same parts of the input XML document in multiple locations and treat them differently each time. That is, it lets you have two different template rules for processing the same elements or other nodes in different ways, and you use the <code>@mode</code> attribute to control how the elements are processed <em>at a particular place</em> in the transformation. Take a look at the overview and examples on <a href="http://dh.obdurodon.org/modal-xslt.html">Obdurodon’s tutorial on Modal XSLT</a> before proceeding with the assignment, so you can see where and how to set the <code>@mode</code> attribute and how it works to control processing.</p></section>
         <h3>Overview of the assignment</h3>
-        <p>For this assignment you want to produce in one HTML page our collection of letters and documents, and that page needs to have a table of contents at the top. The table of contents should have one entry for each document, which
-            produces the information we have encoded in <code>&lt;title&gt;</code> element that is a descendant of the <code>&lt;meta&gt;</code> element in our XML source code, together with the first line. Below the full table of contents you should output a new section that renders the complete text as encoded of all the documents. In the full text, you should wrap <code>&lt;span&gt;</code> elements around any markup of interest (including tagging of unclear passages, as well as persons, places, etc. Preserve some info from your source XML by outputting markup information in the HTML <code>@class</code> attribute.
-            To generate the attribute value on @class, we used an Attribute Value Template, which you should review <a href="http://dh.obdurodon.org/avt.xhtml">here</a>.</p>
-        <p>Here is a view of  
-            <a href="behrendTravel2021/web-out/lettersOut.html">our output HTML</a>, but yours does not need to look exactly like ours. For this assignment, just concentrate on outputting the full text and the table of contents at the top. </p>
+        <p>For this assignment you want to produce in one HTML page your input collection of XML documents. That page needs to have a table of contents at the top. The Table of Contents will process an element to retrieve its heading (for the letters) or an attribute value providing a page number (for the comic book files). 
+           </p>
+        <ul>
+            <li>You will need to work with the <code>@select</code> attribute in your <code>&lt;xsl:apply-templates select="...."/&gt;</code> to reach for the specific information you need to identify the unit of text in the table of contents.</li>
+            <li>Remember your XPath functions? We also ask you to output some information to help preview people / places referenced in a letter or page, using <strong><code>xsl:value-of</code></strong>. This is meant for storing calculated values in XSLT. Pull data using XPath functions from the page or letter you're processing and provide a string-joined list of characters. Tidy up the data using <code>normalize-space()</code>, and remove the duplicates with <code>distinct-values()</code>. </li>
+        </ul>
+        <p>For the reading view, you will be able to output the same nodes more fully, and you should be attentive to the document structure. CBML panels have balloons inside and you will need to make styling decisions to block and format the various kinds of markup you find to make your reading view. </p>
+        <h5>Sample starter outputs</h5>
+        <p>Here are starter views of some output HTML to give you an idea of the structure we're creating. But your files do not need to look like ours. Just concentrate on outputting the full text and the table of contents at the top. </p>
+        <ul>
+            <li><a href="spiderman/web-out/spidey-out.html">Comic Book output</a></li>
+           <li><a href="behrendTravel2024/web-out/lettersOut.html">Letters output</a></li> 
+        </ul>
         <h3>Housekeeping with the stylesheet template and output line: From XML to XHTML</h3>
         <p>To ensure that the output would be in the XHTML namespace, we
             add a default namespace declaration (in <span style="color: purple;">purple</span>
@@ -86,17 +129,19 @@
     &lt;/xsl:stylesheet&gt;</pre>
         
         <h3>How to begin</h3>
-        <p>First of all, file locations will be important in this assignment. Save your XSLT file just inside the behrendTravel2021/ directory that you copied to your local homework file space. The XSLT file should be sitting <dfn>outside</dfn> the <code>xml-letters/</code> directories.</p>
+        <p>First of all, file locations will be important in this assignment. You may work with our starter XSLT file, or
+            create a fresh copy, but be sure you read and follow all the comments in my starter file! The XSLT you're running hould be sitting <dfn>outside</dfn> the xml input directory and the web-out directory. NOTE: If this were for a real project, you would save this output in the <code>docs/</code> directory of your GitHub repo to publish on GitHub Pages.</p>
         <p>Forget about the table of contents for the moment and concentrate now on just outputting the
             full text of the documents. Except for having to pull the contents from a collection of files, this is just like the XML-to-HTML transformations you have
             already written, and you’ll use regular template rules (without a <code>@mode</code>
             attribute) to perform the transformation.</p>
         <p><strong>The collection() function:</strong> Here is how we write and run XSLT to process a collection of files. Just ahead of the first template match, after the <code>&lt;xsl:output method&gt;</code> statement, we define a <strong>variable</strong> in XSLT, which simply sets up a convenient shorthand for something complicated that we need to use more than once, so we don’t have to keep retyping it.</p>
+        <p>Here is what the xsl:output line and the global xsl:variable right after it (for the letters processing). Setting it there allows us to access the variable in any template rule where we need it: we don't need to reference that variable in many places, but definitely in the template match on the document node that controls what is being processed from the input! </p>
         <div class="code">
             <span style="color:#800000;">&lt;xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
                 include-content-type="no" indent="yes"/&gt;</span><br/>
             <code>&lt;xsl:variable name="travelColl" as="document-node()+"
-                select="collection('xml-letters/?select=*.xml')"/&gt;</code>
+                select="collection('letters-xml/?select=*.xml')"/&gt;</code>
         </div>
         <p>An <code>xsl:variable</code> works by designating an <code>@name</code> which holds any name you like to refer to it later (we have used "travelColl" here to refer to the 2021 Behrend Travel Letters' collection of files), and with <code>@select</code> it holds anything you wish: a complicated XPath expression or a function, or whatever it is that is easier to store or process in a variable rather than typing it out multiple times. We use variables to help keep our code easy to read! In this case, we are using a variable to define our collection, using the <code>collection()</code> function in the <code>@select</code> attribute. The <code>collection()</code> function is set to <em>designate the directory location of the collection of letters in relation to the stylesheet I am currently writing</em>. My XSLT is saved in the directory immediately above the <code>xml-letters/</code> directory, so I am simply instructing the XSLT parser to take a directory-path step down to that directory. Definitely keep the the <code>?select=*.xml</code> because it helps make sure that only XML files are included in the collection, screening out the Relax NG file and hidden files that Mac or Windows operating systems sometimes add to file directories.</p>
         <p>We will call this variable later in the XSLT file whenever we need it, to show how we are stepping into our collection of documents. That will happen in the first template rule that matches on the root element. Open any one of the input XML files in the XML collection in &lt;oXygen/&gt; and you will see that the transcription contents are all coded within the <code>&lt;letter&gt;</code> element, so we can write this stylesheet to look through the whole collection of files and process only the elements below <code>&lt;letter&gt;</code>. You call or invoke the variable name for the collection by signalling it first with a dollar sign <code>$</code>, giving the variable name, and then simply step down the descendant axis straight to the <code>&lt;letter&gt;</code> element in each file. Here is how the code looks to call or invoke the variable in our first template match:</p>
@@ -253,16 +298,10 @@
             <code>&lt;xsl:apply-templates&gt;</code> nor the <code>&lt;xsl:template&gt;</code>
             elements specifies a mode. To output the table of contents, both specify the same
             mode.</p>
-        <h4>A little more guidance for filling out the table of contents</h4>
-        <p>In this assignment, we are inviting you to pull some data from the source files that provide a preview of what people will read about in the letters. We are creating an HTML
-            table that features at least the <code>@xml:id</code> on the <code>letter</code> element as a distinct identifier in the first cell.</p>
-            <p>The 2021 Travel Letters team coded information about places the Behrends visited in <code>&lt;placeName&gt;</code> elements, and they coded references to people in 
-                <code>&lt;persName&gt;</code> elements. To populate the second table cell, we want to reach into each letter and pull out a sorted list of distinct-values of all the <code>&lt;placeName&gt;</code> elements. And to populate the third table cell, we do the same thing with the <code>&lt;persName&gt;</code> elements. This allows our readers to survey all the distinct places and people mentioned in each letter. Here are some XPath hints:</p>
-                
-                <ul>
-                    <li>For the first table cell, at minimum, just output the <code>@xml:id</code> on the <code>letter</code>. But we encourage you to also add the first 80 characters of the text of the letter to provide people a quick view o how the letter begins! To do this, review <a href="https://newtfire.org/courses/tutorials/XPathExercise3-TE.html">our XPath Exercise on string functions</a> and specifically try reaching into the first paragraph of the letter and try  <a href="https://developer.mozilla.org/en-US/docs/Web/XPath/Functions/substring">the XPath substring() function</a> to take the string value, only up to a certain length that you specify.</li>
-                    <li>For the second two cells, the XPath you want to try is a little pipeline. Try applying <code>normalize-space()</code> to each node (use the simple map <code>!</code> operator for this) so you remove extra spaces from individual nodes first. Then use the arrow operator <code>=></code> to operate on the whole sequence of nodes and <code>distinct-values()</code> first, then <code>sort()</code>. Finally bundle these all together tidily with a comma separator by sending it to <code>string-join()</code> like this: <code>string-join(',')</code>.</li>
-                </ul>
+        <h4>Guidance / Suggestions for filling out the table of contents</h4>
+        <p>In this assignment, we are inviting you to pull some data from the source files that provide a preview of what people will read about in the letters. Our starter XSLT files guide you to output lists of characters/persons and locations. But we also encourage you to reach in and feature different things: maybe some <code>count()</code> information, where you give a count of something interesting? Or how about adding the first 80 characters of the text of the letter to provide people a quick view o how the letter begins! To do this, review <a href="https://newtfire.org/courses/tutorials/XPathExercise3-TE.html">our XPath Exercise on string functions</a> and specifically try reaching into the first paragraph of the letter and try  <a href="https://developer.mozilla.org/en-US/docs/Web/XPath/Functions/substring">the XPath substring() function</a> to take the string value, only up to a certain length that you specify.</p>
+                    <p>For the other table cell(s) showing string-joined lists of persons/characters, places, the XPath you want to try is a little pipeline. Try applying <code>normalize-space()</code> to each node (use the simple map <code>!</code> operator for this) so you remove extra spaces from individual nodes first. Then use the arrow operator <code>=></code> to operate on the whole sequence of nodes and <code>distinct-values()</code> first, then <code>sort()</code>. Finally bundle these all together tidily with a comma separator by sending it to <code>string-join()</code> like this: <code>string-join(',')</code>.</p>
+     
         
         <h3>Completing and checking your work</h3>
         

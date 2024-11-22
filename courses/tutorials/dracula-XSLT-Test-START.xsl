@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:math="http://www.w3.org/2005/xpath-functions/math"
+    xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
     xmlns="http://www.w3.org/1999/xhtml"
+    exclude-result-prefixes="xs math xd"
     version="3.0">
     
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes"/>
 <!-- **************************************************************************-->
-<!-- 2022-11-17 ebb: This XSLT starter file is for the XSLT test in DIGIT 110. 
+<!-- 2024-11-22 ebb: This XSLT starter file is for the XSLT test in DIGIT 110. 
     Do not alter the stylesheet root element or the output line. 
     
    Your task is to transform the source XML document of Bram Stoker's novel Dracula into HTML with a 
@@ -13,8 +17,9 @@
    * process one source XML file and output one valid and well-formed HTML file;
    * contain an HTML table  for the table of contents featuring:
         * each chapter heading
-        * each chapter's distinct sorted locations
-        * each chapter's distinct sorted technologies;
+        * each chapter's distinct sorted technologies
+        * each chapter's distinct sorted places
+        
         
    * contain internal links from the chapter headings in the table of contents to the chapter headings;
    * contain span elements in the reading view to stylize the locations and technologies mentioned. 
@@ -38,8 +43,9 @@
                  <table> 
                  <tr>
                      <th>Chapter Number</th>
-                     <th>Locations mentioned</th>
-                     <th>Tech mentioned</th>
+                     <th>Devices mentioned</th>
+                     <th>Places mentioned</th>
+                     
                  </tr>
                      
             <!-- ebb: prepare the table of contents representing each descendant chapter heading,

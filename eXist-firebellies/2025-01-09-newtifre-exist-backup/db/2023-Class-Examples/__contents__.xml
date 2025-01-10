@@ -1,0 +1,39 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/2023-Class-Examples" version="1" owner="admin" group="dba" mode="755" created="2023-03-13T01:51:54.9Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="simpsons-ToSVG.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-04-17T12:25:24.977Z" modified="2023-04-17T16:43:08.323Z" filename="simpsons-ToSVG.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="simpsonsSVG-SeasonBySeason.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-04-17T14:30:37.477Z" modified="2023-04-18T17:27:40.5Z" filename="simpsonsSVG-SeasonBySeason.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakesFLWOR1.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-03-17T17:12:54.099Z" modified="2023-03-17T17:12:54.099Z" filename="shakesFLWOR1.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tokenizeFilePaths.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-03-20T16:51:03.666Z" modified="2023-03-20T16:51:03.666Z" filename="tokenizeFilePaths.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneyVoiceActorMaxCount.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-03-20T16:51:44.746Z" modified="2023-03-20T17:12:25.564Z" filename="disneyVoiceActorMaxCount.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disney-composers-songs.xql" skip="no" owner="admin" group="dba" mode="644" created="2023-03-22T05:35:08.942Z" modified="2023-03-22T05:35:08.942Z" filename="disney-composers-songs.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="starter-disneyData.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-03-22T15:38:33.786Z" modified="2023-03-22T17:03:36.593Z" filename="starter-disneyData.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="startHTML-disneyData.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-03-22T17:06:02.321Z" modified="2023-03-22T17:15:00.202Z" filename="startHTML-disneyData.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneySongsXQuery3-Model.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-03-24T16:45:47.149Z" modified="2023-03-24T16:45:47.149Z" filename="disneySongsXQuery3-Model.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="disneySongs-toHTMLEx.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-03-24T16:47:46.465Z" modified="2023-04-03T04:39:35.761Z" filename="disneySongs-toHTMLEx.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lotrLoc-ToNetwork.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-04-03T03:24:36.704Z" modified="2023-04-16T19:47:56.69Z" filename="lotrLoc-ToNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lotrLoc-SimplerNetwork.xql" skip="no" owner="admin" group="dba" mode="755" created="2023-04-16T21:36:39.311Z" modified="2023-04-16T22:10:41.719Z" filename="lotrLoc-SimplerNetwork.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/brandnew/Albums/YourFavoriteWeapon" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:18:54.056Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="suddenDeathInCarolina.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54.057Z" modified="2020-08-07T21:18:54.057Z" filename="suddenDeathInCarolina.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="noSeatbeltSong.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54.127Z" modified="2020-08-07T21:18:54.127Z" filename="noSeatbeltSong.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="magazines.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54.19Z" modified="2020-08-07T21:18:54.19Z" filename="magazines.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="judeLawAndASemesterAbroad.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54.254Z" modified="2020-08-07T21:18:54.254Z" filename="judeLawAndASemesterAbroad.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="loganToGovernmentCenter.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54.321Z" modified="2020-08-07T21:18:54.321Z" filename="loganToGovernmentCenter.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lastChanceToLoseYourKeys.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54.383Z" modified="2020-08-07T21:18:54.383Z" filename="lastChanceToLoseYourKeys.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="secondary.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54.447Z" modified="2020-08-07T21:18:54.447Z" filename="secondary.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="magazines(exp).xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54.513Z" modified="2020-08-07T21:18:54.513Z" filename="magazines(exp).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="showerScene.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54.576Z" modified="2020-08-07T21:18:54.576Z" filename="showerScene.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="seventyTimes7.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54.697Z" modified="2020-08-07T21:18:54.697Z" filename="seventyTimes7.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="failureByDesign.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54.759Z" modified="2020-08-07T21:18:54.759Z" filename="failureByDesign.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mixTape.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54.828Z" modified="2020-08-07T21:18:54.828Z" filename="mixTape.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="socoAmarettoLime.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:54.897Z" modified="2020-08-07T21:18:54.897Z" filename="socoAmarettoLime.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

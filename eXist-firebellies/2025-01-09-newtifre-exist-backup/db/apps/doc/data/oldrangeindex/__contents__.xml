@@ -1,0 +1,7 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/doc/data/oldrangeindex" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:55.195Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="oldrangeindex.xml" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:55.196Z" modified="2021-12-30T05:04:55.196Z" filename="oldrangeindex.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="listings" filename="listings"/>
+</collection>

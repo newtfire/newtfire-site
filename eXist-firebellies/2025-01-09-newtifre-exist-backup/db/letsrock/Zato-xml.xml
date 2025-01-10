@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <song name="Let Me Carve Your Way">
+        <metadata>
+            <sname>Let Me Carve Your Way</sname>
+            <author>Daisuke Ishiwatari</author>
+        </metadata>
+        <lyrics>
+            <verse n="1">
+                <line n="1">I once had some sweet memories</line>
+                <line n="2">Its worth remains the same</line>
+                <line n="3">How can I remember those moments, sweetheart?</line>
+                <line n="4">They should have been right there</line>
+            </verse>
+            
+            <prechorus n="1">
+                <line n="1"><i story="zato">Vanish into dark</i></line>
+                <line n="2">Future, Now and Past</line>
+                <line n="3">Vanish into dark</line>
+                <line n="4">When it all mixes up</line>
+            </prechorus>
+            
+            <chorus n="1">
+                <line n="1">Drowned in pain, I lost my mind</line>
+                <line n="2">There's no good or bad in there</line>
+                <line n="3">Drowned in gain, I lost my mind</line>
+                <line n="4">There's no good or bad in there</line>
+                <line n="5">Vanish into dark</line>
+                <line n="6">It is hopelessness filed by the light</line>
+            </chorus>
+            
+            <verse n="2">
+                <line n="1"><i story="zato">Abyss of desire</i></line>
+                <line n="2">Abyss of dreams</line>
+                <line n="3">Is it farther than the edge of the world?</line>
+                <line n="4">And then after that, will the dream still go on?</line>
+                <line n="5">I hope, I hope, that it's not the end of sorrow and joy</line>
+            </verse>
+            
+            <prechorus n="2">
+                <line n="1">Vanish into dark</line>
+                <line n="2">Future, Now and Past</line>
+                <line n="3">Vanish into dark</line>
+                <line n="4">When it all mixes up</line>
+            </prechorus>
+            
+            <chorus n="2">
+                <line n="1">Drowned in pain, I lost my mind</line>
+                <line n="2">There's no good or bad in there</line>
+                <line n="3">Drowned in gain, I lost my mind</line>
+                <line n="4">There's no good or bad in there</line>
+                <line n="5">Vanish into dark</line>
+                <line n="6">It is hopelessness filed by the light</line>
+            </chorus>
+            
+            <verse n="3">
+                <line n="1">Drive! Drive!</line>
+                <line n="2">Drive piles into the footprints behind</line>
+                <line n="3">Slash! Slash!</line>
+                <line n="4">Don't forget the respect for pain</line>
+            </verse>
+            
+            <bridge n="1">
+                <line n="1">Drowned in pain, I lost my mind</line>
+                <line n="2">There's no good or bad in there</line>
+                <line n="3">Drowned in gain, I lost my mind</line>
+                <line n="4">There's no good or bad in there</line>
+                <line n="5">Drowned in pain, I lost my mind</line>
+                <line n="6">There's no good or bad in there</line>
+                <line n="7">Drowned in gain, I lost my mind</line>
+                <line n="8">There's no good or bad in there</line>
+            </bridge>
+            
+            <verse n="4">
+                <line n="1">Vanish into dark</line>
+                <line n="2">Future, Now and Past</line>
+                <line n="3">Vanish into dark</line>
+                <line n="4">When it all mixes up</line>
+                <line n="5">Vanish into dark</line>
+                <line n="6">It's the sweet smell of death</line>
+                <line n="7">Vanish into dark</line>
+                <line n="8">Dreadful hope never speaks out</line>
+            </verse>
+            
+            <verse n="5">
+                <line n="1">Patched-up liberty compressed sky</line>
+                <line n="2">The broken wall will cry for humanity</line>
+            </verse>
+            
+            <verse n="6">
+                <line n="1">I once had some sweet memories</line>
+                <line n="2">Its worth remains the same</line>
+                <line n="3">How can I remember those moments, sweetheart?</line>
+                <line n="4">Tell me <parentheses>(tell me)</parentheses></line>
+                <line n="5">TELL ME</line>
+            </verse>
+            
+            <verse n="7">
+                <line n="1">If there's a man who can make anything</line>
+                <line n="2"><i story="zato">Give me the tools to live in the past</i></line>
+                <line n="3"><i story="zato">It's all gone down so deep, I can't see anymore.</i></line>
+                <line n="4">If that's not the way to go</line>
+                <line n="5">Let me... let me</line>
+                <line n="6">Let me carve your way</line>
+                <line n="7"><i story="zato">I'm a shadow, always...</i></line>
+                <line n="8"><i story="zato">with you</i></line>
+            </verse>
+        </lyrics>
+    </song>
+</xml>

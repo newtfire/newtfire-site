@@ -1,0 +1,66 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/simpsons/Simpsons_S20" version="1" owner="admin" group="dba" mode="755" created="2023-04-17T13:07:50.8Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Season_20_Episode_20-Four_Great_Women_and_a_Manicure.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:52.319Z" modified="2023-04-17T13:07:52.319Z" filename="Season_20_Episode_20-Four_Great_Women_and_a_Manicure.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_19-Waverly_Hills,_9021-D'Oh.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:52.234Z" modified="2023-04-17T13:07:52.234Z" filename="Season_20_Episode_19-Waverly_Hills,_9021-D'Oh.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_18-Father_Knows_Worst.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:52.165Z" modified="2023-04-17T13:07:52.165Z" filename="Season_20_Episode_18-Father_Knows_Worst.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_16-Eeny_Teeny_Maya_Moe.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:52.095Z" modified="2023-04-17T13:07:52.095Z" filename="Season_20_Episode_16-Eeny_Teeny_Maya_Moe.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_17-The_Good,_the_Sad_and_the_Drugly.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:52.028Z" modified="2023-04-17T13:07:52.028Z" filename="Season_20_Episode_17-The_Good,_the_Sad_and_the_Drugly.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_05-Dangerous_Curves.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:51.96Z" modified="2023-04-17T13:07:51.96Z" filename="Season_20_Episode_05-Dangerous_Curves.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_07-Mypods_and_Boomsticks.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:51.865Z" modified="2023-04-17T13:07:51.865Z" filename="Season_20_Episode_07-Mypods_and_Boomsticks.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_21-Coming_to_Homerica.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:51.77Z" modified="2023-04-17T13:07:51.77Z" filename="Season_20_Episode_21-Coming_to_Homerica.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_04-Treehouse_of_Horror_XIX.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:51.706Z" modified="2023-04-17T13:07:51.706Z" filename="Season_20_Episode_04-Treehouse_of_Horror_XIX.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_10-Take_My_Life,_Please.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:51.601Z" modified="2023-04-17T13:07:51.601Z" filename="Season_20_Episode_10-Take_My_Life,_Please.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_08-The_Burns_and_the_Bees.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:51.535Z" modified="2023-04-17T13:07:51.535Z" filename="Season_20_Episode_08-The_Burns_and_the_Bees.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_12-No_Loan_Again,_Naturally.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:51.468Z" modified="2023-04-17T13:07:51.468Z" filename="Season_20_Episode_12-No_Loan_Again,_Naturally.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_11-How_the_Test_Was_Won.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:51.399Z" modified="2023-04-17T13:07:51.399Z" filename="Season_20_Episode_11-How_the_Test_Was_Won.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_14-In_the_Name_of_the_Grandfather.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:51.317Z" modified="2023-04-17T13:07:51.317Z" filename="Season_20_Episode_14-In_the_Name_of_the_Grandfather.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_02-Lost_Verizon.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:51.221Z" modified="2023-04-17T13:07:51.221Z" filename="Season_20_Episode_02-Lost_Verizon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_09-Lisa_the_Drama_Queen.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:51.15Z" modified="2023-04-17T13:07:51.15Z" filename="Season_20_Episode_09-Lisa_the_Drama_Queen.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_15-Wedding_For_Disaster.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:51.083Z" modified="2023-04-17T13:07:51.083Z" filename="Season_20_Episode_15-Wedding_For_Disaster.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_13-Gone_Maggie_Gone.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:51.019Z" modified="2023-04-17T13:07:51.019Z" filename="Season_20_Episode_13-Gone_Maggie_Gone.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_03-Double,_Double,_Boy_in_Trouble.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:50.957Z" modified="2023-04-17T13:07:50.957Z" filename="Season_20_Episode_03-Double,_Double,_Boy_in_Trouble.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_01-Se.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:50.878Z" modified="2023-04-17T13:07:50.878Z" filename="Season_20_Episode_01-Se.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_20_Episode_06-Homer_and_Lisa_E.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:07:50.802Z" modified="2023-04-17T13:07:50.802Z" filename="Season_20_Episode_06-Homer_and_Lisa_E.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/seuss-queries" version="1" owner="admin" group="seuss" mode="771" created="2022-03-16T16:59:48.321Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Seuss.html" skip="no" owner="luh429" group="luh429" mode="644" created="2022-04-20T19:39:06.098Z" modified="2022-04-20T19:40:30.119Z" filename="Seuss.html" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Seuss.tsv" skip="no" owner="scd5363" group="scd5363" mode="644" created="2022-04-20T19:05:54.003Z" modified="2022-04-29T16:33:31.327Z" filename="Seuss.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="drSeussXQuery" skip="no" owner="luh429" group="luh429" mode="755" created="2022-04-20T19:09:47.202Z" modified="2022-04-22T16:55:26.256Z" filename="drSeussXQuery" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="SeussChar.tsv" skip="no" owner="scd5363" group="scd5363" mode="644" created="2022-04-22T17:24:17.055Z" modified="2022-04-22T17:34:23.443Z" filename="SeussChar.tsv" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="networkGraph-Title-mUp.xql" skip="no" owner="epw5194" group="epw5194" mode="755" created="2022-04-19T02:40:17.619Z" modified="2022-04-22T17:36:29.673Z" filename="networkGraph-Title-mUp.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="titleType.xql" skip="no" owner="epw5194" group="epw5194" mode="755" created="2022-04-07T17:22:56.72Z" modified="2022-04-08T03:34:04.39Z" filename="titleType.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="titleType.tsv" skip="no" owner="epw5194" group="epw5194" mode="755" created="2022-04-08T03:32:58.579Z" modified="2022-04-08T14:49:40.903Z" filename="titleType.tsv" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

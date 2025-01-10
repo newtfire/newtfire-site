@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:math="http://www.w3.org/2005/xpath-functions/math"
-    xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
     xmlns="http://www.w3.org/1999/xhtml"
-    exclude-result-prefixes="xs math xd"
     version="3.0">
     
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes"/>
@@ -17,10 +13,10 @@
    * process one source XML file and output one valid and well-formed HTML file;
    * contain an HTML table  for the table of contents featuring:
         * each chapter heading
-        * each chapter's distinct sorted technologies
-        * each chapter's distinct sorted places
-        
-        
+        * each chapter's distinct sorted devices
+        * each chapter's distinct sorted places;
+       
+     
    * contain internal links from the chapter headings in the table of contents to the chapter headings;
    * contain span elements in the reading view to stylize the locations and technologies mentioned. 
    * Prepare CSS to style your HTML. The XSLT should output the CSS link line to your CSS file accurately. 
@@ -43,9 +39,8 @@
                  <table> 
                  <tr>
                      <th>Chapter Number</th>
-                     <th>Devices mentioned</th>
-                     <th>Places mentioned</th>
-                     
+                     <th>Locations mentioned</th>
+                     <th>Tech mentioned</th>
                  </tr>
                      
             <!-- ebb: prepare the table of contents representing each descendant chapter heading,

@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/monex/resources/vendor/scripts" version="1" owner="monex" group="dba" mode="775" created="2021-12-30T05:04:59.138Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery.flot.time.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.139Z" modified="2021-12-30T05:04:59.139Z" filename="jquery.flot.time.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.navigate.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.141Z" modified="2021-12-30T05:04:59.141Z" filename="jquery.flot.navigate.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.143Z" modified="2021-12-30T05:04:59.143Z" filename="jquery.flot.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.tooltip.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.146Z" modified="2021-12-30T05:04:59.146Z" filename="jquery.flot.tooltip.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="modernizr.custom.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.148Z" modified="2021-12-30T05:04:59.148Z" filename="modernizr.custom.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.selection.min.js" skip="no" owner="monex" group="dba" mode="664" created="2021-12-30T05:04:59.15Z" modified="2021-12-30T05:04:59.15Z" filename="jquery.flot.selection.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

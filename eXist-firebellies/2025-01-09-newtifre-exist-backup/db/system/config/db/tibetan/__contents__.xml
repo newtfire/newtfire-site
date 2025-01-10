@@ -1,0 +1,16 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/config/db/tibetan" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:32:59.624Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="collection.xconf" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:32:59.744Z" modified="2021-12-30T05:32:59.744Z" filename="collection.xconf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="ENG" filename="ENG"/>
+    <subcollection name="CHI" filename="CHI"/>
+    <subcollection name="BOD" filename="BOD"/>
+    <subcollection name="JPN" filename="JPN"/>
+    <subcollection name="GER" filename="GER"/>
+    <subcollection name="SPA" filename="SPA"/>
+    <subcollection name="PARID" filename="PARID"/>
+    <subcollection name="FRE" filename="FRE"/>
+    <subcollection name="SKT" filename="SKT"/>
+    <subcollection name="RUS" filename="RUS"/>
+</collection>

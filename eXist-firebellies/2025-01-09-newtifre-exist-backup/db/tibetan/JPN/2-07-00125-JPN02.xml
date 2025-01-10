@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="2-07-00125-JPN02.xml"/>
+		<title>Bodhipathapradīpa</title>
+		<author>Atīśa Dīpaṃkaraśrījñāna</author>
+		<unifiedCatalogID>2-07-00125</unifiedCatalogID>
+		<sourceDesc>
+			<bibl>
+				<title>『菩提道灯論』</title>
+				<author>Maria Rinchen</author>
+				<pubInfo>Dharamsala</pubInfo>
+				<date>2008</date>
+			</bibl>
+		</sourceDesc>
+		<creation date="Mon Feb 31 4:20:37 2020"/>
+		<processed date="Mon Feb 31 4:20:37 2020" ver="v.1.0" auth="Hackett"/>
+		<processed date="Tue Mar 31 04:19:18 2020" ver="v.1.01" auth="XMLTagEnglish v.1.08"/>
+	</head>
+	<text>
+		<sentence s_id="2-07-00125-JPN02-SID000001" type="Text Title">
+			<phrase phr_id="2-07-00125-JPN02-000001">「菩提道灯細疏」</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000002" type="Sentence">
+			<phrase phr_id="2-07-00125-JPN02-000002">若き文殊菩薩に礼拝いたします</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000003" type="Verse" s_name="1">
+			<phrase phr_id="2-07-00125-JPN02-000003">三世のすべての勝利者たち、その教え、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000004">僧伽に大いなる敬意を持って礼拝いたします</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000005">善き弟子チャンチュプ・ウーの請願によって、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000006">〔私はここに〕「菩提道灯論（悟りへの道を照らす灯）」を明らかにしよう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000004" type="Verse" s_name="2">
+			<phrase phr_id="2-07-00125-JPN02-000007">下士、中士、上士となる三種類の人たちがあることを理解するべきであるそれらの定義を明らかにする個々の分類を書き記そう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000005" type="Verse" s_name="3">
+			<phrase phr_id="2-07-00125-JPN02-000008">何らかの手段によって輪廻の幸せのみを求め、自分だけの目的を求める者たちが、下士であると知るべきである</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000006" type="Verse" s_name="4">
+			<phrase phr_id="2-07-00125-JPN02-000009">この世の幸せに背を向けて、不徳の行ないをやめるという本質を持ち自分ひとりの寂静の境地のみを求める者が、中士であると知るべきである</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000007" type="Verse" s_name="5">
+			<phrase phr_id="2-07-00125-JPN02-000010">自分の心の連続体にある苦しみ〔を認識すること〕によって、他者のすべての苦しみを完全に滅することを望む者が、最もすぐれた者（上士）である</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000008" type="Verse" s_name="6">
+			<phrase phr_id="2-07-00125-JPN02-000011">無上の悟りを求める聖なる者たちのために、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000012">ラマたちが教えた正しい方便（手段）を説き示そう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000009" type="Verse" s_name="7">
+			<phrase phr_id="2-07-00125-JPN02-000013">完全なる仏陀の絵や像、仏舎利塔、聖なる仏法に向かって</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000014">花や線香など、何でも持っている物を供養しなさい</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000010" type="Verse" s_name="8">
+			<phrase phr_id="2-07-00125-JPN02-000015">『普賢行（普賢菩薩の行ない）』に述べられている七つの行による供養もして、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000016">悟りの真髄に至るまで決して後ずさりしないという心で</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000011" type="Verse" s_name="9">
+			<phrase phr_id="2-07-00125-JPN02-000017">三宝に心から信心し、片膝を地につけて、両手を合わせて合掌し、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000018">最初に帰依の言葉を三回唱えなさい</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000012" type="Verse" s_name="10">
+			<phrase phr_id="2-07-00125-JPN02-000019">そして、まずすべての有情に対する愛を起こしてから、下三界、生〔・老・病・〕</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000020">死などの苦しみに喘いでいるすべての生き物たちを見て、</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000013" type="Verse" s_name="11">
+			<phrase phr_id="2-07-00125-JPN02-000021">苦痛に基づく苦しみや、苦と苦の因から有情が解放されますようにと願うこと</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000022">によって、決して後ずさりしないという誓いをたてて、菩提心を起こしなさい</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000014" type="Verse" s_name="12">
+			<phrase phr_id="2-07-00125-JPN02-000023">このように熱望の菩提心を生起したことによる福徳は、マイトレーヤ（弥勒）</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000024">が『華厳経』（入法界品）の中で正しく説明している</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000015" type="Verse" s_name="13">
+			<phrase phr_id="2-07-00125-JPN02-000025">その経典を読むか、ラマから聞くかして、完全なる悟りを求める菩提心がもた</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000026">らす福徳は尽きることのないものであることを認識し、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000027">それが安定して留まるよう何度も繰り返し菩提心を生起するべきである</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000016" type="Verse" s_name="14">
+			<phrase phr_id="2-07-00125-JPN02-000028">『勇施所問経』（ヴィラダッタによって請願された経典）には、その（菩提心の）</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000029">功徳が正しく説かれている</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000030">それを三つの偈だけに要約してここに記そう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000017" type="Verse" s_name="15">
+			<phrase phr_id="2-07-00125-JPN02-000031">菩提心の功徳とは、もしそれが物質的な存在ならば、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000032">虚空をすべて満たして、さらにそれを超えているだろう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000018" type="Verse" s_name="16">
+			<phrase phr_id="2-07-00125-JPN02-000033">ガンジス川の砂の数ほど多くの仏国土を宝石で満たし、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000034">それをこの世の守護者に捧げることよりも、</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000019" type="Verse" s_name="17">
+			<phrase phr_id="2-07-00125-JPN02-000035">両手を合わせて合掌し、悟りに心を向けることの方が、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000036">供養としてはるかにすぐれており、それは尽きることがない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000020" type="Verse" s_name="18">
+			<phrase phr_id="2-07-00125-JPN02-000037">熱望の菩提心を起こしたなら、努力してそれをますます高めていきなさい</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000038">今世だけでなく、来世においてもそれを覚えているために、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000039">説明された通りの実践修行（三学）を守りなさい</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000021" type="Verse" s_name="19">
+			<phrase phr_id="2-07-00125-JPN02-000040">実践の菩提心の本質である菩薩戒を受けなければ、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000041">熱望の菩提心が正しく高められていくことはない</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000042">完全なる悟りのために菩薩戒が高められることを望む者は、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000043">そのように努力してこれを確実に受けなさい</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000022" type="Verse" s_name="20">
+			<phrase phr_id="2-07-00125-JPN02-000044">波羅提木叉の7つの戒律〔のいずれか〕を常に守っている者には、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000045">菩薩戒〔を授かる器となれる〕という恵みがあるが、他の者にはない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000023" type="Verse" s_name="21">
+			<phrase phr_id="2-07-00125-JPN02-000046">波羅提木叉の戒律には七つあると如来が説明されている中で、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000047">栄えある清らかな行ないが最高のものであり、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000048">それは比丘の戒律であると言われている</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000024" type="Verse" s_name="22">
+			<phrase phr_id="2-07-00125-JPN02-000049">『菩薩地』の戒律の章に説かれている儀式によって</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000050">完全なる資格を備えた善きラマから戒律を授かるべきである</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000025" type="Verse" s_name="23">
+			<phrase phr_id="2-07-00125-JPN02-000051">戒律を授与する儀式をよく知っていて 自身が戒律をよく守っており</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000052">戒律を授与する忍耐と慈悲の心を持つ者が善きラマであると知るべきである</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000026" type="Verse" s_name="24">
+			<phrase phr_id="2-07-00125-JPN02-000053">このように努力しても、そのようなラマが見つからなかったなら</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000054">それより他の、戒律を受けるための儀式を正しく説明しよう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000027" type="Verse" s_name="25">
+			<phrase phr_id="2-07-00125-JPN02-000055">そこで以前、文殊師利がアバラージャ（虚空王）であった時</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000056">どのように菩提心を生起されたかを</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000057">『文殊師利仏国土荘厳経』に説かれているように</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000058">ここでも同様に正しく明らかに記そう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000028" type="Verse" s_name="26">
+			<phrase phr_id="2-07-00125-JPN02-000059">守護者たちの目の前で、完全なる悟りを得るために菩提心を生起し</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000060">全ての有情を客人として招き、彼らを輪廻から解放しよう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000029" type="Verse" s_name="27">
+			<phrase phr_id="2-07-00125-JPN02-000061">悪意、怒り、吝嗇（けち）、嫉妬などの心を、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000062">今この時より、悟りに至るまで起こしてはならない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000030" type="Verse" s_name="28">
+			<phrase phr_id="2-07-00125-JPN02-000063">清らかな行ないをして、不徳の行ないと欲望を捨てなさい</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000064">戒律を守ることを喜び、仏陀に従って修行しなさい</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000031" type="Verse" s_name="29">
+			<phrase phr_id="2-07-00125-JPN02-000065">私は速やかな方法で悟りを得ることを喜ばず</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000066">一人の有情のために、最後まで留まっていよう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000032" type="Verse" s_name="30">
+			<phrase phr_id="2-07-00125-JPN02-000067">はかり知れず、想像もつかない様々な国土を浄化しよう</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000068">〔菩薩という〕名を維持して、十方位に住していよう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000033" type="Verse" s_name="31">
+			<phrase phr_id="2-07-00125-JPN02-000069">私はからだと言葉の行ないをすべて浄化しよう</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000070">そして心の行ないも浄化して、好ましくない行ないをしないようにしよう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000034" type="Verse" s_name="32">
+			<phrase phr_id="2-07-00125-JPN02-000071">自分のからだと言葉と心の行ないを浄化する因と〔なる〕</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000072">実践の菩提心の本質である菩薩戒を守り、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000073">三種類の戒律の実践をよく修行するならば、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000074">三種類の戒律の実践に対する敬意が高まっていくだろう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000035" type="Verse" s_name="33">
+			<phrase phr_id="2-07-00125-JPN02-000075">故に、清らかで完全な悟りを得るための菩薩戒を守る努力をすることにより、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000076">完全なる悟りを得るために必要な資糧がすべて得られるだろう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000036" type="Verse" s_name="34">
+			<phrase phr_id="2-07-00125-JPN02-000077">功徳と智慧という本質を持つ資糧を完全に得るための因は</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000078">神通力を得ることだとすべての仏陀たちが述べている</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000037" type="Verse" s_name="35">
+			<phrase phr_id="2-07-00125-JPN02-000079">翼が広がらない鳥は空を飛ぶことができないように</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000080">神通力のない者は、有情を救済することはできない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000038" type="Verse" s_name="36">
+			<phrase phr_id="2-07-00125-JPN02-000081">神通力のある者が一昼夜に積む功徳は</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000082">神通力のない者が百世かかっても積むことはできない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000039" type="Verse" s_name="37">
+			<phrase phr_id="2-07-00125-JPN02-000083">いち早く悟りに至るための資糧を、完全に得たいと望む者は</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000084">それに努力することで神通力を得るが、怠慢な者は得ることはできない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000040" type="Verse" s_name="38">
+			<phrase phr_id="2-07-00125-JPN02-000085">「止」を成就するまでは、神通力を得ることはできない</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000086">故に「止」を成就するために、何度も繰り返し努力するべきである</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000041" type="Verse" s_name="39">
+			<phrase phr_id="2-07-00125-JPN02-000087">「止」に必要な条件が欠けていると、どんなに努力して瞑想し、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000088">幾千年かけたところで禅定を得ることはできないだろう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000042" type="Verse" s_name="40">
+			<phrase phr_id="2-07-00125-JPN02-000089">故に、禅定を得るために必要な資糧についての章（『三昧資糧品』）に説かれて</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000090">いる条件をよく維持し、一つの徳ある瞑想の対象に、心を留めるべきである</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000043" type="Verse" s_name="41">
+			<phrase phr_id="2-07-00125-JPN02-000091">修行者が「止」の修行を成就したなら、神通力も得るであろう</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000092">般若波羅密（智慧の完成）の修行をしないと、障りをなくすことはできない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000044" type="Verse" s_name="42">
+			<phrase phr_id="2-07-00125-JPN02-000093">故に、煩悩障と所知障をすべて滅するために</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000094">修行者は般若波羅密の修行を、常に方便とともに修行するべきである</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000045" type="Verse" s_name="43">
+			<phrase phr_id="2-07-00125-JPN02-000095">方便の支えがない智慧や、智慧の支えがない方便もまた</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000096">束縛であると言われているので、〔智慧も方便も〕どちらも捨てるべきではない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000046" type="Verse" s_name="44">
+			<phrase phr_id="2-07-00125-JPN02-000097">智慧は何か、方便は何かという疑問をなくすために</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000098">方便と智慧の正しい区別を明らかにしよう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000047" type="Verse" s_name="45">
+			<phrase phr_id="2-07-00125-JPN02-000099">般若波羅密を捨てた布施波羅密など、徳あるすべての仏法は</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000100">方便であると勝利者たちは述べている</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000048" type="Verse" s_name="46">
+			<phrase phr_id="2-07-00125-JPN02-000101">方便を修習した力によって智慧に瞑想する者は、いち早く悟りを得るが</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000102">無我のみを瞑想してもそれはできない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000049" type="Verse" s_name="47">
+			<phrase phr_id="2-07-00125-JPN02-000103">〔五〕蘊、〔十八〕界、〔十二〕処などは、〔実体を持って〕生じるのではないと</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000104">理解し、その自性が空であることを知ることが、智慧であると言われている</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000050" type="Verse" s_name="48">
+			<phrase phr_id="2-07-00125-JPN02-000105">存在しているものが生じるというのは正しくない</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000106">存在しないものもまた、虚空の華のように〔生じることはない〕</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000107">この両方が過失となってしまうので</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000108">〔存在しているものと存在しないものは〕どちらも生じることはない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000051" type="Verse" s_name="49">
+			<phrase phr_id="2-07-00125-JPN02-000109">事物はそれ自体から生じるのではない</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000110">他から生じるのでもないし、自他の両方から生じるのでもない</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000111">因なくして生じるのでもない</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000112">従って、その自性は、無自性ということである</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000052" type="Verse" s_name="50">
+			<phrase phr_id="2-07-00125-JPN02-000113">さらに、すべての事象をひとつか多くのものかによって分類すると、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000114">自性を見出すことはできないので、無自性であることが確定する</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000053" type="Verse" s_name="51">
+			<phrase phr_id="2-07-00125-JPN02-000115">『七十空性論』、『六十頌如理論』、『中論』などからも、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000116">すべての事物の自性は空であることが説明されている</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000054" type="Verse" s_name="52">
+			<phrase phr_id="2-07-00125-JPN02-000117">テキストが多いのでここには引用しないが</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000118">成立する学説のみを瞑想修行のために正しく説明した</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000055" type="Verse" s_name="53">
+			<phrase phr_id="2-07-00125-JPN02-000119">故に、すべての現象の自性は見出すことができないので</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000120">無我に瞑想することこそ、智慧に瞑想することである</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000056" type="Verse" s_name="54">
+			<phrase phr_id="2-07-00125-JPN02-000121">智慧によって、すべての現象の自性を見ることはできないので、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000122">論理によって分析された智慧そのものに、分別なく瞑想するべきである</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000057" type="Verse" s_name="55">
+			<phrase phr_id="2-07-00125-JPN02-000123">概念作用（分別）から生じたこの世の生存は、概念作用（分別）を本質とする</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000124">故に、概念作用（分別）の断滅が、最もすぐれた涅槃である</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000058" type="Sentence">
+			<phrase phr_id="2-07-00125-JPN02-000125">故に釈尊も、</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000059" type="Verse" s_name="56">
+			<phrase phr_id="2-07-00125-JPN02-000126">概念作用（分別）という大いなる無明は、輪廻の海に転落させるものである</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000127">無分別の禅定に留まっていると、虚空のような無分別が明らかになる</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000128">と述べられている</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000060" type="Sentence">
+			<phrase phr_id="2-07-00125-JPN02-000129">『入無分別陀羅尼』（無分別に従事する真言）という経典にも、</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000061" type="Verse" s_name="57">
+			<phrase phr_id="2-07-00125-JPN02-000130">菩薩が聖なる仏法を、無分別に熟考するなら、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000131">超え難いとされている分別を超えて、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000132">段階的に無分別の境地に至る、と言われている</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000062" type="Verse" s_name="58">
+			<phrase phr_id="2-07-00125-JPN02-000133">経典と論理によって、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000134">すべての現象は〔実体を持って〕生じたのではないという無自性に確信を得て、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000135">無分別に瞑想するべきである</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000063" type="Verse" s_name="59">
+			<phrase phr_id="2-07-00125-JPN02-000136">このようにして真如に瞑想し、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000137">順次〔加行道の第一である〕熱（暖）という段階に至り、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000138">〔菩薩の第一地〕である歓喜の地などに到達するのであり</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000139">仏陀の悟りは遠くない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000064" type="Verse" s_name="60">
+			<phrase phr_id="2-07-00125-JPN02-000140">マントラの力によって得た息災と増益などの行ないにより</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000141">善き水瓶を成就することなど、八大成就などの力によって</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000065" type="Verse" s_name="61">
+			<phrase phr_id="2-07-00125-JPN02-000142">容易に悟りに必要な資糧を完全に積みたいと望み、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000143">所作タントラ、行タントラなどに説かれている秘密真言の修行を望むならば、</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000066" type="Verse" s_name="62">
+			<phrase phr_id="2-07-00125-JPN02-000144">その時阿闍梨の灌頂を与えてもらうために</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000145">供物や尊敬、宝石などをお布施して、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000146">師の言葉を実践するなどのすべてによって、聖なるラマを喜ばせるべきである</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000067" type="Verse" s_name="63">
+			<phrase phr_id="2-07-00125-JPN02-000147">ラマを喜ばせたことで、完全な阿闍梨の灌頂を授かり、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000148">すべての不徳を浄化した自分は、悉地を成就した恵まれた者となる</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000068" type="Verse" s_name="64">
+			<phrase phr_id="2-07-00125-JPN02-000149">『本初仏大タントラ』には、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000150">強く努めて禁止しているので、秘密の灌頂と智慧の灌頂を、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000151">清らかな行ないをする修行者は受けるべきではない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000069" type="Verse" s_name="65">
+			<phrase phr_id="2-07-00125-JPN02-000152">もしこの灌頂を受けたなら、清らかな苦行に住する者は、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000153">禁止されたことを修行することになるため、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000154">苦行の戒律は損なわれてしまう</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000070" type="Verse" s_name="66">
+			<phrase phr_id="2-07-00125-JPN02-000155">禁戒を持つ者は、破戒によって罪を犯してしまうので</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000156">それによって悪趣に堕ちてしまい、決して成就を得ることはない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000071" type="Verse" s_name="67">
+			<phrase phr_id="2-07-00125-JPN02-000157">すべてのタントラの教えを聞いたり、説明したり、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000158">護摩を炊いたり、供養したりする者は</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000159">阿闍梨の灌頂を授かることになり、真如を知る者に過失はない</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000072" type="Verse" s_name="68">
+			<phrase phr_id="2-07-00125-JPN02-000160">長老ディパンカーラ・シュリー〔ジュニャーナ〕が、</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000161">経典などの法から説明されているのを見て</phrase>
+			<phrase phr_id="2-07-00125-JPN02-000162">ジャンチュプウーが請願したことにより、悟りへの道の解説がまとめられた</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000073" type="Text Colophon">
+			<phrase phr_id="2-07-00125-JPN02-000163">アティーシャ・ディパンカーラ・シュリージュニャーナによって記された『菩</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000074" type="Sentence">
+			<phrase phr_id="2-07-00125-JPN02-000164">提道灯論』はここに完了する</phrase>
+		</sentence>
+		<sentence s_id="2-07-00125-JPN02-SID000075" type="Sentence">
+			<phrase phr_id="2-07-00125-JPN02-000165">インドの僧院長ディパンカーラ・シュリージュニャーナと、チベットの翻訳官であり比丘であるゲウェー・ロドゥーが翻訳し、校正して、完成した 吉祥。</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

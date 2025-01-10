@@ -1,0 +1,66 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/simpsons/Simpsons_S10" version="1" owner="admin" group="dba" mode="755" created="2023-04-17T13:08:41.867Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Season_10_Episode_13-Homer_to_the_Ma.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:41.869Z" modified="2023-04-17T13:08:41.869Z" filename="Season_10_Episode_13-Homer_to_the_Ma.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_05-When_You_Dish_Upon_a_Star.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:41.946Z" modified="2023-04-17T13:08:41.946Z" filename="Season_10_Episode_05-When_You_Dish_Upon_a_Star.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_10-Viva_Ned_Flanders.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:42.018Z" modified="2023-04-17T13:08:42.018Z" filename="Season_10_Episode_10-Viva_Ned_Flanders.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_17-Ma.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:42.103Z" modified="2023-04-17T13:08:42.103Z" filename="Season_10_Episode_17-Ma.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_22-They_Saved_Lisa's_Brain.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:42.18Z" modified="2023-04-17T13:08:42.18Z" filename="Season_10_Episode_22-They_Saved_Lisa's_Brain.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_18-Simpsons_Bible_Stories.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:42.253Z" modified="2023-04-17T13:08:42.253Z" filename="Season_10_Episode_18-Simpsons_Bible_Stories.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_16-Make_Room_For_Lisa.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:42.34Z" modified="2023-04-17T13:08:42.34Z" filename="Season_10_Episode_16-Make_Room_For_Lisa.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_01-Lard_of_the_Dance.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:42.429Z" modified="2023-04-17T13:08:42.429Z" filename="Season_10_Episode_01-Lard_of_the_Dance.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_23-30_Minutes_Over_Tokyo.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:42.504Z" modified="2023-04-17T13:08:42.504Z" filename="Season_10_Episode_23-30_Minutes_Over_Tokyo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_09-Mayored_to_the_Mob.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:42.582Z" modified="2023-04-17T13:08:42.582Z" filename="Season_10_Episode_09-Mayored_to_the_Mob.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_07-Lisa_Gets_an.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:42.665Z" modified="2023-04-17T13:08:42.665Z" filename="Season_10_Episode_07-Lisa_Gets_an.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_21-Monty_Can't_Buy_Me_Love.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:42.744Z" modified="2023-04-17T13:08:42.744Z" filename="Season_10_Episode_21-Monty_Can't_Buy_Me_Love.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_20-The_Old_Man_and_the.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:42.822Z" modified="2023-04-17T13:08:42.822Z" filename="Season_10_Episode_20-The_Old_Man_and_the.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_02-The_Wizard_of_Evergreen_Terrace.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:42.906Z" modified="2023-04-17T13:08:42.906Z" filename="Season_10_Episode_02-The_Wizard_of_Evergreen_Terrace.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_12-Sunday,_Cruddy_Sunday.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:42.985Z" modified="2023-04-17T13:08:42.985Z" filename="Season_10_Episode_12-Sunday,_Cruddy_Sunday.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_04-The_Simpsons_Halloween_Special_IX.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:43.059Z" modified="2023-04-17T13:08:43.059Z" filename="Season_10_Episode_04-The_Simpsons_Halloween_Special_IX.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_11-Wild_Barts_Can't_Be_Broken.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:43.134Z" modified="2023-04-17T13:08:43.134Z" filename="Season_10_Episode_11-Wild_Barts_Can't_Be_Broken.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_14-I'm_With_Cupid.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:43.219Z" modified="2023-04-17T13:08:43.219Z" filename="Season_10_Episode_14-I'm_With_Cupid.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_06-D'Oh-in'_in_the_Wind.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:43.293Z" modified="2023-04-17T13:08:43.293Z" filename="Season_10_Episode_06-D'Oh-in'_in_the_Wind.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_03-Bart_the_Mother.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:43.366Z" modified="2023-04-17T13:08:43.366Z" filename="Season_10_Episode_03-Bart_the_Mother.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Season_10_Episode_19-Mom_and_Pop_Art.xml" skip="no" owner="admin" group="dba" mode="644" created="2023-04-17T13:08:43.448Z" modified="2023-04-17T13:08:43.448Z" filename="Season_10_Episode_19-Mom_and_Pop_Art.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

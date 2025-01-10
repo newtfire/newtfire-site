@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/pokemonMap" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:14:13.124Z">
+    <acl entries="0" version="1"/>
+    <subcollection name="places" filename="places"/>
+    <subcollection name="pokemon" filename="pokemon"/>
+</collection>

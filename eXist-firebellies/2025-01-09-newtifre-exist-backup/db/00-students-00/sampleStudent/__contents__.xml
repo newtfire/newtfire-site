@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/00-students-00/sampleStudent" version="1" owner="admin" group="dba" mode="755" created="2023-03-24T17:06:36.477Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="disneySongLengthTable.html" skip="no" owner="admin" group="dba" mode="644" created="2023-03-24T17:07:57.271Z" modified="2023-03-24T17:07:57.271Z" filename="disneySongLengthTable.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bluesSongLengthTable.html" skip="no" owner="jmj6304" group="jmj6304" mode="644" created="2023-03-27T03:38:48.736Z" modified="2023-03-27T03:38:48.736Z" filename="bluesSongLengthTable.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="disneyComposers.html" skip="no" owner="admin" group="dba" mode="644" created="2023-04-03T04:39:19.244Z" modified="2023-04-03T04:39:19.244Z" filename="disneyComposers.html" mimetype="html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lotrPlaceOrgNetwork.sif" skip="no" owner="admin" group="dba" mode="644" created="2023-04-03T05:07:59.46Z" modified="2023-04-03T05:07:59.46Z" filename="lotrPlaceOrgNetwork.sif" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lotrPlaceOrgNetwork-2.sif" skip="no" owner="admin" group="dba" mode="644" created="2023-04-03T05:51:08.95Z" modified="2023-04-03T06:03:39.654Z" filename="lotrPlaceOrgNetwork-2.sif" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lotrPlaceOrgNetwork.tsv" skip="no" owner="admin" group="dba" mode="644" created="2023-04-03T06:13:44.899Z" modified="2023-04-16T19:48:01.558Z" filename="lotrPlaceOrgNetwork.tsv" mimetype="text">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="simplerLOTRNet.tsv" skip="no" owner="admin" group="dba" mode="644" created="2023-04-16T22:01:36.02Z" modified="2023-04-16T22:11:32.476Z" filename="simplerLOTRNet.tsv" mimetype="text">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

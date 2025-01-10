@@ -1,0 +1,7 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/simpsons" version="1" owner="admin" group="dba" mode="755" created="2023-04-17T12:21:37.172Z">
+    <acl entries="0" version="1"/>
+    <subcollection name="Simpsons_S1" filename="Simpsons_S1"/>
+    <subcollection name="Simpsons_S20" filename="Simpsons_S20"/>
+    <subcollection name="Simpsons_S30" filename="Simpsons_S30"/>
+    <subcollection name="Simpsons_S10" filename="Simpsons_S10"/>
+</collection>

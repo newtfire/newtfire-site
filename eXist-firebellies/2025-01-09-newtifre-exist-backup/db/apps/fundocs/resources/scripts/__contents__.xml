@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/fundocs/resources/scripts" version="1" owner="SYSTEM" group="dba" mode="755" created="2021-12-30T05:04:58.625Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="marked.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:58.626Z" modified="2021-12-30T05:04:58.626Z" filename="marked.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:58.632Z" modified="2021-12-30T05:04:58.632Z" filename="query.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.min.map" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:58.635Z" modified="2021-12-30T05:04:58.635Z" filename="jquery.min.map" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="prism-xquery.min.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:58.639Z" modified="2021-12-30T05:04:58.639Z" filename="prism-xquery.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.min.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:58.643Z" modified="2021-12-30T05:04:58.643Z" filename="jquery.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="prism.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:58.652Z" modified="2021-12-30T05:04:58.652Z" filename="prism.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="prism-java.min.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:58.657Z" modified="2021-12-30T05:04:58.657Z" filename="prism-java.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap.min.js" skip="no" owner="SYSTEM" group="dba" mode="644" created="2021-12-30T05:04:58.659Z" modified="2021-12-30T05:04:58.659Z" filename="bootstrap.min.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

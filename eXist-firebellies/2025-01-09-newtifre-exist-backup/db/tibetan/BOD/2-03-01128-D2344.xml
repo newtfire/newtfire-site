@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bcrdCorpus xmlns="http://www.bcrdb.org/ns/1.0" xml:id="bcrd">
+	<head>
+		<doc id="ACIP_2-03-01128-D2344.xml"/>
+		<title>Karmacaṇḍālikādohakoṣagīti-nāma</title>
+		<author>Virūpa</author>
+		<unifiedCatalogID>2-03-01128</unifiedCatalogID>
+		<creation date="Mon Jun 11 22:44:35 2018"/>
+		<processed date="Tue Jan 15 16:02:33 2019" ver="SentenceVerseBoundaryDetection v.0.71"/>
+		<sourceDesc>
+			<bibl>
+				<title>las kyi gtum mo'i do ha mdzod kyi glu zhes bya ba</title>
+				<author>Virūpa</author>
+				<pubPlace>Derge</pubPlace>
+				<publisher>Derge parkhang</publisher>
+				<date>1734-1744</date>
+				<biblScope unit="catNo">D 2344</biblScope>
+				<biblScope unit="volume">53</biblScope>
+				<biblScope unit="catInfo">rgyud, zi 2b7-3a5</biblScope>
+			</bibl>
+		</sourceDesc>
+	</head>
+	<text>
+		<volume vol_id="53" vol_cnt="0"/>
+		<sentence s_id="2-03-01128-D2344-SID000001" type="Text Title">
+			<phrase phr_id="2-03-01128-D2344-000001"><page p_id="2b.7"/>rgya gar skad du</phrase>
+			<phrase phr_id="2-03-01128-D2344-000002">karma tsaṇḍa lī ka do ha gī ti nā ma</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-D2344-SID000002" type="Text Title">
+			<phrase phr_id="2-03-01128-D2344-000003">bod skad du</phrase>
+			<phrase phr_id="2-03-01128-D2344-000004">las kyi gtum mo'i do ha mdzod kyi glu zhes bya ba</phrase>
+		</sentence>
+		<chapter ch_id="1"/>
+		<sentence s_id="2-03-01128-D2344-SID000003" type="Sentence">
+			<phrase phr_id="2-03-01128-D2344-000005">don thams cad grub pa la phyag 'tshal lo</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-D2344-SID000004" type="Verse">
+			<phrase phr_id="2-03-01128-D2344-000006"><page p_id="3a.1"/>nang nas gtum mo'i me sgar bas</phrase>
+			<phrase phr_id="2-03-01128-D2344-000007">dbus nas bdud rtsi 'bab par byed</phrase>
+			<phrase phr_id="2-03-01128-D2344-000008">rang byung sdong bu skyes pa yis</phrase>
+			<phrase phr_id="2-03-01128-D2344-000009">rtse mo'i ri la phyin te gnas</phrase>
+			<phrase phr_id="2-03-01128-D2344-000010">mgon po'i bdud rtsi 'bab par byed</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-D2344-SID000005" type="Verse">
+			<phrase phr_id="2-03-01128-D2344-000011">'khor ba'i sdug bsngal yun ring bcom</phrase>
+			<phrase phr_id="2-03-01128-D2344-000012">gshin rjer 'gro ba'i 'jigs <page p_id="3a.2"/>pa spangs</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-D2344-SID000006" type="Verse">
+			<phrase phr_id="2-03-01128-D2344-000013">sangs rgyas yon tan phreng ba 'byung</phrase>
+			<phrase phr_id="2-03-01128-D2344-000014">bde ba chen po rgyas pa yis</phrase>
+			<phrase phr_id="2-03-01128-D2344-000015">thams cad kyis ni khyab par 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-D2344-SID000007" type="Verse">
+			<phrase phr_id="2-03-01128-D2344-000016">'khor ba'i sdug bsngal yun ring bcom</phrase>
+			<phrase phr_id="2-03-01128-D2344-000017">gshin rjer 'gro ba'i 'jigs pa spangs</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-D2344-SID000008" type="Verse">
+			<phrase phr_id="2-03-01128-D2344-000018">rdo rjes brkos shing bgos pa la</phrase>
+			<phrase phr_id="2-03-01128-D2344-000019">nyi zla gnyis ni bsres <page p_id="3a.3"/>byas nas</phrase>
+			<phrase phr_id="2-03-01128-D2344-000020">nam mkha'i dbyings su thim par 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-D2344-SID000009" type="Verse">
+			<phrase phr_id="2-03-01128-D2344-000021">bde ba chen po'i grong du phyin</phrase>
+			<phrase phr_id="2-03-01128-D2344-000022">kun dbus sangs rgyas yon tan gyis</phrase>
+			<phrase phr_id="2-03-01128-D2344-000023">rin chen 'byung ba'i gnas su brtol</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-D2344-SID000010" type="Verse">
+			<phrase phr_id="2-03-01128-D2344-000024">'khor ba'i sdug bsngal yun ring bcom</phrase>
+			<phrase phr_id="2-03-01128-D2344-000025">gshin rjer 'gro ba'i 'jigs pa spangs</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-D2344-SID000011" type="Verse">
+			<phrase phr_id="2-03-01128-D2344-000026">'byung rgyu'i rlung ni <page p_id="3a.4"/>bkag pa yis</phrase>
+			<phrase phr_id="2-03-01128-D2344-000027">rin chen gsal ba'i gnas su phyin</phrase>
+			<phrase phr_id="2-03-01128-D2344-000028">brtags shing brtags shing dpyad pa yis</phrase>
+			<phrase phr_id="2-03-01128-D2344-000029">bi rū bdag gis 'grub par 'gyur</phrase>
+		</sentence>
+		<sentence s_id="2-03-01128-D2344-SID000012" type="Verse">
+			<phrase phr_id="2-03-01128-D2344-000030">'khor ba'i sdug bsngal yun ring bcom</phrase>
+			<phrase phr_id="2-03-01128-D2344-000031">gshin rjer 'gro ba'i 'jigs pa spangs</phrase>
+		</sentence>
+		<chapter ch_id="9999"/>
+		<sentence s_id="2-03-01128-D2344-SID000013" type="Text Colophon">
+			<phrase phr_id="2-03-01128-D2344-000032">las kyi gtum mo'i do ha mdzod kyi glu zhes <page p_id="3a.5"/>bya ba slob dpon bi rū pas mdzad pa rdzogs so</phrase>
+		</sentence>
+	</text>
+</bcrdCorpus>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata date="1984" type="moral" genre="rhyme"/>
+<title>The Butter Battle</title>
+<body>
+<stanza>
+<l>On the last day of summer,</l>
+<l>ten hours before fall . . .</l>
+</stanza>
+<stanza>
+<l>. . . my grandfather took me</l>
+<l>out to the Wall.</l>
+</stanza>
+<stanza>
+<l>For a while he stood silent.</l>
+<l>Then finally he said,</l>
+<l>with a very bad shake</l>
+<l>of his very old head,</l>
+<l>"As you know, on this side of the Wall</l>
+<l>
+we are
+<mUp>Yooks</mUp>
+.
+</l>
+<l>On the far other side of this Wall</l>
+<l>
+live the
+<mUp>Zooks</mUp>
+."
+</l>
+</stanza>
+<stanza>
+<l>Then my grandfather said,</l>
+<l>"It's high time that you knew</l>
+<l>
+of the
+<adj>terribly</adj>
+<adj>horrible</adj>
+thing that
+<mUp>Zooks</mUp>
+do.
+</l>
+<l>
+In every Zookhouse and in every
+<place>Zooktown</place>
+</l>
+<l>
+every
+<mUp>Zookeats</mUp>
+his bread
+</l>
+<l>with the butter side down!"</l>
+</stanza>
+<stanza>
+<l>
+"But we
+<mUp>Yooks</mUp>
+, as you know,
+</l>
+<l>when we breakfast or sup,</l>
+<l>spread our bread," Grandpa said,</l>
+<l>"with the butter side up.</l>
+<l>That's the right, honest way!"</l>
+<l>Grandpa gritted his teeth.</l>
+<l>
+"So you can't trust a
+<mUp>Zookwho</mUp>
+spreads bread underneath!
+</l>
+<l>
+Every
+<mUp>Zook</mUp>
+must be watched!
+</l>
+<l>He has kinks in his soul!</l>
+<l>That's why, as a youth, I made watching my goal,</l>
+<l>
+watching
+<mUp>Zooks</mUp>
+for the
+<mUp>Zook</mUp>
+-Watching Border Patrol!
+</l>
+</stanza>
+<stanza>
+<l>In those days, of course,</l>
+<l>the Wall wasn't so high</l>
+<l>
+and I could look any
+<mUp>Zook</mUp>
+</l>
+<l>Square in the eye.</l>
+</stanza>
+<stanza>
+<l>If he dared to come close</l>
+<l>I could give him a twitch</l>
+<l>with my tough-tufted</l>
+<l>
+prickely
+<mUp>Snick-Berry</mUp>
+Switch.
+</l>
+</stanza>
+<stanza>
+<l>For a while that worked fine.</l>
+<l>
+All the
+<mUp>Zooks</mUp>
+stayed away
+</l>
+<l>and our country was safe.</l>
+<l>
+Then one
+<adj>terrible</adj>
+day
+</l>
+<l>
+a very rude
+<mUp>Zook</mUp>
+by the name of
+<char n="1" type="side">VanItch</char>
+</l>
+<l>
+snuck up and sling shotted my
+<mUp>Snick-Berry</mUp>
+Switch!
+</l>
+</stanza>
+<stanza>
+<l>With my broken-off switch, with my head hung in shame,</l>
+<l>
+to the
+<char name="Chief Yookeroo">Chief Yookeroo</char>
+in great sorrow I came.
+</l>
+<l>But our Leader just smiled. He said, "You're not to blame.</l>
+<l>
+And those
+<mUp>Zooks</mUp>
+will be sorry they started this game.
+</l>
+</stanza>
+<stanza>
+<l>"We'll dress you right up in a fancier suit!</l>
+<l>We'll give you a fancier slingshot to shoot!"</l>
+<l>
+And he ordered the Boys in the Back Room to
+<mUp>figger</mUp>
+</l>
+<l>
+how to build me some sort of a triple-sling
+<mUp>jigger</mUp>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+With my Triple-Sling
+<mUp>Jigger</mUp>
+</l>
+<l>I sure felt much bigger.</l>
+</stanza>
+<stanza>
+<l>I marched to the Wall with great vim and great vigor,</l>
+<l>
+right up to
+<char name="VanItch">VanItch</char>
+with my hand on the trigger.
+</l>
+<l>"I'll have no more nonsense," I said with a frown,</l>
+<l>
+"from
+<mUp>Zooks</mUp>
+who eat bread with the butter side down!"
+</l>
+</stanza>
+<stanza>
+<l>
+<char n="1">VanItch</char>
+looked quite sickly.
+</l>
+<l>He ran off quite quickly.</l>
+</stanza>
+<stanza>
+<l>I'm unhappy to say</l>
+<l>he came back the next day</l>
+<l>
+in a
+<adj>
+<mUp>spiffy</mUp>
+</adj>
+new suit with a big new machine,
+</l>
+<l>
+and he
+<sound>snarled</sound>
+as he said, looking
+<adj>frightfully</adj>
+mean,
+</l>
+<l>
+"You may fling those hard rocks with your Triple-Sling
+<mUp>Jigger</mUp>
+.
+</l>
+<l>But I, also, now have my hand on a trigger!</l>
+</stanza>
+<stanza>
+<l>
+My wonderful weapon, the
+<mUp>Jigger</mUp>
+-Rock Snatchem,
+</l>
+<l>will fling 'em right back just as quick as we catch 'em.</l>
+<l>We'll have no more nonsense.</l>
+<l>
+We'll take no more
+<mUp>gupp</mUp>
+</l>
+<l>
+from you
+<mUp>Yooks</mUp>
+who eat bread with the butter side up!"
+</l>
+</stanza>
+<stanza>
+<l>"I have failed, sir," I sobbed as I made my report</l>
+<l>
+to the
+<char name="Chief Yookeroo">Chief Yookeroo</char>
+in the headquarters fort.
+</l>
+<l>He just laughed. "You've done nothing at all of the sort.</l>
+<l>Our slingshots have failed.</l>
+<l>That was old-fashioned stuff.</l>
+<l>Slingshots, dear boy,</l>
+<l>are not modern enough.</l>
+</stanza>
+<stanza>
+<l>
+"All we need is some
+<mUp>newfangled</mUp>
+kind of gun.
+</l>
+<l>
+My Boys in the
+<place>Back Room</place>
+have already begun
+</l>
+<l>
+to think up a
+<mUp>walloping whizz-zinger</mUp>
+one!
+</l>
+<l>My Bright Boys are thinking.</l>
+<l>They're on the right track.</l>
+<l>They'll think one up quick</l>
+<l>and we'll send you right back!"</l>
+</stanza>
+<stanza>
+<l>They thought up a great one!</l>
+<l>They certainly did.</l>
+<l>
+They thought up a gun called the
+<mUp>Kick-a-Poo</mUp>
+Kid
+</l>
+<l>
+which they loaded with powerful
+<mUp>Poo-a-Doo</mUp>
+Powder
+</l>
+<l>and ants' eggs and bees' legs</l>
+<l>and dried-fried clam chowder.</l>
+<l>And they carefully trained a real smart dog named Daniel</l>
+<l>to serve as our country's first gun-toting spaniel.</l>
+</stanza>
+<stanza>
+<l>
+Then Daniel, the
+<mUp>Kick-a-Poo</mUp>
+Spaniel, and I
+</l>
+<l>marched back toward the Wall</l>
+<l>with our heads held up high</l>
+<l>while everyone cheered and their cheers filled the sky:</l>
+<l>"Fight! Fight for the Butter side UP!</l>
+<l>Do or die!"</l>
+</stanza>
+<stanza>
+<l>Well . . .</l>
+<l>We didn't do.</l>
+<l>And we didn't quite die.</l>
+<l>But we sure did get worsted, poor Daniel and I.</l>
+<l>VanItch was there too! And he said, the old pig,</l>
+<l>"The Boys in my Back Room invented this rig</l>
+<l>called the Eight-Nozzled, Elephant-Toted Boom-Blitz.</l>
+<l>It shoots high-explosive sour cherry stone pits</l>
+<l>and will put your dumb Kick-a-Poo Kid on the fritz!"</l>
+<l>Poor Daniel and I</l>
+<l>were scared out of our witz!</l>
+</stanza>
+<stanza>
+<l>
+Once more, by
+<char name="VanItch">VanItch</char>
+I was bested and beat.
+</l>
+<l>Once again I limped home from the Wall in defeat.</l>
+<l>I dragged and I sagged</l>
+<l>and my spirits were low,</l>
+<l>as low as I thought that they ever could go,</l>
+<l>
+when I heard a
+<mUp>Boom-Bah</mUp>
+!
+</l>
+</stanza>
+<stanza>
+<l>
+And a
+<mUp>Diddle-dee-Dill</mUp>
+!
+</l>
+<l>And our Butter-Up Band</l>
+<l>marched up over the hill!</l>
+</stanza>
+<stanza>
+<l>
+The
+<char name="Chief Yookeroo">Chief Yookeroo</char>
+had sent them to meet me
+</l>
+<l>along with the Right-Sid-Up Song Girls to greet me.</l>
+<l>They sang:</l>
+</stanza>
+<stanza>
+<l>"Oh, be faithful!</l>
+<l>Believe in thy butter!"</l>
+</stanza>
+<stanza>
+<l>And they lifted my spirits right out of the gutter!</l>
+</stanza>
+<stanza>
+<l>
+"My boy," smiled the
+<char name="Chief Yookeroo">Chief Yookeroo</char>
+, "we've just voted
+</l>
+<l>and made you a general! You've been promoted.</l>
+<l>Your pretty new uniform's ready. Get in it!</l>
+<l>The Big War is coming. You're going to begin it!</l>
+<l>And what's more, this time you are certain to win it.</l>
+</stanza>
+<stanza>
+<l>"My Boys in the Back Room have finally found how.</l>
+<l>Just wait till you see what they've puttered up now!</l>
+<l>In their great new machine you'll fly over the Wall</l>
+<l>
+and clobber those Butter-Down
+<mUp>Zooks</mUp>
+one and all!"
+</l>
+</stanza>
+<stanza>
+<l>
+Those Boy in the
+<place>Back Room</place>
+sure knew how to putter!
+</l>
+<l>They made me a thing called the Utterly Sputter</l>
+<l>and I jumped aboard with my heart all aflutter</l>
+<l>and steered toward the land"</l>
+<l>of the Upside-Down Butter.</l>
+</stanza>
+<stanza>
+<l>This machine was so modern, so frightfully new,</l>
+<l>no one knew quite exactly just what it would do!</l>
+</stanza>
+<stanza>
+<l>But it had several faucets that sprinkled Blue Goo</l>
+<l>which, somehow, would sprinkle the Zooks as I flew</l>
+<l>and gum up that upside-down butter they chew.</l>
+</stanza>
+<stanza>
+<l>I was racing pell-mell</l>
+<l>when I heard a voice yell,</l>
+<l>
+"If you sprinkle us
+<mUp>Zooks</mUp>
+,
+</l>
+<l>you'll get sprinkled as well!"</l>
+</stanza>
+<stanza>
+<l>VanItch had a Sputter exactly like mine!</l>
+<l>
+And he yelled, "My
+<adj>Blue</adj>
+-
+<mUp>Gooer</mUp>
+is working just fine!
+</l>
+<l>
+And I'm here to say that if
+<mUp>Yooks</mUp>
+can goo
+<mUp>Zooks</mUp>
+,
+</l>
+<l>
+you'd better forget it. 'Cause
+<mUp>Zooks</mUp>
+can goo
+<mUp>Yooks</mUp>
+!"
+</l>
+</stanza>
+<stanza>
+<l>I flew right back home</l>
+<l>and, as you may have guessed,</l>
+<l>I was downright despondent,</l>
+</stanza>
+<stanza>
+<l>disturbed,</l>
+</stanza>
+<stanza>
+<l>and depressed.</l>
+</stanza>
+<stanza>
+<l>And I saw, just as soon as I stepped back on land,</l>
+<l>so were all of the girls of the Butter-Up Band.</l>
+</stanza>
+<stanza>
+<l>
+The
+<char name="Chief Drum Majorette">Chief Drum Majorette</char>
+, Miz Yookie-Ann Sue,
+</l>
+<l>said, "That was a pretty sour flight that you flew.</l>
+<l>
+And the
+<char name="Chief Yookeroo">Chief Yookerooo</char>
+has been looking for you!"
+</l>
+</stanza>
+<stanza>
+<l>I raced to his office. The place was a sight.</l>
+<l>
+"Have no fears," said the
+<char name="Chief Yookeroo">Chief</char>
+. "Everything is all right.
+</l>
+<l>
+My Bright
+<place>Back Room</place>
+Boys have been brighter than bright.
+</l>
+<l>They've thought up a gadget that's Newer than New.</l>
+<l>
+It is filled with mysterious
+<mUp>Moo-Lacka-Moo</mUp>
+</l>
+<l>
+and can blow all those
+<mUp>Zooks</mUp>
+clear to
+<mUp>Sala-ma-goo</mUp>
+.
+</l>
+<l>THEY'VE INVENTED</l>
+</stanza>
+<stanza>
+<l>THE BITSY</l>
+</stanza>
+<stanza>
+<l>BIG-BOY BOOMEROO!</l>
+</stanza>
+<stanza>
+<l>"You just run to the Wall like a nice little man."</l>
+<l>
+Drop this bomb on the
+<mUp>Zooks</mUp>
+just as fast as you can.
+</l>
+<l>I have ordered all Yooks to stay safe underground"</l>
+<l>while the Bitsy Big-Boy Boomeroo is around."</l>
+</stanza>
+<stanza>
+<l>As I raced for that Wall, with the bomb in my hand,</l>
+<l>I noticed that every last Yook in our land</l>
+<l>
+was obeying our
+<char name="Chief Yookeroo">Chief Yookeroo's</char>
+grim command.
+</l>
+</stanza>
+<stanza>
+<l>They were all bravely marching,</l>
+<l>with banners aflutter,</l>
+<l>down a hole! For their country!</l>
+<l>And Right-Side-Up Butter!</l>
+</stanza>
+<stanza>
+<l>That's when Grandfather found me!</l>
+<l>He grabbed me. He said,</l>
+</stanza>
+<stanza>
+<l>"You should be down that hole!</l>
+<l>And you're up here instead!</l>
+<l>But perhaps this is all for the better, somehow.</l>
+<l>You will se me make history!</l>
+<l>RIGHT HERE! AND RIGHT NOW!"</l>
+</stanza>
+<stanza>
+<l>
+Grandpa leapt up that Wall with a
+<mUp>lopulous</mUp>
+leap
+</l>
+<l>and he cleared his hoarse throat</l>
+<l>
+with a
+<mUp>bopulous</mUp>
+beep.
+</l>
+<l>He screamed, "Here's the end of that terrible town</l>
+<l>
+full of
+<mUp>Zooks</mUp>
+who eat bread with the butter side down!"
+</l>
+</stanza>
+<stanza>
+<l>
+And at that very instant we heard a
+<mUp>klupp-klupp</mUp>
+</l>
+<l>
+of feet on the Wall and old
+<char name="VanItch">VanItch</char>
+<mUp>klupped</mUp>
+up!
+</l>
+<l>The Boys in HIS Back Room had made him one too!</l>
+<l>In his fist was another Big-Boy Boomeroo!</l>
+<l>"I'll blow you," he yelled, "into pork and wee beans!</l>
+<l>I'll butter-side-up you to small smithereens!"</l>
+</stanza>
+<stanza>
+<l>"Grandpa! I shouted. "Be careful! Oh, gee!</l>
+<l>Who's going to drop it?</l>
+<l>Will you . . . ? Or will he . . . ?</l>
+<l>"Be patient," said Grandpa. "We'll see.</l>
+<l>We will see . . . "</l>
+</stanza>
+</body>
+</book>

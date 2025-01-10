@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/lotr/xmltagger" version="1" owner="nzs5552" group="nzs5552" mode="755" created="2023-04-21T16:45:42.231Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="01-The-Fellowship-Of-The-Ring.xml" skip="no" owner="nzs5552" group="nzs5552" mode="644" created="2023-04-21T16:45:42.233Z" modified="2023-04-21T16:45:42.233Z" filename="01-The-Fellowship-Of-The-Ring.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="02-The-Two-Towers.xml" skip="no" owner="nzs5552" group="nzs5552" mode="644" created="2023-04-21T16:45:42.651Z" modified="2023-04-21T16:45:42.651Z" filename="02-The-Two-Towers.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="03-The-Return-Of-The-King.xml" skip="no" owner="nzs5552" group="nzs5552" mode="644" created="2023-04-21T16:45:43.054Z" modified="2023-04-21T16:45:43.054Z" filename="03-The-Return-Of-The-King.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

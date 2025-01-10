@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="prose" type="moral" date="1971"/>
+<title>The Lorax</title>
+<body>
+<stanza>
+<l>At the far end of town</l>
+<l>
+where the
+<mUp>Grickle</mUp>
+-grass
+<rym sch="a">grows</rym>
+</l>
+<l>
+and the wind smells slow-and-sour when it
+<rym sch="a">blows</rym>
+</l>
+<l>
+and no birds ever sing excepting old
+<rym sch="a">crows</rym>
+...
+</l>
+<l>
+is the Street of the Lifted
+<char name="Lorax">Lorax</char>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+And deep in the
+<mUp>Grickle</mUp>
+-grass, some people
+<rym sch="a">say</rym>
+,
+</l>
+<l>
+if you look deep enough you can still see,
+<rym sch="a">today</rym>
+,
+</l>
+<l>
+where the
+<char name="Lorax">Lorax</char>
+once
+<rym sch="b">stood</rym>
+</l>
+<l>
+just as long as it
+<rym sch="b">could</rym>
+</l>
+<l>
+before somebody lifted the
+<char name="Lorax">Lorax</char>
+<rym sch="c">away</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+What was the
+<char name="Lorax">Lorax</char>
+?
+</l>
+<l>Any why was it there?</l>
+<l>And why was it lifted and taken somewhere</l>
+<l>
+from the far end of town where the
+<mUp>Grickle</mUp>
+-grass grows?
+</l>
+<l>
+The old
+<char name="Once-ler">Once-ler</char>
+still lives here.
+</l>
+<l>Ask him. He knows.</l>
+</stanza>
+<stanza>
+<l>
+You won't see the
+<char name="Once-ler">Once-ler</char>
+.
+</l>
+<l>Don't knock at his door.</l>
+<l>
+He stays in his
+<mUp>Lerkim</mUp>
+on
+<place>
+top of his
+<rym sch="a">store</rym>
+</place>
+.
+</l>
+<l>
+He stays in his
+<mUp>Lerkim</mUp>
+,
+<adj>cold</adj>
+<place>
+under the
+<rym sch="a">roar</rym>
+</place>
+,
+</l>
+<l>where he makes his own clothes</l>
+<l>
+out of
+<mUp>miff-muffered moof</mUp>
+.
+</l>
+<l>And on special dank midnights in August,</l>
+<l>he peeks</l>
+<l>out of the shutters</l>
+<l>and sometimes he speaks</l>
+<l>
+and tells how the
+<char name="Lorax">Lorax</char>
+was lifted away.
+</l>
+</stanza>
+<stanza>
+<l>He'll tell you, perhaps...</l>
+<l>if you're willing to pay.</l>
+</stanza>
+<stanza>
+<l>
+On the end of a
+<obj>rope</obj>
+</l>
+<l>
+he lets down a
+<adj>tin</adj>
+<obj>pail</obj>
+</l>
+<l>
+and you have to toss in fifteen cents and a
+<obj>nail</obj>
+</l>
+<l>and the shell of a great-great-great-grandfather snail.</l>
+<l>Then he pulls up the pail,</l>
+<l>makes a most careful count</l>
+<l>to see if you've paid him</l>
+<l>the proper amount.</l>
+</stanza>
+<stanza>
+<l>Then he hides what you paid him</l>
+<l>
+away in his
+<mUp>Snuvv</mUp>
+,
+</l>
+<l>
+his secret strange
+<obj>hole</obj>
+</l>
+<l>
+in his
+<mUp>gruvvulous</mUp>
+<obj>glove</obj>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+Then he grunts, "I will call you by
+<mUp>Whisper-ma-Phone</mUp>
+, for the secrets I tell you are for your ears alone."
+</l>
+</stanza>
+<stanza>
+<l>
+<mUp>SLUPP</mUp>
+</l>
+</stanza>
+<stanza>
+<l>Down slupps the Whisper-ma-Phone to your ear</l>
+<l>
+and the old
+<char name="Once-ler">Once-ler</char>
+'s whispers are not very clear,
+</l>
+<l>since they have to come down</l>
+<l>
+through a
+<mUp>snergelly</mUp>
+hose,
+</l>
+<l>and he sounds</l>
+<l>as if he had</l>
+<l>
+<adj>smallish</adj>
+bees up his nose.
+</l>
+</stanza>
+<stanza>
+<l>
+"Now I'll tell you", he says, with his teeth sounding
+<rym sch="a">gray</rym>
+,
+</l>
+<l>
+"how the
+<char name="Lorax">Lorax</char>
+got lifted and taken
+<rym sch="a">away</rym>
+...
+</l>
+</stanza>
+<stanza>
+<l>It all started way back...</l>
+<l>such a long, long time back...</l>
+</stanza>
+<stanza>
+<l>
+Way back in the days when the grass was still
+<adj>green</adj>
+</l>
+<l>
+and the
+<obj>pond</obj>
+was still
+<adj>wet</adj>
+</l>
+<l>
+and the
+<obj>clouds</obj>
+were still
+<adj>clean</adj>
+,
+</l>
+<l>
+and the song of the
+<mUp>Swomee-Swans</mUp>
+rang out in
+<rym sch="a">space</rym>
+...
+</l>
+<l>
+one morning, I came to this glorious
+<rym sch="a">place</rym>
+.
+</l>
+<l>
+And I first saw the
+<rym sch="b">trees</rym>
+!
+</l>
+<l>
+The
+<mUp>
+Truffula
+<rym sch="b">Trees</rym>
+</mUp>
+!
+</l>
+<l>
+The bright-colored tufts of the
+<mUp>
+Truffula
+<rym sch="c">Trees</rym>
+!
+</mUp>
+</l>
+<l>
+Mile after mile in the fresh morning
+<rym sch="c">breeze</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+And under the trees, I saw
+<adj>Brown</adj>
+<mUp>
+<rym sch="a">
+<char name="Bar-ba-loot">Bar-ba-loot</char>
+s
+</rym>
+</mUp>
+</l>
+<l>
+<adj>frisking</adj>
+about in their
+<mUp>
+<rym sch="a">
+<char name="Bar-ba-loot">Bar-ba-loot</char>
+</rym>
+</mUp>
+<obj>
+<rym sch="b">suits</rym>
+</obj>
+</l>
+<l>
+as the played in the shade and ate
+<mUp>
+Truffula
+<rym sch="b">Fruits</rym>
+</mUp>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+From the
+<adj>rippulous</adj>
+pond
+</l>
+<l>
+came the
+<adj>comfortable</adj>
+sound
+</l>
+<l>
+of the
+<mUp>Humming-Fish</mUp>
+humming
+</l>
+<l>while splashing around.</l>
+</stanza>
+<stanza>
+<l>But those trees! Those trees!</l>
+<l>
+Those
+<mUp>Truffula Trees</mUp>
+!
+</l>
+<l>All my life I'd been searching</l>
+<l>for trees such as these.</l>
+<l>The touch of their tufts</l>
+<l>was much softer than silk.</l>
+<l>
+And they had the
+<adj>sweet</adj>
+smell
+</l>
+<l>of fresh butterfly milk.</l>
+</stanza>
+<stanza>
+<l>I felt a great leaping</l>
+<l>of joy in my heart.</l>
+<l>I knew just what I'd do!</l>
+<l>I unloaded my cart.</l>
+</stanza>
+<stanza>
+<l>
+In no time at all, I had built a
+<adj>small</adj>
+shop.
+</l>
+<l>
+Then I chopped down a
+<mUp>Truffula Tree</mUp>
+with one chop.
+</l>
+<l>And with great skillful skill and with great speedy speed,</l>
+<l>
+I took the soft tuft. And I knitted a
+<mUp>Thneed</mUp>
+!
+</l>
+</stanza>
+<stanza>
+<l>
+The instant I'd finished, I heard a
+<mUp>
+<sound>ga-Zump</sound>
+</mUp>
+!
+</l>
+<l>I looked.</l>
+<l>I saw something pop out of the stump</l>
+<l>of the tree I'd chopped down. It was sort of a man.</l>
+<l>Describe him?...That's hard. I don't know if I can.</l>
+</stanza>
+<stanza>
+<l>
+He was
+<adj>shortish</adj>
+. And
+<adj>oldish</adj>
+.
+</l>
+<l>
+And
+<adj>brownish</adj>
+. And
+<adj>mossy</adj>
+.
+</l>
+<l>And he spoke with a voice</l>
+<l>
+that was
+<adj>sharpish</adj>
+and
+<adj>bossy</adj>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+"Mister!" he said with a
+<adj>sawdusty</adj>
+sneeze,
+</l>
+<l>
+"I am the
+<char name="Lorax">Lorax</char>
+. I speak for the trees.
+</l>
+<l>I speak for the trees, for the trees have no tongues.</l>
+<l>And I'm asking you, sir, at the top of my lungs"--</l>
+<l>
+he was very upset as he shouted and
+<sound>puffed</sound>
+--
+</l>
+<l>
+"What's that THING you've made out of my
+<mUp>Truffula tuft</mUp>
+?"
+</l>
+</stanza>
+<stanza>
+<l>
+"Look,
+<char name="Lorax">Lorax</char>
+," I said. "There's no cause for alarm.
+</l>
+<l>I chopped just one tree. I am doing no harm.</l>
+<l>
+I'm being quite useful. This thing is a
+<mUp>Thneed</mUp>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+A
+<mUp>Thneed's</mUp>
+a Fine-Something-That-All-People-Need!
+</l>
+<l>
+It's a
+<obj>shirt</obj>
+. It's a
+<obj>sock</obj>
+. It's a
+<obj>glove</obj>
+. It's a
+<obj>hat</obj>
+.
+</l>
+<l>But it has other uses. Yes, far beyond that.</l>
+<l>
+You can use it for
+<obj>carpets</obj>
+. For
+<obj>pillows</obj>
+! For
+<obj>sheets</obj>
+!
+</l>
+<l>
+Or
+<obj>curtains</obj>
+! Or
+<obj>covers</obj>
+for
+<obj>bicycle seats</obj>
+!"
+</l>
+</stanza>
+<stanza>
+<l>
+The
+<char name="Lorax">Lorax</char>
+said,
+</l>
+<l>
+"Sir! You are crazy with
+<rym sch="a">greed</rym>
+.
+</l>
+<l>There is no one on earth</l>
+<l>
+who would buy that
+<adj>fool</adj>
+<mUp>
+<rym sch="a">Thneed</rym>
+</mUp>
+!"
+</l>
+</stanza>
+<stanza>
+<l>
+But the very next minute I proved he was
+<rym sch="a">wrong</rym>
+.
+</l>
+<l>
+For, just at that minute, a
+<char name="Lorax">chap</char>
+came
+<rym sch="a">along</rym>
+,
+</l>
+<l>
+and he thought that the
+<mUp>Thneed</mUp>
+I had knitted was
+<rym sch="b">great</rym>
+.
+</l>
+<l>
+He
+<adj>happily</adj>
+bought it for three
+<rym sch="b">ninety-eight</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+I laughed at the
+<char name="Lorax">Lorax</char>
+, "You poor stupid guy!
+</l>
+<l>You never can tell what some people will buy."</l>
+</stanza>
+<stanza>
+<l>
+"I repeat," cried the
+<char name="Lorax">Lorax</char>
+,
+</l>
+<l>"I speak for the trees!"</l>
+</stanza>
+<stanza>
+<l>"I'm busy," I told him.</l>
+<l>"Shut up, if you please."</l>
+</stanza>
+<stanza>
+<l>
+I
+<adj>rushed</adj>
+'cross the room, and in no time at
+<rym sch="a">all</rym>
+,
+</l>
+<l>
+built a radio-phone. I put in a quick
+<rym sch="a">call</rym>
+.
+</l>
+<l>
+I called all my brothers and uncles and
+<rym sch="b">aunts</rym>
+</l>
+<l>
+and I said, "Listen here! Here's a wonderful
+<rym sch="b">chance</rym>
+</l>
+<l>
+for the whole
+<char name="Once-ler">Once-ler</char>
+Family to get mighty
+<rym sch="c">rich</rym>
+!
+</l>
+<l>
+Get over here fast! Take the road to North
+<rym sch="c">Nitch</rym>
+.
+</l>
+<l>
+Turn left at Weehawken. Sharp right at South
+<rym sch="c">Stich</rym>
+."
+</l>
+</stanza>
+<stanza>
+<l>And, in no time at all,</l>
+<l>
+in the factory I
+<rym sch="a">built</rym>
+,
+</l>
+<l>
+the whole
+<char name="Once-ler">Once-ler</char>
+Family
+</l>
+<l>
+was working full
+<rym sch="a">tilt</rym>
+.
+</l>
+<l>
+We were all knitting
+<rym sch="b">
+<mUp>Thneeds</mUp>
+</rym>
+</l>
+<l>
+just as busy as
+<rym sch="b">bees</rym>
+,
+</l>
+<l>to the sound of the chopping</l>
+<l>
+of Truffula
+<rym sch="b">Trees</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>Then...</l>
+<l>
+Oh! Baby!
+<rym sch="a">Oh</rym>
+!
+</l>
+<l>
+How my business did
+<rym sch="a">grow</rym>
+!
+</l>
+<l>Now, chopping one tree</l>
+<l>at a time</l>
+<l>
+was too
+<rym sch="a">slow</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+So I quickly invented my
+<mUp>
+Super-Axe-
+<rym sch="a">Hacker</rym>
+</mUp>
+</l>
+<l>
+which whacked off four
+<mUp>Truffula</mUp>
+Trees at one
+<rym sch="a">smacker</rym>
+.
+</l>
+<l>
+We were making
+<mUp>Thneeds</mUp>
+</l>
+<l>
+four times as fast as
+<rym sch="b">before</rym>
+!
+</l>
+<l>
+And that
+<char name="Lorax">Lorax</char>
+?... He didn't show up any
+<rym sch="b">more</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>But the next week</l>
+<l>he knocked</l>
+<l>on my new office door.</l>
+<l>
+He snapped, "I'm the
+<char name="Lorax">Lorax</char>
+who speaks for the
+<rym sch="a">trees</rym>
+</l>
+<l>
+which you seem to be chopping as fast as you
+<rym sch="a">please</rym>
+.
+</l>
+<l>
+But I'm also in charge of the
+<adj>Brown</adj>
+<char name="Bar-ba-loot">Bar-ba-loots</char>
+</l>
+<l>
+who played in the shade in their
+<char name="Bar-ba-loot">Bar-ba-loot</char>
+suits
+</l>
+<l>
+and happily lived, eating
+<mUp>Truffula Fruits</mUp>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+"NOW...thanks to your hacking my trees to the
+<rym sch="a">ground</rym>
+,
+</l>
+<l>
+there's not enough
+<mUp>Truffula Fruit</mUp>
+to go '
+<rym sch="a">round</rym>
+.
+</l>
+<l>
+And my poor
+<char name="Bar-ba-loot">Bar-ba-loots</char>
+are all getting the
+<rym sch="b">crummies</rym>
+</l>
+<l>
+because they have gas, and no food, in their
+<rym sch="b">tummies</rym>
+!
+</l>
+</stanza>
+<stanza>
+<l>
+"They loved living here. But I can't let them
+<rym sch="a">stay</rym>
+.
+</l>
+<l>
+They'll have to find food. And I hope that they
+<rym sch="a">may</rym>
+.
+</l>
+<l>
+Good luck, boys," he cried. And he sent them
+<rym sch="a">away</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+I, the
+<char name="Once-ler">Once-ler</char>
+, felt sad
+</l>
+<l>as I watched them all go.</l>
+<l>BUT...</l>
+<l>business is business!</l>
+<l>
+And business must
+<rym sch="a">grow</rym>
+</l>
+<l>
+regardless of
+<rym sch="b">crummies</rym>
+in
+<rym sch="b">tummies</rym>
+, you
+<rym sch="a">know</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+I meant no harm. I most truly did
+<rym sch="a">not</rym>
+.
+</l>
+<l>
+But I had to grow
+<adj>bigger</adj>
+. So
+<adj>bigger</adj>
+I
+<rym sch="a">got</rym>
+.
+</l>
+<l>
+I
+<adj>biggered</adj>
+my factory. I
+<adj>biggered</adj>
+my
+<rym sch="b">roads</rym>
+.
+</l>
+<l>
+I
+<adj>biggered</adj>
+my wagons. I
+<adj>biggered</adj>
+the
+<rym sch="b">loads</rym>
+</l>
+<l>
+of the
+<mUp>Thneeds</mUp>
+I shipped out. I was shipping them
+<rym sch="c">forth</rym>
+</l>
+<l>
+to the South! To the East! To the West! To the
+<rym sch="c">North</rym>
+!
+</l>
+<l>
+I went right on
+<adj>biggering</adj>
+...selling more
+<rym sch="d">
+<mUp>Thneeds</mUp>
+</rym>
+.
+</l>
+<l>
+And I
+<adj>biggered</adj>
+my money, which everyone
+<rym sch="d">needs</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>Then again he came back! I was fixing some pipes</l>
+<l>
+when that
+<adj>old</adj>
+<adj>nuisance</adj>
+<char name="Lorax">Lorax</char>
+came back with more gripes.
+</l>
+</stanza>
+<stanza>
+<l>
+"I am the
+<char name="Lorax">Lorax</char>
+," he
+<action>coughed</action>
+and he
+<action>whiffed</action>
+.
+</l>
+<l>
+He
+<action>sneezed</action>
+and he
+<action>snuffled</action>
+. He
+<action>snarggled</action>
+. He
+<action>sniffed</action>
+.
+</l>
+<l>
+"
+<char name="Once-ler">Once-ler</char>
+!" he cried with a
+<mUp>cruffulous</mUp>
+croak.
+</l>
+<l>
+"
+<char name="Once-ler">Once-ler</char>
+! You're making such
+<mUp>smogulous</mUp>
+smoke!
+</l>
+<l>
+My poor
+<mUp>Swomee-Swans</mUp>
+...why, they can't sing a note!
+</l>
+<l>No one can sing who has smog in his throat."</l>
+</stanza>
+<stanza>
+<l>
+"And so," said the
+<char name="Lorax">Lorax</char>
+,
+</l>
+<l>"--please pardon my cough--</l>
+<l>they cannot live here.</l>
+<l>So I'm sending them off.</l>
+</stanza>
+<stanza>
+<l>"Where will they go?...</l>
+<l>I don't hopefully know.</l>
+</stanza>
+<stanza>
+<l>They may have to fly for a month...or a year...</l>
+<l>To escape from the smog you've smogged-up around here.</l>
+</stanza>
+<stanza>
+<l>
+"What's more," snapped the
+<char name="Lorax">Lorax</char>
+. (His dander was up.)
+</l>
+<l>
+"Let me say a few words about
+<mUp>Gluppity-Glupp</mUp>
+.
+</l>
+<l>
+Your machinery
+<sound>chugs</sound>
+on, day and night without stop
+</l>
+<l>
+making
+<mUp>Gluppity-Glup</mUp>
+. Also
+<mUp>Schloppity-Schlopp</mUp>
+.
+</l>
+<l>
+And what do you do with this leftover
+<obj>goo</obj>
+?...
+</l>
+<l>
+I'll show you. You
+<adj>dirty</adj>
+<adj>old</adj>
+<char name="Once-ler">Once-ler</char>
+man, you!
+</l>
+</stanza>
+<stanza>
+<l>
+"You're
+<mUp>
+<adj>glumping</adj>
+</mUp>
+the pond where the Humming-Fish
+<rym sch="a">hummed</rym>
+!
+</l>
+<l>
+No more can they hum, for their gills are all
+<rym sch="a">gummed</rym>
+.
+</l>
+<l>
+So I'm sending them off. Oh, their future is
+<rym sch="b">dreary</rym>
+.
+</l>
+<l>
+They'll walk on their fins and get woefully
+<rym sch="b">weary</rym>
+</l>
+<l>
+in search of some water that isn't so
+<rym sch="b">smeary</rym>
+.
+</l>
+<l>
+I hear things are just as bad up in Lake
+<rym sch="c">Erie</rym>
+."
+</l>
+<l>
+<!-- The Lake Erie line was removed 14 years after publication -->
+</l>
+</stanza>
+<stanza>
+<l>
+And then I got
+<rym sch="a">
+<adj>mad</adj>
+</rym>
+.
+</l>
+<l>
+I got
+<adj>terribly</adj>
+<rym sch="a">
+<adj>mad</adj>
+</rym>
+.
+</l>
+<l>
+I yelled at the
+<char name="Lorax">Lorax</char>
+, "Now listen here,
+<rym sch="b">Dad</rym>
+!
+</l>
+<l>
+All you do is yap-yap and say,
+<adj>Bad</adj>
+!
+<adj>Bad</adj>
+!
+<adj>Bad</adj>
+!
+<rym sch="b">
+<adj>Bad</adj>
+</rym>
+!
+</l>
+<l>Well, I have my rights, sir, and I'm telling you</l>
+<l>I intend to go on doing just what I do!</l>
+<l>
+And, for your information, you
+<char name="Lorax">Lorax</char>
+, I'm
+<rym sch="c">figgering</rym>
+</l>
+<l>
+on
+<rym sch="c">
+<adj>biggering</adj>
+</rym>
+</l>
+<l>
+and
+<rym sch="c">
+<adj>BIGGERING</adj>
+</rym>
+</l>
+<l>
+and
+<rym sch="c">
+<adj>BIGGERING</adj>
+</rym>
+</l>
+<l>
+and
+<rym sch="c">
+<adj>BIGGERING</adj>
+</rym>
+,
+</l>
+<l>
+turning MORE
+<mUp>Truffula Trees</mUp>
+into
+<rym sch="d">
+<mUp>Thneeds</mUp>
+</rym>
+</l>
+<l>
+which everyone, EVERYONE, EVERYONE
+<rym sch="d">needs</rym>
+!"
+</l>
+</stanza>
+<stanza>
+<l>
+And at that very moment, we heard a loud
+<rym sch="a">whack</rym>
+!
+</l>
+<l>
+From outside in the fields came a
+<sound>sickening</sound>
+<rym sch="a">smack</rym>
+</l>
+<l>
+of an axe on a tree. Then we heard the tree
+<rym sch="b">fall</rym>
+.
+</l>
+<l>
+The very last
+<mUp>Truffula Tree</mUp>
+of them
+<rym sch="b">all</rym>
+!
+</l>
+</stanza>
+<stanza>
+<l>
+No more trees. No more
+<mUp>Thneeds</mUp>
+. No more work to be
+<rym sch="a">done</rym>
+.
+</l>
+<l>
+So, in no time, my uncles and aunts, every
+<rym sch="a">one</rym>
+,
+</l>
+<l>
+all waved me good-bye. They jumped into my
+<rym sch="b">cars</rym>
+</l>
+<l>
+and drove away under the smoke-smuggered
+<rym sch="b">stars</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>Now all that was left 'neath the bad-smelling sky</l>
+<l>was my big empty factory...</l>
+<l>
+the
+<char name="Lorax">Lorax</char>
+...
+</l>
+<l>and I.</l>
+</stanza>
+<stanza>
+<l>
+The
+<char name="Lorax">Lorax</char>
+said nothing. Just gave me a glance...
+</l>
+<l>
+just gave me a very
+<adj>sad</adj>
+,
+<adj>sad</adj>
+backward glance...
+</l>
+<l>as he lifted himself by the seat of his pants.</l>
+<l>
+And I'll never forget the
+<adj>grim</adj>
+look on his face
+</l>
+<l>when he heisted himself and took leave of this place,</l>
+<l>through a hole in the smog, without leaving a trace.</l>
+</stanza>
+<stanza>
+<l>
+And all that the
+<char name="Lorax">Lorax</char>
+left here in this mess
+</l>
+<l>was a small pile of rocks, with one word...</l>
+<l>UNLESS.</l>
+</stanza>
+<stanza>
+<l>Whatever that meant, well, I just couldn't guess.</l>
+</stanza>
+<stanza>
+<l>That was long, long ago.</l>
+<l>But each day since that day</l>
+<l>I've sat here and worried</l>
+<l>and worried away.</l>
+<l>Through the years, while my buildings</l>
+<l>have fallen apart,</l>
+<l>I've worried about it</l>
+<l>with all of my heart.</l>
+</stanza>
+<stanza>
+<l>
+"But now," says the
+<char name="Once-ler">Once-ler</char>
+,
+</l>
+<l>"Now that you're here,</l>
+<l>
+the word of the
+<char name="Lorax">Lorax</char>
+seems perfectly clear.
+</l>
+<l>UNLESS someone like you</l>
+<l>cares a whole awful lot,</l>
+<l>nothing is going to get better.</l>
+<l>It's not.</l>
+</stanza>
+<stanza>
+<l>"SO...</l>
+<l>
+Catch!" calls the
+<char name="Once-ler">Once-ler</char>
+.
+</l>
+<l>He lets something fall.</l>
+<l>
+"It's a
+<mUp>Truffula</mUp>
+Seed.
+</l>
+<l>It's the last one of all!</l>
+<l>
+You're in charge of the last of the
+<mUp>Truffula</mUp>
+Seeds.
+</l>
+<l>
+And
+<mUp>Truffula Trees</mUp>
+are what everyone needs.
+</l>
+<l>
+Plant a new
+<mUp>Truffula</mUp>
+. Treat it with care.
+</l>
+<l>Give it clean water. And feed it fresh air.</l>
+<l>Grow a forest. Protect it from axes that hack.</l>
+<l>
+Then the
+<char name="Lorax">Lorax</char>
+</l>
+<l>and all of his friends</l>
+<l>may come back."</l>
+</stanza>
+</body>
+</book>

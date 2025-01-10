@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/letsrock" version="1" owner="eqt5165" group="dba" mode="775" created="2021-10-04T05:24:40.449Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="letsrock" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="lyricstoseparatehtml" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-11-29T01:25:10.081Z" modified="2021-11-29T01:25:29.721Z" filename="lyricstoseparatehtml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Axl-xml.xml" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-11-14T21:41:44.574Z" modified="2021-11-14T21:41:44.574Z" filename="Axl-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Chipp-xml.xml" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-11-14T21:41:56.867Z" modified="2021-11-14T21:41:56.867Z" filename="Chipp-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Goldlewis-xml.xml" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-11-14T21:42:41.554Z" modified="2021-11-14T21:42:41.554Z" filename="Goldlewis-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Ino-xml.xml" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-11-14T21:42:53.923Z" modified="2021-11-14T21:42:53.923Z" filename="Ino-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Jacko-xml.xml" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-11-14T21:43:05.824Z" modified="2021-11-14T21:43:05.824Z" filename="Jacko-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Ky-xml.xml" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-11-14T21:43:14.963Z" modified="2021-11-14T21:43:14.963Z" filename="Ky-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Leo-xml.xml" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-11-14T21:43:26.715Z" modified="2021-11-14T21:43:26.715Z" filename="Leo-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="May-xml.xml" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-11-14T21:43:38.938Z" modified="2021-11-14T21:43:38.938Z" filename="May-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Nago-xml.xml" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-11-14T21:44:12.717Z" modified="2021-11-14T21:44:12.717Z" filename="Nago-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Sol-xml.xml" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-11-14T21:45:26.01Z" modified="2021-11-14T21:45:26.01Z" filename="Sol-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Zato-xml.xml" skip="no" owner="eqt5165" group="letsrock" mode="7776" created="2021-10-04T05:47:21.276Z" modified="2021-11-14T21:45:37.093Z" filename="Zato-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Smell_of_the_game-xml.xml" skip="no" owner="eqt5165" group="letsrock" mode="7776" created="2021-10-04T05:47:21.354Z" modified="2021-11-14T21:45:08.776Z" filename="Smell_of_the_game-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Ram-xml.xml" skip="no" owner="eqt5165" group="letsrock" mode="7776" created="2021-10-04T05:47:21.423Z" modified="2021-11-14T21:44:40.753Z" filename="Ram-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Potemkin-xml.xml" skip="no" owner="eqt5165" group="letsrock" mode="7776" created="2021-10-04T05:47:21.497Z" modified="2021-11-14T21:44:23.581Z" filename="Potemkin-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Gio-xml.xml" skip="no" owner="eqt5165" group="letsrock" mode="7776" created="2021-10-04T05:47:21.57Z" modified="2021-11-14T21:42:19.624Z" filename="Gio-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Faust-xml.xml" skip="no" owner="eqt5165" group="letsrock" mode="7776" created="2021-10-04T05:47:21.655Z" modified="2021-11-14T21:42:07.404Z" filename="Faust-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Anji-xml.xml" skip="no" owner="eqt5165" group="letsrock" mode="7776" created="2021-10-04T05:47:21.728Z" modified="2021-11-14T21:41:14.006Z" filename="Anji-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Millia-xml.xml" skip="no" owner="eqt5165" group="letsrock" mode="7776" created="2021-10-04T05:47:21.8Z" modified="2021-11-14T21:44:01.273Z" filename="Millia-xml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="home.html" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-10-15T01:49:46.786Z" modified="2021-10-15T01:52:37.928Z" filename="home.html" mimetype="application/xhtml+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="songlist.html" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-10-15T01:53:46.936Z" modified="2021-10-15T02:06:55.815Z" filename="songlist.html" mimetype="application/xhtml+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="characterlist.html" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-10-15T02:17:07.957Z" modified="2021-10-15T02:17:07.957Z" filename="characterlist.html" mimetype="application/xhtml+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="about.html" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-10-15T02:24:00.178Z" modified="2021-10-15T02:24:00.178Z" filename="about.html" mimetype="application/xhtml+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="image.png" skip="no" owner="eqt5165" group="eqt5165" mode="644" created="2021-10-15T02:03:02.424Z" modified="2021-10-15T02:03:03.134Z" filename="image.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="characters" filename="characters"/>
+</collection>

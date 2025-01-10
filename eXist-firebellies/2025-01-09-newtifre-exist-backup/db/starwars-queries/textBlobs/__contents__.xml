@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/starwars-queries/textBlobs" version="1" owner="admin" group="dba" mode="755" created="2022-04-18T17:01:24.828Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="ANHfinalDraft-stagedirs.txt" skip="no" owner="admin" group="dba" mode="644" created="2022-04-18T17:01:38.155Z" modified="2022-04-18T17:01:38.155Z" filename="ANHfinalDraft-stagedirs.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ANHfirstDraft-stagedirs.txt" skip="no" owner="admin" group="dba" mode="644" created="2022-04-18T17:01:38.164Z" modified="2022-04-18T17:01:38.164Z" filename="ANHfirstDraft-stagedirs.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ANHroughDraft-stagedirs.txt" skip="no" owner="admin" group="dba" mode="644" created="2022-04-18T17:01:38.173Z" modified="2022-04-18T17:01:38.173Z" filename="ANHroughDraft-stagedirs.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ANHsecondDraft-stagedirs.txt" skip="no" owner="admin" group="dba" mode="644" created="2022-04-18T17:01:38.184Z" modified="2022-04-18T17:01:38.184Z" filename="ANHsecondDraft-stagedirs.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ANHthirdDraft-stagedirs.txt" skip="no" owner="admin" group="dba" mode="644" created="2022-04-18T17:01:38.194Z" modified="2022-04-18T17:01:38.194Z" filename="ANHthirdDraft-stagedirs.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

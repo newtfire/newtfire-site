@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata genre="rhyme" type="moral" date="1948"/>
+<title>Thidwick,The Big-Hearted Moose</title>
+<body>
+<stanza>
+<l>
+Up at the
+<place>
+<mUp>LakeWinna-Bango</mUp>
+</place>
+. . . the far northern
+<rym sch="a">shore</rym>
+. . .
+</l>
+<l>
+Lives a huge herd of moose, about sixty or
+<rym sch="a">more</rym>
+,
+</l>
+<l>
+And they all go around in a big happy
+<rym sch="b">bunch</rym>
+</l>
+<l>
+Looking for nice tender moosemoss to
+<rym sch="b">munch</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+Up at the
+<place>
+<mUp>LakeWinna-Bango</mUp>
+</place>
+, one day, they were
+<rym sch="a">lunching</rym>
+,
+</l>
+<l>
+Just strolling along and enjoying their
+<rym sch="a">munching</rym>
+. . .
+</l>
+<l>
+(For the moose-moss that day was especially
+<rym sch="b">fine</rym>
+). . .
+</l>
+<l>
+When it happened that
+<char name="Thidwick">Thidwick</char>
+, the last moose in
+<rym sch="b">line</rym>
+,
+</l>
+<l>Saw a Bingle Bug sitting.</l>
+<l>The bug called out, "Hey!</l>
+<l>It's such a long road</l>
+<l>
+And it's such a hot
+<rym sch="c">day</rym>
+,
+</l>
+<l>
+Would you mind if I rode on your horns for a
+<rym sch="c">way</rym>
+?"
+</l>
+</stanza>
+<stanza>
+<l>
+"Of course not!" smiled
+<char name="Thidwick">Thidwick</char>
+, the Big-Hearted Moose.
+</l>
+<l>
+"I'm
+<adj>happy</adj>
+my
+<obj>antlers</obj>
+can be of some use.
+</l>
+<l>
+There's room there to spare, and I'm
+<adj>happy</adj>
+to share!
+</l>
+<l>
+Be my guest and I hope that you're
+<adj>comfortable</adj>
+there!"
+</l>
+</stanza>
+<stanza>
+<l>
+So the Bingle Bug picked out a nice easy
+<rym sch="a">seat</rym>
+</l>
+<l>
+And the moose went on looking for
+<obj>moose-moss</obj>
+to
+<rym sch="a">eat</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>Well. . . An hour or so later</l>
+<l>
+The bug heard a
+<sound>squeak</sound>
+,
+</l>
+<l>
+And he heard the
+<adj>small</adj>
+voice.
+</l>
+<l>Of a Tree Spider speak.</l>
+<l>"I say!" said the spider,</l>
+<l>
+"You've got a
+<adj>nice</adj>
+place!
+</l>
+<l>
+That moose seems quite
+<adj>friendly</adj>
+,
+</l>
+<l>
+Has such a
+<adj>nice</adj>
+face. . .
+</l>
+<l>If I got on, too,</l>
+<l>Do you think he would mind. . .?"</l>
+</stanza>
+<stanza>
+<l>
+"Hop aboard!" laughed the bug. "And I think that you'll
+<rym sch="a">find</rym>
+</l>
+<l>That moose won't object.</l>
+<l>
+He's the
+<adj>big</adj>
+hearted
+<rym sch="a">kind</rym>
+!"
+</l>
+<l>"I accept," said the spider,</l>
+<l>
+"With
+<adj>joy</adj>
+and
+<rym sch="b">delight</rym>
+."
+</l>
+<l>And he started a web</l>
+<l>
+On the horn to the
+<rym sch="b">right</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+While the spider was spinning, he heard a gay
+<rym sch="a">song</rym>
+</l>
+<l>
+And a fresh little
+<mUp>Zinn-a-zu bird</mUp>
+came
+<rym sch="a">along</rym>
+.
+</l>
+<l>
+He stopped. And he stared. And he
+<sound>chirped</sound>
+,
+<figOfSp type="repition">
+"Well! Well!
+<rym sch="b">WELL</rym>
+</figOfSp>
+!
+</l>
+<l>
+What a smart place to build! What a great place to
+<rym sch="b">dwell</rym>
+!
+</l>
+<l>
+I've been living on trees ever since I was
+<rym sch="c">born</rym>
+,
+</l>
+<l>
+But here's something new! Why not live in a
+<rym sch="c">horn</rym>
+!
+</l>
+<l>
+If there's room there for two, then there's room there for
+<rym sch="d">three</rym>
+!"
+</l>
+</stanza>
+<stanza>
+<l>"There's plenty of room!"</l>
+<l>Laughed the bug. "And it's free!"</l>
+</stanza>
+<stanza>
+<l>
+<char name="Thidwick">Thidwick</char>
+stopped walking.
+</l>
+<l>What was all that talking?</l>
+<l>
+These guests had caught
+<char name="Thidwick">Thidwick</char>
+the Moose unawares.
+</l>
+<l>"Hey!" he called out. "What goes on there upstairs?"</l>
+</stanza>
+<stanza>
+<l>"Just building a nest,sir."</l>
+<l>
+The
+<mUp>Zinn-a-zu</mUp>
+said, and began
+<adj>yanking</adj>
+hairs out of
+<adj>poor</adj>
+<char name="Thidwick">Thidwick</char>
+'s head.
+</l>
+<l>And he plucked out exactly two hundred and four!</l>
+<l>"Don't worry," he laughed. "you can always grow more!"</l>
+</stanza>
+<stanza>
+<l>
+Then he dozed off to sleep in his fine moose hair
+<rym sch="a">nest</rym>
+.
+</l>
+<l>
+"This bird," murmured
+<char name="Thidwick">Thidwick</char>
+"is sort of a
+<rym sch="a">pest</rym>
+!
+</l>
+<l>
+But I'm a
+<adj>good</adj>
+sport, so I'll just let him
+<rym sch="b">rest</rym>
+,
+</l>
+<l>
+For a host, above all, must be
+<adj>nice</adj>
+to his
+<rym sch="b">guest</rym>
+."
+</l>
+</stanza>
+<stanza>
+<l>
+"Besides, now, it's getting quite late in the
+<rym sch="a">day</rym>
+</l>
+<l>
+And surely tomorrow they'll all go
+<rym sch="a">away</rym>
+."
+</l>
+</stanza>
+<stanza>
+<l>But, alas! The next morning</l>
+<l>
+The suns
+<adj>early</adj>
+light
+</l>
+<l>
+Brought to
+<char name="Thidwick">Thidwick</char>
+'s sad eyes
+</l>
+<l>A most unwelcome sight. . .</l>
+</stanza>
+<stanza>
+<l>"Meet my wife!" said the bird.</l>
+<l>"I was married last night.</l>
+</stanza>
+<stanza>
+<l>"And, perhaps by the way,</l>
+<l>I should mention to you</l>
+<l>That her uncle is coming</l>
+<l>To live with us, too.</l>
+<l>You're a very fine host so I</l>
+<l>Knew you'd be willing. . ."</l>
+</stanza>
+<stanza>
+<l>Then the uncle, a woodpecker, started in drilling!</l>
+</stanza>
+<stanza>
+<l>
+All
+<char name="Thidwick">Thidwick</char>
+'s friends shouted, "GET RID OF THOSE PESTS!"
+</l>
+<l>
+"I would, but I can't." sobbed
+<adj>poor</adj>
+<char name="Thidwick">Thidwick</char>
+. "They're guests!"
+</l>
+</stanza>
+<stanza>
+<l>"Guests indeed!" his friends answered and all of them frowned.</l>
+<l>"If those are your guests, we don't want you around!</l>
+<l>You can't stay with us, 'cause you're just not our sort!"</l>
+<l>And they all turned their backs and walked off with a snort.</l>
+</stanza>
+<stanza>
+<l>
+Now the big friendless moose walked alone and
+<rym sch="a">forlorn</rym>
+,
+</l>
+<l>
+With four great big woodpecker holes in his
+<rym sch="a">horn</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>"What holes!" whispered Hernan, a squirrel, who spied 'em.</l>
+<l>"What holes to hide nuts in! Hmmm! Mind if I tried 'em?"</l>
+</stanza>
+<stanza>
+<l>"They're yours!" called the woodpecker. "Get right inside 'em!</l>
+<l>
+This
+<adj>big</adj>
+hearted moose runs a public hotel!
+</l>
+<l>Bring your nuts! Bring your wife! Bring your children as well!"</l>
+</stanza>
+<stanza>
+<l>So the whole squirrel family all jumped on, pell mell.</l>
+</stanza>
+<stanza>
+<l>
+And the very next thing the
+<adj>poor</adj>
+animal knew,
+</l>
+<l>A Bobcat and turtle were living there, too!</l>
+<l>
+NOW what was the
+<adj>big</adj>
+-hearted moose going to do?
+</l>
+</stanza>
+<stanza>
+<l>Well what would YOU do</l>
+<l>If it happened to YOU?</l>
+</stanza>
+<stanza>
+<l>
+You couldn't say "
+<mUp>Skat</mUp>
+!" 'cause that wouldn't be right.
+</l>
+<l>You couldn't shout "Scram!" 'cause that isn't polite.</l>
+<l>A host has to put up with all kinds of pests,</l>
+<l>
+For a host, above all, must be
+<adj>nice</adj>
+to his guests.
+</l>
+<l>
+So you'd try
+<adj>hard</adj>
+to smile, and you'd try to look
+<adj>sweet</adj>
+</l>
+<l>
+And you'd go right on looking for
+<obj>moose-moss</obj>
+to eat.
+</l>
+</stanza>
+<stanza>
+<l>
+But now it was winter and that wasn't
+<rym sch="a">easy</rym>
+,
+</l>
+<l>
+For
+<obj>moose-moss</obj>
+gets scarce when the weather gets
+<rym sch="a">
+<adj>freezy</adj>
+</rym>
+.
+</l>
+<l>
+The food was soon gone on the
+<adj>cold</adj>
+<place>
+northern
+<rym sch="b">shore</rym>
+</place>
+</l>
+<l>
+Of
+<place>
+<mUp>Lake Winna-Bango</mUp>
+</place>
+. There just was no
+<rym sch="b">more</rym>
+!
+</l>
+<l>
+And all
+<char name="Thidwick">Thidwick</char>
+'s friends swam away in a
+<rym sch="c">bunch</rym>
+</l>
+<l>
+To the south of the lake where there's
+<obj>moose-moss</obj>
+to
+<rym sch="c">munch</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+He watched the herd leaving And then
+<char name="Thidwick">Thidwick</char>
+knew
+</l>
+<l>He'd starve if he stayed here! He'd have to go, too!</l>
+</stanza>
+<stanza>
+<l>
+He stepped in the water. Then, oh! What a
+<rym sch="a">fuss</rym>
+!
+</l>
+<l>
+"STOP!" screamed his guests. "You can't do this to
+<rym sch="a">us</rym>
+!
+</l>
+<l>
+These horns are our home and you've no right to
+<rym sch="b">take</rym>
+</l>
+<l>
+Our home to the
+<adj>far</adj>
+distant side of the
+<rym sch="b">lake</rym>
+!"
+</l>
+<l>
+"Be fair!"
+<char name="Thidwick">Thidwick</char>
+begged, with a lump in his
+<rym sch="c">throat</rym>
+. . ..
+</l>
+</stanza>
+<stanza>
+<l>"We're fair," said the bug.</l>
+<l>"We'll decide this by vote.</l>
+<l>All those in favor of going, say AYE,'</l>
+<l>All those in favor of staying say NAY'."</l>
+</stanza>
+<stanza>
+<l>
+"AYE!" shouted
+<char name="Thidwick">Thidwick</char>
+,
+</l>
+<l>but when he was done. . .</l>
+</stanza>
+<stanza>
+<l>"NAY!" they all yelled.</l>
+<l>He lost 'leven to one.</l>
+</stanza>
+<stanza>
+<l>
+"We win!" screamed the guests, "by a very
+<adj>large</adj>
+<rym sch="a">score</rym>
+!"
+</l>
+<l>
+And
+<adj>poor</adj>
+, starving
+<char name="Thidwick">Thidwick</char>
+climbed back on the
+<rym sch="a">shore</rym>
+.
+</l>
+<l>
+Then, do you know what those pests
+<rym sch="b">did</rym>
+?
+</l>
+<l>
+They asked in some
+<rym sch="a">more</rym>
+!
+</l>
+</stanza>
+<stanza>
+<l>They asked in a fox, who jumped in from the trees,</l>
+<l>They asked in some mice and they asked in some fleas.</l>
+<l>They asked a big bear in and then, if you please,</l>
+<l>Came a swarm of three hundred and sixty-two bees!</l>
+</stanza>
+<stanza>
+<l>
+Poor
+<char name="Thidwick">Thidwick</char>
+sank down, with a groan, to his knees.
+</l>
+<l>
+And then, THEN came something that made his heart
+<adj>freeze</adj>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+Bullets came
+<mUp>zinging</mUp>
+right past
+<char name="Thidwick">Thidwick</char>
+'s face!
+</l>
+<l>Guns were bang-binging all over the place!</l>
+<l>"Get that moose!</l>
+<l>Get that moose!"</l>
+<l>
+<char name="Thidwick">Thidwick</char>
+heard a voice
+<rym sch="a">call</rym>
+.
+</l>
+<l>"Fire again and again</l>
+<l>
+And shoot straight one and
+<rym sch="a">all</rym>
+!
+</l>
+<l>
+We must get his head for the Harvard club
+<rym sch="a">wall</rym>
+!"
+</l>
+</stanza>
+<stanza>
+<l>
+<char name="Thidwick">Thidwick</char>
+took his heels with that load on his head!
+</l>
+<l>With five hundred pounds on his horns, the moose fled!</l>
+<l>
+He could have run
+<adj>faster</adj>
+without all those pests,
+</l>
+<l>
+But a host, above all, must be
+<adj>nice</adj>
+to his guests.
+</l>
+</stanza>
+<stanza>
+<l>
+Up canyon! Off cliff! Over
+<adj>wild</adj>
+rocky
+<rym sch="a">trail</rym>
+!
+</l>
+<l>
+With bullets bang-bouncing around him like
+<rym sch="a">hail</rym>
+!
+</l>
+<l>
+Up gully! Through gulch! And down
+<adj>slippery</adj>
+<mUp>sluice</mUp>
+,
+</l>
+<l>
+With his
+<adj>hard</adj>
+-hearted guests raced the
+<adj>soft</adj>
+-hearted moose!
+</l>
+</stanza>
+<stanza>
+<l>Then finally they had him!</l>
+<l>
+Because of those pests, he had run out of
+<rym sch="a">luck</rym>
+,
+</l>
+<l>
+Because of those guests on his horns, he was
+<rym sch="a">stuck</rym>
+!
+</l>
+</stanza>
+<stanza>
+<l>
+He gasped! He felt faint! And the whole world grew
+<adj>fuzzy</adj>
+!
+</l>
+<l>
+<char name="Thidwick">Thidwick</char>
+was finished,completely. . .
+</l>
+<l>. . .or WAS he. . .?</l>
+</stanza>
+<stanza>
+<l>Finished. . .?</l>
+<l>
+Not
+<char name="Thidwick">Thidwick</char>
+!
+</l>
+<l>DECIDEDLY NOT!</l>
+<l>
+It's true, he was in a most terrible
+<rym sch="a">spot</rym>
+,
+</l>
+<l>
+But NOW he remembered a thing he'd
+<rym sch="a">forgot</rym>
+!
+</l>
+<l>
+A wonderful something that happens each
+<rym sch="b">year</rym>
+</l>
+<l>
+To the horns of all moose and the horns of all
+<rym sch="b">deer</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>Today was the day,</l>
+<l>
+<char name="Thidwick">Thidwick</char>
+happened to know. . .
+</l>
+</stanza>
+<stanza>
+<l>. . . That OLD horns come off so that NEW ones can grow!</l>
+<l>And he called to the pests on his horns as he threw 'em,</l>
+<l>"you wanted my horns; now you're quite welcome to 'em!</l>
+<l>Keep 'em! They're yours!</l>
+<l>As of ME, I shall take</l>
+<l>Myself to the far distant</l>
+<l>Side of the lake!"</l>
+</stanza>
+<stanza>
+<l>
+And he swam
+<mUp>Winna-Bango</mUp>
+and found his
+<adj>old</adj>
+<rym sch="a">bunch</rym>
+,
+</l>
+<l>
+And arrived just in time for a wonderful
+<rym sch="a">lunch</rym>
+</l>
+<l>
+At the south of the lake, where there's
+<obj>moose-moss</obj>
+to
+<rym sch="a">munch</rym>
+.
+</l>
+</stanza>
+<stanza>
+<l>
+His
+<adj>old</adj>
+horns today are
+</l>
+<l>Where you knew they would be.</l>
+<l>His guests are still on them,</l>
+<l>All stuffed, as they should be.</l>
+</stanza>
+</body>
+</book>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="96"><password>{RIPEMD160}TI/1FX1PJo/OQFRjiCMeb59p3DQ=</password><digestPassword>058c059c3143dea59c0dcfb86fb6c340b2781979</digestPassword><group name="tec5271"/><group name="dba"/><group name="avatar"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://axschema.org/namePerson">Tyler Cameron</metadata><metadata key="http://exist-db.org/security/description">DIGIT student</metadata><name>tec5271</name></account>

@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/seuss/Xquery" version="1" owner="scd5363" group="scd5363" mode="755" created="2022-03-23T18:28:18.043Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Start" skip="no" owner="scd5363" group="scd5363" mode="755" created="2022-03-23T18:28:31.887Z" modified="2022-03-23T18:28:31.887Z" filename="Start" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="start.xql" skip="no" owner="admin" group="dba" mode="755" created="2022-03-30T16:24:45.701Z" modified="2022-04-06T14:53:44.257Z" filename="start.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="titleLine" skip="no" owner="epw5194" group="epw5194" mode="755" created="2022-04-06T15:07:40.341Z" modified="2022-04-06T15:36:50.948Z" filename="titleLine" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="titleLine.xql" skip="no" owner="epw5194" group="epw5194" mode="755" created="2022-04-06T15:37:23.103Z" modified="2022-04-06T15:42:43.575Z" filename="titleLine.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

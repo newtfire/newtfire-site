@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../drSuesSchema.rnc" type="application/relax-ng-compact-syntax"?><book>
+<metadata date="1954" genre="rhyme" type="moral"/>
+<title>Horton Hears a Who</title>
+<body>
+<stanza>
+<l>
+On the 15th of May, in the
+<place>
+<rym sch="mixed">Jungle of Nool,</rym>
+</place>
+</l>
+<l>
+In the
+<adj>heat</adj>
+of the day, in the
+<rym sch="mixed">cool of the pool,</rym>
+</l>
+<l>
+He was splashing... enjoying the jungle's great
+<rym sch="mixed"> joys...</rym>
+</l>
+<l>
+When
+<char name="Horton">Horton </char>
+the elephant heard a
+<adj>small</adj>
+<rym sch="mixed"> noise.</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+So
+<char name="Horton">Horton </char>
+stopped splashing. He looked toward the
+<rym sch="mixed">sound.</rym>
+</l>
+<l>
+"That's
+<adj>funny</adj>
+," thought
+<char name="Horton">Horton </char>
+. "There's no one
+<rym sch="mixed">around."</rym>
+</l>
+<l>
+Then he heard it again! Just a very
+<adj>faint</adj>
+<rym sch="mixed">yelp </rym>
+</l>
+<l>
+As if some tiny person were calling for
+<rym sch="mixed"> help.</rym>
+</l>
+<l>
+"I'll help you," said
+<char name="Horton">Horton </char>
+. "But who are you?
+<rym sch="mixed">Where?"</rym>
+</l>
+<l>
+He looked and he looked. He could see nothing
+<rym sch="mixed">there</rym>
+</l>
+<l>
+But a small speck of dust blowing past through the
+<rym sch="mixed">air.</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+"I say!" murmured
+<char name="Horton">Horton </char>
+. "I've never heard
+<rym sch="mixed"> tell</rym>
+</l>
+<l>
+Of a small speck of dust that is able to
+<rym sch="mixed">yell.</rym>
+</l>
+<l>
+So you know what I think?... Why, I think that there
+<rym sch="mixed">must</rym>
+</l>
+<l>
+Be someone on top of that small speck of
+<rym sch="mixed">dust!</rym>
+</l>
+<l>Some sort of a creature of very small size,</l>
+<l>Too small to be seen by an elephant's eyes...</l>
+</stanza>
+<stanza>
+<l>"... some poor little person who's shaking with fear</l>
+<l>That he'll blow in the pool! He has no way to steer!</l>
+<l>
+I'll just have to save him. Because, after
+<rym sch="mixed"> all,</rym>
+</l>
+<l>
+A person's a person, no matter how
+<rym sch="mixed">small."</rym>
+</l>
+</stanza>
+<stanza>
+<l>So, gently, and using the greatest of care,</l>
+<l>The elephant stretched his great trunk through the air, </l>
+<l>
+And he lifted the dust speck and carried it
+<rym sch="mixed"> over</rym>
+</l>
+<l>
+And placed it down, safe, on a very soft
+<rym sch="mixed">clover.</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+<mUp>"Humpf!"</mUp>
+humpfted a voice. 'Twas a sour
+<rym sch="mixed">kangaroo.</rym>
+</l>
+<l>
+And the you kangaroo in her pouch said
+<mUp>"Humpf"</mUp>
+<rym sch="mixed">too."</rym>
+</l>
+<l>Why, that speck is as small as the head of a pin.</l>
+<l>A person on that?... Why, there never has been!"</l>
+</stanza>
+<stanza>
+<l>
+"Believe me," said
+<char name="Horton">Horton </char>
+. "I tell you
+<rym sch="mixed">sincerely,</rym>
+</l>
+<l>
+My ears are quite keen and I heard him quite
+<rym sch="mixed">clearly.</rym>
+</l>
+<l>
+I know there's a person down there. And, what's
+<rym sch="mixed"> more,</rym>
+</l>
+<l>
+Quite likely there's two. Even three. Even
+<rym sch="mixed">four.</rym>
+</l>
+<l>Quite likely...</l>
+</stanza>
+<stanza>
+<l>"...a family, for all that we know!</l>
+<l>A family with children just starting to grow.</l>
+<l>
+So, please,"
+<char name="Horton">Horton </char>
+said, "as a favor to me,
+</l>
+<l>Try not to disturb them. Just please let them be."</l>
+</stanza>
+<stanza>
+<l>
+"I think you're a fool!" laughed the sour
+<rym sch="mixed"> kangaroo</rym>
+</l>
+<l>
+And the young kangaroo in her pouch said, "Me,
+<rym sch="mixed">too!</rym>
+</l>
+<l>
+You're the biggest blame fool in the Jungle of
+<rym sch="mixed">Nool!"</rym>
+</l>
+<l>
+And the kangaroos plunged in the cool of the
+<rym sch="mixed">pool.</rym>
+</l>
+<l>
+"What terrible splashing!" the elephant
+<rym sch="mixed"> frowned.</rym>
+</l>
+<l>
+"I can't let my very small person get
+<rym sch="mixed"> drowned!"</rym>
+</l>
+<l>I've got to protect them. I'm bigger than they."</l>
+<l>So he plucked up the clover and hustled away. </l>
+</stanza>
+<stanza>
+<l>
+Through the high jungle tree tops, the news quickly
+<rym sch="mixed">spread:</rym>
+</l>
+<l>
+"He talks to a dust speck! He's out of his
+<rym sch="mixed"> head!</rym>
+</l>
+<l>
+Just look at him walk with that speck on that
+<rym sch="mixed"> flower!"</rym>
+</l>
+<l>
+And
+<char name="Horton">Horton </char>
+walked, worrying, almost an
+<rym sch="mixed"> hour.</rym>
+</l>
+<l>
+"Should I put this speck down?..."
+<char name="Horton">Horton </char>
+thought with
+<rym sch="mixed"> alarm.</rym>
+</l>
+<l>
+"If I do, these small persons may come to great
+<rym sch="mixed"> harm.</rym>
+</l>
+<l>
+I can't put it down. And I won't! After
+<rym sch="mixed"> all</rym>
+</l>
+<l>
+A person's a person. No matter how
+<rym sch="mixed">small."</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+Then
+<char name="Horton">Horton </char>
+stopped
+<rym sch="mixed"> walking.</rym>
+</l>
+<l>
+The speck-voice was
+<rym sch="mixed">talking!</rym>
+</l>
+<l>
+The voice was so faint he could just barely hear
+<rym sch="mixed">it.</rym>
+</l>
+<l>
+"Speak up, please" said
+<char name="Horton">Horton </char>
+. He put his ear near
+<rym sch="mixed">it.</rym>
+</l>
+<l>"My friend," came the voice, "you're a very fine friend.</l>
+<l>You've helped all us folks on this dust speck no end.</l>
+<l>
+You've saved all our houses, our ceilings and
+<rym sch="mixed">floors.</rym>
+</l>
+<l>
+You've saved all our churches and grocery
+<rym sch="mixed"> stores."</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+"You mean..."
+<char name="Horton">Horton </char>
+gasped, "you have buildings there, too?"
+</l>
+<l>"Oh, yes," piped the voice. "We most certainly do...</l>
+<l>"I know," called the voice, "I'm too small to be seen</l>
+<l>But I'm mayor of a town that is friendly and clean.</l>
+<l>
+Our buildings, to you, would seem terribly
+<rym sch="mixed">small</rym>
+</l>
+<l>
+But to us, who aren't big, they are wonderfully
+<rym sch="mixed"> tall.</rym>
+</l>
+<l>My town is called Who-ville, for I am a Who</l>
+<l>And we Whos are all thankful and grateful to you."</l>
+<l>
+And
+<char name="Horton">Horton </char>
+called back to the Mayor of the
+<rym sch="mixed"> town,</rym>
+</l>
+<l>
+"You're safe now. Don't worry. I won't let you
+<rym sch="mixed"> down."</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+But, just as he spoke to the mayor of the
+<rym sch="mixed"> speck,</rym>
+</l>
+<l>
+Three big jungle monkeys climbed up
+<char name="Horton">Horton </char>
+'s
+<rym sch="mixed">neck!</rym>
+</l>
+<l>
+The Wickersham Brothers came shouting, "What
+<rym sch="mixed"> rot!</rym>
+</l>
+<l>
+This elephant's talking to Whos who are
+<rym sch="mixed">not!</rym>
+</l>
+<l>There aren't any Whos! And they don't have a mayor!</l>
+<l>And we're going to stop all the nonsense! So there!"</l>
+</stanza>
+<stanza>
+<l>
+They snatched
+<char name="Horton">Horton </char>
+'s clover! They carried it
+<rym sch="mixed"> off</rym>
+</l>
+<l>
+To a black-bottomed eagle named
+<char name="Vlad Vlad-i-koff"> Vlad Vlad-i-koff,</char>
+</l>
+<l>
+A mighty strong eagle, of very swift
+<rym sch="mixed">wing,</rym>
+</l>
+<l>
+And they said, "Will you kindly get rid of this
+<rym sch="mixed">thing?"</rym>
+</l>
+<l>
+And, before the poor elephant even could
+<rym sch="mixed">speak,</rym>
+</l>
+<l>
+That eagle flew off with the flower in his
+<rym sch="mixed">beak.</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+All that late afternoon and far into the
+<rym sch="mixed"> night</rym>
+</l>
+<l>
+That black-bottomed bird flapped his wings in fast
+<rym sch="mixed"> flight,</rym>
+</l>
+<l>
+While
+<char name="Horton">Horton </char>
+chased after, with groans, over
+<rym sch="mixed">stones</rym>
+</l>
+<l>
+That tattered his toenails and battered his
+<rym sch="mixed">bones,</rym>
+</l>
+<l>And begged, "Please don't harm all my little folks, who</l>
+<l>Have as much right to live as us bigger folks do!"</l>
+</stanza>
+<stanza>
+<l>
+But far, far beyond him, that eagle kept
+<rym sch="mixed">flapping</rym>
+</l>
+<l>
+And over his shoulder called back, "Quit your
+<rym sch="mixed">yapping.</rym>
+</l>
+<l>
+I'll fly the night through. I'm a bird. I don't
+<rym sch="mixed">mind it.</rym>
+</l>
+<l>
+And I'll hide this, tomorrow, where you'll never
+<rym sch="mixed">find it!"</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+And at 6:56 the next morning
+<rym sch="mixed"> he did it.</rym>
+</l>
+<l>
+It sure was a terrible place that
+<rym sch="mixed">he hid it.</rym>
+</l>
+<l>
+He let that small clover drop somewhere
+<rym sch="mixed">inside</rym>
+</l>
+<l>
+Of a great patch of clovers a hundred miles
+<rym sch="mixed">wide!</rym>
+</l>
+<l>"Find THAT!" sneered the bird. "But I think you will fail."</l>
+<l>And he left</l>
+<l>With a flip</l>
+<l>Of his blackbottomed tail.</l>
+</stanza>
+<stanza>
+<l>
+"I'll find it!" cried
+<char name="Horton">Horton </char>
+. "I'll find it or
+<rym sch="mixed"> bust!</rym>
+</l>
+<l>
+I SHALL find my friends on my small speck of
+<rym sch="mixed">dust!"</rym>
+</l>
+<l>And clover, by clover, by clover with care</l>
+<l>He picked up and searched them, and called, "Are you there?"</l>
+<l>
+But clover, by clover, by clover he
+<rym sch="mixed">found</rym>
+</l>
+<l>
+That the one that he sough for was just not
+<rym sch="mixed">around.</rym>
+</l>
+<l>
+And by noon poor old
+<char name="Horton">Horton </char>
+, more dead than
+<rym sch="mixed">alive,</rym>
+</l>
+<l>
+Had picked, searched, and piled up, nine thousand and
+<rym sch="mixed">five.</rym>
+</l>
+</stanza>
+<stanza>
+<l>Then, on through the afternoon, hour after hour...</l>
+<l>Till he found them at last! On the three millionth flower!</l>
+<l>
+"My friends!" cried the elephant. "Tell me! Do
+<rym sch="mixed">tell!</rym>
+</l>
+<l>
+Are you safe? Are you sound? Are you whole? Are you
+<rym sch="mixed">well?"</rym>
+</l>
+</stanza>
+<stanza>
+<l>From down on the speck came the voice of the mayor:</l>
+<l>"We've really had trouble! Much more that our share.</l>
+<l>
+When that black-bottomed birdie let go and we
+<rym sch="mixed">
+<mUp> vdropped,</mUp>
+</rym>
+</l>
+<l>
+We landed so hard that our clocks have all
+<rym sch="mixed">stopped.</rym>
+</l>
+<l>
+Our tea-pots are broken. Our rocking-chairs
+<rym sch="mixed">smashed.</rym>
+</l>
+<l>
+And our bicycle tired all blew up when we
+<rym sch="mixed">crashed.</rym>
+</l>
+<l>
+So,
+<char name="Horton">Horton </char>
+, please!" pleaded that voice of the mayor's,
+</l>
+<l>"Will you stick by us Whos while we're making repairs?"</l>
+<l>
+"Of course,"
+<char name="Horton">Horton </char>
+answered. "Of course I will
+<rym sch="mixed">stick. </rym>
+</l>
+<l>
+I'll stick by you small folks through thin and through
+<rym sch="mixed"> thick!"</rym>
+</l>
+</stanza>
+<stanza>
+<l>"Humpf!"</l>
+<l>Humpfed a voice!</l>
+<l>
+"For almost two days you've run wild and
+<rym sch="mixed">insisted</rym>
+</l>
+<l>
+On chatting with persons who've never
+<rym sch="mixed">existed. </rym>
+</l>
+<l>
+Such carryings-on in our peaceable
+<rym sch="mixed">jungle!</rym>
+</l>
+<l>
+We've had quite enough of your bellowing
+<rym sch="mixed">bungle!</rym>
+</l>
+<l>And I'm here to state," snapped the big kangaroo,</l>
+<l>"That your silly nonsensical game is all through!"</l>
+<l>And the young kangaroo in her pouch said,"Me, too!"</l>
+</stanza>
+<stanza>
+<l>
+"With the help of the Wickersham Brothers and
+<rym sch="mixed"> dozens</rym>
+</l>
+<l>
+Of Wickersham uncles and Wickersham
+<rym sch="mixed">cousins</rym>
+</l>
+<l>
+And Wickersham in-laws, whose help I've
+<rym sch="mixed">engaged,</rym>
+</l>
+<l>
+You're going to be roped! And you're going to be
+<rym sch="mixed">caged!</rym>
+</l>
+<l>
+And, as for our dust speck...hah! That we shall
+<rym sch="mixed"> boil</rym>
+</l>
+<l>
+In hot steaming kettle of beezle-nut
+<rym sch="mixed"> oil!"</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+"Boil it?..." gasped
+<char name="Horton">Horton </char>
+!
+</l>
+<l>"Oh, that you can't do!</l>
+<l>It's all full of persons!</l>
+<l>They'll prove it to you!"</l>
+</stanza>
+<stanza>
+<l>
+"
+<char name="Mr.Mayor">Mr. Mayor</char>
+! Mr. Mayor!"
+<char name="Horton">Horton </char>
+called. "Mr. Mayor!
+</l>
+<l>You've got to prove now that you really are there!</l>
+<l>So call a big meeting. Get everyone out.</l>
+<l>Make every Who holler! Make every Who shout!</l>
+<l>Make every Who scream! If you don't, every Who</l>
+<l>Is going to end up in a beezle-nut stew!"</l>
+</stanza>
+<stanza>
+<l>And, down on the dust speck, the scared little mayor</l>
+<l>
+Quick called a big meeting in Who-ville Town
+<rym sch="mixed">Square.</rym>
+</l>
+<l>
+And his people cried loudly. They cried out in
+<rym sch="mixed">fear:</rym>
+</l>
+<l>
+"We are here! We are here! We are here! We are
+<rym sch="mixed">here!"</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+The elephant smiled: "That was clear as a
+<rym sch="mixed">bell.</rym>
+</l>
+<l>
+You kangaroos surely heard that very
+<rym sch="mixed">well."</rym>
+</l>
+<l>
+"All I heard," snapped the big kangaroo, "was the
+<rym sch="mixed">breeze,</rym>
+</l>
+<l>
+And the faint sound of wind through the far distant
+<rym sch="mixed">trees.</rym>
+</l>
+<l>
+I heard no small voices. And you didn't
+<rym sch="mixed"> either.</rym>
+"
+</l>
+<l>
+And the young kangaroo in her pouch said, "Me,
+<rym sch="mixed">neither."</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+"Grab him!" they shouted. "And cage the big
+<rym sch="mixed">dope!</rym>
+</l>
+<l>
+Lasso his stomach with ten miles of
+<rym sch="mixed">rope!</rym>
+</l>
+<l>Tie the knots tight so he'll never shake loose!</l>
+<l>Then dunk that dumb speck in the beezle-nut juice!"</l>
+</stanza>
+<stanza>
+<l>
+<char name="Horton">Horton </char>
+fought back with great vigor and vim
+</l>
+<l>But the Wickersham gang was too many for him.</l>
+<l>
+They beat him! They mauled him! They started to
+<rym sch="mixed"> haul</rym>
+</l>
+<l>
+Him into his cage! But he managed to
+<rym sch="mixed"> call</rym>
+</l>
+<l>
+To the mayor: "Don't give up! I believe in you
+<rym sch="mixed"> all!</rym>
+</l>
+<l>
+A person's a person, no matter how
+<rym sch="mixed"> small!</rym>
+</l>
+<l>And you very small persons will not have to die</l>
+<l>If you make yourselves heard! So come on, now, and TRY!"</l>
+</stanza>
+<stanza>
+<l>The mayor grabbed a tom-tom. He started to smack it.</l>
+<l>And, all over Who-ville, they whooped up a racket.</l>
+<l>
+They rattled tin kettles! They beat on brass
+<rym sch="mixed"> pans,</rym>
+</l>
+<l>
+On garbage pail tops and old cranberry
+<rym sch="mixed">cans!</rym>
+</l>
+<l>
+They blew on bazookas and blasted great
+<rym sch="mixed">toots</rym>
+</l>
+<l>
+On clarinets, oompahs and boom-pahs and
+<rym sch="mixed">flutes!</rym>
+</l>
+</stanza>
+<stanza>
+<l>Great gusts of loud racket rang high through the air.</l>
+<l>They rattled and shook the whole sky! And the mayor</l>
+<l>Called up through the howling mad hullabaloo:</l>
+<l>
+"Hey,
+<char name="Horton">Horton </char>
+! How's this? Is our sound coming through?"
+</l>
+</stanza>
+<stanza>
+<l>
+And
+<char name="Horton">Horton </char>
+called back, "I can hear you fine.
+</l>
+<l>But the kangaroos' ears aren't as strong, quite, as mine.</l>
+<l>They don't hear a thing! Are you sure all your boys</l>
+<l>Are doing their best? Are they ALL making noise?</l>
+<l>
+Are you sure every Who down in Who-ville is
+<rym sch="mixed">working?</rym>
+</l>
+<l>
+Quick! Look through your town! Is there anyone
+<rym sch="mixed"> shirking?"</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+Through the town rushed the mayor from the east to the
+<rym sch="mixed">west.</rym>
+</l>
+<l>
+But everyone seemed to be doing his
+<rym sch="mixed">best.</rym>
+</l>
+<l>
+<rym sch="mixed">Everyone seemed to be yapping or yipping!</rym>
+</l>
+<l>
+<rym sch="mixed">Everyone seemed to be beeping or bipping!</rym>
+</l>
+<l>
+But it wasn't enough, all this ruckus and
+<rym sch="mixed"> roar!</rym>
+</l>
+<l>
+He HAD to find someone to help him make
+<rym sch="mixed">more.</rym>
+</l>
+<l>
+He raced through each building! He searched
+<rym sch="mixed">floor-to-floor!</rym>
+</l>
+</stanza>
+<stanza>
+<l>And, just as he felt he as getting nowhere,</l>
+<l>And almost about to give up in despair,</l>
+<l>He suddenly burst through a door and that mayor</l>
+<l>Discovered on shirker! Quite hidden away</l>
+<l>In the Fairfax Apartments (Apartment 12-J)</l>
+<l>
+A very small, very small shirker named
+<char name="Jo-Jo">Jo-Jo</char>
+</l>
+<l>Was standing, and bouncing a Yo-Yo!</l>
+<l>
+Not making a sound! Not a yipp! Not a
+<rym sch="mixed">chirp!</rym>
+</l>
+<l>
+And the mayor rushed inside and he grabbed the young
+<rym sch="mixed">twerp!</rym>
+</l>
+</stanza>
+<stanza>
+<l>
+And he climbed with the lad up the Eiffelberg
+<rym sch="mixed">Tower.</rym>
+</l>
+<l>
+"This," cried the mayor, "is your town's darkest
+<rym sch="mixed">hour!</rym>
+</l>
+<l>The time for all Whos who have blood that is red to come</l>
+<l>To the aid of their country!" he said.</l>
+<l>
+"We've GOT to make noises in greater
+<rym sch="mixed"> amounts!</rym>
+</l>
+<l>
+So, open your mouth, lad! For every voice
+<rym sch="mixed">counts!"</rym>
+</l>
+<l>Thus he spoke as he climbed. When they got to the top,</l>
+<l>the lad cleared his throat and he shouted out, "Yopp!"</l>
+</stanza>
+<stanza>
+<l>And that Yopp...</l>
+<l>
+That one small extra Yopp put it
+<rym sch="mixed"> over!</rym>
+</l>
+<l>
+Finally, at last! From that speck on that
+<rym sch="mixed">clover</rym>
+</l>
+<l>
+Their voices were heard! They rang out clear and
+<rym sch="mixed">clean.</rym>
+</l>
+<l>
+And the elephant smiled. "Do you see what I
+<rym sch="mixed">mean?..</rym>
+</l>
+<l>They've proved they ARE persons, not matter how small.</l>
+<l>And their whole world was saved by the Smallest of ALL!"</l>
+</stanza>
+<stanza>
+<l>"How true! Yes, how true," said the big kangaroo.</l>
+<l>"And, from now on, you know what I'm planning to do?...</l>
+<l>From now on, I'm going to protect them with you!"</l>
+<l>And the young kangaroo in her pouch said,... </l>
+</stanza>
+<stanza>
+<l>"...ME, TOO! From sun in the summer.</l>
+<l>
+From rain when it's
+<rym sch="mixed">fall-ish,</rym>
+</l>
+<l>
+I'm going to protect them. No matter how
+<rym sch="mixed">small-ish! </rym>
+</l>
+</stanza>
+</body>
+</book>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/auto" version="1" owner="mxb1244" group="dba" mode="775" created="2021-10-04T05:01:31.346Z">
+    <acl entries="1" version="1">
+        <ace index="0" target="GROUP" who="auto" access_type="ALLOWED" mode="7"/>
+    </acl>
+    <resource type="XMLResource" name="datsunSports.xml" skip="no" owner="mxb1244" group="auto" mode="7776" created="2021-10-04T05:42:20.662Z" modified="2021-10-04T05:42:20.662Z" filename="datsunSports.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun38-sedan.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:16.279Z" modified="2021-10-25T19:48:05.974Z" filename="datsun38-sedan.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun35-pickup.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:16.392Z" modified="2021-10-25T19:48:05.301Z" filename="datsun35-pickup.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun68-sedan.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:16.449Z" modified="2021-10-25T19:48:08.58Z" filename="datsun68-sedan.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun67-sunnyd.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:16.509Z" modified="2021-10-25T19:48:08.485Z" filename="datsun67-sunnyd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun67-bluebird1300og.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:16.569Z" modified="2021-10-25T19:48:08.401Z" filename="datsun67-bluebird1300og.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun67-bluebird1300.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:16.627Z" modified="2021-10-25T19:48:08.32Z" filename="datsun67-bluebird1300.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun62-bluebird1200d.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:16.702Z" modified="2021-10-25T19:48:07.29Z" filename="datsun62-bluebird1200d.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun64-pickup1200d.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:16.762Z" modified="2021-10-25T19:48:07.735Z" filename="datsun64-pickup1200d.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun66-bluebird1300ss.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:16.824Z" modified="2021-10-25T19:48:07.819Z" filename="datsun66-bluebird1300ss.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun66-cablight.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:16.887Z" modified="2021-10-25T19:48:07.911Z" filename="datsun66-cablight.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun66-sunny1000d.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:16.947Z" modified="2021-10-25T19:48:07.996Z" filename="datsun66-sunny1000d.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun66-van.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:17.01Z" modified="2021-10-25T19:48:08.079Z" filename="datsun66-van.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun67-2000sports.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:17.071Z" modified="2021-10-25T19:48:08.164Z" filename="datsun67-2000sports.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun67-bluebird.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:17.129Z" modified="2021-10-25T19:48:08.241Z" filename="datsun67-bluebird.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun63-bluebird1200fd.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:17.221Z" modified="2021-10-25T19:48:07.388Z" filename="datsun63-bluebird1200fd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun63-fairlady1500.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:17.281Z" modified="2021-10-25T19:48:07.476Z" filename="datsun63-fairlady1500.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun64-baby.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:17.342Z" modified="2021-10-25T19:48:07.567Z" filename="datsun64-baby.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun64-bluebird1200d.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-10T23:15:17.405Z" modified="2021-10-25T19:48:07.652Z" filename="datsun64-bluebird1200d.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun33-phaeton.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:47:35.028Z" modified="2021-10-25T19:48:04.395Z" filename="datsun33-phaeton.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun35-roadster.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:05.402Z" modified="2021-10-25T19:48:05.402Z" filename="datsun35-roadster.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun36-phaeton.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:05.502Z" modified="2021-10-25T19:48:05.502Z" filename="datsun36-phaeton.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun36-roadster.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:05.599Z" modified="2021-10-25T19:48:05.599Z" filename="datsun36-roadster.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun37-coupe.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:05.681Z" modified="2021-10-25T19:48:05.681Z" filename="datsun37-coupe.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun38-17Tpickup.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:05.77Z" modified="2021-10-25T19:48:05.77Z" filename="datsun38-17Tpickup.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun38-phaeton17.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:05.872Z" modified="2021-10-25T19:48:05.872Z" filename="datsun38-phaeton17.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun48-truck.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:06.077Z" modified="2021-10-25T19:48:06.077Z" filename="datsun48-truck.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun50-fireengine.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:06.182Z" modified="2021-10-25T19:48:06.182Z" filename="datsun50-fireengine.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun52-sports.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:06.301Z" modified="2021-10-25T19:48:06.301Z" filename="datsun52-sports.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun53-deluxesedan.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:06.409Z" modified="2021-10-25T19:48:06.409Z" filename="datsun53-deluxesedan.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun56-sedan.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:06.505Z" modified="2021-10-25T19:48:06.505Z" filename="datsun56-sedan.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun58-pickup.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:06.601Z" modified="2021-10-25T19:48:06.601Z" filename="datsun58-pickup.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun58-sedanf.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:06.706Z" modified="2021-10-25T19:48:06.706Z" filename="datsun58-sedanf.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun58-sedansa.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:06.809Z" modified="2021-10-25T19:48:06.809Z" filename="datsun58-sedansa.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun58-sedanusa.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:06.908Z" modified="2021-10-25T19:48:06.908Z" filename="datsun58-sedanusa.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun59-sedan.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:07.006Z" modified="2021-10-25T19:48:07.006Z" filename="datsun59-sedan.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun60-bluebird1200d.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:07.101Z" modified="2021-10-25T19:48:07.101Z" filename="datsun60-bluebird1200d.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datsun61-fairlady.xml" skip="no" owner="mxb1244" group="mxb1244" mode="644" created="2021-10-25T19:48:07.19Z" modified="2021-10-25T19:48:07.19Z" filename="datsun61-fairlady.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/brandnew/albums(new)/Albums/YourFavoriteWeapon" version="1" owner="admin" group="dba" mode="755" created="2020-08-07T21:18:58.32Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="suddenDeathInCarolina.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:58.322Z" modified="2020-08-07T21:18:58.322Z" filename="suddenDeathInCarolina.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="noSeatbeltSong.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:58.386Z" modified="2020-08-07T21:18:58.386Z" filename="noSeatbeltSong.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="magazines.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:58.444Z" modified="2020-08-07T21:18:58.444Z" filename="magazines.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="judeLawAndASemesterAbroad.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:58.504Z" modified="2020-08-07T21:18:58.504Z" filename="judeLawAndASemesterAbroad.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="loganToGovernmentCenter.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:58.56Z" modified="2020-08-07T21:18:58.56Z" filename="loganToGovernmentCenter.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lastChanceToLoseYourKeys.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:58.63Z" modified="2020-08-07T21:18:58.63Z" filename="lastChanceToLoseYourKeys.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="secondary.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:58.698Z" modified="2020-08-07T21:18:58.698Z" filename="secondary.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="showerScene.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:58.765Z" modified="2020-08-07T21:18:58.765Z" filename="showerScene.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="seventyTimes7.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:58.893Z" modified="2020-08-07T21:18:58.893Z" filename="seventyTimes7.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="failureByDesign.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:58.958Z" modified="2020-08-07T21:18:58.958Z" filename="failureByDesign.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mixTape.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:59.025Z" modified="2020-08-07T21:18:59.025Z" filename="mixTape.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="socoAmarettoLime.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-08-07T21:18:59.094Z" modified="2020-08-07T21:18:59.094Z" filename="socoAmarettoLime.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

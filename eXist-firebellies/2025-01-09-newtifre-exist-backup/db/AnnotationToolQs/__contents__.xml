@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/AnnotationToolQs" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:16:28.152Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="si.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:28.613Z" modified="2021-12-30T05:18:50.612Z" filename="si.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testerMissJames-coRef" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:28.153Z" modified="2021-12-30T05:18:49.944Z" filename="testerMissJames-coRef" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tester_for_ADE" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:28.943Z" modified="2021-12-30T05:18:51.151Z" filename="tester_for_ADE" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="AnnotationTool.xql" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:16:29.02Z" modified="2021-12-30T05:18:51.221Z" filename="AnnotationTool.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

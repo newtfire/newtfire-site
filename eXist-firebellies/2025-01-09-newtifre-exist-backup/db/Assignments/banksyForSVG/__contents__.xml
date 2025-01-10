@@ -1,0 +1,300 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/Assignments/banksyForSVG" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:19:37.751Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="gansta_rat.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:44.02Z" modified="2021-12-30T05:19:44.02Z" filename="gansta_rat.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="son_of_a_migrant_from_syria.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:44.12Z" modified="2021-12-30T05:19:44.12Z" filename="son_of_a_migrant_from_syria.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="graffiti_crime.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:44.179Z" modified="2021-12-30T05:19:44.179Z" filename="graffiti_crime.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="flags.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:44.241Z" modified="2021-12-30T05:19:44.241Z" filename="flags.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="napalm_girl.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:44.305Z" modified="2021-12-30T05:19:44.305Z" filename="napalm_girl.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="kentucky_fox.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:44.409Z" modified="2021-12-30T05:19:44.409Z" filename="kentucky_fox.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="di_faced_tenners.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:44.745Z" modified="2021-12-30T05:19:44.745Z" filename="di_faced_tenners.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="grim_reaper.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:44.81Z" modified="2021-12-30T05:19:44.81Z" filename="grim_reaper.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="think_tank.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:44.87Z" modified="2021-12-30T05:19:44.87Z" filename="think_tank.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="barcode.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:44.929Z" modified="2021-12-30T05:19:44.929Z" filename="barcode.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="golf_sale.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:44.993Z" modified="2021-12-30T05:19:44.993Z" filename="golf_sale.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="happy_choppers.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:45.054Z" modified="2021-12-30T05:19:45.054Z" filename="happy_choppers.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cameraman_flower.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:37.752Z" modified="2021-12-30T05:19:37.752Z" filename="cameraman_flower.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cash_machine_girl.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:37.815Z" modified="2021-12-30T05:19:37.815Z" filename="cash_machine_girl.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="swing_girl.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:37.886Z" modified="2021-12-30T05:19:37.886Z" filename="swing_girl.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="take_society.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:37.987Z" modified="2021-12-30T05:19:37.987Z" filename="take_society.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="laugh_now.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.044Z" modified="2021-12-30T05:19:38.044Z" filename="laugh_now.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cnd_sign.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.106Z" modified="2021-12-30T05:19:38.106Z" filename="cnd_sign.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tap_phoned.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.167Z" modified="2021-12-30T05:19:38.167Z" filename="tap_phoned.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="choose_your_weapon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.229Z" modified="2021-12-30T05:19:38.229Z" filename="choose_your_weapon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="hmv.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.302Z" modified="2021-12-30T05:19:38.302Z" filename="hmv.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="no_ball_games.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.371Z" modified="2021-12-30T05:19:38.371Z" filename="no_ball_games.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="toxic_rat.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.447Z" modified="2021-12-30T05:19:38.447Z" filename="toxic_rat.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bomb_middle_england.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.518Z" modified="2021-12-30T05:19:38.518Z" filename="bomb_middle_england.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="get_out_while_you_can.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.579Z" modified="2021-12-30T05:19:38.579Z" filename="get_out_while_you_can.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="stop_search.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.649Z" modified="2021-12-30T05:19:38.648Z" filename="stop_search.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="grannies.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.713Z" modified="2021-12-30T05:19:38.713Z" filename="grannies.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="civilian_drone_strike.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.784Z" modified="2021-12-30T05:19:38.784Z" filename="civilian_drone_strike.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="baby_carriage.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.883Z" modified="2021-12-30T05:19:38.883Z" filename="baby_carriage.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="follow_dreams.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:38.99Z" modified="2021-12-30T05:19:38.99Z" filename="follow_dreams.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="draw_the_raised_bridge.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.052Z" modified="2021-12-30T05:19:39.052Z" filename="draw_the_raised_bridge.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jack_and_jill.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.112Z" modified="2021-12-30T05:19:39.112Z" filename="jack_and_jill.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="no_trespassing.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.176Z" modified="2021-12-30T05:19:39.176Z" filename="no_trespassing.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="scarf_guy.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.284Z" modified="2021-12-30T05:19:39.284Z" filename="scarf_guy.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="blinded_napoleon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.353Z" modified="2021-12-30T05:19:39.353Z" filename="blinded_napoleon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="nola.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.417Z" modified="2021-12-30T05:19:39.417Z" filename="nola.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="love_hurts.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.482Z" modified="2021-12-30T05:19:39.482Z" filename="love_hurts.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mild_mild_west.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.546Z" modified="2021-12-30T05:19:39.546Z" filename="mild_mild_west.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="i_fought_the_law.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.609Z" modified="2021-12-30T05:19:39.609Z" filename="i_fought_the_law.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tox.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.673Z" modified="2021-12-30T05:19:39.673Z" filename="tox.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fridge_kite.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.735Z" modified="2021-12-30T05:19:39.735Z" filename="fridge_kite.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="turf_war.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.795Z" modified="2021-12-30T05:19:39.795Z" filename="turf_war.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="donuts.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.855Z" modified="2021-12-30T05:19:39.855Z" filename="donuts.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="slide_girl.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.917Z" modified="2021-12-30T05:19:39.917Z" filename="slide_girl.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="burning_tyre.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:39.981Z" modified="2021-12-30T05:19:39.981Z" filename="burning_tyre.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="snorting_copper.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.057Z" modified="2021-12-30T05:19:40.057Z" filename="snorting_copper.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="girl_with_balloon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.13Z" modified="2021-12-30T05:19:40.13Z" filename="girl_with_balloon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="boxcutter_rat.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.191Z" modified="2021-12-30T05:19:40.191Z" filename="boxcutter_rat.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="flying_copper.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.254Z" modified="2021-12-30T05:19:40.254Z" filename="flying_copper.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="festival.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.318Z" modified="2021-12-30T05:19:40.318Z" filename="festival.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="gaza_kitty.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.38Z" modified="2021-12-30T05:19:40.38Z" filename="gaza_kitty.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="crying_woman.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.444Z" modified="2021-12-30T05:19:40.444Z" filename="crying_woman.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="chisel_the_flag.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.508Z" modified="2021-12-30T05:19:40.508Z" filename="chisel_the_flag.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="go_flock_yourself.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.572Z" modified="2021-12-30T05:19:40.572Z" filename="go_flock_yourself.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="kate_moss.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.632Z" modified="2021-12-30T05:19:40.632Z" filename="kate_moss.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bronx_zoo.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.739Z" modified="2021-12-30T05:19:40.739Z" filename="bronx_zoo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="slave_labour.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.804Z" modified="2021-12-30T05:19:40.804Z" filename="slave_labour.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="injured_buddha.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.865Z" modified="2021-12-30T05:19:40.865Z" filename="injured_buddha.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="hammer_boy.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.929Z" modified="2021-12-30T05:19:40.929Z" filename="hammer_boy.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="love_is_in_the_air.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:40.991Z" modified="2021-12-30T05:19:40.991Z" filename="love_is_in_the_air.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="under_cctv.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:41.055Z" modified="2021-12-30T05:19:41.055Z" filename="under_cctv.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="space_girl.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:41.118Z" modified="2021-12-30T05:19:41.118Z" filename="space_girl.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pulp_fiction.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:41.181Z" modified="2021-12-30T05:19:41.181Z" filename="pulp_fiction.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fallen_angel.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:41.498Z" modified="2021-12-30T05:19:41.498Z" filename="fallen_angel.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="old_skool.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:41.561Z" modified="2021-12-30T05:19:41.561Z" filename="old_skool.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sweep_under_rug.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:41.63Z" modified="2021-12-30T05:19:41.63Z" filename="sweep_under_rug.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="monkey_queen.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:41.767Z" modified="2021-12-30T05:19:41.767Z" filename="monkey_queen.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="queen_victoria.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:41.91Z" modified="2021-12-30T05:19:41.91Z" filename="queen_victoria.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="christ_with_shopping_bags.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:41.982Z" modified="2021-12-30T05:19:41.982Z" filename="christ_with_shopping_bags.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="interest_people.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.043Z" modified="2021-12-30T05:19:42.043Z" filename="interest_people.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="looting_soldier.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.107Z" modified="2021-12-30T05:19:42.107Z" filename="looting_soldier.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rat_couple.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.169Z" modified="2021-12-30T05:19:42.169Z" filename="rat_couple.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="gangsta_rat.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.23Z" modified="2021-12-30T05:19:42.23Z" filename="gangsta_rat.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="haring_dog.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.293Z" modified="2021-12-30T05:19:42.293Z" filename="haring_dog.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="love_you.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.355Z" modified="2021-12-30T05:19:42.355Z" filename="love_you.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bomb_hugger.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.424Z" modified="2021-12-30T05:19:42.424Z" filename="bomb_hugger.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="javelin_thrower.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.527Z" modified="2021-12-30T05:19:42.527Z" filename="javelin_thrower.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bomb_hugger_canvas.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.595Z" modified="2021-12-30T05:19:42.595Z" filename="bomb_hugger_canvas.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="seasons_greetings.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.656Z" modified="2021-12-30T05:19:42.656Z" filename="seasons_greetings.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dumbo.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.718Z" modified="2021-12-30T05:19:42.718Z" filename="dumbo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="love_is_in_the_air_cccp.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.78Z" modified="2021-12-30T05:19:42.78Z" filename="love_is_in_the_air_cccp.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="thug_bunny.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.879Z" modified="2021-12-30T05:19:42.879Z" filename="thug_bunny.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="love_answer.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.939Z" modified="2021-12-30T05:19:42.939Z" filename="love_answer.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ice_cream.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:42.999Z" modified="2021-12-30T05:19:42.999Z" filename="ice_cream.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="watchtower_swing.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.064Z" modified="2021-12-30T05:19:43.064Z" filename="watchtower_swing.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="child_soldier.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.124Z" modified="2021-12-30T05:19:43.124Z" filename="child_soldier.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="worthless_rat.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.184Z" modified="2021-12-30T05:19:43.184Z" filename="worthless_rat.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="drunk_angel.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.245Z" modified="2021-12-30T05:19:43.245Z" filename="drunk_angel.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="no_future.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.311Z" modified="2021-12-30T05:19:43.311Z" filename="no_future.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="applause.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.371Z" modified="2021-12-30T05:19:43.371Z" filename="applause.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="shave_kong.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.446Z" modified="2021-12-30T05:19:43.446Z" filename="shave_kong.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="i_want_change.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.507Z" modified="2021-12-30T05:19:43.507Z" filename="i_want_change.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="love_rat.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.573Z" modified="2021-12-30T05:19:43.573Z" filename="love_rat.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="seal.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.637Z" modified="2021-12-30T05:19:43.637Z" filename="seal.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cnd_soldiers.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.697Z" modified="2021-12-30T05:19:43.697Z" filename="cnd_soldiers.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="girl_rope.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.765Z" modified="2021-12-30T05:19:43.765Z" filename="girl_rope.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="man_hanging_banksy.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.828Z" modified="2021-12-30T05:19:43.828Z" filename="man_hanging_banksy.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="graffiti_is_a_crime.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.892Z" modified="2021-12-30T05:19:43.892Z" filename="graffiti_is_a_crime.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="napalm.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:19:43.955Z" modified="2021-12-30T05:19:43.955Z" filename="napalm.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

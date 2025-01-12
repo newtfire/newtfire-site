@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
-<table>
-<tr id="d2025-01-13">
+<table><tr id="d2025-01-13">
 <td><h4>M 01-13</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -16,7 +15,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-01-20">
+</table>
+<table><tr id="d2025-01-20">
 <td><h4>M 01-20</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -31,7 +31,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-01-27">
+</table>
+<table><tr id="d2025-01-27">
 <td><h4>M 01-27</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -46,7 +47,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-02-03">
+</table>
+<table><tr id="d2025-02-03">
 <td><h4>M 02-03</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -61,7 +63,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-02-10">
+</table>
+<table><tr id="d2025-02-10">
 <td><h4>M 02-10</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -76,7 +79,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-02-17">
+</table>
+<table><tr id="d2025-02-17">
 <td><h4>M 02-17</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -91,7 +95,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-02-24">
+</table>
+<table><tr id="d2025-02-24">
 <td><h4>M 02-24</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -106,7 +111,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-03-03">
+</table>
+<table><tr id="d2025-03-03">
 <td><h4>M 03-03</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -121,7 +127,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-03-10">
+</table>
+<table><tr id="d2025-03-10">
 <td><h4>M 03-10</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -136,7 +143,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-03-17">
+</table>
+<table><tr id="d2025-03-17">
 <td><h4>M 03-17</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -151,7 +159,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-03-24">
+</table>
+<table><tr id="d2025-03-24">
 <td><h4>M 03-24</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -166,7 +175,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-03-31">
+</table>
+<table><tr id="d2025-03-31">
 <td><h4>M 03-31</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -181,7 +191,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-04-07">
+</table>
+<table><tr id="d2025-04-07">
 <td><h4>M 04-07</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -196,7 +207,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-04-14">
+</table>
+<table><tr id="d2025-04-14">
 <td><h4>M 04-14</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -211,7 +223,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-04-21">
+</table>
+<table><tr id="d2025-04-21">
 <td><h4>M 04-21</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -226,7 +239,8 @@
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
 </tr>
-<tr id="d2025-04-28">
+</table>
+<table><tr id="d2025-04-28">
 <td><h4>M 04-28</h4></td>
 <td class="topic">...</td>
 <td class="doBeforeClass">...</td>
@@ -242,6 +256,7 @@
 <td class="doBeforeClass">...</td>
 </tr>
 </table>
+
     <table><tr><th><span class="h4">Finals Week: May 5 - 9</span></th>
             <th><span class="h4"><em>To Complete</em></span></th></tr>
         <tr id="d2023-05-07">

@@ -54,7 +54,7 @@
             <td>
                 <h4>M 01-20</h4>
             </td>
-            <td class="topic">...</td>
+            <td class="topic"><strong>Martin Luther King Day</strong>: No classes.</td>
             <td class="doBeforeClass">...</td>
         </tr>
         <tr id="d2025-01-22">
@@ -289,39 +289,10 @@
         </tr>
     </table>
     <table>
-        <tr>
-            <th id="Week9">Week 9</th>
-            <th>
-                <span class="h4">
-                    <em>Class topics</em>
-                </span>
-            </th>
-            <th>
-                <span class="h4">
-                    <em>Do before class</em>
-                </span>
-            </th>
-        </tr>
         <tr id="d2025-03-10">
-            <td>
-                <h4>M 03-10</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
-        <tr id="d2025-03-12">
-            <td>
-                <h4>W 03-12</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
-        </tr>
-        <tr id="d2025-03-14">
-            <td>
-                <h4>F 03-14</h4>
-            </td>
-            <td class="topic">...</td>
-            <td class="doBeforeClass">...</td>
+            <td><h4>Sun 3-09 - Sat 3-15</h4></td>
+            <td class="topic"><strong>Spring Break</strong></td>
+            <td class="doBeforeClass">Enjoy this week!</td>
         </tr>
     </table>
     <table>

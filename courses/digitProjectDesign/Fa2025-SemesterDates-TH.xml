@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <table>
+      <tr>
+         <th id="Week1">Week 1</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-08-26">
+         <td>
+            <h4>T 08-26</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-08-28">
+         <td>
+            <h4>H 08-28</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week2">Week 2</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-09-02">
+         <td>
+            <h4>T 09-02</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-09-04">
+         <td>
+            <h4>H 09-04</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week3">Week 3</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-09-09">
+         <td>
+            <h4>T 09-09</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-09-11">
+         <td>
+            <h4>H 09-11</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week4">Week 4</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-09-16">
+         <td>
+            <h4>T 09-16</h4>
+         </td>
+         <td class="topic"> <span class="smaller">Dr. B is attending the TEI Conference in Kraków
+               this week.</span></td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-09-18">
+         <td>
+            <h4>H 09-18</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week5">Week 5</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-09-23">
+         <td>
+            <h4>T 09-23</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-09-25">
+         <td>
+            <h4>H 09-25</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week6">Week 6</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-09-30">
+         <td>
+            <h4>T 09-30</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-10-02">
+         <td>
+            <h4>H 10-02</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week7">Week 7</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-10-07">
+         <td>
+            <h4>T 10-07</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-10-09">
+         <td>
+            <h4>H 10-09</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week8">Week 8</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-10-14">
+         <td>
+            <h4>T 10-14</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-10-16">
+         <td>
+            <h4>H 10-16</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week9">Week 9</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-10-21">
+         <td>
+            <h4>T 10-21</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-10-23">
+         <td>
+            <h4>H 10-23</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week10">Week 10</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-10-28">
+         <td>
+            <h4>T 10-28</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-10-30">
+         <td>
+            <h4>H 10-30</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week11">Week 11</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-11-04">
+         <td>
+            <h4>T 11-04</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-11-06">
+         <td>
+            <h4>H 11-06</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week12">Week 12</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-11-11">
+         <td>
+            <h4>T 11-11</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-11-13">
+         <td>
+            <h4>H 11-13</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week13">Week 13</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-11-18">
+         <td>
+            <h4>T 11-18</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-11-20">
+         <td>
+            <h4>H 11-20</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week14">Week 14</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-11-24">
+         <td>
+            <h4>Sun 11-23 – Sat 11-29</h4>
+         </td>
+         <td class="topic">
+            <strong>Thanksgiving Holiday</strong>
+         </td>
+         <td class="doBeforeClass">Have a peaceful and productive week!</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week15">Week 15</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-12-02">
+         <td>
+            <h4>T 12-02</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-12-04">
+         <td>
+            <h4>H 12-04</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week16">Week 16</th>
+         <th>
+            <span class="h4">
+               <em>Class topics</em>
+            </span>
+         </th>
+         <th>
+            <span class="h4">
+               <em>Do before class</em>
+            </span>
+         </th>
+      </tr>
+      <tr id="d2025-12-09">
+         <td>
+            <h4>T 12-09</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+      <tr id="d2025-12-11">
+         <td>
+            <h4>H 12-11</h4>
+         </td>
+         <td class="topic">...</td>
+         <td class="doBeforeClass">...</td>
+      </tr>
+   </table>
+   <table>
+      <tr>
+         <th id="Week17">Finals Week: 12/15 – 12/19</th>
+         <th>
+            <span class="h4">
+               <em>Due</em>
+            </span>
+         </th>
+      </tr>
+      <tr>
+         <td><h4>T 12-16</h4></td> Final project due by 11:59pm</tr>
+   </table>
+</xml>

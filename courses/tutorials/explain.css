@@ -167,3 +167,4 @@ img#elsinore-postcard{ width:40%; max-width:800px;}
 div.flex {display:flex;}
 img#comic{ width:80%; max-width:600px;}
 img#leaving-paris {width: 100%; max-width:800px;}
+span.hidden {font-size:.001pt; line-height:.001pt; color:#e6e6e6  }

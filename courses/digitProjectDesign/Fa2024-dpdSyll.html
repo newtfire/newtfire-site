@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Syllabus: Digital Project Design</title>
+      <meta name="Description" content="Supported by DIGIT at Penn State Erie, The Behrend College" />
+      <meta name="keywords" content="Digital Humanities, Syllabus, XML, TEI, XSLT, XQuery, Schematron, Relax NG, SVG, digital scholarship, digital edition, electronic edition, electronic text, humanities computing, electronic editing, Beshero-Bondar" />
+      <link rel="stylesheet" type="text/css" href="../syllsched.css" /><script type="text/javascript" src="../jumpingDateLinks.js">/**/</script></head>
+   <body>
+      <!--#include virtual="../top.html" -->
+      <h1><span class="banner">DIGIT 400: Digital Project Design</span></h1>
+      <div id="main">
+         <div id="courseInfo">
+            <p><strong>Fall 2024 Syllabus (Schedule)</strong>
+                Classes meet T H 3:05 - 4:20pm in Kochel 77.</p>
+            <h2>Read the <a href="index.html" target="_blank">Course Description</a></h2>
+             <p style="font-size:smaller; font-style:italic;">This contains a detailed explanation of course policies and the basis for grades.</p>
+              <a class="button" id="dateRef">Jump Down to the Schedule</a>
+                 <p style="font-size:smaller; font-style:italic;">The button jumps to the closest day to today's date. Review the schedule as we get
+                     started to get a sense of how this course will work on a daily basis.</p>
+             <h2>Tools and Resources</h2>
+             <p>Download and install the following software on your own personal computer(s) as we start the course. 
+                 These software tools are also available in our campus computing labs.
+             </p>
+             <ol>
+                 <li>Jetbrain’s Webstorm: code editor optimized for working in JavaScript web development, has free access for students.
+                 <ul>
+                     <li><a href="https://www.jetbrains.com/shop/eform/students">Set up a free Student account on JetBrains</a>, if you don’t have one already! 
+                         (You might have a free student account at Jetbrains set up already if you installed PyCharm in DIGIT 210.)</li>
+                     <li><a href="https://www.jetbrains.com/webstorm/download/">Download Webstorm for your system</a> and install it, following the standalone installation guide: <a href="https://www.jetbrains.com/help/webstorm/installation-guide.html#standalone">https://www.jetbrains.com/help/webstorm/installation-guide.html#standalone</a>.</li>
+                     <li>Please shout out in the #javascript channel of DIGIT-Coders Slack (see below) if/as you run into installation issues!</li>
+                 </ul>
+                 </li>
+                 <li><a href="https://www.oxygenxml.com/xml_editor.html" target="_blank">&lt;oXygen/&gt;</a>. 
+                     The DIGIT program has purchased a site license for this software, which
+                     is installed in Kochel 77 and the Lilley Library computers. The license also permits
+                     students enrolled in the
+                     course to install the software on their home computers (for course-related use
+                     only). When installing this on your own computers, <strong>you will need the
+                         license key</strong>, which we have posted on our course Announcements section of
+                     <a href="https://canvas.psu.edu" target="_blank">Canvas</a>.</li>
+                 <li>Zoom: <a href="https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version" target="_blank">Make sure your Zoom installation is up-to-date</a>, and you are ready to
+                     connect. (We will use Zoom when we need it for office/project meetings.)</li>
+                 <li>Slack:  <a href="https://slack.com/help/articles/218080037-Getting-started-for-new-members">https://slack.com/help/articles/218080037-Getting-started-for-new-members</a>). 
+                     Download and install the Slack chat client, configuring your account to use use your Penn State email address (the official address, which looks like xyz123@psu.edu, 
+                     and not an alias based on your name that you may have set up), so you can join our Slack workspace: DIGIT-coders. 
+                     When you receive an invitation to join this workspace you should accept.</li>
+                 <li>Be prepared to install other software as announced as we experiment with website infrastructures in this class</li>
+             </ol>
+             Resources for class:
+             <ul>
+                 <li><a href="https://newtfire.org" target="_blank">newtFire:</a> My collection of teaching resources and student projects.
+                     <ul>
+                         <li><a href="https://newtfire.org/courses/tutorials/" target="_blank">Explanatory Guides and Exercises: Complete List</a></li>
+                     </ul>
+                 </li>
+                 <li><a href="https://github.com/newtfire/digitProjectDesign-Hub" target="_blank">digitProjectDesign-Hub:
+                     https://github.com/newtfire/textEncoding-Hub</a> Class GitHub Repository and Issues Board
+                 </li>
+                 <li><a href="https://canvas.psu.edu/" target="_blank">Canvas:
+                     https://canvas.psu.edu</a> To submit homework assignments and exams, read private course announcements, access
+                     Zoom class meetings and video recordings. 
+                     <ul><li><a href="../tutorials/explainFileNames.html" target="_blank">File Conventions for Canvas Homework Assignments</a></li></ul>
+                 </li>
+                 
+                 <li>Rusty with coding? Don’t remember much from DIGIT 110 or 210? Don’t worry!  You will be getting lots of review in this course while learning new methods. Past students
+                     with very little coding background have designed projects (<a href="https://newtfire.org/courses/studentProjects.html" target="_blank">like these</a>) and even spoken about them at undergraduate conferences! 
+                     Our goal, as ever, is for you to learn by building and designing. 
+                 </li>
+                 
+             </ul>
+
+            </div>
+      <div id="schedule">
+          <table><tr><th id="Week1">Week 1</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-08-27">
+                  <td>
+                      <h4>T 08-27</h4>
+                  </td>
+                  <td class="topic"><ul><li>First Day! Welcome and introduction to the course.</li>
+                      <li>Overview of the kinds of projects (including Open Lab projects) that we’ll be working on and the first assignment on POUR principles.</li>
+                      <li>Jetbrains Webstorm installation check in K-77.</li>
+                      <li>Join the DIGIT 400 class Hypothes.is group (link posted in Canvas).</li>
+                          <li>Introduce the first assignment on POUR principles.</li>
+                     <li>Feature: <a href="https://www.youtube.com/watch?v=Xe1TZaElTAs">Clay Shirky on Love, Internet Style</a> on what lasts and matters in project design.</li></ul></td>
+                  <td class="doBeforeClass"></td>
+              </tr>
+              <tr id="d2024-08-29">
+                  <td>
+                      <h4>H 08-29</h4>
+                  </td>
+                  <td class="topic">POUR and user-experience (UX) design in-class discussion.</td>
+                  <td class="doBeforeClass">Read and annotate with Hypothes.is WebAIM’s <a href="https://webaim.org/articles/pour/">Constructing a POUR Website</a>. Review a past student project
+                      and post your notes in the Canvas discussion, for a past project website (yours or anothers). This is meant to be educational! We produce semester projects in a rush
+                      and they provide good starting points for review and new development! What could be done to make a site better conform to POUR principles?</td>
+              </tr>
+          </table>
+          <table><tr><th id="Week2">Week 2</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-09-03">
+                  <td>
+                      <h4>T 09-03</h4>
+                  </td>
+                  <td class="topic">Preparation for Open Lab Project: Workshop with Wireframing Technologies: Miro, Mural, and more</td>
+                  <td class="doBeforeClass">Discussion assignment previewing wireframing software</td>
+              </tr>
+              <tr id="d2024-09-05">
+                  <td>
+                      <h4>H 09-05</h4>
+                  </td>
+                  <td class="topic"><strong>Welcome to our Open Lab partners</strong>: Lauren Harrington, MaryJo Ingalls, and Stephanie Krepps from Erie Insurance
+                  visit the class and introduce the project.</td>
+                  <td class="doBeforeClass">...</td>
+              </tr>
+          </table>
+          <table><tr><th id="Week3">Week 3</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-09-10">
+                  <td>
+                      <h4>T 09-10</h4>
+                  </td>
+                  <td class="topic">Lauren Harrington returns for more detailed service design project launch. This begins Week 1 of our 5-week period.
+                      <span
+                      class="smaller">Dr. B is attending a University Senate meeting.</span></td>
+                  <td class="doBeforeClass">TBD: Site Redesign planning / Career Prep / Open Lab session</td>
+              </tr>
+              <tr id="d2024-09-12">
+                  <td>
+                      <h4>H 09-12</h4>
+                  </td>
+                  <td class="topic">Open Lab prep session for Research unit with the DIGIT 100 class next week</td>
+                  <td class="doBeforeClass">Open Lab  Project Milestone 1</td>
+              </tr>
+          </table>
+          <table><tr><th id="Week4">Week 4</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-09-17">
+                  <td>
+                      <h4>T 09-17</h4>
+                  </td>
+                  <td class="topic"><ul><li><strong>Rebecca Maguda from of Behrend Career Services</strong> visits: presentation/preparation for the Career Fair.</li>
+                  <li>Open Lab project: Preparation of service design research questions for the DIGIT 100 class. </li>
+                  </ul></td>
+                  <td class="doBeforeClass">Résumé prep assignment, part 1</td>
+              </tr>
+              <tr id="d2024-09-19">
+                  <td>
+                      <h4>H 09-19</h4>
+                  </td>
+                  <td class="topic">Career Resume Workshop: stage 2</td>
+                  <td class="doBeforeClass">
+                      <ul><li>Open Lab  Project Milestone 2: working with the DIGIT 100 class</li>
+                          <li>Résumé prep assignment, part 2: Prepare a resumé for review: paper and digital, paper linked to digital</li></ul></td>
+              </tr>
+          </table>
+          <table><tr><th id="Week5">Week 5</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-09-24">
+                  <td>
+                      <h4>T 09-24</h4>
+                  </td>
+                  <td class="topic"><ul><li><strong>Julie Gardner, WebFX recruiter</strong> presents and holds Q and A</li>
+                  <li>Career Fair preparation</li></ul></td>
+                  <td class="doBeforeClass">...</td>
+              </tr>
+              <tr id="d2024-09-26">
+                  <td>
+                      <h4>H 09-26</h4>
+                  </td>
+                  <td class="topic"><strong>Class attends Fall Career and Internship Fair</strong></td>
+                  <td class="doBeforeClass">...</td>
+              </tr>
+          </table>
+          <table><tr><th id="Week6">Week 6</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-10-01">
+                  <td>
+                      <h4>T 10-01</h4>
+                  </td>
+                  <td class="topic">Open Lab Project Development</td>
+                  <td class="doBeforeClass">Open Lab  Project Milestone 3</td>
+              </tr>
+              <tr id="d2024-10-03">
+                  <td>
+                      <h4>H 10-03</h4>
+                  </td>
+                  <td class="topic">Open Lab Project Development</td>
+                  <td class="doBeforeClass"><strong>Open Lab Project Milestone</strong></td>
+              </tr>
+          </table>
+          <table><tr><th id="Week7">Week 7</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-10-08">
+                  <td>
+                      <h4>T 10-08</h4>
+                  </td>
+                  <td class="topic">Erie Insurance team returns to review and offer guidance on Open Lab Projects underway, with Prof. Hartung.
+                      <span
+                      class="smaller">Dr. B is attending the TEI Conference in Buenos
+                      Aires this week</span></td>
+                  <td class="doBeforeClass">Open Lab project develpment</td>
+              </tr>
+              <tr id="d2024-10-10">
+                  <td>
+                      <h4>H 10-10</h4>
+                  </td>
+                  <td class="topic">Open Lab project: Preparation to present next week</td>
+                  <td class="doBeforeClass"><strong>Open Lab Project Milestone 4</strong></td>
+              </tr>
+          </table>
+          <table><tr><th id="Week8">Week 8</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-10-15">
+                  <td>
+                      <h4>T 10-15</h4>
+                  </td>
+                  <td class="topic"><strong>Open Lab Milestone 5: Presentation day 1</strong> for Dr. B and Open Lab Erie Insurance representatives</td>
+                  <td class="doBeforeClass">Teams prepare presentations of Open Lab projects</td>
+              </tr>
+              <tr id="d2024-10-17">
+                  <td>
+                      <h4>H 10-17</h4>
+                  </td>
+                  <td class="topic"><strong>Open Lab Milestone 5: Presentation day 2</strong> for Dr. B and Open Lab Erie Insurance representatives
+                      </td>
+                  <td class="doBeforeClass">Teams prepare presentations of Open Lab projects.
+                      
+                     </td>
+              </tr>
+          </table>
+          <table><tr><th id="Week9">Week 9</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-10-22">
+                  <td>
+                      <h4>T 10-22</h4>
+                  </td>
+                  <td class="topic"><ul><li>Introduce next design project unit: JavaScript with Node.js and Eleventy. Set up Jetbrains Webstorm.</li>
+                      
+                     <li>Orientation to <q>vanilla</q> JavaScript. <a href="../tutorials/js-practice/Intro/JavaScriptIntro.html">Newtfire introductory examples</a>: Small JS files that work with HTML and CSS to control simple user interactions.</li>
+                     <li> Event listeners and functions. How to associate with HTML.</li></ul></td>
+                  <td class="doBeforeClass"> <ul>
+                      <li><strong>Completion of Open Lab Projects</strong> for final evaluation</li>
+                      <li>Configure Jetbrains Webstorm</li>
+                  </ul></td>
+              </tr>
+              <tr id="d2024-10-24">
+                  <td>
+                      <h4>H 10-24</h4>
+                  </td>
+                  <td class="topic">Accessing HTML elements in the DOM. <code>for</code> and <code>this</code> in JavaScript. classList toggle</td>
+                  <td class="doBeforeClass"><a href="https://newtfire.org/courses/tutorials/JavaScriptExercise1.html">JavaScript Exercise 1</a></td>
+              </tr>
+          </table>
+          <table><tr><th id="Week10">Week 10</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-10-29">
+                  <td>
+                      <h4>T 10-29</h4>
+                  </td>
+                  <td class="topic">JavaScript interactions with SVG</td>
+                  <td class="doBeforeClass"><ul><li>Read Obdurodon’s <a href="http://dh.obdurodon.org/javascript_piece-by-piece.xhtml">JavaScript Piece by Piece</a>.</li>
+                      <li>JavaScript Exercise 2</li>
+                  </ul></td>
+              </tr>
+              <tr id="d2024-10-31">
+                  <td>
+                      <h4>H 10-31</h4>
+                  </td>
+                  <td class="topic">SVG, JS, and CSS. Introducing <a href="https://newtfire.github.io/newTutorials/animatedIcon.html">SVG Animations tutorial</a></td>
+                  <td class="doBeforeClass">JavaScript Exercise 3: with SVG and CSS</td>
+              </tr>
+          </table>
+          <table><tr><th id="Week11">Week 11</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-11-05">
+                  <td>
+                      <h4>T 11-05</h4>
+                  </td>
+                  <td class="topic"><strong>Election Day: Asynchronous Class</strong> <br/>
+                      Node.js and things you can do with JavaScript libraries</td>
+                  <td class="doBeforeClass"></td>
+              </tr>
+              <tr id="d2024-11-07">
+                  <td>
+                      <h4>H 11-07</h4>
+                  </td>
+                  <td class="topic">Node orientation project: Node with Three.JS for 3D animations in the browser</td>
+                  <td class="doBeforeClass">Mia's SVG Animation Exercise: Apply <a href="https://newtfire.github.io/newTutorials/animatedIcon.html">SVG Animations tutorial</a> to your own designs<ul>
+                      
+                      <li>Start Mia's <a href="https://newtfire.github.io/newTutorials/threeJS/threeJS.html">Three.JS tutorial</a></li>
+                      <li>Resource: <a href="https://nodejs.dev/en/learn/">Node.JS documentation</a></li>
+                      
+                  </ul></td>
+              </tr>
+          </table>
+          <table><tr><th id="Week12">Week 12</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-11-12">
+                  <td>
+                      <h4>T 11-12</h4>
+                  </td>
+                  <td class="topic">Introduce React/Tic Tac Toe tutorial(?) or go straight to Eleventy: options for adapting existing projects</td>
+                  <td class="doBeforeClass"><strong>Complete Three.JS project</strong></td>
+              </tr>
+              <tr id="d2024-11-14">
+                  <td>
+                      <h4>H 11-14</h4>
+                  </td>
+                  <td class="topic"><ul><li>How to write web components, working with React and Eleventy</li>
+                  <li>Project redesign options</li>
+                  </ul></td>
+                  <td class="doBeforeClass">[?] Work through <a href="https://react.dev/learn">React.JS Quick Start</a> and <a href="https://react.dev/learn/tutorial-tic-tac-toe">Tic-Tac-Toe</a> tutorials</td>
+              </tr>
+          </table>
+          <table><tr><th id="Week13">Week 13</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-11-19">
+                  <td>
+                      <h4>T 11-19</h4>
+                  </td>
+                  <td class="topic"><span
+                      class="smaller">Dr. B is attending a University Senate meeting.</span></td>
+                  <td class="doBeforeClass">Web components / Eleventy structural prep assignment due</td>
+              </tr>
+              <tr id="d2024-11-21">
+                  <td>
+                      <h4>H 11-21</h4>
+                  </td>
+                  <td class="topic">Experimental development workflow: Pulling / processing data/images. Packaging data for React components.</td>
+                  <td class="doBeforeClass">Data exploration and packaging assignment</td>
+              </tr>
+          </table>
+          <table>
+              <tr>
+                  <th id="Week14">Week 14</th>
+                  <th>
+                      <span class="h4">
+                          <em>Class topics</em>
+                      </span>
+                  </th>
+                  <th>
+                      <span class="h4">
+                          <em>Do before class</em>
+                      </span>
+                  </th>
+              </tr>
+              <tr id="d2024-11-26">
+                  <td>
+                      <h4>Sun 11-24 to Sat 11-30</h4>
+                  </td>
+                  <td class="topic"><strong>Thanksgiving Holiday</strong></td>
+                  <td class="doBeforeClass">Have a peaceful and productive week!</td>
+              </tr>
+              
+          </table>
+          <table><tr><th id="Week15">Week 15</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-12-03">
+                  <td>
+                      <h4>T 12-03</h4>
+                  </td>
+                  <td class="topic">Project development debugging</td>
+                  <td class="doBeforeClass"><strong>Project Milestone: JS Frameworks</strong></td>
+              </tr>
+              <tr id="d2024-12-05">
+                  <td>
+                      <h4>H 12-05</h4>
+                  </td>
+                  <td class="topic">Interactivity / navigation / search features for project sites</td>
+                  <td class="doBeforeClass"><strong>Project sprint milestone</strong></td>
+              </tr>
+          </table>
+          <table><tr><th id="Week16">Week 16</th><th><span class="h4"><em>Class topics</em></span></th><th><span class="h4"><em>Do before class</em></span></th></tr>
+              <tr id="d2024-12-10">
+                  <td>
+                      <h4>T 12-10</h4>
+                  </td>
+                  <td class="topic">Document the project workflow. Accessible Design check. Preparing to present the revamped project!</td>
+                  <td class="doBeforeClass">...</td>
+              </tr>
+              <tr id="d2024-12-12">
+                  <td>
+                      <h4>H 12-12</h4>
+                  </td>
+                  <td class="topic">Last Day! Prep for DIGIT Works Presentations (slated December 13)</td>
+                  <td class="doBeforeClass">...</td>
+              </tr>
+          </table>
+          <table>
+              <tr>
+                  <td><h4>H 12-19</h4></td>
+                  <td><strong>Final assignment: due by 11:59pm</strong></td>
+              </tr>
+          </table>
+</div>
+         </div>
+      <hr />
+      </body>
+   </html>

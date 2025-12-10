@@ -1,5 +1,4 @@
-<!DOCTYPE html
-  SYSTEM "about:legacy-compat">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -35,10 +34,10 @@
                 indicate which of its elements we want to <dfn>include</dfn> (throwing out all the others) or
                 which ones we want to <dfn>exclude</dfn> (keeping the rest). TEI ODD XML can
                 also express specific customizations, to lay out which attribute values you want to
-                use in your project customization for, say, the attribute <code>xml:id</code> on the
+                use in your project customization for, say, the attribute <code>@xml:id</code> on the
                     <code>handNote</code> element.</p>
             <p><a
-                    href="https://github.com/newtfire/textEncoding-Hub/blob/master/Class-Examples/TEI-ODD-Examples/Hamilton_ODD/hamiltonODD.odd"
+                    href="https://github.com/newtfire/textEncoding-Hub/blob/master/Class-Examples/TEI/hamilton-project/hamiltonODD.odd"
                     >Here I have linked an example of an ODD customization</a> made by students working on <a
                     href="https://hamilton.newtfire.org">a project to encode Hamilton the
                     Musical</a>, with lots of customized attribute values mostly for providing
@@ -99,15 +98,28 @@
             </figure>-->
         </section>
         <section title="ODD-customization">
-            <p>To explore how to create an ODD, let's work with one of the TEI files you have been coding so far. You may also opt to work with <a href="https://github.com/newtfire/textEncoding-Hub/tree/master/Class-Examples/TEI-XML">
-                our class examples for TEI posted in the textEncoding-Hub</a>. </p>
-            <p>A good place to begin work on an ODD customizations is a tool designed for TEI called
+            <p>To explore how to create an ODD, it helps to have a TEI file with something to customize for your project, like for example a set of attribute values. 
+               Try creating a TEI file for your project where you plan to use some specialized elements, with attributes where you store some specific values custom to your project. Here are 
+               some suggestions:</p>
+               
+              <ul><li> For example, if your project’s research question includes
+               tracking some interesting use of language, you could plan some linguistics markup: Encode and categorize a set of
+               words using the <code>w</code> element and working on it with <code>@ana</code> attributes for categorizing the kind of word, or using the <code>@pos</code>
+                to mark its part of speech (see some <a href="https://tei-c.org/release/doc/tei-p5-doc/en/html/AI.html#AILAGD">examples/discussion in the TEI Guidelines Analytic Mechanisms chapter</a>.</li>
+               <li>Or you could try marking <code>placeName</code>, <code>orgName</code>, or <code>persName</code> elements, and setting up some <q>in-house</q> short project identifiers for main characters, like this
+                   <a href="https://github.com/newtfire/textEncoding-Hub/blob/master/Class-Examples/TEI/dandandan-srcplay-TEI.xml">TEI example from the Dandandan project team</a>.</li>
+                  <li>Or you could be classifying something else with your TEI markup. For example, you could categorize something with a specific element that can take a combination of <code>@type</code>
+                  and (optional) <code>@subtype</code> attributes, and your project might want to customize what values you want to use for type and/or subtype attributes. For example, you could
+                      be categorizing articles in an historic issue of Vogue magazine as <code>type="politics"</code> or <code>type="fashionTips"</code>.</li>
+              </ul>
+            
+            <p><strong>A good place to begin work on an ODD customization is a tool designed for TEI called
                 Roma, available at <a href="https://romabeta.tei-c.org/"
-                    >https://romabeta.tei-c.org/</a>. This is where we created our starter ODD for
+                    >https://romabeta.tei-c.org/</a></strong>. This is where we created our starter ODD for
                 class, which I downloaded and <a
-                    href="https://github.com/newtfire/textEncoding-Hub/tree/master/Class-Examples/TEI-ODD-Examples/Behrend-Starter-ODD/"
+                    href="https://github.com/newtfire/textEncoding-Hub/blob/master/Class-Examples/TEI/TEI-STARTER-ODD.odd"
                     >pushed to our textEncoding-Hub repo, and stored in Class Examples >>
-                    TEI-ODD-Examples</a>. For this exercise, you may begin with this ODD file and
+                    TEI</a>. For this exercise, you may begin with this ODD file and
                 continue to customize it, or you may start from scratch exploring how to include and
                 exclude elements in Roma Beta. My assignment for you is simply to refine what we
                 started, to try the following:</p>

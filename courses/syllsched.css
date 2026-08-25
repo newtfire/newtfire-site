@@ -11,6 +11,14 @@ border-bottom-right-radius: 45px;}
 div#bannerImage {float:left;}
 div#bannerImage img {width:150px}
 
+body#digit110 div#top {background-color:#ffd4bf}
+body#digit110 th {background-color:#ffd4bf}
+body#digit110 td:nth-child(1) {background-color:#ffd4bf}
+
+body#digit400 div#top {background-color:#c9e9c3}
+body#digit400 th {background-color:#c9e9c3}
+body#digit400 td:nth-child(1) {background-color:#c9e9c3}
+
 div#title{font-size:30px; font-weight:bold; color:#FF0000; }
 div#title a { text-decoration:none;}
 
